@@ -1,0 +1,444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 8, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：家族がなぜこんな事をしてしまったのか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 11, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：その経緯はディザスティアの丘での\n"
+"話を聞いてわかった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 15, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：でもわからない。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 18, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：どうしてこんな事になってしまったの！？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 21, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：わかんない！　\\|わかりたくない！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 24, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：星を殺そうとする理由なんて、\n"
+"わかりたくなんかないよ！"
+msgstr ""
+
+#. ID 5, Page 1, Line 29, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：……。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 34, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：私はディザスティアとして、\\|\n"
+"たくさんの人々を殺してしまった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 38, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：だから、たくさんの人々が死ぬところを\n"
+"もう見たくなかった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 42, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：それどころかこの星が死んでしまうなんて、\\|\n"
+"私は絶対に見過ごしておけなかった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 46, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：みんなも悲しそうな顔をしていたし、\n"
+"きっと本当はこんな事したくないはず。"
+msgstr ""
+
+#. ID 5, Page 1, Line 50, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：そう信じて私は、\\.\\.家族のみんなを\n"
+"止めることを決意した。"
+msgstr ""
+
+#. ID 5, Page 1, Line 56, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：\\s[3]でも、\\|ダメだった。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 59, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：もう、\\.\\.愛していたはずの私の声すら\n"
+"届いていなかった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 63, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：お父さんとお母さんは、最初に私に謝った。"
+msgstr ""
+
+#. ID 5, Page 1, Line 66, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：「産んでしまって、ごめんなさい」って。"
+msgstr ""
+
+#. ID 5, Page 1, Line 69, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：聞いてて何も感じなかった。\n"
+"何となくそう言うだろうと思っていた。"
+msgstr ""
+
+#. ID 5, Page 1, Line 73, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：「始まりを否定せよ」という言葉のとおりに\n"
+"始まりを否定しただけなんだから。"
+msgstr ""
+
+#. ID 5, Page 1, Line 77, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：私の人生の始まりを。"
+msgstr ""
+
+#. ID 5, Page 1, Line 81, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：次に出てきたのは\n"
+"「苦しかったでしょ？辛かったでしょ？」という言葉。"
+msgstr ""
+
+#. ID 5, Page 1, Line 85, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：そして最後には、\n"
+"「この世界を終わりにしよう。」と。"
+msgstr ""
+
+#. ID 5, Page 1, Line 89, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：私の声はもう聞こえない。\n"
+"家族をもう止める事は出来ない。"
+msgstr ""
+
+#. ID 5, Page 1, Line 93, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：私は,\\|絶望した。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 96, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：そして、\\.\\.絶望の中で思い悩んでいるうちに、\n"
+"私は思ってしまった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 100, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：\\s[3]「こんな世界、\\|どうにでもなってしまえ。」\n"
+"と。"
+msgstr ""
+
+#. ID 5, Page 1, Line 111, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：こうして私の中にディザスティアが、\\|\n"
+"星を殺そうとする感情が生まれた。"
+msgstr ""
+
+#. ID 5, Page 1, Line 115, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：私はすぐに気を取り直して、\n"
+"迷いを振り払った。"
+msgstr ""
+
+#. ID 5, Page 1, Line 119, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：でも、\\.\\.私の中のディザスティアは、\n"
+"消える事はなかった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 124, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：それが今の私の状態。"
+msgstr ""
+
+#. ID 5, Page 1, Line 127, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：そして私の中にある負のエネルギーこそ、\\|\n"
+"この星のために駆逐されなければならない存在。"
+msgstr ""
+
+#. ID 5, Page 1, Line 131, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：\\s[2]第四の、\\|ディザスティア。"
+msgstr ""
+
+#. ID 5, Page 1, Line 134, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：今はディザスティアの力が\n"
+"外に出ないように押さえ込んいでる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 138, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：でもディザスティアの力はとても強い。"
+msgstr ""
+
+#. ID 5, Page 1, Line 141, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：放っておけば、\\.\\.確実にこの星を直接的に\n"
+"破壊する要因となってしまう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 150, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：詰まる所は、\\.\\.\\.私達に貴方を\n"
+"倒してほしいという事ね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 154, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：本当にいいのか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 157, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：うん。\\|　覚悟は出来ている。"
+msgstr ""
+
+#. ID 5, Page 1, Line 160, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：ランサードさんも\n"
+"この一連の戦いが終わったら…"
+msgstr ""
+
+#. ID 5, Page 1, Line 164, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：私達家族のことはもう気にかけないで、\\|\n"
+"自分の人生を歩んでいって。"
+msgstr ""
+
+#. ID 5, Page 1, Line 168, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：そうか、\\.\\.わかった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 172, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：そういえば、\\|もうそろそろ\n"
+"御前の16歳の誕生日だな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 176, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：祝ってくれるの？"
+msgstr ""
+
+#. ID 5, Page 1, Line 179, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：ああ。\\.\\.一足早いけど\n"
+"盛大な誕生パーティーだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 183, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：じゃあ始めましょう、\\|パーティーを。"
+msgstr ""
+
+#. ID 5, Page 1, Line 186, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：ああ。\\|\\.\\.こっちはいつでも準備ＯＫだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 190, Pos (4,0)
+msgid ""
+"\n"
+"\n"
+"アイシャ：\\s[3]じゃあ、\\|いくよ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 12, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"往くぞ！！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 30, Pos (0,0)
+msgid ""
+"アイシャ：\n"
+"みんな、\\|有難う。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 32, Pos (0,0)
+msgid ""
+"アイシャ：\n"
+"それだけの強さがあれば、お兄ちゃんも、\n"
+"エルもきっと止められるはず。"
+msgstr ""
+
+#. ID 10, Page 3, Line 35, Pos (0,0)
+msgid ""
+"アイシャ：\n"
+"そうすればあと少しで、この星は救われる…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 40, Pos (0,0)
+msgid ""
+"アイシャ：\n"
+"お願い、\\|みんな。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 42, Pos (0,0)
+msgid ""
+"アイシャ：\n"
+"人がたくさん死ぬのは、\\|もう見たくないから。"
+msgstr ""
+
+#. ID 10, Page 3, Line 47, Pos (0,0)
+msgid ""
+"アイシャ：\n"
+"\\s[3]さようなら、\\|ランサードさん…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 52, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\\s[3]…ああ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 54, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\\s[3]さようなら、\\|アイシャ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 68, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"やれやれ…。\\.\\.\n"
+"\"星を救って\"ね……。"
+msgstr ""
+
+#. ID 10, Page 3, Line 71, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"言われなくたって分かってるわ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 73, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それが私の使命なんだから。"
+msgstr ""
+
+#. ID 10, Page 3, Line 78, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう、あと少しなのよ……。"
+msgstr ""
+
+#. ID 10, Page 3, Line 80, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\s[3]待ってなさい、ケイン、\\.\\.そしてエル…！\\|\\.\\.\\^"
+msgstr ""
+

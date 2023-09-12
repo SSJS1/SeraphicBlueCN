@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 4, Pos (11,6)
+msgid ""
+"ニクソン：\n"
+"御老人にこんな事言うのも何なのですが…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 6, Pos (11,6)
+msgid ""
+"ニクソン：\n"
+"大分鬱陶しくなってきました。\\.\\.\n"
+"好い加減に退場して欲しいものですね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 13, Pos (11,6)
+msgid ""
+"ニクソン：\n"
+"腐っても牧師ですから。\n"
+"眼の前で死に逝った人達の魂を蔑ろにする事は\n"
+"出来ません。"
+msgstr ""
+
+#. ID 6, Page 1, Line 17, Pos (11,6)
+msgid ""
+"ニクソン：\n"
+"力の限り戦い抜き、\n"
+"彼らの魂を弔う心算です。"
+msgstr ""
+
+#. ID 10, Page 1, Line 4, Pos (7,7)
+msgid ""
+"ヤンシー：\n"
+"ラージュに突入すれば、\n"
+"きっと今よりも更に激しい戦いになる筈。"
+msgstr ""
+
+#. ID 10, Page 1, Line 7, Pos (7,7)
+msgid ""
+"ヤンシー：\n"
+"この先に勢いを付ける為にも、\n"
+"此処では快勝を収めたいものね。"
+msgstr ""
+
+#. ID 10, Page 1, Line 14, Pos (7,7)
+msgid ""
+"ヤンシー：\n"
+"ドリス、心なしか\n"
+"前よりも生き生きしてるわよね。"
+msgstr ""
+
+#. ID 11, Page 1, Line 4, Pos (7,8)
+msgid ""
+"ドリス：\n"
+"ワタシ、\\.\\.負けないから…！\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 6, Pos (7,8)
+msgid ""
+"ドリス：\n"
+"ゼッタイに…！\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 12, Pos (7,8)
+msgid ""
+"ドリス：\n"
+"カゼがとってもキモチイイよ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 14, Pos (7,8)
+msgid ""
+"ドリス：\n"
+"どんなコトがあっても、\n"
+"みんな吹き飛んじゃうくらい。"
+msgstr ""
+

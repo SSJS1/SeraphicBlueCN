@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 1, Line 3, Pos (19,13)
+msgid ""
+"男性：\n"
+"この水路には稀に死体が浮く。\n"
+"大体はケイオスで出来上がった死体だ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 6, Pos (19,13)
+msgid ""
+"男性：\n"
+"この場合往々にして死ぬ側もバカだが、\n"
+"真にバカなのはその死体を水路に浮かべる奴。"
+msgstr ""
+
+#. ID 14, Page 1, Line 9, Pos (19,13)
+msgid ""
+"男性：\n"
+"此処ではケイオスの厄介事を表町に持ち込まないという\n"
+"ケイオス住人と保安局との間の暗黙の規約がある。"
+msgstr ""
+
+#. ID 14, Page 1, Line 12, Pos (19,13)
+msgid ""
+"男性：\n"
+"故にそれを破った者は…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 4, Pos (17,9)
+msgid ""
+"天使男：\n"
+"あ、あの……。　お名前、聞かせて頂けますか？"
+msgstr ""
+
+#. ID 15, Page 1, Line 13, Pos (17,9)
+msgid ""
+"天使男：\n"
+"ですよねぇ！\n"
+"やっぱりコスプレって胸がワクワクしますよね！"
+msgstr ""
+
+#. ID 15, Page 1, Line 22, Pos (17,9)
+msgid ""
+"天使男：\n"
+"あの……。\n"
+"良ければ、これからもずっと付き合って下さいッ！"
+msgstr ""
+
+#. ID 16, Page 1, Line 4, Pos (18,9)
+msgid ""
+"天使女：\n"
+"ええ、もし良ければ、貴方からも聞かせて？"
+msgstr ""
+
+#. ID 16, Page 1, Line 13, Pos (18,9)
+msgid ""
+"天使女：\n"
+"ふふっ。\\.\\.\\.\n"
+"やっぱり私は、こういった事が好きなのよ。\n"
+"なんていうか、コスプレこそ我が人生！みたいな。"
+msgstr ""
+
+#. ID 16, Page 1, Line 23, Pos (18,9)
+msgid ""
+"天使女：\n"
+"えっ！？\\.\\.\\.\n"
+"私なんかで良いの？\n"
+"そんな、貴方なんて私には勿体無いわよ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 4, Pos (10,9)
+msgid ""
+"イーヴル男：\n"
+"さっき、この格好で歩いてたら、\n"
+"保安官に襲われて殺されそうになりました。"
+msgstr ""
+
+#. ID 17, Page 1, Line 7, Pos (10,9)
+msgid ""
+"イーヴル男：\n"
+"で、保安官の手が及ばないケイオスも怖いんで、\n"
+"泣く泣くここで立ちんぼです。"
+msgstr ""
+
+#. ID 17, Page 1, Line 17, Pos (10,9)
+msgid ""
+"ルシファー男：\n"
+"何だか、あそこにいる天使のカップルがアツいんで、\n"
+"その雰囲気をめっちゃ避けてます。"
+msgstr ""
+
+#. ID 17, Page 1, Line 20, Pos (10,9)
+msgid ""
+"ルシファー男：\n"
+"人生４０年。\n"
+"この方彼女なんて持った事なんて無いのに…！"
+msgstr ""
+
+#. ID 17, Page 1, Line 29, Pos (10,9)
+msgid ""
+"ルシファー男：\n"
+"とうとう婚約ですよ。お向かいに居た二人。\n"
+"はぁ～…、アツいですねぇ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 32, Pos (10,9)
+msgid ""
+"ルシファー男：\n"
+"本当に、彼女が居ない自分が悲しくなってきます。\n"
+"自殺ツアーに申し込もうかって本気で思ってたり。"
+msgstr ""
+

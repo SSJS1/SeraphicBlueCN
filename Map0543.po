@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 37, Page 1, Line 6, Pos (15,27)
+msgid ""
+"レイク：\n"
+"あれは…！\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 42, Pos (15,27)
+msgid ""
+"女性：\n"
+"\\S[2]お願い…！ \\|助けてェ…！\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 44, Pos (15,27)
+msgid ""
+"フェジテ兵(上)：\n"
+"騒いだって誰も助けに来やしねえよ。"
+msgstr ""
+
+#. ID 37, Page 1, Line 46, Pos (15,27)
+msgid ""
+"フェジテ兵(下)：\n"
+"こちとら男ばっかの生活で溜まってんだ。\\|なぁ？"
+msgstr ""
+
+#. ID 37, Page 1, Line 48, Pos (15,27)
+msgid ""
+"フェジテ兵(上)：\n"
+"おうよ。\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 50, Pos (15,27)
+msgid ""
+"フェジテ兵(上)：\n"
+"パーソンの女＜スケ＞もセラパーソンの女も、\n"
+"身体は同じオンナだ。"
+msgstr ""
+
+#. ID 37, Page 1, Line 53, Pos (15,27)
+msgid ""
+"フェジテ兵(上)：\n"
+"犯らずにいられるかってんだ！"
+msgstr ""
+
+#. ID 37, Page 1, Line 55, Pos (15,27)
+msgid ""
+"女性：\n"
+"\\S[2]厭ぁ…！\\| やめてェ…！\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 57, Pos (15,27)
+msgid ""
+"フェジテ兵(下)：\n"
+"そう言うなって。\\.\\.\n"
+"満足出来たら殺さないでおいてやるぜ？"
+msgstr ""
+
+#. ID 37, Page 1, Line 60, Pos (15,27)
+msgid ""
+"フェジテ兵(下)：\n"
+"無理矢理犯られて殺されるか、\\|\n"
+"自分でアソコ広げて生き延びるか。"
+msgstr ""
+
+#. ID 37, Page 1, Line 63, Pos (15,27)
+msgid ""
+"フェジテ兵(下)：\n"
+"オラ！ \\.\\.さっさと選べよ！\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 65, Pos (15,27)
+msgid ""
+"女性：\n"
+"\\S[2]あぁぁ…！\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 74, Pos (15,27)
+msgid ""
+"レイク：\n"
+"おい。\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 79, Pos (15,27)
+msgid ""
+"フェジテ兵(上)：\n"
+"ああ？ \\|何だテメェは！\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 81, Pos (15,27)
+msgid ""
+"レイク：\n"
+"そんなに溜まってるんなら、\n"
+"眼の前に相手が居るだろうが。"
+msgstr ""
+
+#. ID 37, Page 1, Line 84, Pos (15,27)
+msgid ""
+"レイク：\n"
+"二人で仲良くアナルの開発でもしてろ。"
+msgstr ""
+
+#. ID 37, Page 1, Line 86, Pos (15,27)
+msgid ""
+"レイク：\n"
+"感染症には気を付けな。"
+msgstr ""
+
+#. ID 37, Page 1, Line 88, Pos (15,27)
+msgid ""
+"フェジテ兵(下)：\n"
+"んだコラァ!?\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 90, Pos (15,27)
+msgid ""
+"フェジテ兵(上)：\n"
+"ブッ殺す！\\|\\^"
+msgstr ""
+
+#. ID 37, Page 2, Line 11, Pos (15,27)
+msgid ""
+"レイク：\n"
+"こんな所、碌なもんじゃない。\\.\\.\n"
+"肉塊にされない内に早く逃げな。"
+msgstr ""
+
+#. ID 37, Page 2, Line 14, Pos (15,27)
+msgid ""
+"女性：\n"
+"はい。\\.有難うございました。"
+msgstr ""
+
+#. ID 37, Page 2, Line 21, Pos (15,27)
+msgid ""
+"レイク：\n"
+"パーソンは家畜ってか？\\|\n"
+"モーガンの受け売りにしちゃ笑えねえな。"
+msgstr ""
+
+#. ID 37, Page 2, Line 24, Pos (15,27)
+msgid ""
+"レイク：\n"
+"ならテメエらは家畜以下のクズ野郎だ。\\|\n"
+"さっさと死んでろ。"
+msgstr ""
+
+#. ID 37, Page 2, Line 31, Pos (15,27)
+msgid ""
+"女性：\n"
+"あの…。\\|\\^"
+msgstr ""
+
+#. ID 37, Page 2, Line 33, Pos (15,27)
+msgid ""
+"レイク：\n"
+"ああ、\\.\\.大丈夫か？\\|\\^"
+msgstr ""
+
+#. ID 37, Page 2, Line 35, Pos (15,27)
+msgid ""
+"レイク：\n"
+"こんな所、碌なもんじゃない。\\|\n"
+"肉塊にされない内に早く逃げな。"
+msgstr ""
+
+#. ID 37, Page 2, Line 38, Pos (15,27)
+msgid ""
+"女性：\n"
+"はい。\\.\\.有難うございました。"
+msgstr ""
+

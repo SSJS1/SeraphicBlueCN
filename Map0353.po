@@ -1,0 +1,529 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (9,4)
+msgid ""
+"ガードマン：\n"
+"会長は誰とも御会いになる心算は無いとの事。\n"
+"悪いが引き取って呉れ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 3, Pos (9,4)
+msgid ""
+"ガードマン：\n"
+"エイブラムの資産は全て政府が没収した。\n"
+"許可無く中に入る事は許されんぞ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"何者だ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 9, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"オーグのリーダー、ユアン･オースティンだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"エイブラム氏への面会を希望する。"
+msgstr ""
+
+#. ID 10, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"オーグ…？ \\|まさかあのオーグか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"会長に会って如何する気だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"誰も公にはしてないが、\n"
+"六年の祝祭者に関する嫌疑が向けられてる。"
+msgstr ""
+
+#. ID 10, Page 1, Line 23, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"まさか感付いてない訳じゃないだろう？"
+msgstr ""
+
+#. ID 10, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"この件に関してエイブラムにインタビューしたい。"
+msgstr ""
+
+#. ID 10, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"冗談言うな。\n"
+"ガイアキャンサーの掃除屋の仕事じゃないだろう。"
+msgstr ""
+
+#. ID 10, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それが冗談でもないんだよな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"オーグは生粋の貧乏組織。\\.\\.\n"
+"色々と\"バイト\"をこなして金を稼がないと。"
+msgstr ""
+
+#. ID 10, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"差し詰めこれは、と或るメディアのバイト。\\|\n"
+"インタビューが記録出来れば高く買って呉れる。"
+msgstr ""
+
+#. ID 10, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"生憎だがお前らの懐事情に興味は無い。"
+msgstr ""
+
+#. ID 10, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"アポも無しに行き成り押し掛けて\n"
+"話など聞ける訳が無いだろう。"
+msgstr ""
+
+#. ID 10, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それじゃあ、\n"
+"アポを取ったら話を聞かせて呉れるのか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"答える事など何も無い。"
+msgstr ""
+
+#. ID 10, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"身の潔白を証明する気が無いのか？\\|\n"
+"それとも何か疾しい事でも？"
+msgstr ""
+
+#. ID 10, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"ノーコメントだ。\\.\\.さっさと帰れ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"やっぱり駄目か…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"分かってるなら初めから来るな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 76, Pos (0,0)
+msgid ""
+"男の声：\n"
+"さっきから騒々しい。\\|何事かね？"
+msgstr ""
+
+#. ID 10, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"会長…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 90, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"来客かね？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 92, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"ええ。\\.\\.\n"
+"オーグのリーダーで、ユアンという男が…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 98, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"ほう、\\.\\.オーグの指導者とは。\\|\n"
+"これはまた。"
+msgstr ""
+
+#. ID 10, Page 1, Line 104, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"退き給え。\\.\\.私が相手をする。"
+msgstr ""
+
+#. ID 10, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"はぁ…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 116, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"お初にお眼に掛かる。\\|\n"
+"私がこのカオス救世会の会長エイブラムだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 119, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"指導者ユアンよ、\\.\\.貴殿の噂は兼々伺っている。"
+msgstr ""
+
+#. ID 10, Page 1, Line 121, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"裸一貫から起こした民間組織で在りながら、\\.\\.\n"
+"ガイアキャンサーを相手取り、\\.\\.C.M.G.C.を大きく上回る\n"
+"成果を挙げているとか。"
+msgstr ""
+
+#. ID 10, Page 1, Line 125, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"その様な御仁とこうして面会出来るとは、\n"
+"有難い事ではないか。"
+msgstr ""
+
+#. ID 10, Page 1, Line 128, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"御褒めの言葉痛み入るぜ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 133, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"して、\\.\\.私にどの様な用件かな？"
+msgstr ""
+
+#. ID 10, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"六年の祝祭者に関してインタビューしたい。"
+msgstr ""
+
+#. ID 10, Page 1, Line 137, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"これは意外な。\\|\n"
+"メディアに売って財政難を救う為かな？"
+msgstr ""
+
+#. ID 10, Page 1, Line 140, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そうだ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 146, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"\\S[2]クックックッ…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 148, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 153, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"貴殿は実直な人柄だ。\\.\\.故に嘘も上手くない。"
+msgstr ""
+
+#. ID 10, Page 1, Line 155, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 157, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"政府に成り代わって私にインタビューする事で、\n"
+"政府との関係を修繕する心算なのだろう？"
+msgstr ""
+
+#. ID 10, Page 1, Line 163, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"へっ…。\\|分かってるなら返事を聞こうか。"
+msgstr ""
+
+#. ID 10, Page 1, Line 165, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"イエスか。\\.\\.ノーか。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 170, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"\\S[2]イエスだ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 172, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"会長…！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 174, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"但し条件が在る。"
+msgstr ""
+
+#. ID 10, Page 1, Line 176, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"言ってみな。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 181, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"先ずインタビューに先立って、\n"
+"少しばかり私の思想を貴殿達に披露したい。"
+msgstr ""
+
+#. ID 10, Page 1, Line 184, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それで？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 186, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"それだけだ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 191, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"聞き流されて終わるとは思わないのか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 193, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"それでも結構。"
+msgstr ""
+
+#. ID 10, Page 1, Line 195, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"肝要なのは事実。\\|\n"
+"貴殿達がそれを私の口から聞いたという事実。"
+msgstr ""
+
+#. ID 10, Page 1, Line 198, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"たとえ話を聞き流されようとも、\n"
+"その事実は、残り、生き続ける。"
+msgstr ""
+
+#. ID 10, Page 1, Line 201, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"それ故に貴殿達の心の片隅に、\\.\\.永遠に住み着く。"
+msgstr ""
+
+#. ID 10, Page 1, Line 203, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"この私が。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 205, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"貴殿の様な有力な人間の中に私が生きる事は、\n"
+"現状に於ける大いなる前進と言えるだろう。"
+msgstr ""
+
+#. ID 10, Page 1, Line 208, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"インタビューなど、\\.\\.代価として何と容易い事か。"
+msgstr ""
+
+#. ID 10, Page 1, Line 213, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"さあ、\\.\\.入り給え。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 215, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"現世より孤立せし真実の館へ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 224, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"あの男…。\\|只者ではないわね…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 226, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ。\\.\\.ヤバい眼付きしてやがる。"
+msgstr ""
+
+#. ID 10, Page 1, Line 228, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"カリスマの凄みって奴さ。\\|\n"
+"一介のキチガイに留めて置かない最大の理由。"
+msgstr ""
+
+#. ID 10, Page 1, Line 234, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"おいユアン、\\.\\.本当にやるのか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 236, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"今更引き下がれるか。"
+msgstr ""
+
+#. ID 10, Page 1, Line 241, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"下っ腹に力入れとけよ。\\|\n"
+"隙を見せると突き崩されるぜ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 31, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ジェラール…！\\.\\.\n"
+"何でこんな所に居るのよ…！"
+msgstr ""
+
+#. ID 10, Page 3, Line 34, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"それは此方の台詞で御座います。\\.\\.\n"
+"まったく驚きました。"
+msgstr ""
+
+#. ID 10, Page 3, Line 40, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"で、\\.\\.何してるの？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 42, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"エイブラムの逮捕と家宅捜索です。\\|\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 44, Pos (0,0)
+msgid ""
+"\\>ミネルヴァ／ヴェーネ：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 49, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"やっぱりエイブラムがディザスティアの核を…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 51, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"いいえ。\\.\\.残念ながらそうではないのですよ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 53, Pos (0,0)
+msgid ""
+"\\>ミネルヴァ／ヴェーネ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 58, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"話が…\\|良く見えないわね…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 60, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\"それ\"に絡んでの大量破壊活動未遂か何かで\n"
+"逮捕したんじゃないの？"
+msgstr ""
+
+#. ID 10, Page 3, Line 63, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"私としても、それならば万々歳なのですが。"
+msgstr ""
+
+#. ID 10, Page 3, Line 65, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"しかし実際の所、\\.\\.彼の罪状は違った所に在ります。"
+msgstr ""
+
+#. ID 10, Page 3, Line 67, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"この際ですので御説明しましょう。\\.\\.\n"
+"一緒にいらしてください。"
+msgstr ""
+

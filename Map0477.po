@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 8, Pos (0,0)
+msgid ""
+"\n"
+"ねえねえ、\\.\\.あの子何なの？"
+msgstr ""
+
+#. ID 10, Page 1, Line 10, Pos (0,0)
+msgid ""
+"\n"
+"ドリスか。\\.\\.あいつ知障なんだってな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 12, Pos (0,0)
+msgid ""
+"\n"
+"マジで？\\.\\.\n"
+"そんなのが何で此処に居るんだよ？"
+msgstr ""
+
+#. ID 10, Page 1, Line 15, Pos (0,0)
+msgid ""
+"\n"
+"此処って俺らみたいな\n"
+"選ばれた人間＜エリート＞が来る所だろ？"
+msgstr ""
+
+#. ID 10, Page 1, Line 18, Pos (0,0)
+msgid ""
+"\n"
+"そうよねー。\\.\\.あんな人生の負け組確定の\n"
+"知恵遅れなんかと一緒にしないでって感じ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 21, Pos (0,0)
+msgid ""
+"\n"
+"ていうか生きてる価値とか無くない？"
+msgstr ""
+
+#. ID 10, Page 1, Line 23, Pos (0,0)
+msgid ""
+"\n"
+"だよなー。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 26, Pos (0,0)
+msgid ""
+"\n"
+"でもさ、\\.\\.あいつってＳクラスらしいぜ？"
+msgstr ""
+
+#. ID 10, Page 1, Line 28, Pos (0,0)
+msgid ""
+"\n"
+"はァ？ \\.\\.俺達Ａクラスより上だってのかよ！"
+msgstr ""
+
+#. ID 10, Page 1, Line 30, Pos (0,0)
+msgid ""
+"\n"
+"嘘でしょー？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 32, Pos (0,0)
+msgid ""
+"それが本当＜マジ＞みたいなんだよ。\\.\\.\n"
+"何でも精神障害と引き換えにすげェ魔力が\n"
+"覚醒したって話だぜ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 35, Pos (0,0)
+msgid ""
+"\n"
+"しかも学長のお気に入りで、\n"
+"\"そっち系\"の政府機関の幹部候補は確定だとか…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 39, Pos (0,0)
+msgid ""
+"\n"
+"なんか、ムカつく。"
+msgstr ""
+
+#. ID 10, Page 1, Line 41, Pos (0,0)
+msgid ""
+"\n"
+"何であんな知恵遅れが私達の上を行くワケ？"
+msgstr ""
+
+#. ID 10, Page 1, Line 43, Pos (0,0)
+msgid ""
+"\n"
+"だよなー。\\.\\.\n"
+"こっちは結構勉強とかして此処まで来たってのに。"
+msgstr ""
+
+#. ID 10, Page 1, Line 46, Pos (0,0)
+msgid ""
+"\n"
+"なんつーか、ウゼぇ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 49, Pos (0,0)
+msgid ""
+"\n"
+"ねぇねぇ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 51, Pos (0,0)
+msgid ""
+"\n"
+"何だよ？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 54, Pos (0,0)
+msgid ""
+"\n"
+"\\S[2]あいつ、\\.\\.シメちゃおうか？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 8, Pos (0,0)
+msgid ""
+"\n"
+"前から思ってるんだけどさ、\n"
+"あいつ何時まで居る訳？"
+msgstr ""
+
+#. ID 10, Page 2, Line 11, Pos (0,0)
+msgid ""
+"\n"
+"もうアレから２年以上だぜ？\\.\\.\n"
+"付き合わされるこっちの身にも成れっての。"
+msgstr ""
+
+#. ID 10, Page 2, Line 14, Pos (0,0)
+msgid ""
+"\n"
+"本当だよな。\\.\\.\n"
+"人殺しと同じ教室なんて気分悪いぜ。"
+msgstr ""
+

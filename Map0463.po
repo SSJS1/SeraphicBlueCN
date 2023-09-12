@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 14, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"さっきは…\\|済まなかった…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 24, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"隣…\\|良い？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]ええ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 38, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アタシも昔、両親を亡くしてる。"
+msgstr ""
+
+#. ID 3, Page 1, Line 40, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アタシがダンサーって夢を持ってて、\n"
+"安くないレッスン費用を捻出して呉れて…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 43, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"人を疑わないのか、\\.\\.お人好しなのか。\\|\n"
+"甘いのか、\\.\\.世間知らずなんだか。"
+msgstr ""
+
+#. ID 3, Page 1, Line 46, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"猫撫で声で擦り寄って来たケイオスの闇金融に。\\.\\.\n"
+"直ぐ返す心算でね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 49, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも奴らの金利はキチガイ。\\|\n"
+"一度借りたら最後、完済なんて出来やしない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 52, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"売り物に成る臓器を全部抜かれた挙句に、\n"
+"砂袋詰められて水路に沈められちまったよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 58, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"保安局で遺体を確認して、\\.\\.アタシは狂った。"
+msgstr ""
+
+#. ID 3, Page 1, Line 60, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"暴れ回って、\\.\\.モノ投げて、\\.\\.ブチ壊して…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 62, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そして仕上げに悲しみが押し寄せて…。\\|\n"
+"でもアタシは意地を張った。"
+msgstr ""
+
+#. ID 3, Page 1, Line 65, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何よりの原因だった自分への憎しみが、\n"
+"涙を堰き止めた。"
+msgstr ""
+
+#. ID 3, Page 1, Line 71, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"一人の保安官が、\n"
+"何も言わず黙って胸を貸して呉れた。"
+msgstr ""
+
+#. ID 3, Page 1, Line 74, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"彼はアタシが暴れた時に物が当たったんだろう。\\|\n"
+"頭から血を流してた。"
+msgstr ""
+
+#. ID 3, Page 1, Line 77, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"なのにソイツは、\\.\\.そんな怪我なんか構わずに、\\.\\.\n"
+"アタシに胸を貸して呉れた。"
+msgstr ""
+
+#. ID 3, Page 1, Line 83, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アタシは…\\|泣き続けた。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"悲惨な過去ね…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 94, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"あの時、\\.\\.アタシは泣きじゃくるアンタに\n"
+"昔の自分を重ねていた…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 97, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"情無く泣き続ける、あの頃の自分。\\|\n"
+"消したくても消せない、過去という影。"
+msgstr ""
+
+#. ID 3, Page 1, Line 100, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そしてアタシは、\\.\\.その影に怒鳴り付けた。"
+msgstr ""
+
+#. ID 3, Page 1, Line 102, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アンタの悲しみなんか少しも考えないで。\\|\n"
+"自分の影に怯えるだけで。"
+msgstr ""
+
+#. ID 3, Page 1, Line 108, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[2]最低だよ、\\|アタシは。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 115, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それじゃ。\\.\\.サヨナラだね。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 118, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"えっ…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 120, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"身体も心も汚いこんな女、\\.\\.\n"
+"これ以上一緒に居ても毒にしか成らない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 123, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ケイオスに帰るよ。\\|\n"
+"アタシはアソコで腐って行くのがお似合いさ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 126, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それは違うわ。\\.\\.\n"
+"貴女はこうして謝って呉れたじゃない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 129, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"凄惨な過去も、\\.\\.心の内も。\\.\\.\n"
+"包み隠さず話して呉れた。"
+msgstr ""
+
+#. ID 3, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"貴女と私は、\\.\\.もう他人なんかじゃない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 137, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"別れを選ぶ必要など、何処にも無い筈。"
+msgstr ""
+
+#. ID 3, Page 1, Line 144, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[2]赦して呉れるの…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 149, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 151, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"貴女は私の大切な人。\\|\n"
+"別れたくない、失いたくない人だから。"
+msgstr ""
+
+#. ID 3, Page 1, Line 157, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[2]ミネルヴァ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 166, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"一つ…\\|お願いが在るの。"
+msgstr ""
+
+#. ID 3, Page 1, Line 168, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"言ってみな。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 173, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"貴女の胸を、\\.\\.今だけ私に貸して。"
+msgstr ""
+
+#. ID 3, Page 1, Line 178, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ああ、\\|良いよ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 183, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[2]アタシが、\\.\\.一緒に居てあげる。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 188, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[5]ありがとう…。\\|\\^"
+msgstr ""
+

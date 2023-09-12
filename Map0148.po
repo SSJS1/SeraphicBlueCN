@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 3, Pos (11,9)
+msgid ""
+"女戦士：\n"
+"此処はラヴェンナ地下洞の入口。東の山に閉ざされた\n"
+"メンドゥーサ地方に繋がっているわ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 6, Pos (11,9)
+msgid ""
+"女戦士：\n"
+"かなり長い洞窟だから、\n"
+"きちんと準備して行かないと酷い目に遭うわよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 10, Pos (1,10)
+msgid ""
+"＊＊＊：\n"
+"どうやら、口に何かを銜えている様だ。\n"
+"どうしますか？"
+msgstr ""
+
+#. ID 7, Page 1, Line 13, Pos (1,10)
+#. Choice (4 options)
+msgid ""
+"無理やり引き剥がす\n"
+"犬に媚を売る\n"
+"尻尾の付け根辺りを撫で回す\n"
+"そっとしておく"
+msgstr ""
+
+#. ID 7, Page 1, Line 21, Pos (1,10)
+msgid ""
+"＊＊＊：\n"
+"噛まれてしまった！ 全員のHPが20％減少した。"
+msgstr ""
+
+#. ID 7, Page 1, Line 57, Pos (1,10)
+msgid ""
+"イヌ：\n"
+"\\s[20]………。"
+msgstr ""
+
+#. ID 7, Page 1, Line 59, Pos (1,10)
+msgid ""
+"＊＊＊：\n"
+"そもそも何をしているのかが分からない様だ。"
+msgstr ""
+

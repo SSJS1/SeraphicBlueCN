@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (13,4)
+#. ID 12, Page 1, Line 4, Pos (15,4)
+#. ID 14, Page 1, Line 4, Pos (11,4)
+msgid ""
+"＊＊＊：\n"
+"本と本の間から紙切れがはみ出している。\n"
+"何かメモがしてあるようだ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 7, Pos (13,4)
+msgid ""
+"メモ：\n"
+"皆からのアイデアは良いものばかりだったが、\n"
+"中でも俺が特に気に入ったのは\"青いバラ\"だ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 10, Pos (13,4)
+msgid ""
+"メモ：\n"
+"遺伝子操作による花の色換えは昔から行われていた\n"
+"事なんだが、その黎明期に於いて、青いバラは\n"
+"絶対に作れないと言われていたらしい。"
+msgstr ""
+
+#. ID 1, Page 1, Line 14, Pos (13,4)
+msgid ""
+"メモ：\n"
+"しかしその後の研究の成果により、遂に青いバラは\n"
+"この世界に花を咲かせた。"
+msgstr ""
+
+#. ID 1, Page 1, Line 17, Pos (13,4)
+msgid ""
+"メモ：\n"
+"この事に因んで、\"ブルーローズ\"という言葉には\n"
+"\"不可能を可能にする\"事の隠喩としての意味もある。"
+msgstr ""
+
+#. ID 1, Page 1, Line 20, Pos (13,4)
+msgid ""
+"メモ：\n"
+"そう、不可能を可能にする…。\n"
+"今の俺の恋にはピッタリだ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 7, Pos (15,4)
+msgid ""
+"メモ：\n"
+"ハーヴェイが、何をとち狂ったか\n"
+"俺達に花の事を訊いてきた。\n"
+"何でも彼女にプレゼントするらしい。"
+msgstr ""
+
+#. ID 12, Page 1, Line 11, Pos (15,4)
+msgid ""
+"メモ：\n"
+"訊く相手が根本的に間違ってるんだが、\n"
+"あいつの腕前にはみんな結構助けられてる。\n"
+"無下に見捨てるなんてマネも出来やしない。  "
+msgstr ""
+
+#. ID 12, Page 1, Line 15, Pos (15,4)
+msgid ""
+"メモ：\n"
+"仕方が無いから、一人につき一個、\n"
+"アイデアを集めてハーヴェイに教えてやった。"
+msgstr ""
+
+#. ID 14, Page 1, Line 7, Pos (11,4)
+msgid ""
+"メモ：\n"
+"しおれた青いバラが、俺にそっと囁き掛ける…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 9, Pos (11,4)
+msgid ""
+"メモ：\n"
+"どうやら俺は、仕事に生きるべき男らしい。"
+msgstr ""
+

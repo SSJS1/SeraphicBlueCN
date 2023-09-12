@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 21, Page 1, Line 11, Pos (39,0)
+msgid ""
+"ユアン：\n"
+"駄目だ…。\\.\\.\n"
+"ドアが歪んでてビクともしない…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 17, Pos (39,0)
+msgid ""
+"レイク：\n"
+"あの状況じゃあ…。\\.\\.\n"
+"たとえ奇跡が起きても助かるアテが無いか…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 23, Pos (39,0)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 28, Pos (39,0)
+msgid ""
+"ユアン：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 30, Pos (39,0)
+msgid ""
+"ユアン：\n"
+"少しだけ隙間が…。\\|\n"
+"中の様子が見える…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 36, Pos (39,0)
+msgid ""
+"ヴェーネ：\n"
+"如何…？\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 45, Pos (39,0)
+#. ID 21, Page 2, Line 10, Pos (39,0)
+msgid ""
+"ユアン：\n"
+"見事なまでの瓦礫の山さ。\\.\\.\n"
+"鋼鉄さえバラバラに吹っ飛んでる。"
+msgstr ""
+
+#. ID 21, Page 1, Line 48, Pos (39,0)
+#. ID 21, Page 2, Line 13, Pos (39,0)
+msgid ""
+"ユアン：\n"
+"これじゃあ助かるどころか、\n"
+"亡骸すら蒸発して消し飛んで…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 55, Pos (39,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]畜生ッ！\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 57, Pos (39,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]畜生！ \\.\\.畜生！ \\.\\.畜生ッ！\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 63, Pos (39,0)
+msgid ""
+"ユアン：\n"
+"モーガン！\\.\\.\n"
+"首洗って待ってやがれ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 66, Pos (39,0)
+msgid ""
+"ユアン：\n"
+"叩き殺してやる！\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 72, Pos (39,0)
+msgid ""
+"ランサード：\n"
+"壮絶だな…。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 74, Pos (39,0)
+msgid ""
+"ニクソン：\n"
+"せめて祈りを捧げましょう。"
+msgstr ""
+
+#. ID 21, Page 1, Line 76, Pos (39,0)
+msgid ""
+"ニクソン：\n"
+"主よ、\\.\\.非業の死を遂げし若き生命ケインに、\n"
+"有らん限りの慈悲と安らぎを。"
+msgstr ""
+
+#. ID 21, Page 1, Line 82, Pos (39,0)
+msgid ""
+"ランサード：\n"
+"信仰を再開したのか？"
+msgstr ""
+
+#. ID 21, Page 1, Line 84, Pos (39,0)
+msgid ""
+"ニクソン：\n"
+"神を認めた訳では在りません。"
+msgstr ""
+
+#. ID 21, Page 1, Line 86, Pos (39,0)
+msgid ""
+"ニクソン：\n"
+"只その偶像を介して、\n"
+"逝く者に心からの祈りを捧げただけです。"
+msgstr ""
+
+#. ID 21, Page 1, Line 89, Pos (39,0)
+msgid ""
+"ランサード：\n"
+"良い心掛けだ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 95, Pos (39,0)
+msgid ""
+"フォクシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 103, Pos (39,0)
+msgid ""
+"ミネルヴァ：\n"
+"如何したの、難しい顔して？\\.\\.\n"
+"まるでケインの事さえ頭に無いみたい…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 111, Pos (39,0)
+msgid ""
+"フォクシー：\n"
+"そういう訳じゃないんだけどね…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 113, Pos (39,0)
+msgid ""
+"ミネルヴァ：\n"
+"でも…。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 120, Pos (39,0)
+msgid ""
+"フォクシー：\n"
+"何でもない。\\.\\.\n"
+"ちょっとナーバスに成ってただけ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 123, Pos (39,0)
+msgid ""
+"フォクシー：\n"
+"ミネルヴァこそ大丈夫？"
+msgstr ""
+
+#. ID 21, Page 1, Line 125, Pos (39,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、\\.\\.私は何とか。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 132, Pos (39,0)
+msgid ""
+"ミネルヴァ：\n"
+"この犠牲を無にしない為にも、\n"
+"絶対にモーガンを討つ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 138, Pos (39,0)
+msgid ""
+"フォクシー：\n"
+"ああ…。\\|そうだね…。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 147, Pos (39,0)
+msgid ""
+"フォクシー：\n"
+"\\S[2]何故…？\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 149, Pos (39,0)
+msgid ""
+"フォクシー：\n"
+"\\S[2]これじゃあ、\\.\\.まるで…。\\|\\^"
+msgstr ""
+

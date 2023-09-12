@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 25, Page 1, Line 7, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"数は揃ったか？"
+msgstr ""
+
+#. ID 25, Page 1, Line 9, Pos (0,0)
+msgid ""
+"部下：\n"
+"はい。\\.\\.予定されていたルシファーナイツ部隊、\n"
+"全て準備が完了しております。"
+msgstr ""
+
+#. ID 25, Page 1, Line 12, Pos (0,0)
+msgid ""
+"部下：\n"
+"政府軍とアームズに関しても、幾許かのオーウェン派が\n"
+"ボイコットしている以外は準備完了です。"
+msgstr ""
+
+#. ID 25, Page 1, Line 15, Pos (0,0)
+msgid ""
+"部下：\n"
+"後はモーガン様の出撃命令を待つのみ。"
+msgstr ""
+
+#. ID 25, Page 1, Line 17, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"宜しい。\\.\\.\n"
+"それでは此処に命じよう。"
+msgstr ""
+
+#. ID 25, Page 1, Line 25, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"これよりグラウンド蹂躙作戦を発動する！"
+msgstr ""
+
+#. ID 25, Page 1, Line 27, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"先ず手始めに、\n"
+"ゲオルクの本拠地ダルムシュタットを落とす！"
+msgstr ""
+
+#. ID 25, Page 1, Line 30, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"街を焼き払え！ \\|パーソンを殺せ！\\|\\^"
+msgstr ""
+
+#. ID 25, Page 1, Line 32, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"示せ我らがフェジテの威光を！\\.\\.\n"
+"下等なる下界に粛清を！"
+msgstr ""
+
+#. ID 25, Page 1, Line 35, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"出撃せよ！\\|\\^"
+msgstr ""
+
+#. ID 25, Page 1, Line 37, Pos (0,0)
+msgid ""
+"部下：\n"
+"はッ！\\|\\^"
+msgstr ""
+
+#. ID 25, Page 1, Line 44, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"さ～て、\\.\\.遂に始まるね。"
+msgstr ""
+
+#. ID 25, Page 1, Line 47, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"おめでとう。\\.\\.アンタがこの世界の中心だよ。"
+msgstr ""
+
+#. ID 25, Page 1, Line 53, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"お前には感謝しているぞ、エンデ。"
+msgstr ""
+
+#. ID 25, Page 1, Line 55, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"お前という参謀が居たからこそ、\n"
+"私は此処まで漕ぎ着ける事が出来た。"
+msgstr ""
+
+#. ID 25, Page 1, Line 58, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"礼には及ばないさ。\n"
+"利害関係が一致しただけだよ。"
+msgstr ""
+
+#. ID 25, Page 1, Line 64, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"さあ、後はゲオルクを倒すだけ。"
+msgstr ""
+
+#. ID 25, Page 1, Line 66, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ヘマをしない限りは充分に勝てる相手だ。\n"
+"気を引き締めて呉れよ。"
+msgstr ""
+
+#. ID 25, Page 1, Line 69, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"無論。\\|\\^"
+msgstr ""
+
+#. ID 25, Page 1, Line 72, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"窮鼠猫を噛むとも言うからな。\\.\\.\n"
+"全力を以ってゲオルクを叩き潰して呉れるわ。"
+msgstr ""
+
+#. ID 25, Page 1, Line 78, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]そう、\\.\\.全力で叩くんだ。"
+msgstr ""
+
+#. ID 25, Page 1, Line 80, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]持てる限りの業火を以って、\\.\\.盛大にね…。"
+msgstr ""
+
+#. ID 25, Page 2, Line 26, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"デイジーは、以前と変わり無く私の第一の側近。"
+msgstr ""
+
+#. ID 25, Page 2, Line 28, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"しかしながら半年前から私も政治に参加し、\n"
+"女王代行役の肩書きは消滅した。"
+msgstr ""
+
+#. ID 25, Page 2, Line 31, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"尤も、それは形だけ。"
+msgstr ""
+
+#. ID 25, Page 2, Line 33, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"実際の所まだまだ分からない事は多く、\n"
+"結局彼女の助け無しでは殆ど何も出来ないのだから。"
+msgstr ""
+
+#. ID 25, Page 2, Line 36, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"今暫くの間、\\.\\.\n"
+"彼女には苦労を掛けてしまいそうだ。"
+msgstr ""
+
+#. ID 25, Page 2, Line 44, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ガイアキャンサー消滅に従い、\n"
+"C.M.G.C.及びC.M.G.C.アームズの役目は終了した。"
+msgstr ""
+
+#. ID 25, Page 2, Line 47, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"前者C.M.G.C.は解散。"
+msgstr ""
+
+#. ID 25, Page 2, Line 49, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"後者アームズはその体制を一新し、\n"
+"広範に渡って活動する\"フェジテ兵士団\"として\n"
+"生まれ変わった。"
+msgstr ""
+
+#. ID 25, Page 2, Line 53, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そしてジェラールはその長を務めている。"
+msgstr ""
+
+#. ID 25, Page 2, Line 55, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"先のラージュでの戦いに於ける獅子奮迅の活躍。\\|\n"
+"またオーウェンからの強い推薦も在っての、\n"
+"異例の昇進。"
+msgstr ""
+
+#. ID 25, Page 2, Line 59, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"だが当の本人は、持ち前の生真面目な性格も手伝い、\n"
+"気苦労の絶えない日々を送っている様子。"
+msgstr ""
+
+#. ID 25, Page 2, Line 62, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"とは言えその性格はまた、部下からの厚い人望を\n"
+"確固たるものにもしているのだが。"
+msgstr ""
+

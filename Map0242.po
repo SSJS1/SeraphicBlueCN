@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 2, Line 37, Pos (2,10)
+msgid ""
+"レイク：\n"
+"何だ？ \\|鍵が掛かってるぞ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 39, Pos (2,10)
+msgid ""
+"フォクシー：\n"
+"もう葬儀屋に出掛けたんじゃないの？"
+msgstr ""
+
+#. ID 2, Page 2, Line 41, Pos (2,10)
+msgid ""
+"レイク：\n"
+"まさか。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 50, Pos (2,10)
+msgid ""
+"レイク：\n"
+"おい！ \\|誰も居ないのか！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 55, Pos (2,10)
+msgid ""
+"ハウゼンの声：\n"
+"何者だ。\\.\\.名を名乗れ。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 57, Pos (2,10)
+msgid ""
+"レイク：\n"
+"俺だ、\\.\\.レイクだ。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 59, Pos (2,10)
+msgid ""
+"ハウゼンの声：\n"
+"本当にレイクなのか？"
+msgstr ""
+
+#. ID 2, Page 2, Line 65, Pos (2,10)
+msgid ""
+"フォクシー：\n"
+"本当にアンタの連れなの？"
+msgstr ""
+
+#. ID 2, Page 2, Line 67, Pos (2,10)
+msgid ""
+"レイク：\n"
+"一応な。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 74, Pos (2,10)
+msgid ""
+"レイク：\n"
+"おい！\\.\\.\n"
+"人がケイオスから生還したのにこの扱いかよ！"
+msgstr ""
+
+#. ID 2, Page 2, Line 77, Pos (2,10)
+msgid ""
+"レイク：\n"
+"労うどころか締め出しやがって！"
+msgstr ""
+
+#. ID 2, Page 2, Line 79, Pos (2,10)
+msgid ""
+"ミネルヴァの声：\n"
+"ちょっとハウゼン。\\.\\.開けてあげれば？"
+msgstr ""
+
+#. ID 2, Page 2, Line 81, Pos (2,10)
+msgid ""
+"ハウゼンの声：\n"
+"しかしミネルヴァ様。\\.\\.\n"
+"奴らの手先かも知れません。"
+msgstr ""
+
+#. ID 2, Page 2, Line 88, Pos (2,10)
+msgid ""
+"フォクシー：\n"
+"変な連れだね。"
+msgstr ""
+
+#. ID 2, Page 2, Line 90, Pos (2,10)
+msgid ""
+"レイク：\n"
+"少しな。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 97, Pos (2,10)
+msgid ""
+"ハウゼンの声：\n"
+"おい、\\.\\.レイクだと証明出来る何かを示してみろ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 102, Pos (2,10)
+msgid ""
+"レイク：\n"
+"やれやれ…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 104, Pos (2,10)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 109, Pos (2,10)
+msgid ""
+"レイク：\n"
+"なあ、\\.\\.頼むから入れて呉れないか？"
+msgstr ""
+
+#. ID 2, Page 2, Line 111, Pos (2,10)
+msgid ""
+"レイク：\n"
+"\"心配性\"のハウゼンさんよ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 116, Pos (2,10)
+msgid ""
+"ハウゼン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 121, Pos (2,10)
+msgid ""
+"ハウゼン：\n"
+"良いだろう。\\|入れ。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 127, Pos (2,10)
+msgid ""
+"フォクシー：\n"
+"いっそケイオスに住み着く？"
+msgstr ""
+
+#. ID 2, Page 2, Line 129, Pos (2,10)
+msgid ""
+"レイク：\n"
+"考えとくぜ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 4, Pos (26,10)
+#. ID 4, Page 1, Line 4, Pos (30,10)
+msgid "※鍵が掛かっている。"
+msgstr ""
+
+#. ID 7, Page 1, Line 5, Pos (16,12)
+msgid ""
+"メイドさん：\n"
+"はぁ…。\n"
+"この頃はカジノからのＶＩＰ客が多くてね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 8, Pos (16,12)
+msgid ""
+"メイドさん：\n"
+"態度も本当にアホかって位でかいし、\\.\\.\n"
+"部屋もイヤって程汚れるし、\\.\\.\n"
+"それに私にも『萌え～！』\\.\\.\\.とか言って絡んでくるし。"
+msgstr ""
+
+#. ID 7, Page 1, Line 12, Pos (16,12)
+msgid ""
+"メイドさん：\n"
+"ホント、ここのお手伝いは大変よ…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 20, Pos (16,12)
+msgid ""
+"メイドさん：\n"
+"最近は解放戦争の影響で、客足も減ってるのよ。\n"
+"それだけ私が絡まれる危険性は少なくなったわ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 23, Pos (16,12)
+msgid ""
+"メイドさん：\n"
+"ふぅ…。\n"
+"しばしの休息と言った所かしら。"
+msgstr ""
+
+#. ID 7, Page 1, Line 32, Pos (16,12)
+msgid ""
+"メイドさん：\n"
+"全く、戦争が終わったらすぐカジノ？\n"
+"客足が前より増えて、もうウンザリよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 35, Pos (16,12)
+msgid ""
+"メイドさん：\n"
+"機会があったら、本当にトンズラしようかしら？"
+msgstr ""
+
+#. ID 7, Page 1, Line 42, Pos (16,12)
+msgid ""
+"メイドさん：\n"
+"あの空に毒された多くのバカ達が、\n"
+"カジノにハマりだして、此処も凄く大変よ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 45, Pos (16,12)
+msgid ""
+"メイドさん：\n"
+"時々私を襲おうとしてくる奴まで出てきちゃうし、\n"
+"本当に嫌な時勢になっちゃったわね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 48, Pos (16,12)
+msgid ""
+"メイドさん：\n"
+"はぁ…。\n"
+"誰か代わりにメイドになってくれないかな～。"
+msgstr ""
+
+#. ID 8, Page 1, Line 3, Pos (31,11)
+msgid ""
+"人魚女：\n"
+"\"今日はコスプレをしながら街中を出歩こう\"って\n"
+"リーダーから指示があったんだけど、\n"
+"私の連れのメイクが終わってないようなの。"
+msgstr ""
+
+#. ID 8, Page 1, Line 7, Pos (31,11)
+msgid ""
+"人魚女：\n"
+"早く街中を出歩きたいのになぁ。"
+msgstr ""
+

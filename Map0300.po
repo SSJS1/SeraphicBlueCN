@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 4, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"おう、如何した二人共？\\.\\.\n"
+"そんなに血相変えて。"
+msgstr ""
+
+#. ID 12, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"大変なのよ！ \\.\\.今直ぐ皆を集めて！"
+msgstr ""
+
+#. ID 12, Page 1, Line 9, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"突然何だ？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"アームズがこっちに向かってるの！"
+msgstr ""
+
+#. ID 12, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]何だって…!?\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"部隊指揮は誰だ！\\.\\.\n"
+"まさかオーウェンじゃないだろうな！"
+msgstr ""
+
+#. ID 12, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そのまさか！\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"最悪じゃねえか！\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"皆を集めてくれ！\\|\\.\\.\\^"
+msgstr ""
+

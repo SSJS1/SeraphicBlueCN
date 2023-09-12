@@ -1,0 +1,787 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 18, Pos (0,0)
+msgid ""
+"男性：\n"
+"やれやれ…。\\|\n"
+"まさかこんな事に成るとはな…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 21, Pos (0,0)
+msgid ""
+"男性：\n"
+"プロジェクト･ネオイーヴル。\n"
+"一生分を賄う報酬の代償は、大きかった。"
+msgstr ""
+
+#. ID 10, Page 1, Line 27, Pos (0,0)
+msgid ""
+"男性：\n"
+"なあ。\\.\\.お前もそう思うだろう？"
+msgstr ""
+
+#. ID 10, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"レイクよ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 40, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ランゲル…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何故、\\.\\.貴方が…。\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"\\C[19]プロジェクト･ネオイーヴル\\C[0]。\n"
+"それが答えだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"このグラウンドのイーヴルを捕獲し、生体改造を施して\n"
+"\\C[19]ネオイーヴル\\C[0]なる兵士を作り出す計画。"
+msgstr ""
+
+#. ID 10, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"ディザスティアの丘でお前達を襲ったのも、\n"
+"フェジテガーデンを襲撃したのも、\n"
+"全てそのネオイーヴルだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"まるでモーガンの禁書と同じじゃない…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"当然だ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"このプロジェクトの原本は、\n"
+"他でもないモーガンの禁書なのだからな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"モーガンの矮小ぶりを見抜いたエンデは奴を見限り、\n"
+"禁書に関する情報を此方にリークした。"
+msgstr ""
+
+#. ID 10, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"そしてゲオルクはそれを原本とし、独自にアレンジを\n"
+"加えたプロジェクト･ネオイーヴルを発動した。"
+msgstr ""
+
+#. ID 10, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"あれで昔は薬学等に精通した男だからな。\n"
+"その位は造作も無かった事だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"まあ、\\.\\.今振り返れば…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 85, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"エンデは初めから\"武力衝突だけ\"を狙っていたと。\n"
+"わしはそう考えている。"
+msgstr ""
+
+#. ID 10, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"ゲオルクにそんな\"玩具\"を持たせれば、\n"
+"フェジテに対し奇襲を仕掛けるだろうし…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 91, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"これに触発されたモーガンは、\n"
+"グラウンドの蹂躙に踏み切る。"
+msgstr ""
+
+#. ID 10, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"武力衝突に於いても、人間同士に加えて\n"
+"ネオイーヴルとルシファーナイツが入り混じる事で、\n"
+"奴の言う所の\"華\"が増すだろう。"
+msgstr ""
+
+#. ID 10, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"と、\\.\\.こういう寸法だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"まあ…。\\.\\.\n"
+"それに関しては同意かしら。"
+msgstr ""
+
+#. ID 10, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"他でもない、エンデの謀＜はかりごと＞。"
+msgstr ""
+
+#. ID 10, Page 1, Line 112, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"プロジェクトはそれなりに順調に進んで行った。\n"
+"モーガンの追従＜トレース＞なのだから、\n"
+"至極当然の話だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 116, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"逆にそれ故、ゲオルクがアレンジを加えたという\n"
+"未開領域の入口で、進行は滞るべくして滞った。"
+msgstr ""
+
+#. ID 10, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"手持ちの研究者を幾ら駆使すれど、\n"
+"状況は一向に上向かない。"
+msgstr ""
+
+#. ID 10, Page 1, Line 125, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"そして、\\.\\.わしが呼ばれた。"
+msgstr ""
+
+#. ID 10, Page 1, Line 133, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"ゲオルクは物事の分かる男だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"わしに送られて来た手紙には、\n"
+"先ず契約金と報酬の事が書いて在った。"
+msgstr ""
+
+#. ID 10, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"時候の挨拶はその後だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 143, Pos (0,0)
+msgid ""
+"レイク：\n"
+"金が目当てか…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 145, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"そうとも。\\.\\.研究内容なんぞ如何でも良い。"
+msgstr ""
+
+#. ID 10, Page 1, Line 147, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"わしは金が欲しかったのだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 152, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"何て卑しい…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 154, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"その行いが、如何なる結果を招いているのか…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 156, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"そんなのは百も承知だ。\\|\n"
+"承知の上で、何度でも言ってやる。"
+msgstr ""
+
+#. ID 10, Page 1, Line 163, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"\\S[2]金の為なら、\\.\\.何でもしよう。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 169, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"終わったな。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 171, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ええ、\\.\\.もう引き返せません。"
+msgstr ""
+
+#. ID 10, Page 1, Line 176, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それで？ \\.\\.金が手に入って幸せかしら？"
+msgstr ""
+
+#. ID 10, Page 1, Line 181, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"\"本当の幸せは金では買えん\"と…。\n"
+"そう言いたい訳か？"
+msgstr ""
+
+#. ID 10, Page 1, Line 184, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 186, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"馬鹿がっ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 193, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"確かに、幸せは金では買えん。"
+msgstr ""
+
+#. ID 10, Page 1, Line 195, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"だがそもそも、わしが買いたかったのは\n"
+"\"幸せ\"ではないのだよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 203, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"\"安心\"だ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 205, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"成る程。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 207, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\"幸せ\"は金で買えないけど、\n"
+"\"安心\"は金で買う事が出来る。"
+msgstr ""
+
+#. ID 10, Page 1, Line 214, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"今も世界では多くの者達が、\\.\\.己が身を不幸と嘆き、\\.\\.\n"
+"或いは幸せに成りたいと叫んでいるだろう。"
+msgstr ""
+
+#. ID 10, Page 1, Line 217, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"だが彼らは大きな勘違いをしている。"
+msgstr ""
+
+#. ID 10, Page 1, Line 222, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"不安なのだ…！\\.\\.\n"
+"不幸なのではなく…！"
+msgstr ""
+
+#. ID 10, Page 1, Line 225, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"安心したいのだ…！\\.\\.\n"
+"幸せに成りたいのではなく…！"
+msgstr ""
+
+#. ID 10, Page 1, Line 228, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"そして購入可能なのだ…！\\.\\.\n"
+"金に依ってそれらは…！"
+msgstr ""
+
+#. ID 10, Page 1, Line 234, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おジイちゃん…。\\.\\.フアンだったの…？"
+msgstr ""
+
+#. ID 10, Page 1, Line 236, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"そうだとも。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 238, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"所帯も無し、人望も無し。\n"
+"有り金も残り少ない初老の人間に、\n"
+"どんな生きる道が在る？"
+msgstr ""
+
+#. ID 10, Page 1, Line 242, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"ホームレスか？\n"
+"犯罪を犯して刑務所暮らしか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 245, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"それとも何処かの昔話よろしく、\n"
+"裏山に捨てられて死んで逝くか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 248, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"増して要介護者に成りでもしたら、\n"
+"もう眼も当てられんぞ？"
+msgstr ""
+
+#. ID 10, Page 1, Line 254, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"誰もわしの世話などせん…！"
+msgstr ""
+
+#. ID 10, Page 1, Line 256, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"糞尿で溢れ返る介護用オムツ…！"
+msgstr ""
+
+#. ID 10, Page 1, Line 258, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"そして孤独死…！"
+msgstr ""
+
+#. ID 10, Page 1, Line 260, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"終わりだ…！"
+msgstr ""
+
+#. ID 10, Page 1, Line 262, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"これがわしの辿る道か…！"
+msgstr ""
+
+#. ID 10, Page 1, Line 264, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"わしは塵だというのか…！"
+msgstr ""
+
+#. ID 10, Page 1, Line 269, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 275, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"金だ。\\.\\.金が全てを解決する。"
+msgstr ""
+
+#. ID 10, Page 1, Line 277, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"金さえ有れば、衣食住は完璧に保証される。"
+msgstr ""
+
+#. ID 10, Page 1, Line 279, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"ホームヘルパーだって雇えるし、\n"
+"施設へだって入居出来る。"
+msgstr ""
+
+#. ID 10, Page 1, Line 282, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"老人虐待の無い一流所だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 287, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"わしは別に幸せになど成りたくない。\\|\n"
+"愛だの友情だの、何処吹く風よ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 290, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"只単に、安心が欲しかったのだ。\\|\n"
+"金に依って保証される、無味乾燥で盤石な安心。"
+msgstr ""
+
+#. ID 10, Page 1, Line 293, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"不釣合いに綺麗な十字架まで続いている、\n"
+"独りきりの小道をな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 299, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"まあこんな老い耄れの悩みなど、\n"
+"若いお前達には分かるまい。"
+msgstr ""
+
+#. ID 10, Page 1, Line 305, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ、\\.\\.分からねえな。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 307, Pos (0,0)
+msgid ""
+"レイク：\n"
+"こんな地獄の切れ端だ。\\.\\.\n"
+"今更譲り合いも語り合いも無いだろうよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 313, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"問題なのは、貴方が敵か味方かという事。"
+msgstr ""
+
+#. ID 10, Page 1, Line 315, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"貴方が何の悩みを抱えてようが、\n"
+"そんな事は如何でも良いのよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 321, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"どんな道を辿るとか。\\|\n"
+"塵に成るとか成らないとか。"
+msgstr ""
+
+#. ID 10, Page 1, Line 324, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]煩いのよ。\\|この老い耄れが。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 329, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まあそういう事だ。\\.\\.\n"
+"行く手を阻むならそれでも結構。"
+msgstr ""
+
+#. ID 10, Page 1, Line 332, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺達も色々とやる事が在るんでな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 334, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あんたをブッ殺して先に進むだけだよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 342, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"ふふ…。\\|それで良い…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 344, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"お前らしい答えだ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 350, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"個人の安心への欲求にしては、度が過ぎたな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 352, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"此処より私も、\\.\\.意思無き修羅の中へ…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 359, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"\\S[2]さらばだ、\\.\\.レイク。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 361, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"\\S[2]悪くない話し相手だったぞ。\\|\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 373, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それがあんたの求めた\"安心\"なのか。"
+msgstr ""
+
+#. ID 10, Page 1, Line 378, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"\\S[20]グゲェ…。\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 380, Pos (0,0)
+msgid ""
+"レイク：\n"
+"人間としての意識も無し。\\.\\.\n"
+"確かに\"不安じゃない\"だろうな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 386, Pos (0,0)
+msgid ""
+"レイク：\n"
+"眠らせて遣るか…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 11, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 16, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 21, Pos (0,0)
+msgid ""
+"レイク：\n"
+"腐れ縁と言えば、それまでだけどな。"
+msgstr ""
+
+#. ID 10, Page 2, Line 23, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あんたと駄弁ってた時間。\\.\\.\n"
+"俺もそんなに嫌いじゃなかったぜ。"
+msgstr ""
+
+#. ID 10, Page 2, Line 29, Pos (0,0)
+msgid ""
+"レイク：\n"
+"じゃあな。\\.\\.ヤブ医者。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 19, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"何故助けた。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 21, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"死なせたくなかったからです。"
+msgstr ""
+
+#. ID 10, Page 3, Line 23, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"わしをか？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 25, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"多少の語弊は在りますが。"
+msgstr ""
+
+#. ID 10, Page 3, Line 30, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"貴方は、ネオイーヴルの一件に関しては兎も角、\n"
+"非常に有能な医師の筈。"
+msgstr ""
+
+#. ID 10, Page 3, Line 33, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"即ち貴方を生かす事に依って、\\.\\.\n"
+"先々貴方の医療に依って救われるで在ろう生命を\n"
+"生かすのです。"
+msgstr ""
+
+#. ID 10, Page 3, Line 37, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"貴方の\"単体\"ではなく、\\.\\.\n"
+"貴方を通じて見える数多くの生命を考えれば、\n"
+"生かす価値は在る…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 41, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"生かして遣った代わりに現場に戻れと。"
+msgstr ""
+
+#. ID 10, Page 3, Line 43, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"そう期待します。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 48, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"不安に怯え、金に拠り所を求めた腐れヤブ医者に、\n"
+"今更何を期待するか。"
+msgstr ""
+
+#. ID 10, Page 3, Line 51, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"それは貴方の心が失速しているから。"
+msgstr ""
+
+#. ID 10, Page 3, Line 53, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"初心を、\\.\\.駆けていた心を、\\.\\.\n"
+"今から思い出す事は出来ませんか？"
+msgstr ""
+
+#. ID 10, Page 3, Line 56, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"まさか若かりし頃より、\n"
+"金を求めて医学を志した訳でもないでしょう？"
+msgstr ""
+
+#. ID 10, Page 3, Line 64, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"ふん。\\|知った様な口を。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 69, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"罪滅ぼしに徹しろとは言いませんから、\n"
+"その手に纏った癒しを、また振り撒いてみませんか。"
+msgstr ""
+
+#. ID 10, Page 3, Line 72, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"求めている人は、\\.\\.数知れぬでしょう。"
+msgstr ""
+
+#. ID 10, Page 3, Line 78, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"結局は…\\|老いを容認した不甲斐無さか…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 83, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"また…。\\|一線に立てるだろうか…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 85, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"それは私の知る所では在りません。"
+msgstr ""
+
+#. ID 10, Page 3, Line 90, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"物置の奥に、\n"
+"昔の白衣と道具一式が今も眠っている。"
+msgstr ""
+
+#. ID 10, Page 3, Line 93, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"過去の栄光と蔑むばかりだったが、\n"
+"捨てなくて正解だったな。"
+msgstr ""
+
+#. ID 10, Page 3, Line 101, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"礼を言おう。\\|\n"
+"御陰で天職が見付かった。"
+msgstr ""
+

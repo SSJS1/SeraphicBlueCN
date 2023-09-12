@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 6, Pos (13,4)
+msgid ""
+"レイク：\n"
+"おい、カードキーを持ってないか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 8, Pos (13,4)
+msgid ""
+"職員：\n"
+"ああ…。\\.\\.それなら…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 18, Pos (13,4)
+msgid ""
+"職員：\n"
+"頼んだよ。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 5, Pos (6,4)
+msgid ""
+"レイク：\n"
+"おい、\\.\\.カードキーを\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 14, Pos (6,4)
+msgid ""
+"職員：\n"
+"キャ\\S[3]ーーーーーーッ!!\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 21, Pos (6,4)
+msgid ""
+"レイク：\n"
+"俺の顔がイーヴルに見えたらしいな。"
+msgstr ""
+
+#. ID 14, Page 1, Line 23, Pos (6,4)
+msgid ""
+"レイク：\n"
+"そんな人相悪い心算は無いんだが…。"
+msgstr ""
+

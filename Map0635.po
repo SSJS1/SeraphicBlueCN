@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 28, Page 1, Line 4, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"準備は出来たか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 6, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"はい。\\.\\.全システムスタンバイ完了です。"
+msgstr ""
+
+#. ID 28, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"よし、\\.\\.浮上しろ。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 10, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"しかしその前に、上の市街地の人間を\n"
+"避難させなくてはなりません。"
+msgstr ""
+
+#. ID 28, Page 1, Line 13, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"避難命令を発令してから住民の避難が完了し、\n"
+"更に最終点検を行う場合…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"その必要は無い。\\.\\.\n"
+"今直ぐに浮上を開始しろ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 22, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"\\S[2]はい…？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"聞こえなかったか？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 29, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"しかし…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 31, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"このラージュが浮上するには、\n"
+"上のユヴェス市街を全て爆破撤去する必要が…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"では爆破しろ。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 36, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"ですから、それに際して先ず市街地の人間の\n"
+"避難を行う必要が…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"避難は不要だ。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 44, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"\\S[2]それでは…\\.\\.市街地の人間が…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"構わん、\\.\\.殺せ。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"大掛かりな避難行動を連中に嗅ぎ付けられたら、\n"
+"要らぬ先手を打たれかねん。"
+msgstr ""
+
+#. ID 28, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"それどころか、怖気付いた者が此処の情報を\n"
+"リークしている危険性すら存在する。"
+msgstr ""
+
+#. ID 28, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"最早一刻の猶予も無い。\\.\\.\n"
+"奴らが来る前に浮上し迎撃可能にしておかなくては。"
+msgstr ""
+
+#. ID 28, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"さあ、\\.\\.市街地を爆破しろ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]今直ぐにだ。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 68, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"\\S[3]そんな事…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"やらぬのなら、\n"
+"貴様をユヴェスの海へ放り込むだけだ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"両手両足を鎖で縛って、\n"
+"足首に鉄球を付けて沈めて遣る。"
+msgstr ""
+
+#. ID 28, Page 1, Line 76, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"更に此処に生息する数多の海獣達が、\n"
+"貴様の肉をじわじわと喰らって行くだろう。"
+msgstr ""
+
+#. ID 28, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"皮膚が破れ、\\.\\.肉が裂かれ、\\.\\.血が噴き出し、\\.\\.\n"
+"内臓がはみ出し、\\.\\.地獄の苦痛が全身を襲う。"
+msgstr ""
+
+#. ID 28, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"窒息する苦しみと、身体を食われる苦しみ。\\|\n"
+"その二重苦を味わい死んで逝く訳だ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[5]私は構わんぞ？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 91, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"ひィッ…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 96, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"\\S[2]分かりました…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 103, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 108, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"ラージュシステム起動…！"
+msgstr ""
+
+#. ID 28, Page 1, Line 123, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"コンディション、オールグリーン。"
+msgstr ""
+
+#. ID 28, Page 1, Line 125, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"機体浮上プログラム開始。\\.\\.\n"
+"海上都市ユヴェスの爆破撤去プロセスに移行。"
+msgstr ""
+
+#. ID 28, Page 1, Line 128, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"爆破準備、完了。\\.\\.\n"
+"最高責任者の許可を求めます。"
+msgstr ""
+
+#. ID 28, Page 1, Line 131, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"よし、\\.\\.始めろ。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 136, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"許可を確認…。\\|\n"
+"爆破カウントダウン、開始します…。"
+msgstr ""
+

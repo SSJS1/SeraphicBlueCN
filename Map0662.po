@@ -1,0 +1,656 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 3, Pos (12,7)
+msgid ""
+"ドリス：\n"
+"カゼがとってもキモチイイよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 5, Pos (12,7)
+msgid ""
+"ドリス：\n"
+"どんなコトがあっても、\n"
+"みんな吹き飛んじゃうくらい。"
+msgstr ""
+
+#. ID 6, Page 1, Line 3, Pos (12,11)
+msgid ""
+"ヤンシー：\n"
+"ドリス、心なしか\n"
+"前よりも生き生きしてるわよね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]レイクの死。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ゲオルクとの最後の戦いの果て。\\|\n"
+"勝利と引き換えに待ち受けていた結末。"
+msgstr ""
+
+#. ID 7, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"だがレイクは、\\.\\.まるで安息の地を\n"
+"見付けたかの様に満たされていた。"
+msgstr ""
+
+#. ID 7, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう…。\\|それだけが救い…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そして私は、レイクの魂をこの内に宿した。"
+msgstr ""
+
+#. ID 7, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"シリア･ローズバーグ。\\|\n"
+"ユアン･オースティン。\\|\n"
+"レイク･ランドヴェリー。"
+msgstr ""
+
+#. ID 7, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"今の私の中には、\n"
+"セラフィックブルーたる３人の魂が在る。"
+msgstr ""
+
+#. ID 7, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"即ち、元来別たれた本体と両翼とが会合し、\n"
+"私一人に於いて一個の完全な天使を形作った物。"
+msgstr ""
+
+#. ID 7, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それが今の私。"
+msgstr ""
+
+#. ID 7, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"単身に依ってガイアリバースを為す存在。\\|\n"
+"単身にしてセラフィックブルー\"そのもの\"たる存在。"
+msgstr ""
+
+#. ID 7, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"セラフィックブルー･セルフ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう…。\\|\n"
+"唯一つ\"その部分\"を除いて…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"この天使に未だ足りない最後の一欠片…。\\|\n"
+"離れる事無く共に在る\"彼女\"…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]彼女の名は、\\|ヴェーネ･\\.\\.アンスバッハ。\\|\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"                   \\S[3]享年、\\.\\.17。\\|\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 140, Pos (0,0)
+#. ID 7, Page 1, Line 189, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"これから如何する？"
+msgstr ""
+
+#. ID 7, Page 1, Line 142, Pos (0,0)
+#. ID 7, Page 1, Line 214, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"先ずは、イリエナさんの所に行っておかないと…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 156, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おネエちゃん。\\.\\.ゲンキ出して。"
+msgstr ""
+
+#. ID 7, Page 1, Line 158, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"レイクのおニイちゃんも、\n"
+"きっとおネエちゃんを見まもってるよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 161, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ワタシだってイッショだよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 166, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そうだね。\\.\\.\n"
+"有難う、ドリス。"
+msgstr ""
+
+#. ID 7, Page 1, Line 169, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"お姉ちゃん、\\.\\.もう大丈夫だから。"
+msgstr ""
+
+#. ID 7, Page 1, Line 174, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"さあ、\\.\\.ヤンシーの所に行きなさい。\\|\n"
+"私はこれからミネルヴァと大事な話が有るの。"
+msgstr ""
+
+#. ID 7, Page 1, Line 177, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"うん、\\.\\.分かった。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 194, Pos (0,0)
+#. ID 7, Page 1, Line 232, Pos (0,0)
+#. ID 7, Page 1, Line 270, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 201, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう言えば、イリエナさんの所に\n"
+"シャルとリーナを置きっ放しね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 204, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それなら問題無いわ。\n"
+"デイジーが迎えを出して呉れた筈よ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 207, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"今頃はオーグ本部に向かってる筈。"
+msgstr ""
+
+#. ID 7, Page 1, Line 212, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 219, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"御見舞いと…\\|レイクの事…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 224, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼女も不憫ね…。\\|\n"
+"碌に傷も癒えてない身に、そんな訃報を…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 227, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"弱ってる身体を更に壊したりしないかしら？"
+msgstr ""
+
+#. ID 7, Page 1, Line 237, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"兎に角、一度顔を出しておきましょう。\\|\n"
+"レイクの事を言うか否かは其処で決めるとして。"
+msgstr ""
+
+#. ID 7, Page 1, Line 240, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうね。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 246, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それと、後で良いから\n"
+"フェスクに連絡を入れておいて呉れる？"
+msgstr ""
+
+#. ID 7, Page 1, Line 249, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"時が来たから、彼女に会わせて欲しいと。"
+msgstr ""
+
+#. ID 7, Page 1, Line 251, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 256, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうね…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 258, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\"こういう段階\"を迎えた以上は、\n"
+"\"彼女\"も迎え入れておかないと…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 261, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"今でも\"あそこ\"に維持されているんでしょう？"
+msgstr ""
+
+#. ID 7, Page 1, Line 263, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、\\.\\.勿論。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 265, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ガーデンの、\\.\\.あの部屋で…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 272, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それじゃあデイジーを通じて、\n"
+"ジークベルトに通達を入れておくわね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 278, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"やはり…\\|あの男なのね…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 280, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"仕方無いわ。\\.\\.彼が今もチーフに居座っている以上、\n"
+"彼女に関する全権は彼に属するもの。"
+msgstr ""
+
+#. ID 7, Page 1, Line 283, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"あの厭な笑いが眼に浮かぶのよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 285, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"まったく。\\.\\.明らかなミスキャスト。"
+msgstr ""
+
+#. ID 7, Page 1, Line 291, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]ふぅ…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 296, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ねえ？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 298, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 300, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そんなに急がなくても良いのよ？\\|\n"
+"少し時間を置いても…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 303, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"気遣い？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 305, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"だって…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 312, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私なら大丈夫よ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 314, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ユアンの時もそうだった。\\|\n"
+"大丈夫、大丈夫って。"
+msgstr ""
+
+#. ID 7, Page 1, Line 317, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"大丈夫だから、そう言ったまでよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 322, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そんなの、\\.\\.変よ…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 324, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何が？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 326, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"本当に…\\|悲しんでるの？"
+msgstr ""
+
+#. ID 7, Page 1, Line 328, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"悲しんでないと？"
+msgstr ""
+
+#. ID 7, Page 1, Line 330, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうじゃないわ。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 332, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"如何違うの？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 337, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]貴女…。\\|一度も泣いてない…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 339, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"変な言い草。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 347, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"もう厭、立ち直れない！\\.\\.\n"
+"エンデとの戦いもやって行けない！"
+msgstr ""
+
+#. ID 7, Page 1, Line 350, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"セラフィックブルーの使命なんか捨てて遣る！"
+msgstr ""
+
+#. ID 7, Page 1, Line 355, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"…と、こんな具合かしら。"
+msgstr ""
+
+#. ID 7, Page 1, Line 357, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ワンワン泣き崩れて、\n"
+"そんな無様な台詞を吐いてみろとでも？"
+msgstr ""
+
+#. ID 7, Page 1, Line 363, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 370, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"良いじゃない。\\.\\.\n"
+"泣いて喚いて立ち止まるより。"
+msgstr ""
+
+#. ID 7, Page 1, Line 373, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"押し殺した涙の数だけ、\n"
+"ガイアキャンサーを叩き潰す。"
+msgstr ""
+
+#. ID 7, Page 1, Line 376, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私に求められている事って、\n"
+"そういう事じゃないの？"
+msgstr ""
+
+#. ID 7, Page 1, Line 384, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"出発よ。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 395, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"悪いとは言わない…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 400, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"でも、この違和感は何…？\\|\n"
+"本当にこれが正しいの…？"
+msgstr ""
+
+#. ID 7, Page 1, Line 406, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"セラフィックブルー…？\\|\n"
+"星を救う天使…？"
+msgstr ""
+
+#. ID 7, Page 1, Line 412, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[3]何かが…\\|違う…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 3, Line 13, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"空の門番は貴方という訳ね、ジョシュア。"
+msgstr ""
+
+#. ID 7, Page 3, Line 15, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"今まではガイアキャンサーを倒して貰う為\n"
+"生かしておいたがな。"
+msgstr ""
+
+#. ID 7, Page 3, Line 18, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"そろそろ散って貰おう。"
+msgstr ""
+
+#. ID 7, Page 3, Line 23, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でもその前に教えて欲しいわね。"
+msgstr ""
+
+#. ID 7, Page 3, Line 25, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"この世界を終わらせる事が、\n"
+"子供達への愛やら贈り物に成るという…。"
+msgstr ""
+
+#. ID 7, Page 3, Line 28, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"分からんと言うのか、その意味が？"
+msgstr ""
+
+#. ID 7, Page 3, Line 30, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\"そういう事\"は、\n"
+"在ってはならない事なのよ。"
+msgstr ""
+
+#. ID 7, Page 3, Line 37, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"だが私も\"古い\"人間でな。"
+msgstr ""
+
+#. ID 7, Page 3, Line 39, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"父親たる者、\n"
+"多くを語らず敢然と家族の楯と成るべし。"
+msgstr ""
+
+#. ID 7, Page 3, Line 42, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"レオナかケインに訊けと？"
+msgstr ""
+
+#. ID 7, Page 3, Line 44, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"此処で死に逝くとは思わないのか？"
+msgstr ""
+
+#. ID 7, Page 3, Line 46, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"死に場所としてこんな中途半端も無いわね。"
+msgstr ""
+
+#. ID 7, Page 3, Line 48, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"難儀な身の上だな。\\.\\.同情しよう。"
+msgstr ""
+
+#. ID 7, Page 3, Line 50, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"結構よ。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 3, Line 55, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"まあ良いだろう。\\.\\.\n"
+"では戦いに先んじて、一つ問う。"
+msgstr ""
+
+#. ID 7, Page 3, Line 61, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"生まれ来る事の幸せとは？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 3, Line 63, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 11, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"\\S[2]強いな…。\\|セラフィックブルー…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 13, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"\\S[2]流石は救世の天使だ…。\\|\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 23, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"\\S[2]ケイン…\\|レオナ…。\\|済まない…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 25, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"\\S[2]後は…\\|頼んだぞ…。\\|\\.\\.\\^"
+msgstr ""
+

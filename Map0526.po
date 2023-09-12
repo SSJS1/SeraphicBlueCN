@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 18, Pos (0,0)
+msgid ""
+"男性：\n"
+"あれが\"本体\"か…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 20, Pos (0,0)
+msgid ""
+"男性：\n"
+"しかしそんな何時ぞやの\"忘れ形見\"を、\n"
+"まさかこんな場所で見掛けようとは。"
+msgstr ""
+
+#. ID 8, Page 1, Line 23, Pos (0,0)
+msgid ""
+"男性：\n"
+"面白い…。\\|面白いぞ…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 28, Pos (0,0)
+msgid ""
+"男性：\n"
+"お前は今、湾曲の道を歩んでいるのだろう。"
+msgstr ""
+
+#. ID 8, Page 1, Line 30, Pos (0,0)
+msgid ""
+"男性：\n"
+"先人共の敷いた詰まらないレールは失われ、\n"
+"運命は大いなる迷走を始めているのだろう。"
+msgstr ""
+
+#. ID 8, Page 1, Line 33, Pos (0,0)
+msgid ""
+"男性：\n"
+"此処に\"彼\"が居る事が、\n"
+"その何よりの証拠なのだからな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 39, Pos (0,0)
+msgid ""
+"男性：\n"
+"さあ…。\\.\\.その運命を大いに彷徨うが良い。"
+msgstr ""
+
+#. ID 8, Page 1, Line 41, Pos (0,0)
+msgid ""
+"男性：\n"
+"そして私は、お前が必ずや\n"
+"此処に帰って来る事を確信している。"
+msgstr ""
+
+#. ID 8, Page 1, Line 47, Pos (0,0)
+msgid ""
+"男性：\n"
+"何故ならば、\\.\\.お前が\"お前\"で在るから。"
+msgstr ""
+
+#. ID 8, Page 1, Line 49, Pos (0,0)
+msgid ""
+"男性：\n"
+"それが\"絵\"で在り、\\.\\.\"ゲーム\"で在るから。"
+msgstr ""
+
+#. ID 8, Page 1, Line 54, Pos (0,0)
+msgid ""
+"男性：\n"
+"それに、あの二人とて\n"
+"眠り続けでは寂しいというもの。"
+msgstr ""
+
+#. ID 8, Page 1, Line 57, Pos (0,0)
+msgid ""
+"男性：\n"
+"時には訪ねて、語り掛けでもして遣っては如何だ？"
+msgstr ""
+
+#. ID 8, Page 1, Line 62, Pos (0,0)
+msgid ""
+"男性：\n"
+"それでは待っているぞ。\\.\\.\n"
+"そう遠くない未来の逢瀬を。"
+msgstr ""
+
+#. ID 8, Page 1, Line 65, Pos (0,0)
+msgid ""
+"男性：\n"
+"ヴェーネ･アンスバッハと、\\.\\.\n"
+"名も知れぬ天使の身体よ。"
+msgstr ""
+

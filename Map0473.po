@@ -1,0 +1,1280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 2, Line 35, Pos (0,0)
+#. ID 57, Page 1, Line 43, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"如何、\\.\\.出来そう？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 37, Pos (0,0)
+#. ID 57, Page 1, Line 45, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"ええ。\\.\\.インターフェースもすっきりしてて\n"
+"マニュアルも在りますので。"
+msgstr ""
+
+#. ID 7, Page 2, Line 40, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"基本的な操作なら行けるでしょう。"
+msgstr ""
+
+#. ID 7, Page 2, Line 45, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"まあ逆に言えば、不測の事態に陥れば\n"
+"アウトという事なのですが。"
+msgstr ""
+
+#. ID 7, Page 2, Line 48, Pos (0,0)
+#. ID 57, Page 1, Line 56, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"大丈夫よ、\\.\\.多分。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 50, Pos (0,0)
+#. ID 57, Page 1, Line 58, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"前向きな事で。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 52, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そう信じるの。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 54, Pos (0,0)
+#. ID 57, Page 1, Line 62, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"何れにせよ羨ましい事です。"
+msgstr ""
+
+#. ID 7, Page 2, Line 59, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そうだドリス。\\.\\.\n"
+"目的地を指定して呉れませんか？"
+msgstr ""
+
+#. ID 7, Page 2, Line 62, Pos (0,0)
+#. ID 7, Page 2, Line 152, Pos (0,0)
+#. ID 57, Page 1, Line 70, Pos (0,2)
+#. ID 57, Page 1, Line 157, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"うん。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 71, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]え～と…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 76, Pos (0,0)
+#. ID 57, Page 1, Line 84, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"オーグは何処に在るの？"
+msgstr ""
+
+#. ID 7, Page 2, Line 78, Pos (0,0)
+#. ID 57, Page 1, Line 86, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"分からない…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 80, Pos (0,0)
+#. ID 57, Page 1, Line 88, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"そう…。\\|\n"
+"困ったわね…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 88, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そうだ。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 90, Pos (0,0)
+#. ID 57, Page 1, Line 98, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"なぁに？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 92, Pos (0,0)
+#. ID 57, Page 1, Line 100, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"貴女の通ってたアカデミーは何処？"
+msgstr ""
+
+#. ID 7, Page 2, Line 94, Pos (0,0)
+#. ID 57, Page 1, Line 102, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"いや。\\.\\.あそこにはモドりたくない。"
+msgstr ""
+
+#. ID 7, Page 2, Line 96, Pos (0,0)
+#. ID 57, Page 1, Line 104, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"大丈夫よ。\\.\\.\n"
+"街でオーグの事を聞くだけ。"
+msgstr ""
+
+#. ID 7, Page 2, Line 99, Pos (0,0)
+#. ID 57, Page 1, Line 107, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"アカデミーには戻らないわ。"
+msgstr ""
+
+#. ID 7, Page 2, Line 104, Pos (0,0)
+#. ID 57, Page 1, Line 112, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"ほんと？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 106, Pos (0,0)
+#. ID 57, Page 1, Line 114, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"本当よ。\\|約束するわ。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 114, Pos (0,0)
+#. ID 57, Page 1, Line 122, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"アカデミーがあるのはココよ。"
+msgstr ""
+
+#. ID 7, Page 2, Line 116, Pos (0,0)
+#. ID 57, Page 1, Line 124, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"テンシオウト、ミネルヴァっていうの。"
+msgstr ""
+
+#. ID 7, Page 2, Line 118, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"天使王都ミネルヴァ…。\\|\n"
+"どうやらフェジテの首都のようですね。"
+msgstr ""
+
+#. ID 7, Page 2, Line 121, Pos (0,0)
+#. ID 57, Page 1, Line 129, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"分かりました。\\.\\.\n"
+"では此処を目的地にしましょう。"
+msgstr ""
+
+#. ID 7, Page 2, Line 134, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"到着までまだ時間が在ります。\\.\\.\n"
+"少し休みましょう。"
+msgstr ""
+
+#. ID 7, Page 2, Line 137, Pos (0,0)
+#. ID 57, Page 1, Line 145, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"離れて大丈夫なの？"
+msgstr ""
+
+#. ID 7, Page 2, Line 139, Pos (0,0)
+#. ID 57, Page 1, Line 147, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"現在地からミネルヴァまで一直線のルートを取って\n"
+"オートパイロットにしておきました。"
+msgstr ""
+
+#. ID 7, Page 2, Line 142, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"後はお任せです。"
+msgstr ""
+
+#. ID 7, Page 2, Line 144, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そう。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 150, Pos (0,0)
+#. ID 57, Page 1, Line 155, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"ドリス、\\.\\.少し休もうか？"
+msgstr ""
+
+#. ID 7, Page 3, Line 8, Pos (0,0)
+#. ID 7, Page 4, Line 241, Pos (0,0)
+#. ID 7, Page 5, Line 89, Pos (0,0)
+#. ID 57, Page 2, Line 8, Pos (0,2)
+#. ID 57, Page 3, Line 242, Pos (0,2)
+#. ID 57, Page 4, Line 90, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 3, Line 13, Pos (0,0)
+#. ID 57, Page 2, Line 13, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"ふぅ…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 3, Line 21, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"おや、\\.\\.意外な物をお持ちなのですね。"
+msgstr ""
+
+#. ID 7, Page 3, Line 23, Pos (0,0)
+#. ID 57, Page 2, Line 23, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"意外？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 3, Line 28, Pos (0,0)
+#. ID 57, Page 2, Line 28, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"ああ…\\.\\.このロケットか。"
+msgstr ""
+
+#. ID 7, Page 3, Line 30, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"確かに、男が持ち歩くには\n"
+"少し愛嬌が有るかもな。"
+msgstr ""
+
+#. ID 7, Page 3, Line 38, Pos (0,0)
+#. ID 57, Page 2, Line 38, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"女の子の肖像画…。\\|\n"
+"それにメッセージも…。"
+msgstr ""
+
+#. ID 7, Page 3, Line 49, Pos (0,0)
+#. ID 57, Page 2, Line 49, Pos (0,2)
+msgid ""
+"\n"
+"ニクソン：\n"
+"お誕生日おめでとう、アイシャ…。"
+msgstr ""
+
+#. ID 7, Page 3, Line 53, Pos (0,0)
+#. ID 57, Page 2, Line 53, Pos (0,2)
+msgid ""
+"\n"
+"ニクソン：\n"
+"娘さんなのでしょう？\\|\n"
+"クラシックな御趣味ですね。"
+msgstr ""
+
+#. ID 7, Page 3, Line 58, Pos (0,0)
+#. ID 57, Page 2, Line 58, Pos (0,2)
+msgid ""
+"\n"
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 3, Line 62, Pos (0,0)
+#. ID 57, Page 2, Line 62, Pos (0,2)
+msgid ""
+"\n"
+"ニクソン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 3, Line 66, Pos (0,0)
+#. ID 57, Page 2, Line 66, Pos (0,2)
+msgid ""
+"\n"
+"ニクソン：\n"
+"済みません…。\\|\n"
+"私とした事が気が利かなくて…。"
+msgstr ""
+
+#. ID 7, Page 3, Line 78, Pos (0,0)
+#. ID 57, Page 2, Line 78, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"実は私も同じなのですよ。"
+msgstr ""
+
+#. ID 7, Page 3, Line 80, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"以前バウンティハンターをしていた頃、\n"
+"稼業にのめり込んで妻と娘に逃げられましてね。"
+msgstr ""
+
+#. ID 7, Page 3, Line 86, Pos (0,0)
+#. ID 57, Page 2, Line 86, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"いやはや、\\.\\.流れ者が所帯を持っても\n"
+"碌な事に成りません。"
+msgstr ""
+
+#. ID 7, Page 3, Line 92, Pos (0,0)
+#. ID 57, Page 2, Line 92, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"まあな…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 3, Line 97, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それで、渡せそうなんですか？\\.\\.\n"
+"そのロケット。"
+msgstr ""
+
+#. ID 7, Page 3, Line 105, Pos (0,0)
+#. ID 57, Page 2, Line 105, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"如何なんだろうな…。\\|\n"
+"もう長い事、良い機会に恵まれていない。"
+msgstr ""
+
+#. ID 7, Page 3, Line 108, Pos (0,0)
+#. ID 57, Page 2, Line 108, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"何時かはケリを付けなくてはいけないと、\\.\\.\n"
+"そう思ってはいるのだが…。"
+msgstr ""
+
+#. ID 7, Page 3, Line 114, Pos (0,0)
+#. ID 57, Page 2, Line 114, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"やはりそうですね…。\\|\n"
+"何時かは決着を付けないと…。"
+msgstr ""
+
+#. ID 7, Page 3, Line 117, Pos (0,0)
+#. ID 57, Page 2, Line 117, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"生乾きの未練など、所詮は偽りと逃避。"
+msgstr ""
+
+#. ID 7, Page 3, Line 119, Pos (0,0)
+#. ID 57, Page 2, Line 119, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"開いては塞がりを繰り返すだけの、\n"
+"体の悪い傷でしかないのですから。"
+msgstr ""
+
+#. ID 7, Page 3, Line 125, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"お互い、\\.\\.傷が\"治る\"と良いですね。"
+msgstr ""
+
+#. ID 7, Page 3, Line 127, Pos (0,0)
+#. ID 57, Page 2, Line 127, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"切に願おう。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 3, Line 142, Pos (0,0)
+#. ID 57, Page 2, Line 142, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"こうして私達は、ロビン秘密工場を出発し、\n"
+"フェジテの天使王都ミネルヴァを目指した。"
+msgstr ""
+
+#. ID 7, Page 3, Line 145, Pos (0,0)
+#. ID 57, Page 2, Line 145, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"航行は順調かに思われた。"
+msgstr ""
+
+#. ID 7, Page 3, Line 153, Pos (0,0)
+#. ID 57, Page 2, Line 153, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"しかしフェジテ南部大陸手前、\\.\\.船がグラウンド空域から\n"
+"フェジテ空域へと差し掛かった直後。"
+msgstr ""
+
+#. ID 7, Page 3, Line 156, Pos (0,0)
+#. ID 57, Page 2, Line 156, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"事態は急転したのだった…。"
+msgstr ""
+
+#. ID 7, Page 4, Line 9, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"あれは…！ \\.\\.この船と同型の船…？"
+msgstr ""
+
+#. ID 7, Page 4, Line 11, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"デイジーキ。\\.\\.\n"
+"セイフのヒコウセンだよ。"
+msgstr ""
+
+#. ID 7, Page 4, Line 14, Pos (0,0)
+#. ID 57, Page 3, Line 14, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"黒獅子機の\"コピー元\"という訳か。"
+msgstr ""
+
+#. ID 7, Page 4, Line 21, Pos (0,0)
+#. ID 57, Page 3, Line 21, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"デイジー機…。\\|\n"
+"フェジテ政府軍の船…。"
+msgstr ""
+
+#. ID 7, Page 4, Line 24, Pos (0,0)
+#. ID 57, Page 3, Line 24, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"やはり捕捉されてしまったか…。"
+msgstr ""
+
+#. ID 7, Page 4, Line 26, Pos (0,0)
+#. ID 57, Page 3, Line 26, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"まあ連中の部隊が工場を襲った時点で、\n"
+"それなりの警戒態勢は確定していたのだがな…。"
+msgstr ""
+
+#. ID 7, Page 4, Line 32, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"ニクソン、\\.\\.状況は？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 34, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"不味いですね。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 36, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"正三角形状に三方よりマーク。\n"
+"僅かな乱れも無い完璧な隊列です。"
+msgstr ""
+
+#. ID 7, Page 4, Line 42, Pos (0,0)
+#. ID 57, Page 3, Line 42, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"これは大人しく投降かしらね…。\\|\n"
+"私達は戦いに来た訳じゃないんだし…。"
+msgstr ""
+
+#. ID 7, Page 4, Line 45, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"向こうもそう期待しているでしょう。"
+msgstr ""
+
+#. ID 7, Page 4, Line 57, Pos (0,0)
+#. ID 57, Page 3, Line 58, Pos (0,2)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 62, Pos (0,0)
+#. ID 57, Page 3, Line 63, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"警報…!?\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 64, Pos (0,0)
+#. ID 57, Page 3, Line 65, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"何が起きてる！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 66, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"分かりません…！\\.\\.\n"
+"何やらシステムが…！"
+msgstr ""
+
+#. ID 7, Page 4, Line 74, Pos (0,0)
+msgid ""
+"音声：\n"
+"エマージェンシー。\\.\\.\n"
+"フェジテ軍ストラテジーＳを検知しました。"
+msgstr ""
+
+#. ID 7, Page 4, Line 77, Pos (0,0)
+#. ID 57, Page 3, Line 78, Pos (0,2)
+msgid ""
+"音声：\n"
+"オートパイロットオペレーション、\n"
+"エスケープモードを確認。"
+msgstr ""
+
+#. ID 7, Page 4, Line 80, Pos (0,0)
+msgid ""
+"音声：\n"
+"自動回避及び逃走を行います。\\.\\.\n"
+"全乗員は物に掴まる等、安定姿勢を取ってください。"
+msgstr ""
+
+#. ID 7, Page 4, Line 90, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ちょっと…！ \\.\\.何なのよッ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 92, Pos (0,0)
+#. ID 57, Page 3, Line 93, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"如何やらデイジー機の包囲隊列を検出し、\n"
+"自動で逃げるよう設定されていたみたいですね…。"
+msgstr ""
+
+#. ID 7, Page 4, Line 95, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"冗談じゃないわ！\\.\\.\n"
+"何とかして！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 98, Pos (0,0)
+#. ID 57, Page 3, Line 99, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"この局面で逃走なんかしても\n"
+"話が拗れるだけよ！"
+msgstr ""
+
+#. ID 7, Page 4, Line 101, Pos (0,0)
+#. ID 57, Page 3, Line 102, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"まあ、それは重々分かっているのですが…。"
+msgstr ""
+
+#. ID 7, Page 4, Line 106, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"駄目ですね…。\\.\\.\n"
+"まるで操作を受け付けて呉れません…。"
+msgstr ""
+
+#. ID 7, Page 4, Line 109, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"マニュアルに無いのか？"
+msgstr ""
+
+#. ID 7, Page 4, Line 111, Pos (0,0)
+#. ID 57, Page 3, Line 112, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"今探してますが、\n"
+"込み入ってて非常に読み辛いです。"
+msgstr ""
+
+#. ID 7, Page 4, Line 114, Pos (0,0)
+#. ID 57, Page 3, Line 115, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"技術にばかり傾倒して使う人間の事を考えない、\n"
+"無能な技術屋の仕事かと。"
+msgstr ""
+
+#. ID 7, Page 4, Line 120, Pos (0,0)
+#. ID 57, Page 3, Line 121, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"もうッ！ \\.\\.口ばかりじゃない！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 132, Pos (0,0)
+#. ID 57, Page 3, Line 133, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"おい！ \\.\\.何してる！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 134, Pos (0,0)
+#. ID 57, Page 3, Line 135, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"見れば分かるでしょ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 140, Pos (0,0)
+#. ID 57, Page 3, Line 141, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"ああッ…！\\.\\.\n"
+"止めてください…！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 143, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"平気よ！ \\.\\.機械なんて叩けば何とか成るわ！\\|\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 149, Pos (0,0)
+#. ID 57, Page 3, Line 150, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"おネエちゃん、\\.\\.ランボウ…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 151, Pos (0,0)
+#. ID 57, Page 3, Line 152, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"まったくだ。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 156, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"さっさと止まりなさいよ！\\.\\.\n"
+"このポンコツ！"
+msgstr ""
+
+#. ID 7, Page 4, Line 173, Pos (0,0)
+msgid ""
+"音声：\n"
+"操作系ハードウェアに異常発生。\\.\\.\n"
+"オペレーションを停止します。"
+msgstr ""
+
+#. ID 7, Page 4, Line 181, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"\\S[2]止まった…？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 183, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ほら見なさい。\\.\\.\n"
+"機械なんて適当に叩けば良いのよ。"
+msgstr ""
+
+#. ID 7, Page 4, Line 195, Pos (0,0)
+#. ID 57, Page 3, Line 196, Pos (0,2)
+msgid ""
+"音声：\n"
+"エマージェンシー、\n"
+"クリティカルレベルを発令します。"
+msgstr ""
+
+#. ID 7, Page 4, Line 199, Pos (0,0)
+#. ID 57, Page 3, Line 200, Pos (0,2)
+msgid ""
+"音声：\n"
+"浮揚装置の出力が低下しています。\n"
+"操舵機構に異常が発生しています。"
+msgstr ""
+
+#. ID 7, Page 4, Line 203, Pos (0,0)
+#. ID 57, Page 3, Line 204, Pos (0,2)
+msgid ""
+"音声：\n"
+"船体高度低下。\n"
+"進行方向が制御出来ません。"
+msgstr ""
+
+#. ID 7, Page 4, Line 206, Pos (0,0)
+#. ID 57, Page 3, Line 207, Pos (0,2)
+msgid ""
+"音声：\n"
+"ライフライン起動、不時着オペレーションを開始。\n"
+"対衝撃バリアの展開を開始します。"
+msgstr ""
+
+#. ID 7, Page 4, Line 209, Pos (0,0)
+#. ID 57, Page 3, Line 210, Pos (0,2)
+msgid ""
+"音声：\n"
+"全乗員は直ちに衝撃に備えてください。"
+msgstr ""
+
+#. ID 7, Page 4, Line 218, Pos (0,0)
+#. ID 57, Page 3, Line 219, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"おネエちゃんのせい…？"
+msgstr ""
+
+#. ID 7, Page 4, Line 223, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"さて、何方の結果が良かったのやら…。\\|\n"
+"何れ相手方への態度としては等しいのですが…。"
+msgstr ""
+
+#. ID 7, Page 4, Line 226, Pos (0,0)
+#. ID 57, Page 3, Line 227, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"こっちの方が良いに決まってる。"
+msgstr ""
+
+#. ID 7, Page 4, Line 228, Pos (0,0)
+#. ID 57, Page 3, Line 229, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"どうして？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 4, Line 235, Pos (0,0)
+#. ID 57, Page 3, Line 236, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"あらゆる努力を尽くしたわ。\\|\n"
+"挑戦という人の業。"
+msgstr ""
+
+#. ID 7, Page 4, Line 246, Pos (0,0)
+#. ID 57, Page 3, Line 247, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"取り敢えず、\\.\\.\n"
+"そういう事にしておきましょうか。"
+msgstr ""
+
+#. ID 7, Page 5, Line 7, Pos (0,0)
+msgid ""
+"？？？：\n"
+"\\S[5]おネエちゃん…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 5, Line 10, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]メンチュン…？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 5, Line 13, Pos (0,0)
+#. ID 57, Page 4, Line 13, Pos (0,2)
+msgid ""
+"？？？：\n"
+"\\S[2]ねえ…。\\|おネエちゃんってば…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 5, Line 16, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]御免なさい…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 5, Line 18, Pos (0,0)
+#. ID 57, Page 4, Line 18, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]今ならば、\\.\\.\n"
+"貴女を守れたかも知れないのに…。\\|\\|\\^"
+msgstr ""
+
+#. ID 7, Page 5, Line 22, Pos (0,0)
+#. ID 57, Page 4, Line 22, Pos (0,2)
+msgid ""
+"？？？：\n"
+"起きてよ…。\\|\n"
+"ヤンシーおネエちゃん…。\\|\\|\\^"
+msgstr ""
+
+#. ID 7, Page 5, Line 31, Pos (0,0)
+#. ID 57, Page 4, Line 31, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 5, Line 36, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]ドリス…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 5, Line 41, Pos (0,0)
+#. ID 57, Page 4, Line 41, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"良かった。\\|\n"
+"これでみんな起きたね。"
+msgstr ""
+
+#. ID 7, Page 5, Line 44, Pos (0,0)
+#. ID 57, Page 4, Line 44, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"おネエちゃん、\\.\\.ケガとか無い？"
+msgstr ""
+
+#. ID 7, Page 5, Line 46, Pos (0,0)
+#. ID 57, Page 4, Line 46, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"ええ…。\\|\n"
+"大丈夫よ、心配しないで。"
+msgstr ""
+
+#. ID 7, Page 5, Line 53, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"おはようございます。"
+msgstr ""
+
+#. ID 7, Page 5, Line 55, Pos (0,0)
+#. ID 57, Page 4, Line 55, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"夢見は悪かったようだがな。"
+msgstr ""
+
+#. ID 7, Page 5, Line 62, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"別に。\\.\\.大した事じゃないわ。"
+msgstr ""
+
+#. ID 7, Page 5, Line 67, Pos (0,0)
+#. ID 57, Page 4, Line 67, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"飛行船、\\.\\.着陸したのね…。"
+msgstr ""
+
+#. ID 7, Page 5, Line 69, Pos (0,0)
+#. ID 57, Page 4, Line 69, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"ええ。\\.\\.あのまま制御を失って不時着しました。"
+msgstr ""
+
+#. ID 7, Page 5, Line 71, Pos (0,0)
+#. ID 57, Page 4, Line 71, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"幸い優れた安全機構が備わっていたので、\n"
+"大破する事も無くこうして皆無事で居る訳です。"
+msgstr ""
+
+#. ID 7, Page 5, Line 79, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"外の様子は？ \\.\\.もう確かめたの？"
+msgstr ""
+
+#. ID 7, Page 5, Line 81, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"ああ、\\.\\.お前が寝ている間に。"
+msgstr ""
+
+#. ID 7, Page 5, Line 83, Pos (0,0)
+#. ID 57, Page 4, Line 84, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"だが少々厄介な所に降りてしまったようだ。\\|\n"
+"誰かさんの荒療治の所為でな。"
+msgstr ""
+
+#. ID 7, Page 5, Line 86, Pos (0,0)
+#. ID 57, Page 4, Line 87, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"煩いわね。\\.\\.\n"
+"過ぎた事を何時までも根に持たないの。"
+msgstr ""
+
+#. ID 7, Page 5, Line 94, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"外に出ましょ。\\.\\.\n"
+"私も様子が見てみたいわ。"
+msgstr ""
+
+#. ID 7, Page 5, Line 97, Pos (0,0)
+#. ID 57, Page 4, Line 98, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"中々の絶景ですよ。"
+msgstr ""
+
+#. ID 7, Page 5, Line 99, Pos (0,0)
+#. ID 57, Page 4, Line 100, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"悪くないわね。"
+msgstr ""
+
+#. ID 7, Page 5, Line 119, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ヤンシーおネエちゃん…。"
+msgstr ""
+
+#. ID 7, Page 5, Line 121, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ナンだか…\\|カナしそう…。\\|\\^"
+msgstr ""
+
+#. ID 57, Page 1, Line 21, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"飛行船、\\.着陸したのね…。"
+msgstr ""
+
+#. ID 57, Page 1, Line 23, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"ええ。\\.あのまま制御を失って不時着しました。"
+msgstr ""
+
+#. ID 57, Page 1, Line 48, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"極基本的な操作だけなら行けるでしょう。"
+msgstr ""
+
+#. ID 57, Page 1, Line 53, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"まあ、\\.\\.逆に言えば不測の事態に陥れば\n"
+"アウトという事なのですが。"
+msgstr ""
+
+#. ID 57, Page 1, Line 60, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"そう信じるのよ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 57, Page 1, Line 67, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"そうだドリス。\n"
+"目的地を指定して呉れませんか？"
+msgstr ""
+
+#. ID 57, Page 1, Line 79, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"\\S[2]え～と…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 57, Page 1, Line 96, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"そうだドリス。\\|\\^"
+msgstr ""
+
+#. ID 57, Page 1, Line 126, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"天使王都ミネルヴァですか。\\|\n"
+"鑑みるにフェジテの首都のようですね。"
+msgstr ""
+
+#. ID 57, Page 1, Line 142, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"到着までまだ時間が在ります。\n"
+"少し休みましょう。"
+msgstr ""
+
+#. ID 57, Page 1, Line 150, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"ミネルヴァの近くまでは自動で航行して呉れます。"
+msgstr ""
+
+#. ID 57, Page 1, Line 152, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"それなら大丈夫ね。"
+msgstr ""
+
+#. ID 57, Page 2, Line 21, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"おや、\\.\\.意外な物を御持ちなのですね。"
+msgstr ""
+
+#. ID 57, Page 2, Line 30, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"確かに、男が持ち歩くには\n"
+"少し愛嬌が在り過ぎるかも知れないな。"
+msgstr ""
+
+#. ID 57, Page 2, Line 80, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"以前バウンティハンターをしていた頃、\n"
+"稼業にのめり込み過ぎて妻と娘に逃げられましてね。"
+msgstr ""
+
+#. ID 57, Page 2, Line 97, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"それで、渡せそうなんですか？\\|\n"
+"そのロケット。"
+msgstr ""
+
+#. ID 57, Page 2, Line 125, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"御互い、\\.\\.傷が\"治る\"と良いですね。"
+msgstr ""
+
+#. ID 57, Page 3, Line 9, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"あれは…！ \\|この船と同型の船…？"
+msgstr ""
+
+#. ID 57, Page 3, Line 11, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"あれ、デイジーキ。\\|\n"
+"セイフのヒコウセンだよ。"
+msgstr ""
+
+#. ID 57, Page 3, Line 32, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"ニクソン、\\.\\.状況は如何だ？"
+msgstr ""
+
+#. ID 57, Page 3, Line 34, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"不味いですね。"
+msgstr ""
+
+#. ID 57, Page 3, Line 36, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"正三角形状に三方よりマーク。\\|\n"
+"僅かな乱れも無い完璧な隊列です。"
+msgstr ""
+
+#. ID 57, Page 3, Line 45, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"それが賢明かと。\\|\n"
+"向こうもそれを期待しているでしょう。"
+msgstr ""
+
+#. ID 57, Page 3, Line 67, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"分かりません…！\\|\n"
+"何やらシステムが起動しているようですが…。"
+msgstr ""
+
+#. ID 57, Page 3, Line 75, Pos (0,2)
+msgid ""
+"音声：\n"
+"エマージェンシー。\\|\n"
+"フェジテ軍ストラテジーＳを検知しました。"
+msgstr ""
+
+#. ID 57, Page 3, Line 81, Pos (0,2)
+msgid ""
+"音声：\n"
+"自動回避及び逃走を行います。\\|\n"
+"全乗員は物に掴まる等、安定姿勢を取ってください。"
+msgstr ""
+
+#. ID 57, Page 3, Line 91, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"ちょっと…！ \\|何なのよッ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 57, Page 3, Line 96, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"冗談じゃないわ！\\|\n"
+"何とかして！\\|\\^"
+msgstr ""
+
+#. ID 57, Page 3, Line 107, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"駄目ですね…。\\|\n"
+"まるで操作を受け付けて呉れません…。"
+msgstr ""
+
+#. ID 57, Page 3, Line 110, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"マニュアルは探してみたのか？"
+msgstr ""
+
+#. ID 57, Page 3, Line 144, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"平気よ！ \\|機械なんて叩けば何とか成るわ！\\|\\|\\^"
+msgstr ""
+
+#. ID 57, Page 3, Line 157, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"さっさと止まりなさいよ！\\|\\.\\.\n"
+"このポンコツ！\\|\\^"
+msgstr ""
+
+#. ID 57, Page 3, Line 174, Pos (0,2)
+msgid ""
+"音声：\n"
+"操作系ハードウェアに異常発生。\\|\n"
+"オペレーションを停止します。"
+msgstr ""
+
+#. ID 57, Page 3, Line 182, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"\\S[2]止まった…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 57, Page 3, Line 184, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"ほ～ら見なさい。\\|\n"
+"機械なんて適当に叩けば良いのよ。"
+msgstr ""
+
+#. ID 57, Page 3, Line 224, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"さて、何方の結果が宜しかったのやら…。\\|\n"
+"何れ相手方への態度としては等しいのですが…。"
+msgstr ""
+
+#. ID 57, Page 4, Line 7, Pos (0,2)
+msgid ""
+"？？？：\n"
+"\\S[5]おネエちゃん…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 57, Page 4, Line 10, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]メンチュン…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 57, Page 4, Line 16, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]御免なさい…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 57, Page 4, Line 36, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]ドリス…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 57, Page 4, Line 53, Pos (0,2)
+msgid ""
+"ニクソン：\n"
+"おはよう御座います。"
+msgstr ""
+
+#. ID 57, Page 4, Line 62, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"別に。\\|大した事じゃないわ。"
+msgstr ""
+
+#. ID 57, Page 4, Line 79, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"外の様子は？\\|\n"
+"もう確かめたの？"
+msgstr ""
+
+#. ID 57, Page 4, Line 82, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"ああ、\\.\\.御前が寝ている間にな。"
+msgstr ""
+
+#. ID 57, Page 4, Line 95, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"外に出ましょ。\\|\n"
+"私も様子が見てみたいわ。"
+msgstr ""
+
+#. ID 57, Page 4, Line 120, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"\\S[2]ヤンシーおネエちゃん…。\\|\\|\\^"
+msgstr ""
+
+#. ID 57, Page 4, Line 122, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"\\S[2]ナンだか…\\|カナしそう…。\\|\\.\\.\\^"
+msgstr ""
+

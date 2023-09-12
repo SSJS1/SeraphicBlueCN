@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 26, Pos (15,8)
+msgid ""
+"ゴロツキ：\n"
+"よう兄ちゃん。\\.\\.見ない顔だな。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 33, Pos (15,8)
+msgid ""
+"レイク：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 44, Pos (15,8)
+msgid ""
+"レイク：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 47, Pos (15,8)
+msgid ""
+"レイク：\n"
+"畜生…。\\|やっちまったか…。\\|\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 56, Pos (15,8)
+msgid ""
+"レイク：\n"
+"見知らぬ世界で浮き足立ってた…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 72, Pos (15,8)
+msgid ""
+"レイク：\n"
+"何だお前ら。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 75, Pos (15,8)
+msgid ""
+"ゴロツキ：\n"
+"おう、\\.\\.よくぞ聞いて呉れた。"
+msgstr ""
+
+#. ID 9, Page 1, Line 77, Pos (15,8)
+msgid ""
+"ゴロツキ：\n"
+"俺達はこのケイオスにその名を轟かせる\n"
+"「ミート一味」よ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 80, Pos (15,8)
+msgid ""
+"レイク：\n"
+"ミート一味？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 82, Pos (15,8)
+msgid ""
+"レイク：\n"
+"何かと思えば、ゴロツキの格好した\n"
+"肉専門の美食サークルかよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 88, Pos (15,8)
+msgid ""
+"ゴロツキ：\n"
+"中々吹くじゃねえか。"
+msgstr ""
+
+#. ID 9, Page 1, Line 90, Pos (15,8)
+msgid ""
+"ゴロツキ：\n"
+"コイツは久し振りに\n"
+"ボスも御楽しみに成れそうだぜ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 97, Pos (15,8)
+msgid ""
+"ゴロツキ：\n"
+"ボ\\S[2]ーーーーース！\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 99, Pos (15,8)
+msgid ""
+"ゴロツキ：\n"
+"一名入荷ですぜ\\S[2]ーーーーー！\\|\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 104, Pos (15,8)
+msgid ""
+"？？？：\n"
+"ギヘヘヘヘ！ \\|待ってたぜッ！\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 3, Pos (4,21)
+msgid ""
+"ゴロツキ：\n"
+"逃げようったってそうは行かないぜ。"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (16,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ゴロツキ：\n"
+"覚悟は良いか？"
+msgstr ""
+
+#. ID 19, Page 1, Line 5, Pos (16,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 19, Page 1, Line 18, Pos (16,8)
+#. ID 19, Page 1, Line 27, Pos (16,8)
+msgid ""
+"ゴロツキ：\n"
+"それじゃ、\\.\\.初っ端は俺が相手だぜ！"
+msgstr ""
+
+#. ID 19, Page 1, Line 69, Pos (16,8)
+msgid ""
+"ゴロツキ：\n"
+"精々肉食っときな。"
+msgstr ""
+
+#. ID 19, Page 2, Line 6, Pos (16,8)
+msgid ""
+"ゴロツキ：\n"
+"ちくしょーーーッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 19, Page 2, Line 27, Pos (16,8)
+msgid ""
+"別のゴロツキ：\n"
+"よっしゃあ！ \\.\\.俺が殺ってやるぜ！"
+msgstr ""
+
+#. ID 19, Page 2, Line 29, Pos (16,8)
+msgid ""
+"レイク：\n"
+"冗談じゃねえ！\\.\\.\n"
+"付き合ってられるか！\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 3, Pos (3,14)
+msgid ""
+"女性：\n"
+"此処は\"元\"ミート一味の溜まり場。"
+msgstr ""
+
+#. ID 21, Page 1, Line 5, Pos (3,14)
+msgid ""
+"女性：\n"
+"ボスで在るイート･ザ･ミートが何処かの余所者に\n"
+"倒されて、挙句人間狩りでその余所者を取り逃がして\n"
+"チームは実質解散状態。"
+msgstr ""
+
+#. ID 21, Page 1, Line 9, Pos (3,14)
+msgid ""
+"女性：\n"
+"すっきりしたわ。\n"
+"以前はこの界隈、いっつも焼肉臭かったんだもの。"
+msgstr ""
+
+#. ID 21, Page 1, Line 12, Pos (3,14)
+msgid ""
+"女性：\n"
+"人肉の焼けたニオイって最悪よね。"
+msgstr ""
+

@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (13,11)
+msgid ""
+"女バウンティハンター：\n"
+"賞金首を仕留めるには、確かな腕前を前提として、\n"
+"何より情報を仕入れる手際がカギになるわ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 6, Pos (13,11)
+msgid ""
+"女バウンティハンター：\n"
+"誰よりも早く新鮮な情報を手に入れ、\n"
+"誰よりも早く賞金首を狩る。"
+msgstr ""
+
+#. ID 3, Page 1, Line 9, Pos (13,11)
+msgid ""
+"女バウンティハンター：\n"
+"今まで色々情報屋を当たったけれど、\n"
+"此処のマスターが一番早くてアテに成るわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 3, Pos (13,11)
+msgid ""
+"女バウンティハンター：\n"
+"解放戦争の勃発で情勢が混乱してるみたいね。\n"
+"情報の仕入れが目に見えて遅く成ってるわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 6, Pos (13,11)
+msgid ""
+"女バウンティハンター：\n"
+"ゲオルクも余計な事をして呉れたものよ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 8, Pos (13,11)
+msgid ""
+"女バウンティハンター：\n"
+"この生業には、\n"
+"フェジテの支配なんて微塵の関係も無いのに。"
+msgstr ""
+
+#. ID 3, Page 2, Line 11, Pos (13,11)
+msgid ""
+"女バウンティハンター：\n"
+"逆にフェジテ無くしては、私達は食べて行けない。"
+msgstr ""
+
+#. ID 3, Page 2, Line 13, Pos (13,11)
+msgid ""
+"女バウンティハンター：\n"
+"困るのよ。イーヴルという金の生る黒翼を、\n"
+"変わらず地上に棄てて貰わないと。"
+msgstr ""
+
+#. ID 4, Page 1, Line 3, Pos (6,8)
+msgid ""
+"男性：\n"
+"客の多くはマスターから情報を買う為に来ている。\n"
+"それが表社会の物で在れ、裏社会の物で在れ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 6, Pos (6,8)
+msgid ""
+"男性：\n"
+"だが俺の目当ては違う。\n"
+"この場所の、清濁入り混じる淀んだ空気。"
+msgstr ""
+
+#. ID 4, Page 1, Line 9, Pos (6,8)
+msgid ""
+"男性：\n"
+"こいつに曝す事で、酒はその美味さを増す。"
+msgstr ""
+
+#. ID 4, Page 1, Line 11, Pos (6,8)
+msgid ""
+"男性：\n"
+"なけなしの金で安酒を楽しむ秘訣だ。"
+msgstr ""
+
+#. ID 4, Page 2, Line 3, Pos (6,8)
+msgid ""
+"男性：\n"
+"俺は戦争には参加しないぜ。\n"
+"まるで興味を惹かれない。"
+msgstr ""
+
+#. ID 4, Page 2, Line 6, Pos (6,8)
+msgid ""
+"男性：\n"
+"それよりも、フェジテにはどんな酒が在るのか。\n"
+"その方が気に成る。"
+msgstr ""
+
+#. ID 4, Page 2, Line 9, Pos (6,8)
+msgid ""
+"男性：\n"
+"そう、どんなに美味い安酒が。"
+msgstr ""
+
+#. ID 5, Page 1, Line 9, Pos (9,7)
+#. ID 5, Page 1, Line 71, Pos (9,7)
+msgid ""
+"ニクソン：\n"
+"少し街を歩いて、\n"
+"頃合に成ったらまた来ます。"
+msgstr ""
+
+#. ID 5, Page 1, Line 12, Pos (9,7)
+msgid ""
+"女性：\n"
+"分かったわ。\\.\n"
+"マスターにもそう言っとく。"
+msgstr ""
+
+#. ID 5, Page 1, Line 25, Pos (9,7)
+msgid ""
+"ヴェーネ：\n"
+"良いの？ \\.久し振りなんでしょう？"
+msgstr ""
+
+#. ID 5, Page 1, Line 27, Pos (9,7)
+msgid ""
+"ニクソン：\n"
+"構いませんよ。\\.\n"
+"それより彼が戻るまで少し時間が有ります。"
+msgstr ""
+
+#. ID 5, Page 1, Line 30, Pos (9,7)
+#. ID 5, Page 1, Line 94, Pos (9,7)
+msgid ""
+"ニクソン：\n"
+"折角ですから、さっき話した\n"
+"スカイスクレイパーにでも行きませんか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 46, Pos (9,7)
+msgid ""
+"女性：\n"
+"あらニクソンさん。\\.\\.\n"
+"お久し振り。"
+msgstr ""
+
+#. ID 5, Page 1, Line 49, Pos (9,7)
+msgid ""
+"ニクソン：\n"
+"御無沙汰しております。\\.\\.\n"
+"マキシムは留守ですか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 52, Pos (9,7)
+msgid ""
+"女性：\n"
+"御免なさいね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 54, Pos (9,7)
+msgid ""
+"女性：\n"
+"もう直ぐ戻ると思うから、\n"
+"飲んで待ってる？"
+msgstr ""
+
+#. ID 5, Page 1, Line 57, Pos (9,7)
+msgid ""
+"女性：\n"
+"奢らせて貰うわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 62, Pos (9,7)
+msgid ""
+"ニクソン：\n"
+"そうですね…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 67, Pos (9,7)
+msgid ""
+"ニクソン：\n"
+"いえ、\\.\\.やっぱり遠慮しておきますよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 69, Pos (9,7)
+msgid ""
+"女性：\n"
+"そう？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 74, Pos (9,7)
+msgid ""
+"女性：\n"
+"分かったわ。\\.\\.\n"
+"マスターにもそう言っとく。"
+msgstr ""
+
+#. ID 5, Page 1, Line 89, Pos (9,7)
+msgid ""
+"ヴェーネ：\n"
+"良いの？ \\.\\.久し振りなんでしょう？"
+msgstr ""
+
+#. ID 5, Page 1, Line 91, Pos (9,7)
+msgid ""
+"ニクソン：\n"
+"構いませんよ。\\.\\.\n"
+"それより彼が戻るまで少し時間が有ります。"
+msgstr ""
+
+#. ID 5, Page 1, Line 97, Pos (9,7)
+msgid ""
+"ヴェーネ：\n"
+"良いわね。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 102, Pos (9,7)
+msgid ""
+"レイク：\n"
+"また観光か。\\.\\.御気楽なこった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 104, Pos (9,7)
+msgid ""
+"レイク：\n"
+"エンデとアサシン。\\.\\.\n"
+"二つの流れから狙われてるってのに。"
+msgstr ""
+
+#. ID 5, Page 1, Line 110, Pos (9,7)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 115, Pos (9,7)
+msgid ""
+"レイク：\n"
+"分かってるよ。\\.\\.行けば良いんだろ？"
+msgstr ""
+
+#. ID 5, Page 1, Line 117, Pos (9,7)
+msgid ""
+"レイク：\n"
+"試しに言ってみただけさ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 119, Pos (9,7)
+msgid ""
+"レイク：\n"
+"ああ。\\.\\.試しにな。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 4, Pos (9,7)
+msgid ""
+"女性：\n"
+"マスター、未だ戻ってないのよ。\\.\\.\n"
+"御免なさいね。"
+msgstr ""
+
+#. ID 5, Page 2, Line 9, Pos (9,7)
+msgid ""
+"女性：\n"
+"マスター、未だ戻ってないのよ。\\|\n"
+"御免なさいね。"
+msgstr ""
+
+#. ID 5, Page 3, Line 3, Pos (9,7)
+msgid ""
+"女性：\n"
+"マスターったら、\n"
+"また情報収集に出掛けちゃったのよ。"
+msgstr ""
+
+#. ID 5, Page 3, Line 6, Pos (9,7)
+msgid ""
+"女性：\n"
+"一応表向きはバーって事に成ってるんだから、\n"
+"もう少しカウンターに立っていて欲しいものだわ。"
+msgstr ""
+

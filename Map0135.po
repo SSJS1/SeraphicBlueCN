@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 29, Page 1, Line 4, Pos (9,40)
+msgid ""
+"男性：\n"
+"しっかし、何時見てもこのビルは高いよな…。\n"
+"能くこんなのが立ってるもんだぜ。"
+msgstr ""
+
+#. ID 29, Page 1, Line 7, Pos (9,40)
+msgid ""
+"男性：\n"
+"それこそ風とか吹いたら\n"
+"ポキッと逝っちまいそうなんだがな。"
+msgstr ""
+
+#. ID 29, Page 1, Line 14, Pos (9,40)
+msgid ""
+"男性：\n"
+"良く良く見てみるとこのビル、\n"
+"まるでフェジテに突き刺さってるみたいだよな。"
+msgstr ""
+
+#. ID 34, Page 1, Line 3, Pos (26,31)
+msgid ""
+"老人：\n"
+"こんな摩天楼が実際にそびえ立つとは、\n"
+"若い頃は想像もしておらんかったよ。"
+msgstr ""
+
+#. ID 34, Page 1, Line 6, Pos (26,31)
+msgid ""
+"老人：\n"
+"まったくどのような仕組みになっているのやら。\n"
+"ロビンの技術力は神懸っておるわ。"
+msgstr ""
+
+#. ID 34, Page 1, Line 9, Pos (26,31)
+msgid ""
+"老人：\n"
+"そう、ある意味恐ろしい位にな。"
+msgstr ""
+
+#. ID 41, Page 1, Line 3, Pos (17,20)
+msgid ""
+"ガードマン：\n"
+"ビル内は関係者以外立ち入り禁止だ。"
+msgstr ""
+
+#. ID 45, Page 1, Line 15, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"マキシムも戻ってるかも知れませんし、\n"
+"もう一度バーの方に行ってみましょう。"
+msgstr ""
+
+#. ID 45, Page 1, Line 32, Pos (12,20)
+msgid ""
+"ヴェーネ：\n"
+"間近で見ると、更に高いわね…。"
+msgstr ""
+
+#. ID 45, Page 1, Line 34, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"実に地上45階、\\.\\.世界最高層の建造物ですからね。"
+msgstr ""
+
+#. ID 45, Page 1, Line 41, Pos (12,20)
+msgid ""
+"ヴェーネ：\n"
+"ところで、スカイスクレイパーと言ったわよね？\\|\n"
+"如何いう意味なのかしら？"
+msgstr ""
+
+#. ID 45, Page 1, Line 44, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"\"Skyscraper\"。\\.\\.\n"
+"天を摩する楼閣、摩天楼という意味です。"
+msgstr ""
+
+#. ID 45, Page 1, Line 47, Pos (12,20)
+msgid ""
+"ヴェーネ：\n"
+"ああ…。\\.\\.成る程…。\\|\\^"
+msgstr ""
+
+#. ID 45, Page 1, Line 49, Pos (12,20)
+msgid ""
+"レイク：\n"
+"ふん。\\.\\.そのまんまだな。\\|\\^"
+msgstr ""
+
+#. ID 45, Page 1, Line 56, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"しかし実はもう一つ、\\.\\.\n"
+"人々の間で密かに語られる異名も在るのです。"
+msgstr ""
+
+#. ID 45, Page 1, Line 63, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"\\S[3]バベルの塔。\\|\\^"
+msgstr ""
+
+#. ID 45, Page 1, Line 69, Pos (12,20)
+msgid ""
+"ヴェーネ：\n"
+"バベルの塔…。\\|\\^"
+msgstr ""
+
+#. ID 45, Page 1, Line 71, Pos (12,20)
+msgid ""
+"ヴェーネ：\n"
+"確か神話の中で、天を目指した人間達が建てた塔…。\\|\n"
+"神々の怒りを買って破壊された…。"
+msgstr ""
+
+#. ID 45, Page 1, Line 74, Pos (12,20)
+msgid ""
+"レイク：\n"
+"成る程、\\.\\.威圧感ばかり感じて\n"
+"いけ好かないビルだと思ってたら…。"
+msgstr ""
+
+#. ID 45, Page 1, Line 77, Pos (12,20)
+msgid ""
+"レイク：\n"
+"そいつには同意だ。"
+msgstr ""
+
+#. ID 45, Page 1, Line 82, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"ロビンの最先端技術力を以ってして建造された\n"
+"このスカイスクレイパーですが…。"
+msgstr ""
+
+#. ID 45, Page 1, Line 85, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"私には如何も、文明力の象徴として\n"
+"手放しで喜ばしく見る事は出来ないのですよ。"
+msgstr ""
+
+#. ID 45, Page 1, Line 88, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"即ち、\\.\\.ゲオルク･ローズバーグの行き過ぎた力が\n"
+"天に向けられた、バベルの塔…。"
+msgstr ""
+
+#. ID 45, Page 1, Line 94, Pos (12,20)
+msgid ""
+"ヴェーネ：\n"
+"何時かこのスカイスクレイパーも、\n"
+"バベルの塔の如く天に依り打ち滅ぼされると？"
+msgstr ""
+
+#. ID 45, Page 1, Line 97, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"実際起こる事など無いとは思いますがね。\\|\n"
+"そういう危惧を感じるのですよ。"
+msgstr ""
+
+#. ID 45, Page 1, Line 100, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"一介の小市民が抱く、\n"
+"高みを目指す事への畏れなのでしょう。"
+msgstr ""
+
+#. ID 45, Page 1, Line 112, Pos (12,20)
+msgid ""
+"レイク：\n"
+"なあ、\\.\\.そろそろ戻らないか？"
+msgstr ""
+
+#. ID 45, Page 1, Line 114, Pos (12,20)
+msgid ""
+"レイク：\n"
+"此処に居ると、何だかビルに\n"
+"見下ろされてる気がして厭なんだよ。"
+msgstr ""
+
+#. ID 45, Page 1, Line 117, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"そうですね。\\|\\^"
+msgstr ""
+
+#. ID 45, Page 1, Line 119, Pos (12,20)
+msgid ""
+"ニクソン：\n"
+"マキシムも戻ってるかも知れませんし、\n"
+"もう一度バーに行ってみましょう。"
+msgstr ""
+
+#. ID 45, Page 1, Line 130, Pos (12,20)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]スカイ…\\|スクレイパー…。\\|\\.\\.\\^"
+msgstr ""
+

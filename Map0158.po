@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"中年男：\n"
+"何だ！ \\.\\.こんな夜中に一体何事だ！"
+msgstr ""
+
+#. ID 1, Page 1, Line 11, Pos (0,0)
+msgid ""
+"職員：\n"
+"見てください室長…。\\.\\.この異常反応を…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"室長：\n"
+"何だこれは…！ \\.\\.まるで人間ではないか…！"
+msgstr ""
+
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"職員：\n"
+"ええ…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 21, Pos (0,0)
+msgid ""
+"職員：\n"
+"簡易解析処理を３回行ってみましたが、\n"
+"何れの結果も人間と出ました。"
+msgstr ""
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"室長：\n"
+"如何いう事だ…？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 29, Pos (0,0)
+msgid ""
+"職員：\n"
+"結果の通りです。\\.\\.\n"
+"恐らくあそこに人間が居るものと…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"室長：\n"
+"馬鹿なっ…！\\.\\.\n"
+"何の所以であんな所に人間が居る！"
+msgstr ""
+
+#. ID 1, Page 1, Line 35, Pos (0,0)
+msgid ""
+"職員：\n"
+"それは分かりませんが…。\\|\n"
+"しかし現実に…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 38, Pos (0,0)
+msgid ""
+"室長：\n"
+"ハードウェアの動作不良は？"
+msgstr ""
+
+#. ID 1, Page 1, Line 40, Pos (0,0)
+msgid ""
+"職員：\n"
+"ディスプレイ以外は正常です。"
+msgstr ""
+
+#. ID 1, Page 1, Line 42, Pos (0,0)
+msgid ""
+"室長：\n"
+"だから外の様子がモニターに出ていないのか。"
+msgstr ""
+
+#. ID 1, Page 1, Line 44, Pos (0,0)
+msgid ""
+"職員：\n"
+"異常発生の時点で数名をインナーリングの方に\n"
+"向かわせました。"
+msgstr ""
+
+#. ID 1, Page 1, Line 47, Pos (0,0)
+msgid ""
+"職員：\n"
+"そろそろ現場に着く頃かと。"
+msgstr ""
+
+#. ID 1, Page 1, Line 57, Pos (0,0)
+msgid ""
+"職員(左)：\n"
+"インナーリング班から報告！\n"
+"中心部に正体不明の発光体を肉眼で確認！"
+msgstr ""
+
+#. ID 1, Page 1, Line 63, Pos (0,0)
+#. ID 1, Page 1, Line 227, Pos (0,0)
+msgid ""
+"室長：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 71, Pos (0,0)
+msgid ""
+"室長：\n"
+"\\S[2]まさか…。\\|彼らの言っていた\"本体\"…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 73, Pos (0,0)
+msgid ""
+"一同：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 78, Pos (0,0)
+msgid ""
+"職員：\n"
+"\\S[2]本体って…。\\|あの本体ですか？"
+msgstr ""
+
+#. ID 1, Page 1, Line 80, Pos (0,0)
+msgid ""
+"室長：\n"
+"そうだ…。\\.\\.最早それしか…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 82, Pos (0,0)
+msgid ""
+"室長：\n"
+"この極めて特別な条件をクリアする存在など、\n"
+"世界で唯一個…！"
+msgstr ""
+
+#. ID 1, Page 1, Line 92, Pos (0,0)
+msgid ""
+"室長：\n"
+"全ホットラインに緊急連絡だ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 94, Pos (0,0)
+msgid ""
+"室長：\n"
+"デイジー代行役やオーウェン委員長以下、\n"
+"関係幹部全員。"
+msgstr ""
+
+#. ID 1, Page 1, Line 97, Pos (0,0)
+msgid ""
+"室長：\n"
+"セクションＳＢにもだ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 99, Pos (0,0)
+msgid ""
+"職員(右)：\n"
+"セクションＳＢですか？\\.\\.\n"
+"あれは何処まで連絡が付くか…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 102, Pos (0,0)
+msgid ""
+"室長：\n"
+"分かっている。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 104, Pos (0,0)
+msgid ""
+"室長：\n"
+"だが幾ら形骸化して久しいとは言え、\n"
+"関係セクションで在る事に変わりは無い。"
+msgstr ""
+
+#. ID 1, Page 1, Line 107, Pos (0,0)
+msgid ""
+"室長：\n"
+"一応一通り連絡を。\\.\\.\n"
+"それで応じない分は放って置いて構わん。"
+msgstr ""
+
+#. ID 1, Page 1, Line 113, Pos (0,0)
+msgid ""
+"室長：\n"
+"それと念の為だ。\\.\\.\n"
+"チーム･アンスバッハにも連絡を。"
+msgstr ""
+
+#. ID 1, Page 1, Line 116, Pos (0,0)
+msgid ""
+"職員(右)：\n"
+"メンバー全員にですか？"
+msgstr ""
+
+#. ID 1, Page 1, Line 118, Pos (0,0)
+msgid ""
+"室長：\n"
+"ジークベルトだけで構わん。"
+msgstr ""
+
+#. ID 1, Page 1, Line 120, Pos (0,0)
+msgid ""
+"室長：\n"
+"\"この手の話\"であの男を蚊帳の外にすると、\n"
+"後々面倒だからな。"
+msgstr ""
+
+#. ID 1, Page 1, Line 124, Pos (0,0)
+msgid ""
+"職員(右)：\n"
+"了解。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 132, Pos (0,0)
+msgid ""
+"所長：\n"
+"追跡システムを起動しろ。\\.\\.\n"
+"動き出した時に備えるんだ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 136, Pos (0,0)
+msgid ""
+"職員：\n"
+"了解。\\.\\.追跡システム起動します。"
+msgstr ""
+
+#. ID 1, Page 1, Line 144, Pos (0,0)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 149, Pos (0,0)
+msgid ""
+"職員：\n"
+"ターゲット、\\.\\.移動を開始！"
+msgstr ""
+
+#. ID 1, Page 1, Line 157, Pos (0,0)
+msgid ""
+"職員(左)：\n"
+"インナーリング班より！\\.\\.\n"
+"ターゲット微速上昇中！"
+msgstr ""
+
+#. ID 1, Page 1, Line 162, Pos (0,0)
+msgid ""
+"室長：\n"
+"追跡システムは？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 164, Pos (0,0)
+msgid ""
+"職員：\n"
+"オールグリーン！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 166, Pos (0,0)
+msgid ""
+"室長：\n"
+"よし。\\.\\.そのまま続けろ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 176, Pos (0,0)
+msgid ""
+"職員(左)：\n"
+"大変です！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 178, Pos (0,0)
+msgid ""
+"職員(左)：\n"
+"ターゲットが発光現象を停止！\\.\\.\n"
+"目視出来ません！"
+msgstr ""
+
+#. ID 1, Page 1, Line 181, Pos (0,0)
+msgid ""
+"室長：\n"
+"赤外線暗視とサーモグラフィーは！"
+msgstr ""
+
+#. ID 1, Page 1, Line 183, Pos (0,0)
+msgid ""
+"職員(左)：\n"
+"機能していません！"
+msgstr ""
+
+#. ID 1, Page 1, Line 185, Pos (0,0)
+msgid ""
+"職員(左)：\n"
+"ターゲット周囲に未確認のフィールドが展開されて\n"
+"一切の観測行為を妨害している模様！"
+msgstr ""
+
+#. ID 1, Page 1, Line 188, Pos (0,0)
+msgid ""
+"室長：\n"
+"くそう！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 198, Pos (0,0)
+msgid ""
+"室長：\n"
+"今度は何だ！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 200, Pos (0,0)
+msgid ""
+"職員：\n"
+"追跡システムの数値が異常です！\\.\\.\n"
+"妨害＜ジャミング＞を受けているものと！"
+msgstr ""
+
+#. ID 1, Page 1, Line 203, Pos (0,0)
+msgid ""
+"室長：\n"
+"対妨害＜ジャミングキャンセル＞最大レベルだ！"
+msgstr ""
+
+#. ID 1, Page 1, Line 205, Pos (0,0)
+msgid ""
+"職員：\n"
+"既にやってます！ \\.\\.全く効きません！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 212, Pos (0,0)
+msgid ""
+"職員：\n"
+"ちくしょう…！ \\|システムが…！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 219, Pos (0,0)
+msgid ""
+"職員：\n"
+"\\S[2]追跡システム、\\.\\.完全にダウン…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 221, Pos (0,0)
+msgid ""
+"室長：\n"
+"何という事だ…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 235, Pos (0,0)
+msgid ""
+"室長：\n"
+"本件の観測結果。\\.\\.ターゲットロスト。"
+msgstr ""
+
+#. ID 1, Page 1, Line 237, Pos (0,0)
+msgid ""
+"室長：\n"
+"状況終了。\\.\\.後始末を。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 245, Pos (0,0)
+msgid ""
+"職員(右)：\n"
+"室長、\\.\\.関係幹部への連絡は…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 248, Pos (0,0)
+msgid ""
+"室長：\n"
+"本体が現れた事に変わりは無い。\\.\\.\n"
+"さっきの指示通りに。"
+msgstr ""
+
+#. ID 1, Page 1, Line 254, Pos (0,0)
+msgid ""
+"室長：\n"
+"それと、寝ている連中を全部叩き起こせ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 256, Pos (0,0)
+msgid ""
+"室長：\n"
+"夜が明けて関係幹部が集まり次第緊急会議を行う。\\|\n"
+"今直ぐ準備に取り掛かるぞ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 259, Pos (0,0)
+msgid ""
+"職員(右)：\n"
+"\\S[2]今から…\\.\\.ですか…？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 261, Pos (0,0)
+msgid ""
+"室長：\n"
+"そうだ。\\.\\.今直ぐだ。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 271, Pos (0,0)
+msgid ""
+"職員：\n"
+"何方へ？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 273, Pos (0,0)
+msgid ""
+"室長：\n"
+"部屋に行ってコーヒー豆を取って来る。\\|\n"
+"昨夜届いた最上級品だ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 276, Pos (0,0)
+msgid ""
+"職員：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 279, Pos (0,0)
+msgid ""
+"室長：\n"
+"上には寝起きの悪いのが多い。\\.\\.\n"
+"美味いコーヒーでも振舞って機嫌を取らないと\n"
+"話に成らん。"
+msgstr ""
+
+#. ID 1, Page 1, Line 283, Pos (0,0)
+msgid ""
+"室長：\n"
+"特にジークベルトはな。"
+msgstr ""
+
+#. ID 1, Page 1, Line 290, Pos (0,0)
+msgid ""
+"室長：\n"
+"まったく、\\.\\.取り寄せるのに\n"
+"どれだけ手間が掛かったと思っている。"
+msgstr ""
+
+#. ID 1, Page 1, Line 293, Pos (0,0)
+msgid ""
+"室長：\n"
+"あれで\"天使\"などとは、片腹痛いわ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 298, Pos (0,0)
+msgid ""
+"室長：\n"
+"悪いが今日一日だけ、\\.\\.貴方を恨ませて貰う。"
+msgstr ""
+
+#. ID 1, Page 1, Line 300, Pos (0,0)
+msgid ""
+"室長：\n"
+"C.M.G.C.もとい政府が誇る最高の功労者、\n"
+"ドナルド･ヒューストンよ。"
+msgstr ""
+

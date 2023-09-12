@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 28, Page 1, Line 4, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"座標確認。\n"
+"王都ミネルヴァを射程内に捕捉しました。"
+msgstr ""
+
+#. ID 28, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ラージュの鉄槌、\\.\\.発射スタンバイだ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 12, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"了解。発射プログラムを起動します。"
+msgstr ""
+
+#. ID 28, Page 1, Line 18, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"ハードウェアチェック完了。\n"
+"コンディション、オールグリーン。"
+msgstr ""
+
+#. ID 28, Page 1, Line 21, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"シーベックス起動。\n"
+"エネルギーチャージを開始します。"
+msgstr ""
+
+#. ID 28, Page 1, Line 28, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"楽しそうじゃん。"
+msgstr ""
+
+#. ID 28, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"花火は大きくてこそ価値が在るものだ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 32, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"老いて尚盛んで在る秘訣かい？"
+msgstr ""
+
+#. ID 28, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"強いて言うなら少年の心よ。\\|\n"
+"お前には分からんか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 40, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"半々かな。\\.\\.\n"
+"火遊びの怖さも知ってる。"
+msgstr ""
+
+#. ID 28, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"臆病者め。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 45, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"御自由に。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 4, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"エネルギーチャージ完了。\n"
+"シーベックス、タスクコンプリート。\n"
+"発射方位異常無し。"
+msgstr ""
+
+#. ID 28, Page 2, Line 8, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"エネルギーフィールドの影響に備え、\n"
+"不関与レーダーを全て一時スリープします。"
+msgstr ""
+
+#. ID 28, Page 2, Line 15, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"レーダー、スリープを確認。"
+msgstr ""
+
+#. ID 28, Page 2, Line 17, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"プログラム完了。\n"
+"最高責任者の発射許可を要請します。"
+msgstr ""
+
+#. ID 28, Page 2, Line 23, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それじゃあ見せて貰おうかな。\\|\n"
+"世界を屠る黒獅子の牙とやらを。"
+msgstr ""
+
+#. ID 28, Page 2, Line 26, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"良いだろう。\\|刮目しておけ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 32, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ゲオルク･ローズバーグの名に於いて\n"
+"此処に命ずる。"
+msgstr ""
+
+#. ID 28, Page 2, Line 38, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ラージュの鉄槌、\\.\\.発射せよッ！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 110, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"エネルギーフィールド消滅を確認。\n"
+"全レーダーを復活します。"
+msgstr ""
+
+#. ID 28, Page 2, Line 117, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"成果を報告しろ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 122, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"データ収集完了。\n"
+"外部レーダーよりデータ受信＜ダウンロード＞します。"
+msgstr ""
+
+#. ID 28, Page 2, Line 128, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"………ッ！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 133, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"如何した。\\.\\.早く報告しろ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 139, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"\\S[3]外れました…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 145, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[10]何だと…？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 150, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"ラージュの鉄槌は天使王都ミネルヴァの北方を通過。\n"
+"大陸側面を僅かに掠めるに留まりました…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 154, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"馬鹿なッ！ \\.\\.もう一度調べ直せ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 156, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"はい…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 162, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"データ受信、完了しました。"
+msgstr ""
+
+#. ID 28, Page 2, Line 164, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"如何だ…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 169, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"駄目です…。\\|\n"
+"やはりラージュの鉄槌は外れました…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 189, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[10]馬鹿な…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 195, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"あ～あ。\\.\\.\n"
+"このシーンで不発弾＜ミスファイア＞かよ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 201, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ダッセー。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 204, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"黙れ小坊主が！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 207, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"何故だッ！\\| 何故外れたッ！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 209, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"只今原因を調査中です…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 211, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"ソフトウェアとハードウェアの両面から総チェックを\n"
+"行いますので、今暫く御時間を…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 214, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[5]急げ…！ \\|急ぐのだ…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 221, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 223, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"見付かったのか！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 225, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"はい。\\.\\.シーベックスのハードウェアに\n"
+"問題が在ったようです。"
+msgstr ""
+
+#. ID 28, Page 2, Line 228, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"修正は出来るか？"
+msgstr ""
+
+#. ID 28, Page 2, Line 230, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"少々時間は掛かるものの、簡単だとの事です。"
+msgstr ""
+
+#. ID 28, Page 2, Line 235, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"くそう…！ \\.\\.チェックを担当したのは誰だ…！"
+msgstr ""
+
+#. ID 28, Page 2, Line 237, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"ハイディ第１主任とフョードル第２主任です。\\|\n"
+"不手際など在り得ないのですが…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 240, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"しかし…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 242, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"何だ？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 247, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"報告に依ると、問題箇所はチェックミスと言うより\n"
+"人為的な細工の気配が見られ…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 250, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"直ぐ近くにメッセージを書いた\n"
+"メモが潜ませて在ったと…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 253, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"内容は？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 258, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 260, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"如何した。\\.\\.早く読み上げろ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 266, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"\\S[2]これは私の、\\.\\.ほんの気紛れ。\\|\n"
+"最初で最後の祖国への手心。"
+msgstr ""
+
+#. ID 28, Page 2, Line 269, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"\\S[2]また花火に大きさと轟音しか求められない方々。\\|\n"
+"ささやかな冷や水は御気に召して頂けたかしら。"
+msgstr ""
+
+#. ID 28, Page 2, Line 272, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"\\S[2]それでは御機嫌よう。\\|\n"
+"娘に捨てられた哀れな老犬＜おいぼれ＞さん。"
+msgstr ""
+
+#. ID 28, Page 2, Line 275, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"\\S[2]ハイディ･バーミンガムより、\\.\\.愛を込めて。"
+msgstr ""
+
+#. ID 28, Page 2, Line 280, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 285, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"あ～あ。\\.\\.不発弾の次は裏切りかよ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 287, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]痛々しいねェ、\\.\\.おジイちゃん？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 292, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[10]ぐぐ…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 295, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[10]グググ…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 304, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ハイディー\\S[2]ィィィィィィィッ!!!!\\|\\|\\^"
+msgstr ""
+

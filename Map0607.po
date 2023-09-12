@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Page 1, Line 4, Pos (11,14)
+#. ID 11, Page 1, Line 20, Pos (11,14)
+#. ID 11, Page 1, Line 28, Pos (11,14)
+msgid ""
+"女性：\n"
+"旅の人？ 珍しいわね。"
+msgstr ""
+
+#. ID 11, Page 2, Line 3, Pos (11,14)
+msgid ""
+"女性：\n"
+"子供達もすっかり懐いちゃって。"
+msgstr ""
+
+#. ID 11, Page 2, Line 5, Pos (11,14)
+msgid ""
+"女性：\n"
+"気は優しくて力持ち。\n"
+"彼は本当に頼りがいの有る素敵な人よ。"
+msgstr ""
+
+#. ID 11, Page 3, Line 3, Pos (11,14)
+msgid ""
+"女性：\n"
+"あの空。\n"
+"子供達も不安がってるし、私だって穏やかじゃない。"
+msgstr ""
+
+#. ID 11, Page 3, Line 6, Pos (11,14)
+msgid ""
+"女性：\n"
+"でも彼は何か知ってるかのように凛として。\n"
+"本当に頼もしい、私達の心の支えよ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 3, Pos (44,15)
+msgid ""
+"男性：\n"
+"何にも無いですが、住み心地の良い所ですよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 4, Pos (33,10)
+msgid ""
+"老婆：\n"
+"外じゃ解放戦争だ何だの騒いどるようだけど、\n"
+"あたしには理解出来ないね。"
+msgstr ""
+
+#. ID 13, Page 1, Line 7, Pos (33,10)
+msgid ""
+"老婆：\n"
+"もしフェジテと共に生きられたら、\n"
+"無限の可能性が待っていると言うのに。"
+msgstr ""
+
+#. ID 13, Page 1, Line 10, Pos (33,10)
+msgid ""
+"老婆：\n"
+"天上やら天下やら、何を些末な事に拘っておるのか。"
+msgstr ""
+
+#. ID 13, Page 1, Line 17, Pos (33,10)
+msgid ""
+"老婆：\n"
+"馬鹿な諍いがようやく終わったようだね。\n"
+"数多くの犠牲を払って。"
+msgstr ""
+
+#. ID 13, Page 1, Line 20, Pos (33,10)
+msgid ""
+"老婆：\n"
+"これぞ人の歴史と括ればそれまでだけど、\n"
+"何とも情けない話だよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 27, Pos (33,10)
+msgid ""
+"老婆：\n"
+"天上と天下。\n"
+"しかし壊れた空は、いずれも等しく眼下に見下ろす。"
+msgstr ""
+
+#. ID 13, Page 1, Line 30, Pos (33,10)
+msgid ""
+"老婆：\n"
+"さてフェジテと手を取り合って、\n"
+"この異変に立ち向かう事は叶わぬのだろうかね。"
+msgstr ""
+
+#. ID 14, Page 1, Line 18, Pos (28,21)
+msgid ""
+"男性：\n"
+"こらこら、\\.\\.喧嘩はいけないぞ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 20, Pos (28,21)
+msgid ""
+"男の子：\n"
+"だって～。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 22, Pos (28,21)
+msgid ""
+"女の子：\n"
+"次はなわとびって約束したもんね？"
+msgstr ""
+
+#. ID 14, Page 1, Line 24, Pos (28,21)
+msgid ""
+"男の子：\n"
+"なわとびなんてつまんないよ。\\|\n"
+"鬼ごっこしよ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 27, Pos (28,21)
+msgid ""
+"男性：\n"
+"駄目だぞ。\\.\\.約束はきちんと守るんだ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 36, Pos (28,21)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[5]ハウゼン…。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 17, Pos (3,28)
+msgid ""
+"女性：\n"
+"それじゃあ、\\.\\.此処に居て呉れるのね？"
+msgstr ""
+
+#. ID 23, Page 1, Line 19, Pos (3,28)
+msgid ""
+"ハウゼン：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 21, Pos (3,28)
+msgid ""
+"女性：\n"
+"良かった…。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 23, Pos (3,28)
+msgid ""
+"女性：\n"
+"この前別れを告げられた時は、\n"
+"本当に如何しようかと思ったわ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 29, Pos (3,28)
+msgid ""
+"女性：\n"
+"でも貴方は大丈夫なの？\\|\n"
+"何か行くべき所が在るとか言ってなかった？"
+msgstr ""
+
+#. ID 23, Page 1, Line 32, Pos (3,28)
+msgid ""
+"ハウゼン：\n"
+"ああ…。\\|行くべき所な…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 39, Pos (3,28)
+msgid ""
+"ハウゼン：\n"
+"行こうと思ったのだが、\\.\\.\n"
+"向こうから拒否されてしまった。"
+msgstr ""
+
+#. ID 23, Page 1, Line 45, Pos (3,28)
+msgid ""
+"女性：\n"
+"拒否…\\|された…？\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 47, Pos (3,28)
+msgid ""
+"ハウゼン：\n"
+"お前にはお前の道が在ると。"
+msgstr ""
+
+#. ID 23, Page 1, Line 49, Pos (3,28)
+msgid ""
+"女性：\n"
+"知り合い？\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 51, Pos (3,28)
+msgid ""
+"ハウゼン：\n"
+"記憶こそ残っていないがな。\\|\n"
+"そんな物が無くても感じる事が出来る。"
+msgstr ""
+
+#. ID 23, Page 1, Line 54, Pos (3,28)
+msgid ""
+"ハウゼン：\n"
+"世界で最も大切な人達。\\|\n"
+"その内の四人だ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 63, Pos (3,28)
+msgid ""
+"マルゴ：\n"
+"何を言ってるんだか。\\.\\.\n"
+"杓子定規なのは昔からちっとも変わんないね。"
+msgstr ""
+
+#. ID 23, Page 1, Line 66, Pos (3,28)
+msgid ""
+"ドナルド：\n"
+"確かにお前さんが来れば５人が全て揃う。\\|\n"
+"だがそれではいかん。"
+msgstr ""
+
+#. ID 23, Page 1, Line 69, Pos (3,28)
+msgid ""
+"キャサリン：\n"
+"貴方を求める人が居るでしょう？\\|\n"
+"なら貴方の役目は一つだけ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 73, Pos (3,28)
+msgid ""
+"ベネディクタ：\n"
+"傍に居てあげて。\\|\n"
+"私達にそうして呉れた様に。"
+msgstr ""
+
+#. ID 23, Page 1, Line 76, Pos (3,28)
+msgid ""
+"ベネディクタ：\n"
+"たとえ血が繋がらなくとも…。\\|\n"
+"たとえマジックドールであっても…。"
+msgstr ""
+
+#. ID 23, Page 1, Line 79, Pos (3,28)
+msgid ""
+"ベネディクタ：\n"
+"貴方は本当に素敵なパパ。\n"
+"幼子達に掛け替えの無い幸せを運ぶ人。"
+msgstr ""
+
+#. ID 23, Page 1, Line 83, Pos (3,28)
+msgid ""
+"ベネディクタ：\n"
+"初代マスターからの最後の命令＜おねがい＞よ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 85, Pos (3,28)
+msgid ""
+"ベネディクタ：\n"
+"去り逝く者に伸ばす手が在るのなら、\n"
+"その手で未来在る子供達を抱いてあげて。"
+msgstr ""
+
+#. ID 23, Page 1, Line 94, Pos (3,28)
+msgid ""
+"ハウゼン：\n"
+"さようなら、\\.\\.親愛なる御方。\\|\n"
+"何時かまた逢える日を願っております。"
+msgstr ""
+
+#. ID 23, Page 1, Line 97, Pos (3,28)
+msgid ""
+"ハウゼン：\n"
+"やがて生まれ変わる、\\.\\.その生命にて。\\|\\.\\.\\^"
+msgstr ""
+

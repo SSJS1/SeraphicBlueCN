@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ねえ…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]これで…\\|終わったのよね…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]私は…\\|勝ったのよね…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 16, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ねえ…。\\|ちょっと…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]何黙ってるのよ…。\\|\\.\\.\n"
+"返事くらい…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]え…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]何なのよ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]まさか…\\.\\.星が…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]馬鹿な…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]だって…\\.\\.この戦いが終われば…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ガイアリバース…\\|星の生命…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]い…イ…。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"いや\\S[2]ァァァーーーッ!!!!\\|\\^"
+msgstr ""
+

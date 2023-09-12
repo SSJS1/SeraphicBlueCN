@@ -1,0 +1,518 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 3, Pos (6,6)
+#. ID 9, Page 3, Line 3, Pos (6,6)
+msgid ""
+"男性：\n"
+"今C.M.G.C.の委員長やってるオーウェンって奴、\n"
+"前に見た事が在るんだよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 6, Pos (6,6)
+#. ID 9, Page 3, Line 6, Pos (6,6)
+msgid ""
+"男性：\n"
+"凄え怖そうなオッサンだったぜ。\n"
+"聞く所だと軍人上がりらしい。"
+msgstr ""
+
+#. ID 9, Page 1, Line 9, Pos (6,6)
+#. ID 9, Page 3, Line 9, Pos (6,6)
+msgid ""
+"男性：\n"
+"あんなのの下で働くなんて地獄だろうな。"
+msgstr ""
+
+#. ID 9, Page 5, Line 3, Pos (6,6)
+msgid ""
+"リーナ：\n"
+"進めば進む程、\n"
+"色んな物が壊れたり消えて行ってしまう。"
+msgstr ""
+
+#. ID 9, Page 5, Line 6, Pos (6,6)
+msgid ""
+"リーナ：\n"
+"でもユアンさんは何時も言ってた。\n"
+"降り止まない雨は無いって。"
+msgstr ""
+
+#. ID 9, Page 5, Line 9, Pos (6,6)
+msgid ""
+"リーナ：\n"
+"だから、諦めないで。\n"
+"私も、諦めないから。"
+msgstr ""
+
+#. ID 9, Page 7, Line 3, Pos (6,6)
+msgid ""
+"リーナ：\n"
+"たとえ一緒に行く事は出来なくても、\n"
+"私達は此処から願いを込める。"
+msgstr ""
+
+#. ID 9, Page 7, Line 6, Pos (6,6)
+msgid ""
+"リーナ：\n"
+"それならば、きっと一緒に頑張れると思うわ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 3, Pos (13,6)
+msgid ""
+"デイジー：\n"
+"ゲオルクに依る解放戦争の勃発。\n"
+"そしてモーガンを中心とした女王反逆という事態。"
+msgstr ""
+
+#. ID 14, Page 1, Line 6, Pos (13,6)
+msgid ""
+"デイジー：\n"
+"悪い事とは続くものですね。\n"
+"まるで邪神が全てを図っているかの如く。"
+msgstr ""
+
+#. ID 15, Page 1, Line 3, Pos (16,6)
+msgid ""
+"ジェラール：\n"
+"冷静に成って考えれば、何と不可解な話…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 5, Pos (16,6)
+msgid ""
+"ジェラール：\n"
+"卑屈、矮小、臆病を絵に描いた様なあのモーガンが、\n"
+"まさか反逆の中心に成るなんて…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 8, Pos (16,6)
+msgid ""
+"ジェラール：\n"
+"余程頼りに成る参謀でも居たのだろうか…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 10, Pos (16,6)
+msgid ""
+"ジェラール：\n"
+"うむ…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 3, Pos (9,6)
+msgid ""
+"シャル：\n"
+"ブルーウィング号は操縦出来ないからね、\n"
+"残念だけど此処から皆を応援させて貰うわ。"
+msgstr ""
+
+#. ID 16, Page 3, Line 3, Pos (9,6)
+msgid ""
+"シャル：\n"
+"仕方無いけど今回は留守番。\n"
+"本当は一緒に行きたいんだけどね。"
+msgstr ""
+
+#. ID 17, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"そうか…。\\.\\.一緒に戦うのか…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"短い間でしたが、共に旅をした仲間ですし。"
+msgstr ""
+
+#. ID 17, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"一度別れを果たしても尚、\n"
+"またこの様に再会を果たしたからには、\n"
+"もう他人とは思えないでしょう。"
+msgstr ""
+
+#. ID 17, Page 1, Line 14, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"何とやらの御導きという事か。"
+msgstr ""
+
+#. ID 17, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"神ではなく、\\.\\.運命の。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 23, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"そう言って神を拒む顔も、\n"
+"大分清々しく成って来たな。"
+msgstr ""
+
+#. ID 17, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"もう恨み節は消えたのか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"未だ全ては消えていません。\\.\\.\n"
+"欠片としては永遠にすら残る事でしょう。"
+msgstr ""
+
+#. ID 17, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"しかし子供達は私達の背中を見て育ちます。\\.\\.\n"
+"恨みに駆られた人生など、私は見せられません。"
+msgstr ""
+
+#. ID 17, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そしてその気持ちで、\n"
+"尖った欠片を包み隠してみせる。"
+msgstr ""
+
+#. ID 17, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"子供達が不意に触れて、\n"
+"余計な怪我などしてしまわないように。"
+msgstr ""
+
+#. ID 17, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"大人の役目です。"
+msgstr ""
+
+#. ID 17, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"貴方は、如何するんですか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"同じだ。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"二人を助けて貰った手前、恩義は返す主義なんでな。"
+msgstr ""
+
+#. ID 17, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"それに此処を去った所で流浪の身。"
+msgstr ""
+
+#. ID 17, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"あの二人だって、\n"
+"今更放って行くのも気が引ける。"
+msgstr ""
+
+#. ID 17, Page 1, Line 66, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ええ、何を言われる事やら。"
+msgstr ""
+
+#. ID 17, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ヤンシーに胸座掴まれて。\\.\\.\n"
+"ドリスにしがみ付かれて。"
+msgstr ""
+
+#. ID 17, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"喜ばしい事です。"
+msgstr ""
+
+#. ID 17, Page 1, Line 76, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"流石だな。\\.\\.所帯を持つ為の才能だ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"御嫌いで？\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 80, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"好きではないな。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"なら大丈夫です。\\.\\.\n"
+"努力次第で幾らにでも。"
+msgstr ""
+
+#. ID 17, Page 1, Line 85, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"まあ、それでなくても\n"
+"個人的に少し気に成る事が有る。"
+msgstr ""
+
+#. ID 17, Page 1, Line 93, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"些細な事だが。"
+msgstr ""
+
+#. ID 17, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それでは、\\.\\.今後も宜しく御願いします。"
+msgstr ""
+
+#. ID 17, Page 1, Line 100, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"ああ、\\.\\.宜しく。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 109, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"あの時は\"そんな事\"を\n"
+"考えている場合ではなかったが…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 112, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"まさか、\\.\\.そんな偶然など…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 114, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"しかし或いは、\\.\\.\n"
+"互いに知らぬ振りをしていたならば…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 120, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"止めておこう。\\.\\.\n"
+"それは過ぎて無粋で不穏な考えだ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 126, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"だが若し、\\.\\.仮に\"そうで在った\"のなら、\\.\\.\n"
+"ささやかだが俺からも祈りを捧げよう。"
+msgstr ""
+
+#. ID 17, Page 1, Line 129, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"また\"彼女\"に逢えるようにと。"
+msgstr ""
+
+#. ID 17, Page 1, Line 131, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"あの遠き空の下に生まれた、\\.\\.\n"
+"その運命＜さだめ＞の向こう側に於いて。"
+msgstr ""
+
+#. ID 17, Page 3, Line 19, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"一応デイジーに全て報告しておいたわ。\n"
+"緊急対策委員会を設置し全力で対処するって。"
+msgstr ""
+
+#. ID 17, Page 3, Line 22, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ありがとう、助かるわ。"
+msgstr ""
+
+#. ID 17, Page 3, Line 24, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも任せ切りにもしてられないわね。\n"
+"最も身軽な私達が動かないと…。"
+msgstr ""
+
+#. ID 17, Page 3, Line 27, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"何か思い当たる所は？"
+msgstr ""
+
+#. ID 17, Page 3, Line 29, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"無いわ。色々考えてはいるけれど。"
+msgstr ""
+
+#. ID 17, Page 3, Line 34, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"まず考えなくてはいけないのは、\n"
+"やはり彼らの動機よね。"
+msgstr ""
+
+#. ID 17, Page 3, Line 37, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"実行者になった以上、\n"
+"やはりこの星を殺すのが目的じゃないかしら。"
+msgstr ""
+
+#. ID 17, Page 3, Line 43, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"星を殺す…。\n"
+"世界が終わる…。"
+msgstr ""
+
+#. ID 17, Page 3, Line 46, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"エンデ以外に、\n"
+"この世界の滅亡を望んでいる存在…。"
+msgstr ""
+
+#. ID 17, Page 3, Line 49, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"わざわざエンデを倒してまでも、\n"
+"自分達の手で世界を滅亡させたいと願う存在…。"
+msgstr ""
+
+#. ID 17, Page 3, Line 55, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"記憶に無いわね…。"
+msgstr ""
+
+#. ID 17, Page 3, Line 57, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"かつてのモーガンやゲオルクも、\n"
+"世界の支配は望んでも滅亡は望んでいなかった…。"
+msgstr ""
+
+#. ID 17, Page 3, Line 63, Pos (0,0)
+#. ID 17, Page 3, Line 73, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 17, Page 3, Line 68, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"やはり、まだ私達の知らない未知の勢力が…。"
+msgstr ""
+
+#. ID 17, Page 3, Line 75, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ちょっと待って…！\\|\\^"
+msgstr ""
+
+#. ID 17, Page 3, Line 77, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"分かったの？"
+msgstr ""
+
+#. ID 17, Page 3, Line 79, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"確証は持てないけれど、\n"
+"疑わしいのが一人居るわ。"
+msgstr ""
+
+#. ID 17, Page 3, Line 85, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"エイブラムよ。\n"
+"カオス救世会会長エイブラム。"
+msgstr ""
+
+#. ID 17, Page 3, Line 88, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"生そのものを苦しみとし、世界の終末\"カオス\"を以って\n"
+"唯一の救いとする厭世の極論、カオス救世論。"
+msgstr ""
+
+#. ID 17, Page 3, Line 91, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それを頑なに信じるカオス救世会。\n"
+"彼らはまさに世界の滅亡を望む者達だわ。"
+msgstr ""
+
+#. ID 17, Page 3, Line 97, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"在り得るわね…。\n"
+"エイブラムが首謀者…。"
+msgstr ""
+
+#. ID 17, Page 3, Line 100, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ガイアキャンサーの実行者になる事で、\n"
+"待ち焦がれた世界の滅亡を自分の手でもたらす。"
+msgstr ""
+
+#. ID 17, Page 3, Line 103, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、彼のあの人を食った性格。\n"
+"やりかねないわ。"
+msgstr ""
+
+#. ID 17, Page 3, Line 106, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"今直ぐ向かうわよ。カオス救世会本部へ…！"
+msgstr ""
+

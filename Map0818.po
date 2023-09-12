@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 28, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"やっと完成したな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 30, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"済みませんね。\\.\\.\n"
+"随分と長い間手伝わせてしまいました。"
+msgstr ""
+
+#. ID 5, Page 1, Line 33, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"良いって事よ。\n"
+"寧ろ呼んで貰えて助かったぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 36, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"\"船\"が沈んで困ってた所に、三食寝床付きの教会再建。"
+msgstr ""
+
+#. ID 5, Page 1, Line 38, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"地獄に仏とはこの事だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 40, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"\"仏\"ではなくて\"神\"ですよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 42, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"そりゃ失礼。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 47, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"まあ、\\.\\.どちらでも良いんですが。"
+msgstr ""
+
+#. ID 5, Page 1, Line 49, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"ん？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 51, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"嘗て子供達がイーヴルに変異し、\n"
+"私達は神の不在を悟って教会を燃やしました。"
+msgstr ""
+
+#. ID 5, Page 1, Line 54, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"しかしそれは筋違い。"
+msgstr ""
+
+#. ID 5, Page 1, Line 56, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"神が何であるかとか、\\.\\.或いは神が存在するかとか、\\.\\.\n"
+"そんな事に意味は無いのです。"
+msgstr ""
+
+#. ID 5, Page 1, Line 59, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"なら何に意味が在るんだ？"
+msgstr ""
+
+#. ID 5, Page 1, Line 64, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"神という偶像を共有する事で、\n"
+"人々が結び合う事。"
+msgstr ""
+
+#. ID 5, Page 1, Line 67, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"神とは、存在ではなく手段なのですよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 69, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"だからこうしてまた教会を建てた訳か。"
+msgstr ""
+
+#. ID 5, Page 1, Line 71, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"最初聞いた時は、掘った穴を\n"
+"また埋めるような事だとばかり思っていたが…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 74, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"この過程に意味は在ります。"
+msgstr ""
+
+#. ID 5, Page 1, Line 76, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"放棄し、\\.\\.見詰め直し、\\.\\.\n"
+"そして再び歩く事を選んだのですから。"
+msgstr ""
+
+#. ID 5, Page 1, Line 79, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"尚強く結び合えるでしょう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 88, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"にしても、大きな花畑だな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 97, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"あまり小さいと、\\.\\.\n"
+"遥か空の彼方からは見えないでしょう？"
+msgstr ""
+
+#. ID 5, Page 1, Line 103, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"そうだな…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 110, Pos (5,16)
+msgid ""
+"マキシム：\n"
+"きっと最高のロケーションだぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 115, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"皆さん、\\|見えますか？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 117, Pos (5,16)
+msgid ""
+"ニクソン：\n"
+"綺麗な花畑でしょう？\\|\\|\\^"
+msgstr ""
+

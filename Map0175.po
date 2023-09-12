@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 5, Pos (9,6)
+msgid ""
+"フョードル：\n"
+"まだ突破するのはムリだ！\\.\\.\n"
+"もっと敵の数を減らしてくれ！"
+msgstr ""
+
+#. ID 2, Page 1, Line 14, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"フョードル：\n"
+"今なら何とか行けそうだぜ！"
+msgstr ""
+
+#. ID 2, Page 1, Line 16, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"突撃する\n"
+"もう少し敵を減らす"
+msgstr ""
+
+#. ID 2, Page 1, Line 34, Pos (9,6)
+msgid ""
+"フョードル：\n"
+"ＯＫ！\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 43, Pos (9,6)
+msgid ""
+"フョードル：\n"
+"了解！ \\.\\.突撃する時は声を掛けてくれ！"
+msgstr ""
+
+#. ID 22, Page 1, Line 19, Pos (0,0)
+#. ID 22, Page 1, Line 120, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"戦闘準備をして甲板に出るわよ。"
+msgstr ""
+
+#. ID 22, Page 1, Line 21, Pos (0,0)
+#. ID 22, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"可能な限り敵を迎え撃って\n"
+"ラージュへの突入ルートを開く！"
+msgstr ""
+
+#. ID 22, Page 1, Line 43, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"おいおい！ \\.\\.何だこりゃあ!?\\|\\^"
+msgstr ""
+
+#. ID 22, Page 1, Line 45, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"レーダーに大量の飛行物体反応が出てるぞッ！"
+msgstr ""
+
+#. ID 22, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"艦隊戦用の迎撃ユニットじゃなくて？"
+msgstr ""
+
+#. ID 22, Page 1, Line 49, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"そいつは間違い無いだろう。\\.\\.\n"
+"だが動きがちょいとおかしいんだよ。"
+msgstr ""
+
+#. ID 22, Page 1, Line 52, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"殆どがラージュ船底部に停滞してるんだ…！"
+msgstr ""
+
+#. ID 22, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"デイジー機に向かってない!?"
+msgstr ""
+
+#. ID 22, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それって、\\.\\.まさか…！\\|\\^"
+msgstr ""
+
+#. ID 22, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"今更娘＜ヴィルジニー＞の帰りを\n"
+"歓迎するというムードでもないですからね。"
+msgstr ""
+
+#. ID 22, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"この船を墜とす心算なのでしょう。"
+msgstr ""
+
+#. ID 22, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ふん、\\.\\.ゲオルクめ。\\|\\^"
+msgstr ""
+
+#. ID 22, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"先刻まで娘と愛でていた相手に、\n"
+"こうも掌を返した仕打ちが出来るか。"
+msgstr ""
+
+#. ID 22, Page 1, Line 75, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"あれから22年！\\.\\.\n"
+"貴様は何一つ変わってはいない！"
+msgstr ""
+
+#. ID 22, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"腐るだけの老害め！ \\.\\.叩き殺してくれるわ！"
+msgstr ""
+
+#. ID 22, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"如何する。\\.\\.蹴散らすのか。"
+msgstr ""
+
+#. ID 22, Page 1, Line 85, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"フョードル。\\.\\.この船の武装は？"
+msgstr ""
+
+#. ID 22, Page 1, Line 87, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"Nothing！\\.\\.\n"
+"泣ける程に純粋な輸送機＜まるごし＞でな。"
+msgstr ""
+
+#. ID 22, Page 1, Line 90, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"あるのは船体保護のバリアフィールドだけさ。"
+msgstr ""
+
+#. ID 22, Page 1, Line 92, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"戦闘で使い物になるか？"
+msgstr ""
+
+#. ID 22, Page 1, Line 94, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"一応は戦闘時までを想定して作られてるから、\n"
+"それなりには持つだろう。"
+msgstr ""
+
+#. ID 22, Page 1, Line 97, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"だが真っ向から交戦するとなると、\n"
+"もう保証は無いぜ？"
+msgstr ""
+
+#. ID 22, Page 1, Line 100, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"充分だ。\\|\\^"
+msgstr ""
+
+#. ID 22, Page 1, Line 105, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それで、どれだけ撃破すれば行けそうですか？"
+msgstr ""
+
+#. ID 22, Page 1, Line 107, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"何とも言えないな。\\.\\.\n"
+"少なくとも現状では無理だ。"
+msgstr ""
+
+#. ID 22, Page 1, Line 110, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ある程度そっちで片付けて貰ってから、\n"
+"隙を見計らって突破する。"
+msgstr ""
+
+#. ID 22, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"了解しました。\\|\\^"
+msgstr ""
+
+#. ID 22, Page 3, Line 17, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"タダ乗りさんには帰って頂いたわ。"
+msgstr ""
+
+#. ID 22, Page 3, Line 19, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ＯＫ！ \\.\\.こっちも突入ルートはバッチリ確保済みだぜ！"
+msgstr ""
+
+#. ID 22, Page 3, Line 21, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"準備は良いかい？"
+msgstr ""
+
+#. ID 22, Page 3, Line 25, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"無論ッ！\\|\\^"
+msgstr ""
+
+#. ID 22, Page 3, Line 27, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"それじゃあ行くぜッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 10, Pos (4,0)
+msgid ""
+"フョードル：\n"
+"畜生ッ！ \\.何か船に張り付きやがった！"
+msgstr ""
+
+#. ID 59, Page 1, Line 15, Pos (4,0)
+msgid ""
+"フョードル：\n"
+"おい！ \\.もう一度外に出て\n"
+"このタダ乗り野郎を放り出してくれ！"
+msgstr ""
+
+#. ID 59, Page 1, Line 34, Pos (4,0)
+msgid ""
+"フョードル：\n"
+"畜生ッ！ \\.\\.何か船に張り付きやがった！"
+msgstr ""
+
+#. ID 59, Page 1, Line 36, Pos (4,0)
+msgid ""
+"フョードル：\n"
+"これじゃ突入するどころか\n"
+"船体を丸ごとブッ壊されちまう！"
+msgstr ""
+
+#. ID 59, Page 1, Line 42, Pos (4,0)
+msgid ""
+"フョードル：\n"
+"おい！ \\.\\.もう一度外に出て\n"
+"このタダ乗り野郎を放り出してくれ！"
+msgstr ""
+

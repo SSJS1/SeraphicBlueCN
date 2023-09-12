@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"有難うヤンシー。\\.\\.\n"
+"今までドリスを守って呉れて。"
+msgstr ""
+
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"良いのよ。\\.\\.\n"
+"ドリスと居る時間はとても楽しかった。"
+msgstr ""
+
+#. ID 1, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"それじゃあ、ヴェーネ。\\.\\.\n"
+"これからはドリスの事、御願いね。"
+msgstr ""
+
+#. ID 1, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"私は飽くまで一時的なドリスの保護者。\n"
+"貴女に会えた今と成っては御役御免。"
+msgstr ""
+
+#. ID 1, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"オヤクゴメン？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そう。\\.\\.私の役目はもう御仕舞い。"
+msgstr ""
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリスとはもうお別れなの。"
+msgstr ""
+
+#. ID 1, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"やだ！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ゼッタイやだ！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリス…。\\.\\.\n"
+"御願いだから分かって…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"やだ！ \\.\\.分かんない！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 55, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私も、分からないわ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"役割とかに囚われて、\n"
+"大切な事を見落としている。"
+msgstr ""
+
+#. ID 1, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"たとえ貴女がドリスの一時的な保護者で在っても、\n"
+"ドリスにとって貴女は友達。"
+msgstr ""
+
+#. ID 1, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"そうだよ。\\.\\.\n"
+"ヤンシーおネエちゃんはおトモダチ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"だからワタシとイッショに居て。"
+msgstr ""
+
+#. ID 1, Page 1, Line 76, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"友達…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 81, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"若し貴女がドリスの幸せを願うのなら、\n"
+"もっと一緒に居てあげて。"
+msgstr ""
+
+#. ID 1, Page 1, Line 84, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"貴女だって、心の底では\n"
+"ドリスと一緒に居たいと望んでいる筈よ？"
+msgstr ""
+
+#. ID 1, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でなければ、貴女はあそこまで自分の身を盾に\n"
+"ドリスを守ろうとはしなかった。"
+msgstr ""
+
+#. ID 1, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"確か…\\.\\.テンリンのモンクだったかしら。"
+msgstr ""
+
+#. ID 1, Page 1, Line 96, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"事象の表層に囚われず、\\.\\.常にその深層と本質、\\.\\.\n"
+"真実の姿を重んじる人々だと聞いているわ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 102, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 104, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"死んだ御師匠様にも\n"
+"耳にタコが出来る程聞かされた。"
+msgstr ""
+
+#. ID 1, Page 1, Line 107, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"理屈に囚われるな。\\.\\.\n"
+"魂で感じ取り、世界に己の道を見出せ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 115, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"此処に貴女の道は在るかしら？"
+msgstr ""
+
+#. ID 1, Page 1, Line 117, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"言うまでもないわ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 124, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"それでドリスの人生が豊かに成るのなら。"
+msgstr ""
+
+#. ID 1, Page 1, Line 126, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"大丈夫よ。\\.\\.貴女ならば。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 128, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"これからも宜しく。\\.\\.\n"
+"ドリスの大切なお友達。"
+msgstr ""
+
+#. ID 1, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"重なるメンチュンの影。\\.\\.\n"
+"そして彼女から逃げ出そうとしていた自分。"
+msgstr ""
+
+#. ID 1, Page 1, Line 141, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"恐れと、迷いと。\\.\\.\n"
+"そして保護者という役割、理屈、言い訳。"
+msgstr ""
+
+#. ID 1, Page 1, Line 144, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"過去を克服出来ていないからこそ、\n"
+"囚われ、惑わされ、理屈に走り、見失う。"
+msgstr ""
+
+#. ID 1, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"メンチュンの影が重なっても良いではないか。\n"
+"それは決して消えぬ過去と記憶なのだから。"
+msgstr ""
+
+#. ID 1, Page 1, Line 153, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"覆らぬ世の摂理。\\.\\.\n"
+"光在る所必ず影在り。"
+msgstr ""
+
+#. ID 1, Page 1, Line 156, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"影を在るべきものと受け入れて、\\.\\.\n"
+"その隣に、此処より新たなドリスとの日々を描こう。"
+msgstr ""
+
+#. ID 1, Page 1, Line 162, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"私に行けるだろうか…。\\|\n"
+"過去も今も全てが生きる、この道を…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 178, Pos (0,0)
+#. ID 1, Page 1, Line 221, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ヴェーネおネエちゃん…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 183, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"やっぱり、\\.\\.気に成るのね…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 185, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"それも当然。\\.\\.\n"
+"ユアンを失って間も無いんだから。"
+msgstr ""
+
+#. ID 1, Page 1, Line 188, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"どれ程に表面を取り繕った所で…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 193, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"気丈と言えば気丈なんだけれど、\\.\\.ね…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 199, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ちがうの…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 204, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリス…？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 206, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"違うって…。\\.\\.一体何が？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 211, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"オジちゃんが死んじゃって、\\.\\.\n"
+"おネエちゃんはとってもカナしいキモチ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 214, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"でも、\\.\\.それとこれとはチガうの…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 219, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"どこか、\\.\\.トオくに、\\.\\.行っちゃいそう…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 226, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]何処か…\\.\\.遠くに…？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 228, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]ヴェーネが…\\.\\.ドリスを残して…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 235, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]まさか…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 244, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]おネエちゃん…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 246, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ココはおネエちゃんのおウチなんだよね…？\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 251, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]どうして、\\.\\.そんなにサミしそうなの…？\\|\\|\\^"
+msgstr ""
+

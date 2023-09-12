@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 23, Pos (0,0)
+msgid ""
+"叫び声：\n"
+"畜生ッ！\\.\n"
+"こっちに来るんじゃねえ！"
+msgstr ""
+
+#. ID 8, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"声に反響音が混じっていた…。\\.\\.\n"
+"だとすればこの下から…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 41, Pos (0,0)
+#. ID 8, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"一応、様子を見て来た方が良いわね…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 52, Pos (0,0)
+msgid ""
+"叫び声：\n"
+"畜生ッ！\\.\\.\n"
+"こっちに来るんじゃねえ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"今…\\|確かに声が…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"声に反響音が混じっていた…。\\|\n"
+"だとすればこの下から…。"
+msgstr ""
+

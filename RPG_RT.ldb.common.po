@@ -1,0 +1,7099 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. ID 15, Line 60
+#. Contains choice at line 3 (2 options)
+#. ID 21, Line 1234
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>\\C[10]＞バリアフィールドＨＰ：\\V[4151]/\\V[4152]\n"
+"\\>\\C[10]＞必要ＴＰ：\\V[4153]/\\V[805]"
+msgstr ""
+
+#. ID 15, Line 62
+#. Choice (2 options, embedded in a message)
+#. ID 21, Line 1236
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\C[10]＞ＯＫ\n"
+"\\C[10]＞ＮＧ"
+msgstr ""
+
+#. ID 21, Line 37
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "バトルエンド"
+msgstr ""
+
+#. ID 21, Line 40
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "エスケープ"
+msgstr ""
+
+#. ID 21, Line 46
+#. Choice (4 options)
+msgid ""
+"\\C[10]\\>ＷＴチェック\n"
+"\\C[10]\\>\\n[2]\n"
+"\\C[10]\\>リファレンス\n"
+"\\C[10]\\>バリアフィールド回復"
+msgstr ""
+
+#. ID 21, Line 80
+#. Choice (3 options)
+msgid ""
+"\\C[10]\\>ＷＴチェック\n"
+"\\C[10]\\>\\n[2]\n"
+"\\C[10]\\>リファレンス"
+msgstr ""
+
+#. ID 21, Line 110
+#. Choice (4 options)
+msgid ""
+"\\C[10]\\>ＷＴチェック\n"
+"\\C[11]\\>\\n[2]\n"
+"\\C[10]\\>リファレンス\n"
+"\\C[10]\\>バリアフィールド回復"
+msgstr ""
+
+#. ID 21, Line 144
+#. Choice (3 options)
+msgid ""
+"\\C[10]\\>ＷＴチェック\n"
+"\\C[11]\\>\\n[2]\n"
+"\\C[10]\\>リファレンス"
+msgstr ""
+
+#. ID 21, Line 176
+#. Choice (1 options)
+msgid "\\C[10]\\>バトルエンド"
+msgstr ""
+
+#. ID 21, Line 193
+#. ChangeHeroName (Actor 2)
+#. ID 21, Line 852
+#. ChangeHeroName (Actor 2)
+#. ID 59, Line 667
+#. ChangeHeroName (Actor 2)
+#. ID 75, Line 79
+#. ChangeHeroName (Actor 1)
+#. ID 139, Line 1342
+#. ChangeHeroName (Actor 2)
+#. ID 672, Line 60
+#. ChangeHeroName (Actor 2)
+#. ID 672, Line 452
+#. ChangeHeroName (Actor 2)
+#. ID 787, Line 404
+#. ChangeHeroName (Actor 2)
+#. ID 799, Line 102
+#. ChangeHeroName (Actor 2)
+#. ID 799, Line 481
+#. ChangeHeroName (Actor 2)
+#. ID 1171, Line 19
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 6
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1521
+#. ChangeHeroName (Actor 2)
+#. ID 1348, Line 1592
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ヴェーネ"
+msgstr ""
+
+#. ID 21, Line 474
+msgid ""
+"\\>\\C[13][UNIT1:\\V[901]/\\V[902]]  [UNIT2:\\V[903]/\\V[904]]\n"
+"\\>[UNIT3:\\V[905]/\\V[906]]  [UNIT4:\\V[907]/\\V[908]]\n"
+"\\>\\C[10][UNIT1:\\V[909]/\\V[910]]  [UNIT2:\\V[911]/\\V[912]]\n"
+"\\>[UNIT3:\\V[913]/\\V[914]]  [UNIT4:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 514
+msgid ""
+"\\>\\C[13]\n"
+"\\>　　　　　　　　  [UNIT４:\\V[907]/\\V[908]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 523
+msgid ""
+"\\>\\C[13]\n"
+"\\>[UNIT３:\\V[905]/\\V[906]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 529
+msgid ""
+"\\>\\C[13]\n"
+"\\>[UNIT３:\\V[905]/\\V[906]]  [UNIT４:\\V[907]/\\V[908]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 541
+msgid ""
+"\\>\\C[13]　　　　　　　　  [UNIT２:\\V[903]/\\V[904]]\n"
+"\\>\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 547
+msgid ""
+"\\>\\C[13]　　　　　　　　  [UNIT２:\\V[903]/\\V[904]]\n"
+"\\>　　　　　　　　  [UNIT４:\\V[907]/\\V[908]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 556
+msgid ""
+"\\>\\C[13]　　　　　　　　  [UNIT２:\\V[903]/\\V[904]]\n"
+"\\>[UNIT３:\\V[905]/\\V[906]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 562
+msgid ""
+"\\>\\C[13]　　　　　　　　  [UNIT２:\\V[903]/\\V[904]]\n"
+"\\>[UNIT３:\\V[905]/\\V[906]]  [UNIT４:\\V[907]/\\V[908]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 577
+msgid ""
+"\\>\\C[13][UNIT１:\\V[901]/\\V[902]]\n"
+"\\>\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 583
+msgid ""
+"\\>\\C[13][UNIT１:\\V[901]/\\V[902]]\n"
+"\\>　　　　　　　　  [UNIT４:\\V[907]/\\V[908]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 592
+msgid ""
+"\\>\\C[13][UNIT１:\\V[901]/\\V[902]]\n"
+"\\>[UNIT３:\\V[905]/\\V[906]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 598
+msgid ""
+"\\>\\C[13][UNIT１:\\V[901]/\\V[902]]\n"
+"\\>[UNIT３:\\V[905]/\\V[906]]  [UNIT４:\\V[907]/\\V[908]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 610
+msgid ""
+"\\>\\C[13][UNIT１:\\V[901]/\\V[902]]  [UNIT２:\\V[903]/\\V[904]]\n"
+"\\>\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 616
+msgid ""
+"\\>\\C[13][UNIT１:\\V[901]/\\V[902]]  [UNIT２:\\V[903]/\\V[904]]\n"
+"\\>　　　　　　　　  [UNIT４:\\V[907]/\\V[908]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 625
+msgid ""
+"\\>\\C[13][UNIT１:\\V[901]/\\V[902]]  [UNIT２:\\V[903]/\\V[904]]\n"
+"\\>[UNIT３:\\V[905]/\\V[906]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 631
+msgid ""
+"\\>\\C[13][UNIT１:\\V[901]/\\V[902]]  [UNIT２:\\V[903]/\\V[904]]\n"
+"\\>[UNIT３:\\V[905]/\\V[906]]  [UNIT４:\\V[907]/\\V[908]]\n"
+"\\>\\C[10][UNIT１:\\V[909]/\\V[910]]  [UNIT２:\\V[911]/\\V[912]]\n"
+"\\>[UNIT３:\\V[913]/\\V[914]]  [UNIT４:\\V[915]/\\V[916]]"
+msgstr ""
+
+#. ID 21, Line 730
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "\\C[10]\\>"
+msgstr ""
+
+#. ID 21, Line 732
+#. Choice (3 options)
+msgid ""
+"\\n[2]各種表示説明･特殊操作一覧\n"
+"\\n[2]アレンジ版戦闘システム解説\n"
+"\\>キャンセル"
+msgstr ""
+
+#. ID 21, Line 743
+#. Choice (4 options)
+msgid ""
+"\\n[2]基本的な戦い方\n"
+"\\n[2]チェイン\n"
+"\\n[2]チェインブレイク\n"
+"\\n[2]ＥＸコマンド"
+msgstr ""
+
+#. ID 21, Line 745
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "基本的な戦い"
+msgstr ""
+
+#. ID 21, Line 746
+msgid ""
+"\\>\\C[10]【基本的な戦い方】　　　　　　　　　　　　　　1/5\\C[0]\n"
+"\\>細かい要素が多いですが、\n"
+"\\>基本的には以下の戦い方で通用します。"
+msgstr ""
+
+#. ID 21, Line 749
+msgid ""
+"\\>\\C[10]【\\n[3]方／ブレイクゲージを保って戦う】2/5\\C[0]\n"
+"\\>・敵側に２ターン以上連続行動させないように戦う\n"
+"\\>　（戦闘の序盤や、敵の攻撃を防御する場合は除く）\n"
+"\\>・敵にＦＥ消費型アビリティを発動させないように戦う"
+msgstr ""
+
+#. ID 21, Line 753
+msgid ""
+"\\>\\C[10]【基本的な戦い方／ブレイクゲージを保って戦う】3/5\\C[0]\n"
+"\\>・攻撃力が高い敵との戦闘では、\n"
+"\\>　なるべくメンバーのＨＰが満タンの状態を維持する"
+msgstr ""
+
+#. ID 21, Line 756
+msgid ""
+"\\>\\C[10]【\\n[3]方／チェイン数を蓄積しつつ戦う】4/5\\C[0]\n"
+"\\>・積極的に敵を攻撃してチェイン数を蓄積していく"
+msgstr ""
+
+#. ID 21, Line 758
+msgid ""
+"\\>\\C[10]【基本的な戦い方／ＥＸコマンドの利用】　　　　5/5\\C[0]\n"
+"\\>・チェイン数を稼いでＥＸゲージが溜まったら、\n"
+"\\>　ここぞという場面でＥＸコマンドを利用して\n"
+"\\>　戦闘を有利に進める"
+msgstr ""
+
+#. ID 21, Line 762
+#. ChangeHeroName (Actor 3)
+#. ID 21, Line 838
+#. ChangeHeroName (Actor 3)
+#. ID 59, Line 668
+#. ChangeHeroName (Actor 3)
+#. ID 75, Line 100
+#. ChangeHeroName (Actor 1)
+#. ID 139, Line 1343
+#. ChangeHeroName (Actor 3)
+#. ID 672, Line 61
+#. ChangeHeroName (Actor 3)
+#. ID 672, Line 453
+#. ChangeHeroName (Actor 3)
+#. ID 787, Line 405
+#. ChangeHeroName (Actor 3)
+#. ID 799, Line 103
+#. ChangeHeroName (Actor 3)
+#. ID 799, Line 482
+#. ChangeHeroName (Actor 3)
+#. ID 1171, Line 28
+#. ChangeHeroName (Actor 1)
+#. ID 1230, Line 165
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 10
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1525
+#. ChangeHeroName (Actor 2)
+#. ID 1348, Line 1593
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ユアン"
+msgstr ""
+
+#. ID 21, Line 766
+msgid ""
+"\\>\\C[10]【チェイン】　　　　　　　　　　　　　　　　1/7\\C[0]\n"
+"\\>敵に攻撃を命中させる等の条件によって、画面右上に\n"
+"\\>表示されるチェイン数という数値が増えていきます。\n"
+"\\>基本的にチェイン数が多いほど有利に戦えます。"
+msgstr ""
+
+#. ID 21, Line 770
+msgid ""
+"\\>\\C[10]【チェイン数の蓄積による主なメリット】　　　2/7\\C[0]\n"
+"\\>・チェイン数が多いほど敵に与えるダメージや\n"
+"\\>　アビリティによる回復量が増加"
+msgstr ""
+
+#. ID 21, Line 773
+msgid ""
+"\\>\\C[10]【チェイン数の蓄積による主なメリット】　　　3/7\\C[0]\n"
+"\\>・チェイン数が10の倍数に達すると、\n"
+"\\>　ブレイクゲージやＥＸゲージが一定量増加\n"
+"\\>　（30の倍数に達した時はより大きく増加）"
+msgstr ""
+
+#. ID 21, Line 777
+msgid ""
+"\\>\\C[10]【チェイン数の蓄積によるデメリット】　　　　4/7\\C[0]\n"
+"\\>・ブレイクゲージの減少量が大きくなり、\n"
+"\\>　チェインブレイクしやすくなる\n"
+"\\>・チェインブレイク時に、より危険な状況に陥る"
+msgstr ""
+
+#. ID 21, Line 781
+msgid ""
+"\\>\\C[10]【チェインバトル】　　　　　　　　　　　　　5/7\\C[0]\n"
+"\\>通常戦闘に於いて、一度もチェインブレイクせずに\n"
+"\\>勝利出来れば、戦闘勝利時のチェイン数を次回の\n"
+"\\>戦闘にも継続して持ち越せます（最高３戦目まで）。"
+msgstr ""
+
+#. ID 21, Line 785
+msgid ""
+"\\>\\C[10]【チェインバトル】　　　　　　　　　　　　　6/7\\C[0]\n"
+"\\>チェイン数を持ち越して戦うと、\n"
+"\\>戦闘勝利時の獲得EXP等の利益がより大きくなります。"
+msgstr ""
+
+#. ID 21, Line 788
+msgid ""
+"\\>\\C[10]【チェインバトル／チェインコンプリート】　　7/7\\C[0]\n"
+"\\>最後の３戦目までチェイン数を持ち越して勝利すると、\n"
+"\\>チェインコンプリートというボーナスが発生し、\n"
+"\\>ブレイクゲージやＥＸゲージも一定量増加します。"
+msgstr ""
+
+#. ID 21, Line 795
+msgid ""
+"\\>\\C[10]【チェインブレイク】　　　　　　　　　　　　1/6\\C[0]\n"
+"\\>画面左下のブレイクゲージ（BRK）がゼロになると\n"
+"\\>チェインブレイクが発生し、敵の攻撃で大ダメージを\n"
+"\\>受けるなど、非常に危険な状況に陥ってしまいます。"
+msgstr ""
+
+#. ID 21, Line 799
+msgid ""
+"\\>\\C[10]【チェインブレイク／ブレイクゲージの減少】　2/6\\C[0]\n"
+"\\>ブレイクゲージは敵からの攻めに押されたり、\n"
+"\\>不利な状況に陥る等の条件で減少します。特に、以下の\n"
+"\\>条件では大きく減少する場合が多いので要注意です。"
+msgstr ""
+
+#. ID 21, Line 803
+msgid ""
+"\\>\\C[10]【チェインブレイク／ブレイクゲージの減少】　3/6\\C[0]\n"
+"\\>・敵にＦＥ消費型アビリティを発動された\n"
+"\\>・敵に２ターン以上連続で行動された\n"
+"\\>　（戦闘の序盤やボス戦ではあまり減少しません）"
+msgstr ""
+
+#. ID 21, Line 807
+msgid ""
+"\\>\\C[10]【チェインブレイク／ブレイクゲージの減少】　4/6\\C[0]\n"
+"\\>・味方が戦闘不能状態に陥った\n"
+"\\>　（ＨＰが満タンの状態から一撃で戦闘不能に\n"
+"\\>　　陥った場合等はあまり減少しません）"
+msgstr ""
+
+#. ID 21, Line 811
+msgid ""
+"\\>\\C[10]【チェインブレイク／ブレイクゲージの回復】　5/6\\C[0]\n"
+"\\>・チェイン数が10の倍数に達すると大きく回復\n"
+"\\>・敵を撃破すると回復\n"
+"\\>・戦闘終了時にゲージ量が少ない場合は一定量まで回復"
+msgstr ""
+
+#. ID 21, Line 815
+msgid ""
+"\\>\\C[10]【チェインブレイク／ブレイクゲージの回復】　6/6\\C[0]\n"
+"\\>・チェインコンプリートを達成すると大きく回復\n"
+"\\>・その他、細かい条件で回復"
+msgstr ""
+
+#. ID 21, Line 821
+msgid ""
+"\\>\\C[10]【ＥＸコマンド】　　　　　　　　　　　　　　1/4\\C[0]\n"
+"\\>「NORMAL ATTACK」コマンドの上にある\n"
+"\\>「EX COMMAND」にて、\n"
+"\\>ＥＸコマンドという特殊行動を実行出来ます。"
+msgstr ""
+
+#. ID 21, Line 825
+msgid ""
+"\\>\\C[10]【ＥＸコマンド】　　　　　　　　　　　　　　2/4\\C[0]\n"
+"\\>ＥＸコマンド使用の際には、画面左下の\n"
+"\\>ＥＸゲージ（EX）を一定量消費します。"
+msgstr ""
+
+#. ID 21, Line 828
+msgid ""
+"\\>\\C[10]【ＥＸコマンド／ＥＸゲージの増加】　　　　　3/4\\C[0]\n"
+"\\>・チェイン数が10の倍数に達すると増加\n"
+"\\>・ブレイクゲージが残り少ない状況で戦うほど、\n"
+"\\>　敵の行動終了時等に増加"
+msgstr ""
+
+#. ID 21, Line 832
+msgid ""
+"\\>\\C[10]【ＥＸコマンド／ＥＸゲージの増加】　　　　　4/4\\C[0]\n"
+"\\>・チェインコンプリートを達成すると大きく増加\n"
+"\\>・その他、細かい条件で増加"
+msgstr ""
+
+#. ID 33, Line 729
+msgid ""
+"\\>★★★★★★★★★★★★★★★★★★★★★★★★★\n"
+"\\>\\v[2262]\n"
+"\\>★★★★★★★★★★★★★★★★★★★★★★★★★\n"
+"\\>★★★★★★★★★★★★★★★★★★★★★★★★★"
+msgstr ""
+
+#. ID 49, Line 204
+msgid ""
+"\\>※タクティカルスフィア『クイックリカバリー』の\n"
+"\\>  効果が消滅した！"
+msgstr ""
+
+#. ID 49, Line 208
+msgid ""
+"※タクティカルスフィア『クイックリカバリー』の\n"
+"  効果が消滅した！"
+msgstr ""
+
+#. ID 58, Line 1155
+#. ID 117, Line 50
+#. ID 1383, Line 2293
+msgid ""
+"ゲオルク：\n"
+"\\S[3]馬鹿なっ…！\\.\\.\n"
+"何故死なぬっ!?"
+msgstr ""
+
+#. ID 58, Line 1158
+#. ID 117, Line 53
+#. ID 1383, Line 2296
+msgid ""
+"レイク：\n"
+"\\S[2]まだだッ…！\\.\\.\n"
+"てめえを完全にブッ殺すまで、死んでたまるかよ…！"
+msgstr ""
+
+#. ID 58, Line 1163
+#. ID 117, Line 58
+#. ID 1383, Line 2301
+msgid ""
+"ゲオルク：\n"
+"\\S[3]馬鹿なっ…！\\.\\.\n"
+"何故死なぬっ!?\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 58, Line 1166
+#. ID 117, Line 61
+#. ID 1383, Line 2304
+msgid ""
+"レイク：\n"
+"\\S[2]まだだッ…！\\|\n"
+"てめえを完全にブッ殺すまで、死んでたまるかよ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 58, Line 1187
+#. ID 58, Line 1275
+#. ID 129, Line 603
+#. ID 129, Line 672
+#. ID 1383, Line 2226
+msgid ""
+"レイク：\n"
+"馬鹿はてめえだ。"
+msgstr ""
+
+#. ID 58, Line 1189
+#. ID 58, Line 1277
+#. ID 129, Line 605
+#. ID 129, Line 674
+#. ID 1383, Line 2228
+msgid ""
+"レイク：\n"
+"思った事在るのかよ？\\.\\.\n"
+"母さんの為なら自分の生命を捨てられると。"
+msgstr ""
+
+#. ID 58, Line 1192
+#. ID 58, Line 1280
+#. ID 129, Line 608
+#. ID 129, Line 677
+#. ID 1383, Line 2231
+msgid ""
+"ゲオルク：\n"
+"\\S[3]ぐっ…！\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 58, Line 1194
+#. ID 58, Line 1282
+#. ID 129, Line 610
+#. ID 129, Line 679
+#. ID 1383, Line 2233
+msgid ""
+"レイク：\n"
+"何が黒獅子だ。\\.\\.笑わせんな。"
+msgstr ""
+
+#. ID 58, Line 1196
+#. ID 58, Line 1284
+#. ID 129, Line 612
+#. ID 129, Line 681
+#. ID 1383, Line 2235
+msgid ""
+"レイク：\n"
+"何にも生命を賭けられない、\\.\\.\n"
+"とんだ腑抜け野郎じゃねえか。"
+msgstr ""
+
+#. ID 58, Line 1199
+#. ID 58, Line 1215
+#. ID 58, Line 1287
+#. ID 58, Line 1303
+#. ID 129, Line 615
+#. ID 129, Line 631
+#. ID 129, Line 684
+#. ID 129, Line 700
+#. ID 1383, Line 2238
+#. ID 1383, Line 2254
+msgid ""
+"レイク：\n"
+"ユアンのが、\\.\\.余程デカい奴だった！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 58, Line 1203
+#. ID 58, Line 1291
+#. ID 129, Line 619
+#. ID 129, Line 688
+#. ID 1383, Line 2242
+msgid ""
+"レイク：\n"
+"馬鹿はてめえだ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 58, Line 1205
+#. ID 58, Line 1293
+#. ID 129, Line 621
+#. ID 129, Line 690
+#. ID 1383, Line 2244
+msgid ""
+"レイク：\n"
+"思った事在るのかよ？\\|\n"
+"母さんの為なら自分の生命を捨てられると。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 58, Line 1208
+#. ID 58, Line 1296
+#. ID 129, Line 624
+#. ID 129, Line 693
+#. ID 1383, Line 2247
+msgid ""
+"ゲオルク：\n"
+"\\S[3]ぐっ…！\\|\\^"
+msgstr ""
+
+#. ID 58, Line 1210
+#. ID 58, Line 1298
+#. ID 129, Line 626
+#. ID 129, Line 695
+#. ID 1383, Line 2249
+msgid ""
+"レイク：\n"
+"何が黒獅子だ。\\|笑わせんな。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 58, Line 1212
+#. ID 58, Line 1300
+#. ID 129, Line 628
+#. ID 129, Line 697
+#. ID 1383, Line 2251
+msgid ""
+"レイク：\n"
+"何にも生命を賭けられない、\\.\\.\n"
+"とんだ腑抜け野郎じゃねえか。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 58, Line 1244
+#. ID 129, Line 648
+#. ID 1383, Line 2200
+msgid ""
+"レイク：\n"
+"これで良いんだよ。\\.\\.\n"
+"やっと見付けた死に場所なんだからな。"
+msgstr ""
+
+#. ID 58, Line 1247
+#. ID 129, Line 651
+#. ID 1383, Line 2203
+msgid ""
+"ゲオルク：\n"
+"\\S[3]馬鹿なっ…！\\.\\. このキチガイがっ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 58, Line 1251
+#. ID 129, Line 655
+#. ID 1383, Line 2207
+msgid ""
+"レイク：\n"
+"これで良いんだよ。\\|\n"
+"やっと見付けた死に場所なんだからな。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 58, Line 1254
+#. ID 129, Line 658
+#. ID 1383, Line 2210
+msgid ""
+"ゲオルク：\n"
+"\\S[3]馬鹿なっ…！\\| このキチガイがっ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 58, Line 1332
+#. ID 129, Line 714
+msgid ""
+"レイク：\n"
+"終わらせてやるよ…！\\.\\.\n"
+"てめえにはもう何も喰わせねえ…！"
+msgstr ""
+
+#. ID 58, Line 1338
+#. ID 129, Line 720
+msgid ""
+"レイク：\n"
+"ヴェーネは、\\.\\.俺が守る！"
+msgstr ""
+
+#. ID 58, Line 1340
+#. ID 58, Line 1352
+#. ID 129, Line 722
+#. ID 129, Line 734
+msgid ""
+"レイク：\n"
+"あいつには、\\.\\.未来が在るんだよ！\\|\\|\\^"
+msgstr ""
+
+#. ID 58, Line 1344
+#. ID 129, Line 726
+msgid ""
+"レイク：\n"
+"終わらせてやるよ…！\\|\n"
+"てめえにはもう何も喰わせねえ…！\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 58, Line 1350
+#. ID 129, Line 732
+msgid ""
+"レイク：\n"
+"ヴェーネは、\\.\\.俺が守る！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 59, Line 624
+#. ChangeHeroName (Actor 2)
+#. ID 59, Line 631
+#. ChangeHeroName (Actor 3)
+#. ID 59, Line 638
+#. ChangeHeroName (Actor 4)
+#. ID 59, Line 645
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "－"
+msgstr ""
+
+#. ID 59, Line 627
+#. ChangeHeroName (Actor 2)
+#. ID 59, Line 634
+#. ChangeHeroName (Actor 3)
+#. ID 59, Line 641
+#. ChangeHeroName (Actor 4)
+#. ID 59, Line 648
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "○"
+msgstr ""
+
+#. ID 59, Line 651
+msgid ""
+"\\>UNIT1:リヴァイバー残り\\_\\V[87]\\_回　/　特殊自動復活 \\n[2]\n"
+"\\>UNIT2:リヴァイバー残り\\_\\V[187]\\_回　/　特殊自動復活 \\n[3]\n"
+"\\>UNIT3:リヴァイバー残り\\_\\V[287]\\_回　/　特殊自動復活 \\n[4]\n"
+"\\>UNIT4:リヴァイバー残り\\_\\V[387]\\_回　/　特殊自動復活 \\n[5]"
+msgstr ""
+
+#. ID 59, Line 669
+#. ChangeHeroName (Actor 4)
+#. ID 75, Line 113
+#. ChangeHeroName (Actor 1)
+#. ID 139, Line 1344
+#. ChangeHeroName (Actor 4)
+#. ID 672, Line 62
+#. ChangeHeroName (Actor 4)
+#. ID 672, Line 454
+#. ChangeHeroName (Actor 4)
+#. ID 799, Line 104
+#. ChangeHeroName (Actor 4)
+#. ID 799, Line 483
+#. ChangeHeroName (Actor 4)
+#. ID 1171, Line 34
+#. ChangeHeroName (Actor 1)
+#. ID 1230, Line 169
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 14
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1529
+#. ChangeHeroName (Actor 2)
+#. ID 1348, Line 1594
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "ケイン"
+msgstr ""
+
+#. ID 59, Line 670
+#. ChangeHeroName (Actor 5)
+#. ID 75, Line 132
+#. ChangeHeroName (Actor 1)
+#. ID 139, Line 1345
+#. ChangeHeroName (Actor 5)
+#. ID 672, Line 63
+#. ChangeHeroName (Actor 5)
+#. ID 672, Line 455
+#. ChangeHeroName (Actor 5)
+#. ID 799, Line 484
+#. ChangeHeroName (Actor 5)
+#. ID 1171, Line 46
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 18
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1533
+#. ChangeHeroName (Actor 2)
+#. ID 1348, Line 1595
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "ミネルヴァ"
+msgstr ""
+
+#. ID 75, Line 65
+#. ChangeHeroName (Actor 1)
+#. ID 1171, Line 13
+#. ChangeHeroName (Actor 1)
+#. ID 1230, Line 161
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 2
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1517
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "レイク"
+msgstr ""
+
+#. ID 75, Line 82
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "青髪の女性"
+msgstr ""
+
+#. ID 75, Line 145
+#. ChangeHeroName (Actor 1)
+#. ID 139, Line 1346
+#. ChangeHeroName (Actor 6)
+#. ID 672, Line 64
+#. ChangeHeroName (Actor 6)
+#. ID 672, Line 456
+#. ChangeHeroName (Actor 6)
+#. ID 799, Line 485
+#. ChangeHeroName (Actor 6)
+#. ID 1171, Line 52
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 22
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1537
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "フォクシー"
+msgstr ""
+
+#. ID 75, Line 161
+#. ChangeHeroName (Actor 1)
+#. ID 139, Line 1347
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 65
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 457
+#. ChangeHeroName (Actor 7)
+#. ID 799, Line 486
+#. ChangeHeroName (Actor 7)
+#. ID 1171, Line 61
+#. ChangeHeroName (Actor 1)
+#. ID 1230, Line 173
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 26
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1541
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ニクソン"
+msgstr ""
+
+#. ID 75, Line 174
+#. ChangeHeroName (Actor 1)
+#. ID 139, Line 1348
+#. ChangeHeroName (Actor 8)
+#. ID 672, Line 66
+#. ChangeHeroName (Actor 8)
+#. ID 672, Line 458
+#. ChangeHeroName (Actor 8)
+#. ID 799, Line 487
+#. ChangeHeroName (Actor 8)
+#. ID 1171, Line 67
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 30
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1545
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ドリス"
+msgstr ""
+
+#. ID 75, Line 195
+#. ChangeHeroName (Actor 1)
+#. ID 139, Line 1349
+#. ChangeHeroName (Actor 9)
+#. ID 672, Line 258
+#. ChangeHeroName (Actor 9)
+#. ID 672, Line 363
+#. ChangeHeroName (Actor 9)
+#. ID 672, Line 436
+#. ChangeHeroName (Actor 9)
+#. ID 799, Line 488
+#. ChangeHeroName (Actor 9)
+#. ID 1171, Line 81
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 34
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1549
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ヤンシー"
+msgstr ""
+
+#. ID 75, Line 208
+#. ChangeHeroName (Actor 1)
+#. ID 139, Line 1350
+#. ChangeHeroName (Actor 10)
+#. ID 1171, Line 87
+#. ChangeHeroName (Actor 1)
+#. ID 1230, Line 177
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 38
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1553
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ランサード"
+msgstr ""
+
+#. ID 75, Line 224
+#. ChangeHeroName (Actor 1)
+#. ID 139, Line 1351
+#. ChangeHeroName (Actor 11)
+#. ID 1171, Line 96
+#. ChangeHeroName (Actor 1)
+#. ID 1230, Line 181
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 42
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1557
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ハウゼン"
+msgstr ""
+
+#. ID 75, Line 237
+#. ChangeHeroName (Actor 1)
+#. ID 139, Line 1352
+#. ChangeHeroName (Actor 12)
+#. ID 1171, Line 102
+#. ChangeHeroName (Actor 1)
+#. ID 1233, Line 46
+#. ChangeHeroName (Actor 1)
+#. ID 1348, Line 1561
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ヴィルジニー"
+msgstr ""
+
+#. ID 124, Line 1745
+msgid ""
+"ゲオルク：\n"
+"\\S[2]分かっているのか…！\\.\\.\n"
+"こんな事をしたら貴様の生命も…！"
+msgstr ""
+
+#. ID 124, Line 1748
+#. ID 124, Line 1755
+msgid ""
+"レイク：\n"
+"分かってるッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 124, Line 1752
+msgid ""
+"ゲオルク：\n"
+"\\S[2]分かっているのか…！\\|\n"
+"こんな事をしたら貴様の生命も…！\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 128, Line 85
+msgid ""
+"イート：\n"
+"ゲヘヘヘヘヘ！ \\|超ウェルダンにしてやるぜ！"
+msgstr ""
+
+#. ID 128, Line 147
+msgid "\\>※漂流機械巨兵の防御能力が一時的に低下した！"
+msgstr ""
+
+#. ID 128, Line 150
+msgid "※漂流機械巨兵の防御能力が一時的に低下した！"
+msgstr ""
+
+#. ID 128, Line 346
+msgid ""
+"ザ･バカンス：\n"
+"オイ！　\\|俺の豪華クルーザーを此方に寄越せ！"
+msgstr ""
+
+#. ID 128, Line 414
+msgid ""
+"\\>※DIE WALKUREの[AGL,光属性攻性]が上昇！\n"
+"\\>　[DEF,MDF]が低下！\n"
+"\\>　[フィールド光属性変異]が付加！"
+msgstr ""
+
+#. ID 128, Line 419
+msgid ""
+"※DIE WALKUREの[AGL,光属性攻性]が上昇！\n"
+"　[DEF,MDF]が低下！\n"
+"　[フィールド光属性変異]が付加！"
+msgstr ""
+
+#. ID 128, Line 513
+msgid ""
+"\\>※マクダレーネはラウレンティアから\n"
+"\\>　生命力を吸い取ろうとしている！"
+msgstr ""
+
+#. ID 128, Line 517
+msgid ""
+"※マクダレーネはラウレンティアから\n"
+"　生命力を吸い取ろうとしている！"
+msgstr ""
+
+#. ID 128, Line 525
+msgid ""
+"\\>※ロスヴィータはラウレンティアから\n"
+"\\>　生命力を吸い取ろうとしている！"
+msgstr ""
+
+#. ID 128, Line 529
+msgid ""
+"※ロスヴィータはラウレンティアから\n"
+"　生命力を吸い取ろうとしている！"
+msgstr ""
+
+#. ID 128, Line 597
+msgid "\\>※エンデは水を集めている！"
+msgstr ""
+
+#. ID 128, Line 600
+msgid "※エンデは水を集めている！"
+msgstr ""
+
+#. ID 128, Line 606
+msgid "\\>※オルトルートは水を集めている！"
+msgstr ""
+
+#. ID 128, Line 609
+msgid "※オルトルートは水を集めている！"
+msgstr ""
+
+#. ID 138, Line 20
+msgid ""
+"レオナ：\n"
+"さあ、貴女達の力を見せて貰おうかしら。"
+msgstr ""
+
+#. ID 138, Line 22
+msgid ""
+"レオナ：\n"
+"終末の空にまでも飛んで入った、\n"
+"天使と勇者達の成せる業＜グレイトワーク＞。"
+msgstr ""
+
+#. ID 138, Line 28
+msgid ""
+"レオナ：\n"
+"しかし翼を持っているのは、\n"
+"私達とて同じ事。"
+msgstr ""
+
+#. ID 138, Line 31
+msgid ""
+"レオナ：\n"
+"それに私の\"智\"の力は、\n"
+"単独では機能を果たさない。"
+msgstr ""
+
+#. ID 138, Line 34
+msgid ""
+"レオナ：\n"
+"ならば私も黒き翼の下に、\n"
+"幾許かの勇者達を此処に招こう。"
+msgstr ""
+
+#. ID 138, Line 40
+msgid ""
+"レオナ：\n"
+"此処に黒き四つの翼！\\|\n"
+"我が力は暗黒の智天使＜ケルビム＞！"
+msgstr ""
+
+#. ID 138, Line 43
+msgid ""
+"レオナ：\n"
+"そして我招く！\\|\n"
+"今こそは対峙と決戦の刻！"
+msgstr ""
+
+#. ID 138, Line 46
+msgid ""
+"レオナ：\n"
+"馳せ参じ我を助けよ！\\|\n"
+"其が力は暗黒の座天使＜オファニム＞！"
+msgstr ""
+
+#. ID 138, Line 71
+msgid ""
+"レオナ：\n"
+"行くぞ！\\.\\.\n"
+"その翼＜かざりもの＞を圧し折って呉れる！\\|\\|\\^"
+msgstr ""
+
+#. ID 138, Line 101
+msgid ""
+"レイク：\n"
+"………ッ！\\|\\^"
+msgstr ""
+
+#. ID 138, Line 106
+msgid ""
+"レイク：\n"
+"\\S[2]何だ、\\.\\.この威圧感は…！\\|\n"
+"まるで桁が違うじゃねえか…！"
+msgstr ""
+
+#. ID 138, Line 109
+msgid ""
+"エンデ：\n"
+"ふ～ん。\\.\\.こういう格の違いは分かるんだね。"
+msgstr ""
+
+#. ID 138, Line 114
+msgid ""
+"レイク：\n"
+"此奴は一体何なんだ！"
+msgstr ""
+
+#. ID 138, Line 116
+msgid ""
+"レイク：\n"
+"イーヴルでもない、\\.\\.\n"
+"この異様な化け物は…！"
+msgstr ""
+
+#. ID 138, Line 119
+msgid ""
+"エンデ：\n"
+"イーヴルなんて\"欠陥品\"と\n"
+"コイツとを一緒にしないで呉れよ。"
+msgstr ""
+
+#. ID 138, Line 122
+msgid ""
+"エンデ：\n"
+"このイルムガルトは、\n"
+"もっともっと崇高なボクの同胞。"
+msgstr ""
+
+#. ID 138, Line 125
+msgid ""
+"エンデ：\n"
+"勿論、\\.\\.その力はイーヴルの連中なんか\n"
+"到底及ばない。"
+msgstr ""
+
+#. ID 138, Line 131
+msgid ""
+"エンデ：\n"
+"さ～て。\\|キミに倒せるかな？\\|\\^"
+msgstr ""
+
+#. ID 138, Line 133
+msgid ""
+"レイク：\n"
+"上等だ！\\|\n"
+"其処まで言われて引き下がれるかよ！\\|\\|\\^"
+msgstr ""
+
+#. ID 138, Line 136
+msgid ""
+"レイク：\n"
+"意地でもブッ倒してやる！\\|\\|\\^"
+msgstr ""
+
+#. ID 138, Line 169
+msgid ""
+"レイク：\n"
+"黒い翼…。\\.\\.イーヴルか…。"
+msgstr ""
+
+#. ID 138, Line 171
+msgid ""
+"レイク：\n"
+"しかし、だとしたら随分と妙な話だな。"
+msgstr ""
+
+#. ID 138, Line 173
+msgid ""
+"レイク：\n"
+"イーヴルってのは基本的に\n"
+"人間の言う事なんか聞く連中じゃない。"
+msgstr ""
+
+#. ID 138, Line 176
+msgid ""
+"レイク：\n"
+"ましてこんな風に\n"
+"手下として使役されるなんてな。"
+msgstr ""
+
+#. ID 138, Line 179
+msgid ""
+"アサシン：\n"
+"さあな。\\.\\.それが事実だとしても、\n"
+"俺の知った事ではない。"
+msgstr ""
+
+#. ID 138, Line 182
+msgid ""
+"アサシン：\n"
+"俺は只、マスターから\"頼もしいペット\"として\n"
+"此奴を与えられただけだ。"
+msgstr ""
+
+#. ID 138, Line 188
+msgid ""
+"レイク：\n"
+"ケッ…。\\.\\.\n"
+"可愛くないペットだぜ。"
+msgstr ""
+
+#. ID 138, Line 191
+msgid ""
+"レイク：\n"
+"ブッ潰してやる。"
+msgstr ""
+
+#. ID 138, Line 220
+msgid ""
+"レイク：\n"
+"おい！ \\.これが\"温厚な動物達\"なのか！"
+msgstr ""
+
+#. ID 138, Line 222
+#. ID 138, Line 231
+msgid ""
+"ニクソン：\n"
+"そんなの見れば判るでしょう！"
+msgstr ""
+
+#. ID 138, Line 224
+msgid ""
+"ニクソン：\n"
+"気を付けてください！\\.\\.\n"
+"結構な大物ですよ！"
+msgstr ""
+
+#. ID 138, Line 229
+msgid ""
+"レイク：\n"
+"おい！ \\.\\.これが\"温厚な動物達\"なのか！"
+msgstr ""
+
+#. ID 138, Line 233
+msgid ""
+"ヴェーネ：\n"
+"一体如何なってるの…!?"
+msgstr ""
+
+#. ID 138, Line 235
+msgid ""
+"レイク：\n"
+"畜生！ \\.\\.考えるのは後だ！"
+msgstr ""
+
+#. ID 138, Line 237
+msgid ""
+"ニクソン：\n"
+"気を付けてください！\\|\n"
+"結構な大物ですよ！"
+msgstr ""
+
+#. ID 138, Line 266
+msgid ""
+"ハイディ：\n"
+"一つ忠告しておくけれど、\n"
+"倒すならフョードルから倒して頂戴ね。"
+msgstr ""
+
+#. ID 138, Line 270
+msgid ""
+"フョードル：\n"
+"おいおい、そいつは非道い大人だな。\\.\n"
+"其処まで自分が可愛いかよ。"
+msgstr ""
+
+#. ID 138, Line 273
+#. ID 138, Line 283
+msgid ""
+"ハイディ：\n"
+"貴方は基本的にデリケートで窮地に弱い。"
+msgstr ""
+
+#. ID 138, Line 275
+#. ID 138, Line 285
+msgid ""
+"ハイディ：\n"
+"私が先に倒されて独り残されたら、\n"
+"何をするか分からないと言ってるの。"
+msgstr ""
+
+#. ID 138, Line 280
+msgid ""
+"フョードル：\n"
+"おいおい、そいつは非道い大人だな。\\|\n"
+"其処まで自分が可愛いかよ。"
+msgstr ""
+
+#. ID 138, Line 288
+msgid ""
+"ハイディ：\n"
+"違うかしら？\\|\\^"
+msgstr ""
+
+#. ID 138, Line 293
+msgid ""
+"フョードル：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 138, Line 298
+msgid ""
+"ハイディ：\n"
+"まあ、二人共倒されないのがベストなのだけれど。"
+msgstr ""
+
+#. ID 138, Line 300
+msgid ""
+"フョードル：\n"
+"違いねえ！\\|\\^"
+msgstr ""
+
+#. ID 138, Line 302
+msgid ""
+"フョードル：\n"
+"よっしゃー！\\|\n"
+"やってやるぜッ！\\|\\^"
+msgstr ""
+
+#. ID 138, Line 338
+msgid ""
+"\\>※ソウルストリームからアタナーズィアに向かって\n"
+"\\>  膨大なエネルギーが流れ込む！"
+msgstr ""
+
+#. ID 138, Line 342
+msgid ""
+"※ソウルストリームからアタナーズィアに向かって\n"
+"  膨大なエネルギーが流れ込む！"
+msgstr ""
+
+#. ID 138, Line 366
+msgid ""
+"ミネルヴァ：\n"
+"ちょっと！\\. 何よこれ…！"
+msgstr ""
+
+#. ID 138, Line 368
+#. ID 138, Line 443
+msgid ""
+"ミネルヴァ：\n"
+"こんなのが張り付いてたんじゃ、\n"
+"船が壊れるに決まってるわ！"
+msgstr ""
+
+#. ID 138, Line 371
+msgid ""
+"ミネルヴァ：\n"
+"早く排除しないと…！"
+msgstr ""
+
+#. ID 138, Line 376
+msgid ""
+"フォクシー：\n"
+"とんだゲテモノが来たもんだ！\\.\n"
+"冗談じゃないね！"
+msgstr ""
+
+#. ID 138, Line 379
+#. ID 138, Line 454
+msgid ""
+"フォクシー：\n"
+"ほら、さっさとブチ殺すよ！"
+msgstr ""
+
+#. ID 138, Line 384
+msgid ""
+"ニクソン：\n"
+"おっと…。\\.\n"
+"これはまた悪趣味なデコレーションで。"
+msgstr ""
+
+#. ID 138, Line 387
+#. ID 138, Line 462
+msgid ""
+"ニクソン：\n"
+"しかしイマイチですね。\n"
+"少なくとも私の趣味ではありません。"
+msgstr ""
+
+#. ID 138, Line 390
+#. ID 138, Line 465
+msgid ""
+"ニクソン：\n"
+"残念ですが、撤去させて頂きましょうか。"
+msgstr ""
+
+#. ID 138, Line 395
+msgid ""
+"ドリス：\n"
+"おネエちゃん…。\\.タスけに行くの…。"
+msgstr ""
+
+#. ID 138, Line 397
+msgid ""
+"ドリス：\n"
+"ジャマしないで！"
+msgstr ""
+
+#. ID 138, Line 402
+msgid ""
+"ヤンシー：\n"
+"船体を丸ごと包んで破壊だなんて。\\.\n"
+"また随分と力技で来たものね。"
+msgstr ""
+
+#. ID 138, Line 405
+msgid ""
+"ヤンシー：\n"
+"しかし否ッ！\\. 戦いの極意は力技に非ず！"
+msgstr ""
+
+#. ID 138, Line 407
+msgid ""
+"ヤンシー：\n"
+"勝機は此方にあり！ \\.いざ滅せんッ！"
+msgstr ""
+
+#. ID 138, Line 412
+msgid ""
+"ランサード：\n"
+"………。"
+msgstr ""
+
+#. ID 138, Line 414
+msgid ""
+"ランサード：\n"
+"邪魔だ。\\.消えろ。"
+msgstr ""
+
+#. ID 138, Line 418
+msgid ""
+"ヴィルジニー：\n"
+"随分と手荒な方法だな！\\.\n"
+"いかにもゲオルクのやりそうな事だ！"
+msgstr ""
+
+#. ID 138, Line 421
+msgid ""
+"ヴィルジニー：\n"
+"いいだろう！\\.\n"
+"これを奴との前哨戦にしてやる！"
+msgstr ""
+
+#. ID 138, Line 424
+msgid ""
+"ヴィルジニー：\n"
+"散るがいい！\\. 可能な限り無様にな！"
+msgstr ""
+
+#. ID 138, Line 441
+msgid ""
+"ミネルヴァ：\n"
+"ちょっと！\\.\\. 何よこれ…！\\|\\^"
+msgstr ""
+
+#. ID 138, Line 446
+msgid ""
+"ミネルヴァ：\n"
+"早く排除しないと…！\\|\\^"
+msgstr ""
+
+#. ID 138, Line 451
+msgid ""
+"フォクシー：\n"
+"とんだゲテモノが来たもんだ！\\|\n"
+"冗談じゃないね！"
+msgstr ""
+
+#. ID 138, Line 459
+msgid ""
+"ニクソン：\n"
+"おっと…。\\|\n"
+"これはまた悪趣味なデコレーションで。"
+msgstr ""
+
+#. ID 138, Line 470
+msgid ""
+"ドリス：\n"
+"おネエちゃん…。\\|タスけに行くの…。"
+msgstr ""
+
+#. ID 138, Line 472
+msgid ""
+"ドリス：\n"
+"ジャマしないで！\\|\\^"
+msgstr ""
+
+#. ID 138, Line 477
+msgid ""
+"ヤンシー：\n"
+"船体を丸ごと包んで破壊だなんて。\\|\n"
+"また随分と力技で来たものね。"
+msgstr ""
+
+#. ID 138, Line 480
+msgid ""
+"ヤンシー：\n"
+"しかし否ッ！\\| 戦いの極意は力技に非ず！"
+msgstr ""
+
+#. ID 138, Line 482
+msgid ""
+"ヤンシー：\n"
+"勝機は此方にあり！ \\|いざ滅せんッ！\\|\\^"
+msgstr ""
+
+#. ID 138, Line 487
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 138, Line 489
+msgid ""
+"ランサード：\n"
+"邪魔だ。\\|消えろ。\\|\\^"
+msgstr ""
+
+#. ID 138, Line 493
+msgid ""
+"ヴィルジニー：\n"
+"随分と手荒な方法だな！\\|\n"
+"いかにもゲオルクのやりそうな事だ！"
+msgstr ""
+
+#. ID 138, Line 496
+msgid ""
+"ヴィルジニー：\n"
+"いいだろう！\\.\\.\n"
+"これを奴との前哨戦にしてやる！"
+msgstr ""
+
+#. ID 138, Line 499
+msgid ""
+"ヴィルジニー：\n"
+"散るがいい！\\| 可能な限り無様にな！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 138, Line 571
+#. ID 1383, Line 2113
+msgid ""
+"\\>※タクティカルスフィア『リジェネレーション』の\n"
+"\\>　効果が消滅した！"
+msgstr ""
+
+#. ID 138, Line 575
+#. ID 1383, Line 2117
+msgid ""
+"※タクティカルスフィア『リジェネレーション』の\n"
+"　効果が消滅した！"
+msgstr ""
+
+#. ID 138, Line 596
+#. ID 138, Line 653
+msgid ""
+"フョードル：\n"
+"聞こえるか？\\.\n"
+"今から其処での戦い方について説明する！"
+msgstr ""
+
+#. ID 138, Line 602
+#. ID 138, Line 659
+msgid ""
+"フョードル：\n"
+"聞こえるか？\\.\\.\n"
+"今から其処での戦い方について説明する！"
+msgstr ""
+
+#. ID 138, Line 607
+#. ID 138, Line 667
+msgid ""
+"フョードル：\n"
+"左側のゲージを見てくれ！\n"
+"それはこの船のバリアフィールドの残量だ！"
+msgstr ""
+
+#. ID 138, Line 610
+#. ID 138, Line 670
+msgid ""
+"フョードル：\n"
+"あんた達がダメージを受ける度に、\n"
+"バリアフィールドも一緒に消耗する！"
+msgstr ""
+
+#. ID 138, Line 613
+#. ID 138, Line 673
+msgid ""
+"フョードル：\n"
+"消耗量は、単体攻撃なら同じ値、\n"
+"全体攻撃なら平均値だ！"
+msgstr ""
+
+#. ID 138, Line 616
+#. ID 138, Line 676
+msgid ""
+"フョードル：\n"
+"もしバリアフィールドがゼロになったら、\n"
+"この船は直ぐにでもスクラップになっちまう！"
+msgstr ""
+
+#. ID 138, Line 619
+#. ID 138, Line 679
+msgid ""
+"フョードル：\n"
+"即全滅って事だ！"
+msgstr ""
+
+#. ID 138, Line 621
+#. ID 138, Line 681
+msgid ""
+"フョードル：\n"
+"だから戦っている最中に、機を見計らって\n"
+"バリアフィールドを回復しなくちゃならねえ！"
+msgstr ""
+
+#. ID 138, Line 624
+#. ID 138, Line 684
+msgid ""
+"フョードル：\n"
+"コイツは魔力障壁の原理で生成されているから、\n"
+"あんた達のＴＰを消費して回復できる！"
+msgstr ""
+
+#. ID 138, Line 627
+#. ID 138, Line 687
+msgid ""
+"フョードル：\n"
+"セカンドコマンドを開いて\n"
+"「バリアフィールド回復」を選択してくれ！\n"
+"それで回復する筈だ！"
+msgstr ""
+
+#. ID 138, Line 635
+#. ID 138, Line 698
+msgid ""
+"フョードル：\n"
+"説明は以上！ \\.それじゃあ頼んだぜッ！"
+msgstr ""
+
+#. ID 138, Line 641
+#. ID 138, Line 704
+msgid ""
+"フョードル：\n"
+"説明は以上！ \\.\\.それじゃあ頼んだぜッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 138, Line 664
+msgid ""
+"フョードル：\n"
+"其処での戦闘では、ブレイクゲージが\n"
+"この船のバリアフィールドの残量を表してる！"
+msgstr ""
+
+#. ID 138, Line 691
+msgid ""
+"フョードル：\n"
+"あと、他の条件では\n"
+"ブレイクゲージは増減しないから注意してくれ！"
+msgstr ""
+
+#. ID 138, Line 793
+msgid ""
+"\\>\\C[10]【セカンドコマンド】\\C[0]\n"
+"\\>コマンド選択時にShiftキーを入力すると、\n"
+"\\>通常コマンドとは別の２次的なコマンドである\n"
+"\\>セカンドコマンドを起動します。\\<\\.\\."
+msgstr ""
+
+#. ID 138, Line 797
+msgid ""
+"\\>\\C[10]【セカンドコマンド】\\C[0]\n"
+"\\>セカンドコマンドは比較的使用する事の少ない\n"
+"\\>アクションや機能を備えています。\n"
+"\\>状況に応じて活用しましょう。"
+msgstr ""
+
+#. ID 138, Line 803
+msgid ""
+"\\>\\C[10]【セカンドコマンド】\\C[0]\n"
+"コマンド選択時にShiftキーを入力すると、\n"
+"通常コマンドとは別の２次的なコマンドである\n"
+"セカンドコマンドを起動します。"
+msgstr ""
+
+#. ID 138, Line 807
+msgid ""
+"\\>\\C[10]【セカンドコマンド】\\C[0]\n"
+"セカンドコマンドは比較的使用する事の少ない\n"
+"アクションや機能を備えています。\n"
+"状況に応じて活用しましょう。"
+msgstr ""
+
+#. ID 139, Line 501
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "BOOTY x "
+msgstr ""
+
+#. ID 139, Line 503
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ブレイク発生"
+msgstr ""
+
+#. ID 139, Line 504
+#. ChangeHeroName (Actor 7)
+#. ID 139, Line 512
+#. ChangeHeroName (Actor 7)
+#. ID 139, Line 517
+#. ChangeHeroName (Actor 7)
+#. ID 139, Line 529
+#. ChangeHeroName (Actor 7)
+#. ID 139, Line 534
+#. ChangeHeroName (Actor 7)
+#. ID 139, Line 551
+#. ChangeHeroName (Actor 7)
+#. ID 139, Line 568
+#. ChangeHeroName (Actor 7)
+#. ID 139, Line 579
+#. ChangeHeroName (Actor 7)
+#. ID 139, Line 592
+#. ChangeHeroName (Actor 7)
+#. ID 139, Line 838
+#. ChangeHeroName (Actor 8)
+#. ID 139, Line 991
+#. ChangeHeroName (Actor 8)
+#. ID 139, Line 1122
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "1.0"
+msgstr ""
+
+#. ID 139, Line 507
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "バトル成立 "
+msgstr ""
+
+#. ID 139, Line 511
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "1/3"
+msgstr ""
+
+#. ID 139, Line 515
+#. ChangeHeroName (Actor 3)
+#. ID 139, Line 532
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "2/3"
+msgstr ""
+
+#. ID 139, Line 520
+#. ChangeHeroName (Actor 7)
+#. ID 139, Line 537
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "1.2"
+msgstr ""
+
+#. ID 139, Line 528
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "1/5"
+msgstr ""
+
+#. ID 139, Line 547
+#. ChangeHeroName (Actor 4)
+#. ID 139, Line 588
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "（チェインコ"
+msgstr ""
+
+#. ID 139, Line 548
+#. ChangeHeroName (Actor 5)
+#. ID 139, Line 589
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "ンプリート）"
+msgstr ""
+
+#. ID 139, Line 549
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "3/3"
+msgstr ""
+
+#. ID 139, Line 555
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "2.0"
+msgstr ""
+
+#. ID 139, Line 558
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "3.0"
+msgstr ""
+
+#. ID 139, Line 566
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "3/5"
+msgstr ""
+
+#. ID 139, Line 571
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "1.4"
+msgstr ""
+
+#. ID 139, Line 577
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "4/5"
+msgstr ""
+
+#. ID 139, Line 582
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "1.6"
+msgstr ""
+
+#. ID 139, Line 590
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "5/5"
+msgstr ""
+
+#. ID 139, Line 596
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "4.0"
+msgstr ""
+
+#. ID 139, Line 599
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "5.0"
+msgstr ""
+
+#. ID 139, Line 613
+#. ChangeHeroName (Actor 9)
+#. ID 139, Line 620
+#. ChangeHeroName (Actor 10)
+#. ID 139, Line 1227
+#. ChangeHeroName (Actor 6)
+#. ID 139, Line 1234
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "0"
+msgstr ""
+
+#. ID 139, Line 633
+#. ChangeHeroName (Actor 12)
+msgctxt "actors.name"
+msgid "通常よりも"
+msgstr ""
+
+#. ID 139, Line 641
+#. ID 139, Line 905
+#. ID 139, Line 1161
+msgid ""
+"\\>「\\n[12]少ないバトルメンバー人数で勝利　\\v[4071]/\\v[2209]」\n"
+"\\>　　バトルメンバーの獲得EXP x \\v[2251].\\v[2252]"
+msgstr ""
+
+#. ID 139, Line 645
+#. ID 139, Line 909
+#. ID 139, Line 1165
+msgid "\\>「\\n[12]少ないバトルメンバー人数で勝利　\\v[4071]/\\v[2209]」"
+msgstr ""
+
+#. ID 139, Line 654
+msgid "\\>「獲得グレード \\c[4]\\v[2262]\\c[0]」"
+msgstr ""
+
+#. ID 139, Line 657
+msgid "\\>「獲得グレード \\v[2262]」"
+msgstr ""
+
+#. ID 139, Line 664
+msgid ""
+"\\>「獲得グレード \\c[4]\\v[2262]\\c[0]」\n"
+"\\>「\\n[12]少ないバトルメンバー人数で勝利　\\v[4071]/\\v[2209]」\n"
+"\\>　　バトルメンバーの獲得EXP x \\v[2251].\\v[2252]"
+msgstr ""
+
+#. ID 139, Line 669
+msgid ""
+"\\>「獲得グレード \\v[2262]」\n"
+"\\>「\\n[12]少ないバトルメンバー人数で勝利　\\v[4071]/\\v[2209]」\n"
+"\\>　　バトルメンバーの獲得EXP x \\v[2251].\\v[2252]"
+msgstr ""
+
+#. ID 139, Line 677
+msgid ""
+"\\>「獲得グレード \\c[4]\\v[2262]\\c[0]」\n"
+"\\>「\\n[12]少ないバトルメンバー人数で勝利　\\v[4071]/\\v[2209]」"
+msgstr ""
+
+#. ID 139, Line 681
+msgid ""
+"\\>「獲得グレード \\v[2262]」\n"
+"\\>「\\n[12]少ないバトルメンバー人数で勝利　\\v[4071]/\\v[2209]」"
+msgstr ""
+
+#. ID 139, Line 693
+msgid ""
+"\\>「敵との平均レベル差 \\c[11]+\\v[2272]\\c[0]」\n"
+"\\>「戦闘時間　\\n[9]\\v[2235]:\\n[10]\\v[2236]」\n"
+"\\>「経過ＷＴ　\\v[2216]」\n"
+"\\>「ターン数　プレイヤー\\v[2211] エネミー\\v[2213]」"
+msgstr ""
+
+#. ID 139, Line 700
+msgid ""
+"\\>「敵との平均レベル差 ±\\v[2272]」\n"
+"\\>「戦闘時間　\\n[9]\\v[2235]:\\n[10]\\v[2236]」\n"
+"\\>「経過ＷＴ　\\v[2216]」\n"
+"\\>「ターン数　プレイヤー\\v[2211] エネミー\\v[2213]」"
+msgstr ""
+
+#. ID 139, Line 713
+msgid ""
+"\\>「敵との平均レベル差 \\c[10]\\v[2272]\\c[0]」\n"
+"\\>「戦闘時間　\\n[9]\\v[2235]:\\n[10]\\v[2236]」\n"
+"\\>「経過ＷＴ　\\v[2216]」\n"
+"\\>「ターン数　プレイヤー\\v[2211] エネミー\\v[2213]」"
+msgstr ""
+
+#. ID 139, Line 724
+msgid ""
+"\\>「敵との平均レベル差 \\c[11]+\\v[2272]\\c[0]」\n"
+"\\>「戦闘時間　\\n[9]\\v[2235]:\\n[10]\\v[2236]」\n"
+"\\>「経過ＷＴ　\\v[2216]」\n"
+"\\>「ターン数　プレイヤー\\v[2211] エネミー\\v[2213](+\\v[2265])」"
+msgstr ""
+
+#. ID 139, Line 731
+msgid ""
+"\\>「敵との平均レベル差 ±\\v[2272]」\n"
+"\\>「戦闘時間　\\n[9]\\v[2235]:\\n[10]\\v[2236]」\n"
+"\\>「経過ＷＴ　\\v[2216]」\n"
+"\\>「ターン数　プレイヤー\\v[2211] エネミー\\v[2213](+\\v[2265])」"
+msgstr ""
+
+#. ID 139, Line 744
+msgid ""
+"\\>「敵との平均レベル差 \\c[10]\\v[2272]\\c[0]」\n"
+"\\>「戦闘時間　\\n[9]\\v[2235]:\\n[10]\\v[2236]」\n"
+"\\>「経過ＷＴ　\\v[2216]」\n"
+"\\>「ターン数　プレイヤー\\v[2211] エネミー\\v[2213](+\\v[2265])」"
+msgstr ""
+
+#. ID 139, Line 758
+#. ID 139, Line 773
+#. ID 139, Line 829
+#. ID 139, Line 1012
+#. ID 139, Line 1027
+msgid "\\>「敵との平均レベル差 \\c[11]+\\v[2272]\\c[0]」"
+msgstr ""
+
+#. ID 139, Line 763
+#. ID 139, Line 1017
+msgid ""
+"\\>「獲得グレード \\c[4]\\v[2262]\\c[0]」\n"
+"\\>「敵との平均レベル差 \\c[11]+\\v[2272]\\c[0]」"
+msgstr ""
+
+#. ID 139, Line 767
+#. ID 139, Line 1021
+msgid ""
+"\\>「獲得グレード \\v[2262]」\n"
+"\\>「敵との平均レベル差 \\c[11]+\\v[2272]\\c[0]」"
+msgstr ""
+
+#. ID 139, Line 782
+#. ID 139, Line 797
+#. ID 139, Line 1036
+#. ID 139, Line 1051
+msgid "\\>「敵との平均レベル差 ±\\v[2272]」"
+msgstr ""
+
+#. ID 139, Line 787
+#. ID 139, Line 1041
+msgid ""
+"\\>「獲得グレード \\c[4]\\v[2262]\\c[0]」\n"
+"\\>「敵との平均レベル差 ±\\v[2272]」"
+msgstr ""
+
+#. ID 139, Line 791
+#. ID 139, Line 1045
+msgid ""
+"\\>「獲得グレード \\v[2262]」\n"
+"\\>「敵との平均レベル差 ±\\v[2272]」"
+msgstr ""
+
+#. ID 139, Line 814
+#. ID 139, Line 845
+#. ID 139, Line 860
+#. ID 139, Line 875
+#. ID 139, Line 890
+#. ID 139, Line 943
+#. ID 139, Line 1068
+#. ID 139, Line 1083
+#. ID 139, Line 1099
+#. ID 139, Line 1114
+#. ID 139, Line 1129
+#. ID 139, Line 1144
+msgid "\\>「敵との平均レベル差 \\c[10]\\v[2272]\\c[0]」"
+msgstr ""
+
+#. ID 139, Line 819
+#. ID 139, Line 850
+#. ID 139, Line 880
+#. ID 139, Line 933
+#. ID 139, Line 1073
+#. ID 139, Line 1104
+#. ID 139, Line 1134
+msgid ""
+"\\>「獲得グレード \\c[4]\\v[2262]\\c[0]」\n"
+"\\>「敵との平均レベル差 \\c[10]\\v[2272]\\c[0]」"
+msgstr ""
+
+#. ID 139, Line 823
+#. ID 139, Line 854
+#. ID 139, Line 884
+#. ID 139, Line 937
+#. ID 139, Line 1077
+#. ID 139, Line 1108
+#. ID 139, Line 1138
+msgid ""
+"\\>「獲得グレード \\v[2262]」\n"
+"\\>「敵との平均レベル差 \\c[10]\\v[2272]\\c[0]」"
+msgstr ""
+
+#. ID 139, Line 841
+#. ChangeHeroName (Actor 8)
+#. ID 139, Line 994
+#. ChangeHeroName (Actor 8)
+#. ID 139, Line 1125
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "0.01"
+msgstr ""
+
+#. ID 139, Line 868
+#. ChangeHeroName (Actor 8)
+#. ID 139, Line 979
+#. ChangeHeroName (Actor 8)
+#. ID 139, Line 1092
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "0.9"
+msgstr ""
+
+#. ID 139, Line 871
+#. ChangeHeroName (Actor 8)
+#. ID 139, Line 982
+#. ChangeHeroName (Actor 8)
+#. ID 139, Line 1095
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "0.009"
+msgstr ""
+
+#. ID 139, Line 915
+msgid ""
+"\\>「戦闘時間　\\n[9]\\v[2235]:\\n[10]\\v[2236]」\n"
+"\\>「経過ＷＴ　\\v[2216]」\n"
+"\\>「ターン数　プレイヤー\\v[2211] エネミー\\v[2213]」"
+msgstr ""
+
+#. ID 139, Line 920
+msgid ""
+"\\>「戦闘時間　\\n[9]\\v[2235]:\\n[10]\\v[2236]」\n"
+"\\>「経過ＷＴ　\\v[2216]」\n"
+"\\>「ターン数　プレイヤー\\v[2211] エネミー\\v[2213](+\\v[2265])」"
+msgstr ""
+
+#. ID 139, Line 949
+msgid ""
+"\\>「敵との平均レベル差 \\c[11]+\\v[2272]\\c[0]」\n"
+"\\>\n"
+"\\>「チェイン\\n[2]\\n[3]\\n[4]\\n[5]」\n"
+"\\>　　\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 139, Line 956
+msgid ""
+"\\>「敵との平均レベル差 ±\\v[2272]」\n"
+"\\>\n"
+"\\>「チェイン\\n[2]\\n[3]\\n[4]\\n[5]」\n"
+"\\>　　\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 139, Line 971
+msgid ""
+"\\>「敵との平均レベル差 \\c[10]\\v[2272]\\c[0]」\n"
+"\\>\n"
+"\\>「チェイン\\n[2]\\n[3]\\n[4]\\n[5]」\n"
+"\\>　　\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 139, Line 985
+#. ID 139, Line 997
+msgid ""
+"\\>「敵との平均レベル差 \\c[10]\\v[2272]\\c[0]」\n"
+"\\>「チェイン\\n[2]\\n[3]\\n[4]\\n[5]」\n"
+"\\>　　\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 139, Line 1173
+msgid ""
+"\\>「過度のチェイン数稼ぎによるペナルティ･レベル１」\n"
+"\\>　　　　チェイン数\\_x\\_0.75\n"
+"\\>　　ブレイクゲージ\\_x\\_0.80\n"
+"\\>　　　　ＥＸゲージ\\_-\\_2500"
+msgstr ""
+
+#. ID 139, Line 1180
+msgid ""
+"\\>「過度のチェイン数稼ぎによるペナルティ･レベル２」\n"
+"\\>　　　　チェイン数\\_x\\_0.50\n"
+"\\>　　ブレイクゲージ\\_x\\_0.60\n"
+"\\>　　　　ＥＸゲージ\\_-\\_3750"
+msgstr ""
+
+#. ID 139, Line 1187
+msgid ""
+"\\>「過度のチェイン数稼ぎによるペナルティ･レベル３」\n"
+"\\>　　　　チェイン数\\_x\\_0.25\n"
+"\\>　　ブレイクゲージ\\_x\\_0.40\n"
+"\\>　　　　ＥＸゲージ\\_-\\_5000"
+msgstr ""
+
+#. ID 139, Line 1194
+msgid ""
+"\\>「過度のチェイン数稼ぎによるペナルティ･レベル４」\n"
+"\\>　　　　チェイン数\\_x\\_0.125\n"
+"\\>　　ブレイクゲージ\\_x\\_0.400\n"
+"\\>　　　　ＥＸゲージ\\_-\\_10000"
+msgstr ""
+
+#. ID 139, Line 1203
+msgid ""
+"\\>「過度のチェイン数稼ぎによるペナルティ･レベル１」\n"
+"\\>　　　　ＥＸゲージ\\_-\\_2500"
+msgstr ""
+
+#. ID 139, Line 1208
+msgid ""
+"\\>「過度のチェイン数稼ぎによるペナルティ･レベル２」\n"
+"\\>　　　　ＥＸゲージ\\_-\\_3750"
+msgstr ""
+
+#. ID 139, Line 1213
+msgid ""
+"\\>「過度のチェイン数稼ぎによるペナルティ･レベル３」\n"
+"\\>　　　　ＥＸゲージ\\_-\\_5000"
+msgstr ""
+
+#. ID 139, Line 1218
+msgid ""
+"\\>「過度のチェイン数稼ぎによるペナルティ･レベル４」\n"
+"\\>　　　　ＥＸゲージ\\_-\\_10000"
+msgstr ""
+
+#. ID 139, Line 1241
+msgid ""
+"\\>「戦闘時間　　　\\n[9]\\v[2235]:\\n[10]\\v[2236]」\n"
+"\\>「経過ＷＴ　　　\\v[2216]」\n"
+"\\>「ターン数　　　プレイヤー\\v[2211] エネミー\\v[2213]」\n"
+"\\>「被WTダメージ　プレイヤー\\v[2266] エネミー\\v[2267]」"
+msgstr ""
+
+#. ID 139, Line 1247
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ターン数　"
+msgstr ""
+
+#. ID 139, Line 1248
+msgid ""
+"\\>「戦闘時間　　　\\n[9]\\v[2235]:\\n[10]\\v[2236]」\n"
+"\\>「経過ＷＴ　　　\\v[2216]」\n"
+"\\>「\\n[2]　　プレイヤー\\v[2211] エネミー\\v[2213](+\\v[2265])」\n"
+"\\>「被WTダメージ　プレイヤー\\v[2266] エネミー\\v[2267]」"
+msgstr ""
+
+#. ID 139, Line 1256
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "「アビリティ"
+msgstr ""
+
+#. ID 139, Line 1257
+msgid ""
+"\\>「ＨＰＴＰ消耗量　ＨＰ消耗\\v[2205]％ ＴＰ消耗\\v[2206]％」\n"
+"\\>「戦闘不能回数　　\\v[2228]」\n"
+"\\>「アイテム消費数　\\v[2229]」"
+msgstr ""
+
+#. ID 139, Line 1261
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "回数　攻魔"
+msgstr ""
+
+#. ID 139, Line 1263
+msgid ""
+"\\>「通常攻撃回数　　ノーマルATK\\v[2219] ハードATK\\v[2220]」\n"
+"\\>\\n[2]\\n[3]\\v[2221] 回魔\\v[2222] 補魔\\v[2223] 固有\\v[2224]」\n"
+"\\>「累計パスＷＴ　　\\v[2231]」\n"
+"\\>「雑魚敵との戦闘を省略」"
+msgstr ""
+
+#. ID 139, Line 1269
+msgid ""
+"\\>「通常攻撃回数　　ノーマルATK\\v[2219] ハードATK\\v[2220]」\n"
+"\\>\\n[2]\\n[3]\\v[2221] 回魔\\v[2222] 補魔\\v[2223] 固有\\v[2224]」\n"
+"\\>「累計パスＷＴ　　\\v[2231]」"
+msgstr ""
+
+#. ID 139, Line 1276
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "回数　　攻魔"
+msgstr ""
+
+#. ID 139, Line 1277
+msgid ""
+"\\>「通常攻撃回数　　　ノーマルATK\\v[2219] ハードATK\\v[2220]」\n"
+"\\>\\n[2]\\n[3]\\v[2221] 回魔\\v[2222] 補魔\\v[2223] 固有\\v[2224]」\n"
+"\\>「累計パスＷＴ　　　\\v[2231]」\n"
+"\\>「ＥＸゲージ消費量　\\v[2230]％」"
+msgstr ""
+
+#. ID 139, Line 1301
+msgid "\\>「オーバーエネミー撃破」"
+msgstr ""
+
+#. ID 139, Line 1304
+msgid ""
+"\\>「オーバーエネミー撃破」\n"
+"\\>「ラッキーセブン発生」"
+msgstr ""
+
+#. ID 139, Line 1310
+msgid ""
+"\\>「オーバーエネミー撃破」\n"
+"\\>「雑魚敵との戦闘を省略」"
+msgstr ""
+
+#. ID 139, Line 1317
+msgid "\\>「雑魚敵との戦闘を省略」"
+msgstr ""
+
+#. ID 139, Line 1322
+msgid ""
+"\\>「ボスとの戦闘でフロントアクシデント発動」\n"
+"\\>「ラッキーセブン発生」"
+msgstr ""
+
+#. ID 139, Line 1329
+msgid "\\>「ラッキーセブン発生」"
+msgstr ""
+
+#. ID 170, Line 559
+msgid ""
+"\\>\\v[2401]\n"
+"\\>\\v[4832]　\\v[4838]\n"
+"\\>\\v[4793]\n"
+"\\>\\v[4794]　\\v[4799]　\\v[4800]"
+msgstr ""
+
+#. ID 170, Line 589
+msgid ""
+"\\>\\v[2401]\n"
+"\\>\\v[4832]　\\v[4833]　\\v[4838]\n"
+"\\>\\v[4793]\n"
+"\\>\\v[4794]　\\v[4799]　\\v[4800]　\\v[4520]"
+msgstr ""
+
+#. ID 256, Line 95
+#. Choice (3 options)
+msgid ""
+"\\>休憩する\n"
+"\\>休憩しない\n"
+"\\>雑談する"
+msgstr ""
+
+#. ID 256, Line 108
+#. Choice (2 options)
+#. ID 861, Line 57
+#. Choice (2 options)
+msgid ""
+"\\>休憩する\n"
+"\\>休憩しない"
+msgstr ""
+
+#. ID 256, Line 120
+#. Contains choice at line 2 (1 options)
+#. ID 861, Line 67
+#. Contains choice at line 2 (1 options)
+msgid "\\>※所持金が足りません。"
+msgstr ""
+
+#. ID 256, Line 121
+#. Choice (1 options, embedded in a message)
+#. ID 861, Line 68
+#. Choice (1 options, embedded in a message)
+msgid "\\>休憩しない"
+msgstr ""
+
+#. ID 315, Line 162
+msgid "\\>※戦闘不能･石化以外の不利状態追加発動率が上昇！"
+msgstr ""
+
+#. ID 315, Line 165
+msgid "※戦闘不能･石化以外の不利状態追加発動率が上昇！"
+msgstr ""
+
+#. ID 345, Line 381
+msgid ""
+"ヤンシー：\n"
+"ドリス！\\.  今よッ！\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 357, Line 300
+msgid "\\>※防御能力とＨＰが減少し、攻撃能力が上昇！"
+msgstr ""
+
+#. ID 357, Line 303
+msgid "※防御能力とＨＰが減少し、攻撃能力が上昇！"
+msgstr ""
+
+#. ID 391, Line 58
+msgid "\\>※敵の属性耐性が変異した！"
+msgstr ""
+
+#. ID 391, Line 61
+msgid "※敵の属性耐性が変異した！"
+msgstr ""
+
+#. ID 392, Line 57
+msgid "\\>※八岐の狂乱状態防御率が低下！"
+msgstr ""
+
+#. ID 392, Line 60
+msgid "※八岐の狂乱状態防御率が低下！"
+msgstr ""
+
+#. ID 441, Line 199
+msgid ""
+"\\>       \\n[2]イーヴル\n"
+"\\>       \\n[3]\\v[902]\n"
+"\\>       カウンターアタック:－　デッドアタック:－\n"
+"\\>       \\n[4]\\n[5]"
+msgstr ""
+
+#. ID 441, Line 208
+msgid ""
+"\\>◇ノーマルアタック\n"
+"\\>◇？？？\n"
+"\\>◇？？？"
+msgstr ""
+
+#. ID 441, Line 214
+msgid ""
+"\\>◇ノーマルアタック\n"
+"\\>◇ハードアタック\n"
+"\\>◇？？？"
+msgstr ""
+
+#. ID 441, Line 219
+msgid ""
+"\\>◇ノーマルアタック\n"
+"\\>◇ハードアタック\n"
+"\\>◇爪"
+msgstr ""
+
+#. ID 441, Line 231
+msgid "\\>◇？？？(??%)"
+msgstr ""
+
+#. ID 441, Line 235
+#. ID 441, Line 239
+msgid "\\>◇ヒールボトル(??%)"
+msgstr ""
+
+#. ID 441, Line 242
+msgid "\\>◇ヒールボトル(5%)"
+msgstr ""
+
+#. ID 442, Line 226
+msgid ""
+"\\>       \\n[2]\n"
+"\\>       \\n[3]\\v[902]\n"
+"\\>       カウンターアタック:－　デッドアタック:－\n"
+"\\>       \\n[4]\\n[5]"
+msgstr ""
+
+#. ID 446, Line 360
+msgid "\\>       ◇ファイアブレス　AC:火or風"
+msgstr ""
+
+#. ID 446, Line 363
+#. ID 451, Line 351
+#. ID 504, Line 476
+#. ID 1248, Line 382
+msgid "\\>       ◇無し"
+msgstr ""
+
+#. ID 451, Line 346
+msgid ""
+"\\>       ◇マッドプレス　AC:水or土\n"
+"\\>       ◇フリージィ\n"
+"\\>       　発動周期:[?x+2]ターン（更に発動条件有り）"
+msgstr ""
+
+#. ID 452, Line 201
+msgid "\\>       ◇押しつぶす"
+msgstr ""
+
+#. ID 455, Line 194
+#. ID 535, Line 258
+msgid "\\>       ◇アースインタラプト　AC:土"
+msgstr ""
+
+#. ID 456, Line 262
+#. ID 473, Line 291
+#. ID 539, Line 384
+msgid ""
+"\\>       ◇モノリスクラッシュ　AC:土\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 461, Line 266
+msgid ""
+"\\>       ◇スパークミスト　AC:水or天\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 462, Line 512
+msgid ""
+"\\>       ◇スパークミスト　AC:水or天\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇大海衝"
+msgstr ""
+
+#. ID 462, Line 517
+msgid "\\>       ◇スパークミスト　AC:水or天"
+msgstr ""
+
+#. ID 464, Line 397
+msgid ""
+"\\>       ◇黒双牙　AC:闇\n"
+"\\>       ◇マインドシャドウ　AC:闇"
+msgstr ""
+
+#. ID 464, Line 399
+msgid ""
+"\\>       ◇黒獅子滅殺舞\n"
+"\\>       　発動周期:[?x+6]ターン\n"
+"\\>       　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 464, Line 404
+msgid ""
+"\\>       ◇マインドシャドウ　AC:闇\n"
+"\\>       ◇ダークネスハーツ\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 464, Line 408
+#. ID 509, Line 384
+msgid "\\>       ◇黒獅子滅殺舞"
+msgstr ""
+
+#. ID 465, Line 222
+msgid ""
+"\\>       ◇タービュランス\n"
+"\\>       　発動周期:[?x+2]ターン"
+msgstr ""
+
+#. ID 475, Line 396
+msgid ""
+"\\>       ◇クラッシュブロウ　AC:破\n"
+"\\>       ◇モノリスクラッシュ　AC:土"
+msgstr ""
+
+#. ID 475, Line 398
+msgid ""
+"\\>       ◇クレイジービート\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 475, Line 403
+msgid ""
+"\\>       ◇モノリスクラッシュ　AC:土\n"
+"\\>       ◇クレイジービート\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 476, Line 282
+msgid ""
+"\\>       ◇ファイアブレス　AC:火or風\n"
+"\\>       　（一定条件で発動）"
+msgstr ""
+
+#. ID 481, Line 366
+msgid ""
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       　（一定条件で発動）\n"
+"\\>       ◇マインドシャドウ　AC:闇\n"
+"\\>       　（一定条件、一定確率で発動）"
+msgstr ""
+
+#. ID 482, Line 231
+#. ID 482, Line 238
+msgid ""
+"\\>       ◇捕食\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 482, Line 233
+msgid ""
+"\\>       ◇完食\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       　（更に発動条件有り）"
+msgstr ""
+
+#. ID 482, Line 242
+msgid ""
+"\\>       ◇マッドプレス　AC:水or土\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 483, Line 521
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]此奴ら…\\.\\.強い…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 483, Line 524
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]御免なさい、\\.\\.御父様…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 483, Line 526
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]今の私では…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 483, Line 564
+msgid ""
+"\\>       ◇ショックウェーブ･Ｄアサルト\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       ◇ヒートアップ　AC:火"
+msgstr ""
+
+#. ID 483, Line 568
+msgid ""
+"\\>       ◇ソニックブーム　AC:風or破\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       ◇ファイアブレス　AC:火or風\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 483, Line 574
+msgid ""
+"\\>       ◇ショックウェーブ･Ｄアサルト\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       ◇ソニックブーム　AC:風or破"
+msgstr ""
+
+#. ID 488, Line 418
+msgid ""
+"イート：\n"
+"何てこった！\\|\\^"
+msgstr ""
+
+#. ID 488, Line 420
+msgid ""
+"イート：\n"
+"この俺がッ！ \\|こんな若造にッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 488, Line 422
+#. ID 488, Line 428
+msgid ""
+"イート：\n"
+"肉足りねえよ、肉！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 488, Line 424
+#. ID 1154, Line 68
+msgid ""
+"イート：\n"
+"うぉぉぉぉぉッ！\\|\\^"
+msgstr ""
+
+#. ID 488, Line 540
+#. ID 488, Line 547
+msgid ""
+"\\>       ◇大炎上焼死バーベキュー\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 488, Line 542
+msgid ""
+"\\>       ◇肉食うぜ、肉！\n"
+"\\>       　発動周期:[?x+6]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 489, Line 232
+msgid "\\>       ◇グリル･ファイアダンス　AC:火"
+msgstr ""
+
+#. ID 490, Line 518
+msgid ""
+"\\>       ◇猛瘴気\n"
+"\\>       　発動周期:[?x+2]ターン"
+msgstr ""
+
+#. ID 490, Line 520
+msgid ""
+"\\>       ◇メタモルフォーゼ　AC:闇\n"
+"\\>       ◇ウィルスエアロ　AC:風\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 490, Line 523
+msgid ""
+"\\>       ◇ケイオスウェイヴ\n"
+"\\>       　発動周期:[?x+8 or ?x+13]ターン"
+msgstr ""
+
+#. ID 490, Line 527
+msgid ""
+"\\>       ◇猛瘴気\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇ウィルスエアロ　AC:風"
+msgstr ""
+
+#. ID 491, Line 214
+msgid ""
+"\\>       ◇タービュランス\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 493, Line 252
+msgid ""
+"\\>       ◇スパークミスト　AC:水or天\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇ポイズンミスト　AC:水\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 493, Line 258
+msgid ""
+"\\>       ◇スパークミスト　AC:水or天\n"
+"\\>　　　　（一定確率で発動）\n"
+"\\>       ◇ポイズンミスト　AC:水\n"
+"\\>　　　　（一定確率で発動）"
+msgstr ""
+
+#. ID 495, Line 477
+msgid ""
+"\\>       ◇ドラゴニック･ファイアブレス　AC:火\n"
+"\\>       ◇竜哮絶衝　AC:風破\n"
+"\\>       ◇ラーヴァウェイヴ　AC:火or土"
+msgstr ""
+
+#. ID 495, Line 480
+#. ID 513, Line 479
+msgid ""
+"\\>       ◇竜哮\n"
+"\\>       　発動周期:[?x+2]ターン"
+msgstr ""
+
+#. ID 495, Line 482
+msgid ""
+"\\>       ◇ブラストバイト\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 495, Line 487
+msgid "\\>       ◇ラーヴァウェイヴ　AC:火or土"
+msgstr ""
+
+#. ID 497, Line 370
+msgid ""
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       ◇ランダムインヴェスト\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 497, Line 375
+msgid ""
+"\\>       ◇ランダムインヴェスト\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 498, Line 523
+msgid ""
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       ◇グラウンドサンダー　AC:土or天"
+msgstr ""
+
+#. ID 498, Line 526
+msgid ""
+"\\>       ◇ヒールブライト　AC:光\n"
+"\\>       　発動周期:[?x+2]ターン"
+msgstr ""
+
+#. ID 498, Line 528
+msgid ""
+"\\>       ◇トリプルアタック\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       ◇クレイジービート\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 498, Line 532
+msgid ""
+"\\>       ◇オーバーブライト　AC:光\n"
+"\\>       　（一定確率で発動）\n"
+"\\>       ◇狂乱のロザリオ\n"
+"\\>       ◇フォーセイクン"
+msgstr ""
+
+#. ID 498, Line 538
+msgid "\\>       ◇グラウンドサンダー　AC:土or天"
+msgstr ""
+
+#. ID 503, Line 656
+msgid ""
+"\\>       ◇連殺凍牙　AC:水\n"
+"\\>       　発動周期:[?x+1 or ?x+2]ターン\n"
+"\\>       　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 503, Line 659
+msgid ""
+"\\>       ◇八岐八殺\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       　（その他の条件でも発動）\n"
+"\\>       ◇飲酒奮起"
+msgstr ""
+
+#. ID 503, Line 665
+msgid ""
+"\\>       ◇八岐八殺\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 504, Line 469
+#. ID 548, Line 366
+#. ID 565, Line 411
+msgid "\\>       ◇モノリスクラッシュ　AC:土"
+msgstr ""
+
+#. ID 504, Line 470
+msgid ""
+"\\>       ◇ブロークンハーツ　AC:破\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇クラッシュブロウ　AC:破\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 505, Line 411
+#. ID 512, Line 393
+#. ID 533, Line 363
+#. ID 544, Line 286
+msgid ""
+"\\>       ◇フラッシュレイン　AC:水or光\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇スノウフォール　AC:水or天\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 505, Line 415
+#. ID 512, Line 397
+#. ID 533, Line 367
+#. ID 593, Line 401
+msgid ""
+"\\>       ◇ラーヴァウェイヴ　AC:火or土\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 507, Line 254
+msgid ""
+"\\>       ◇スノウフォール　AC:水or天\n"
+"\\>　　　　（一定確率で発動）"
+msgstr ""
+
+#. ID 507, Line 258
+msgid ""
+"\\>       ◇スパークミスト　AC:水or天\n"
+"\\>　　　　（一定確率で発動）"
+msgstr ""
+
+#. ID 509, Line 377
+msgid ""
+"\\>       ◇黒獅子滅殺舞\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 509, Line 380
+msgid ""
+"\\>       ◇黒双牙　AC:闇\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 510, Line 725
+msgid ""
+"ヴィルジニー：\n"
+"くっ…！\\|\\^"
+msgstr ""
+
+#. ID 510, Line 773
+msgid ""
+"\\>       ◇ショックウェーブ･Ｄアサルト\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>       ◇ブレイクアクティブ　AC:破\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 510, Line 777
+msgid ""
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       　（一定確率で発動）\n"
+"\\>       ◇ヒートアップ　AC:火\n"
+"\\>       ◇ラーヴァウェイヴ　AC:火or土"
+msgstr ""
+
+#. ID 510, Line 781
+msgid "\\>       ◇フィールドエレメント･シグマ　AC:?"
+msgstr ""
+
+#. ID 510, Line 785
+msgid ""
+"\\>       ◇ショックウェーブ･Ｄアサルト\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇ブレイクアクティブ　AC:破\n"
+"\\>       ◇ラーヴァウェイヴ　AC:火or土"
+msgstr ""
+
+#. ID 510, Line 789
+msgid ""
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       ◇フィールドエレメント･シグマ　AC:?"
+msgstr ""
+
+#. ID 510, Line 793
+msgid ""
+"\\>       ◇ショックウェーブ･Ｄアサルト\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇ラーヴァウェイヴ　AC:火or土\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 510, Line 797
+msgid ""
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       　（一定確率で発動）\n"
+"\\>       ◇フィールドエレメント･シグマ　AC:?"
+msgstr ""
+
+#. ID 512, Line 391
+#. ID 535, Line 254
+msgid ""
+"\\>       ◇ミーティアストライク　AC:天\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 512, Line 403
+#. ID 533, Line 378
+#. ID 535, Line 259
+#. ID 556, Line 547
+msgid ""
+"\\>       ◇フラッシュレイン　AC:水or光\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇ラーヴァウェイヴ　AC:火or土\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 512, Line 407
+#. ID 533, Line 382
+#. ID 535, Line 263
+#. ID 556, Line 551
+msgid ""
+"\\>       ◇スノウフォール　AC:水or天\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 513, Line 461
+msgid ""
+"\\>       ◇竜哮絶衝　AC:風破\n"
+"\\>       ◇竜哮\n"
+"\\>       　発動周期:[?x+2]ターン"
+msgstr ""
+
+#. ID 513, Line 465
+msgid ""
+"\\>       ◇突撃\n"
+"\\>       　発動周期:[?x+4]ターン（更に発動条件有り）\n"
+"\\>　　　　 （その他の条件でも発動）"
+msgstr ""
+
+#. ID 513, Line 468
+msgid ""
+"\\>       ◇三連斬\n"
+"\\>       　発動周期:[?x+4]ターン（更に発動条件有り）\n"
+"\\>　　　　 （その他の条件でも発動）"
+msgstr ""
+
+#. ID 513, Line 471
+msgid ""
+"\\>       ◇竜哮絶衝　AC:風破\n"
+"\\>       ◇竜哮\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>       ◇マッスル･ハイテンション"
+msgstr ""
+
+#. ID 516, Line 266
+#. ID 566, Line 335
+#. ID 567, Line 377
+msgid "\\>       ◇ユニットフルバースト"
+msgstr ""
+
+#. ID 519, Line 594
+msgid ""
+"フョードル：\n"
+"ちくしょーッ！\\|\\^"
+msgstr ""
+
+#. ID 519, Line 625
+msgid ""
+"\\>       ◇γラディエーション\n"
+"\\>       ◇ユニットフルバースト"
+msgstr ""
+
+#. ID 520, Line 1051
+msgid ""
+"ハイディ：\n"
+"流石、言うだけ在るわね…。"
+msgstr ""
+
+#. ID 520, Line 1068
+msgid ""
+"フョードル：\n"
+"おい！ \\|俺一人かよッ！\\|\\^"
+msgstr ""
+
+#. ID 520, Line 1070
+msgid ""
+"フョードル：\n"
+"畜生ッ！ \\|こうなりゃ自棄だッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 520, Line 1072
+msgid ""
+"フョードル：\n"
+"行くぜ最凶兵器ィ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 520, Line 1113
+msgid ""
+"\\>       ◇メルクリウスフリーズ　AC:水\n"
+"\\>       ◇ミーティアストライク　AC:天\n"
+"\\>       ◇ギガブレイク　AC:破\n"
+"\\>       ◇ヘイムダルセイント　AC:光"
+msgstr ""
+
+#. ID 520, Line 1117
+msgid ""
+"\\>       ◇ラーヴァウェイヴ　AC:火or土\n"
+"\\>       ◇ファイアブレス　AC:火or風\n"
+"\\>       ◇ソニックブーム　AC:風or破\n"
+"\\>       ◇アースインタラプト　AC:土"
+msgstr ""
+
+#. ID 520, Line 1121
+msgid ""
+"\\>       ◇フラッシュレイン　AC:水or光\n"
+"\\>       ◇オーバーブライト　AC:光\n"
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       ◇マインドシャドウ　AC:闇"
+msgstr ""
+
+#. ID 520, Line 1125
+msgid ""
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       ◇スノウフォール　AC:水or天\n"
+"\\>       ◇ブロークンハーツ　AC:破"
+msgstr ""
+
+#. ID 520, Line 1130
+msgid ""
+"\\>       ◇メルクリウスフリーズ　AC:水\n"
+"\\>       ◇フラッシュレイン　AC:水or光\n"
+"\\>       ◇スノウフォール　AC:水or天"
+msgstr ""
+
+#. ID 521, Line 475
+msgid ""
+"\\>       ◇デッドエンドハンガー\n"
+"\\>       　発動周期:[?x+3 or ?x+8]ターン\n"
+"\\>       ◇自己修復\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 521, Line 479
+msgid "\\>       ◇デッドエンド･エクスプロード"
+msgstr ""
+
+#. ID 521, Line 482
+msgid ""
+"\\>       ◇デッドエンドハンガー\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 522, Line 528
+msgid ""
+"\\>       ◇メルトダウン　AC:火\n"
+"\\>       ◇自己修復\n"
+"\\>       　発動周期:[?x+3 or ?x+7]ターン"
+msgstr ""
+
+#. ID 522, Line 531
+msgid ""
+"\\>       ◇ギガンティックレイブレイカー　AC:光\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇ユニットフルバースト"
+msgstr ""
+
+#. ID 522, Line 536
+#. ID 540, Line 725
+#. ID 540, Line 729
+msgid ""
+"\\>       ◇メルトダウン　AC:火\n"
+"\\>       ◇ユニットフルバースト"
+msgstr ""
+
+#. ID 523, Line 286
+#. ID 529, Line 478
+#. ID 571, Line 236
+msgid ""
+"\\>       ◇ストリボーグウィンド　AC:風\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 525, Line 254
+msgid ""
+"\\>       ◇ブロークンハーツ　AC:破\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇オーバーブライト　AC:光\n"
+"\\>　　　　（一定確率で発動）"
+msgstr ""
+
+#. ID 525, Line 260
+msgid ""
+"\\>       ◇オーバーブライト　AC:光\n"
+"\\>　　　　（一定確率で発動）"
+msgstr ""
+
+#. ID 526, Line 248
+msgid ""
+"\\>       ◇ウィルスエアロ　AC:風\n"
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 526, Line 253
+msgid "\\>       ◇ウィルスエアロ　AC:風"
+msgstr ""
+
+#. ID 527, Line 414
+#. ID 533, Line 361
+#. ID 533, Line 374
+msgid ""
+"\\>       ◇シャドウフレア　AC:火or闇\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 527, Line 418
+msgid "\\>       ◇シャドウフレア　AC:火or闇"
+msgstr ""
+
+#. ID 528, Line 540
+msgid ""
+"\\>       ◇メタモルフォーゼ　AC:闇\n"
+"\\>       ◇猛瘴気\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 528, Line 544
+msgid "\\>       ◇一斉捕食"
+msgstr ""
+
+#. ID 528, Line 547
+msgid ""
+"\\>       ◇猛瘴気\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 531, Line 572
+msgid ""
+"\\>       ◇ドラゴニック･ファイアブレス　AC:火\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇竜哮絶衝　AC:風破\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 531, Line 576
+msgid ""
+"\\>       ◇グラビティダウン　AC:土\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 531, Line 580
+msgid ""
+"\\>       ◇ブレイクアクティブ　AC:破\n"
+"\\>       　発動周期:[?x+3 or ?x+4]ターン\n"
+"\\>       ◇ブロークンハーツ　AC:破\n"
+"\\>       　発動周期:[?x+3 or ?x+4]ターン"
+msgstr ""
+
+#. ID 531, Line 584
+msgid ""
+"\\>       ◇クラッシュブロウ　AC:破\n"
+"\\>       　発動周期:[?x+3 or ?x+4]ターン\n"
+"\\>       ◇ブラストバイト"
+msgstr ""
+
+#. ID 531, Line 589
+#. ID 578, Line 403
+msgid "\\>       ◇グラビティダウン　AC:土"
+msgstr ""
+
+#. ID 537, Line 289
+msgid ""
+"\\>       ◇モノリスクラッシュ　AC:土\n"
+"\\>　　　　（一定確率で発動）"
+msgstr ""
+
+#. ID 538, Line 298
+msgid ""
+"\\>       ◇フラッシュレイン　AC:水or光\n"
+"\\>　　　　（一定確率で発動）"
+msgstr ""
+
+#. ID 540, Line 719
+msgid ""
+"\\>       ◇自己修復\n"
+"\\>       　発動周期:[?x+4 or ?x+8]ターン"
+msgstr ""
+
+#. ID 540, Line 721
+msgid ""
+"\\>       ◇ギガンティックレイブレイカー　AC:光\n"
+"\\>       　発動周期:[?x+5 or ?x+9]ターン\n"
+"\\>       ◇ウォーターキャノン　AC:水\n"
+"\\>       　発動周期:[?x+5 or ?x+9]ターン"
+msgstr ""
+
+#. ID 541, Line 671
+msgid ""
+"\\>       ◇弱者を屠る牙\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 541, Line 675
+msgid ""
+"\\>       ◇ギガブレイク　AC:破\n"
+"\\>       　発動周期:[?x+4]ターン\n"
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 541, Line 679
+msgid "\\>       ◇リベリオン･ジャッジメント"
+msgstr ""
+
+#. ID 541, Line 682
+msgid ""
+"\\>       ◇弱者を屠る牙\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 544, Line 278
+msgid ""
+"\\>       ◇メルクリウスフリーズ　AC:水\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇フラッシュレイン　AC:水or光\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 544, Line 282
+msgid ""
+"\\>       ◇スノウフォール　AC:水or天\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 544, Line 292
+msgid "\\>       ◇ラストスプラッター"
+msgstr ""
+
+#. ID 545, Line 306
+msgid ""
+"\\>       ◇レイサクリファイス･ルナ　AC:天\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇オーバーブライト　AC:光\n"
+"\\>　　　　（一定確率で発動）"
+msgstr ""
+
+#. ID 545, Line 312
+msgid ""
+"\\>       ◇スノウフォール　AC:天\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇オーバーブライト　AC:光\n"
+"\\>　　　　（一定確率で発動）"
+msgstr ""
+
+#. ID 548, Line 361
+msgid ""
+"\\>       ◇モノリスクラッシュ　AC:土\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇コマンドプリズナー"
+msgstr ""
+
+#. ID 549, Line 380
+#. ID 560, Line 298
+#. ID 584, Line 260
+msgid ""
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 550, Line 477
+msgid ""
+"\\>       ◇シャドウフレア　AC:火or闇\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇タービュランス\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 551, Line 645
+msgid ""
+"\\>       ◇モニタースパーク　AC:水\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇無影灯照射\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 551, Line 649
+msgid ""
+"\\>       ◇麻酔ガス\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 551, Line 653
+msgid ""
+"\\>       ◇モニタースパーク　AC:水\n"
+"\\>       ◇無影灯照射\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 551, Line 656
+msgid ""
+"\\>       ◇麻酔ガス\n"
+"\\>       　発動周期:[?x+4]ターン\n"
+"\\>       ◇オペラツィオーン\n"
+"\\>       　発動周期:[?x+5]ターン"
+msgstr ""
+
+#. ID 552, Line 537
+#. ID 552, Line 1047
+msgid ""
+"ヴィルジニー：\n"
+"相変わらずの強さね。"
+msgstr ""
+
+#. ID 552, Line 539
+#. ID 552, Line 1049
+msgid ""
+"ヴィルジニー：\n"
+"だが今回こそは絶対に負けないわ。"
+msgstr ""
+
+#. ID 552, Line 541
+#. ID 552, Line 1051
+msgid ""
+"ヴィルジニー：\n"
+"覚悟しなさい！\\|\\^"
+msgstr ""
+
+#. ID 552, Line 1216
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]おのれッ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 552, Line 1247
+msgid ""
+"\\>       ◇ショックウェーブ･Ｄアサルト\n"
+"\\>       　発動周期:[?x+1 or ?x+5]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 552, Line 1250
+#. ID 552, Line 1258
+msgid ""
+"\\>       ◇ＳＨヴァルキリーアクセル\n"
+"\\>       　発動周期:[?x+4]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 552, Line 1255
+#. ID 552, Line 1283
+msgid ""
+"\\>       ◇ショックウェーブ･Ｄアサルト\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 552, Line 1261
+msgid ""
+"\\>       ◇ディヴァイン･ディヴァイド\n"
+"\\>       　発動周期:[?x+5]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 552, Line 1266
+msgid ""
+"\\>       ◇ラーヴァウェイヴ　AC:火or土\n"
+"\\>       　（一定確率で発動）\n"
+"\\>       ◇ヒートアップ　AC:火\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 552, Line 1270
+msgid ""
+"\\>       ◇スノウフォール　AC:水or天\n"
+"\\>       　（一定確率で発動）\n"
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 552, Line 1274
+msgid ""
+"\\>       ◇アースインタラプト　AC:土\n"
+"\\>       　（一定確率で発動）\n"
+"\\>       ◇ブレイクアクティブ　AC:破\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 552, Line 1278
+msgid ""
+"\\>       ◇フィールドエレメント･シグマ　AC:?\n"
+"\\>       ◇オフェンサートランス\n"
+"\\>       ◇アーム･カラミティ"
+msgstr ""
+
+#. ID 552, Line 1286
+msgid ""
+"\\>       ◇ＳＨヴァルキリーアクセル\n"
+"\\>       　発動周期:[?x+4]ターン\n"
+"\\>　　　　（その他の条件でも発動）\n"
+"\\>       ◇ディヴァイン･ディヴァイド"
+msgstr ""
+
+#. ID 552, Line 1290
+msgid ""
+"\\>       ◇フィールドエレメント･シグマ　AC:?\n"
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       　（一定確率で発動）\n"
+"\\>       ◇アーム･カラミティ"
+msgstr ""
+
+#. ID 553, Line 513
+msgid ""
+"\\>       ◇エネルギーチャージ\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       ◇波動砲\n"
+"\\>       ◇メガ波動砲"
+msgstr ""
+
+#. ID 553, Line 519
+msgid ""
+"\\>       ◇波動砲\n"
+"\\>       　発動周期:[?x+4]ターン\n"
+"\\>       ◇メガ波動砲\n"
+"\\>       　発動周期:[?x+5]ターン（更に発動条件有り）"
+msgstr ""
+
+#. ID 553, Line 525
+msgid "\\>       ◇パワーストリーム　AC:水"
+msgstr ""
+
+#. ID 553, Line 529
+msgid ""
+"\\>       ◇エネルギーチャージ\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       ◇波動砲"
+msgstr ""
+
+#. ID 553, Line 534
+msgid ""
+"\\>       ◇波動砲\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 554, Line 447
+msgid ""
+"\\>       ◇ヴォイドファイナリティ\n"
+"\\>　　　　 AC:オールニュートラル\n"
+"\\>       ◇心壊　AC:破"
+msgstr ""
+
+#. ID 554, Line 450
+msgid ""
+"\\>       ◇イレースマイン\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 554, Line 452
+msgid ""
+"\\>       ◇ヒートアップ　AC:火\n"
+"\\>       　（一定確率で発動）\n"
+"\\>       ◇ポイズンミスト　AC:水\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 554, Line 456
+msgid ""
+"\\>       ◇ウィルスエアロ　AC:風\n"
+"\\>       　（一定確率で発動）\n"
+"\\>       ◇アースインタラプト　AC:土\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 554, Line 460
+msgid ""
+"\\>       ◇オーバーブライト　AC:光\n"
+"\\>       　（一定確率で発動）\n"
+"\\>       ◇マインドシャドウ　AC:闇\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 554, Line 464
+msgid ""
+"\\>       ◇ミーティアストライク　AC:天\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 556, Line 537
+msgid ""
+"\\>       ◇ヘイムダルセイント　AC:光\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 556, Line 541
+msgid ""
+"\\>       ◇プロメテウスフレイム　AC:火\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇メルクリウスフリーズ　AC:水\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 562, Line 369
+msgid ""
+"\\>       ◇ブラック･ブラッド･ブレイズ　AC:闇\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 564, Line 426
+msgid ""
+"\\>       ◇ドラゴンライダースマッシュ　AC:風\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 565, Line 405
+msgid ""
+"\\>       ◇モノリスクラッシュ　AC:土\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇クラッシュブロウ　AC:破\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 566, Line 326
+msgid ""
+"\\>       ◇ツインアーム\n"
+"\\>       　発動周期:[?x+4]ターン（一定確率で発動）\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 566, Line 329
+msgid ""
+"\\>       ◇グラウンドコレダー\n"
+"\\>       　発動周期:[?x+4]ターン（一定確率で発動）\n"
+"\\>　　　　（その他の条件でも発動）\n"
+"\\>       ◇ユニットフルバースト"
+msgstr ""
+
+#. ID 567, Line 344
+msgid ""
+"\\>       ◇ウォーターキャノン　AC:水\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       　（一定条件で発動）"
+msgstr ""
+
+#. ID 567, Line 348
+msgid ""
+"\\>       ◇ブラッドフリーズ２７３　AC:水\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       　（一定条件で発動）"
+msgstr ""
+
+#. ID 567, Line 353
+msgid ""
+"\\>       ◇ブラッドフリーズ２７３\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       　（一定条件で発動）"
+msgstr ""
+
+#. ID 567, Line 358
+msgid ""
+"\\>       ◇ツインアーム\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>　　　　（その他の条件でも発動）\n"
+"\\>       ◇ユニットフルバースト"
+msgstr ""
+
+#. ID 567, Line 365
+msgid ""
+"\\>       ◇ウォーターキャノン　AC:水\n"
+"\\>       　（一定条件で発動）\n"
+"\\>       ◇ブラッドフリーズ２７３　AC:水\n"
+"\\>       　（一定条件で発動）"
+msgstr ""
+
+#. ID 567, Line 371
+msgid ""
+"\\>       ◇ウォーターキャノン　AC:水\n"
+"\\>       　（一定条件で発動）\n"
+"\\>       ◇ブラッドフリーズ２７３\n"
+"\\>       　（一定条件で発動）"
+msgstr ""
+
+#. ID 568, Line 339
+msgid ""
+"\\>       ◇フォビドゥン･γラディエーション　AC:破\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇γラディエーション\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 568, Line 343
+msgid ""
+"\\>       ◇ギガンティックレイブレイカー　AC:光\n"
+"\\>       　発動周期:[?x+5]ターン\n"
+"\\>       ◇ウォーターキャノン　AC:水\n"
+"\\>       　発動周期:[?x+5]ターン"
+msgstr ""
+
+#. ID 568, Line 347
+msgid ""
+"\\>       ◇自己修復\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇ユニットフルバースト"
+msgstr ""
+
+#. ID 568, Line 352
+msgid ""
+"\\>       ◇γラディエーション\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇ユニットフルバースト"
+msgstr ""
+
+#. ID 569, Line 593
+#. ID 569, Line 635
+msgid ""
+"\\>       ◇リミッター解除\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       ◇ブラスター･ベルダンディ"
+msgstr ""
+
+#. ID 569, Line 597
+msgid ""
+"\\>       ◇フォトンブラッド　AC:光\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 569, Line 599
+#. ID 569, Line 617
+msgid ""
+"\\>       ◇レイストーム･デュアルアサルト\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       　（一定条件で[?x+1]に変化）"
+msgstr ""
+
+#. ID 569, Line 604
+msgid ""
+"\\>       ◇フォトンブラッド　AC:光\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇レイストーム･デュアルアサルト\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 569, Line 612
+msgid ""
+"\\>       ◇ブラスター･ベルダンディ\n"
+"\\>       　発動周期:[?x+4]ターン\n"
+"\\>       ◇フォトンブラッド　AC:光\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 569, Line 622
+msgid ""
+"\\>       ◇レイストーム･デュアルアサルト\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 569, Line 628
+msgid ""
+"\\>       ◇オーバークロックアップ\n"
+"\\>       ◇ＳＨヴァルキリーアクセル\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>　　　　（更に発動条件有り）"
+msgstr ""
+
+#. ID 569, Line 640
+msgid ""
+"\\>       ◇ブラスター･ベルダンディ\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 570, Line 794
+msgid ""
+"\\>       ◇ダーケスト･ヴァニティ\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>       ◇強者を屠る牙\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 570, Line 799
+msgid "\\>       ◇プライド･オブ･ザ･タイラント"
+msgstr ""
+
+#. ID 570, Line 801
+msgid ""
+"\\>       ◇プライド･オブ･ザ･タイラント\n"
+"\\>       　発動条件:HP規定値以下で即時発動"
+msgstr ""
+
+#. ID 571, Line 233
+msgid "\\>       ◇エアーズガントレット　AC:風"
+msgstr ""
+
+#. ID 572, Line 262
+msgid ""
+"\\>       ◇ヒートアップ　AC:火\n"
+"\\>　　　　（一定確率で発動）"
+msgstr ""
+
+#. ID 573, Line 291
+#. ID 578, Line 406
+msgid "\\>       ◇アトラスバースト　AC:土"
+msgstr ""
+
+#. ID 577, Line 310
+msgid ""
+"\\>       ◇プランターサクリファイス\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 577, Line 314
+msgid ""
+"\\>       ◇プランターサクリファイス\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 579, Line 926
+#. ID 579, Line 956
+msgid ""
+"\\>       ◇蒼悲天翼\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 579, Line 929
+msgid ""
+"\\>       ◇エヴァンゲル　AC:光天\n"
+"\\>       ◇ゾディアックレイ･インプロード　AC:光\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>　　　　（更に発動条件有り）"
+msgstr ""
+
+#. ID 579, Line 933
+msgid ""
+"\\>       ◇レイサクリファイス･ルナ　AC:天\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇フレアイグニッション　AC:破\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 579, Line 937
+msgid ""
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇ブレイクアクティブ　AC:破\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 579, Line 941
+#. ID 1252, Line 1061
+msgid ""
+"\\>       ◇プロメテウスフレイム　AC:火\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇メルクリウスフリーズ　AC:水\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 579, Line 945
+#. ID 1252, Line 1065
+msgid ""
+"\\>       ◇ストリボーグウィンド　AC:風\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇アトラスバースト　AC:土\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 579, Line 949
+msgid ""
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>　　　　（更に発動条件有り）"
+msgstr ""
+
+#. ID 579, Line 952
+msgid ""
+"\\>       ◇リヴァースヘヴン\n"
+"\\>       ◇リヴァースガイア"
+msgstr ""
+
+#. ID 579, Line 959
+#. ID 587, Line 1095
+#. ID 601, Line 394
+#. ID 611, Line 318
+msgid ""
+"\\>       ◇プロメテウスフレイム　AC:火\n"
+"\\>       ◇メルクリウスフリーズ　AC:水\n"
+"\\>       ◇ストリボーグウィンド　AC:風\n"
+"\\>       ◇アトラスバースト　AC:土"
+msgstr ""
+
+#. ID 579, Line 963
+#. ID 611, Line 323
+msgid ""
+"\\>       ◇ヘイムダルセイント　AC:光\n"
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       ◇レイサクリファイス･ルナ　AC:天\n"
+"\\>       ◇フレアイグニッション　AC:破"
+msgstr ""
+
+#. ID 580, Line 414
+#. ID 580, Line 422
+msgid ""
+"\\>       ◇プランターサクリファイス\n"
+"\\>       　発動周期:[?x+6]ターン\n"
+"\\>       　（その他の特定ターンでも発動）"
+msgstr ""
+
+#. ID 580, Line 417
+msgid ""
+"\\>       ◇樹命搾取\n"
+"\\>       　発動周期:[?x or ?x+4]ターン\n"
+"\\>       　（更に発動条件有り）"
+msgstr ""
+
+#. ID 581, Line 469
+msgid ""
+"\\>       ◇エインシャントグレイ　AC:土\n"
+"\\>       ◇微粒子石灰ガス\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇樹命搾取"
+msgstr ""
+
+#. ID 581, Line 473
+msgid "\\>       ◇メルティングフィールド"
+msgstr ""
+
+#. ID 581, Line 476
+msgid ""
+"\\>       ◇エインシャントグレイ　AC:土\n"
+"\\>       ◇微粒子石灰ガス\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇メルティングフィールド"
+msgstr ""
+
+#. ID 582, Line 638
+#. ID 582, Line 649
+msgid ""
+"\\>       ◇ソウルストリームバースト\n"
+"\\>　　　　 発動まで残り[\\v[4832]]ターン\n"
+"\\>       ◇ブラックホール　AC:闇"
+msgstr ""
+
+#. ID 582, Line 641
+msgid ""
+"\\>       ◇プロメテウスフレイム　AC:火\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇ヒートアップ　AC:火\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 582, Line 645
+msgid ""
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 584, Line 256
+msgid ""
+"\\>       ◇ブラックホール　AC:闇\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 587, Line 1056
+msgid ""
+"\\>       ◇サカノコトワリ\n"
+"\\>       ◇ワイルドカウンター\n"
+"\\>       ◇キラーパス"
+msgstr ""
+
+#. ID 587, Line 1059
+msgid ""
+"\\>       ◇ミミックトリック\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 587, Line 1062
+msgid ""
+"\\>       ◇エレメントフィクサー\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       　（その他の特定ターンでも発動）\n"
+"\\>       　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 587, Line 1066
+msgid ""
+"\\>       ◇プロメテウスフレイム　AC:火\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>       ◇メルクリウスフリーズ　AC:水\n"
+"\\>       　発動周期:[?x+2]ターン"
+msgstr ""
+
+#. ID 587, Line 1070
+msgid ""
+"\\>       ◇ストリボーグウィンド　AC:風\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>       ◇アトラスバースト　AC:土\n"
+"\\>       　発動周期:[?x+2]ターン"
+msgstr ""
+
+#. ID 587, Line 1074
+msgid ""
+"\\>       ◇ヘイムダルセイント　AC:光\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       　発動周期:[?x+2]ターン"
+msgstr ""
+
+#. ID 587, Line 1078
+msgid ""
+"\\>       ◇レイサクリファイス･ルナ　AC:天\n"
+"\\>       　発動周期:[?x+2 or ?x+4]ターン\n"
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       　発動周期:[?x+2 or ?x+4]ターン"
+msgstr ""
+
+#. ID 587, Line 1082
+msgid ""
+"\\>       ◇カルネージアームズ\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>       　（更に発動条件有り）"
+msgstr ""
+
+#. ID 587, Line 1085
+msgid ""
+"\\>       ◇ナンバートリック\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       　（その他の条件でも発動）\n"
+"\\>       ◇ハイド･アンド･ストーク"
+msgstr ""
+
+#. ID 587, Line 1091
+msgid ""
+"\\>       ◇サカノコトワリ\n"
+"\\>       ◇エレメントフィクサー\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       　（その他の特定ターンでも発動）"
+msgstr ""
+
+#. ID 587, Line 1099
+msgid ""
+"\\>       ◇ヘイムダルセイント　AC:光\n"
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       ◇レイサクリファイス･ルナ　AC:天\n"
+"\\>       ◇ターミネイション　AC:破"
+msgstr ""
+
+#. ID 587, Line 1103
+msgid "\\>       ◇カルネージアームズ"
+msgstr ""
+
+#. ID 588, Line 408
+msgid ""
+"\\>       ◇グラビティキャノン\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 589, Line 1899
+msgid ""
+"\\>       ◇暗澹たる破滅の息吹\n"
+"\\>       ◇凶滅終焉波動"
+msgstr ""
+
+#. ID 589, Line 1903
+msgid ""
+"\\>       ◇凶滅終焉波動\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       　（その他の特定ターンでも発動）"
+msgstr ""
+
+#. ID 589, Line 1910
+msgid ""
+"\\>       ◇大海衝\n"
+"\\>       ◇水を集める　AC:水\n"
+"\\>       　（特定ターンで発動）"
+msgstr ""
+
+#. ID 589, Line 1913
+msgid ""
+"\\>       ◇メタモルフォーゼ　AC:闇\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇ウィルスエアロ　AC:風\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1917
+msgid ""
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1921
+#. ID 589, Line 1927
+msgid ""
+"\\>       ◇グラウンドサンダー　AC:土or天\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1929
+msgid ""
+"\\>       ◇ギガブレイク　AC:破\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1933
+msgid ""
+"\\>       ◇エヴァンゲル　AC:光天\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇ゾディアックレイ･インプロード　AC:光\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1937
+msgid ""
+"\\>       ◇レイサクリファイス･ルナ　AC:天\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇フレアイグニッション　AC:破\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1941
+msgid ""
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇ブレイクアクティブ　AC:破\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1945
+#. ID 589, Line 1975
+msgid ""
+"\\>       ◇プロメテウスフレイム　AC:火\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇メルクリウスフリーズ　AC:水\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1949
+#. ID 589, Line 1979
+msgid ""
+"\\>       ◇ストリボーグウィンド　AC:風\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇アトラスバースト　AC:土\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1953
+msgid ""
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1955
+msgid ""
+"\\>       ◇リヴァースヘヴン\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇リヴァースガイア\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1963
+msgid ""
+"\\>       ◇エインシャントグレイ　AC:土\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1965
+msgid ""
+"\\>       ◇ブラックホール　AC:闇\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇プロメテウスフレイム　AC:火\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1969
+msgid ""
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1983
+msgid ""
+"\\>       ◇ヘイムダルセイント　AC:光\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1987
+msgid ""
+"\\>       ◇レイサクリファイス･ルナ　AC:天\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）\n"
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       　（特定ターンで発動）（更に発動条件有り）"
+msgstr ""
+
+#. ID 589, Line 1993
+msgid "\\>       ◇死滅を齎す病魔の眷威"
+msgstr ""
+
+#. ID 589, Line 1997
+msgid ""
+"\\>       ◇暗澹たる破滅の息吹\n"
+"\\>       ◇凶滅終焉波動\n"
+"\\>       ◇死滅を齎す病魔の眷威"
+msgstr ""
+
+#. ID 589, Line 2002
+msgid ""
+"\\>       ◇凶滅終焉波動\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       　（その他の特定ターンでも発動）\n"
+"\\>       ◇死滅を齎す病魔の眷威"
+msgstr ""
+
+#. ID 589, Line 2011
+msgid ""
+"\\>       ◇凶滅終焉波動\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>       ◇死滅を齎す病魔の眷威\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 589, Line 2020
+msgid ""
+"\\>       ◇暗澹たる破滅の息吹\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇凶滅終焉波動"
+msgstr ""
+
+#. ID 589, Line 2025
+msgid ""
+"\\>       ◇凶滅終焉波動\n"
+"\\>       　発動周期:[?x+2]ターン"
+msgstr ""
+
+#. ID 590, Line 510
+msgid ""
+"\\>       ◇サンダリングスカイ\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>　　　　 （その他の条件でも発動）"
+msgstr ""
+
+#. ID 590, Line 513
+msgid ""
+"\\>       ◇エアバースト･アウェイ\n"
+"\\>       　発動周期:[?x or ?x+2]ターン\n"
+"\\>       ◇エアリアルキャノン\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 590, Line 517
+msgid ""
+"\\>       ◇ミッシングディレクション\n"
+"\\>       　発動周期:[?x+9]ターン\n"
+"\\>　　　　 （その他の条件でも発動）"
+msgstr ""
+
+#. ID 590, Line 520
+msgid ""
+"\\>       ◇エアーズガントレット　AC:風\n"
+"\\>　　　　 （一定確率で発動）\n"
+"\\>　　　　 （その他の条件でも発動）\n"
+"\\>       ◇ウェン･ザ･ウィンドブロウズ"
+msgstr ""
+
+#. ID 590, Line 526
+msgid ""
+"\\>       ◇サンダリングスカイ\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇エアバースト･アウェイ\n"
+"\\>       　発動周期:[?x+2 or ?x]ターン"
+msgstr ""
+
+#. ID 590, Line 530
+msgid ""
+"\\>       ◇エアリアルキャノン\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       ◇ストリボーグウィンド　AC:風"
+msgstr ""
+
+#. ID 593, Line 400
+msgid "\\>       ◇メタモルフォーゼ　AC:闇"
+msgstr ""
+
+#. ID 599, Line 288
+msgid "\\>       ◇巨人剣技･地力爆砕撃　AC:土"
+msgstr ""
+
+#. ID 600, Line 316
+msgid ""
+"\\>       ◇ファイナルフリージア　AC:水\n"
+"\\>       ◇ノア･カオスストリーム\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 601, Line 398
+#. ID 611, Line 329
+msgid ""
+"\\>       ◇ヘイムダルセイント　AC:光\n"
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       ◇ミーティアストライク　AC:天\n"
+"\\>       ◇ギガブレイク　AC:破"
+msgstr ""
+
+#. ID 603, Line 332
+#. ID 603, Line 344
+msgid ""
+"\\>       ◇ヴォイドファイナリティ\n"
+"\\>　　　　 AC:オールニュートラル\n"
+"\\>       ◇プロメテウスフレイム　AC:火\n"
+"\\>       ◇メルクリウスフリーズ　AC:水"
+msgstr ""
+
+#. ID 603, Line 336
+#. ID 603, Line 348
+msgid ""
+"\\>       ◇ストリボーグウィンド　AC:風\n"
+"\\>       ◇アトラスバースト　AC:土\n"
+"\\>       ◇ヘイムダルセイント　AC:光\n"
+"\\>       ◇メディウムスロート　AC:闇"
+msgstr ""
+
+#. ID 603, Line 340
+#. ID 603, Line 352
+msgid ""
+"\\>       ◇ミーティアストライク　AC:天\n"
+"\\>       ◇ギガブレイク　AC:破"
+msgstr ""
+
+#. ID 604, Line 282
+msgid ""
+"\\>       ◇ヴォイドファイナリティ\n"
+"\\>　　　　 AC:オールニュートラル\n"
+"\\>       ◇エンハンスケルビム"
+msgstr ""
+
+#. ID 604, Line 285
+msgid ""
+"\\>       ◇ヒートアップ　AC:火\n"
+"\\>       ◇ポイズンミスト　AC:水\n"
+"\\>       ◇ウィルスエアロ　AC:風\n"
+"\\>       ◇アースインタラプト　AC:土"
+msgstr ""
+
+#. ID 604, Line 289
+msgid ""
+"\\>       ◇オーバーブライト　AC:光\n"
+"\\>       ◇マインドシャドウ　AC:闇\n"
+"\\>       ◇グラウンドサンダー　AC:天\n"
+"\\>       ◇ブロークンハーツ　AC:破"
+msgstr ""
+
+#. ID 605, Line 155
+msgid ""
+"\\>       ◇エレメントヴァニッシュ\n"
+"\\>       　発動周期:[?x+2]ターン（更に発動条件有り）\n"
+"\\>       ◇ゼロシフト\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 605, Line 159
+#. ID 605, Line 162
+msgid "\\>       ◇エレメントフィリング"
+msgstr ""
+
+#. ID 606, Line 288
+msgid ""
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 608, Line 208
+msgid "\\>       ◇大激怒"
+msgstr ""
+
+#. ID 610, Line 318
+msgid ""
+"\\>       ◇エアーズガントレット　AC:風\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 613, Line 367
+msgid ""
+"\\>       ◇凶滅深淵海溝\n"
+"\\>       　発動周期:[?x+3]ターン（更に発動条件あり）\n"
+"\\>       　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 613, Line 372
+msgid ""
+"\\>       ◇凶滅深淵海溝\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 614, Line 478
+#. ID 614, Line 491
+msgid ""
+"\\>       ◇ガラテアへの捧命\n"
+"\\>       ◇マーダリングシェイド\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇ファイナルフリージア　AC:水"
+msgstr ""
+
+#. ID 614, Line 482
+msgid ""
+"\\>       ◇フリューゲル･ゼクス\n"
+"\\>       　発動周期:[?x]ターン（一定確率で発動）\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 614, Line 485
+msgid ""
+"\\>       ◇ミッシングディレクション\n"
+"\\>       　発動周期:[?x]ターン（一定確率で発動）\n"
+"\\>       ◇エアロデリンジャー\n"
+"\\>       　発動周期:[?x]ターン（一定確率で発動）"
+msgstr ""
+
+#. ID 614, Line 497
+msgid ""
+"\\>       ◇ブロークンハーツ　AC:破\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 615, Line 466
+msgid "\\>       ◇ブラックホール　AC:闇"
+msgstr ""
+
+#. ID 615, Line 468
+msgid ""
+"\\>       ◇ターミネイション　AC:破\n"
+"\\>       　（一定確率で発動）\n"
+"\\>       ◇クラッシュブロウ　AC:破\n"
+"\\>       　（一定確率で発動）"
+msgstr ""
+
+#. ID 616, Line 355
+msgid ""
+"\\>       ◇死殻石封殺\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇シェルブレイク･ディスアーム\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 617, Line 611
+msgid ""
+"\\>       ◇フェアキュンディクテス･エンデ\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇ドンナー･ツェーン\n"
+"\\>       　発動周期:[?x+5]ターン"
+msgstr ""
+
+#. ID 617, Line 615
+msgid ""
+"\\>       ◇ツァウバーアビリティ\n"
+"\\>       　発動周期:[?x+3 or ?x+7]ターン"
+msgstr ""
+
+#. ID 617, Line 621
+msgid ""
+"\\>       ◇ドンナー･ツェーン\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇虚無と深遠のリフューズ\n"
+"\\>       ◇エンデンデ･ヴェルト"
+msgstr ""
+
+#. ID 617, Line 627
+msgid ""
+"\\>       ◇ドンナー･ツェーン\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇エンデンデ･ヴェルト\n"
+"\\>       　発動周期:[?x+2]ターン"
+msgstr ""
+
+#. ID 617, Line 634
+msgid ""
+"\\>       ◇ツァウバーアビリティ\n"
+"\\>       　発動周期:[?x+3 or ?x+5]ターン\n"
+"\\>       ◇リーベ･ニヒツ"
+msgstr ""
+
+#. ID 617, Line 639
+msgid ""
+"\\>       ◇ツァウバーアビリティ\n"
+"\\>       　発動周期:[?x+3 or ?x+5]ターン"
+msgstr ""
+
+#. ID 617, Line 647
+msgid ""
+"\\>       ◇ズィーレンハイル\n"
+"\\>       ◇ツェアシュテーラー"
+msgstr ""
+
+#. ID 617, Line 651
+#. ID 617, Line 656
+msgid "\\>       ◇ツェアシュテーラー"
+msgstr ""
+
+#. ID 660, Line 36
+msgid "\\>　チャージTP：\\v[4831]/\\v[4832]"
+msgstr ""
+
+#. ID 661, Line 102
+msgid "\\>※全員の[DEF,MDF]が低下！"
+msgstr ""
+
+#. ID 661, Line 105
+msgid "※全員の[DEF,MDF]が低下！\\|\\^"
+msgstr ""
+
+#. ID 663, Line 290
+msgid ""
+"\\v[4831]\n"
+"\\v[806]\n"
+"\\v[4093]\n"
+"\\v[4832]"
+msgstr ""
+
+#. ID 672, Line 31
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "       HP:"
+msgstr ""
+
+#. ID 672, Line 32
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "  TP:"
+msgstr ""
+
+#. ID 672, Line 33
+#. ChangeHeroName (Actor 5)
+#. ID 672, Line 431
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "  TURN:"
+msgstr ""
+
+#. ID 672, Line 38
+msgid ""
+"\\>       HP:\\V[903]/1000000 TP:\\V[905]/\\V[906] TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 44
+msgid ""
+"\\>       HP:1000000/1000000 TP:\\V[905]/\\V[906] TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 52
+#. ChangeHeroName (Actor 3)
+#. ID 672, Line 147
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "???????"
+msgstr ""
+
+#. ID 672, Line 53
+msgid ""
+"\\>       HP:\\n[3]/1000000 TP:\\V[905]/\\V[906] TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 75
+#. ChangeHeroName (Actor 6)
+#. ID 672, Line 130
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "　　【 OVER"
+msgstr ""
+
+#. ID 672, Line 76
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 131
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid " SOUL 】"
+msgstr ""
+
+#. ID 672, Line 79
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 85
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 89
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 93
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 97
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 101
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 105
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 109
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 113
+#. ChangeHeroName (Actor 7)
+#. ID 672, Line 117
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "LOAD 】"
+msgstr ""
+
+#. ID 672, Line 143
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "????????"
+msgstr ""
+
+#. ID 672, Line 151
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "??????"
+msgstr ""
+
+#. ID 672, Line 155
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "?????"
+msgstr ""
+
+#. ID 672, Line 159
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "????"
+msgstr ""
+
+#. ID 672, Line 163
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "???"
+msgstr ""
+
+#. ID 672, Line 167
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "??"
+msgstr ""
+
+#. ID 672, Line 170
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "?"
+msgstr ""
+
+#. ID 672, Line 188
+msgid ""
+"\\>       HP:\\n[3]/\\V[999]000000 TP:\\V[905]/\\V[906] TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 194
+#. ID 672, Line 209
+msgid ""
+"\\>       HP:\\n[3]/\\V[904]  TP:\\V[905]/\\V[906]  TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 203
+msgid ""
+"\\>\\n[2]\\n[3]/\\V[999]\\V[904] TP:\\V[905]/\\V[906] TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 223
+#. ChangeHeroName (Actor 8)
+#. ID 672, Line 289
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "000000 TP:"
+msgstr ""
+
+#. ID 672, Line 225
+msgid ""
+"\\>\\n[2][998]\\V[903]/\\V[999]\\n[8]\\V[905]/\\V[906] TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 232
+msgid ""
+"\\>\\n[2][998]0\\V[903]/\\V[999]\\n[8]\\V[905]/\\V[906] TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 239
+msgid ""
+"\\>\\n[2][998]00\\V[903]/\\V[999]\\n[8]\\V[905]/\\V[906] TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 246
+msgid ""
+"\\>\\n[2][998]000\\V[903]/\\V[999]\\n[8]\\V[905]/\\V[906] TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 253
+#. ChangeHeroName (Actor 9)
+#. ID 672, Line 309
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid " TURN:"
+msgstr ""
+
+#. ID 672, Line 254
+msgid ""
+"\\>\\n[2][998]0000\\V[903]/\\V[999]\\n[8]\\V[905]/\\V[906]\\n[9]\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 262
+msgid ""
+"\\>       HP:\\V[997]\\00000V[903]/\\V[999]000000 TP:\\V[905]/\\V[906]\n"
+"\\>       TURN:\\V[4009] ATK:\\V[908] HIT:\\V[909]\n"
+"\\>       CRT:\\V[910]  ATKWT:\\V[911]  DEF:\\V[913]  AVD:\\V[914]  \n"
+"\\>       MEN:\\V[915]  MDF:\\V[916]  AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 269
+msgid ""
+"\\>       HP:\\V[998]000000/\\V[999]000000 TP:\\V[905]/\\V[906]\n"
+"\\>       TURN:\\V[4009] ATK:\\V[908] HIT:\\V[909]\n"
+"\\>       CRT:\\V[910]  ATKWT:\\V[911]  DEF:\\V[913]  AVD:\\V[914]  \n"
+"\\>       MEN:\\V[915]  MDF:\\V[916]  AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 290
+msgid ""
+"\\>       HP:\\V[903]/\\V[904]\\n[8]\\V[905]/\\V[906]  TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 298
+#. ID 672, Line 441
+msgid ""
+"\\>       HP:\\V[903]/\\V[904]  TP:\\V[905]/\\V[906]  TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 311
+msgid ""
+"\\>\\n[2]1\\V[903]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\\n[9]\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 318
+msgid ""
+"\\>\\n[2]10\\V[903]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\\n[9]\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 325
+msgid ""
+"\\>\\n[2]100\\V[903]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\\n[9]\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 331
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "       HP:10"
+msgstr ""
+
+#. ID 672, Line 333
+msgid ""
+"\\>\\n[2]00\\V[903]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\\n[9]\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 340
+msgid ""
+"\\>\\n[2]000\\V[903]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\\n[9]\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 348
+msgid ""
+"\\>\\n[2]0000\\V[1]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\\n[9]\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 672, Line 367
+msgid ""
+"\\>       HP:\\V[998]\\V[903]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\n"
+"\\>       TURN:\\V[4009] ATK:\\V[908] HIT:\\V[909]\n"
+"\\>       CRT:\\V[910]  ATKWT:\\V[911]  DEF:\\V[913]  AVD:\\V[914]  \n"
+"\\>       MEN:\\V[915]  MDF:\\V[916]  AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 374
+msgid ""
+"\\>       HP:\\V[998]0\\V[903]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\n"
+"\\>       TURN:\\V[4009] ATK:\\V[908] HIT:\\V[909]\n"
+"\\>       CRT:\\V[910]  ATKWT:\\V[911]  DEF:\\V[913]  AVD:\\V[914]  \n"
+"\\>       MEN:\\V[915]  MDF:\\V[916]  AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 381
+msgid ""
+"\\>       HP:\\V[998]00\\V[903]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\n"
+"\\>       TURN:\\V[4009] ATK:\\V[908] HIT:\\V[909]\n"
+"\\>       CRT:\\V[910]  ATKWT:\\V[911]  DEF:\\V[913]  AVD:\\V[914]  \n"
+"\\>       MEN:\\V[915]  MDF:\\V[916]  AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 388
+msgid ""
+"\\>       HP:\\V[998]000\\V[903]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\n"
+"\\>       TURN:\\V[4009] ATK:\\V[908] HIT:\\V[909]\n"
+"\\>       CRT:\\V[910]  ATKWT:\\V[911]  DEF:\\V[913]  AVD:\\V[914]  \n"
+"\\>       MEN:\\V[915]  MDF:\\V[916]  AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 395
+msgid ""
+"\\>       HP:\\V[998]0000\\V[903]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\n"
+"\\>       TURN:\\V[4009] ATK:\\V[908] HIT:\\V[909]\n"
+"\\>       CRT:\\V[910]  ATKWT:\\V[911]  DEF:\\V[913]  AVD:\\V[914]  \n"
+"\\>       MEN:\\V[915]  MDF:\\V[916]  AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 402
+msgid ""
+"\\>      HP:\\V[998]00000\\V[903]/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\n"
+"\\>       TURN:\\V[4009] ATK:\\V[908] HIT:\\V[909]\n"
+"\\>       CRT:\\V[910]  ATKWT:\\V[911]  DEF:\\V[913]  AVD:\\V[914]  \n"
+"\\>       MEN:\\V[915]  MDF:\\V[916]  AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 409
+msgid ""
+"\\>       HP:\\V[998]000000/\\V[999]\\V[904] TP:\\V[905]/\\V[906]\n"
+"\\>       TURN:\\V[4009] ATK:\\V[908] HIT:\\V[909]\n"
+"\\>       CRT:\\V[910]  ATKWT:\\V[911]  DEF:\\V[913]  AVD:\\V[914]  \n"
+"\\>       MEN:\\V[915]  MDF:\\V[916]  AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 672, Line 432
+msgid ""
+"\\>\\n[2]\\V[903]/\\V[999]\\V[904]  TP:\\V[905]/\\V[906]\\n[9]\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]\\n[6]\\n[7]"
+msgstr ""
+
+#. ID 677, Line 246
+msgid ""
+"\\>       ◇水錬豪腕\n"
+"\\>　　　　（一定確率で発動）"
+msgstr ""
+
+#. ID 678, Line 295
+msgid ""
+"\\>       ◇フラッシュレイン　AC:水or光\n"
+"\\>       ◇スノウフォール　AC:水or天\n"
+"\\>       ◇メルクリウスフリーズ　AC:水\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 678, Line 301
+msgid ""
+"\\>       ◇フラッシュレイン　AC:水or光\n"
+"\\>       ◇スノウフォール　AC:水or天"
+msgstr ""
+
+#. ID 679, Line 728
+msgid ""
+"\\>       ◇トリプルアタック\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>　　　　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 679, Line 731
+msgid ""
+"\\>       ◇クラッシュブロウ　AC:破\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       ◇モノリスクラッシュ　AC:土"
+msgstr ""
+
+#. ID 679, Line 734
+msgid ""
+"\\>       ◇怒哮\n"
+"\\>       ◇噴激怒轟"
+msgstr ""
+
+#. ID 679, Line 738
+msgid ""
+"\\>       ◇トリプルアタック\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>　　　　（その他の条件でも発動）\n"
+"\\>       ◇モノリスクラッシュ　AC:土"
+msgstr ""
+
+#. ID 781, Line 332
+#. ID 782, Line 363
+msgid ""
+"\\>       ◇黒双牙　AC:闇\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇エンブレム･レオ\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 781, Line 336
+#. ID 782, Line 374
+msgid ""
+"\\>       ◇自爆テロ\n"
+"\\>       ◇黒獅子滅殺舞"
+msgstr ""
+
+#. ID 781, Line 340
+msgid ""
+"\\>       ◇エンブレム･レオ\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇自爆テロ\n"
+"\\>       ◇黒獅子滅殺舞"
+msgstr ""
+
+#. ID 782, Line 369
+msgid ""
+"\\>       ◇黒双牙　AC:闇\n"
+"\\>       ◇エンブレム･レオ\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 783, Line 236
+#. ID 784, Line 251
+msgid ""
+"\\>       ◇黒翼封殺波動\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>　　　　（一定条件で発動）"
+msgstr ""
+
+#. ID 783, Line 240
+#. ID 784, Line 255
+msgid "\\>       ◇パワーコンバイン"
+msgstr ""
+
+#. ID 787, Line 181
+#. ID 787, Line 197
+msgid ""
+"\\>ＨＰ：補給量\\_\\V[3157]／\\c[2]残量\\_\\V[3031]　 \\c[11]EMPTY\\c[0]\n"
+"\\>ＴＰ：補給量\\_\\V[3158]／\\c[2]残量\\_\\V[3033]　 \\c[11]EMPTY\\!"
+msgstr ""
+
+#. ID 787, Line 185
+#. ID 787, Line 201
+msgid ""
+"\\>ＨＰ：補給量\\_\\V[3157]／\\c[2]残量\\_\\V[3031]　 \\c[11]EMPTY\n"
+"\\>\\c[0]ＴＰ：補給量\\_\\V[3158]／残量\\_\\V[3033]\\!"
+msgstr ""
+
+#. ID 787, Line 215
+msgid ""
+"\\>ＨＰ：補給量\\_\\V[3157]／残量\\_\\V[3031]\n"
+"\\>ＴＰ：補給量\\_\\V[3158]／\\c[2]残量\\_\\V[3033]　 \\c[11]EMPTY\\!"
+msgstr ""
+
+#. ID 787, Line 219
+msgid ""
+"\\>ＨＰ：補給量\\_\\V[3157]／残量\\_\\V[3031]\n"
+"\\>ＴＰ：補給量\\_\\V[3158]／残量\\_\\V[3033]\\!"
+msgstr ""
+
+#. ID 787, Line 286
+msgid ""
+"\\>ＨＰ：補給量\\_\\V[3157]／\\c[2]残量\\_\\V[3031]　 \\c[11]EMPTY\n"
+"\\>\\c[0]ＴＰ：設定ＯＦＦ\\!"
+msgstr ""
+
+#. ID 787, Line 291
+msgid ""
+"\\>ＨＰ：補給量\\_\\V[3157]／残量\\_\\V[3031]\n"
+"\\>ＴＰ：設定ＯＦＦ\\!"
+msgstr ""
+
+#. ID 787, Line 378
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ＨＰ：設定Ｏ"
+msgstr ""
+
+#. ID 787, Line 379
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ＦＦ"
+msgstr ""
+
+#. ID 787, Line 394
+msgid ""
+"\\>\\n[2]\\n[3]\n"
+"\\>ＴＰ：補給量\\_\\V[3158]／\\c[2]残量\\_\\V[3033]　 \\c[11]EMPTY\\!"
+msgstr ""
+
+#. ID 787, Line 399
+msgid ""
+"\\>\\n[2]\\n[3]\n"
+"\\>ＴＰ：補給量\\_\\V[3158]／残量\\_\\V[3033]\\!"
+msgstr ""
+
+#. ID 788, Line 9
+msgid "\\>※対応するリターンツリーが別の場所に生えました。"
+msgstr ""
+
+#. ID 788, Line 26
+msgid ""
+"\\>\\C[10]【リターンツリー】\\C[0]\n"
+"\\>実体を伴わず緑の光で構成され、\n"
+"\\>離れた２つの空間を繋ぐという不思議な樹。"
+msgstr ""
+"\\>\\C[10]【回归树】\\C[0]\n"
+"\\>一种没有实体，由绿色光芒构成的，\n"
+"\\>可以将2个分离的空间连接起来的不可思议的树。"
+
+#. ID 788, Line 29
+msgid ""
+"\\>\\C[10]【リターンツリー】\\C[0]\n"
+"\\>調べる事で、同じダンジョンの別の場所にもう１本の\n"
+"\\>リターンツリーが生え、互いの場所へ瞬時に移動出来る\n"
+"\\>ショートカットが形成されます。"
+msgstr ""
+"\\>\\C[10]【回归树】\\C[0]\n"
+"\\>当调查时，它会在地牢中的另一个地方\n"
+"\\>再生成一株回归树，这样两个地方便可以互相传送，\n"
+"\\>从而形成一条近路。"
+
+#. ID 788, Line 35
+msgid ""
+"\\>\\C[10]【リターンツリー】\\C[0]\n"
+"実体を伴わず緑の光で構成され、\n"
+"離れた２つの空間を繋ぐという不思議な樹。"
+msgstr ""
+"\\>\\C[10]【回归树】\\C[0]\n"
+"\\>一种没有实体，由绿色光芒构成的，\n"
+"\\>可以将2个分离的空间连接起来的不可思议的树。"
+
+#. ID 788, Line 38
+msgid ""
+"\\>\\C[10]【リターンツリー】\\C[0]\n"
+"調べる事で、同じダンジョンの別の場所にもう１本の\n"
+"リターンツリーが生え、互いの場所へ瞬時に移動出来る\n"
+"ショートカットが形成されます。"
+msgstr ""
+"\\>\\C[10]【回归树】\\C[0]\n"
+"\\>当调查时，它会在地牢中的另一个地方\n"
+"\\>再生成一株回归树，这样两个地方便可以互相传送，\n"
+"\\>从而形成一条近路。"
+
+#. ID 790, Line 332
+#. ID 863, Line 58
+#. ID 863, Line 68
+msgid ""
+"\\>       HP:\\V[903]/\\V[904]  TP:\\V[905]/\\V[906]  TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]"
+msgstr ""
+
+#. ID 790, Line 338
+msgid ""
+"\\>       HP:\\V[903]/\\V[904]  TP:\\V[905]/\\V[906]  TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]　　【 OVER DRIVE 】"
+msgstr ""
+
+#. ID 798, Line 19
+msgid ""
+"\\>\\C[10]【メモリーツリー】\\C[0]\n"
+"実体を伴わず青い光で構成される木。\n"
+"魂の辿った軌跡を結晶化して記録保存しておくという\n"
+"不思議な力を持つ。"
+msgstr ""
+"\\>\\C[10]【记忆树】\\C[0]\n"
+"没有实体，由蓝色光芒构成的树。\n"
+"有着能将灵魂走过的轨迹结晶化，保存起来的\n"
+"不可思议的能力。"
+
+#. ID 798, Line 23
+msgid ""
+"\\>\\C[10]【メモリーツリー】\\C[0]\n"
+"ゲーム中ではこれを調べる事で、\n"
+"其処までのプレイをセーブする事が出来ます。"
+msgstr ""
+"\\>\\C[10]【记忆树】\\C[0]\n"
+"在游戏中调查这株树，\n"
+"就可以将迄今为止的游戏记录保存起来。"
+
+#. ID 799, Line 6
+msgid ""
+"\\>\\C[10]【リザレクトポイント】\\C[0]\n"
+"星を巡る生命力の\"流れ\"が一時的に緩く成り、\n"
+"生命力が停留している場所。"
+msgstr ""
+"\\>\\C[10]【回复点】\\C[0]\n"
+"由在整个星球中徘徊的生命力之“流”暂时停滞而成，\n"
+"是生命力停留之地。"
+
+#. ID 799, Line 9
+msgid ""
+"\\>\\C[10]【リザレクトポイント】\\C[0]\n"
+"一般アイテム『リザレクトスフィア』を消費して、\n"
+"ＨＰやＴＰの回復、サプリメントの補充が行えます。"
+msgstr ""
+"\\>\\C[10]【回复点】\\C[0]\n"
+"通过使用普通物品“回复光球”，\n"
+"就可以在此处回复HP，TP，以及Supplement。"
+
+#. ID 799, Line 12
+msgid ""
+"\\>\\C[10]【リザレクトポイント】\\C[0]\n"
+"因みに同アイテムには回復量に応じて１～４までの\n"
+"レベルが設けられています。\n"
+"選択肢から使うレベルを選択してください。"
+msgstr ""
+"\\>\\C[10]【回复点】\\C[0]\n"
+"回复光球根据回复量的不同分为1-4级，\n"
+"你可以在选项处选择使用哪种等级的光球。"
+
+#. ID 799, Line 25
+#. Choice (4 options)
+msgid ""
+"\\>リザレクトスフィア･レベル１\n"
+"\\>リザレクトスフィア･レベル２\n"
+"\\>リザレクトスフィア･レベル３\n"
+"\\>リザレクトスフィア･レベル４"
+msgstr ""
+"\\>回复光球·等级1\n"
+"\\>回复光球·等级2\n"
+"\\>回复光球·等级3\n"
+"\\>回复光球·等级4"
+
+#. ID 799, Line 61
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "リザレクトス"
+msgstr ""
+
+#. ID 799, Line 62
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "フィア･レベ"
+msgstr ""
+
+#. ID 799, Line 63
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "（所持数 "
+msgstr ""
+
+#. ID 799, Line 68
+#. Choice (4 options)
+msgid ""
+"\\>\\n[2]\\n[3]ル１\\n[4]\\v[4832]）\n"
+"\\>\\n[2]\\n[3]ル２\\n[4]\\v[4833]）\n"
+"\\>\\n[2]\\n[3]ル３\\n[4]\\v[4838]）\n"
+"\\>\\n[2]\\n[3]ル４\\n[4]\\v[4839]）"
+msgstr ""
+
+#. ID 799, Line 110
+msgid "※手持ちのアイテムにありません。"
+msgstr "※手上没有该物品。"
+
+#. ID 799, Line 113
+msgid "\\>※手持ちのアイテムにありません。"
+msgstr "\\>※手上没有该物品。"
+
+#. ID 799, Line 323
+#. ChangeHeroName (Actor 2)
+#. ID 799, Line 348
+#. ChangeHeroName (Actor 3)
+#. ID 799, Line 373
+#. ChangeHeroName (Actor 4)
+#. ID 799, Line 398
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "　　"
+msgstr ""
+
+#. ID 799, Line 327
+#. ChangeHeroName (Actor 2)
+#. ID 799, Line 352
+#. ChangeHeroName (Actor 3)
+#. ID 799, Line 377
+#. ChangeHeroName (Actor 4)
+#. ID 799, Line 402
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "　 "
+msgstr ""
+
+#. ID 799, Line 331
+#. ChangeHeroName (Actor 2)
+#. ID 799, Line 356
+#. ChangeHeroName (Actor 3)
+#. ID 799, Line 381
+#. ChangeHeroName (Actor 4)
+#. ID 799, Line 406
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "　"
+msgstr ""
+
+#. ID 799, Line 335
+#. ChangeHeroName (Actor 2)
+#. ID 799, Line 360
+#. ChangeHeroName (Actor 3)
+#. ID 799, Line 385
+#. ChangeHeroName (Actor 4)
+#. ID 799, Line 410
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid " "
+msgstr ""
+
+#. ID 799, Line 422
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "　SUP.HP："
+msgstr ""
+
+#. ID 799, Line 423
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "　SUP.TP："
+msgstr ""
+
+#. ID 799, Line 424
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid " 【FULL】"
+msgstr ""
+
+#. ID 799, Line 426
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "　【FULL】"
+msgstr ""
+
+#. ID 799, Line 430
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "　 【FULL】"
+msgstr ""
+
+#. ID 799, Line 433
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "　　【FULL】"
+msgstr ""
+
+#. ID 799, Line 441
+msgid ""
+"\\>\n"
+"\\>\\n[7]\\n[4]\\v[4833]→\\n[5]\\v[3033]\\_/\\_\\v[3034]\\c[4]\\n[9]\\c[0]"
+msgstr ""
+
+#. ID 799, Line 445
+msgid ""
+"\\>\n"
+"\\>\\n[7]\\n[4]\\v[4833]→\\n[5]\\v[3033]\\_/\\_\\v[3034]"
+msgstr ""
+
+#. ID 799, Line 453
+msgid ""
+"\\>\n"
+"\\>\\n[6]\\n[2]\\v[4832]→\\n[3]\\v[3031]\\_/\\_\\v[3032]\\c[4]\\n[8]\\c[0]\n"
+"\\>\\n[7]\\n[4]\\v[4833]→\\n[5]\\v[3033]\\_/\\_\\v[3034]\\c[4]\\n[9]\\c[0]"
+msgstr ""
+
+#. ID 799, Line 458
+msgid ""
+"\\>\n"
+"\\>\\n[6]\\n[2]\\v[4832]→\\n[3]\\v[3031]\\_/\\_\\v[3032]\\c[4]\\n[8]\\c[0]\n"
+"\\>\\n[7]\\n[4]\\v[4833]→\\n[5]\\v[3033]\\_/\\_\\v[3034]"
+msgstr ""
+
+#. ID 799, Line 466
+msgid ""
+"\\>\n"
+"\\>\\n[6]\\n[2]\\v[4832]→\\n[3]\\v[3031]\\_/\\_\\v[3032]\n"
+"\\>\\n[7]\\n[4]\\v[4833]→\\n[5]\\v[3033]\\_/\\_\\v[3034]\\c[4]\\n[9]\\c[0]"
+msgstr ""
+
+#. ID 799, Line 471
+msgid ""
+"\\>\n"
+"\\>\\n[6]\\n[2]\\v[4832]→\\n[3]\\v[3031]\\_/\\_\\v[3032]\n"
+"\\>\\n[7]\\n[4]\\v[4833]→\\n[5]\\v[3033]\\_/\\_\\v[3034]"
+msgstr ""
+
+#. ID 863, Line 1
+msgid "aaa"
+msgstr ""
+
+#. ID 863, Line 18
+msgid ""
+"\\> 　　ＨＰ:\\V[903]/\\V[904]  ＴＰ:\\V[905]/\\V[906]  Turn:\\V[4009]\n"
+"\\> 　　物攻:\\V[908]  命中:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\> 　　物防:\\V[913]  回避:\\V[914]   精攻:\\V[915]  精防:\\V[916]\n"
+"\\> 　　敏捷性:\\V[917]  運動性:\\V[918]　　/ OVER SOUL!"
+msgstr ""
+
+#. ID 863, Line 24
+#. ID 863, Line 34
+msgid ""
+"\\>       HP:\\V[903]/\\V[904]  TP:\\V[905]/\\V[906]  TURN:\\V[4009]\n"
+"\\>       ATK:\\V[908]  HIT:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\>       DEF:\\V[913]  AVD:\\V[914]  MEN:\\V[915]  MDF:\\V[916]\n"
+"\\>       AGL:\\V[917]  MOV:\\V[918]　　/ OVER SOUL!"
+msgstr ""
+
+#. ID 863, Line 40
+msgid ""
+"\\> 　　ＨＰ:\\V[903]/\\V[904]  ＴＰ:\\V[905]/\\V[906]  Turn:\\V[4009]\n"
+"\\> 　　物攻:\\V[908]  命中:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\> 　　物防:\\V[913]  回避:\\V[914]  精攻:\\V[915]  精防:\\V[916]\n"
+"\\> 　　敏捷性:\\V[917]  運動性:\\V[918]　　/ OVER SOUL!"
+msgstr ""
+
+#. ID 863, Line 52
+msgid ""
+"\\> 　　ＨＰ:\\V[903]/\\V[904]  ＴＰ:\\V[905]/\\V[906]  Turn:\\V[4009]\n"
+"\\> 　　物攻:\\V[908]  命中:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\> 　　物防:\\V[913]  回避:\\V[914]   精攻:\\V[915]  精防:\\V[916]\n"
+"\\> 　　敏捷性:\\V[917]  運動性:\\V[918]"
+msgstr ""
+
+#. ID 863, Line 74
+msgid ""
+"\\> 　　ＨＰ:\\V[903]/\\V[904]  ＴＰ:\\V[905]/\\V[906]  Turn:\\V[4009]\n"
+"\\> 　　物攻:\\V[908]  命中:\\V[909]  CRT:\\V[910]  ATKWT:\\V[911]\n"
+"\\> 　　物防:\\V[913]  回避:\\V[914]  精攻:\\V[915]  精防:\\V[916]\n"
+"\\> 　　敏捷性:\\V[917]  運動性:\\V[918]"
+msgstr ""
+
+#. ID 1154, Line 43
+msgid ""
+"ヴィルジニー：\n"
+"こいつら、強い…！"
+msgstr ""
+
+#. ID 1154, Line 45
+msgid ""
+"ヴィルジニー：\n"
+"ごめんなさい、お父さん。今の私じゃ勝てない…。"
+msgstr ""
+
+#. ID 1154, Line 62
+msgid ""
+"イート：\n"
+"何てこった！"
+msgstr ""
+
+#. ID 1154, Line 64
+msgid ""
+"イート：\n"
+"この俺が！ \\|こんな若造に！"
+msgstr ""
+
+#. ID 1154, Line 66
+msgid ""
+"イート：\n"
+"肉足りねえよ、肉！"
+msgstr ""
+
+#. ID 1167, Line 7
+msgid ""
+"\\>\\C[10]【メモリーツリー】\\C[0]\n"
+"実体を伴わず青い光で構成され、\n"
+"魂の辿った軌跡を記録しておく事が出来るという\n"
+"不思議な樹。"
+msgstr ""
+"\\>\\C[10]【记忆树】\\C[0]\n"
+"没有实体，由蓝色光芒构成的树。\n"
+"有着能将灵魂走过的轨迹结晶化，保存起来的\n"
+"不可思议的能力。"
+
+#. ID 1167, Line 11
+msgid ""
+"\\>\\C[10]【メモリーツリー】\\C[0]\n"
+"世界中至る所に生えており、セーブ不可の領域でも\n"
+"これを調べる事でセーブを行う事が出来ます。"
+msgstr ""
+"\\>\\C[10]【记忆树】\\C[0]\n"
+"在游戏中调查这株树，\n"
+"就可以将迄今为止的游戏记录保存起来。"
+
+#. ID 1230, Line 186
+#. ChangeHeroName (Actor 1)
+#. ID 1230, Line 346
+#. Condition (Actor Name = ザ･バカンス)
+#. ID 1230, Line 357
+#. Condition (Actor Name = ザ･バカンス)
+msgctxt "actors.name"
+msgid "ザ･バカンス"
+msgstr ""
+
+#. ID 1230, Line 347
+msgid ""
+"\n"
+"　　　　 \\n[1]は全身に力を込めた！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1230, Line 351
+#. ID 1230, Line 362
+msgid ""
+"\n"
+"　　　　 \\n[1]は全身に力を込めた！\\|\\^"
+msgstr ""
+
+#. ID 1230, Line 358
+msgid ""
+"\n"
+"　　　　 \\n[1]は全身に力を込めた！"
+msgstr ""
+
+#. ID 1230, Line 370
+msgid ""
+"\n"
+"    \\n[1]の水着股間部位が激しく破ける！"
+msgstr ""
+
+#. ID 1230, Line 657
+msgid ""
+"\\>2\n"
+"\\>\\v[901] ID\n"
+"\\>\\v[4019] ターゲット\n"
+"\\>\\v[4034] ダメージ"
+msgstr ""
+
+#. ID 1230, Line 718
+msgid ""
+"\n"
+"  \\n[1]の水着股間部位が徐々に盛り上がる…！"
+msgstr ""
+
+#. ID 1230, Line 726
+msgid ""
+"\n"
+"    \\n[1]は昂ぶりが治まってしまった…。"
+msgstr ""
+
+#. ID 1231, Line 1177
+msgid "※敵全体の\\c[19][DEF,MDF]\\c[0]が減少！\\|"
+msgstr ""
+
+#. ID 1232, Line 366
+msgid "※全員の属性耐性が低下！\\|\\^"
+msgstr ""
+
+#. ID 1236, Line 24
+#. Choice (4 options)
+msgid ""
+"\\>ﾌｨﾆｯｼｭｴﾌｪｸﾄIDを 0 にする\n"
+"\\>ﾌｨﾆｯｼｭｴﾌｪｸﾄIDを 1000 にする\n"
+"\\>ﾌｨﾆｯｼｭｴﾌｪｸﾄを普通に許可する\n"
+"\\>ドライブ判定値を 100000 にする"
+msgstr ""
+
+#. ID 1243, Line 6
+#. Contains choice at line 2 (3 options)
+msgid "このイベントをスキップしますか？"
+msgstr ""
+
+#. ID 1243, Line 7
+#. Choice (3 options, embedded in a message)
+msgid ""
+"バトル前のみスキップ\n"
+"バトル前後共にスキップ\n"
+"スキップしない"
+msgstr ""
+
+#. ID 1243, Line 26
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\C[19]【イベントスキップ確認】\n"
+"\\C[0]このイベントをスキップしますか？"
+msgstr ""
+"\\C[19]【过场跳过确认】\n"
+"\\C[0]要跳过这一段吗？"
+
+#. ID 1243, Line 28
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+"YES\n"
+"NO"
+
+#. ID 1248, Line 232
+msgid ""
+"ゲオルク：\n"
+"\\S[3]小僧めが！\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 1248, Line 236
+msgid ""
+"ゲオルク：\n"
+"\\S[3]小僧めが！\\|\\^"
+msgstr ""
+
+#. ID 1248, Line 240
+msgid ""
+"ゲオルク：\n"
+"\\S[3]そんなに死にたければ貴様から喰らってやるわ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1248, Line 242
+msgid ""
+"ゲオルク：\n"
+"\\S[3]死ねェェェェェッ!!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1249, Line 461
+msgid ""
+"雪ダルマ父：\n"
+"\\s[3]ったく…マジでざまあ無ぇよなァ…。\\|\\.\\.\n"
+"流れ者連中に、\\.\\.連合の頭が殺られるなんてよォ…。\\|\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 1249, Line 464
+msgid ""
+"雪ダルマ父：\n"
+"\\s[3]全部の暴走連合が消えた訳か。\\|\\.\\.\n"
+"フッ、\\.\\.\\.悲しいかな、諸行無常って事よ…。\\|\\|\\^"
+msgstr ""
+
+#. ID 1249, Line 504
+msgid ""
+"\\>       ◇八王子料金所突破\n"
+"\\>       　発動周期:[?x+2]ターン\n"
+"\\>       　（?は変動の可能性有り）"
+msgstr ""
+
+#. ID 1249, Line 507
+msgid ""
+"\\>       ◇シンナー吸引\n"
+"\\>       　発動周期:[?x+5]ターン（更に発動条件有り）\n"
+"\\>       　（?は変動の可能性有り）\n"
+"\\>       　（その他の条件でも発動）"
+msgstr ""
+
+#. ID 1249, Line 511
+msgid ""
+"\\>       ◇単車ハコ乗り\n"
+"\\>       　発動周期:[?x+3]ターン（更に発動条件有り）\n"
+"\\>       　（?は変動の可能性有り）"
+msgstr ""
+
+#. ID 1249, Line 514
+msgid ""
+"\\>       ◇初日の出鎌倉特攻部隊\n"
+"\\>       　発動周期:[?x+4]ターン（更に発動条件有り）\n"
+"\\>       　（?は変動の可能性有り）"
+msgstr ""
+
+#. ID 1249, Line 517
+msgid ""
+"\\>       ◇横浜SA集会所\n"
+"\\>       　発動周期:[?x]ターン（更に発動条件有り）\n"
+"\\>       　（?は変動の可能性有り）"
+msgstr ""
+
+#. ID 1250, Line 240
+msgid ""
+"\\>       ◇トロピカルジュース\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇豪華クルーザー大激突\n"
+"\\>       　発動周期:[?x+5]ターン"
+msgstr ""
+
+#. ID 1250, Line 244
+msgid ""
+"\\>       ◇ザ･フロントアクシデント\n"
+"\\>       　発動周期:[?x+7]ターン\n"
+"\\>       　（その他の条件でも発動）\n"
+"\\>       ◇スーパービッグウェーブ　AC:水"
+msgstr ""
+
+#. ID 1251, Line 909
+msgid ""
+"\\>       ◇ディザスターフォース復活\n"
+"\\>　　　　 発動周期:[?x]ターン\n"
+"\\>       ◇コアフォース･ディザスティア\n"
+"\\>       　発動周期:[?x+1]ターン"
+msgstr ""
+
+#. ID 1251, Line 913
+msgid "\\>       ◇ラグナロク･ターミネイト　AC:闇破"
+msgstr ""
+
+#. ID 1251, Line 914
+#. ID 1251, Line 935
+#. ID 1251, Line 958
+msgid ""
+"\\>       ◇フレアプロミネンス　AC:火\n"
+"\\>       　発動周期:[?x+2 or ?x+6]ターン\n"
+"\\>       ◇ノア･ディーペストブルー　AC:水\n"
+"\\>       　発動周期:[?x+2 or ?x+6]ターン"
+msgstr ""
+
+#. ID 1251, Line 918
+#. ID 1251, Line 939
+#. ID 1251, Line 962
+msgid ""
+"\\>       ◇ダウンバースト　AC:風\n"
+"\\>       　発動周期:[?x+2 or ?x+6]ターン\n"
+"\\>       ◇ガイア･グレイシェル　AC:土\n"
+"\\>       　発動周期:[?x+2 or ?x+6]ターン"
+msgstr ""
+
+#. ID 1251, Line 922
+#. ID 1251, Line 943
+#. ID 1251, Line 966
+msgid ""
+"\\>       ◇セイクリッドサンクチュアリィ　AC:光\n"
+"\\>       　発動周期:[?x+2 or ?x+6]ターン\n"
+"\\>       ◇セレスティアルレイブレイカー　AC:天\n"
+"\\>       　発動周期:[?x+2 or ?x+6]ターン"
+msgstr ""
+
+#. ID 1251, Line 926
+#. ID 1251, Line 947
+#. ID 1251, Line 970
+msgid ""
+"\\>       ◇グラビティクラッシャー　AC:破\n"
+"\\>       　発動周期:[?x+2 or ?x+6]ターン\n"
+"\\>       ◇蒼悲天翼\n"
+"\\>       　発動周期:[?x+4]ターン"
+msgstr ""
+
+#. ID 1251, Line 932
+#. ID 1251, Line 955
+msgid ""
+"\\>       ◇コアフォース･ディザスティア\n"
+"\\>       　発動周期:[?x+1]ターン\n"
+"\\>       ◇ラグナロク･ターミネイト　AC:闇破"
+msgstr ""
+
+#. ID 1251, Line 981
+msgid ""
+"ラグナロク･ターミネイトを除く各ＦＥ消費技の発動周期を\n"
+"[?x+3 or ?x+6～7] → [?x+2 or ?x+6] に変更。\n"
+msgstr ""
+
+#. ID 1252, Line 1022
+msgid ""
+"\\>※活動を停止したディザスターフォースの\n"
+"\\>　[ATK,DEF,MDF,AGL]が\n"
+"\\>　イーヴル･ディザスティアに還元された！"
+msgstr ""
+
+#. ID 1252, Line 1027
+msgid ""
+"※活動を停止したディザスターフォースの\n"
+"　[ATK,DEF,MDF,AGL]が\n"
+"　イーヴル･ディザスティアに還元された！"
+msgstr ""
+
+#. ID 1252, Line 1041
+msgid ""
+"\\>       ◇フォースファイアリィ　AC:火\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       ◇クレバーウォーティ　AC:水\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 1252, Line 1045
+msgid ""
+"\\>       ◇クイックウィンディ　AC:風\n"
+"\\>       　発動周期:[?x+3]ターン\n"
+"\\>       ◇プロテクトアーシィ　AC:土\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 1252, Line 1052
+msgid ""
+"\\>       ◇マーダリングシェイド\n"
+"\\>       　発動周期:[?x+3]ターン"
+msgstr ""
+
+#. ID 1252, Line 1057
+msgid ""
+"\\>       ◇エヴァンゲル　AC:光天\n"
+"\\>       ◇ヴォイドファイナリティ\n"
+"\\>　　　　 AC:オールニュートラル\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 1252, Line 1069
+msgid ""
+"\\>       ◇ヘイムダルセイント　AC:光\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇メディウムスロート　AC:闇\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 1252, Line 1073
+msgid ""
+"\\>       ◇ミーティアストライク　AC:天\n"
+"\\>       　発動周期:[?x]ターン\n"
+"\\>       ◇ギガブレイク　AC:破\n"
+"\\>       　発動周期:[?x]ターン"
+msgstr ""
+
+#. ID 1315, Line 125
+msgid "\\>       ◇コマンドプリズナー"
+msgstr ""
+
+#. ID 1316, Line 303
+msgid "\\>       ◇絶死･鉄処女封殺"
+msgstr ""
+
+#. ID 1317, Line 220
+msgid ""
+"\\>       ◇エミッシヴ･アヴェンジャー\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇ユニットフルバースト"
+msgstr ""
+
+#. ID 1319, Line 238
+msgid ""
+"\\>       ◇シャドウフレア　AC:火or闇\n"
+"\\>　　　　（一定条件で発動）\n"
+"\\>       ◇ダークヒール\n"
+"\\>       　発動周期:[?x+2]ターン"
+msgstr ""
+
+#. ID 1321, Line 303
+msgid "\\>       ◇戦場のレストラン"
+msgstr ""
+
+#. ID 1343, Line 25
+msgid ""
+"フョードル：\n"
+"くそっ、もう機体が持たない！"
+msgstr ""
+
+#. ID 1343, Line 27
+msgid ""
+"フョードル：\n"
+"ちくしょー！\\.\\. ふざけんなーッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1348, Line 1577
+msgid ""
+"\\>旧バージョンのセーブデータにて発症していた\n"
+"\\>「特定キャラの獲得経験値が２倍になる」という\n"
+"\\>不具合の影響を緩和するため、\n"
+"\\>\\n[2]のレベルが\\_\\v[4001]\\_→\\_\\v[4838]\\_に補正されました。"
+msgstr ""
+
+#. ID 1348, Line 1583
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "のEXPが"
+msgstr ""
+
+#. ID 1348, Line 1584
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "に補正されま"
+msgstr ""
+
+#. ID 1348, Line 1585
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "した。"
+msgstr ""
+
+#. ID 1348, Line 1586
+msgid ""
+"\\>旧バージョンのセーブデータにて発症していた\n"
+"\\>「特定キャラの獲得経験値が２倍になる」という\n"
+"\\>不具合の影響を緩和するため、\\n[2]\\n[3]\n"
+"\\>\\v[4002]\\v[4003]\\_→\\_\\v[4839]\\v[4840]\\_\\n[4]\\n[5]"
+msgstr ""
+
+#. ID 1348, Line 1613
+msgid ""
+"\\>\\v[4832]\n"
+"\\>\\v[4162]\n"
+"\\>\\v[4833]"
+msgstr ""
+
+#. ID 1348, Line 1795
+#. Contains choice at line 2 (3 options)
+msgid "\\>\\C[10]【ゲームモード選択】\\C[0]"
+msgstr ""
+
+#. ID 1348, Line 1796
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>ゲームモード説明\n"
+"\\>オリジナルモード\n"
+"\\>アレンジモード"
+msgstr ""
+
+#. ID 1348, Line 1798
+msgid ""
+"\\>\\C[10]【ゲームモードの説明／オリジナルモード】　　　 1/5\\C[0]\n"
+"\\>純正版の\\_Seraphic Blue\\_と同様のゲーム内容です。\n"
+"\\>改造版独自のコンフィグ機能および、\n"
+"\\>それに応じた各種仕様の追加は在ります。"
+msgstr ""
+
+#. ID 1348, Line 1802
+msgid ""
+"\\>\\C[10]【ゲームモードの説明／アレンジモード】　　　　 2/5\\C[0]\n"
+"\\>ゲームバランス変更、新規ボス等の追加、\n"
+"\\>バトルシステムの新要素追加といった\n"
+"\\>様々なゲーム内容のアレンジがなされたモードです。"
+msgstr ""
+
+#. ID 1348, Line 1806
+msgid ""
+"\\>\\C[10]【ゲームモードの説明／ゲームモードの途中変更】 3/5\\C[0]\n"
+"\\>ゲームモードは本編中でもコンフィグのディープ設定で\n"
+"\\>変更可能ですが、ゲームモードを途中で変更すると、\n"
+"\\>スコアにマイナスの補正が掛かります。"
+msgstr ""
+
+#. ID 1348, Line 1810
+msgid ""
+"\\>\\C[10]【ゲームモードの説明／スコアによる影響】　　　 4/5\\C[0]\n"
+"\\>オリジナルモードでは、\n"
+"\\>スコアによるゲーム本編への影響は一切有りません。"
+msgstr ""
+
+#. ID 1348, Line 1813
+msgid ""
+"\\>\\C[10]【ゲームモードの説明／スコアによる影響】　　　 5/5\\C[0]\n"
+"\\>アレンジモードでは、高スコアを達成すると、\n"
+"\\>某所でおまけアイテムが得られる可能性が有ります。\n"
+"\\>但し、このおまけは他の条件でも取得可能です。"
+msgstr ""
+
+#. ID 1348, Line 2008
+msgid ""
+"\\>\\v[4906]\n"
+"\\>\\v[3346]　\\v[4833]\n"
+"\\>\\v[3352]\n"
+"\\>\\v[3190]"
+msgstr ""
+
+#. ID 1352, Line 4
+#. Contains choice at line 2 (2 options)
+#. ID 1352, Line 17
+#. Contains choice at line 2 (3 options)
+#. ID 1352, Line 36
+#. Contains choice at line 2 (3 options)
+#. ID 1352, Line 52
+#. Contains choice at line 2 (3 options)
+msgid "シャル：何について聞きたいの？"
+msgstr ""
+
+#. ID 1352, Line 5
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>エンヴィの暴走族\n"
+"\\>聞かない"
+msgstr ""
+
+#. ID 1352, Line 10
+#. ID 1352, Line 26
+#. ID 1352, Line 45
+msgid ""
+"シャル：\n"
+"また何か新しい情報が入るかも知れないから、\n"
+"その時は宜しくね。"
+msgstr ""
+
+#. ID 1352, Line 18
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>エンヴィの暴走族\n"
+"\\>妖精の里\n"
+"\\>聞かない"
+msgstr ""
+
+#. ID 1352, Line 37
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>エンヴィの暴走族\n"
+"\\>都市伝説「ザ･バカンス」\n"
+"\\>聞かない"
+msgstr ""
+
+#. ID 1352, Line 53
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>エンヴィの暴走族\n"
+"\\>妖精の里\n"
+"\\>都市伝説「ザ･バカンス」"
+msgstr ""
+
+#. ID 1352, Line 72
+msgid ""
+"シャル：\n"
+"エンヴィ・ケイオスには\n"
+"ある暴走族が巣食ってるんだけど、\n"
+"これがまた色物なのよね。"
+msgstr ""
+
+#. ID 1352, Line 76
+msgid ""
+"シャル：\n"
+"その名も艶美恵雄暴走連合。\\.\\.\n"
+"頻繁にエンヴィの街中を爆音を鳴らしながら\n"
+"駆け抜ける事から、住民は迷惑してるわ。"
+msgstr ""
+
+#. ID 1352, Line 80
+msgid ""
+"シャル：\n"
+"で、ここからが重要なんだけど、その暴走族の\n"
+"頭＜ヘッド＞は、何故か雪ダルマの姿をしているの。\\|\n"
+"というか雪ダルマそのものって感じ。"
+msgstr ""
+
+#. ID 1352, Line 84
+msgid ""
+"シャル：\n"
+"どうして雪ダルマなのかは置いとくとして、\n"
+"この雪ダルマが超強いのよ。\n"
+"保安官も太刀打ち出来なくて手を焼いてるみたいね。"
+msgstr ""
+
+#. ID 1352, Line 88
+msgid ""
+"シャル：\n"
+"腕に自信が有るなら、この雪ダルマを探し出して\n"
+"退治してみるのも良いんじゃないかしら。\n"
+"何か良い物が手に入るかも知れないし。"
+msgstr ""
+
+#. ID 1352, Line 93
+msgid ""
+"シャル：\n"
+"…って、雪ダルマはもう退治したから今更な情報よね。"
+msgstr ""
+
+#. ID 1352, Line 100
+msgid ""
+"シャル：\n"
+"森の中に妖精の里が在る…って言われても、\n"
+"流石に世界中の森から探して回るのは大変よね。"
+msgstr ""
+
+#. ID 1352, Line 103
+msgid ""
+"シャル：\n"
+"でも可能性としては、フェジテよりもグラウンドの\n"
+"何処かに在る可能性の方が高いと考えられるわ。"
+msgstr ""
+
+#. ID 1352, Line 106
+msgid ""
+"シャル：\n"
+"妖精を見たって言う話は世界中で聞くけれど、\n"
+"そもそもの発祥は、グラウンドの冒険者や漁師の間で\n"
+"そういう話が広まったとされているの。"
+msgstr ""
+
+#. ID 1352, Line 110
+msgid ""
+"シャル：\n"
+"現に妖精を目撃したって言うケースはフェジテよりも\n"
+"グラウンドで多く発生してるし…。"
+msgstr ""
+
+#. ID 1352, Line 113
+msgid ""
+"シャル：\n"
+"ショップで販売されてるアイテム「妖精のタルト」の\n"
+"流通経路も、グラウンドの何処かから\n"
+"流れているらしい事が判っているわ。"
+msgstr ""
+
+#. ID 1352, Line 117
+msgid ""
+"シャル：\n"
+"だからグラウンドの辺境の森とかが\n"
+"怪しいんじゃないかしら？"
+msgstr ""
+
+#. ID 1352, Line 123
+msgid ""
+"シャル：\n"
+"グラウンドの若い人達の間で語られている\n"
+"都市伝説の中でも、ザ･バカンスっていう変態の話は\n"
+"一風変わってるわ。"
+msgstr ""
+
+#. ID 1352, Line 127
+msgid ""
+"シャル：\n"
+"どこかの浜辺でバカンスを満喫している巨漢が居て、\n"
+"その男に近寄ると、\n"
+"突然激昂して一物を露出してくるとか何とか…。"
+msgstr ""
+
+#. ID 1352, Line 131
+msgid ""
+"シャル：\n"
+"…まぁ単なる変質者だけど、実際にこのザ･バカンスに\n"
+"襲われたっていう被害が数年前から後を絶たないの。"
+msgstr ""
+
+#. ID 1352, Line 134
+msgid ""
+"シャル：\n"
+"一応用心するに越した事は無いと思うわ。\n"
+"特に、浜辺のある港町なんかに立ち寄る時はね。"
+msgstr ""
+
+#. ID 1352, Line 138
+msgid ""
+"シャル：\n"
+"…って、もうバカンスに襲われて、\n"
+"返り討ちにしたのよね。"
+msgstr ""
+
+#. ID 1352, Line 141
+msgid ""
+"シャル：\n"
+"戦利品として水着を手に入れたそうだけど、\n"
+"そんな物使い道有るのかしら…？"
+msgstr ""
+
+#. ID 1353, Line 1
+#. Contains choice at line 2 (3 options)
+msgid "リーナ：何について聞きたいですか？"
+msgstr ""
+
+#. ID 1353, Line 2
+#. Choice (3 options, embedded in a message)
+#. ID 1353, Line 88
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>冗談のような武器\n"
+"\\>強敵と戦う際のアドバイス\n"
+"\\>聞かない"
+msgstr ""
+
+#. ID 1353, Line 4
+#. ID 1353, Line 90
+msgid ""
+"リーナ：\n"
+"玩具や日用品などの物でも、実は武器として\n"
+"戦闘に利用出来る場合があるようです。"
+msgstr ""
+
+#. ID 1353, Line 7
+#. ID 1353, Line 93
+msgid ""
+"リーナ：\n"
+"経験者の語る処によれば、普通の武器と比べて\n"
+"圧倒的に軽いのが最大の利点だとか…。"
+msgstr ""
+
+#. ID 1353, Line 10
+#. ID 1353, Line 96
+msgid ""
+"リーナ：\n"
+"もし街中等でそういう物を見かける事があったら、\n"
+"武器として使ってみるのも良いかも知れませんね。\n"
+"物は試しと言いますし。"
+msgstr ""
+
+#. ID 1353, Line 17
+#. ID 1353, Line 103
+msgid ""
+"リーナ：\n"
+"まず、エネミーデータでその敵の情報を調べるのは\n"
+"基本ですが、中でも敵の属性攻性や不利状態の耐性に\n"
+"注目すると良いかと思います。"
+msgstr ""
+
+#. ID 1353, Line 21
+#. ID 1353, Line 107
+msgid ""
+"リーナ：\n"
+"特定の属性攻性が突出して高い敵の場合は、\n"
+"その属性に対する耐性を高めて挑めば、その敵から\n"
+"受ける物理ダメージを大幅に減らす事が出来ます。"
+msgstr ""
+
+#. ID 1353, Line 25
+#. ID 1353, Line 111
+msgid ""
+"リーナ：\n"
+"また、特定の不利状態に対する耐性が低い敵なら、\n"
+"そこを突いて敵を不利状態に陥れてしまえば\n"
+"戦闘を有利に進められるはずです。"
+msgstr ""
+
+#. ID 1353, Line 29
+#. ID 1353, Line 115
+msgid ""
+"リーナ：\n"
+"敵の攻撃が激しいようでしたら、\n"
+"シールド･ウォール系のＧスフィアを装備して\n"
+"防御を固めたり…。"
+msgstr ""
+
+#. ID 1353, Line 33
+#. ID 1353, Line 119
+msgid ""
+"リーナ：\n"
+"リフレックスガード、リヴァイバー、オールグリーン、\n"
+"クイックリカバリーといったＴスフィアを\n"
+"装備しておくと、比較的安全に戦えると思います。"
+msgstr ""
+
+#. ID 1353, Line 37
+#. ID 1353, Line 123
+msgid ""
+"リーナ：\n"
+"以上で半分ほど話し終わりましたけど…。\\.\\.\n"
+"まだアドバイスを聞きますか？"
+msgstr ""
+
+#. ID 1353, Line 40
+#. Choice (2 options)
+#. ID 1353, Line 126
+#. Choice (2 options)
+msgid ""
+"\\>ＹＥＳ\n"
+"\\>ＮＯ"
+msgstr ""
+
+#. ID 1353, Line 42
+#. ID 1353, Line 128
+msgid ""
+"リーナ：\n"
+"分かりました。\n"
+"それじゃ、続きを話しますね。"
+msgstr ""
+
+#. ID 1353, Line 45
+#. ID 1353, Line 131
+msgid ""
+"リーナ：\n"
+"こほん。"
+msgstr ""
+
+#. ID 1353, Line 47
+#. ID 1353, Line 133
+msgid ""
+"リーナ：\n"
+"何らかの大技を持っている敵と戦う場合は、\n"
+"その大技の発動条件を見つけ出すことも重要です。"
+msgstr ""
+
+#. ID 1353, Line 50
+#. ID 1353, Line 136
+msgid ""
+"リーナ：\n"
+"コンフィグの設定によっては、エネミーデータで\n"
+"ボスの持っている大技の情報を\n"
+"ある程度見る事ができます。"
+msgstr ""
+
+#. ID 1353, Line 54
+#. ID 1353, Line 140
+msgid ""
+"リーナ：\n"
+"大技の発動周期に関しては、大技を使われた直後に\n"
+"エネミーデータで敵の行動ターン数を見てみると\n"
+"大体分かってくるかもしれませんね。"
+msgstr ""
+
+#. ID 1353, Line 58
+#. ID 1353, Line 144
+msgid ""
+"リーナ：\n"
+"あとは、敵の行動パターンの変化を見極められると、\n"
+"もう言う事は無いですね。"
+msgstr ""
+
+#. ID 1353, Line 61
+#. ID 1353, Line 147
+msgid ""
+"リーナ：\n"
+"多くの敵は、残りHPが少なくなるにつれて\n"
+"より強力な攻撃を放つようになるみたいです。"
+msgstr ""
+
+#. ID 1353, Line 64
+#. ID 1353, Line 150
+msgid ""
+"リーナ：\n"
+"それと最後に。\\.\\.\n"
+"月並みですが、レベルを上げるのも一つの手です。\\|\n"
+"レベルさえ上げれば、どんな敵も楽に戦えるでしょう。"
+msgstr ""
+
+#. ID 1353, Line 68
+#. ID 1353, Line 154
+msgid ""
+"リーナ：\n"
+"とはいえ多少レベルが低くても戦略次第で戦えます。\n"
+"その気があれば、頑張って\n"
+"戦略で勝利を掴み取ってみてはいかがでしょうか。"
+msgstr ""
+
+#. ID 1353, Line 72
+#. ID 1353, Line 158
+msgid ""
+"リーナ：\n"
+"私からのアドバイスは以上です。お疲れ様でした。\\.\\.\n"
+"頑張って下さいね。"
+msgstr ""
+
+#. ID 1353, Line 87
+#. Contains choice at line 2 (3 options)
+msgid "リーナ：他に聞きたい事はありますか？"
+msgstr ""
+
+#. ID 1354, Line 240
+msgid "※全員の状態異常耐性が低下！\\|\\^"
+msgstr ""
+
+#. ID 1354, Line 737
+msgid ""
+"\\>※イート･ザ･ミートのATKが29上昇し、\n"
+"\\>　AGL,MOVが1低下！"
+msgstr ""
+
+#. ID 1354, Line 741
+msgid ""
+"※イート･ザ･ミートのATKが29上昇し、\n"
+"　AGL,MOVが1低下！"
+msgstr ""
+
+#. ID 1354, Line 1647
+msgid ""
+"\\>※南紅覇獣の[ATK,CRT,MOV,\n"
+"\\>　　戦闘不能発動率,石化発動率]が上昇！\n"
+"\\>　[ATKWT,DEF,MDF]が低下！\n"
+"\\>　[カウンターアタック]が付加！"
+msgstr ""
+
+#. ID 1354, Line 1653
+msgid ""
+"※南紅覇獣の[ATK,CRT,MOV,\n"
+"　　戦闘不能発動率,石化発動率]が上昇！\n"
+"　[ATKWT,DEF,MDF]が低下！\n"
+"　[カウンターアタック]が付加！"
+msgstr ""
+
+#. ID 1354, Line 1962
+msgid "\\>※ランゲル･ミスゲシュタルトのステータスが変化！"
+msgstr ""
+
+#. ID 1354, Line 1965
+msgid "※ランゲル･ミスゲシュタルトのステータスが変化！"
+msgstr ""
+
+#. ID 1354, Line 1971
+msgid ""
+"\\>※ランゲル･ミスゲシュタルトのステータスが変化！\n"
+"\\>　[再生能力]が付加！"
+msgstr ""
+
+#. ID 1354, Line 1975
+msgid ""
+"※ランゲル･ミスゲシュタルトのステータスが変化！\n"
+"　[再生能力]が付加！"
+msgstr ""
+
+#. ID 1354, Line 2224
+msgid ""
+"\\>※漂流機械巨兵の[ATK,AGL]が上昇！\n"
+"\\>　[カウンターアタック]が付加！"
+msgstr ""
+
+#. ID 1354, Line 2228
+msgid ""
+"※漂流機械巨兵の[ATK,AGL]が上昇！\n"
+"　[カウンターアタック]が付加！"
+msgstr ""
+
+#. ID 1354, Line 2989
+msgid ""
+"ゲオルク：\n"
+"\\S[2]グオオォァアアァアアアァァッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 1354, Line 3027
+msgid ""
+"レイク：\n"
+"\\S[3]ヴェーネ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1354, Line 4445
+msgid "\\>※ランゲル･ミスゲシュタルトはＴＰが足りない！"
+msgstr ""
+
+#. ID 1354, Line 4448
+msgid "※ランゲル･ミスゲシュタルトはＴＰが足りない！"
+msgstr ""
+
+#. ID 1354, Line 4546
+msgid "\\>※ランゲル･ミスゲシュタルトのステータスが低下！"
+msgstr ""
+
+#. ID 1354, Line 4549
+msgid "※ランゲル･ミスゲシュタルトのステータスが低下！"
+msgstr ""
+
+#. ID 1357, Line 54
+msgid "\\v[901]"
+msgstr ""
+
+#. ID 1363, Line 276
+msgid ""
+"\n"
+"              ゲオルク様、万歳ッ!!\\|\\^"
+msgstr ""
+
+#. ID 1363, Line 280
+msgid ""
+"\n"
+"             ローズバーグに栄光あれ!!\\|\\^"
+msgstr ""
+
+#. ID 1364, Line 56
+msgid "\\>※ノーマルアタック以外の全てのコマンドが使用不能！"
+msgstr ""
+
+#. ID 1364, Line 63
+msgid "※ノーマルアタック以外の全てのコマンドが使用不能！"
+msgstr ""
+
+#. ID 1365, Line 108
+msgid ""
+"\n"
+"\n"
+"\n"
+"              \\S[2]世界の総てが儚く崩れる。"
+msgstr ""
+
+#. ID 1365, Line 112
+msgid ""
+"\n"
+"\n"
+"\n"
+"        \\S[2]ふわり、\\.\\.ふわりと、\\.\\.シャボンの様に。"
+msgstr ""
+
+#. ID 1365, Line 116
+msgid ""
+"\n"
+"\n"
+"\n"
+"        \\S[2]ぱちん、\\.\\.ぱちんと、\\.\\.シャボンの様に。"
+msgstr ""
+
+#. ID 1365, Line 120
+msgid ""
+"\\S[2]\n"
+"\n"
+"\n"
+"                 愛も生命も魂も。"
+msgstr ""
+
+#. ID 1365, Line 124
+msgid ""
+"\\S[2]\n"
+"\n"
+"\n"
+"             漂い消えて、\\.\\.漂い消えて。"
+msgstr ""
+
+#. ID 1365, Line 129
+msgid ""
+"\\S[2]\n"
+"\n"
+"\n"
+"          わたし、\\.\\.こんな世界、\\.\\.もういやだ。\\|\\|\\^"
+msgstr ""
+
+#. ID 1365, Line 290
+msgid ""
+"\n"
+"キャサリン：\n"
+"ベネディクタ！\\|\\^"
+msgstr ""
+
+#. ID 1365, Line 293
+msgid ""
+"\n"
+"キャサリン：\n"
+"お願いベネディクタ！ \\|眼を開けて！\\|\\^"
+msgstr ""
+
+#. ID 1365, Line 297
+msgid ""
+"\n"
+"             \\S[3]いやァァァァァァァーッ!!\\|\\|\\^"
+msgstr ""
+
+#. ID 1365, Line 338
+msgid ""
+"ハウゼン：\n"
+"ベネディクタ様！\\|\\^"
+msgstr ""
+
+#. ID 1365, Line 344
+msgid ""
+"キャサリン：\n"
+"これは…\\.\\.ハウゼン…？\\|\\^"
+msgstr ""
+
+#. ID 1365, Line 346
+msgid ""
+"キャサリン：\n"
+"ペンダントに込められた、ハウゼンの残留思念…！"
+msgstr ""
+
+#. ID 1365, Line 350
+msgid ""
+"ハウゼン：\n"
+"ベネディクタ様。\\|\n"
+"貴方は何故あの時、逝ってしまわれたのです？"
+msgstr ""
+
+#. ID 1365, Line 353
+msgid ""
+"ハウゼン：\n"
+"貴方はご存じだったのでしょう？"
+msgstr ""
+
+#. ID 1365, Line 355
+msgid ""
+"ハウゼン：\n"
+"私が朝一番の見回りで、\n"
+"あの大きな木の場所を通り掛るのを。"
+msgstr ""
+
+#. ID 1365, Line 358
+msgid ""
+"ハウゼン：\n"
+"だから貴方は、\\.\\.あの木で生命を絶たれたのでしょう？"
+msgstr ""
+
+#. ID 1365, Line 361
+msgid ""
+"ハウゼン：\n"
+"………はい。\\|全てはお望みのままに。"
+msgstr ""
+
+#. ID 1365, Line 363
+msgid ""
+"ハウゼン：\n"
+"貴方の亡骸は…。\\|\n"
+"この私が、丁重に下に降ろさせて頂きました。"
+msgstr ""
+
+#. ID 1365, Line 366
+msgid ""
+"ハウゼン：\n"
+"朝もやの中で、私達の二人だけ…。\\|\n"
+"最後の時を過ごさせて頂きました。"
+msgstr ""
+
+#. ID 1365, Line 370
+msgid ""
+"ハウゼン：\n"
+"貴方の身体は、\\.\\.あんなにも重かったのですね。"
+msgstr ""
+
+#. ID 1365, Line 372
+msgid ""
+"ハウゼン：\n"
+"この前まで小さかった筈なのに、\\.\\.\n"
+"何時の間にやら、大きくなられたのですね。"
+msgstr ""
+
+#. ID 1365, Line 375
+msgid ""
+"ハウゼン：\n"
+"そして何より…。\\|\\^"
+msgstr ""
+
+#. ID 1365, Line 378
+msgid ""
+"ハウゼン：\n"
+"この前まで温かかった貴方の手が…。\\|\n"
+"何時の間にやら、\\.\\.あんなにも冷たくなって…。"
+msgstr ""
+
+#. ID 1365, Line 382
+msgid ""
+"ハウゼン：\n"
+"今の貴方は、\\.\\.まるで子供の頃の御姿にそっくりです。"
+msgstr ""
+
+#. ID 1365, Line 384
+msgid ""
+"ハウゼン：\n"
+"そして何故その御姿なのか…。\\|\n"
+"私には、おぼろげながら察しが付いております。"
+msgstr ""
+
+#. ID 1365, Line 387
+msgid ""
+"ハウゼン：\n"
+"ならば、恐縮ながら一つ、\n"
+"お願いを申し上げて宜しいでしょうか？"
+msgstr ""
+
+#. ID 1365, Line 391
+msgid ""
+"ハウゼン：\n"
+"私の身体は、この通り生身ではございません。"
+msgstr ""
+
+#. ID 1365, Line 393
+msgid ""
+"ハウゼン：\n"
+"詰まる所、涙を流す機能が実装されていない訳です。"
+msgstr ""
+
+#. ID 1365, Line 396
+msgid ""
+"ハウゼン：\n"
+"泣くに泣けない状況というのは、\n"
+"これまた中々に難儀なものでございまして。"
+msgstr ""
+
+#. ID 1365, Line 399
+msgid ""
+"ハウゼン：\n"
+"どうかその点、宜しければ御高配を賜りたく存じます。"
+msgstr ""
+
+#. ID 1365, Line 402
+msgid ""
+"ハウゼン：\n"
+"\\S[3]ベネディクタ様。\\|\\^"
+msgstr ""
+
+#. ID 1365, Line 404
+msgid ""
+"ハウゼン：\n"
+"\\S[3]貴方の優しい声が、\\.\\.私は大好きです。\\|\\|\\^"
+msgstr ""
+
+#. ID 1365, Line 406
+msgid ""
+"ハウゼン：\n"
+"\\S[3]また何時か、\\.\\.聞かせて頂けますか？\\|\\|\\^"
+msgstr ""
+
+#. ID 1365, Line 412
+msgid ""
+"\n"
+"              \\S[3]ありがとう、\\.\\.ハウゼン。\\|\\^"
+msgstr ""
+
+#. ID 1370, Line 152
+msgid ""
+"\\>※タクティカルスフィア『オールグリーン』の\n"
+"\\>  効果が消滅した！"
+msgstr ""
+
+#. ID 1370, Line 156
+msgid ""
+"※タクティカルスフィア『オールグリーン』の\n"
+"  効果が消滅した！"
+msgstr ""
+
+#. ID 1371, Line 66
+msgid "\\>※全員のAGLが減少！"
+msgstr ""
+
+#. ID 1371, Line 69
+msgid "※全員のAGLが減少！"
+msgstr ""
+
+#. ID 1372, Line 59
+msgid "\\>※全員の不利状態防御率が0％になった！"
+msgstr ""
+
+#. ID 1372, Line 62
+msgid "※全員の不利状態防御率が0％になった！"
+msgstr ""
+
+#. ID 1372, Line 124
+msgid "\\>※美味しそうな匂いが辺りに漂う…。"
+msgstr ""
+
+#. ID 1372, Line 131
+msgid "※美味しそうな匂いが辺りに漂う…。"
+msgstr ""
+
+#. ID 1380, Line 122
+msgid "\\>※所持金の下４桁と同値ダメージ！"
+msgstr ""
+
+#. ID 1380, Line 125
+msgid "※所持金の下４桁と同値ダメージ！"
+msgstr ""
+
+#. ID 1380, Line 207
+msgid "\\>※キャラの年齢×100のダメージ！"
+msgstr ""
+
+#. ID 1380, Line 210
+msgid "※キャラの年齢×100のダメージ！"
+msgstr ""
+
+#. ID 1380, Line 269
+msgid "\\>※レベルが２の倍数のキャラの全有利状態を相殺！"
+msgstr ""
+
+#. ID 1380, Line 272
+msgid "※レベルが２の倍数のキャラの全有利状態を相殺！"
+msgstr ""
+
+#. ID 1380, Line 550
+msgid "\\>※レベルが３の倍数のキャラにコンフューズ！"
+msgstr ""
+
+#. ID 1380, Line 553
+msgid "※レベルが３の倍数のキャラにコンフューズ！"
+msgstr ""
+
+#. ID 1380, Line 676
+msgid "\\>※レベルが４の倍数のキャラのHPが1/4になる！"
+msgstr ""
+
+#. ID 1380, Line 679
+msgid "※レベルが４の倍数のキャラのHPが1/4になる！"
+msgstr ""
+
+#. ID 1380, Line 765
+msgid "\\>※レベルが５の倍数のキャラにデッドエンド！"
+msgstr ""
+
+#. ID 1380, Line 768
+msgid "※レベルが５の倍数のキャラにデッドエンド！"
+msgstr ""
+
+#. ID 1380, Line 980
+msgid "\\>※この戦闘での累計パスＷＴに比例するダメージ！"
+msgstr ""
+
+#. ID 1380, Line 983
+msgid "※この戦闘での累計パスＷＴに比例するダメージ！"
+msgstr ""
+
+#. ID 1380, Line 1324
+msgid "\\>※全員の自動復活状態が打ち消された！"
+msgstr ""
+
+#. ID 1380, Line 1327
+msgid "※全員の自動復活状態が打ち消された！"
+msgstr ""
+
+#. ID 1381, Line 9
+msgid ""
+"エンデ：\n"
+"何やってんだい？\\.\\.\n"
+"意地でも倒すんじゃなかったっけ？"
+msgstr ""
+
+#. ID 1381, Line 13
+#. ID 1381, Line 50
+msgid ""
+"エンデ：\n"
+"それとも、余りの力の差に\n"
+"自分の発言を後悔してるとか…？"
+msgstr ""
+
+#. ID 1381, Line 17
+#. ID 1381, Line 22
+#. ID 1381, Line 27
+#. ID 1381, Line 32
+msgid ""
+"レイク：\n"
+"うるさい！\\.\\. 黙れッ！"
+msgstr ""
+
+#. ID 1381, Line 46
+msgid ""
+"エンデ：\n"
+"何やってんだい？\\|\n"
+"意地でも倒すんじゃなかったっけ？"
+msgstr ""
+
+#. ID 1381, Line 54
+#. ID 1381, Line 59
+#. ID 1381, Line 64
+#. ID 1381, Line 69
+msgid ""
+"レイク：\n"
+"うるさい！\\| 黙れッ！\\|\\^"
+msgstr ""
+
+#. ID 1381, Line 105
+msgid ""
+"エンデ：\n"
+"あ～あ。\\.\\.\n"
+"何だか詰まんないや。"
+msgstr ""
+
+#. ID 1381, Line 110
+msgid ""
+"エンデ：\n"
+"もう良いよ、\\.\\.イルムガルト。\\|\\^"
+msgstr ""
+
+#. ID 1381, Line 112
+msgid ""
+"エンデ：\n"
+"\\S[2]殺しちゃえ。\\|\\^"
+msgstr ""
+
+#. ID 1381, Line 464
+msgid "\\>※八岐の狂乱状態防御率が元に戻った！"
+msgstr ""
+
+#. ID 1381, Line 467
+msgid "※八岐の狂乱状態防御率が元に戻った！"
+msgstr ""
+
+#. ID 1381, Line 530
+msgid ""
+"マハト：\n"
+"やるではないか！\\|\n"
+"だが此方とて負ける訳には行かぬ！"
+msgstr ""
+
+#. ID 1381, Line 533
+msgid ""
+"マハト：\n"
+"ならば今こそ、我が奥義の前に屈せよッ！"
+msgstr ""
+
+#. ID 1381, Line 538
+msgid ""
+"マハト：\n"
+"我は力を持つ者なり…！\\|\n"
+"力の理を力にて操る者なり…！"
+msgstr ""
+
+#. ID 1381, Line 541
+msgid ""
+"マハト：\n"
+"然に在らば、我が肉体…！\\|\n"
+"万撃を撥ねる金剛なる事、是を能うなりッ！"
+msgstr ""
+
+#. ID 1381, Line 544
+msgid ""
+"マハト：\n"
+"秘奥義、\\.\\.\"金剛之構\"！\\|\\^"
+msgstr ""
+
+#. ID 1381, Line 554
+msgid ""
+"マハト：\n"
+"今ッ！ \\.\\.我が肉体は金剛にも等しい！"
+msgstr ""
+
+#. ID 1381, Line 556
+msgid ""
+"マハト：\n"
+"この絶対無敵の防御ッ！\\|\n"
+"崩せるものなら崩してみよッ！"
+msgstr ""
+
+#. ID 1381, Line 730
+msgid ""
+"\\>※バルバラ･モーガンの[DEF,MOV,全属性耐性]が上昇！\n"
+"\\>　[フィールド破属性変異]が付加！\n"
+"\\>　[カウンターアタック]が付加！"
+msgstr ""
+
+#. ID 1381, Line 735
+msgid ""
+"※バルバラ･モーガンの[DEF,MOV,全属性耐性]が上昇！\n"
+"　[フィールド破属性変異]が付加！\n"
+"　[カウンターアタック]が付加！"
+msgstr ""
+
+#. ID 1381, Line 902
+msgid ""
+"\\>※バルバラ･モーガンの\n"
+"\\>　[DEF,MOV,天･破属性耐性]が低下！"
+msgstr ""
+
+#. ID 1381, Line 906
+msgid ""
+"※バルバラ･モーガンの[DEF,天･破属性耐性]が低下！\n"
+"　[DEF,MOV,天･破属性耐性]が低下！"
+msgstr ""
+
+#. ID 1381, Line 1111
+msgid ""
+"\\>※バルバラ･モーガンの[フォース状態]が解除！\n"
+"\\>　[DEF,MDF,MOV,天･破属性耐性]が低下！"
+msgstr ""
+
+#. ID 1381, Line 1115
+msgid ""
+"※バルバラ･モーガンの[フォース状態]が解除！\n"
+"　[DEF,MDF,MOV,天･破属性耐性]が低下！"
+msgstr ""
+
+#. ID 1381, Line 1122
+msgid ""
+"\\>　バルバラ･モーガンの\n"
+"\\>　[DEF,MDF,MOV,天･破属性耐性]が低下！"
+msgstr ""
+
+#. ID 1381, Line 1126
+msgid ""
+"　バルバラ･モーガンの\n"
+"　[DEF,MDF,MOV,天･破属性耐性]が低下！"
+msgstr ""
+
+#. ID 1381, Line 1209
+msgid ""
+"キャサリン：\n"
+"そんな…！\\| 核が破壊できない…!?\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1381, Line 1211
+msgid ""
+"キャサリン：\n"
+"破壊すら許さず、永遠に形を留めるなんて…！\\|\n"
+"一体どれだけの絶望や悲しみが…！"
+msgstr ""
+
+#. ID 1381, Line 1217
+msgid ""
+"キャサリン：\n"
+"皆さん！ \\|私の言う事をよく聞いてください！"
+msgstr ""
+
+#. ID 1381, Line 1219
+msgid ""
+"キャサリン：\n"
+"第三者がこの核を破壊する事は不可能です！\\|\n"
+"ですがまだ勝機はあります！"
+msgstr ""
+
+#. ID 1381, Line 1222
+#. ID 1381, Line 1248
+msgid ""
+"キャサリン：\n"
+"核を自壊させるのです！"
+msgstr ""
+
+#. ID 1381, Line 1224
+#. ID 1381, Line 1250
+msgid ""
+"キャサリン：\n"
+"こちらから破壊せずとも、\n"
+"向こうに自壊させれば、結果は同じ！"
+msgstr ""
+
+#. ID 1381, Line 1227
+#. ID 1381, Line 1253
+msgid ""
+"キャサリン：\n"
+"今ならば核の力が弱まっているので、\n"
+"ベネディクタを道連れにされずに済むかもしれません！"
+msgstr ""
+
+#. ID 1381, Line 1230
+msgid ""
+"キャサリン：\n"
+"この方法に賭けましょう！\\|\n"
+"核を自壊させるのです！"
+msgstr ""
+
+#. ID 1381, Line 1235
+msgid ""
+"キャサリン：\n"
+"そんな…！ 核が破壊できない…!?"
+msgstr ""
+
+#. ID 1381, Line 1237
+msgid ""
+"キャサリン：\n"
+"破壊すら許さず、永遠に形を留めるなんて…！\n"
+"一体どれだけの絶望や悲しみが…！"
+msgstr ""
+
+#. ID 1381, Line 1243
+msgid ""
+"キャサリン：\n"
+"皆さん！ 私の言う事をよく聞いてください！"
+msgstr ""
+
+#. ID 1381, Line 1245
+msgid ""
+"キャサリン：\n"
+"第三者がこの核を破壊する事は不可能です！\n"
+"ですがまだ勝機はあります！"
+msgstr ""
+
+#. ID 1381, Line 1256
+msgid ""
+"キャサリン：\n"
+"この方法に賭けましょう！\n"
+"核を自壊させるのです！"
+msgstr ""
+
+#. ID 1381, Line 1449
+msgid ""
+"\\>＞オーバーヒートエラー。\n"
+"\\>＞自爆システム起動。"
+msgstr ""
+
+#. ID 1381, Line 1453
+msgid ""
+"＞オーバーヒートエラー。\n"
+"＞自爆システム起動。"
+msgstr ""
+
+#. ID 1381, Line 1730
+msgid "\\>※メンバー全員の破属性耐性が低下！"
+msgstr ""
+
+#. ID 1381, Line 1733
+msgid "※メンバー全員の破属性耐性が低下！"
+msgstr ""
+
+#. ID 1381, Line 1837
+msgid ""
+"\\>※ゲルトラウト･ゲオルクの[ATK,AGL]が上昇！\n"
+"\\>　[ATKWT,DEF,MDF]が低下！\n"
+"\\>　[カウンターアタック]が付加！"
+msgstr ""
+
+#. ID 1381, Line 1842
+msgid ""
+"※ゲルトラウト･ゲオルクの[ATK,AGL]が上昇！\n"
+"　[ATKWT,DEF,MDF]が低下！\n"
+"　[カウンターアタック]が付加！"
+msgstr ""
+
+#. ID 1382, Line 53
+msgid ""
+"\\>\\v[4832]\n"
+"\\>\\v[521]"
+msgstr ""
+
+#. ID 1382, Line 356
+msgid "\\>※地脈が振動している。"
+msgstr ""
+
+#. ID 1382, Line 359
+msgid "※地脈が振動している。"
+msgstr ""
+
+#. ID 1382, Line 366
+msgid "\\>※マクダレーネの動きが鈍くなった！"
+msgstr ""
+
+#. ID 1382, Line 369
+msgid "※マクダレーネの動きが鈍くなった！"
+msgstr ""
+
+#. ID 1382, Line 375
+msgid "\\>※ロスヴィータの動きが鈍くなった！"
+msgstr ""
+
+#. ID 1382, Line 378
+msgid "※ロスヴィータの動きが鈍くなった！"
+msgstr ""
+
+#. ID 1382, Line 443
+msgid "\\>※マクダレーネの形態を解除させた！"
+msgstr ""
+
+#. ID 1382, Line 446
+msgid "※マクダレーネの形態を解除させた！"
+msgstr ""
+
+#. ID 1382, Line 472
+msgid "\\>※ロスヴィータの形態を解除させた！"
+msgstr ""
+
+#. ID 1382, Line 475
+msgid "※ロスヴィータの形態を解除させた！"
+msgstr ""
+
+#. ID 1382, Line 1953
+msgid ""
+"\\>※エンデの[ATK,MEN]が上昇！\n"
+"\\>　[DEF,MDF]が低下！\n"
+"\\>　[病気]状態発動率が上昇！"
+msgstr ""
+
+#. ID 1382, Line 1958
+msgid ""
+"※エンデの[ATK,MEN]が上昇！\n"
+"　[DEF,MDF]が低下！\n"
+"　[病気]状態発動率が上昇！"
+msgstr ""
+
+#. ID 1382, Line 2629
+#. ID 1382, Line 2686
+msgid "\\>※風のエレメントに空間が反応している！"
+msgstr ""
+
+#. ID 1382, Line 2632
+#. ID 1382, Line 2689
+msgid "※風のエレメントに空間が反応している！"
+msgstr ""
+
+#. ID 1383, Line 1760
+#. ID 1383, Line 1773
+msgid "\\>※\\n[1]が消滅させられた！"
+msgstr ""
+
+#. ID 1383, Line 1763
+#. ID 1383, Line 1776
+msgid "※\\n[1]が消滅させられた！"
+msgstr ""
+
+#. ID 1383, Line 2130
+msgid ""
+"\\>※タクティカルスフィア『オールグリーン』の\n"
+"\\>　効果が消滅した！"
+msgstr ""
+
+#. ID 1383, Line 2134
+msgid ""
+"※タクティカルスフィア『オールグリーン』の\n"
+"　効果が消滅した！"
+msgstr ""
+
+#. ID 1383, Line 2147
+msgid ""
+"\\>※タクティカルスフィア『トゥワイスインヴェスト』の\n"
+"\\>　効果が消滅した！"
+msgstr ""
+
+#. ID 1383, Line 2151
+msgid ""
+"※タクティカルスフィア『トゥワイスインヴェスト』の\n"
+"　効果が消滅した！"
+msgstr ""
+
+#. ID 1383, Line 2162
+msgid ""
+"\\>※タクティカルスフィア\n"
+"\\>　『トゥワイスインヴェストＳ』の効果が消滅した！"
+msgstr ""
+
+#. ID 1383, Line 2166
+msgid ""
+"※タクティカルスフィア\n"
+"　『トゥワイスインヴェストＳ』の効果が消滅した！"
+msgstr ""
+
+#. ID 1383, Line 2684
+msgid ""
+"\\>※イーヴル･ディザスティアの\n"
+"\\>　[ATK,DEF,MDF,AGL]の一部が\n"
+"\\>　各ディザスターフォースの能力として分与された！"
+msgstr ""
+
+#. ID 1383, Line 2689
+msgid ""
+"※イーヴル･ディザスティアの\n"
+"　[ATK,DEF,MDF,AGL]の一部が\n"
+"　各ディザスターフォースの能力として分与された！"
+msgstr ""
+
+#. ID 1384, Line 22
+#. Choice (2 options)
+msgid ""
+"\\>EXP\n"
+"\\>アイテム"
+msgstr ""
+
+#. ID 1384, Line 123
+msgid "\\>\\v[4838]"
+msgstr ""
+
+#. ID 1385, Line 2
+#. Choice (4 options)
+msgid ""
+"\\>A\n"
+"\\>B\n"
+"\\>C\n"
+"\\>D"
+msgstr ""
+
+#. ID 1390, Line 444
+msgid ""
+"\\>※イーヴル･ディザスティアのステータスが強化！\n"
+"\\>　[カウンターアタック]が付加！"
+msgstr ""
+
+#. ID 1390, Line 448
+msgid ""
+"※イーヴル･ディザスティアのステータスが強化！\n"
+"　[カウンターアタック]が付加！"
+msgstr ""
+
+#. ID 1391, Line 2
+msgid ""
+"\\>リカバリ\n"
+"\\>★★★★★★★★★★★★★★★★★★★★★★★★"
+msgstr ""
+
+#. ID 1392, Line 114
+msgid ""
+"\\>※現在、この領域では\n"
+"\\>　ヴェーネに「天翼のデスティンド」を\n"
+"\\>　装備させる事はできません。\n"
+"\\>　「天翼のデスティンド」の装備が解除されました。"
+msgstr ""

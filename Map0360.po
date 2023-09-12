@@ -1,0 +1,408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"迎撃するなら此処か…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 12, Pos (0,0)
+msgid ""
+"レイク：\n"
+"大差無いと思うがな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 14, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"良いんだよ。\\.\\.気は心だ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]さてと…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 50, Pos (0,0)
+#. ID 8, Page 2, Line 32, Pos (0,0)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"また地震か…!?\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 58, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ちょっと…！ \\|この地震おかしいよ…！\\|\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"全然、止まる気配が無い…！\\|\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"おい！ \\.\\.マジで止まんねーぞ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 73, Pos (0,0)
+msgid ""
+"レイク：\n"
+"如何成ってるんだ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 7, Pos (0,0)
+msgid ""
+"レイク：\n"
+"収まったか…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 9, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"長い揺れだったね…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 11, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"長過ぎるわ、\\.\\.幾ら何でも。"
+msgstr ""
+
+#. ID 8, Page 2, Line 16, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"どうも…\\.\\.普通の地震じゃなさそうだな…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 30, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"大変よッ！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 37, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アンタ…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 39, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"オーウェンの所に行ったんじゃないのか…？"
+msgstr ""
+
+#. ID 8, Page 2, Line 41, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それならもう良いの。\\.\\.\n"
+"オーウェン達は撤収を始めたわ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 47, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[3]撤収…？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 49, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まさか奇跡が起きたとでも？"
+msgstr ""
+
+#. ID 8, Page 2, Line 54, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"如何いう事なの…？"
+msgstr ""
+
+#. ID 8, Page 2, Line 60, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"つい先刻、\\.\\.デイジーから\n"
+"国家緊急事態宣言が出されたのよ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 63, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"さっきの地震か？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 65, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうよ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 70, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"さっきのは只の地震ではない…。\\|\n"
+"或る異変に依って引き起こされた物なの。"
+msgstr ""
+
+#. ID 8, Page 2, Line 73, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"異変…？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 79, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]消滅したのよ。\\|天空境界が。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 3, Line 33, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"在り得るわね…。\\.\\.\n"
+"エイブラムが首謀者…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 39, Pos (0,0)
+#. ID 8, Page 3, Line 172, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ならば何時かの様に行ってみようかしら。"
+msgstr ""
+
+#. ID 8, Page 3, Line 41, Pos (0,0)
+#. ID 8, Page 3, Line 174, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"カオス救世会本部へ。\\.\\.\n"
+"エイブラムと面会する為に。"
+msgstr ""
+
+#. ID 8, Page 3, Line 50, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"一応デイジーに全て報告しておいた。\\|\n"
+"緊急対策委員会を設置し全力で対処するって。"
+msgstr ""
+
+#. ID 8, Page 3, Line 53, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"御免なさいね。\\.\\.\n"
+"反逆やらラージュやらの後始末で、忙しいでしょう？"
+msgstr ""
+
+#. ID 8, Page 3, Line 56, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"確かにね。\\.\\.\n"
+"今もバタバタしてて人手不足だし。"
+msgstr ""
+
+#. ID 8, Page 3, Line 59, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それに…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 3, Line 62, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"………ッ！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 3, Line 67, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それに？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 3, Line 70, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ああ…\\.\\.何でもないの。\\|\n"
+"私の勘違い。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 3, Line 76, Pos (0,0)
+#. ID 8, Page 3, Line 135, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 3, Line 82, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でもそう成ると、\n"
+"余り任せ切りにも出来ないわね。"
+msgstr ""
+
+#. ID 8, Page 3, Line 85, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"最も身軽な私達が動かないと。"
+msgstr ""
+
+#. ID 8, Page 3, Line 87, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"何か思い当たる所は？"
+msgstr ""
+
+#. ID 8, Page 3, Line 89, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"正直言って。\\|色々考えてはいるけれど。"
+msgstr ""
+
+#. ID 8, Page 3, Line 94, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"先ず考えるべきは、やはり彼らの動機よね。"
+msgstr ""
+
+#. ID 8, Page 3, Line 96, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"実行者に成った以上、\n"
+"やはりこの星を\"殺す\"のが目的では？"
+msgstr ""
+
+#. ID 8, Page 3, Line 102, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"星を殺す…。\\|世界が終わる…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 104, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"エンデ以外に、\\.\\.\n"
+"この世界の滅亡を望んでいる存在…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 107, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"態々エンデを倒してまでも、\\.\\.\n"
+"自分達の手で世界を滅亡させたいと願う存在…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 113, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"記憶に無いわね…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 115, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"嘗てのモーガンやゲオルクも、\\.\\.\n"
+"世界の支配は望んでも滅亡は望んでいなかった…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 121, Pos (0,0)
+#. ID 8, Page 3, Line 128, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 3, Line 123, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"やはり未知の勢力…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 133, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"待って。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 3, Line 137, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"疑わしいのが一人居るわ。"
+msgstr ""
+
+#. ID 8, Page 3, Line 143, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"エイブラムよ。\\|\n"
+"カオス救世会会長エイブラム。"
+msgstr ""
+
+#. ID 8, Page 3, Line 146, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"生そのものを苦しみとし、世界の終末＜カオス＞を\n"
+"以って唯一の救いとする厭世の極論、カオス救世論。"
+msgstr ""
+
+#. ID 8, Page 3, Line 149, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それを頑なに信じるカオス救世会。"
+msgstr ""
+
+#. ID 8, Page 3, Line 151, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"世界の滅亡を望む者達よ。"
+msgstr ""
+
+#. ID 8, Page 3, Line 156, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"在り得るわね…。\\|\n"
+"エイブラムが首謀者…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 159, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ガイアキャンサーの実行者に成り、\n"
+"更にはディザスティアの核をも手に入れて、\n"
+"待ち焦がれた世界の滅亡を自らの手でもたらす…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 163, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"あの人を食った性格。\\.\\.彼ならやりかねないわ。"
+msgstr ""
+
+#. ID 8, Page 3, Line 165, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"実際彼にエンデを倒すだけの力が有ったか如何かは\n"
+"疑問が残るけれど、何らかの形で関与している\n"
+"可能性は高い筈。"
+msgstr ""
+

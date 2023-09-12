@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ふぅ…。\\|\n"
+"今日は色んな事が在り過ぎたわね…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"私達…。\\|\n"
+"これから如何成るのかしら…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"この森を抜けて。\\|\n"
+"恐らく政府軍に拘束されて。"
+msgstr ""
+
+#. ID 3, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリスは…\\|如何扱われるのか…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"オーグか…。\\|\n"
+"アカデミーか…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"或いは別の何か…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[3]おネエちゃん…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリス…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[3]泣いてるんだ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そうよね…。\\|\n"
+"私は貴女の事を何も知らない…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"どんな歪んだ道を歩み…。\\|\n"
+"そしてどんな痛みを胸に刻んで来たのか…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"でも、\\.\\.それはいずれ知れば良い事。"
+msgstr ""
+
+#. ID 3, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"それよりも今この時、\\.\\.\n"
+"何をも知らぬこの身でも言える事。"
+msgstr ""
+
+#. ID 3, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[3]貴女を…\\|守りたい。\\|\\^"
+msgstr ""
+

@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 5, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"まったく…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 7, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"今は一刻も早く\n"
+"モーガンから城を取り戻さなくてはならないのだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 10, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"それをゲオルクからの攻撃警戒の為に\n"
+"アームズまで借り出されるとは…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 13, Pos (0,0)
+msgid ""
+"後ろの部下：\n"
+"いっそボイコットしては？"
+msgstr ""
+
+#. ID 6, Page 1, Line 15, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"駄目だ、\\.\\.時期が早過ぎる。"
+msgstr ""
+
+#. ID 6, Page 1, Line 17, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"今はまだ奴に付き従う振りをして、\n"
+"水面下で兵を集めなくては。"
+msgstr ""
+
+#. ID 6, Page 1, Line 26, Pos (0,0)
+msgid ""
+"兵士：\n"
+"報告します。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 28, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"うむ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 30, Pos (0,0)
+msgid ""
+"兵士：\n"
+"先程ロビン秘密工場を飛び立ったと思われる船は\n"
+"航路を維持しつつ引き続き飛行。"
+msgstr ""
+
+#. ID 6, Page 1, Line 33, Pos (0,0)
+msgid ""
+"兵士：\n"
+"間も無くフェジテ空域に入り、\n"
+"此処の上空に差し掛かるものと推測されます。"
+msgstr ""
+
+#. ID 6, Page 1, Line 36, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"相変わらず一機だけか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 38, Pos (0,0)
+msgid ""
+"兵士：\n"
+"はい、\\.\\.一機しか確認出来ておりません。"
+msgstr ""
+
+#. ID 6, Page 1, Line 40, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"他の船の様子は？"
+msgstr ""
+
+#. ID 6, Page 1, Line 42, Pos (0,0)
+msgid ""
+"兵士：\n"
+"例の大爆発を切っ掛けに撤退。\n"
+"工場に停泊したまま動く様子は見られません。"
+msgstr ""
+
+#. ID 6, Page 1, Line 48, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"妙だな…。\\|\n"
+"たった一機だけ飛ばして何をする気だ…？"
+msgstr ""
+
+#. ID 6, Page 1, Line 54, Pos (0,0)
+msgid ""
+"兵士：\n"
+"指令。\\.\\.御命令を。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 59, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 61, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"デイジー18･19･20を発進。\n"
+"ストラテジーＳで問題の船の包囲準備を。"
+msgstr ""
+
+#. ID 6, Page 1, Line 64, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"但し此方からの攻撃は行うな。\\.\\.\n"
+"向こうからの攻撃が在った場合のみ反撃を行え。"
+msgstr ""
+
+#. ID 6, Page 1, Line 67, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"その際も不時着を狙い、撃墜は避ける事。"
+msgstr ""
+
+#. ID 6, Page 1, Line 69, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"以上だ。\\.\\.直ぐに取り掛かれ。"
+msgstr ""
+
+#. ID 6, Page 2, Line 6, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"成る程。\\.\\.良く分かった。"
+msgstr ""
+
+#. ID 6, Page 2, Line 8, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"包囲突破時の妙に洗練された挙動は、\n"
+"奴らが開発した高性能自動回避システム…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 11, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"そしてその直後からの不規則な挙動は、\n"
+"システムエラーに依る物だったという訳だな。"
+msgstr ""
+
+#. ID 6, Page 2, Line 14, Pos (0,0)
+msgid ""
+"兵士：\n"
+"デイジー機担当のエンジニアの話では、\n"
+"その可能性が最も高いとの事です。"
+msgstr ""
+
+#. ID 6, Page 2, Line 17, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"しかし何という粗末な結果だ。\\|\n"
+"一時は自爆攻撃も危惧していたのが馬鹿らしい。"
+msgstr ""
+
+#. ID 6, Page 2, Line 20, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"乗っていたのは素人か？"
+msgstr ""
+
+#. ID 6, Page 2, Line 22, Pos (0,0)
+msgid ""
+"兵士：\n"
+"恐らく。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 24, Pos (0,0)
+msgid ""
+"兵士：\n"
+"何から何まで全てオートに任せ切り。\\.\\.\n"
+"訓練も碌に受けていない、素人の運行の典型だと。"
+msgstr ""
+
+#. ID 6, Page 2, Line 30, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"それで？ \\.\\.現場の確認は出来そうか？"
+msgstr ""
+
+#. ID 6, Page 2, Line 32, Pos (0,0)
+msgid ""
+"兵士：\n"
+"場所が場所ですので…。\\.\\.\n"
+"低空飛行での現場目視が限界だと…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 35, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"だろうな。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 37, Pos (0,0)
+msgid ""
+"兵士：\n"
+"しかし機体に目立った損傷は認められませんので、\n"
+"乗員が死亡している可能性は低いでしょう。"
+msgstr ""
+
+#. ID 6, Page 2, Line 40, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"それだけが幸いだな。\\.\\.\n"
+"彼らには訊きたい事が山程在る。"
+msgstr ""
+
+#. ID 6, Page 2, Line 43, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"本来ならば黒獅子の背中になど乗る筈の無い、\n"
+"その\"素人連中\"にな。"
+msgstr ""
+
+#. ID 6, Page 2, Line 49, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"しかし、選りにも選って\n"
+"難儀な所に不時着して呉れたものだ。"
+msgstr ""
+
+#. ID 6, Page 2, Line 52, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"この忙しい時に\n"
+"余計な仕事ばかり増やしおって…。"
+msgstr ""
+

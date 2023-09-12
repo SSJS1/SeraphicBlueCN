@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]ハウゼン…。\\|生きてたのね…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"済まないが、\\.\\.何方様かな？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 43, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"おい…！ \\|何言ってんのさ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 45, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"この再会の場面でそんな…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 50, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[2]アンタ…。\\|まさか記憶が…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 55, Pos (0,0)
+msgid ""
+"女性：\n"
+"ねえ貴女達。\n"
+"若しかして彼の知り合い？"
+msgstr ""
+
+#. ID 8, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"えっ…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 60, Pos (0,0)
+msgid ""
+"女性：\n"
+"実は彼ね、少し前にこの近くの森で\n"
+"大怪我して倒れてた所を助けられたの。"
+msgstr ""
+
+#. ID 8, Page 1, Line 63, Pos (0,0)
+msgid ""
+"女性：\n"
+"まるで爆発に巻き込まれた様な酷い状態だったけど、\n"
+"マジックドールだった事も在って一命を取り留めたわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 66, Pos (0,0)
+msgid ""
+"女性：\n"
+"でも怪我をした時の衝撃の所為かしら、\n"
+"記憶が全部消えてしまってるのよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]記憶が…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 78, Pos (0,0)
+msgid ""
+"女性：\n"
+"貴女達、余所の人でしょう？\\|\n"
+"若しかしてこの人を探しに来たとか…？"
+msgstr ""
+
+#. ID 8, Page 1, Line 84, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"いいえ…。\\|\n"
+"此処にはちょっと立ち寄っただけ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 87, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼が…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 91, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼が昔生き別れた知人にとても良く似てたもので、\n"
+"つい大袈裟な事を…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"御免なさい。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 99, Pos (0,0)
+msgid ""
+"女性：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 105, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼、子供の扱い上手なのね。\\|\n"
+"まるで御父さんみたい。"
+msgstr ""
+
+#. ID 8, Page 1, Line 109, Pos (0,0)
+msgid ""
+"女性：\n"
+"本当。\\|きっと村で一番上手よ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 111, Pos (0,0)
+msgid ""
+"女性：\n"
+"此処に来る以前は\n"
+"ベビーシッターでも受け持ってたのかもね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 117, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ…。\\|私もそう思うわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"この子達は幸せね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 125, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それじゃあ、私達はこれで。"
+msgstr ""
+
+#. ID 8, Page 1, Line 127, Pos (0,0)
+msgid ""
+"女性：\n"
+"道中気を付けて。"
+msgstr ""
+
+#. ID 8, Page 1, Line 136, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 145, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"待って呉れ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"御嬢さん。\\|\n"
+"君に受け取って欲しい物が有る。"
+msgstr ""
+
+#. ID 8, Page 1, Line 156, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]私に…？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 165, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"これを君に。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 175, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"何故…？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 177, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"私にも分からない。"
+msgstr ""
+
+#. ID 8, Page 1, Line 179, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"だが渡さねばならないと感じたのだ。\\|\n"
+"まるで記憶の奥底から湧き上がる様に。"
+msgstr ""
+
+#. ID 8, Page 1, Line 185, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"有難う。\\|大事にする。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 187, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"君の道に光を。"
+msgstr ""
+
+#. ID 8, Page 1, Line 189, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"強く生きるのだぞ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 194, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ…。\\|さようなら。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 203, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"良いんだね？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 208, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 213, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"フェジテセイヴァー･ハウゼン。"
+msgstr ""
+
+#. ID 8, Page 1, Line 215, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"依然としてその消息は不明で、\n"
+"彼の任務復帰は極めて困難だと思われる。"
+msgstr ""
+
+#. ID 8, Page 1, Line 218, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"依って女王の名の下に、彼を正式に解任する。"
+msgstr ""
+
+#. ID 8, Page 1, Line 220, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"若し彼が何処かで生存していても、\n"
+"最早任務に縛られない自由の身。"
+msgstr ""
+
+#. ID 8, Page 1, Line 223, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"望むままに、\\.\\.求められるままに、\\.\\.\n"
+"自分自身の人生を送りなさい。"
+msgstr ""
+
+#. ID 8, Page 1, Line 226, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"案ずる事は在りません。\\|\n"
+"貴方は立派に任務を全うしたのですから。"
+msgstr ""
+
+#. ID 8, Page 1, Line 234, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"行こう、\\.\\.フォクシー。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 236, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ああ、\\.\\.ミネルヴァ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 15, Pos (0,0)
+msgid ""
+"男の子：\n"
+"お空の真っ黒い穴…。\\|\n"
+"どんどん大きくなってるよ…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 22, Pos (0,0)
+msgid ""
+"女の子：\n"
+"ねえ、\\.\\.このまま穴がおっきくなったら、\\.\\.\n"
+"私達みんな飲み込まれちゃうのかな？"
+msgstr ""
+
+#. ID 8, Page 2, Line 25, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"大丈夫。\\.\\.そんな事は無いさ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 27, Pos (0,0)
+msgid ""
+"男の子：\n"
+"オジサンが止めてくれるのか？"
+msgstr ""
+
+#. ID 8, Page 2, Line 32, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"残念だが、\\.\\.私では如何にも出来ない。"
+msgstr ""
+
+#. ID 8, Page 2, Line 34, Pos (0,0)
+msgid ""
+"女の子：\n"
+"じゃあ何で大丈夫なの？"
+msgstr ""
+
+#. ID 8, Page 2, Line 45, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"自分でも良く分からないがな。"
+msgstr ""
+
+#. ID 8, Page 2, Line 47, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"でも、感じるんだ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 52, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"彼女達なら、\\.\\.きっと止めて呉れる。"
+msgstr ""
+

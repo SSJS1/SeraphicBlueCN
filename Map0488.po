@@ -1,0 +1,488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 7, Pos (0,8)
+msgid ""
+"六年の祝祭者：\n"
+"正直言って驚いた。\\.\\.\n"
+"まさか政府にこの件を伏せてあるとはな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 10, Pos (0,8)
+msgid ""
+"六年の祝祭者：\n"
+"だが何の心算だ。\\|\n"
+"或いは自ら死を求めると？"
+msgstr ""
+
+#. ID 8, Page 1, Line 20, Pos (0,8)
+#. ID 8, Page 2, Line 39, Pos (0,8)
+msgid ""
+"主人：\n"
+"だがその前に、君達の声を聞きたい。"
+msgstr ""
+
+#. ID 8, Page 1, Line 22, Pos (0,8)
+#. ID 8, Page 2, Line 41, Pos (0,8)
+msgid ""
+"主人：\n"
+"その数々の狂行の理由を。"
+msgstr ""
+
+#. ID 8, Page 1, Line 31, Pos (0,8)
+msgid ""
+"六年の祝祭者：\n"
+"まさか、お前が此処まで話せる人間だとは\n"
+"思っていなかった。"
+msgstr ""
+
+#. ID 8, Page 1, Line 34, Pos (0,8)
+msgid ""
+"六年の祝祭者：\n"
+"これまでの犯行の中で、最大の誤算だ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 43, Pos (0,8)
+#. ID 8, Page 2, Line 199, Pos (0,8)
+msgid ""
+"主人：\n"
+"名前を…\\|教えて呉れるか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 45, Pos (0,8)
+#. ID 8, Page 2, Line 201, Pos (0,8)
+msgid ""
+"主人：\n"
+"出来る事なら、彼女に会って謝りたい。"
+msgstr ""
+
+#. ID 8, Page 1, Line 47, Pos (0,8)
+msgid ""
+"六年の祝祭者：\n"
+"それは在り得ない。\\|\n"
+"その真なる愛の場所に於いては。"
+msgstr ""
+
+#. ID 8, Page 1, Line 50, Pos (0,8)
+#. ID 8, Page 2, Line 206, Pos (0,8)
+msgid ""
+"主人：\n"
+"だとしても、この心に刻ませて呉れ。\\|\n"
+"死に際の最後の罪の刻印として。"
+msgstr ""
+
+#. ID 8, Page 1, Line 60, Pos (0,8)
+msgid ""
+"主人：\n"
+"そうか…。\\|\n"
+"彼女は………と言うのか…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 63, Pos (0,8)
+msgid ""
+"六年の祝祭者：\n"
+"では…\\.\\.行くぞ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 65, Pos (0,8)
+msgid ""
+"六年の祝祭者：\n"
+"少ないが感謝の証だ。\n"
+"苦しまぬ様に即死させてやる。"
+msgstr ""
+
+#. ID 8, Page 1, Line 68, Pos (0,8)
+msgid ""
+"六年の祝祭者：\n"
+"安らかに還るが良い。\\|\n"
+"彼の悪夢を逃れ、真なる愛と幸福の場所へ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 74, Pos (0,8)
+#. ID 8, Page 2, Line 236, Pos (0,8)
+msgid ""
+"主人：\n"
+"君達と話が出来て、\\.\\.本当に良かった…。\\|\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 11, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"正直言って驚いた。\\.\\.\n"
+"まさか政府にこの件を伏せてあるとはな。"
+msgstr ""
+
+#. ID 8, Page 2, Line 14, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"だが何の心算だ。\\|\n"
+"或いは自ら死を求めると？"
+msgstr ""
+
+#. ID 8, Page 2, Line 17, Pos (0,8)
+msgid ""
+"主人：\n"
+"平たく言ってしまえば、そういう事か。"
+msgstr ""
+
+#. ID 8, Page 2, Line 19, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"逃れる事は出来ぬと、\\.\\.そう諦めた訳では…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 21, Pos (0,8)
+msgid ""
+"主人：\n"
+"自らの意志だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 23, Pos (0,8)
+msgid ""
+"主人：\n"
+"自ら望んで、この身を差し出した。"
+msgstr ""
+
+#. ID 8, Page 2, Line 28, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"奇特な男だ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 30, Pos (0,8)
+msgid ""
+"主人：\n"
+"光栄だ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 46, Pos (0,8)
+#. ID 8, Page 2, Line 177, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 48, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"良いだろう。\\.\\.\n"
+"お前には特別に聞かせてみようか。"
+msgstr ""
+
+#. ID 8, Page 2, Line 51, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"だが、お前とて薄々感付いているであろう事だぞ？"
+msgstr ""
+
+#. ID 8, Page 2, Line 53, Pos (0,8)
+msgid ""
+"主人：\n"
+"\"真相そのもの\"に意味は無い。\\|\n"
+"意味が在るのは、もっと別…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 56, Pos (0,8)
+msgid ""
+"主人：\n"
+"君から語られるという、\\.\\.その事にこそ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 58, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"成る程。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 63, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"\\S[2]これは、\\.\\.娘の復讐だ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 68, Pos (0,8)
+msgid ""
+"主人：\n"
+"やはりDLG法か…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 70, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"そうだ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 72, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"ディスピス患者を強制隔離、\n"
+"親元からすらも引き離す。"
+msgstr ""
+
+#. ID 8, Page 2, Line 75, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"絶望と孤独の中、生存確率30％未満の\n"
+"審判の日を待ち続ける。"
+msgstr ""
+
+#. ID 8, Page 2, Line 78, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"黒き翼の生える、\\.\\.その日をな。"
+msgstr ""
+
+#. ID 8, Page 2, Line 83, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"ウィッグタウンの再来を防ぐ為とは言え。\\|\n"
+"他に方法が無いとは言え…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 86, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"その何という人非人の行いか。"
+msgstr ""
+
+#. ID 8, Page 2, Line 88, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"気丈な大人さえも打ち砕くその境遇に、\\.\\.\n"
+"私の娘はたった独り放り込まれたのだよ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 91, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"当時５才だ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 96, Pos (0,8)
+msgid ""
+"主人：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 105, Pos (0,8)
+msgid ""
+"主人：\n"
+"分かっているとも。\\|\n"
+"反吐の出る類のインテリの仕事だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 108, Pos (0,8)
+msgid ""
+"主人：\n"
+"システムを構築するカタルシスが全て。\\|\n"
+"世界は机上、人は歯車。"
+msgstr ""
+
+#. ID 8, Page 2, Line 111, Pos (0,8)
+msgid ""
+"主人：\n"
+"全てはオフィスにて思索され、\n"
+"全てはオフィスにて作られて行く。"
+msgstr ""
+
+#. ID 8, Page 2, Line 114, Pos (0,8)
+msgid ""
+"主人：\n"
+"毎早朝に清掃業者が掃除をする綺麗な場所。\\|\n"
+"目立つ塵の一つも落ちてはいない。"
+msgstr ""
+
+#. ID 8, Page 2, Line 117, Pos (0,8)
+msgid ""
+"主人：\n"
+"まして現場の、血や涙など。"
+msgstr ""
+
+#. ID 8, Page 2, Line 122, Pos (0,8)
+msgid ""
+"主人：\n"
+"以前、機会が在って施設を見学した。"
+msgstr ""
+
+#. ID 8, Page 2, Line 124, Pos (0,8)
+msgid ""
+"主人：\n"
+"家に帰った私は意識が遠退き、\n"
+"気が付けば庭で焚き火をしていた。"
+msgstr ""
+
+#. ID 8, Page 2, Line 127, Pos (0,8)
+msgid ""
+"主人：\n"
+"眼に映ったのは、ライターのオイルと、\n"
+"唖然として見詰める私の使用人達…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 130, Pos (0,8)
+msgid ""
+"主人：\n"
+"そして、\\.\\.あの仕事で貰った金だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 136, Pos (0,8)
+msgid ""
+"主人：\n"
+"他に方法が在ったか否かとか。\n"
+"そんな問題ではない。"
+msgstr ""
+
+#. ID 8, Page 2, Line 139, Pos (0,8)
+msgid ""
+"主人：\n"
+"そう、\\.\\.そんな仰々しい、\n"
+"事象の深遠を探る様な巨視的なものでは。"
+msgstr ""
+
+#. ID 8, Page 2, Line 142, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"さに在らずんば、何とする？"
+msgstr ""
+
+#. ID 8, Page 2, Line 144, Pos (0,8)
+msgid ""
+"主人：\n"
+"私には背負い切れない。\\|\n"
+"それだけだ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 150, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"お前は弱い人間だな。"
+msgstr ""
+
+#. ID 8, Page 2, Line 152, Pos (0,8)
+msgid ""
+"主人：\n"
+"分かっているよ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 154, Pos (0,8)
+msgid ""
+"主人：\n"
+"背中に喰い付く黒き翼の重みは、\n"
+"こんなものの比ではないだろう。"
+msgstr ""
+
+#. ID 8, Page 2, Line 157, Pos (0,8)
+msgid ""
+"主人：\n"
+"それなのに、\\.\\.大人の私は此処で折れている。"
+msgstr ""
+
+#. ID 8, Page 2, Line 159, Pos (0,8)
+msgid ""
+"主人：\n"
+"お前は弱虫だと、\\.\\.子供達は責めるだろうな。"
+msgstr ""
+
+#. ID 8, Page 2, Line 161, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"当然だ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 166, Pos (0,8)
+msgid ""
+"主人：\n"
+"私は、甘んじてこの罪に殉じよう。"
+msgstr ""
+
+#. ID 8, Page 2, Line 168, Pos (0,8)
+msgid ""
+"主人：\n"
+"或いは私自身の逃避と救いであるとも、\n"
+"言えなくもないが…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 171, Pos (0,8)
+msgid ""
+"主人：\n"
+"それで君達が少しでも潤うのならば。\\|\n"
+"それは幸いな事だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 182, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"まさか、お前が此処まで話せる人間だとは\n"
+"思っていなかった。"
+msgstr ""
+
+#. ID 8, Page 2, Line 185, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"これまでの犯行の中で、最大の誤算だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 194, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"最後に言い残す事は在るか？"
+msgstr ""
+
+#. ID 8, Page 2, Line 203, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"それは在り得ない。\\|\n"
+"その真なる愛の場所に於いては。"
+msgstr ""
+
+#. ID 8, Page 2, Line 212, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"分かった。\\.\\.その心意気を買おう。"
+msgstr ""
+
+#. ID 8, Page 2, Line 217, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"娘の名は、\\.\\.アイシャだ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 222, Pos (0,8)
+msgid ""
+"主人：\n"
+"そうか…。\\|\n"
+"彼女はアイシャと言うのか…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 225, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"では…\\.\\.行くぞ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 227, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"少ないが感謝の証だ。\n"
+"苦しまぬ様に即死させてやる。"
+msgstr ""
+
+#. ID 8, Page 2, Line 230, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"安らかに還るが良い。\\|\n"
+"彼の悪夢を逃れ、真なる愛と幸福の場所へ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 241, Pos (0,8)
+msgid ""
+"ジョシュア：\n"
+"私もだ。\\|\\^"
+msgstr ""
+

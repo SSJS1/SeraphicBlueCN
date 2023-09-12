@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 5, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"巨大な空飛ぶ円盤…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 10, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"何だか…\\|不気味ですね…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 12, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"正体も分からないし、\\.\\.\n"
+"あんな真っ黒で巨大な物が空に浮いてるなんて…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 15, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"ゲオルクが飛ばしてるとか、\\.\\.\n"
+"フェジテが送り込んで来たとか、\\.\\.\n"
+"色々と噂は飛び交ってますけど…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 22, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 27, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"こっち…\\|来ないですよね…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 32, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"ええ…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 34, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"何事も無い事を、\\.\\.祈りましょ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 39, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"空…。\\|少し雲が出て来たね…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 44, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"ええ…。\\|そうですね…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 49, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"一雨、\\.\\.降るかもね。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 54, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"そうですか…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 59, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"雨の匂いが…\\|するんだよ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 11, Pos (0,0)
+msgid ""
+"男の子：\n"
+"あの穴…\\.\\.何か動いてるよな。"
+msgstr ""
+
+#. ID 7, Page 2, Line 13, Pos (0,0)
+msgid ""
+"女の子(下)：\n"
+"どんどん大きくなってる…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 15, Pos (0,0)
+msgid ""
+"女の子(上)：\n"
+"このままだと、\\.\\.お空が飲み込まれちゃうよ…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 20, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"みんな…。\\.\\.今もきっとあの中に…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 22, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"ヴェーネちゃん…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 38, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"ちょっと…！ \\.\\.何やってるんですか…！\\|\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 40, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"まだ寝てないと…！\\|\n"
+"傷口が開いちゃいますよ…！\\|\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 46, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"何だい、\\.\\.こんな傷。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 48, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"あの空の向こうでレイクやヴェーネちゃんが\n"
+"必死に頑張ってるってのに。"
+msgstr ""
+
+#. ID 7, Page 2, Line 51, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"私だけ寝てなんかいられるかい。"
+msgstr ""
+
+#. ID 7, Page 2, Line 56, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 64, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"もうずっと前…。\\|\n"
+"或る雨の日に預けられたレイク君…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 67, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"そのレイク君が、\n"
+"やがてヴェーネちゃんと出会って…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 70, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"そして今、\\.\\.あの空の向こうで、\n"
+"世界の存亡を賭けて戦っているなんて…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 76, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"変わりの無い事さ。"
+msgstr ""
+
+#. ID 7, Page 2, Line 78, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"世界の存亡を賭けてようが。\n"
+"夕食で余ったパンを賭けてようが。"
+msgstr ""
+
+#. ID 7, Page 2, Line 81, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"傍に居る女の子を\n"
+"不幸にする様な子じゃないよ。"
+msgstr ""
+
+#. ID 7, Page 2, Line 87, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"やってみせるさ、\\.\\.あの子達なら。"
+msgstr ""
+
+#. ID 7, Page 2, Line 89, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"あの翼なら、\\.\\.きっと青空さえ蘇る。"
+msgstr ""
+
+#. ID 7, Page 2, Line 94, Pos (0,0)
+msgid ""
+"お手伝いさん：\n"
+"青空…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 99, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"今でも良く覚えているよ。\\|\n"
+"あの時の雨上がり。"
+msgstr ""
+
+#. ID 7, Page 2, Line 102, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"嘆きも悲しみも、\n"
+"全て吸い込まれて消えて行く…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 105, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"あの何処までも青い空。"
+msgstr ""
+
+#. ID 7, Page 2, Line 110, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"天使は、\\.\\.確かに其処から舞い降りたのさ。"
+msgstr ""
+

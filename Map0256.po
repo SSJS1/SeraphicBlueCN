@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 7, Pos (0,0)
+msgid ""
+"部下：\n"
+"御呼びでしょうか。"
+msgstr ""
+
+#. ID 2, Page 1, Line 9, Pos (0,0)
+msgid ""
+"？？？：\n"
+"うむ…。\\|中々面白い事に成って来たぞ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 14, Pos (0,0)
+msgid ""
+"部下：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 19, Pos (0,0)
+msgid ""
+"？？？：\n"
+"試作体の状況は？"
+msgstr ""
+
+#. ID 2, Page 1, Line 21, Pos (0,0)
+msgid ""
+"部下：\n"
+"β１汎用及びβ１特別の両体が共に成熟課程を\n"
+"終了した所です。"
+msgstr ""
+
+#. ID 2, Page 1, Line 24, Pos (0,0)
+msgid ""
+"？？？：\n"
+"もう動けるのか？"
+msgstr ""
+
+#. ID 2, Page 1, Line 26, Pos (0,0)
+msgid ""
+"部下：\n"
+"問題在りません。"
+msgstr ""
+
+#. ID 2, Page 1, Line 28, Pos (0,0)
+msgid ""
+"？？？：\n"
+"分かった。\\.\\.それでは早速実地テストを行おう。"
+msgstr ""
+
+#. ID 2, Page 1, Line 30, Pos (0,0)
+msgid ""
+"？？？：\n"
+"β１汎用及びβ１特別を\n"
+"レヴェルストーク山地へと向かわせろ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 33, Pos (0,0)
+msgid ""
+"？？？：\n"
+"到着後の行動は追って指示する。"
+msgstr ""
+
+#. ID 2, Page 1, Line 35, Pos (0,0)
+msgid ""
+"部下：\n"
+"了解。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 44, Pos (0,0)
+msgid ""
+"？？？：\n"
+"目下大勢を左右し得る二つの\"鍵\"…。\\|\n"
+"それらが一所に集うとは…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 47, Pos (0,0)
+msgid ""
+"？？？：\n"
+"いよいよこの私に追風＜おいて＞が\n"
+"吹いて来たようだな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 50, Pos (0,0)
+msgid ""
+"？？？：\n"
+"あの二人を我が手中に収めれば、\n"
+"この世界の全てが私の思い通りに動く…！"
+msgstr ""
+
+#. ID 2, Page 1, Line 56, Pos (0,0)
+msgid ""
+"？？？：\n"
+"待っているが良い。\\.\\.ミネルヴァ･フェジテ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 58, Pos (0,0)
+msgid ""
+"？？？：\n"
+"そして、\\.\\.レイク･ランドヴェリー。"
+msgstr ""
+

@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 9, Pos (10,7)
+#. Contains choice at line 2 (3 options)
+msgid "女性：いらっしゃいませ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 10, Pos (10,7)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 3, Page 1, Line 20, Pos (10,7)
+msgid ""
+"女性：\n"
+"昔はよく世界中の方々が、\n"
+"この街の薬を求めて足を運んで来て下さったそうです。"
+msgstr ""
+
+#. ID 3, Page 1, Line 23, Pos (10,7)
+msgid ""
+"女性：\n"
+"それが今では、見る影も有りません…。\\.\\.\n"
+"残念な事です。"
+msgstr ""
+
+#. ID 3, Page 1, Line 30, Pos (10,7)
+msgid ""
+"女性：\n"
+"今日も良いお天気ですね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 34, Pos (10,7)
+msgid ""
+"女性：\n"
+"今日も良いお天気で…\\.…\\.\\.は、ないですね…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 50, Pos (10,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"女性：\n"
+"いらっしゃいませ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 52, Pos (10,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+
+#. ID 4, Page 1, Line 3, Pos (12,9)
+msgid ""
+"男性：\n"
+"アイテムは一度に沢山纏め買いするほど\n"
+"買値が割引される。覚えておくと良いよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 8, Pos (12,9)
+msgid ""
+"男性：\n"
+"…って、今更言うことでもないね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 12, Pos (12,9)
+msgid ""
+"男性：\n"
+"…俺、いつまでこんなこと言ってるんだろうか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (9,11)
+msgid ""
+"女性：\n"
+"アレンジモードで難易度が\\C[19]NORMAL以上\\C[0]の場合は、\n"
+"一戦闘中に各アイテムを使える回数が、\n"
+"アイテムごとに５回ずつに制限されるわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 7, Pos (9,11)
+msgid ""
+"女性：\n"
+"これはあくまでも一戦闘中に使える回数の制限だから、\n"
+"実際の所持数は各アイテム99個まで持てるわよ。"
+msgstr ""
+

@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 7, Pos (9,10)
+msgid ""
+"アナウンス：\n"
+"それでは皆様、モニターを御覧くださいませ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 18, Pos (9,10)
+msgid ""
+"\\N[1]：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 27, Pos (9,10)
+msgid ""
+"アナウンス：\n"
+"プレゼンテーションは以上です。\n"
+"次のフロアへ御進みください。"
+msgstr ""
+
+#. ID 12, Page 1, Line 41, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+msgid "【サルベージャーと海上都市ユヴェス】"
+msgstr ""
+
+#. ID 12, Page 1, Line 42, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"説明を聞く\n"
+"やめておく"
+msgstr ""
+
+#. ID 13, Page 1, Line 11, Pos (9,12)
+msgid ""
+"リオ･エクスプローラがユヴェスの神隠しに依って\n"
+"作り上げた\"大海穴\"。これこそが海上都市ユヴェスが\n"
+"誕生した最も直接の要因です。"
+msgstr ""
+
+#. ID 13, Page 1, Line 17, Pos (9,12)
+msgid ""
+"大海穴が出来た事で、周辺区域の潮流は大きく変化。\n"
+"それは不安定且つ複雑な物で、その海域は一転して\n"
+"航海の難所と化しました。"
+msgstr ""
+
+#. ID 13, Page 1, Line 20, Pos (9,12)
+msgid ""
+"今でこそ航海技術と船の安全性の向上に依り沈没事故は\n"
+"殆ど起きていませんが、未発達の当時は、\n"
+"多くの船が難所たるユヴェスの海に沈んで行きました。"
+msgstr ""
+
+#. ID 13, Page 1, Line 23, Pos (9,12)
+msgid ""
+"そして沈没した船の中には、金銀財宝を積んでいたと\n"
+"される物も決して少なく在りません。"
+msgstr ""
+
+#. ID 13, Page 1, Line 25, Pos (9,12)
+msgid ""
+"即ちこのユヴェスの海、大海穴の底は、\n"
+"正に海の藻屑と沈んで行った宝の山なのです。"
+msgstr ""
+
+#. ID 13, Page 1, Line 30, Pos (9,12)
+msgid ""
+"時が経ち航行技術が発達、海底探査が可能に成ると、\n"
+"サルベージという仕事が誕生します。\n"
+"これは海底に沈んだ物を海上に引き上げる仕事で、\n"
+"その職業人をサルベージャーと呼びます。"
+msgstr ""
+
+#. ID 13, Page 1, Line 34, Pos (9,12)
+msgid ""
+"前述の様にユヴェスの海は宝の山でした。\n"
+"一攫千金を夢見るサルベージャーらは即座に目を付け\n"
+"この一帯に集結、我先にとサルベージを行いました。"
+msgstr ""
+
+#. ID 13, Page 1, Line 37, Pos (9,12)
+msgid ""
+"また同時に、ユヴェスの神隠しの真相を探る事に\n"
+"執念を燃やす人々も、海底探査の目的で集結。\n"
+"ユヴェスの海は世界で最も賑やかな海と成りました。"
+msgstr ""
+
+#. ID 13, Page 1, Line 40, Pos (9,12)
+msgid ""
+"彼らは最初の内は遠く離れた陸地を拠点として\n"
+"いましたが、やがて移動のタイムロスを惜しんだ人々が\n"
+"海上に拠点を建造する試みを始めます。"
+msgstr ""
+
+#. ID 13, Page 1, Line 43, Pos (9,12)
+msgid "これが海上都市ユヴェスの始まりです。"
+msgstr ""
+

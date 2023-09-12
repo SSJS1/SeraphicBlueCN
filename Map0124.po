@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 45, Page 1, Line 3, Pos (10,25)
+msgid ""
+"男性：\n"
+"この街の西側と北側の一帯は工業区域。\n"
+"色々な工場が在る。"
+msgstr ""
+
+#. ID 45, Page 1, Line 6, Pos (10,25)
+msgid ""
+"男性：\n"
+"聞いた話だと、\n"
+"特にロビンの工場は凄いらしい。"
+msgstr ""
+
+#. ID 45, Page 1, Line 9, Pos (10,25)
+msgid ""
+"男性：\n"
+"飛行船工場とか、電子機器工場とか。\n"
+"完全に一人だけ別の時代を走ってるそうだ。"
+msgstr ""
+
+#. ID 45, Page 2, Line 3, Pos (10,25)
+msgid ""
+"男性：\n"
+"フェジテとやり合うって事は、\n"
+"やっぱりロビンが兵器でも開発してたのか…？"
+msgstr ""
+
+#. ID 46, Page 1, Line 3, Pos (17,15)
+msgid ""
+"女戦士：\n"
+"流石は世界最大の商業繁華の街ね。\n"
+"歩き回るだけでも相当に疲れるわ。"
+msgstr ""
+
+#. ID 47, Page 1, Line 3, Pos (20,10)
+msgid ""
+"女性：\n"
+"如何もいまいち、個人的に、\n"
+"あのゲオルクという男は好きに成れません。"
+msgstr ""
+
+#. ID 47, Page 1, Line 6, Pos (20,10)
+msgid ""
+"女性：\n"
+"此処を時々彼が通って行くのですが、\n"
+"周りを黒服の人間が固め、とても物々しいのです。"
+msgstr ""
+
+#. ID 47, Page 1, Line 9, Pos (20,10)
+msgid ""
+"女性：\n"
+"そして黒服たちの隙間から見える彼の顔。"
+msgstr ""
+
+#. ID 47, Page 1, Line 11, Pos (20,10)
+msgid ""
+"女性：\n"
+"大衆の手前笑顔を振りまいてはいるものの、\n"
+"その実その眼差しは何処までも冷たい…。"
+msgstr ""
+
+#. ID 47, Page 1, Line 17, Pos (20,10)
+msgid ""
+"女性：\n"
+"彼が立つ高みの足元には、好ましからざる何かが\n"
+"積み上げられているのでしょうね…。"
+msgstr ""
+
+#. ID 47, Page 2, Line 3, Pos (20,10)
+msgid ""
+"女性：\n"
+"何故ゲオルクはフェジテとの共存を選ばず、\n"
+"戦い討ち滅ぼす事を選んだのでしょう。"
+msgstr ""
+
+#. ID 47, Page 2, Line 6, Pos (20,10)
+msgid ""
+"女性：\n"
+"解放という結果を導く手段として、\n"
+"打倒も共存も等しく選択されるべき立場だというのに。"
+msgstr ""
+
+#. ID 47, Page 2, Line 9, Pos (20,10)
+msgid ""
+"女性：\n"
+"まるで全てが予定調和の如く。\n"
+"フェジテを討ち滅ぼす事を大前提とした事の運び。"
+msgstr ""
+
+#. ID 47, Page 2, Line 15, Pos (20,10)
+msgid ""
+"女性：\n"
+"彼は本当に解放を望んでいるのでしょうか…。"
+msgstr ""
+
+#. ID 51, Page 1, Line 3, Pos (12,19)
+msgid ""
+"男の子：\n"
+"うちのパパは、スカイスクレーパーでおしごとしてて、\n"
+"なんでもかってくれるんだ。"
+msgstr ""
+
+#. ID 51, Page 1, Line 7, Pos (12,19)
+msgid ""
+"男の子：\n"
+"つぎはなにをかってもらおうかなぁ…。"
+msgstr ""
+
+#. ID 51, Page 1, Line 11, Pos (12,19)
+msgid ""
+"男の子：\n"
+"このまえなんて、コミックヴォンヴォンの\n"
+"ぞうかんごう、かってもらっちゃった。"
+msgstr ""
+

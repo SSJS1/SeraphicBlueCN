@@ -1,0 +1,1581 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 21, Pos (1,13)
+msgid ""
+"ニネット(受付嬢)：\n"
+"オーグへようこそ。\\|\n"
+"本日はどの様な御用件で？"
+msgstr ""
+
+#. ID 8, Page 1, Line 27, Pos (1,13)
+#. ID 24, Page 1, Line 11, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"ユアンへ、\\.\\.古き家よりの伝言よ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 29, Pos (1,13)
+#. ID 24, Page 1, Line 13, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 34, Pos (1,13)
+#. ID 24, Page 1, Line 18, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"クィーン･ミネルヴァ様と、\n"
+"フェジテセイヴァー･ハウゼン様ですね？"
+msgstr ""
+
+#. ID 8, Page 1, Line 37, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"恐れ入りますが、\n"
+"身分証としてデイジー女史直筆の手紙を。"
+msgstr ""
+
+#. ID 8, Page 1, Line 40, Pos (1,13)
+#. ID 24, Page 1, Line 26, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"これで良いかしら？"
+msgstr ""
+
+#. ID 8, Page 1, Line 42, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"御預かりします。\\|\n"
+"電子チップの暗号を照合しますので少々御時間を。"
+msgstr ""
+
+#. ID 8, Page 1, Line 53, Pos (1,13)
+#. ID 24, Page 1, Line 39, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"御待たせしました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 55, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"暗号はオールクリア。\n"
+"この手紙がデイジー女史直筆の物だと確認されました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 61, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"ようこそクィーン･ミネルヴァ。\\|\n"
+"私達オーグは心より貴女方を歓迎致します。"
+msgstr ""
+
+#. ID 8, Page 1, Line 64, Pos (1,13)
+msgid ""
+"ミネルヴァ：\n"
+"有難う。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 69, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"ところで、後ろの御二人は…？\\|\n"
+"予定には無かったかと存じますが…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 72, Pos (1,13)
+msgid ""
+"ミネルヴァ：\n"
+"色々在って。\\.\\.\n"
+"彼らの協力で私は此処まで来れたの。"
+msgstr ""
+
+#. ID 8, Page 1, Line 75, Pos (1,13)
+#. ID 24, Page 1, Line 59, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"そうですか。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 77, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"本件に於いて協力者の方はハウゼン様と同列に\n"
+"扱うよう指示されておりますので、以後その様に。"
+msgstr ""
+
+#. ID 8, Page 1, Line 80, Pos (1,13)
+msgid ""
+"ミネルヴァ：\n"
+"御願い。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 85, Pos (1,13)
+msgid ""
+"ミネルヴァ：\n"
+"それで…\\|実は一つ言っておく事が在るの。"
+msgstr ""
+
+#. ID 8, Page 1, Line 87, Pos (1,13)
+#. ID 24, Page 1, Line 71, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"何でしょう？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 92, Pos (1,13)
+#. ID 24, Page 1, Line 76, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"男の人の方…。\\|あの青い髪の彼…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 94, Pos (1,13)
+#. ID 24, Page 1, Line 78, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"ええ、\\.\\.彼が如何かしましたか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 96, Pos (1,13)
+#. ID 24, Page 1, Line 80, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"レイク･ランドヴェリーと言うんだけれど…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 101, Pos (1,13)
+#. ID 24, Page 1, Line 85, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 106, Pos (1,13)
+#. ID 24, Page 1, Line 90, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"\\S[2]クィーン…。\\|御冗談を…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 108, Pos (1,13)
+#. ID 24, Page 1, Line 92, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 113, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"\\S[3]大変ッ…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 115, Pos (1,13)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]やっぱり…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 122, Pos (1,13)
+#. ID 24, Page 1, Line 109, Pos (0,23)
+msgid ""
+"フォクシー：\n"
+"見なよ、\\.\\.あの二人の難しそうな顔。"
+msgstr ""
+
+#. ID 8, Page 1, Line 124, Pos (1,13)
+msgid ""
+"レイク：\n"
+"ああ…。\\|\n"
+"面食らった様な、困った様な…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 127, Pos (1,13)
+msgid ""
+"フォクシー：\n"
+"アンタだよ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 129, Pos (1,13)
+#. ID 24, Page 1, Line 116, Pos (0,23)
+msgid ""
+"レイク：\n"
+"だろうな。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 137, Pos (1,13)
+msgid ""
+"ミネルヴァ：\n"
+"\"彼ら\"は居ないの？"
+msgstr ""
+
+#. ID 8, Page 1, Line 139, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"ええ…。\\|実は…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 144, Pos (1,13)
+msgid ""
+"ミネルヴァ：\n"
+"皮肉という物ね…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 146, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"本当ですよ…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 148, Pos (1,13)
+msgid ""
+"ミネルヴァ：\n"
+"何時頃まで？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 150, Pos (1,13)
+#. ID 24, Page 1, Line 137, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"既に此方に向かっています。\\.\\.\n"
+"数日中に到着するかと。"
+msgstr ""
+
+#. ID 8, Page 1, Line 153, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"申し訳在りませんが、\n"
+"それまでは此処に滞在の上で御待ち頂くという事で。"
+msgstr ""
+
+#. ID 8, Page 1, Line 156, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"長旅で御疲れでしょう。\\|\n"
+"どうぞゆっくりと羽を伸ばしてください。"
+msgstr ""
+
+#. ID 8, Page 1, Line 159, Pos (1,13)
+#. ID 24, Page 1, Line 146, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"此処は、\\.\\.安全ですから。"
+msgstr ""
+
+#. ID 8, Page 1, Line 161, Pos (1,13)
+msgid ""
+"ミネルヴァ：\n"
+"有難う。\\.\\.御言葉に甘えさせて頂くわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 169, Pos (1,13)
+msgid ""
+"フォクシー：\n"
+"これから如何するの？"
+msgstr ""
+
+#. ID 8, Page 1, Line 171, Pos (1,13)
+#. ID 24, Page 1, Line 158, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"本来は最初に主要メンバーとの顔合わせを\n"
+"行う筈だったけれど…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 174, Pos (1,13)
+msgid ""
+"ミネルヴァ：\n"
+"現在彼らは此処を留守にしていて、\n"
+"戻って来るまでに数日掛かるみたい。"
+msgstr ""
+
+#. ID 8, Page 1, Line 177, Pos (1,13)
+#. ID 24, Page 1, Line 164, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"だからそれまでは此処に滞在。"
+msgstr ""
+
+#. ID 8, Page 1, Line 179, Pos (1,13)
+#. ID 24, Page 1, Line 166, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"特にやる事も無いけれど、\n"
+"取り敢えずは旅の疲れでも取ってて。"
+msgstr ""
+
+#. ID 8, Page 3, Line 7, Pos (1,13)
+msgid ""
+"ドナルド：\n"
+"ユアンの奴め…。\\.\\.\n"
+"あれ程帰って来いと言ったろうに…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 10, Pos (1,13)
+msgid ""
+"ドナルド：\n"
+"全部私の所為だ…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 12, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"自分を責めないで。\\.\\.\n"
+"如何しようも無かったのよ。"
+msgstr ""
+
+#. ID 8, Page 3, Line 15, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"ユアンさんだって、\n"
+"少しも悪くなんて思ってなかった。"
+msgstr ""
+
+#. ID 8, Page 3, Line 21, Pos (1,13)
+msgid ""
+"ドナルド：\n"
+"だとしても…。\\.\\.私は…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 3, Line 26, Pos (1,13)
+msgid ""
+"ドナルド：\n"
+"\\S[3]マルゴの言っていた通りだ…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 28, Pos (1,13)
+msgid ""
+"ドナルド：\n"
+"\\S[3]冥土の土産には…\\.\\.重過ぎる…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 3, Line 33, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"そんなの、\\.\\.寂しいわ…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 3, Line 38, Pos (1,13)
+msgid ""
+"ドナルド：\n"
+"ああ…。\\.\\.寂し過ぎる老後だよ…。"
+msgstr ""
+
+#. ID 8, Page 3, Line 40, Pos (1,13)
+#. ID 24, Page 3, Line 44, Pos (0,23)
+msgid ""
+"ドナルド：\n"
+"無駄に長生きばかりしよってからに…。"
+msgstr ""
+
+#. ID 8, Page 5, Line 25, Pos (1,13)
+msgid ""
+"リーナ：\n"
+"また壊滅したのよ…！\\.\n"
+"グラウンドの都市が…！"
+msgstr ""
+
+#. ID 8, Page 5, Line 28, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"そんな…！ \\.\\.一体何処が…！"
+msgstr ""
+
+#. ID 8, Page 5, Line 30, Pos (1,13)
+msgid ""
+"シャル：\n"
+"ホワイトウィングよ…！"
+msgstr ""
+
+#. ID 8, Page 5, Line 44, Pos (1,13)
+msgid ""
+"シャル：\n"
+"如何する？ \\.現場に行く？"
+msgstr ""
+
+#. ID 8, Page 5, Line 46, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"ええ、\\.これは間違い無く奴の仕業。"
+msgstr ""
+
+#. ID 8, Page 5, Line 48, Pos (1,13)
+#. ID 8, Page 5, Line 164, Pos (1,13)
+#. ID 24, Page 5, Line 102, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"行って真相を探らないと。"
+msgstr ""
+
+#. ID 8, Page 5, Line 73, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"ああ、\\.そうそう。"
+msgstr ""
+
+#. ID 8, Page 5, Line 75, Pos (1,13)
+#. ID 8, Page 5, Line 216, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"さっきは二人共ホワイトウィングの事しか\n"
+"言ってなかったけれど…。"
+msgstr ""
+
+#. ID 8, Page 5, Line 78, Pos (1,13)
+#. ID 8, Page 5, Line 219, Pos (1,13)
+#. ID 24, Page 5, Line 155, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"実はその直前に、ラウレンティアで\n"
+"少し妙なエネルギー反応が確認されたみたい。"
+msgstr ""
+
+#. ID 8, Page 5, Line 81, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"妙なエネルギー反応？\\.\\.\n"
+"ラウレンティアで？"
+msgstr ""
+
+#. ID 8, Page 5, Line 84, Pos (1,13)
+#. ID 8, Page 5, Line 227, Pos (1,13)
+#. ID 24, Page 5, Line 164, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"今はホワイトウィングの事で頭が一杯だと思うけど、\n"
+"気が廻るのなら一度行ってみたら？"
+msgstr ""
+
+#. ID 8, Page 5, Line 98, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"如何したの二人共？\\.\\.\n"
+"凄い顔よ？"
+msgstr ""
+
+#. ID 8, Page 5, Line 101, Pos (1,13)
+msgid ""
+"シャル：\n"
+"でしょうね…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 5, Line 106, Pos (1,13)
+#. ID 24, Page 5, Line 30, Pos (0,23)
+msgid ""
+"リーナ：\n"
+"今し方飛び込んで来た情報で、\n"
+"未だ裏は取れていないんだけれど…。"
+msgstr ""
+
+#. ID 8, Page 5, Line 109, Pos (1,13)
+msgid ""
+"リーナ：\n"
+"また壊滅したのよ…！\\.\\.\n"
+"グラウンドの都市が…！"
+msgstr ""
+
+#. ID 8, Page 5, Line 112, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"そんな…！ \\|一体何処が…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 5, Line 117, Pos (1,13)
+#. ID 24, Page 5, Line 42, Pos (0,23)
+msgid ""
+"シャル：\n"
+"ダルムシュタットやユヴェスに並ぶ\n"
+"グラウンドの主要都市…。"
+msgstr ""
+
+#. ID 8, Page 5, Line 120, Pos (1,13)
+#. ID 24, Page 5, Line 45, Pos (0,23)
+msgid ""
+"シャル：\n"
+"ホワイトウィングよ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 5, Line 137, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"若しかして…！ \\|エンデの仕業…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 5, Line 139, Pos (1,13)
+msgid ""
+"リーナ：\n"
+"分からない。\\.\\.\n"
+"でも可能性は充分に在るわ。"
+msgstr ""
+
+#. ID 8, Page 5, Line 142, Pos (1,13)
+msgid ""
+"リーナ：\n"
+"壊滅とは言っても、\\.\\.その実情は圧倒的な力で\n"
+"瞬く間に消し飛ばされたって話だから。"
+msgstr ""
+
+#. ID 8, Page 5, Line 145, Pos (1,13)
+#. ID 24, Page 5, Line 81, Pos (0,23)
+msgid ""
+"シャル：\n"
+"そんなインフレじみた力の持ち主なんて、\n"
+"エンデ以外に思い当たらない…。"
+msgstr ""
+
+#. ID 8, Page 5, Line 151, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"でもそうだとして…。\\.\\.\n"
+"何故ホワイトウィングを…？"
+msgstr ""
+
+#. ID 8, Page 5, Line 154, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"まさかこの期に及んで、\n"
+"腹癒せや自棄だとは思えないし…。"
+msgstr ""
+
+#. ID 8, Page 5, Line 160, Pos (1,13)
+msgid ""
+"シャル：\n"
+"如何する？ \\.\\.現場に行く？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 5, Line 162, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"ええ、\\.\\.これは間違い無く奴の仕業。"
+msgstr ""
+
+#. ID 8, Page 5, Line 166, Pos (1,13)
+msgid ""
+"シャル：\n"
+"分かった。\\.\\.\n"
+"私とリーナは引き続き情報を集めてみる。"
+msgstr ""
+
+#. ID 8, Page 5, Line 169, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"お願い。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 5, Line 178, Pos (1,13)
+#. ID 24, Page 5, Line 116, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"エンデの目的は何なのか…。\\|\n"
+"ホワイトウィングに何の用が在ったのか…。"
+msgstr ""
+
+#. ID 8, Page 5, Line 181, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"ガイアキャンサーの手駒を失った今、\\.\\.\n"
+"奴は一体何をする心算なのか…。"
+msgstr ""
+
+#. ID 8, Page 5, Line 187, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"何か厭な予感…。\\|胸騒ぎがする…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 5, Line 212, Pos (1,13)
+#. ID 24, Page 5, Line 148, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"ああ、\\.\\.そうそう。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 5, Line 214, Pos (1,13)
+#. ID 24, Page 5, Line 150, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 5, Line 222, Pos (1,13)
+#. ID 24, Page 5, Line 158, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"妙なエネルギー反応？\\|\n"
+"ラウレンティアで？"
+msgstr ""
+
+#. ID 8, Page 5, Line 225, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"多分みんなが此処に向けて出発した直後ね。"
+msgstr ""
+
+#. ID 8, Page 5, Line 230, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"そうね。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 6, Line 35, Pos (1,13)
+#. ID 24, Page 6, Line 11, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"あら、\\.\\.散歩？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 6, Line 37, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"一度見てみたくてな。\\.\\.\n"
+"勿論ヴェーネの許可は貰ってるぜ。"
+msgstr ""
+
+#. ID 8, Page 6, Line 43, Pos (1,13)
+#. ID 24, Page 6, Line 19, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"成る程…。\\.\\.\n"
+"何だかんだ言って\"やんちゃ\"そうな顔。"
+msgstr ""
+
+#. ID 8, Page 6, Line 46, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"やんちゃ？ \\|俺がか？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 6, Line 48, Pos (1,13)
+#. ID 24, Page 6, Line 25, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"そう。\\.\\.何か少年って感じ。"
+msgstr ""
+
+#. ID 8, Page 6, Line 50, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"\"童顔\"じゃなくてか。"
+msgstr ""
+
+#. ID 8, Page 6, Line 52, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 6, Line 54, Pos (1,13)
+#. ID 24, Page 6, Line 31, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"ラージュの決戦の時ゲオルクを見切ったって\n"
+"聞いてたけど、納得ね。"
+msgstr ""
+
+#. ID 8, Page 6, Line 63, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"俺一人じゃ何も出来なかったさ。\\|\n"
+"あのヒトが俺に言葉を呉れたから…。"
+msgstr ""
+
+#. ID 8, Page 6, Line 66, Pos (1,13)
+#. ID 24, Page 6, Line 43, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"無愛想だけど、\\.\\.\n"
+"静かに俺の背中を押して呉れたから…。"
+msgstr ""
+
+#. ID 8, Page 6, Line 72, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"恋人？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 6, Line 74, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"仕事上のパートナーだ。\\.\\.\n"
+"少しの間、共にラージュ建造に携わった。"
+msgstr ""
+
+#. ID 8, Page 6, Line 77, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"それだけさ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 6, Line 79, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"それ切り連絡も取ってないの？\\.\\.\n"
+"随分ドライなのね。"
+msgstr ""
+
+#. ID 8, Page 6, Line 82, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"そういうヒトなんだよ。\\|\n"
+"今頃、何処で何してるんだか。"
+msgstr ""
+
+#. ID 8, Page 6, Line 88, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"少年…\\.\\.ね…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 6, Line 90, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"青二才と、どっちがマシだろうな…。"
+msgstr ""
+
+#. ID 8, Page 6, Line 97, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"ところで、ヴェーネ達は如何してた？"
+msgstr ""
+
+#. ID 8, Page 6, Line 99, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"相変わらず？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 6, Line 101, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"ああ。\\.\\.脳ミソが煮え返ってやがる。\\|\n"
+"ビーフシチューが作れるぜ。"
+msgstr ""
+
+#. ID 8, Page 6, Line 104, Pos (1,13)
+#. ID 24, Page 6, Line 79, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"ド本命のエイブラムがスカと来たもんで、\n"
+"それからずっと考え込みっ放しさ。"
+msgstr ""
+
+#. ID 8, Page 6, Line 107, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"ロビンの連中も行き詰った時、\n"
+"よくあんな顔してたな。"
+msgstr ""
+
+#. ID 8, Page 6, Line 113, Pos (1,13)
+#. ID 24, Page 6, Line 88, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 6, Line 118, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"頭では分かってるんだよ。\\.\\.\n"
+"ダメな時は幾ら考え込んでもダメだって。"
+msgstr ""
+
+#. ID 8, Page 6, Line 121, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"でも心の焦りが、それを妥協として許さない。"
+msgstr ""
+
+#. ID 8, Page 6, Line 123, Pos (1,13)
+#. ID 24, Page 6, Line 99, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"人生の無駄遣いとまでは言わないけど、\n"
+"近いモンは在るな。"
+msgstr ""
+
+#. ID 8, Page 6, Line 129, Pos (1,13)
+#. ID 24, Page 6, Line 105, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"貴方は、何か名案とか無いの？"
+msgstr ""
+
+#. ID 8, Page 6, Line 131, Pos (1,13)
+#. ID 24, Page 6, Line 107, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"一応考えてるけど、\n"
+"こないだまで\"向こう\"の人間だったからな。"
+msgstr ""
+
+#. ID 8, Page 6, Line 134, Pos (1,13)
+#. ID 24, Page 6, Line 110, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"そうよね…。\\.\\.\n"
+"事情とか知らな過ぎるわよね…。"
+msgstr ""
+
+#. ID 8, Page 6, Line 137, Pos (1,13)
+msgid ""
+"フョードル：\n"
+"でもマグレで名案が出た時は\n"
+"役に立てて呉れよ？"
+msgstr ""
+
+#. ID 8, Page 6, Line 140, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"期待してるわ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 6, Line 145, Pos (1,13)
+#. ID 24, Page 6, Line 121, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"それじゃ、\\.\\.お散歩楽しんでね。"
+msgstr ""
+
+#. ID 8, Page 6, Line 147, Pos (1,13)
+#. ID 24, Page 6, Line 123, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 7, Line 40, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"えっ…？ \\|フリッツから私に連絡が？"
+msgstr ""
+
+#. ID 8, Page 7, Line 42, Pos (1,13)
+#. ID 24, Page 7, Line 11, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"そうよ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 7, Line 44, Pos (1,13)
+#. ID 24, Page 7, Line 13, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"最後の戦いを前にもう一度会いたいから、\n"
+"今夜\"反乱の終着点\"に来て呉れないかって。"
+msgstr ""
+
+#. ID 8, Page 7, Line 50, Pos (1,13)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]反乱の…\\|終着点…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 7, Line 52, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"ちょっと、何なの？\\.\\.\n"
+"二人にしか分からない秘密の場所？"
+msgstr ""
+
+#. ID 8, Page 7, Line 55, Pos (1,13)
+msgid ""
+"ニネット：\n"
+"もう、隅に置けないわね。"
+msgstr ""
+
+#. ID 8, Page 7, Line 57, Pos (1,13)
+#. ID 24, Page 7, Line 26, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"何かと忙しい様に見えて、\n"
+"やる事だけはしっかりやっちゃって。"
+msgstr ""
+
+#. ID 8, Page 7, Line 63, Pos (1,13)
+#. ID 24, Page 7, Line 32, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]フリッツ…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 4, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"まさか貴方がそうだったとはね…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 6, Pos (9,15)
+msgid ""
+"レイク：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 8, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"でもイメージよりも陰気な感じ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 10, Pos (9,15)
+#. ID 10, Page 2, Line 24, Pos (9,15)
+msgid ""
+"レイク：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 16, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"いよいよ御対面ね。"
+msgstr ""
+
+#. ID 10, Page 2, Line 4, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"これからは宜しくね。"
+msgstr ""
+
+#. ID 10, Page 2, Line 6, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"そうだ。\\|\n"
+"入隊祝いって事でもないけど、これあげる。"
+msgstr ""
+
+#. ID 10, Page 2, Line 9, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"私が持ってても使う機会無いし、\n"
+"現場で役に立てて。"
+msgstr ""
+
+#. ID 10, Page 2, Line 22, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"親子仲良く頑張ってね。"
+msgstr ""
+
+#. ID 10, Page 3, Line 3, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"行ってらっしゃい。"
+msgstr ""
+
+#. ID 10, Page 4, Line 4, Pos (9,15)
+#. ID 10, Page 4, Line 16, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"留守は任せて。"
+msgstr ""
+
+#. ID 10, Page 4, Line 6, Pos (9,15)
+#. ID 10, Page 4, Line 18, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"自分で選んだこの場所だもの、\n"
+"そう容易く投げ出したりはしないわ。"
+msgstr ""
+
+#. ID 10, Page 4, Line 9, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"と言うより、離れたいとなんて思わない。\n"
+"御爺さんの話も面白いし。"
+msgstr ""
+
+#. ID 10, Page 4, Line 21, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"それに今の御爺さんには、私が必要だから。"
+msgstr ""
+
+#. ID 10, Page 5, Line 3, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"御爺さん、この頃部屋に篭りがちなのよ。"
+msgstr ""
+
+#. ID 10, Page 5, Line 5, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"偶に顔を見てもあからさまに元気が無いし、\n"
+"心配だわ…。"
+msgstr ""
+
+#. ID 10, Page 6, Line 3, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"御爺さん、元気が出て来たみたい。"
+msgstr ""
+
+#. ID 10, Page 6, Line 5, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"自分の持っている物を少しでも多く\n"
+"トロイさんに伝授するんだって張り切ってたわ。"
+msgstr ""
+
+#. ID 10, Page 7, Line 3, Pos (9,15)
+msgid ""
+"ニネット：\n"
+"此処は私達に任せて。\n"
+"健闘を祈ってるわ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 4, Pos (3,16)
+msgid ""
+"ドナルド：\n"
+"受付の御嬢さんの話相手だ。\n"
+"或いはこの老い耄れが相手をして貰っているとも\n"
+"言えるがな。"
+msgstr ""
+
+#. ID 11, Page 1, Line 8, Pos (3,16)
+msgid ""
+"ドナルド：\n"
+"何れにせよ、悪くはない趣味だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 14, Pos (3,16)
+msgid ""
+"ドナルド：\n"
+"ユアンが逝ってしまった今、\n"
+"此処の御嬢さんは私の貴重な話し相手だよ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 17, Pos (3,16)
+msgid ""
+"ドナルド：\n"
+"ああ否、別にお前さん達に\n"
+"相手をしろと言っている訳ではないぞ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 20, Pos (3,16)
+msgid ""
+"ドナルド：\n"
+"お前さん達には、この混迷の時勢の中、\n"
+"せめて前途に光在れと心より祈らせて貰うわ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 5, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"オーグへようこそ。\\.\\.\n"
+"本日はどの様な御用件で？"
+msgstr ""
+
+#. ID 24, Page 1, Line 21, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 23, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"では恐れ入りますが、\n"
+"身分証としてデイジー女史直筆の手紙を。"
+msgstr ""
+
+#. ID 24, Page 1, Line 28, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"御預かりします。\\.\\.\n"
+"確認させて頂きますので少々御時間を。"
+msgstr ""
+
+#. ID 24, Page 1, Line 41, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"チェックの結果、この手紙が\n"
+"デイジー女史直筆の物だと確認されました。"
+msgstr ""
+
+#. ID 24, Page 1, Line 47, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"ようこそクィーン･ミネルヴァ。\\|\n"
+"私達オーグは心より貴方がたを歓迎致します。"
+msgstr ""
+
+#. ID 24, Page 1, Line 53, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"ところで、後ろのお二人は…？\\|\n"
+"予定には無かったかと存じますが…。"
+msgstr ""
+
+#. ID 24, Page 1, Line 56, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"色々在って。\\|\n"
+"彼らの協力で私は此処まで来れたの。"
+msgstr ""
+
+#. ID 24, Page 1, Line 61, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"本件に於いては、\\.\\.協力者の方はハウゼン様と同列に\n"
+"扱うよう指示されておりますので、以後その様に。"
+msgstr ""
+
+#. ID 24, Page 1, Line 64, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、\\.\\.お願い。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 69, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"それで…\\.\\.実は一つ言っておく事が在るの。"
+msgstr ""
+
+#. ID 24, Page 1, Line 97, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"\\S[3]ああ…\\.\\.大変…！\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 102, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"ああ…\\.\\.やっぱり…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 111, Pos (0,23)
+msgid ""
+"レイク：\n"
+"ああ…。\\|\n"
+"面食らった様な、\\.\\.困った様な…。"
+msgstr ""
+
+#. ID 24, Page 1, Line 114, Pos (0,23)
+msgid ""
+"フォクシー：\n"
+"アンタの事だよ。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 124, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"ところで、\"彼ら\"は居ないの？"
+msgstr ""
+
+#. ID 24, Page 1, Line 126, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"ええ…。\\.\\.実は…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 131, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"何て事…。\\.\\.運命の皮肉というものね…。"
+msgstr ""
+
+#. ID 24, Page 1, Line 133, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"本当ですよ。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 135, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"それで、何時頃まで留守にしてるの？"
+msgstr ""
+
+#. ID 24, Page 1, Line 140, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"申し訳御座いませんが、\n"
+"それまでは此処に滞在の上で御待ち頂くという事で。"
+msgstr ""
+
+#. ID 24, Page 1, Line 143, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"隠密行での御疲れも在るでしょうし、\n"
+"どうぞゆっくりを羽を伸ばしてください。"
+msgstr ""
+
+#. ID 24, Page 1, Line 148, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"有難う。\\.\\.お言葉に甘えさせて頂くわ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 156, Pos (0,23)
+msgid ""
+"フォクシー：\n"
+"これから如何するんだい？"
+msgstr ""
+
+#. ID 24, Page 1, Line 161, Pos (0,23)
+msgid ""
+"ミネルヴァ：\n"
+"現在彼らは此処を留守にしていて、\n"
+"戻って来るまでに数日掛かるそうよ。"
+msgstr ""
+
+#. ID 24, Page 3, Line 7, Pos (0,23)
+msgid ""
+"ドナルド：\n"
+"ユアンの奴め…。\\|\n"
+"あれ程帰って来いと言ったろうに…。"
+msgstr ""
+
+#. ID 24, Page 3, Line 13, Pos (0,23)
+msgid ""
+"ドナルド：\n"
+"こう成ったのも、全部私の所為だ…。"
+msgstr ""
+
+#. ID 24, Page 3, Line 15, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"自分を責めないで、御爺さん。\n"
+"如何しようも無かったのよ。"
+msgstr ""
+
+#. ID 24, Page 3, Line 18, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"ユアンさんだって、\n"
+"貴方の事を少しも悪くなんて思ってなかったわ。"
+msgstr ""
+
+#. ID 24, Page 3, Line 24, Pos (0,23)
+msgid ""
+"ドナルド：\n"
+"だとしても、私は…。"
+msgstr ""
+
+#. ID 24, Page 3, Line 29, Pos (0,23)
+msgid ""
+"ドナルド：\n"
+"マルゴの言ってた通りだ…。"
+msgstr ""
+
+#. ID 24, Page 3, Line 31, Pos (0,23)
+msgid ""
+"ドナルド：\n"
+"冥土の土産には、重過ぎる…。"
+msgstr ""
+
+#. ID 24, Page 3, Line 36, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"そんなの、寂しいわ…。"
+msgstr ""
+
+#. ID 24, Page 3, Line 41, Pos (0,23)
+msgid ""
+"ドナルド：\n"
+"ああ…。\\|\n"
+"寂し過ぎる老後だよ…。"
+msgstr ""
+
+#. ID 24, Page 5, Line 18, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"如何したの二人共？\\|\n"
+"凄い顔よ？"
+msgstr ""
+
+#. ID 24, Page 5, Line 24, Pos (0,23)
+msgid ""
+"シャル：\n"
+"でしょうね…。\\|\n"
+"こんな顔にも成るわ…！"
+msgstr ""
+
+#. ID 24, Page 5, Line 33, Pos (0,23)
+msgid ""
+"リーナ：\n"
+"また壊滅したのよ…！\\|\n"
+"グラウンドの都市が…！"
+msgstr ""
+
+#. ID 24, Page 5, Line 36, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"何ですって…!?\\|\n"
+"一体何処が…！"
+msgstr ""
+
+#. ID 24, Page 5, Line 62, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"そんな…。\\|\n"
+"そんな事って…！\\|\\^"
+msgstr ""
+
+#. ID 24, Page 5, Line 68, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 24, Page 5, Line 70, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"若しかして…\\|エンデの仕業…！\\|\\^"
+msgstr ""
+
+#. ID 24, Page 5, Line 72, Pos (0,23)
+msgid ""
+"リーナ：\n"
+"それは分からない。\\|\n"
+"でも可能性は充分に在るわ。"
+msgstr ""
+
+#. ID 24, Page 5, Line 75, Pos (0,23)
+msgid ""
+"リーナ：\n"
+"壊滅とは言っても、その実情は圧倒的な力で\n"
+"瞬く間に消し飛ばされたって話だから。"
+msgstr ""
+
+#. ID 24, Page 5, Line 87, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"でもそうだとして、\n"
+"何故ホワイトウィングを…？"
+msgstr ""
+
+#. ID 24, Page 5, Line 90, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"まさかこの期に及んで、\n"
+"腹癒せや自棄でそんな事をしたとは、\n"
+"到底思えないし…。"
+msgstr ""
+
+#. ID 24, Page 5, Line 97, Pos (0,23)
+msgid ""
+"シャル：\n"
+"如何する？\\|\n"
+"現場に行ってみる？"
+msgstr ""
+
+#. ID 24, Page 5, Line 100, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"ええ、これは先ず間違い無く奴の仕業。"
+msgstr ""
+
+#. ID 24, Page 5, Line 104, Pos (0,23)
+msgid ""
+"シャル：\n"
+"分かったわ。\\|\n"
+"私とリーナは引き続き情報を集めてみる。"
+msgstr ""
+
+#. ID 24, Page 5, Line 107, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"御願い。"
+msgstr ""
+
+#. ID 24, Page 5, Line 119, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"ガイアキャンサーの手駒を失った今、\n"
+"奴は一体何をする心算なのか…。"
+msgstr ""
+
+#. ID 24, Page 5, Line 125, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"何か厭な予感…\\|胸騒ぎがする…。"
+msgstr ""
+
+#. ID 24, Page 5, Line 152, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"さっきは二人共ホワイトウィング壊滅の事しか\n"
+"言ってなかったけれど…。"
+msgstr ""
+
+#. ID 24, Page 5, Line 161, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"ええ…。\\|\n"
+"多分皆が此処に向けて出発した直後。"
+msgstr ""
+
+#. ID 24, Page 5, Line 167, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"ええ、\\.\\.そうするわ。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 6, Line 13, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"ああ、一度見てみたくてな。\\|\n"
+"勿論ヴェーネの許可は貰ってるぜ。"
+msgstr ""
+
+#. ID 24, Page 6, Line 22, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"やんちゃ？\\|\n"
+"俺がか？\\|\\^"
+msgstr ""
+
+#. ID 24, Page 6, Line 27, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"\"童顔\"じゃなくてか？"
+msgstr ""
+
+#. ID 24, Page 6, Line 29, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"ええ、\\.\\.\"少年\"。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 6, Line 39, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"俺一人じゃ何も出来なかったさ。"
+msgstr ""
+
+#. ID 24, Page 6, Line 41, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"あのヒトが俺に言葉を呉れたから…。"
+msgstr ""
+
+#. ID 24, Page 6, Line 49, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"若しかして、\\.\\.恋人？\\|\\^"
+msgstr ""
+
+#. ID 24, Page 6, Line 51, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"違うよ。\\.\\.只の仕事上のパートナーさ。"
+msgstr ""
+
+#. ID 24, Page 6, Line 53, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"少しの間、共にラージュ建造に携わった、\n"
+"只それだけのな。"
+msgstr ""
+
+#. ID 24, Page 6, Line 56, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"それ切り連絡も取ってないの？\\|\n"
+"随分ドライなのね。"
+msgstr ""
+
+#. ID 24, Page 6, Line 59, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"そういうヒトなんだよ。\\.\\.\n"
+"今頃、何処で何してるんだか。"
+msgstr ""
+
+#. ID 24, Page 6, Line 65, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"少年、\\.\\.か…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 6, Line 67, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"青二才と、どっちがマシかね…。"
+msgstr ""
+
+#. ID 24, Page 6, Line 74, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"ところで、ヴェーネ達は如何してた？\\|\n"
+"やっぱり相変わらず？"
+msgstr ""
+
+#. ID 24, Page 6, Line 77, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"ああ。\\.\\.脳ミソが煮え返ってやがる。"
+msgstr ""
+
+#. ID 24, Page 6, Line 82, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"ロビンの連中も行き詰った時、\n"
+"よくあんな顔してたぜ。"
+msgstr ""
+
+#. ID 24, Page 6, Line 93, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"頭では分かってるんだよな。\\|\n"
+"ダメな時は幾ら考え込んでもダメだって。"
+msgstr ""
+
+#. ID 24, Page 6, Line 96, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"でも心の焦りが、それを妥協として許さない。\\|\n"
+"結局無為に時間を潰す袋小路。"
+msgstr ""
+
+#. ID 24, Page 6, Line 113, Pos (0,23)
+msgid ""
+"フョードル：\n"
+"でもマグレで名案が出た時は\n"
+"役に立ててくれよ？"
+msgstr ""
+
+#. ID 24, Page 6, Line 116, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"期待してるわ。"
+msgstr ""
+
+#. ID 24, Page 7, Line 8, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"えっ…？\\|\n"
+"フリッツから私に連絡が？"
+msgstr ""
+
+#. ID 24, Page 7, Line 19, Pos (0,23)
+msgid ""
+"ヴェーネ：\n"
+"反乱の、\\.\\.終着点…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 7, Line 21, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"ちょっと、何なの其処？\\|\n"
+"二人にしか分からない秘密の場所とか？"
+msgstr ""
+
+#. ID 24, Page 7, Line 24, Pos (0,23)
+msgid ""
+"ニネット：\n"
+"貴女も隅に置けないわね。"
+msgstr ""
+

@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"さあ、\\.\\.掛かって来な！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 24, Pos (0,0)
+msgid ""
+"レイク：\n"
+"マズいな…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 26, Pos (0,0)
+msgid ""
+"レイク：\n"
+"表町に出るどころか、\\.\\.\n"
+"逆に奥に追い遣られてる感じだぜ…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 32, Pos (0,0)
+msgid ""
+"レイク：\n"
+"今更何を…！ \\|兎に角進むしかない…！"
+msgstr ""
+
+#. ID 9, Page 2, Line 6, Pos (5,6)
+msgid ""
+"\\>Caution：\n"
+"\\>この先には、今のレベルでは太刀打ちできない程、\n"
+"\\>凶悪なエネミーが潜んでいます。\n"
+"\\>戦っても勝ち目はまず在りません。"
+msgstr ""
+
+#. ID 9, Page 2, Line 10, Pos (5,6)
+msgid ""
+"\\>Caution：\n"
+"\\>それでも先に進みますか？"
+msgstr ""
+
+#. ID 9, Page 2, Line 14, Pos (5,6)
+#. ID 9, Page 2, Line 38, Pos (5,6)
+msgid ""
+"\\>Caution：\n"
+"\\>この先には凶悪なエネミーが潜んでいます。\n"
+"\\>念の為、事前にセーブしておく事を推奨します。"
+msgstr ""
+
+#. ID 9, Page 2, Line 17, Pos (5,6)
+#. Contains choice at line 3 (2 options)
+#. ID 9, Page 2, Line 41, Pos (5,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>Caution：\n"
+"\\>先に進みますか？"
+msgstr ""
+
+#. ID 9, Page 2, Line 19, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 2, Line 43, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>ＹＥＳ\n"
+"\\>ＮＯ"
+msgstr ""
+

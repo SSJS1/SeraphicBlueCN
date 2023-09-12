@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 5, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]う…。\\|うう…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 7, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"ムカつくのよアンタ！\\|\n"
+"何で知恵遅れの分際で私達より上なのよ！"
+msgstr ""
+
+#. ID 8, Page 1, Line 10, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"オマケに学長にも気に入られて！"
+msgstr ""
+
+#. ID 8, Page 1, Line 12, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"その子供っぽいのを利用して、\n"
+"上手い事取り入ってるんでしょ！"
+msgstr ""
+
+#. ID 8, Page 1, Line 15, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"最悪ね！ \\.\\.知障の上に腹黒なんて！"
+msgstr ""
+
+#. ID 8, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ち、\\.\\.チガう…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 22, Pos (0,0)
+msgid ""
+"男子学生(右)：\n"
+"だからその喋り方を止めろってんだよ！\\|"
+msgstr ""
+
+#. ID 8, Page 1, Line 24, Pos (0,0)
+msgid ""
+"男子学生(右)：\n"
+"ウゼーんだよ！ \\.\\.マジ殺してェ！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 29, Pos (0,0)
+msgid ""
+"男子学生(左)：\n"
+"俺達は必死こいて此処に入って来たんだよ。\\|\n"
+"フェジテのトップエリートとしてな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 32, Pos (0,0)
+msgid ""
+"男子学生(左)：\n"
+"それがこんな知障に劣るなんて、\n"
+"冗談じゃねーぜ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ごめんなさい…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 40, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"ふん。\\.\\.謝って済む問題じゃないわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 42, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"別に責任取って自殺する訳でもないんでしょ？"
+msgstr ""
+
+#. ID 8, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ジ、\\.\\.サ、\\.\\.ツ…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 49, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"本当はそれが一番なんだけどね。\\|\n"
+"アンタなんか生きてても邪魔なだけだから。"
+msgstr ""
+
+#. ID 8, Page 1, Line 55, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]いや…。\\|死にたくない…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 61, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"ま、\\.\\.そう言うと思ったわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 63, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"だから今日はアンタをシメてやるのよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 65, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"二度と表を歩けない位…！\\|\n"
+"生きる気力の欠片も無くなる位に…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[5]ナニ…\\|するの…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 76, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"\\S[2]公衆便所よ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 81, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"身包み剥いで全裸にして。\\|\n"
+"身体縛って股広げて。"
+msgstr ""
+
+#. ID 8, Page 1, Line 84, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"男友達連れて来て、\\.\\.代わる代わる\n"
+"アンタのアソコに肉棒突っ込んでやるんだよ！"
+msgstr ""
+
+#. ID 8, Page 1, Line 87, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"で、写真を撮ってバラ撒く！"
+msgstr ""
+
+#. ID 8, Page 1, Line 89, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"ちょっぴり頭の弱いドリスちゃんは\n"
+"ザーメンがお好きってね！"
+msgstr ""
+
+#. ID 8, Page 1, Line 93, Pos (0,0)
+msgid ""
+"男子学生(右)：\n"
+"ヒャハハハ！\\.\\.\n"
+"オメー、相変わらずエグいよなー。"
+msgstr ""
+
+#. ID 8, Page 1, Line 97, Pos (0,0)
+msgid ""
+"男子学生(左)：\n"
+"そんな事したら、\n"
+"コイツマジで自殺するんじゃねーの？"
+msgstr ""
+
+#. ID 8, Page 1, Line 100, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"ていうか初めからその心算。\\.\\.\n"
+"目障りだからこの世から消えてってね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 109, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"私達は苦労してエリートの道を手に入れた。\n"
+"だからコイツの存在を認める訳には行かない。"
+msgstr ""
+
+#. ID 8, Page 1, Line 112, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"こんなのが存在してる限り、\n"
+"私達は死ぬまで報われないのよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ヒィッ…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 121, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"悪く思わないでね。\n"
+"アンタが悪いのよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 124, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"閉鎖環境＜コミュニティ＞で浮いてるってのは、\n"
+"それだけで重い罪。"
+msgstr ""
+
+#. ID 8, Page 1, Line 127, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"だからその罪に対して、\n"
+"私達は罰＜リンチ＞を施す。"
+msgstr ""
+
+#. ID 8, Page 1, Line 130, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"私達は正しいの。\\|\n"
+"アンタが間違ってるの。"
+msgstr ""
+
+#. ID 8, Page 1, Line 140, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"\\S[2]さあ、\\.\\.覚悟しなさい…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 145, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]いや…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 147, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"イヤァァァァァッ!!!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 158, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"\\S[2]な、\\.\\.何なのよ…！\\.\\.\n"
+"この魔力…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 161, Pos (0,0)
+msgid ""
+"男子学生(右)：\n"
+"\\S[2]まさか、\\.\\.ドリスが…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 163, Pos (0,0)
+msgid ""
+"男子学生(左)：\n"
+"\\S[2]桁外れだ…！ \\.\\.バケモンかよ…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 171, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"\\S[2]ヤバい…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 173, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"\\S[2]これじゃ私達…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 175, Pos (0,0)
+msgid ""
+"女子学生：\n"
+"\\S[5]死んじゃ\\^"
+msgstr ""
+

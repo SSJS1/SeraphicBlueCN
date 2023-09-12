@@ -1,0 +1,640 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1211, Pos (0,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "のデフォルト"
+msgstr ""
+
+#. ID 2, Page 1, Line 1212, Pos (0,1)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "設定に変更"
+msgstr ""
+
+#. ID 2, Page 1, Line 1213, Pos (0,1)
+#. Contains choice at line 2 (3 options)
+msgid "\\>\\c[10]【設定の一括変更】\\c[0]"
+msgstr ""
+
+#. ID 2, Page 1, Line 1214, Pos (0,1)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>現在のゲームモード\\n[2]\\n[3]\n"
+"\\>純正版同様の\\n[3]\n"
+"\\>キャンセル"
+msgstr ""
+
+#. ID 2, Page 1, Line 1222, Pos (0,1)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 1, Line 1225, Pos (0,1)
+#. Condition (Actor Name = ★)
+msgctxt "actors.name"
+msgid "★"
+msgstr ""
+
+#. ID 2, Page 1, Line 1244, Pos (0,1)
+#. ChangeHeroName (Actor 2)
+#. ID 7, Page 1, Line 798, Pos (1,1)
+#. ChangeHeroName (Actor 2)
+#. ID 7, Page 1, Line 1164, Pos (1,1)
+#. ChangeHeroName (Actor 2)
+#. ID 7, Page 1, Line 1328, Pos (1,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ヴェーネ"
+msgstr ""
+
+#. ID 2, Page 1, Line 1245, Pos (0,1)
+#. ChangeHeroName (Actor 3)
+#. ID 7, Page 1, Line 799, Pos (1,1)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ユアン"
+msgstr ""
+
+#. ID 2, Page 1, Line 1380, Pos (0,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>※ゲームモードを途中で変更すると、\n"
+"\\>　スコア倍率補正が半減しますが、宜しいですか？"
+msgstr ""
+
+#. ID 2, Page 1, Line 1382, Pos (0,1)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 752, Pos (1,1)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 899, Pos (1,1)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 1108, Pos (1,1)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 1311, Pos (1,1)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 1449, Pos (1,1)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 2, Line 98, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 2, Line 106, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 3, Line 151, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 7, Line 447, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 7, Line 455, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 7, Line 973, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 9, Line 1220, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 9, Line 1757, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 9, Line 1765, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 9, Line 1953, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 9, Line 2372, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 26, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 34, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 222, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 2, Line 242, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 6, Line 21, Pos (1,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>ＹＥＳ\n"
+"\\>ＮＯ"
+msgstr ""
+
+#. ID 7, Page 1, Line 751, Pos (1,1)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 1107, Pos (1,1)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 1310, Pos (1,1)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 3, Line 150, Pos (1,3)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 7, Line 972, Pos (1,3)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 9, Line 1952, Pos (1,3)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 9, Line 2371, Pos (1,3)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 1, Line 221, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 2, Line 241, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+#. ID 17, Page 6, Line 20, Pos (1,5)
+#. Contains choice at line 2 (2 options)
+msgid "\\>※この設定の詳細説明を確認しますか？"
+msgstr ""
+
+#. ID 7, Page 1, Line 754, Pos (1,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "/11"
+msgstr ""
+
+#. ID 7, Page 1, Line 755, Pos (1,1)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "オーガナイズ"
+msgstr ""
+
+#. ID 7, Page 1, Line 756, Pos (1,1)
+msgid ""
+"\\>\\C[10]【装備スフィアのコピー･ペースト機能】　　　 1\\n[2]\\C[0]\n"
+"\\>装備画面にて、キャラの装備しているスフィアの情報を\n"
+"\\>コピーしておき、コピーした情報と同じスフィアを\n"
+"\\>複数の装備部位に簡易装備できます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 760, Pos (1,1)
+msgid ""
+"\\>\\C[10]【装備スフィアのコピー･ペースト機能】　　　 2\\n[2]\\C[0]\n"
+"\\>コピー･ペーストには[Shiftキー]を用います。\n"
+"\\>また「最後に装備したスフィア」は\n"
+"\\>自動的にコピーされます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 764, Pos (1,1)
+msgid ""
+"\\>\\C[10]【装備スフィアのカテゴリー別ジャンプ機能】　3\\n[2]\\C[0]\n"
+"\\>装備画面にて、Ｔスフィアを除くスフィアの\n"
+"\\>装備候補リスト表示中に[Shiftキー]を押すと、特定の\n"
+"\\>カテゴリー別にカーソル位置を簡易移動できます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 768, Pos (1,1)
+msgid ""
+"\\>\\C[10]【アビリティ画面のメンバー切り替え範囲拡大】4\\n[2]\\C[0]\n"
+"\\>アビリティ画面にてアビリティの確認･使用を行う\n"
+"\\>メンバーを切り替える際に、バックメンバーにも\n"
+"\\>切り替えられるようになります。"
+msgstr ""
+
+#. ID 7, Page 1, Line 772, Pos (1,1)
+msgid ""
+"\\>\\C[10]【回復魔法の簡易使用】　　　　　　　　　　　5\\n[2]\\C[0]\n"
+"\\>アビリティ画面にて回復魔法を使用する際は、\n"
+"\\>そのメンバーが装備可能な回復魔法スフィアを\n"
+"\\>所持してさえいれば、回復魔法を使用可能になります。"
+msgstr ""
+
+#. ID 7, Page 1, Line 776, Pos (1,1)
+msgid ""
+"\\>\\C[10]【ステータスチャートの情報表示追加】　　　　6\\n[2]\\C[0]\n"
+"\\>ステータス画面のステータスチャートにて、\n"
+"\\>そのメンバーのバストアップ絵やゲージの分割ラインが\n"
+"\\>追加されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 780, Pos (1,1)
+msgid ""
+"\\>\\C[10]【ステータスチャートのゲージアニメーション】7\\n[2]\\C[0]\n"
+"\\>ステータス画面のステータスチャートにて、\n"
+"\\>メンバーを切り替えた際に\n"
+"\\>各ゲージがアニメーションしながら変動します。"
+msgstr ""
+
+#. ID 7, Page 1, Line 784, Pos (1,1)
+msgid ""
+"\\>\\C[10]【キャストデータ表示仕様の変更】　　　　　　8\\n[2]\\C[0]\n"
+"\\>キャストデータにて、\n"
+"\\>キャラの名前にカーソル位置が合った時点で、\n"
+"\\>そのキャラのグラフィックを表示します。"
+msgstr ""
+
+#. ID 7, Page 1, Line 788, Pos (1,1)
+msgid ""
+"\\>\\C[10]【デスティネイションの文章高速化】　　　　　9\\n[2]\\C[0]\n"
+"\\>デスティネイションの「◆場所：～」の表示が\n"
+"\\>高速化されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 791, Pos (1,1)
+msgid ""
+"\\>\\C[10]【パーティ\\n[3]特殊操作ガイドの追加】 10\\n[2]\\C[0]\n"
+"\\>パーティオーガナイズにて、各種特殊操作の\n"
+"\\>操作方法を示すガイドが表示されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 794, Pos (1,1)
+msgid ""
+"\\>\\C[10]【コンフィグ移行ガイドの追加】　　　　　　 11\\n[2]\\C[0]\n"
+"\\>トップメニューにてカーソルを\\_BREAK\\_に\n"
+"\\>合わせている時は、Shiftキー入力でコンフィグに\n"
+"\\>移行出来る事を示すガイドが表示されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 897, Pos (1,1)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 2, Line 104, Pos (1,3)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 7, Line 453, Pos (1,3)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 9, Line 1763, Pos (1,3)
+#. Contains choice at line 3 (2 options)
+#. ID 16, Page 1, Line 32, Pos (3,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>※この周回では二度とプロファイルデータを\n"
+"\\>　実装出来なくなりますが、宜しいですか？"
+msgstr ""
+
+#. ID 7, Page 1, Line 934, Pos (1,1)
+#. ID 7, Page 1, Line 970, Pos (1,1)
+#. ID 15, Page 2, Line 143, Pos (1,3)
+#. ID 15, Page 7, Line 492, Pos (1,3)
+#. ID 15, Page 9, Line 1885, Pos (1,3)
+#. ID 16, Page 1, Line 154, Pos (3,5)
+msgid ""
+"\\>※現在、プロファイルデータを記録しない設定に\n"
+"\\>　なっているため、この周回では\n"
+"\\>　プロファイルデータを再実装出来ません。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1110, Pos (1,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "/14"
+msgstr ""
+
+#. ID 7, Page 1, Line 1111, Pos (1,1)
+msgid ""
+"\\>\\C[10]【ＷＴ減算処理の改良】　　　　　　　　　　　1\\n[2]\\C[0]\n"
+"\\>なるべくＷＴゼロでＴＧアイコンが止まる様に\n"
+"\\>減算します。\n"
+"\\>各ＴＧアイコンが左端に詰められ難くなります。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1115, Pos (1,1)
+msgid ""
+"\\>\\C[10]【魔法･アイテム選択の簡略化】　　　　　　　 2\\n[2]\\C[0]\n"
+"\\>魔法やアイテムの選択時において、\n"
+"\\>空欄しかない末端部分のページは排除されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1118, Pos (1,1)
+msgid ""
+"\\>\\C[10]【アビリティのカテゴリー選択の簡略化】　　　3\\n[2]\\C[0]\n"
+"\\>「攻撃魔法･回復魔法･補助魔法･固有アビリティ」の\n"
+"\\>４種を選択する際に、アビリティを一切習得していない\n"
+"\\>カテゴリーにはカーソルを合わせられなくなります。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1122, Pos (1,1)
+msgid ""
+"\\>\\C[10]【不利状態回復アイテムの黄色表示】　　　　　4\\n[2]\\C[0]\n"
+"\\>アイテム選択時において、メンバーが何らかの\n"
+"\\>不利状態に陥っている場合は、その不利状態を\n"
+"\\>回復出来るアイテムの名前が黄色で表示されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1126, Pos (1,1)
+msgid ""
+"\\>\\C[10]【メンバー名のグレー表示】　　　　　　　　　5\\n[2]\\C[0]\n"
+"\\>戦闘不能もしくは石化状態に陥っている\n"
+"\\>メンバーの名前は、グレー色で表示されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1129, Pos (1,1)
+msgid ""
+"\\>\\C[10]【『メンバーデータ』コマンドの追加】　　　　6\\n[2]\\C[0]\n"
+"\\>エネミーデータ同様に、味方側の各種データを\n"
+"\\>表示するコマンド『メンバーデータ』が追加されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1132, Pos (1,1)
+msgid ""
+"\\>\\C[10]【追加データ『Status Effects』】　　　　　　7\\n[2]\\C[0]\n"
+"\\>エネミーデータ及びメンバーデータの２ページ目に、\n"
+"\\>対象の不利状態や有利状態の有無を表示する\n"
+"\\>『Status Effects』のページが追加されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1136, Pos (1,1)
+msgid ""
+"\\>\\C[10]【追加データ『Critical Ability』】　　　　　8\\n[2]\\C[0]\n"
+"\\>特定の敵のエネミーデータの最後のページに、その敵が\n"
+"\\>使用する重要度の高いアビリティ等の情報を表示する\n"
+"\\>『Critical Ability』のページが追加されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1140, Pos (1,1)
+msgid ""
+"\\>\\C[10]【データ表示中断機能の追加】　　　　　　　　9\\n[2]\\C[0]\n"
+"\\>エネミーデータやメンバーデータやリファレンスの\n"
+"\\>表示中に[キャンセルキー]を押す事で、即座に\n"
+"\\>そのコマンドを終了してコマンド選択に戻れます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1144, Pos (1,1)
+msgid ""
+"\\>\\C[10]【ページ戻り機能追加】　　　　　　　　　　　10\\n[2]\\C[0]\n"
+"\\>エネミーデータやメンバーデータやリファレンスの\n"
+"\\>表示中に[方向キーのいずれか]を押す事で、\n"
+"\\>一つ前のページへ戻れます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1148, Pos (1,1)
+msgid ""
+"\\>\\C[10]【ページ末端への移行機能追加】　　　　　　　11\\n[2]\\C[0]\n"
+"\\>エネミーデータやメンバーデータやリファレンスの\n"
+"\\>表示中に[Shiftキー]を押す事で、瞬時に\n"
+"\\>末端（もしくはその手前）のページへ移行出来ます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1152, Pos (1,1)
+msgid ""
+"\\>\\C[10]【自動復活状態の確認機能追加】　　　　　　　12\\n[2]\\C[0]\n"
+"\\>メンバーターゲット選択時に[Shift]キーを押す事で、\n"
+"\\>各メンバーのリヴァイバーの残り回数や、アビリティ\n"
+"\\>による特殊自動復活状態の有無を確認出来ます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1156, Pos (1,1)
+msgid ""
+"\\>\\C[10]【オートフィルのSUP.LVUP通知の追加】　　　　13\\n[2]\\C[0]\n"
+"\\>戦闘勝利時にオートフィルのSUP.LVが上昇する場合は、\n"
+"\\>キャラのレベルアップと同様のタイミングで\n"
+"\\>通知されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1160, Pos (1,1)
+msgid ""
+"\\>\\C[10]【オートフィルの容量切れ通知の追加】　　　　14\\n[2]\\C[0]\n"
+"\\>オートフィル実行時にSUP.HPやSUP.TPの残量が\n"
+"\\>無くなった場合は、特殊な効果音が鳴り、以降は\n"
+"\\>アナウンスメッセージ中に\\_EMPTY\\_と記されます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1313, Pos (1,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "/4"
+msgstr ""
+
+#. ID 7, Page 1, Line 1314, Pos (1,1)
+msgid ""
+"\\>\\C[10]【戦闘を省略出来ない敵】　　　　　　　　　　1\\n[2]\\C[0]\n"
+"\\>ボス及び最終盤のダンジョンで出現する敵との戦闘は\n"
+"\\>省略出来ません。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1317, Pos (1,1)
+msgid ""
+"\\>\\C[10]【省略時のBOOTY補正】　　　　　　　　　　　 2\\n[2]\\C[0]\n"
+"\\>敵との戦闘を省略した場合は、\n"
+"\\>戦闘で得られる利益が本来の1/100に低下します。\n"
+"\\>アイテムドロップ率は本来の1/10に低下します。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1321, Pos (1,1)
+msgid ""
+"\\>\\C[10]【省略時のグレード】　　　　　　　　　　　　3\\n[2]\\C[0]\n"
+"\\>省略した戦闘でのグレードは、\n"
+"\\>現在の平均グレードと同じ数値になります。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1324, Pos (1,1)
+msgid ""
+"\\>\\C[10]【設定の一時切り替え】　　　　　　　　　　　4\\n[2]\\C[0]\n"
+"\\>戦闘開始時に[決定キー キャンセルキー Shiftキー]の\n"
+"\\>いずれかを押し続けておくと、その戦闘の\n"
+"\\>省略の可否を一時的に切り替えられます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1448, Pos (1,1)
+#. Contains choice at line 2 (2 options)
+msgid "\\>※バトルデータのロードを行いますか？"
+msgstr ""
+
+#. ID 7, Page 1, Line 1508, Pos (1,1)
+msgid ""
+"\\>\n"
+"\\>※バトルデータのロードが完了しました。"
+msgstr ""
+
+#. ID 7, Page 1, Line 2628, Pos (1,1)
+msgid ""
+"\\>\\C[10]【ボスとの戦闘における初期ＷＴ】\\C[0]\n"
+"\\>ボスとの戦闘ではランダム要素が軽微になり、\n"
+"\\>ほぼORGと同様の初期ＷＴ決定方式になります。"
+msgstr ""
+
+#. ID 15, Page 2, Line 97, Pos (1,3)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 7, Line 446, Pos (1,3)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 9, Line 1756, Pos (1,3)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 1, Line 25, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+msgid "\\>※内部ではデータを記録し続けますか？"
+msgstr ""
+
+#. ID 15, Page 3, Line 153, Pos (1,3)
+#. ID 15, Page 7, Line 975, Pos (1,3)
+#. ID 15, Page 9, Line 2374, Pos (1,3)
+#. ID 16, Page 2, Line 244, Pos (3,5)
+msgid ""
+"\\>\\C[10]【アビリティ･アイテム選択の簡略化】　　　　 1/6\\C[0]\n"
+"\\>アビリティやアイテムの選択時において、\n"
+"\\>空欄しかない末端部分のページは排除されます。"
+msgstr ""
+
+#. ID 15, Page 3, Line 156, Pos (1,3)
+#. ID 15, Page 7, Line 978, Pos (1,3)
+#. ID 15, Page 9, Line 2377, Pos (1,3)
+#. ID 16, Page 2, Line 247, Pos (3,5)
+msgid ""
+"\\>\\C[10]【アビリティ･アイテム選択の簡略化】　　　　 2/6\\C[0]\n"
+"\\>またアビリティ選択時において、\n"
+"\\>「攻撃魔法･回復魔法･補助魔法･固有アビリティ」の\n"
+"\\>４種を選択する操作も状況により簡略化されます。"
+msgstr ""
+
+#. ID 15, Page 3, Line 160, Pos (1,3)
+#. ID 15, Page 7, Line 982, Pos (1,3)
+#. ID 15, Page 9, Line 2381, Pos (1,3)
+#. ID 16, Page 2, Line 251, Pos (3,5)
+msgid ""
+"\\>\\C[10]【不利状態回復アイテムの黄色表示】　　　　　3/6\\C[0]\n"
+"\\>アイテム選択時において、メンバーが何らかの\n"
+"\\>不利状態に陥っている場合は、その不利状態を\n"
+"\\>回復できるアイテムの名前が黄色で表示されます。"
+msgstr ""
+
+#. ID 15, Page 3, Line 164, Pos (1,3)
+#. ID 15, Page 7, Line 986, Pos (1,3)
+#. ID 15, Page 9, Line 1962, Pos (1,3)
+#. ID 15, Page 9, Line 2385, Pos (1,3)
+#. ID 16, Page 1, Line 231, Pos (3,5)
+#. ID 16, Page 2, Line 255, Pos (3,5)
+#. ID 17, Page 6, Line 30, Pos (1,5)
+msgid ""
+"\\>\\C[10]【データ表示中断機能の追加】　　　　　　　　3/6\\C[0]\n"
+"\\>エネミーデータやメンバーデータやリファレンスの\n"
+"\\>表示中に[キャンセルキー]を押す事で、即座に\n"
+"\\>そのコマンドを終了してコマンド選択に戻れます。"
+msgstr ""
+
+#. ID 15, Page 3, Line 168, Pos (1,3)
+#. ID 15, Page 7, Line 990, Pos (1,3)
+#. ID 15, Page 9, Line 1966, Pos (1,3)
+#. ID 15, Page 9, Line 2389, Pos (1,3)
+#. ID 16, Page 1, Line 235, Pos (3,5)
+#. ID 16, Page 2, Line 259, Pos (3,5)
+#. ID 17, Page 6, Line 34, Pos (1,5)
+msgid ""
+"\\>\\C[10]【ページ戻り機能追加】　　　　　　　　　　　4/6\\C[0]\n"
+"\\>エネミーデータやメンバーデータやリファレンスの\n"
+"\\>表示中に[方向キーのいずれか]を押す事で、\n"
+"\\>一つ前のページへ戻れます。"
+msgstr ""
+
+#. ID 15, Page 3, Line 172, Pos (1,3)
+#. ID 15, Page 7, Line 994, Pos (1,3)
+#. ID 15, Page 9, Line 1970, Pos (1,3)
+#. ID 15, Page 9, Line 2393, Pos (1,3)
+#. ID 16, Page 1, Line 239, Pos (3,5)
+#. ID 16, Page 2, Line 263, Pos (3,5)
+#. ID 17, Page 6, Line 38, Pos (1,5)
+msgid ""
+"\\>\\C[10]【ページ末端への移行機能追加】　　　　　　　5/6\\C[0]\n"
+"\\>エネミーデータやメンバーデータやリファレンスの\n"
+"\\>表示中に[Shiftキー]を押す事で、\n"
+"\\>瞬時に一番最後のページへ移行出来ます。"
+msgstr ""
+
+#. ID 15, Page 3, Line 176, Pos (1,3)
+#. ID 15, Page 7, Line 998, Pos (1,3)
+#. ID 15, Page 9, Line 1974, Pos (1,3)
+#. ID 15, Page 9, Line 2397, Pos (1,3)
+#. ID 16, Page 1, Line 243, Pos (3,5)
+#. ID 16, Page 2, Line 267, Pos (3,5)
+#. ID 17, Page 6, Line 42, Pos (1,5)
+msgid ""
+"\\>\\C[10]【自動復活状態の確認機能追加】　　　　　　　6/6\\C[0]\n"
+"\\>メンバーターゲット選択時に[Shift]キーを押す事で、\n"
+"\\>各メンバーのリヴァイバーの残り回数や、アビリティ\n"
+"\\>による特殊自動復活状態の有無を確認出来ます。"
+msgstr ""
+
+#. ID 15, Page 9, Line 729, Pos (1,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>※確認メッセージの有無を選択して下さい。\n"
+"\\>―――――――――――"
+msgstr ""
+
+#. ID 15, Page 9, Line 731, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>確認メッセージ有り\n"
+"\\>確認メッセージ無し"
+msgstr ""
+
+#. ID 15, Page 9, Line 1204, Pos (1,3)
+msgid ""
+"\\>※アレンジ版エフェクトの発生確率を設定して下さい。\n"
+"\\>　一応、標準の確率は ALT:30％(=ORG:70％) です。\n"
+"\\>―――――――――――"
+msgstr ""
+
+#. ID 15, Page 9, Line 1218, Pos (1,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>※中ボス格以下の敵との固定戦闘では、アレンジ版\n"
+"\\>　エフェクトの発生確率を強制的に100％にしますか？"
+msgstr ""
+
+#. ID 15, Page 9, Line 1699, Pos (1,3)
+msgid ""
+"\\>※アレンジモードの戦闘は、\n"
+"\\>　初期ＷＴ決定方式 ALT を基本に設計されています。\n"
+"\\>　 ORG でのまともな戦闘バランスは保証出来ません。"
+msgstr ""
+
+#. ID 15, Page 9, Line 1955, Pos (1,3)
+#. ID 16, Page 1, Line 224, Pos (3,5)
+#. ID 17, Page 6, Line 23, Pos (1,5)
+msgid ""
+"\\>\\C[10]【『メンバーデータ』の追加】　　　　　　　　1/6\\C[0]\n"
+"\\>エネミーデータ同様に、味方側の各種データを\n"
+"\\>表示するコマンド『メンバーデータ』が追加されます。"
+msgstr ""
+
+#. ID 15, Page 9, Line 1958, Pos (1,3)
+#. ID 16, Page 1, Line 227, Pos (3,5)
+#. ID 17, Page 6, Line 26, Pos (1,5)
+msgid ""
+"\\>\\C[10]【追加データ『Status Effects』】　　　　　　2/6\\C[0]\n"
+"\\>エネミーデータ及びメンバーデータの２ページ目に、\n"
+"\\>対象の不利状態や有利状態の有無を表示する\n"
+"\\>『Status Effects』のページが実装されます。"
+msgstr ""
+
+#. ID 15, Page 9, Line 2032, Pos (1,3)
+#. Contains choice at line 2 (3 options)
+#. ID 16, Page 1, Line 301, Pos (3,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\>※簡易戦闘での戦闘ＢＧＭを選択して下さい。"
+msgstr ""
+
+#. ID 15, Page 9, Line 2033, Pos (1,3)
+#. Choice (3 options, embedded in a message)
+#. ID 16, Page 1, Line 302, Pos (3,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>ＢＧＭ１（HO_bossbattle2.mp3）\n"
+"\\>ＢＧＭ２（Ka_ten_.mp3）\n"
+"\\>ＢＧＭ３（CI_dycon_m2k.mp3）"
+msgstr ""
+
+#. ID 15, Page 9, Line 2045, Pos (1,3)
+#. Contains choice at line 2 (3 options)
+#. ID 16, Page 1, Line 314, Pos (3,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\>※ＢＧＭのテンポを選択して下さい。"
+msgstr ""
+
+#. ID 15, Page 9, Line 2046, Pos (1,3)
+#. Choice (3 options, embedded in a message)
+#. ID 16, Page 1, Line 315, Pos (3,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>１００％\n"
+"\\>９０％\n"
+"\\>１１０％"
+msgstr ""
+
+#. ID 15, Page 9, Line 2104, Pos (1,3)
+#. ID 16, Page 1, Line 373, Pos (3,5)
+msgid ""
+"\\>※設定したＢＧＭを再生しています。\n"
+"\\>\n"
+"\\>　もう一度決定キーまたは\n"
+"\\>　キャンセルキーを押すと終了します。"
+msgstr ""
+
+#. ID 15, Page 9, Line 2231, Pos (1,3)
+#. ID 16, Page 2, Line 101, Pos (3,5)
+msgid ""
+"\\>※初期ＷＴ決定方式 ORG での、アレンジモードの\n"
+"\\>　まともな戦闘バランスは保証出来ません。\n"
+"\\>　なるべく ALT でプレイされる事をお奨めします。"
+msgstr ""
+

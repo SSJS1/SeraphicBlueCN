@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 9, Pos (6,6)
+msgid ""
+"女性：\n"
+"いってらっしゃいませ。\n"
+"エンヴィの街を存分に御楽しみください。"
+msgstr ""
+
+#. ID 3, Page 1, Line 27, Pos (6,6)
+msgid ""
+"女性：\n"
+"御連れ様が随分と御探しになってましたよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 42, Pos (6,6)
+msgid ""
+"女性：\n"
+"いらっしゃいませ。一泊\\_\\V[4801]\\_ディアになります。"
+msgstr ""
+
+#. ID 3, Page 1, Line 45, Pos (6,6)
+#. Contains choice at line 4 (1 options)
+msgid ""
+"フォクシー：\n"
+"(休むんだったらアタシの部屋でも充分さ。\n"
+" 態々金払って泊まる必要無いよ。)"
+msgstr ""
+
+#. ID 3, Page 1, Line 48, Pos (6,6)
+#. Choice (1 options, embedded in a message)
+msgid "休憩しない"
+msgstr ""
+
+#. ID 3, Page 1, Line 52, Pos (6,6)
+#. ID 11, Page 1, Line 17, Pos (6,4)
+#. ID 11, Page 1, Line 23, Pos (6,4)
+msgid ""
+"女性：\n"
+"またの御越しを御待ちしております。"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (9,10)
+msgid ""
+"男性：\n"
+"色々とこの街も悪く言われてるがね、\n"
+"決してそんな事は無いんだよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (9,10)
+msgid ""
+"男性：\n"
+"住んでみれば分かる事さ。\n"
+"表町に限れば衣食住はとても豊かだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 9, Pos (9,10)
+msgid ""
+"男性：\n"
+"問題なのは、大物気取りでギャンブル等にのめり込み、\n"
+"結果堕落して腐臭を漂わせて行く小者連中。"
+msgstr ""
+
+#. ID 5, Page 1, Line 12, Pos (9,10)
+msgid ""
+"男性：\n"
+"自分の身の程を弁えている人間に対しては、\n"
+"この街は決して悪くはしないものだよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 50, Pos (0,0)
+msgid ""
+"レイク：\n"
+"また行き成りだな…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 52, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ま、\\.\\.無理にとは言わないけどさ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 54, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺は別に。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"私はＯＫよ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"特に拒む理由も無いが…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 70, Pos (0,0)
+msgid ""
+"レイク：\n"
+"しかし思ってもみなかった。\\|\n"
+"あんたの口から、一緒に行きたいなんて言葉がな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 73, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ケイオスに嫌気でも差したか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 75, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ちょっとばかり他所の風に当たってみようと\n"
+"思っただけさ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 78, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"どうせ当たりに行くのなら、\n"
+"一緒ってのも悪くないだろ？"
+msgstr ""
+
+#. ID 10, Page 1, Line 81, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"溜まったりしたら相手も出来るよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 83, Pos (0,0)
+msgid ""
+"レイク：\n"
+"はぁ？ \\.\\.一緒に旅するのは俺達の財布か？"
+msgstr ""
+
+#. ID 10, Page 1, Line 85, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ジョークだよ。\\.\\.ケイオス流の。"
+msgstr ""
+
+#. ID 10, Page 1, Line 87, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そいつは良かった。"
+msgstr ""
+
+#. ID 10, Page 1, Line 93, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ハウゼン、\\.\\.今のジョークの意味って…？"
+msgstr ""
+
+#. ID 10, Page 1, Line 95, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"剣の稽古の相手をするという事だ。\\.\\.\n"
+"有料でな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"成る程ね。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 100, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"もう忘れろ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 106, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それじゃ、\\.\\.また暫くの間宜しく。"
+msgstr ""
+
+#. ID 10, Page 1, Line 108, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"レイクにハウゼン。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 110, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そして御嬢さん。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 112, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、\\.\\.此方こそ。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 4, Pos (6,4)
+msgid ""
+"女性：\n"
+"いらっしゃいませ。一泊\\_\\V[4801]\\_ディアに成ります。"
+msgstr ""
+
+#. ID 11, Page 1, Line 9, Pos (6,4)
+msgid ""
+"女性：\n"
+"ごゆっくりお休みください。"
+msgstr ""
+
+#. ID 11, Page 1, Line 28, Pos (6,4)
+msgid ""
+"女性：\n"
+"最近、\"暴走族\"っていうのが流行ってるんです。\n"
+"街中を車で爆音を立てて走ってるっていう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 31, Pos (6,4)
+msgid ""
+"女性：\n"
+"その所為で、泊まって頂いているお客様の方々から、\n"
+"よく\"寝られない\"っていう苦情が多くて困っています。"
+msgstr ""
+
+#. ID 11, Page 1, Line 39, Pos (6,4)
+msgid ""
+"女性：\n"
+"…その暴走族は、どうやらケイオスを根城に\n"
+"しているらしいのですが…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 42, Pos (6,4)
+msgid ""
+"女性：\n"
+"保安局にその苦情をいくら申し立てても、命の危険が\n"
+"伴うから対応出来ないって言われてしまうんです。"
+msgstr ""
+
+#. ID 11, Page 1, Line 45, Pos (6,4)
+msgid ""
+"女性：\n"
+"保安官が街の保安を守らなかったら、\n"
+"一体誰が守ってくれると言うのでしょうか…？"
+msgstr ""
+
+#. ID 11, Page 1, Line 50, Pos (6,4)
+msgid ""
+"女性：\n"
+"少し前まで、エンヴィでは暴走族が\n"
+"街中を走り回っていて問題になって居たんですが、\n"
+"最近は暴走族が全く現れなくなりましたね。"
+msgstr ""
+
+#. ID 11, Page 1, Line 54, Pos (6,4)
+msgid ""
+"女性：\n"
+"誰かが暴走族を退治して呉れたんでしょうか…？\n"
+"だとしたら、有り難い事です。"
+msgstr ""
+
+#. ID 13, Page 1, Line 3, Pos (14,10)
+msgid ""
+"ハチマキ男：\n"
+"それ来た、ストレートだ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 8, Pos (14,10)
+msgid ""
+"中年男：\n"
+"くそッ…。\n"
+"どうしてお前にはいつも敵わないかなぁ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 11, Pos (14,10)
+msgid ""
+"中年男：\n"
+"（今度こそロイヤルストレートフラッシュだッ！）"
+msgstr ""
+
+#. ID 13, Page 1, Line 16, Pos (14,10)
+msgid ""
+"ハチマキ男：\n"
+"（ったく、大きな役ばっか狙うから駄目なんだよ）"
+msgstr ""
+

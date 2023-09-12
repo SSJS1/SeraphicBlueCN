@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 1, Line 6, Pos (0,0)
+msgid ""
+"村長：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 8, Pos (0,0)
+msgid ""
+"黒服：\n"
+"ジジイ、\\.\\.聞こえなかったのか？"
+msgstr ""
+
+#. ID 14, Page 1, Line 10, Pos (0,0)
+msgid ""
+"黒服：\n"
+"ゲオルク様はラウレンティアへ行かれるのだ。\\.\\.\n"
+"今直ぐに其処を退け。"
+msgstr ""
+
+#. ID 14, Page 1, Line 17, Pos (0,0)
+msgid ""
+"村長：\n"
+"退かぬと言ったら？\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 19, Pos (0,0)
+msgid ""
+"男性：\n"
+"おい、\\.\\.村長…！\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 24, Pos (0,0)
+msgid ""
+"黒服：\n"
+"場違いに高価な墓が一つ、この村に出来上がると…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 26, Pos (0,0)
+msgid ""
+"黒服：\n"
+"そう言っておくか。"
+msgstr ""
+
+#. ID 14, Page 1, Line 31, Pos (0,0)
+msgid ""
+"村長：\n"
+"ラウレンティアは我々の大切な象徴。\n"
+"汚れた魂にて踏み入る事を許す訳には行かぬ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 37, Pos (0,0)
+msgid ""
+"黒服：\n"
+"ほう、\\.\\.良い度胸だ。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 39, Pos (0,0)
+msgid ""
+"黒服：\n"
+"安心しろ。\\.\\.\n"
+"十字架は選りすぐりの最高級品を用意してやる。"
+msgstr ""
+
+#. ID 14, Page 1, Line 42, Pos (0,0)
+msgid ""
+"黒服：\n"
+"最高の石材。\\.\\.最高の職人。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 44, Pos (0,0)
+msgid ""
+"黒服：\n"
+"そして眼の前の、\\.\\.最高の馬鹿。"
+msgstr ""
+
+#. ID 14, Page 1, Line 49, Pos (0,0)
+msgid ""
+"村長：\n"
+"否、\\.\\.そんな物は要らん。"
+msgstr ""
+
+#. ID 14, Page 1, Line 52, Pos (0,0)
+msgid ""
+"村長：\n"
+"死して魂と成れば、\\.\\.\n"
+"現世の仮初の価値観なぞ意味は無い。\\|\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 58, Pos (0,0)
+msgid ""
+"村長：\n"
+"行きたくば行け。"
+msgstr ""
+
+#. ID 14, Page 1, Line 60, Pos (0,0)
+msgid ""
+"村長：\n"
+"ガイアの怒りに触れてしまわぬよう、\n"
+"真摯に恐れ慄きながら。"
+msgstr ""
+
+#. ID 14, Page 1, Line 69, Pos (0,0)
+msgid ""
+"黒服：\n"
+"ゲオルク様。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"うむ、\\.\\.先へ進むぞ。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 73, Pos (0,0)
+msgid ""
+"黒服：\n"
+"畏まりました。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"言っておくが、\\.\\.立場が逆だ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 91, Pos (0,0)
+msgid ""
+"村長：\n"
+"何？\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 93, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"私が星に慄くのではない。"
+msgstr ""
+
+#. ID 14, Page 1, Line 100, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[3]星が、\\.\\.私に慄くのだ。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 115, Pos (0,0)
+msgid ""
+"村長：\n"
+"馬鹿者が…。\\|\\^"
+msgstr ""
+

@@ -1,0 +1,1328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"いらっしゃい。此処は私たち妖精の暮らす村よ。\n"
+"貴方達、この村には初めて来たでしょうから\n"
+"まずはこの村の簡単な説明をするわね。"
+msgstr ""
+
+#. ID 1, Page 1, Line 7, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"この村には、独自にショップを構える妖精が\n"
+"私を含めて5人いるの。\n"
+"それぞれが貴重なレアアイテムを売っていたりするわ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 20, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"但し、まだ入荷準備中の商品もあったりして、\n"
+"ショップの状態は完全とは言えないの。"
+msgstr ""
+
+#. ID 1, Page 1, Line 23, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"貴方達が特定の条件を満たした頃には\n"
+"新しい商品が入荷されてると思うわ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 26, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"詳しい入荷予定時期なんかは\n"
+"ミーチェに聞いてみてね。"
+msgstr ""
+
+#. ID 1, Page 1, Line 32, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"ちなみに私は、入手期間や個数が限定されていたり、\n"
+"敵からしか入手できないＧスフィアを売っているのよ。\n"
+"もし良かったら、買いに来てね。"
+msgstr ""
+
+#. ID 1, Page 1, Line 38, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"ちなみに私は、敵からしか入手できないＧスフィアを\n"
+"売っているのよ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 41, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"それに、入手期間や個数が\n"
+"限定されているＧスフィアも販売する予定よ。\n"
+"もし良かったら、買いに来てね。"
+msgstr ""
+
+#. ID 1, Page 2, Line 6, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"そういえば最近、こんな物を仕入れてるの。\n"
+"サービスで貴方達に１個あげるわね。"
+msgstr ""
+
+#. ID 1, Page 2, Line 29, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"ちょっと貴方たち…追加要素を完全に終わらせたの？\\!\n"
+"折角用意した追加要素なのに、こんなあっさりと\n"
+"やってのけるなんて本当に大した人たちね。"
+msgstr ""
+
+#. ID 1, Page 2, Line 33, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"そのやりこみ魂、凄く気に入ったからこれあげるわ。"
+msgstr ""
+
+#. ID 1, Page 2, Line 41, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"私達妖精族の最高の技術を以って作られた至高の剣。\n"
+"これがあれば、どんな敵だって簡単に倒せるわよ。\\!\n"
+"剣を使う人がいない？\\.\\.なら次周で使えばいいじゃない。"
+msgstr ""
+
+#. ID 1, Page 2, Line 45, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"とにかく、追加要素を楽しんでくれてありがとう！\n"
+"気が向いたら、また追加するかもしれないけれどね。"
+msgstr ""
+
+#. ID 1, Page 2, Line 48, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"後、ショップはきちんと最後まで使えるから安心して。\n"
+"充分な準備を整えてから最後の戦いに望むのよ。"
+msgstr ""
+
+#. ID 1, Page 2, Line 51, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"それじゃ、頑張ってね！"
+msgstr ""
+
+#. ID 1, Page 2, Line 70, Pos (7,12)
+#. Contains choice at line 2 (3 options)
+msgid "ナティ：いらっしゃい。何か買っていく？"
+msgstr ""
+
+#. ID 1, Page 2, Line 71, Pos (7,12)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入　[限定･レア\\_Ｇスフィア]\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 1, Page 2, Line 82, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"あの雪ダルマ、思い出しただけでも腹立たしいわ。"
+msgstr ""
+
+#. ID 1, Page 2, Line 84, Pos (7,12)
+msgid ""
+"ナティ：\n"
+"雪ダルマのくせに…、雪ダルマのくせに……。\\.\\.\n"
+"色々と、非常識にも程が有るわよ。\\.ぷんぷん！"
+msgstr ""
+
+#. ID 2, Page 1, Line 5, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"あら、こんな場所によく来たわね。\\.\\.\n"
+"私の店では、敵からしかゲットできなかったり、\n"
+"普通は１個しか手に入らない武具を売ってるわよ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 11, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"あら、こんな場所によく来たわね。\\.\\.\n"
+"私の店では、敵からしかゲットできない武具を\n"
+"売ってるわよ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 15, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"それと、他所じゃ１個しか手に入らないような\n"
+"限定品の武具も販売するつもりよ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 20, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"アイテムコレクションをお金で解決するっていうのも\n"
+"アリだと思うわ。その分値段は張るんだけどね。"
+msgstr ""
+
+#. ID 2, Page 2, Line 42, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"それにしても…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 46, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"最近は骨の有る人間をなかなか見掛けないわね。\n"
+"好んで茨の道を突き進んだりとか、\n"
+"何かの記録に挑戦しようって人が少ないのよ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 51, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"って貴方達、よく最終パーティ全員のレベルを\n"
+"限界まで上げたわね！\n"
+"この御時世にそんな人たちがいたなんて天然記念物よ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 56, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"しかも貴方達、プロファイルデータで\n"
+"最終スコア25000以上にもなってるじゃない！\n"
+"ああんもう、ますます天然記念物よ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 65, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"って貴方達、よくプロファイルデータで\n"
+"最終スコア25000以上も取れたわね！\n"
+"この御時世にそんな人たちがいたなんて天然記念物よ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 76, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"それじゃ、これは私からのプレゼントよ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 106, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"本当にお疲れ様。\n"
+"何かを頑張るのは素敵な事よね。"
+msgstr ""
+
+#. ID 2, Page 2, Line 109, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"ところで、貴方達はこのやり込みに\n"
+"どれくらいの時間を費やしたのかしら…？"
+msgstr ""
+
+#. ID 2, Page 2, Line 112, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"人間の中には、他にやるべき事が有るのに\n"
+"それを無視して、娯楽とかに長時間のめり込んでる人も\n"
+"結構居るみたいなのよね。"
+msgstr ""
+
+#. ID 2, Page 2, Line 116, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"もしも貴方達にとって、\n"
+"自分の人生の為に他にやるべき事が有るのなら、\n"
+"こういうやり込みよりもそっちを優先して欲しいわ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 120, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"娯楽を頑張る以前に、人生を頑張ってこそ\n"
+"本当に骨の有る人間だと思うから。"
+msgstr ""
+
+#. ID 2, Page 2, Line 126, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"っと、お喋りはここら辺にしといてと…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 149, Pos (2,36)
+#. Contains choice at line 2 (3 options)
+msgid "フェニア：何か買っていくかしら？"
+msgstr ""
+
+#. ID 2, Page 2, Line 150, Pos (2,36)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入　[限定･レア\\_武具]\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 2, Page 2, Line 165, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"最近は骨の有る人間をなかなか見掛けないわね。\n"
+"好んで茨の道を突き進んだりとか、\n"
+"何かの記録に挑戦しようって人は居ないのかしら。"
+msgstr ""
+
+#. ID 2, Page 2, Line 169, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"もし貴方達がここで\n"
+"骨の有るところを証明したければ…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 172, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"プロファイルデータでゲームクリア時点の\n"
+"最終スコア25000以上を達成するか、最終パーティの\n"
+"全員のレベルを限界まで上げる事をお勧めするわ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 199, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"って貴方達、よく１時間以内で\n"
+"ゲームクリアできたわね！\n"
+"この御時世にそんな人たちがいたなんて天然記念物よ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 205, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"って貴方達、よくプロファイルデータで\n"
+"ランク１位になれたわね！\n"
+"この御時世にそんな人たちがいたなんて天然記念物よ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 211, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"プロファイルデータでランク１位になるか、\n"
+"パーティ全員のレベルを限界まで上げるか、\n"
+"１時間以内でゲームをクリアすることをお勧めするわ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 217, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"最近の冒険家は軟弱者ばっかりよね。\\!\n"
+"手応えのある茨の道よりも、\n"
+"てんで楽な道を進みたがるのよ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 221, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"別に人の生き方を強制するつもりじゃないけど、\n"
+"やっぱり頑張った人には\n"
+"相応の報酬が有って然るべきよねー。"
+msgstr ""
+
+#. ID 2, Page 2, Line 225, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"もし貴方達が軟弱者と違うって証明したければ、\n"
+"プロファイルデータでランク１位になるか、難易度\n"
+"ハードを最終盤まで無撤退で通すことをお勧めするわ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 229, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"もし貴方達が軟弱者と違うって証明したければ、\n"
+"まずこのゲームの裏ボスを倒すことをお勧めするわ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 232, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"って貴方達、よくあの最大最強の敵を打ち倒せたわね！\n"
+"この御時世にそんな人たちがいたなんて天然記念物よ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 235, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"って貴方達、よく難易度ハードで\n"
+"フリーエンカウント無しで無撤退を通せたわね！\n"
+"この御時世にそんな人たちがいたなんて天然記念物よ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 240, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"しかもプロファイルデータで\n"
+"ランク１位にもなってるじゃない！\n"
+"ああんもう、ますます天然記念物よ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 250, Pos (2,36)
+msgid ""
+"フェニア：\n"
+"娯楽を利用するのは良いけど、\n"
+"娯楽に利用されないように気を付けてね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 4, Pos (12,4)
+msgid ""
+"ラヴィーザ：\n"
+"私の名はラヴィーザ。魔術師だ。\n"
+"究極のＡスフィアやＩスフィアを売っている。\n"
+"欲しい物があれば気軽に声をかけてくれ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 10, Pos (12,4)
+msgid ""
+"ラヴィーザ：\n"
+"私の名はラヴィーザ。魔術師だ。\n"
+"究極のＡスフィアやＩスフィアを販売する予定だ。\n"
+"今後とも宜しく。"
+msgstr ""
+
+#. ID 5, Page 2, Line 14, Pos (12,4)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "さて、何が"
+msgstr ""
+
+#. ID 5, Page 2, Line 15, Pos (12,4)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "欲しいの"
+msgstr ""
+
+#. ID 5, Page 2, Line 18, Pos (12,4)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "何か用"
+msgstr ""
+
+#. ID 5, Page 2, Line 22, Pos (12,4)
+#. Contains choice at line 2 (3 options)
+msgid "ラヴィーザ：\\n[2]\\n[3]かな？"
+msgstr ""
+
+#. ID 5, Page 2, Line 23, Pos (12,4)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入　[究極\\_Ａ･Ｉスフィア]\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 5, Page 2, Line 32, Pos (12,4)
+msgid ""
+"ラヴィーザ：\n"
+"済まない。私の店はまだ準備中だ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 42, Pos (12,4)
+msgid ""
+"ラヴィーザ：\n"
+"ナティを助けて呉れた事、感謝している。\n"
+"礼を言わせて呉れ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 45, Pos (12,4)
+msgid ""
+"ラヴィーザ：\n"
+"本来なら私が助けに行くべきだったのだが…。\n"
+"人間もなかなかやるものだな。"
+msgstr ""
+
+#. ID 5, Page 2, Line 54, Pos (12,4)
+#. ChangeHeroName (Actor 2)
+#. ID 6, Page 2, Line 60, Pos (36,37)
+#. ChangeHeroName (Actor 2)
+#. ID 7, Page 2, Line 153, Pos (20,21)
+#. ChangeHeroName (Actor 2)
+#. ID 16, Page 1, Line 163, Pos (38,18)
+#. ChangeHeroName (Actor 2)
+#. ID 16, Page 1, Line 170, Pos (38,18)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ヴェーネ"
+msgstr ""
+
+#. ID 5, Page 2, Line 55, Pos (12,4)
+#. ChangeHeroName (Actor 3)
+#. ID 6, Page 2, Line 61, Pos (36,37)
+#. ChangeHeroName (Actor 3)
+#. ID 7, Page 2, Line 154, Pos (20,21)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ユアン"
+msgstr ""
+
+#. ID 6, Page 1, Line 13, Pos (36,37)
+msgid ""
+"セアラ：\n"
+"あっ、ナティの知り合いでしょ。\n"
+"私はセアラ。ナティの友達よ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 17, Pos (36,37)
+msgid ""
+"セアラ：\n"
+"私が売ってるのは、とても能力の高いフレームと\n"
+"エーテルブランドのＧスフィアよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 20, Pos (36,37)
+msgid ""
+"セアラ：\n"
+"ちょっとお値段が高いけれど、それに見合う分の\n"
+"効果はちゃんと期待できるからね♪"
+msgstr ""
+
+#. ID 6, Page 1, Line 25, Pos (36,37)
+msgid ""
+"セアラ：\n"
+"私が売る予定なのは、とても能力の高いフレームと\n"
+"最高ブランドのＧスフィアよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 28, Pos (36,37)
+msgid ""
+"セアラ：\n"
+"ちょっとお値段は高くなると思うけど、\n"
+"それに見合う分の効果はちゃんと期待できるからね♪"
+msgstr ""
+
+#. ID 6, Page 2, Line 14, Pos (36,37)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "性能フレーム"
+msgstr ""
+
+#. ID 6, Page 2, Line 16, Pos (36,37)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "良かったら何"
+msgstr ""
+
+#. ID 6, Page 2, Line 17, Pos (36,37)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "か買ってって"
+msgstr ""
+
+#. ID 6, Page 2, Line 18, Pos (36,37)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "ね"
+msgstr ""
+
+#. ID 6, Page 2, Line 21, Pos (36,37)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "私のお店はま"
+msgstr ""
+
+#. ID 6, Page 2, Line 22, Pos (36,37)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "だ準備中なの"
+msgstr ""
+
+#. ID 6, Page 2, Line 26, Pos (36,37)
+#. Contains choice at line 2 (3 options)
+msgid "セアラ：\\n[3]\\n[4]\\n[5]。"
+msgstr ""
+
+#. ID 6, Page 2, Line 27, Pos (36,37)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入　[高\\n[2],Ｇスフィア]\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 6, Page 2, Line 36, Pos (36,37)
+msgid ""
+"セアラ：\n"
+"まだ準備中なの。\n"
+"楽しみに待っててね。"
+msgstr ""
+
+#. ID 6, Page 2, Line 47, Pos (36,37)
+msgid ""
+"セアラ：\n"
+"私達が密かに世界各地に出している\n"
+"品物の販売ルートは、\n"
+"通称「ナティネットワーク」と呼ばれているの。"
+msgstr ""
+
+#. ID 6, Page 2, Line 51, Pos (36,37)
+msgid ""
+"セアラ：\n"
+"名前の通り、この商売はナティが考案したことなのね。\n"
+"あの子、商才たくましいわよ。"
+msgstr ""
+
+#. ID 6, Page 2, Line 62, Pos (36,37)
+#. ChangeHeroName (Actor 4)
+#. ID 7, Page 2, Line 155, Pos (20,21)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "ケイン"
+msgstr ""
+
+#. ID 6, Page 2, Line 63, Pos (36,37)
+#. ChangeHeroName (Actor 5)
+#. ID 7, Page 2, Line 156, Pos (20,21)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "ミネルヴァ"
+msgstr ""
+
+#. ID 7, Page 1, Line 2, Pos (20,21)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "最高級回復"
+msgstr ""
+
+#. ID 7, Page 1, Line 3, Pos (20,21)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "アイテム,レ"
+msgstr ""
+
+#. ID 7, Page 1, Line 4, Pos (20,21)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "プリズミック"
+msgstr ""
+
+#. ID 7, Page 1, Line 7, Pos (20,21)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "エクステンド"
+msgstr ""
+
+#. ID 7, Page 1, Line 8, Pos (20,21)
+msgid ""
+"セレーネ：\n"
+"こんにちわ。\n"
+"わたくしはナティの友達で、セレーネと申します。"
+msgstr ""
+
+#. ID 7, Page 1, Line 11, Pos (20,21)
+msgid ""
+"セレーネ：\n"
+"私が主に取り扱うのは、エクステンドアイテムや\n"
+"一部の珍しいタクティカルスフィア、\n"
+"それに特殊な貴重品です。"
+msgstr ""
+
+#. ID 7, Page 1, Line 15, Pos (20,21)
+msgid ""
+"セレーネ：\n"
+"エクステンドアイテムは\n"
+"自分で合成する手間が省けてラクですし、\n"
+"マテリアル分のお金が浮くので少しお得ですよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 21, Pos (20,21)
+msgid ""
+"セレーネ：\n"
+"こんにちは。\n"
+"わたくしはナティの友達で、セレーネと申します。"
+msgstr ""
+
+#. ID 7, Page 1, Line 25, Pos (20,21)
+msgid ""
+"セレーネ：\n"
+"私が主に取り扱うのは、最高級の回復アイテムや\n"
+"一部の珍しいタクティカルスフィア、\n"
+"それに特殊な貴重品です。"
+msgstr ""
+
+#. ID 7, Page 1, Line 31, Pos (20,21)
+msgid ""
+"セレーネ：\n"
+"私が主に取り扱うのは、\n"
+"珍しいタクティカルスフィアや特殊な貴重品です。"
+msgstr ""
+
+#. ID 7, Page 1, Line 34, Pos (20,21)
+msgid ""
+"セレーネ：\n"
+"また、いずれは最高級の回復アイテムも\n"
+"取り扱う予定です。\n"
+"どうぞ宜しくお願い致します。"
+msgstr ""
+
+#. ID 7, Page 2, Line 9, Pos (20,21)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "あっ、"
+msgstr ""
+
+#. ID 7, Page 2, Line 10, Pos (20,21)
+#. ChangeHeroName (Actor 6)
+#. ID 7, Page 2, Line 25, Pos (20,21)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "何か買ってい"
+msgstr ""
+
+#. ID 7, Page 2, Line 11, Pos (20,21)
+#. ChangeHeroName (Actor 7)
+#. ID 7, Page 2, Line 26, Pos (20,21)
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "かれますか？"
+msgstr ""
+
+#. ID 7, Page 2, Line 15, Pos (20,21)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "回復アイテム"
+msgstr ""
+
+#. ID 7, Page 2, Line 16, Pos (20,21)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "の入荷は今暫"
+msgstr ""
+
+#. ID 7, Page 2, Line 17, Pos (20,21)
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "くお待ち下さ"
+msgstr ""
+
+#. ID 7, Page 2, Line 18, Pos (20,21)
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "い。"
+msgstr ""
+
+#. ID 7, Page 2, Line 24, Pos (20,21)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "宜しければ"
+msgstr ""
+
+#. ID 7, Page 2, Line 30, Pos (20,21)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "最高級回復ア"
+msgstr ""
+
+#. ID 7, Page 2, Line 31, Pos (20,21)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "イテム,レア"
+msgstr ""
+
+#. ID 7, Page 2, Line 32, Pos (20,21)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Ｔスフィア,"
+msgstr ""
+
+#. ID 7, Page 2, Line 34, Pos (20,21)
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "売却（プリズ"
+msgstr ""
+
+#. ID 7, Page 2, Line 35, Pos (20,21)
+#. ChangeHeroName (Actor 10)
+msgctxt "actors.name"
+msgid "ックガマグチ"
+msgstr ""
+
+#. ID 7, Page 2, Line 36, Pos (20,21)
+#. ChangeHeroName (Actor 11)
+msgctxt "actors.name"
+msgid "）"
+msgstr ""
+
+#. ID 7, Page 2, Line 37, Pos (20,21)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "（通常"
+msgstr ""
+
+#. ID 7, Page 2, Line 38, Pos (20,21)
+#. ChangeHeroName (Actor 12)
+msgctxt "actors.name"
+msgid "アイテム）"
+msgstr ""
+
+#. ID 7, Page 2, Line 41, Pos (20,21)
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "雑談"
+msgstr ""
+
+#. ID 7, Page 2, Line 48, Pos (20,21)
+#. Contains choice at line 2 (3 options)
+msgid "セレーネ：\\n[5]\\n[6]\\n[7]\\n[8]"
+msgstr ""
+
+#. ID 7, Page 2, Line 49, Pos (20,21)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入　[\\n[2]\\n[3]\\n[1]Etc]\n"
+"\\>売却\\n[4]\\n[12]\n"
+"\\>\\n[9]\\n[10]\\n[11]"
+msgstr ""
+
+#. ID 7, Page 2, Line 67, Pos (20,21)
+msgid ""
+"セレーネ：\n"
+"ガマグチがご不要でしたら、\n"
+"１個あたり400万ディアでお買い取り出来ますが、\n"
+"いかがなさいますか？"
+msgstr ""
+
+#. ID 7, Page 2, Line 74, Pos (20,21)
+msgid ""
+"\\>※ガマグチの売却数を指定して下さい。　　所持数：\\v[4833]\n"
+"\\>　（00でキャンセル）　　　　　所持ディア：\\v[4905]\\v[4904]\n"
+"\\>―――――――――――"
+msgstr ""
+
+#. ID 7, Page 2, Line 80, Pos (20,21)
+msgid ""
+"\\>※ガマグチの売却数を指定して下さい。　　所持数：\\v[4833]\n"
+"\\>　（00でキャンセル）　　　　　所持ディア：\\v[4904]\n"
+"\\>―――――――――――"
+msgstr ""
+
+#. ID 7, Page 2, Line 89, Pos (20,21)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"セレーネ：\n"
+"ガマグチの売却数は、所持数分の\\v[4833]個で宜しいですか？"
+msgstr ""
+
+#. ID 7, Page 2, Line 91, Pos (20,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 7, Page 2, Line 141, Pos (20,21)
+msgid ""
+"セレーネ：\n"
+"ガマグチは、無理にとは申しませんが、お金に余裕が\n"
+"有るようでしたら購入する事をお勧め致します。"
+msgstr ""
+
+#. ID 7, Page 2, Line 144, Pos (20,21)
+msgid ""
+"セレーネ：\n"
+"戦いを重ねれば重ねるほど、\n"
+"その投資に見合う以上の利益が得られる事でしょう。"
+msgstr ""
+
+#. ID 7, Page 2, Line 157, Pos (20,21)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "フォクシー"
+msgstr ""
+
+#. ID 7, Page 2, Line 158, Pos (20,21)
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "ニクソン"
+msgstr ""
+
+#. ID 7, Page 2, Line 159, Pos (20,21)
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "ドリス"
+msgstr ""
+
+#. ID 7, Page 2, Line 160, Pos (20,21)
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "ヤンシー"
+msgstr ""
+
+#. ID 7, Page 2, Line 161, Pos (20,21)
+#. ChangeHeroName (Actor 10)
+msgctxt "actors.name"
+msgid "ランサード"
+msgstr ""
+
+#. ID 7, Page 2, Line 162, Pos (20,21)
+#. ChangeHeroName (Actor 11)
+msgctxt "actors.name"
+msgid "ハウゼン"
+msgstr ""
+
+#. ID 7, Page 2, Line 163, Pos (20,21)
+#. ChangeHeroName (Actor 12)
+msgctxt "actors.name"
+msgid "ヴィルジニー"
+msgstr ""
+
+#. ID 12, Page 1, Line 3, Pos (13,17)
+msgid ""
+"妖精：\n"
+"あら、人間のお客様なんて久し振りねぇ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 3, Pos (22,3)
+msgid ""
+"妖精：\n"
+"私達妖精は元々ある程度の魔力は持ってるんだけど、\n"
+"中でもラヴィーザの魔力は群を抜いてるわ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 6, Pos (22,3)
+msgid ""
+"妖精：\n"
+"たとえこの里にイーヴルの大群がやって来たとしても、\n"
+"ラヴィーザの魔法で一瞬で塵にされちゃうでしょうね。"
+msgstr ""
+
+#. ID 14, Page 1, Line 3, Pos (32,22)
+msgid ""
+"妖精：\n"
+"この里に入れる人間は、心の綺麗な人や\n"
+"私達妖精が認めた人だけ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 6, Pos (32,22)
+msgid ""
+"妖精：\n"
+"普通の人間には外からは見えないし、\n"
+"入る事も出来ないようになってるのよ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 10, Pos (32,22)
+msgid ""
+"妖精：\n"
+"どこからか私達の存在を嗅ぎ付けた人間の親父が、\n"
+"私達の仲間を捕まえようとしたことがあったらしいわ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 13, Pos (32,22)
+msgid ""
+"妖精：\n"
+"いやらしい目つきで、瓶詰めにしようとしたとかで…。\\!\n"
+"所謂、\\_\"変態スケベ親父\"\\_って奴ね。"
+msgstr ""
+
+#. ID 14, Page 1, Line 16, Pos (32,22)
+msgid ""
+"妖精：\n"
+"こういう人が出てくるなんて、\n"
+"今の世の中、一体どうなってるのかしら。"
+msgstr ""
+
+#. ID 15, Page 1, Line 9, Pos (15,38)
+msgid ""
+"妖精：\n"
+"ナティ達の始めた商売から人間との関わりが増えて、\n"
+"確かに私達の生活は楽になったし、\n"
+"楽しいことも増えたわ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 13, Pos (15,38)
+msgid ""
+"妖精：\n"
+"だけど人間ってホラ、\n"
+"やっぱり腹黒い人とかも、多いじゃない。"
+msgstr ""
+
+#. ID 15, Page 1, Line 16, Pos (15,38)
+msgid ""
+"妖精：\n"
+"私達妖精の技術が悪用されるおそれもあるし、\n"
+"人間から酷い目に遭わされた娘も実際居るから……ね。"
+msgstr ""
+
+#. ID 15, Page 1, Line 19, Pos (15,38)
+msgid ""
+"妖精：\n"
+"だから私、ナティ達の商売には少し不安があるの。"
+msgstr ""
+
+#. ID 15, Page 1, Line 21, Pos (15,38)
+msgid ""
+"妖精：\n"
+"あっ、でも貴方達のことが嫌いってわけじゃないのよ？\n"
+"気を悪くしたら御免なさいね。"
+msgstr ""
+
+#. ID 15, Page 1, Line 27, Pos (15,38)
+msgid ""
+"妖精：\n"
+"貴方達はナティを助けてくれたこともあるから、\n"
+"みんな嫌ったりとかはしてないと思うわ。\n"
+"ゆっくりしていってね。"
+msgstr ""
+
+#. ID 16, Page 1, Line 6, Pos (38,18)
+msgid ""
+"ミーチェ：\n"
+"私は商品の入荷について主に管理しているの。\n"
+"商品の詳しい入荷時期とかが知りたかったら\n"
+"いつでも聞いてね。"
+msgstr ""
+
+#. ID 16, Page 1, Line 15, Pos (38,18)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "他に"
+msgstr ""
+
+#. ID 16, Page 1, Line 18, Pos (38,18)
+#. Contains choice at line 2 (3 options)
+msgid "ミーチェ：\\n[2]何か聞きたい事はあるかしら？"
+msgstr ""
+
+#. ID 16, Page 1, Line 19, Pos (38,18)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>次の入荷予定時期\n"
+"\\>商品の入荷履歴\n"
+"\\>終了"
+msgstr ""
+
+#. ID 16, Page 1, Line 23, Pos (38,18)
+msgid ""
+"ミーチェ：\n"
+"もう商品の入荷予定は無いわ。\n"
+"お互い良くやったわよね。"
+msgstr ""
+
+#. ID 16, Page 1, Line 28, Pos (38,18)
+msgid ""
+"妖精：\n"
+"貴方達が最強の隠しボスを倒す頃には\n"
+"何か入荷されてると思うわ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 36, Pos (38,18)
+msgid ""
+"ミーチェ：\n"
+"貴方達がゲームをクリアする頃には\n"
+"何か入荷されてると思うわ。\n"
+"クリアしたらまた来てみてね。"
+msgstr ""
+
+#. ID 16, Page 1, Line 43, Pos (38,18)
+msgid ""
+"ミーチェ：\n"
+"Episode44になる頃には\n"
+"何か入荷されてると思うわ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 49, Pos (38,18)
+msgid ""
+"ミーチェ：\n"
+"Episode43になる頃には\n"
+"何か入荷されてると思うわ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 55, Pos (38,18)
+msgid ""
+"ミーチェ：\n"
+"Episode39になる頃には\n"
+"何か入荷されてると思うわ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 61, Pos (38,18)
+msgid ""
+"ミーチェ：\n"
+"Episode36になる頃には\n"
+"何か入荷されてると思うわ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 66, Pos (38,18)
+msgid ""
+"ミーチェ：\n"
+"Episode32になる頃には\n"
+"何か入荷されてると思うわ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 86, Pos (38,18)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "第７弾／"
+msgstr ""
+
+#. ID 16, Page 1, Line 87, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]ゲームクリア＆ﾃﾞｨｻﾞｽﾃｨｱ撃破の勲章所持】\\C[0]\n"
+"\\>[ナティ／Ｇスフィア] \n"
+"\\>　魂たちの揺籠\\_限定Ｇスフィア各種\n"
+"\\>[セアラ／フレーム] ソウルクレイドル"
+msgstr ""
+
+#. ID 16, Page 1, Line 93, Pos (38,18)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "第６弾／"
+msgstr ""
+
+#. ID 16, Page 1, Line 94, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]ゲームクリア】\\C[0]\n"
+"\\>[ナティ／Ｇスフィア] \n"
+"\\>　限定Ｇスフィア各種\n"
+"\\>　（魂たちの揺籃\\_限定品除く）"
+msgstr ""
+
+#. ID 16, Page 1, Line 98, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]ゲームクリア】\\C[0]\n"
+"\\>[セレーネ／Ｔスフィア] トゥワイスタクティカル\n"
+"\\>[ラヴィーザ] ショップ正式開店"
+msgstr ""
+
+#. ID 16, Page 1, Line 101, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]ゲームクリア】\\C[0]\n"
+"\\>[フェニア／武器] 限定武器各種\n"
+"\\>[フェニア／フレーム] 限定フレーム各種"
+msgstr ""
+
+#. ID 16, Page 1, Line 107, Pos (38,18)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "第５弾／"
+msgstr ""
+
+#. ID 16, Page 1, Line 108, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]Episode44】\\C[0]\n"
+"\\>[ナティ／Ｇスフィア]\n"
+"\\>　通常敵のドロップＧスフィア各種\n"
+"\\>　（ターミネートグローブ以降全て）"
+msgstr ""
+
+#. ID 16, Page 1, Line 112, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]Episode44】\\C[0]\n"
+"\\>[セレーネ／ユーズアイテム] 最高級回復アイテム各種\n"
+"\\>[セレーネ／Ｔスフィア] リヴァイバー"
+msgstr ""
+
+#. ID 16, Page 1, Line 118, Pos (38,18)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "第４弾／"
+msgstr ""
+
+#. ID 16, Page 1, Line 119, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]Episode43】\\C[0]\n"
+"\\>[ナティ／Ｇスフィア] ドリーミィ･ドリーマー\n"
+"\\>[セアラ] ショップ正式開店"
+msgstr ""
+
+#. ID 16, Page 1, Line 125, Pos (38,18)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "第３弾／"
+msgstr ""
+
+#. ID 16, Page 1, Line 126, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]Episode39】\\C[0]\n"
+"\\>[フェニア／武器] カーシングエッジ\n"
+"\\>[フェニア／フレーム] ヘキサフレーム"
+msgstr ""
+
+#. ID 16, Page 1, Line 132, Pos (38,18)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "第２弾／"
+msgstr ""
+
+#. ID 16, Page 1, Line 133, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]Episode36】\\C[0]\n"
+"\\>[ナティ,フェニア／ユーズアイテム]\n"
+"\\>　高級回復アイテム各種"
+msgstr ""
+
+#. ID 16, Page 1, Line 136, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]Episode36】\\C[0]\n"
+"\\>[ナティ／Ｇスフィア]\n"
+"\\>　通常敵のドロップＧスフィア各種\n"
+"\\>　（ライフバイヤーの証 ～ オーブ･オブ･アース）"
+msgstr ""
+
+#. ID 16, Page 1, Line 140, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]Episode36】\n"
+"\\C[0]\\>[フェニア／武器]\n"
+"\\>　ブラック･ブラッド･ブレイド\n"
+"\\>　屠竜弓ドラゴンスレイヤー"
+msgstr ""
+
+#. ID 16, Page 1, Line 144, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]Episode36】\\C[0]\n"
+"\\>[フェニア／フレーム] ギガントメイル"
+msgstr ""
+
+#. ID 16, Page 1, Line 149, Pos (38,18)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "第１弾／"
+msgstr ""
+
+#. ID 16, Page 1, Line 150, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]Episode32】\\C[0]\n"
+"\\>[ナティ／Ｇスフィア]\n"
+"\\>　中度汚染スフィア / ムーンヴェール"
+msgstr ""
+
+#. ID 16, Page 1, Line 153, Pos (38,18)
+msgid ""
+"\\>\\C[10]【\\n[2]Episode32】\n"
+"\\C[0]\\>[フェニア／武器]\n"
+"\\>　ヘルフィスト / ハウリングリボルバー\n"
+"\\C[0]\\>[フェニア／フレーム] 魔幻気革"
+msgstr ""
+
+#. ID 16, Page 1, Line 159, Pos (38,18)
+msgid ""
+"ミーチェ：\n"
+"まだ商品の新しい入荷履歴は無いわね。"
+msgstr ""
+
+#. ID 18, Page 1, Line 3, Pos (47,33)
+msgid ""
+"妖精：\n"
+"もぐもぐ……。"
+msgstr ""
+
+#. ID 18, Page 1, Line 5, Pos (47,33)
+msgid ""
+"妖精：\n"
+"ぷはー。\\.\\.\n"
+"やっぱりこのタルト、すごく美味しいわー。"
+msgstr ""
+
+#. ID 18, Page 1, Line 8, Pos (47,33)
+msgid ""
+"妖精：\n"
+"私の自信作の妖精のタルト、宜しくね。\\!\n"
+"勿論、作り方はナイショだけどねー。\\.\\.えへへ。"
+msgstr ""
+
+#. ID 19, Page 1, Line 4, Pos (22,12)
+msgid ""
+"妖精：\n"
+"私達の外見って、一見みんな同じように見えるかも\n"
+"しれないけど、結構一人一人違ってるものよ？"
+msgstr ""
+
+#. ID 19, Page 1, Line 8, Pos (22,12)
+msgid ""
+"妖精：\n"
+"例えばフェニアはちょっと深爪だったり、\\.\\.\n"
+"セレーネはああ見えて巨乳だったり、\\.\\.\n"
+"\\s[3]ナティは……\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 19, Page 1, Line 12, Pos (22,12)
+msgid ""
+"妖精：\n"
+"あっ、ううん、何でもない。\\.\\.\n"
+"今の話は忘れてちょうだいね。"
+msgstr ""
+
+#. ID 19, Page 1, Line 18, Pos (22,12)
+msgid ""
+"妖精：\n"
+"さっきの話？\\.\\.\\.　な、何を言ってるのかなー。\\.\\.\n"
+"私、妖精だから分かんなーい。"
+msgstr ""
+
+#. ID 20, Page 1, Line 3, Pos (29,5)
+msgid ""
+"妖精：\n"
+"ラヴィーザって格好良いなぁ…。\n"
+"私の憧れなの。"
+msgstr ""
+
+#. ID 20, Page 1, Line 6, Pos (29,5)
+msgid ""
+"妖精：\n"
+"あのキリッとした感じといい、\n"
+"長くて綺麗な黒髪といい……。\\!\n"
+"\\s[2]どこを取っても美しすぎるわ…。"
+msgstr ""
+
+#. ID 20, Page 1, Line 10, Pos (29,5)
+msgid ""
+"妖精：\n"
+"\\s[2]ああ、ラヴィーザお姉様…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 3, Pos (25,25)
+msgid ""
+"妖精：\n"
+"私達は皆、ある程度の変身能力を持ってるのよ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 22, Pos (25,25)
+msgid ""
+"妖精：\n"
+"思い思いの外見をチョイスして楽しんだりもするし…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 41, Pos (25,25)
+msgid ""
+"妖精：\n"
+"必要があれば人間の姿になって、\n"
+"人間の集落に紛れ込む事もあるわ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 49, Pos (25,25)
+msgid ""
+"妖精：\n"
+"貴方達も、気付かないうちに\n"
+"どこかで妖精と会ってるかもしれないわね。"
+msgstr ""
+
+#. ID 22, Page 1, Line 3, Pos (4,6)
+msgid ""
+"妖精：\n"
+"ナティ達は、妖精独自の技術で作ったアイテムを\n"
+"人間に売ったりしてるわ。"
+msgstr ""
+
+#. ID 22, Page 1, Line 6, Pos (4,6)
+msgid ""
+"妖精：\n"
+"私達妖精の世界も何かと物入りだからねぇ。\n"
+"昔は排他的だったけど、今の世の中\n"
+"人間とも交流持った方が、やっぱり得になるのよ。"
+msgstr ""
+

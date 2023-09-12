@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"イーヴル、\\.\\.もといルシファー。"
+msgstr ""
+
+#. ID 9, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それらは本来、人の言い成りになど成らない\n"
+"凶暴な怪物で在る筈。"
+msgstr ""
+
+#. ID 9, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"しかし主＜マスター＞の命令に忠実な戦士として、\n"
+"今までに三度、彼らはその姿を見せている。"
+msgstr ""
+
+#. ID 9, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"レイク達が黒死のレオに狙われたという\n"
+"ディザスティアの丘…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"私達のオーグへの隠密行の途中、\n"
+"レヴェルストーク山地…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そして、今回のフェジテガーデン…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"この内ゲオルクが仕掛けたのは最初と最後。"
+msgstr ""
+
+#. ID 9, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"唯一ゲオルクが関与していない\n"
+"レヴェルストークの一件。"
+msgstr ""
+
+#. ID 9, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"これは一連の女王反逆の流れから考えて、\n"
+"恐らくモーガンが仕掛けた物だろう。"
+msgstr ""
+
+#. ID 9, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ボイスチェンジャー越しの小賢しい物腰も、\n"
+"成る程モーガンの顔には良く似合う。"
+msgstr ""
+
+#. ID 9, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"しかし妙な話ではないか。"
+msgstr ""
+
+#. ID 9, Page 1, Line 76, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ルシファーを忠実な戦士にするという計画の性質は、\n"
+"ゲオルクもモーガンも全く同じ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"とても偶然の一致とは思えない。\\|\n"
+"まるで口裏を合わせたかの様。"
+msgstr ""
+
+#. ID 9, Page 1, Line 85, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"厭な予感がする…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"この解放戦争…。\\|何かが不自然だ…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 92, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ねえ、\\.\\.ミネルヴァ…？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 97, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ちょっと、\\.\\.聞いてんの？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 108, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ああ、\\.\\.御免なさい。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 110, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"考え事？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 112, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"まあね。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 114, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アンタって結構そういう事してるよね。"
+msgstr ""
+
+#. ID 9, Page 1, Line 116, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"性分なのよ。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 118, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"あんまり難しい顔してると後々困るよ？\\|\n"
+"キツい顔した女王様ってのは難儀なモンさ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 121, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"確かにね。\\.\\.\n"
+"デイジーにも良く言われてる。"
+msgstr ""
+
+#. ID 9, Page 1, Line 127, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それにしてもさっきのジジイ、\n"
+"完璧にキレてるね。"
+msgstr ""
+
+#. ID 9, Page 1, Line 130, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ジークベルト？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 132, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"やっぱりそう思う？\\|\n"
+"何方かと言えばケイオス向きとか。"
+msgstr ""
+
+#. ID 9, Page 1, Line 135, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"いいや。\\.\\.奴はケイオスには合わない。"
+msgstr ""
+
+#. ID 9, Page 1, Line 137, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 139, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ケイオスの連中もキレちゃいるけど、\n"
+"総じて何処かに鈍く淀んだ匂いを持ってる。"
+msgstr ""
+
+#. ID 9, Page 1, Line 142, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも奴にはそれが無かった。\\.\\.\n"
+"まるで淀まず、人を冷たく刺す様な匂い。"
+msgstr ""
+
+#. ID 9, Page 1, Line 148, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"例えて言うなら\"氷のナイフ\"かな。\\.\\.\n"
+"澄んで冴え渡った狂気。"
+msgstr ""
+
+#. ID 9, Page 1, Line 151, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"自らの狂気を自らの個性や美学に昇華し切って\n"
+"揺るぐ事が無い、狂人の究極のカタチ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 154, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"最高に始末に負えないタイプさ。\\.\\.\n"
+"ヴェーネが気の毒。"
+msgstr ""
+
+#. ID 9, Page 1, Line 162, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼はとても有能な人物だったと聞いているわ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 167, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"しかしまた、\\.\\.\"有能過ぎた\"とも…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 169, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"チーム･アンスバッハに配属された当初は、\n"
+"まだ\"有能な変わり者\"としての認識だったけれど…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 172, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"常人離れして不惑の姿勢は時と共に強く成り、\n"
+"やがて誰も彼に付いて行けなく成った…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 180, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"今では史上に名を残す狂気の男として、\n"
+"関係者の間の一つ話よ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 187, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そう言えば気に成ったんだけどさ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 189, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"何？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 191, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"チーム･アンスバッハって\n"
+"別にガーデンの所属じゃないんだろ？"
+msgstr ""
+
+#. ID 9, Page 1, Line 194, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何でジークベルトがあそこに？"
+msgstr ""
+
+#. ID 9, Page 1, Line 196, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"２年前にユアンがヴェーネを連れ去ったのは\n"
+"知ってるわよね？"
+msgstr ""
+
+#. ID 9, Page 1, Line 199, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"あれを期に規模を縮小すると共に、\n"
+"C.M.G.C.からフェスクに移管したのよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 205, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"妙な話…。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 207, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ヴェーネが居なくなればチームの必要性はゼロ。\n"
+"やる事も無くてそのまま解散ってのが普通。"
+msgstr ""
+
+#. ID 9, Page 1, Line 210, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それが何故か存続…。\\|\n"
+"そして移管…？"
+msgstr ""
+
+#. ID 9, Page 1, Line 216, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"御免なさい。\\.\\.私はその事情を知ってるけれど、\n"
+"こればかりは門外不出のトップシークレットなのよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 219, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"別に謝んなくても良いよ。\n"
+"アタシが勝手に勘繰った事だし。"
+msgstr ""
+
+#. ID 9, Page 1, Line 227, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それにしても…。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 232, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そうだね…。\\|\n"
+"三人共、目に見えて落ち着きが無い…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 235, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"奴の匂いの為せる業さ。\\|\n"
+"必要以上、或いは不必要に人を揺さぶりやがる。"
+msgstr ""
+
+#. ID 9, Page 1, Line 241, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 8, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"な、\\.\\.何だァ…!?\\|\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 13, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"警報…？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 18, Pos (0,0)
+msgid ""
+"レイク：\n"
+"只事じゃなさそうだな…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 31, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"如何したんだ二人共？\\.\\.\n"
+"行き成り警報なんか鳴らして。"
+msgstr ""
+
+#. ID 9, Page 2, Line 34, Pos (0,0)
+msgid ""
+"シャル：\n"
+"それが大変なのよ…！"
+msgstr ""
+
+#. ID 9, Page 2, Line 36, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"本部のジェラールさんから通信が入って…。"
+msgstr ""
+
+#. ID 9, Page 2, Line 39, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"モーガンがダルムシュタットへ向けて\n"
+"大規模な攻撃を開始したと…！"
+msgstr ""
+
+#. ID 9, Page 2, Line 42, Pos (0,0)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 47, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]モーガン…！\\|\n"
+"何て馬鹿な事を…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 50, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"先手を仕掛けられてアツく成ってんだ…！"
+msgstr ""
+
+#. ID 9, Page 2, Line 55, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ゲオルクの事だ、\n"
+"恐らく堂々と迎え撃つだろう…。"
+msgstr ""
+
+#. ID 9, Page 2, Line 58, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"街を潰すのを前提に、な…！"
+msgstr ""
+
+#. ID 9, Page 2, Line 63, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"シャル！ \\.\\.リーナ！\\.\\.\n"
+"全速力でダルムシュタットへ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 66, Pos (0,0)
+msgid ""
+"シャル／リーナ：\n"
+"ラジャー！\\|\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 75, Pos (0,0)
+msgid ""
+"レイク：\n"
+"止める気なのか？"
+msgstr ""
+
+#. ID 9, Page 2, Line 78, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"冗談言うな。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 80, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"こんな二大勢力の大激突を止めてみせるなんて、\n"
+"そいつは神様だけが為せる業だ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 83, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"じゃあ何しに行くんだよ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 85, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"激突を止められない以上、\n"
+"モーガンもゲオルクも一切相手にしない。"
+msgstr ""
+
+#. ID 9, Page 2, Line 88, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"成すべき事は一つだけ。\\|\n"
+"一般市民の救助だ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 94, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"やれやれ、\\.\\.オーグは何時の間にやら\n"
+"人助け組織に変わっちまったみたいだな。"
+msgstr ""
+
+#. ID 9, Page 2, Line 97, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"性分なんでな。\\.\\.\n"
+"悪いが付き合って貰うぜ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 100, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"分かってるよ。\\.\\.\n"
+"アンタと組んでると何時もこうだ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 108, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"待ってろよ…！\\|\n"
+"今助けに行くからな…！\\|\\|\\^"
+msgstr ""
+

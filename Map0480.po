@@ -1,0 +1,968 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 5, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"照会の結果は？"
+msgstr ""
+
+#. ID 3, Page 1, Line 7, Pos (0,0)
+msgid ""
+"兵士：\n"
+"アカデミーに問い合わせた所、確かに\n"
+"ドリス･シュテンダルという少女が在籍していると。"
+msgstr ""
+
+#. ID 3, Page 1, Line 10, Pos (0,0)
+msgid ""
+"兵士：\n"
+"しかし少し前にアカデミーの寮から\n"
+"失踪して行方不明、捜索願が出されていた模様です。"
+msgstr ""
+
+#. ID 3, Page 1, Line 16, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"失踪か…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 21, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"網膜パターンは？"
+msgstr ""
+
+#. ID 3, Page 1, Line 23, Pos (0,0)
+msgid ""
+"兵士：\n"
+"合致スコア998.55でオールクリア。\n"
+"\"彼女\"は間違い無くドリス本人です。"
+msgstr ""
+
+#. ID 3, Page 1, Line 26, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"分かった。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 31, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"そう成ると、やはり彼女らは本当にドリスを保護して\n"
+"此処＜フェジテ＞に送り届けに来たのか…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 34, Pos (0,0)
+msgid ""
+"兵士：\n"
+"状況を見る限り、話の辻褄は合っています。"
+msgstr ""
+
+#. ID 3, Page 1, Line 36, Pos (0,0)
+msgid ""
+"兵士：\n"
+"恐らく王都発の輸送便で三条峰ポートへ移動、\n"
+"更にグラウンドの三条峰に行き…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 39, Pos (0,0)
+msgid ""
+"兵士：\n"
+"そして山中を徘徊している途中で、\n"
+"偶然にあのパーソン達と接触したものと。"
+msgstr ""
+
+#. ID 3, Page 1, Line 42, Pos (0,0)
+msgid ""
+"兵士：\n"
+"監視を掻い潜った点に関しては、\n"
+"あの華奢な身体を物資に隠したか…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 45, Pos (0,0)
+msgid ""
+"兵士：\n"
+"或いは彼女はスペリオルメイジですので、\n"
+"何らかの高位術を用いて監視を欺いたものかと。"
+msgstr ""
+
+#. ID 3, Page 1, Line 54, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"さて、如何扱ったものか…。\\|\n"
+"こんな事例は過去に存在しないからな…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 61, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"ドリスのプロファイルデータは？"
+msgstr ""
+
+#. ID 3, Page 1, Line 63, Pos (0,0)
+msgid ""
+"兵士：\n"
+"アカデミーの総合保健管理室から\n"
+"カウンセリングデータを取り寄せました。"
+msgstr ""
+
+#. ID 3, Page 1, Line 66, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"カウンセリング？"
+msgstr ""
+
+#. ID 3, Page 1, Line 68, Pos (0,0)
+msgid ""
+"兵士：\n"
+"学内で陰湿な苛めを受けていたようですね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 70, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"アカデミーから失踪したのも、\n"
+"それが原因だというのか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 73, Pos (0,0)
+msgid ""
+"兵士：\n"
+"推測の域を出ませんが、\n"
+"アカデミー側の見解はＹＥＳです。"
+msgstr ""
+
+#. ID 3, Page 1, Line 79, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"そう成ると、アカデミーへの送還は難しいか…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 81, Pos (0,0)
+msgid ""
+"兵士：\n"
+"ええ。\\.\\.ドリス本人も\n"
+"非常に強い拒否を表明しています。"
+msgstr ""
+
+#. ID 3, Page 1, Line 84, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"それでは家族に引き取って貰う以外に無いな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 90, Pos (0,0)
+msgid ""
+"兵士：\n"
+"その事なんですが…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 92, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"何だ？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 94, Pos (0,0)
+msgid ""
+"兵士：\n"
+"ドリスには家族が居ないんです。"
+msgstr ""
+
+#. ID 3, Page 1, Line 96, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"孤児だと言うのか？\\.\\.\n"
+"だったら育った施設は何処だ？"
+msgstr ""
+
+#. ID 3, Page 1, Line 99, Pos (0,0)
+msgid ""
+"兵士：\n"
+"いえ、\\.\\.孤児という訳でもないのです。"
+msgstr ""
+
+#. ID 3, Page 1, Line 104, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"アカデミーのスカウトか…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 106, Pos (0,0)
+msgid ""
+"兵士：\n"
+"ええ、\\.\\.アカデミーがドリスをスカウトした事で、\n"
+"彼女は法的にアカデミーという組織を親権者とする\n"
+"養子として扱われます。"
+msgstr ""
+
+#. ID 3, Page 1, Line 110, Pos (0,0)
+msgid ""
+"兵士：\n"
+"ですので、身元引受人の家族というのは\n"
+"アカデミーで在り…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 113, Pos (0,0)
+msgid ""
+"兵士：\n"
+"それはアカデミーへの送還を意味します。"
+msgstr ""
+
+#. ID 3, Page 1, Line 118, Pos (0,0)
+#. ID 3, Page 1, Line 166, Pos (0,0)
+#. ID 3, Page 1, Line 314, Pos (0,0)
+#. ID 7, Page 1, Line 101, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 125, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"合法的な保護責任遺棄か。\\|\n"
+"厭な世の中に成ったものだ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 128, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"\\S[2]まったく…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 135, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"それで、\\.\\.ドリスの様子は？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 137, Pos (0,0)
+msgid ""
+"兵士：\n"
+"芳しく在りません。"
+msgstr ""
+
+#. ID 3, Page 1, Line 139, Pos (0,0)
+msgid ""
+"兵士：\n"
+"此処のカウンセラーが相手をしていますが、\n"
+"まるでコミュニケーションを取って呉れないと…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 142, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 147, Pos (0,0)
+msgid ""
+"兵士：\n"
+"やはり、無理にでもアカデミーに送還するしか…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 149, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"本気で言っているのか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 151, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"相手は遅発性ディスピスに起因する軽度精神障害、\n"
+"加えて実生活に於ける深刻な心的問題を保有している\n"
+"少女なのだぞ？"
+msgstr ""
+
+#. ID 3, Page 1, Line 155, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"この状態で無理矢理に事を進めて\n"
+"若し間違いが起きたら、一体如何する？"
+msgstr ""
+
+#. ID 3, Page 1, Line 161, Pos (0,0)
+msgid ""
+"兵士：\n"
+"も、\\.\\.申し訳在りません…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 172, Pos (0,0)
+msgid ""
+"兵士：\n"
+"しかしオーウェン様…。\\|\n"
+"恐れ多くも申し上げますが…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 175, Pos (0,0)
+msgid ""
+"兵士：\n"
+"本件に於けるドリスへの肩入れは、\n"
+"何時ものオーウェン様らしく在りません。"
+msgstr ""
+
+#. ID 3, Page 1, Line 181, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"だろうな。\\|\n"
+"私にも分かっている。"
+msgstr ""
+
+#. ID 3, Page 1, Line 188, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"嘗て私には姪が居た。\\|\n"
+"姉夫婦の一人娘だった。"
+msgstr ""
+
+#. ID 3, Page 1, Line 191, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"折を見て私を訪ねて来て、\n"
+"彼女は私にとても好意を抱いて呉れていた。"
+msgstr ""
+
+#. ID 3, Page 1, Line 194, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"だが私も多忙の身でな、\n"
+"余り親身に接して遣る事が出来なかった。"
+msgstr ""
+
+#. ID 3, Page 1, Line 200, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"そうしている内に、\\.\\.彼女は死んでしまった。"
+msgstr ""
+
+#. ID 3, Page 1, Line 202, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"遅発性ディスピスだ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 207, Pos (0,0)
+msgid ""
+"兵士：\n"
+"それでドリスを…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 209, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"後悔というのは、斯くも容易く蘇るものだ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 211, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"せめてドリスに対しては、\\.\\.\n"
+"可能な限りの善い扱いをしてやりたい。"
+msgstr ""
+
+#. ID 3, Page 1, Line 214, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"無論\"義務\"でも在り\"責任\"でも在ろうが…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 216, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"私はそれを\"希望\"する。"
+msgstr ""
+
+#. ID 3, Page 1, Line 222, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"だが、\\.\\.実際如何したものか…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 224, Pos (0,0)
+msgid ""
+"兵士：\n"
+"それならばいっそ、\n"
+"あのパーソンに任せるというのは…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 228, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"それだけは無理な話だ。\\.\\.\n"
+"この情勢の中フェジテに不法入国した以上、\n"
+"あの三人の当面の身柄拘束は免れない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 232, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"他に身柄を引き取って呉れそうな人物は\n"
+"居ないのか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 238, Pos (0,0)
+msgid ""
+"兵士：\n"
+"そうですね…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 243, Pos (0,0)
+msgid ""
+"兵士：\n"
+"ああ…。\\|これは…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 245, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"居たか。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 247, Pos (0,0)
+msgid ""
+"兵士：\n"
+"一人だけですが、\n"
+"非常に親しくしていた人物が居るようです。"
+msgstr ""
+
+#. ID 3, Page 1, Line 250, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"誰だ？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 252, Pos (0,0)
+msgid ""
+"兵士：\n"
+"\\S[2]ええと…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 258, Pos (0,0)
+msgid ""
+"兵士：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 263, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"如何した。\\.\\.何を驚いている。"
+msgstr ""
+
+#. ID 3, Page 1, Line 269, Pos (0,0)
+msgid ""
+"兵士：\n"
+"\\S[2]ヴェーネです…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 272, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 274, Pos (0,0)
+msgid ""
+"兵士：\n"
+"ヴェーネ･アンスバッハ。\\|\n"
+"アカデミーでドリスと唯一親しかった人物です。"
+msgstr ""
+
+#. ID 3, Page 1, Line 280, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"本当なのか…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 282, Pos (0,0)
+msgid ""
+"兵士：\n"
+"ええ、確かにこの記録に。"
+msgstr ""
+
+#. ID 3, Page 1, Line 287, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"そうか…。\\|あの時期か…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 289, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"チーム･アンスバッハの教育プログラムとして、\n"
+"ヒーラー能力開発課程を履修したという…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 292, Pos (0,0)
+msgid ""
+"兵士：\n"
+"その通りです。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 294, Pos (0,0)
+msgid ""
+"兵士：\n"
+"\"あの一件\"の少し後から開始して、\n"
+"その後ユアンに誘拐されるまでの約３年間。"
+msgstr ""
+
+#. ID 3, Page 1, Line 297, Pos (0,0)
+msgid ""
+"兵士：\n"
+"その全てでは在りませんが、\n"
+"かなり長い間、ドリスと交流が在ったようです。"
+msgstr ""
+
+#. ID 3, Page 1, Line 300, Pos (0,0)
+msgid ""
+"兵士：\n"
+"此処の所見では、\n"
+"目下彼女の唯一の理解者とまで…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 308, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"何という事だ…。\\|\n"
+"これも何かの運命だと言うのか…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 2, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 5, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"おい！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 10, Pos (1,0)
+msgid ""
+"兵士：\n"
+"な、\\.\\.何でしょう？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 12, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"この情報は城の方にも廻ったのか！\\|\n"
+"モーガンの所にも！"
+msgstr ""
+
+#. ID 7, Page 1, Line 15, Pos (1,0)
+msgid ""
+"兵士：\n"
+"はい。\\.\\.黒獅子10号機の乗員データとして…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 18, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"くそう！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 23, Pos (1,0)
+msgid ""
+"兵士：\n"
+"何か問題でも…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 26, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"モーガンがこの事実を知ってみろ！\\.\\.\n"
+"奴の考える事は一つだけだ！"
+msgstr ""
+
+#. ID 7, Page 1, Line 29, Pos (1,0)
+msgid ""
+"兵士：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 31, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"ええい！ \\.\\.説明は後だ！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 33, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"大至急ドリスの身柄を移す！"
+msgstr ""
+
+#. ID 7, Page 1, Line 53, Pos (1,0)
+msgid ""
+"黒服の男：\n"
+"そんなにお急ぎで何方へ？"
+msgstr ""
+
+#. ID 7, Page 1, Line 58, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"\\S[2]遅かったか…！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 60, Pos (1,0)
+msgid ""
+"兵士：\n"
+"何者だッ！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 62, Pos (1,0)
+msgid ""
+"黒服の男：\n"
+"私はモーガン様より命を仰せ付かった使者。"
+msgstr ""
+
+#. ID 7, Page 1, Line 67, Pos (1,0)
+msgid ""
+"兵士：\n"
+"命だと…？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 72, Pos (1,0)
+msgid ""
+"使者：\n"
+"オーウェンC.M.G.C.委員長。"
+msgstr ""
+
+#. ID 7, Page 1, Line 74, Pos (1,0)
+msgid ""
+"使者：\n"
+"今この時を以って貴殿を委員長より解任し、\n"
+"同時に新委員長としてモーガン様が再就任する旨を\n"
+"此処に伝える。"
+msgstr ""
+
+#. ID 7, Page 1, Line 81, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"\\S[2]彼女を、\\.\\.如何する心算だ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 83, Pos (1,0)
+msgid ""
+"使者：\n"
+"行き成りそう来るか。\\|\n"
+"余程思い入れが在ると見える。"
+msgstr ""
+
+#. ID 7, Page 1, Line 86, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"二度は言わんぞ。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 91, Pos (1,0)
+msgid ""
+"使者：\n"
+"良いだろう。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 93, Pos (1,0)
+msgid ""
+"使者：\n"
+"それに関しては\n"
+"モーガン様が直々にお話しになりたいそうだ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 96, Pos (1,0)
+msgid ""
+"使者：\n"
+"回線を開き給え。"
+msgstr ""
+
+#. ID 7, Page 1, Line 103, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"回線を。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 113, Pos (1,0)
+msgid ""
+"兵士：\n"
+"城との専用回線、開きます。"
+msgstr ""
+
+#. ID 7, Page 1, Line 124, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"やあオーウェン君。\\.\\.元気にしてるかね？"
+msgstr ""
+
+#. ID 7, Page 1, Line 126, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"迷子の黒獅子の件は御苦労だった。"
+msgstr ""
+
+#. ID 7, Page 1, Line 130, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"下らん口上は結構だ。\\.\\.本題に移れ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 136, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"如何も手元のデータに依ると、\\.\\.其処で預かっている\n"
+"ドリスという娘はヴェーネと親しいとか…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 141, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 147, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"しかしその娘の行いというのも、\n"
+"中々非道い物だな。"
+msgstr ""
+
+#. ID 7, Page 1, Line 154, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"何…？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 158, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"自らグラウンドに降り立ち、\\.\\.パーソンを率いて\n"
+"フェジテに攻撃を仕掛けるなどとは。"
+msgstr ""
+
+#. ID 7, Page 1, Line 163, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"馬鹿なッ！ \\.\\.虚言も大概にしろ！"
+msgstr ""
+
+#. ID 7, Page 1, Line 167, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"言わずもがな国家反逆。\\.\\.\n"
+"その罪は計り知れず重いだろう。"
+msgstr ""
+
+#. ID 7, Page 1, Line 170, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"其処で彼女の身柄は、今後私が管理する。"
+msgstr ""
+
+#. ID 7, Page 1, Line 176, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"如何する心算だ…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 180, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"知れた事を。\\.\\.国家反逆者だぞ？"
+msgstr ""
+
+#. ID 7, Page 1, Line 182, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"取り敢えず一通り拷問でも受けて貰うか。"
+msgstr ""
+
+#. ID 7, Page 1, Line 184, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"どうせ途中で死ぬだろうがな。"
+msgstr ""
+
+#. ID 7, Page 1, Line 190, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"\\S[3]外道が…！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 194, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"ふん。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 202, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"まあ私も鬼やら悪魔の類ではないのでな、\\.\\.\n"
+"此処は一つ条件を出す事にしよう。"
+msgstr ""
+
+#. ID 7, Page 1, Line 205, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"セラフィックブルーの３名を私の所有物とする事。\\|\n"
+"これでドリスの罪の全てを赦そうではないか。"
+msgstr ""
+
+#. ID 7, Page 1, Line 212, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"やはりそれが本意か…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 214, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"救世の存在セラフィックブルーを手中にする事で、\n"
+"言わば星を人質にして世界の頂点に立つ…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 219, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"そう、\\.\\.その通り。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 221, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"喜ぶが良い、オーウェン。\\|\n"
+"フェジテ政府が完全なる世界の覇権を手にするのだ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 224, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"オーグやら遺族会やら世論やら。\\|\n"
+"そんな物に胃を傷める日々は終わるのだ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 231, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"愚かな…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 233, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"我々は尊厳を以って\n"
+"民が自ずと認める支配者でなくてはならない。"
+msgstr ""
+
+#. ID 7, Page 1, Line 236, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"この様な卑劣な行いなど、\\.\\.\n"
+"その尊厳に泥を塗る以外の何物でもないわ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 242, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"一方的且つ圧倒的な力で全てを支配せんとは…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 244, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"増して、その成就の為に\n"
+"か弱き存在を虐げるとは…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 250, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"恥を知れ、\\.\\.モーガン。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 252, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"貴様なぞ、支配者はおろか凡夫の器でもない。"
+msgstr ""
+
+#. ID 7, Page 1, Line 254, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"\\S[2]人間の屑だ。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 260, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 265, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"ふん。\\.\\.精々吠えていろ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 267, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"今更思想云々の講釈を垂れた所で、\n"
+"現実として強大な力はこの手の内に在り。"
+msgstr ""
+
+#. ID 7, Page 1, Line 270, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"如何なる行いも押し通して呉れるわ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 275, Pos (1,0)
+msgid ""
+"モーガン：\n"
+"通信を終わる。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 287, Pos (1,0)
+msgid ""
+"使者：\n"
+"さて、オーウェン君。"
+msgstr ""
+
+#. ID 7, Page 1, Line 289, Pos (1,0)
+msgid ""
+"使者：\n"
+"モーガン様に対する数々の暴言振舞い、\\.\\.\n"
+"確かに見聞きさせて貰った。"
+msgstr ""
+
+#. ID 7, Page 1, Line 292, Pos (1,0)
+msgid ""
+"使者：\n"
+"今まで妙に従順だとは思っていたが、\n"
+"やはり牙を隠し持っていたか。"
+msgstr ""
+
+#. ID 7, Page 1, Line 300, Pos (1,0)
+msgid ""
+"使者：\n"
+"反逆罪だ。\\.\\.君の身柄を拘束する。"
+msgstr ""
+
+#. ID 7, Page 1, Line 305, Pos (1,0)
+msgid ""
+"オーウェン：\n"
+"望む所だ。\\.\\.この下衆共が。\\|\\.\\.\\^"
+msgstr ""
+

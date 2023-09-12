@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 18, Page 1, Line 18, Pos (0,0)
+#. ID 18, Page 1, Line 154, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"甲板に変なバケモノが！"
+msgstr ""
+
+#. ID 18, Page 1, Line 20, Pos (0,0)
+msgid ""
+"女性(右)：\n"
+"モンスター？"
+msgstr ""
+
+#. ID 18, Page 1, Line 22, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"違う…！ \\.爆弾のバケモノだ…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 34, Pos (0,0)
+#. ID 18, Page 1, Line 262, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"甲板に案内して呉れ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"いい加減にして！\\.\\.\n"
+"何度言ったら分かるのよ！"
+msgstr ""
+
+#. ID 18, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"この船には爆弾が仕掛けられてるの！\\.\\.\n"
+"早く引き返さないと全滅よ！"
+msgstr ""
+
+#. ID 18, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"私達も！ \\.\\.貴方達も！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"粉々に吹き飛ばされて空に消えるッ！"
+msgstr ""
+
+#. ID 18, Page 1, Line 56, Pos (0,0)
+msgid ""
+"男性：\n"
+"ふん。\\.\\.誰がそんな虚言に乗るものか。"
+msgstr ""
+
+#. ID 18, Page 1, Line 58, Pos (0,0)
+msgid ""
+"男性：\n"
+"フェジテの急襲部隊の言う事に貸す耳など、\n"
+"我々の誰一人として持ってはいない。"
+msgstr ""
+
+#. ID 18, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"お願いだから信じて…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"確かに私達はフェジテの人間だけれど、\n"
+"別に貴方達を襲いに来た訳じゃない…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 66, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"寧ろ助けに来た…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 68, Pos (0,0)
+msgid ""
+"男性：\n"
+"くどいぞ。\\.\\.\n"
+"何度繰り返せば気が済む。"
+msgstr ""
+
+#. ID 18, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"もうッ…！\\.\\.\n"
+"何で聞いて呉れないのよ…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 77, Pos (0,0)
+msgid ""
+"男性：\n"
+"そんなに言うのなら証拠を示せ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ハウゼンの探知モジュールが\n"
+"桁外れの威力を持った爆発物を捕捉してるの！"
+msgstr ""
+
+#. ID 18, Page 1, Line 82, Pos (0,0)
+msgid ""
+"男性：\n"
+"適当な事を。\\.\\.\n"
+"口先だけで何とでも言えるではないか。"
+msgstr ""
+
+#. ID 18, Page 1, Line 85, Pos (0,0)
+msgid ""
+"男性：\n"
+"まあ爆弾の位置をピンポイントで言い当てたなら\n"
+"信用しなくもないがな。"
+msgstr ""
+
+#. ID 18, Page 1, Line 96, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"何ッ…！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"如何したの！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 100, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"馬鹿な…！\\.\\.\n"
+"爆弾が物凄い速さで移動している…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"誰か運んでるの？"
+msgstr ""
+
+#. ID 18, Page 1, Line 105, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"それにしては速過ぎる…！\\.\\.\n"
+"まるで自ら動いているかのようだ…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 108, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"自律型の爆弾…？"
+msgstr ""
+
+#. ID 18, Page 1, Line 110, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"それ以外説明が付かん…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 115, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"甲板に出るぞ…！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 120, Pos (0,0)
+msgid ""
+"男性：\n"
+"まったく、\\.\\.白々しい小芝居だな。"
+msgstr ""
+
+#. ID 18, Page 1, Line 123, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"本当だって言ってるでしょ！\\.\\.\n"
+"今直ぐ甲板を探してッ！"
+msgstr ""
+
+#. ID 18, Page 1, Line 126, Pos (0,0)
+msgid ""
+"男性：\n"
+"時間と労力の無駄だな。"
+msgstr ""
+
+#. ID 18, Page 1, Line 128, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"くっ…！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 141, Pos (0,0)
+msgid ""
+"男性：\n"
+"何だ…？ \\.\\.今の揺れは…。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 150, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"大変だ!!\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 152, Pos (0,0)
+msgid ""
+"男性(下)：\n"
+"何だ？ \\.\\.そんなに慌てて。"
+msgstr ""
+
+#. ID 18, Page 1, Line 156, Pos (0,0)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 161, Pos (0,0)
+msgid ""
+"女性(右)：\n"
+"モンスター？\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 163, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"違う…！ \\.\\.爆弾のバケモノだ…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 165, Pos (0,0)
+msgid ""
+"男性(下)：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 170, Pos (0,0)
+msgid ""
+"男性(下)：\n"
+"そのバケモノは何処から？"
+msgstr ""
+
+#. ID 18, Page 1, Line 172, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"爆薬を準備してる時に、\n"
+"突然爆弾の一個が勝手に変形して動き出したんだ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 181, Pos (0,0)
+msgid ""
+"男性(下)：\n"
+"信じよう。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 183, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"協力して呉れるわね？"
+msgstr ""
+
+#. ID 18, Page 1, Line 185, Pos (0,0)
+msgid ""
+"男性(下)：\n"
+"勿論。\\.\\.こんな空の上で粉微塵にされて堪るか。"
+msgstr ""
+
+#. ID 18, Page 1, Line 187, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"取り敢えず、今直ぐ工場に引き返して。"
+msgstr ""
+
+#. ID 18, Page 1, Line 189, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"空の上に居る限り、\n"
+"私達に逃げ場は無いわ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 197, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"\\S[2]それは…\\.\\.出来ない…！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 199, Pos (0,0)
+msgid ""
+"男性(下)：\n"
+"おい、\\.\\.何を…？\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 201, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"出来ないって如何いう事よ…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 206, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"この船…。\\.\\.さっきから操縦不能なんだよ…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 208, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"さっきの揺れか…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 210, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"そうさ、さっき揺れた時。"
+msgstr ""
+
+#. ID 18, Page 1, Line 212, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"爆弾のバケモノが、丁度甲板に出た時だ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 218, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ＯＳの操作系を奪われたんだわ…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 220, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"爆弾とＯＳが予めリンクして在って、\n"
+"設定空域に入ると爆弾が操作系を奪い取り、\n"
+"解除不能のオートパイロットにモード遷移…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 224, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そのままフェジテ軍に自爆攻撃を仕掛ける…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 229, Pos (0,0)
+msgid ""
+"レイク：\n"
+"詰まりあの糞ジジイ、\n"
+"この戦いを完全な消耗戦と割り切ってた訳だ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 232, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ハナから全員ブッ殺す事を前提に、\n"
+"どれだけ効率的にフェジテの体力を削り取るか…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 238, Pos (0,0)
+msgid ""
+"男性(下)：\n"
+"\\S[2]俺達は…\\.\\.捨て駒だったのか…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 240, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"そうだ。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 245, Pos (0,0)
+msgid ""
+"男性(下)：\n"
+"\\S[3]ゲオルク…!!\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 254, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"行くわよ、\\.\\.ハウゼン。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 256, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"はい。\\|\\^"
+msgstr ""
+

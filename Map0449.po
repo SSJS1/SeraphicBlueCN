@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"何者だ、\\.\\.貴様ら。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"これは驚いたわね。\\.\\.\n"
+"妨害が予期されるとは聞いていたけれど…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"まさかクィーン･ミネルヴァの御来駕とは。"
+msgstr ""
+
+#. ID 8, Page 1, Line 21, Pos (0,0)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"貴女…！ \\.\\.フェジテの人間なの…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"ハイディ･バーミンガム。\\|\n"
+"元はフェジテのエンジニア、今はロビン開発部門幹部。"
+msgstr ""
+
+#. ID 8, Page 1, Line 34, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"俺はフョードル･ヴォロネシ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 36, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"まあセラパーソンじゃないんだが、\\.\\.\n"
+"それでもハイディと同じくロビン開発部門幹部さ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ハイディ…。\\.\\.\n"
+"言わずとも分かっているわね？"
+msgstr ""
+
+#. ID 8, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"勿論。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"私は故郷を売った。\\.\\.\n"
+"クィーン･ミネルヴァに反旗を翻した。"
+msgstr ""
+
+#. ID 8, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"そして何より、\\.\\.それを詫びる事も撤回する事も、\n"
+"私は行う意志が無い。"
+msgstr ""
+
+#. ID 8, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"ミネルヴァ様。\n"
+"物を言って引く相手では在りません。"
+msgstr ""
+
+#. ID 8, Page 1, Line 62, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そういう事。\\.\\.力尽くで退散願うだけ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"此処でもまた、\\.\\.同族の争い…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"ナンセンスよ。\\.\\.\n"
+"この\"転機\"に立ちながら\"種\"に固執するなんて。"
+msgstr ""
+
+#. ID 8, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"少しは慎め！ \\.\\.この売国奴がッ！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"一つだけ聞かせて。"
+msgstr ""
+
+#. ID 8, Page 1, Line 80, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"何？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"悔恨は？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 84, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"ナンセンス。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ならば、\\.\\.退けるまで。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 96, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"遠回りなのね。\\.\\.私は初めからその心算なのに。"
+msgstr ""
+
+#. ID 8, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"貴様ァ…！ \\.\\.万死に値するぞ…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 103, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"おお、怖い怖い。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 105, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ハイディ。\\.\\.少しばかり怒らせ過ぎだぜ？"
+msgstr ""
+
+#. ID 8, Page 1, Line 107, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"今更同じ事よ。\\.\\.\n"
+"求められるのは神をも恐れぬふてぶてしさ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 110, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"他人事みたいな言い草で。\\.\\.\n"
+"貴方だって同じでしょうに。"
+msgstr ""
+
+#. ID 8, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"貴方と私、知る物と見る物に相違は在れど、\n"
+"咎人としては等価なのよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 116, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"小難しいぜ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 118, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"簡単な事よ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 123, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"まあ良いや。\\.\\.\n"
+"そろそろお仕事と行きますか。"
+msgstr ""
+
+#. ID 8, Page 1, Line 126, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"足止めで良かったんだよな？"
+msgstr ""
+
+#. ID 8, Page 1, Line 128, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"倒せれば申し分無し。\\.\\.\n"
+"最低限度、\"定刻\"までの足止めを行う事。"
+msgstr ""
+
+#. ID 8, Page 1, Line 131, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"了解。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 136, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ナメられたもんだぜ。\\.\\.\n"
+"頭脳職の人間が俺達を止められるのか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 139, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"その点は御心配無く。"
+msgstr ""
+
+#. ID 8, Page 1, Line 141, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"こう見えてフェジテ魔法アカデミーの\n"
+"実戦レベルの資格を持っているから。"
+msgstr ""
+
+#. ID 8, Page 1, Line 144, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"俺も火器取扱じゃあ一端の資格を持ってる。"
+msgstr ""
+
+#. ID 8, Page 1, Line 146, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ザコ戦闘員よか余程使えるってんで、\n"
+"俺達が足止め役に大抜擢されたのさ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 149, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"あんた達こそ火傷しないように\n"
+"気を付けるこった。"
+msgstr ""
+
+#. ID 8, Page 1, Line 155, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"さあ、\\.\\.行くわよ！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 14, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"何だよ…。\\|\n"
+"こんなに強いなんて聞いてないぜ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 17, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"そろそろ引き際ね。\\.\\.時間も稼げたし。"
+msgstr ""
+
+#. ID 8, Page 2, Line 19, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何の時間稼ぎだい！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 22, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"答える義務は無いわ。\\.\\.\n"
+"知りたければ自分達で確かめる事ね。"
+msgstr ""
+
+#. ID 8, Page 2, Line 29, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"待ちなさい！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 34, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"ではヒントを一つだけ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 40, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"此処に在る飛行船は、\n"
+"全てフェジテ軍の有する\"デイジー機\"のコピー。"
+msgstr ""
+
+#. ID 8, Page 2, Line 43, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"その名を\"黒獅子機\"と言う。"
+msgstr ""
+
+#. ID 8, Page 2, Line 45, Pos (0,0)
+msgid ""
+"レイク：\n"
+"最悪のセンスだな。"
+msgstr ""
+
+#. ID 8, Page 2, Line 47, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"それに関しては同意よ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 52, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"程無くして十匹の黒獅子は翼を生やし、\n"
+"黒死の翼へと変わる。"
+msgstr ""
+
+#. ID 8, Page 2, Line 55, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"そしてその内の一匹こそは、\n"
+"天を紅に染め、全てを灰燼と化する破滅の使徒。"
+msgstr ""
+
+#. ID 8, Page 2, Line 58, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"無限＜メビウス＞の翼を携えて、彼は天に牙を剥く。"
+msgstr ""
+
+#. ID 8, Page 2, Line 63, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"それでは御機嫌よう。\\.\\.\n"
+"クィーン･ミネルヴァと、その従者の皆さん。"
+msgstr ""
+
+#. ID 8, Page 2, Line 72, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"天を紅に…\\|全てを灰燼と化す…？"
+msgstr ""
+
+#. ID 8, Page 2, Line 82, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"まさかッ…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 88, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"どれか１機に爆弾が仕掛けて在るのよ！\\.\\.\n"
+"有効範囲の広い、極めて強力なのが！"
+msgstr ""
+
+#. ID 8, Page 2, Line 91, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"フェジテ軍と交戦を開始したら爆破して、\n"
+"敵味方関係無しに全て吹き飛ばす…！"
+msgstr ""
+
+#. ID 8, Page 2, Line 94, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"基本的に勝算の少ない戦いで、\n"
+"最も確実にフェジテにダメージを与える方法…！"
+msgstr ""
+
+#. ID 8, Page 2, Line 97, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そして態々募った有志を大量に捨て駒にするという、\n"
+"普通では考えない方法…！"
+msgstr ""
+
+#. ID 8, Page 2, Line 103, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あの糞ジジイ…！\\.\\.\n"
+"碌でもない事ばかり考えやがって…！"
+msgstr ""
+
+#. ID 8, Page 2, Line 111, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"行くわよ！ \\.\\.絶対に食い止めるッ！\\|\\.\\.\\^"
+msgstr ""
+

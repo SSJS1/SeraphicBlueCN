@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"相変わらずか…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"まあ、こんな山奥のこんな場所だ。\\|\\|\n"
+"誰が来る訳でも在るまい。\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"政府の調査団も、\\.\\.\n"
+"此処では何も見付けられなかった。\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"どれ位経っただろうか…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 40, Pos (0,0)
+msgid ""
+"音声：\n"
+"登録ナンバー0002。\\|\n"
+"ハウゼン様を確認しました。"
+msgstr ""
+
+#. ID 1, Page 1, Line 43, Pos (0,0)
+msgid ""
+"音声：\n"
+"身分証のデータをスキャンします。\\|\n"
+"ペンダントを前向きで提示してください。"
+msgstr ""
+
+#. ID 1, Page 1, Line 51, Pos (0,0)
+msgid ""
+"音声：\n"
+"データ･オールクリア。\\|\n"
+"ハイディングフィールドを解除します。"
+msgstr ""
+

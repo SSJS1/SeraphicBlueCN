@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"悪い、\\.\\.待たせちまった。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"お？ \\.\\.ケインは？\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 13, Pos (0,0)
+msgid ""
+"レイク：\n"
+"忘れ物らしい。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そっか。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ねえ、\\.\\.ドナルドと何話してたの？"
+msgstr ""
+
+#. ID 14, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]あ…\\.\\.ああ…。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ダルムシュタットの所に出来た\n"
+"ドーム状領域の事でな。"
+msgstr ""
+
+#. ID 14, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ベネディクタ･ティアーズね。"
+msgstr ""
+
+#. ID 14, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"今はドリス達を助けに行かなくちゃいけないが、\n"
+"それが済んだらあそこも調査しないと。"
+msgstr ""
+
+#. ID 14, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"あの時の状況からして、エンデや黒衣の二人と\n"
+"かなり深い関係が在りそうだからな。"
+msgstr ""
+
+#. ID 14, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"お待たせ。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"これで全員揃ったな。"
+msgstr ""
+
+#. ID 14, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それじゃあ行くぜ！\\.\\.\n"
+"目的地、C.M.G.C.本部！"
+msgstr ""
+
+#. ID 14, Page 1, Line 54, Pos (0,0)
+msgid ""
+"シャル／リーナ：\n"
+"ラジャー！\\|\\^"
+msgstr ""
+

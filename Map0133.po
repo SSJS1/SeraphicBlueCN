@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ユアンめ！\\.\\.\n"
+"黒死のレオから逃げられると思うなよ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"殺して遣るッ！\\|\n"
+"地の果てまでも追い駆けて殺して遣るッ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 15, Pos (0,0)
+msgid ""
+"シリア：\n"
+"止めてください！\\|\n"
+"何故そんな事を…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"殺してやるッ！\\|\n"
+"地の果てまでも追い駆けて殺してやるッ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 23, Pos (0,0)
+msgid ""
+"シリア：\n"
+"やめてください！\\|\n"
+"何故そんなことを…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"口出しするな！\\| このメス豚め！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 31, Pos (0,0)
+msgid ""
+"シリア：\n"
+"\\S[5]メス…\\.\\.豚…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"早くその無様な姿を消せ！\\|\n"
+"さもなくば…！"
+msgstr ""
+
+#. ID 3, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"その膨れた腹を蹴り潰して呉れる！\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 44, Pos (0,0)
+msgid ""
+"シリア：\n"
+"\\S[2]そんな…！ \\|御父様…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]何が御父様だ…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]余所の男の餓鬼を身篭り、\\.\\.\n"
+"無様に腹を膨らませた、\\.\\.この醜いメス豚が…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]貴様は最早シリアではない。\\|\n"
+"今直ぐに出て行け。"
+msgstr ""
+
+#. ID 3, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]その重い身体を精々引き摺って、\\.\\.\n"
+"親子共々野垂れ死ぬが良いわ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"その膨れた腹を蹴り潰してくれる！\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 67, Pos (0,0)
+msgid ""
+"シリア：\n"
+"\\S[2]そんな…！ \\|お父様…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]何がお父様だ…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]よその男の餓鬼を身ごもり、\\.\\.\n"
+"無様に腹を膨らませた、\\.\\.この醜いメス豚が…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]貴様はもはやシリアではない。\\|\n"
+"今すぐに出て行け。"
+msgstr ""
+
+#. ID 3, Page 1, Line 80, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]その重い身体をせいぜい引きずって、\\.\\.\n"
+"親子共々野垂れ死ぬがよいわ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]それとも、\\.\\.何か？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]その腹を蹴り飛ばして、\\.\\.\n"
+"流産させてやろうか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 95, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]糞尿共々、\\.\\.小汚い餓鬼を垂れ流すか…！\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 100, Pos (0,0)
+msgid ""
+"シリア：\n"
+"\\S[20]い…ヤ…！\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 105, Pos (0,0)
+msgid ""
+"シリア：\n"
+"\\S[2]いやーーーァァァッ!!!!\\|\\|\\^"
+msgstr ""
+

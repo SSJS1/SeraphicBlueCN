@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. ID 13, Page 1, Line 13, Pos (0,0)
+#. Contains choice at line 2 (3 options)
+msgid "【オープニング（全５編構成）】をスキップしますか？"
+msgstr "要跳过【开场动画（共5篇）】吗？"
+
+#. ID 13, Page 1, Line 14, Pos (0,0)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>ＹＥＳ（全編一括してスキップ）\n"
+"\\>ＹＥＳ（一編ずつスキップ確認）\n"
+"\\>ＮＯ"
+msgstr ""
+"\\>YES（全部跳过）\n"
+"\\>YES（一篇篇地跳过）\n"
+"\\>NO"
+
+#. ID 13, Page 1, Line 121, Pos (0,0)
+msgid ""
+"男性：\n"
+"先人の言葉は偉大なり、か…。"
+msgstr ""
+"男人：\n"
+"先人们留下的话是多么伟大啊…"
+
+#. ID 13, Page 1, Line 126, Pos (0,0)
+msgid ""
+"男性：\n"
+"確かに空は其処にあるだろう。\\.\\.\n"
+"それは否定する事の出来ぬ事実だ。"
+msgstr ""
+"男人：\n"
+"天空果然就存在于那里吧。\\.\\.\n"
+"这是无法被否定的事实。"
+
+#. ID 13, Page 1, Line 129, Pos (0,0)
+msgid ""
+"男性：\n"
+"だがそれだけか？"
+msgstr ""
+"男人：\n"
+"然而就只有这一点吗？"
+
+#. ID 13, Page 1, Line 131, Pos (0,0)
+msgid ""
+"男性：\n"
+"かの偉大な先人が、この空を見上げて、\n"
+"そんな事しか心に刻まなかったのか？"
+msgstr ""
+"男人：\n"
+"当那些伟大的先人们仰望这无边无际的天空时，\n"
+"难道心中只有这一个感想吗？"
+
+#. ID 13, Page 1, Line 137, Pos (0,0)
+msgid ""
+"男性：\n"
+"そうだ、\\.\\.空は其処に在る。"
+msgstr ""
+"男人：\n"
+"是啊，\\.\\.天空就存在于那里。"
+
+#. ID 13, Page 1, Line 139, Pos (0,0)
+msgid ""
+"男性：\n"
+"常に其処にありて、\n"
+"そしてまた永遠に其処に無きもの。"
+msgstr ""
+"男人：\n"
+"它永远地存在于那里，\n"
+"也永远地不存在于那里。"
+
+#. ID 13, Page 1, Line 142, Pos (0,0)
+msgid ""
+"男性：\n"
+"私はそれを\"絶望\"と呼んでいる。"
+msgstr ""
+"男人：\n"
+"我把这称之为“绝望”。"
+
+#. ID 13, Page 1, Line 147, Pos (0,0)
+msgid ""
+"男性：\n"
+"結局…。\\.\\.\n"
+"それを分かっているのは彼女だけか。"
+msgstr ""
+"男人：\n"
+"到最后…\\.\\.\n"
+"能理解这一点的也只有她了吧。"
+
+#. ID 13, Page 1, Line 150, Pos (0,0)
+msgid ""
+"男性：\n"
+"白き翼を携えた、\\.\\.一人の天使。"
+msgstr ""
+"男人：\n"
+"拥有着白色羽翼的，\\.\\.独自一人的天使。"
+
+#. ID 13, Page 1, Line 155, Pos (0,0)
+#. ID 15, Page 1, Line 64, Pos (0,1)
+msgid ""
+"男性：\n"
+"結末など、知れた事なのだがな。"
+msgstr ""
+"男人：\n"
+"不过，我早就知道结局了。"
+
+#. ID 13, Page 1, Line 157, Pos (0,0)
+#. ID 15, Page 1, Line 66, Pos (0,1)
+msgid ""
+"男性：\n"
+"折りしも運命が再動の気配を見せ始めている\n"
+"今日この頃だ。"
+msgstr ""
+"男人：\n"
+"命运再次运转的征兆出现的那个时机，就在最近。"
+
+#. ID 13, Page 1, Line 160, Pos (0,0)
+#. ID 15, Page 1, Line 69, Pos (0,1)
+msgid ""
+"男性：\n"
+"此処は一つ、\\.\\.\n"
+"\"彼女達の物語\"を見せて貰うか。"
+msgstr ""
+"男人：\n"
+"而这里，\\.\\.\n"
+"就是“她们的故事”开幕的地方。"
+
+#. ID 13, Page 1, Line 168, Pos (0,0)
+#. ID 15, Page 1, Line 77, Pos (0,1)
+msgid ""
+"男性：\n"
+"\\S[2]それでは始めよう。\\|\\.\\.\\^"
+msgstr ""
+"男人：\n"
+"\\S[2]那么就开始吧。\\|\\.\\.\\^"
+
+#. ID 13, Page 1, Line 170, Pos (0,0)
+msgid ""
+"男性：\n"
+"\\S[2]題名は、\\.\\.これを措いて他に在るまい。\\|\\|\\^"
+msgstr ""
+"男人：\n"
+"\\S[2]至于标题…\\.\\.则只能是那一个。\\|\\|\\^"
+
+#. ID 13, Page 2, Line 27, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"此方でしたか。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 32, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"あの部屋は息が詰まりますね。"
+msgstr ""
+
+#. ID 13, Page 2, Line 37, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"良い眺めですね。\\|\n"
+"直ぐ近くにこんな丘が在るなんて。"
+msgstr ""
+
+#. ID 13, Page 2, Line 40, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"そうだな。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 42, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"だがあの男には勿体無い景色だ。\n"
+"どうせ部屋に篭ったままなのだから。"
+msgstr ""
+
+#. ID 13, Page 2, Line 45, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"確かに。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 52, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"何か…\\|気に成る事でも？"
+msgstr ""
+
+#. ID 13, Page 2, Line 57, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"クナース･ワース。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 62, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"クナース･ワース…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 64, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ああ…。\\.\\.あの部屋に在った小説ですね。"
+msgstr ""
+
+#. ID 13, Page 2, Line 66, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"結構有名な作品だそうで。\\.\\.\n"
+"部下も言ってました。"
+msgstr ""
+
+#. ID 13, Page 2, Line 69, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"読んだ事は？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 71, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"いえ…。\\.\\.余り本とかは読みませんので。"
+msgstr ""
+
+#. ID 13, Page 2, Line 76, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"それで…。\\|\n"
+"そのクナース･ワースが何か？"
+msgstr ""
+
+#. ID 13, Page 2, Line 84, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"主人公は妻殺しの濡れ衣を着せられて、\n"
+"片田舎の刑務所に投獄される。"
+msgstr ""
+
+#. ID 13, Page 2, Line 87, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"だが不屈の下、27年の月日を経て脱獄を果たし、\n"
+"自由に成ると共に所内の不正も序に暴くという話だ。"
+msgstr ""
+
+#. ID 13, Page 2, Line 93, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"刑務所生活の中で、一人の男が登場する。"
+msgstr ""
+
+#. ID 13, Page 2, Line 95, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"その男は所内の図書館司書をやっていたが、\n"
+"長い刑期を終えて釈放される。"
+msgstr ""
+
+#. ID 13, Page 2, Line 98, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"所謂、自由の身だ。"
+msgstr ""
+
+#. ID 13, Page 2, Line 103, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"さて、\\.\\.彼はその後如何したと思う？"
+msgstr ""
+
+#. ID 13, Page 2, Line 105, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"如何したって…。\\|\n"
+"普通に生活したんじゃないんですか？"
+msgstr ""
+
+#. ID 13, Page 2, Line 111, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"彼は出所に際して、\n"
+"薄暗いアパートの一室を斡旋された。"
+msgstr ""
+
+#. ID 13, Page 2, Line 114, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"そして出所から暫くの後、\n"
+"其処で驚くべき\"もの\"が見付かった。"
+msgstr ""
+
+#. ID 13, Page 2, Line 122, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"彼の首吊り死体だ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 124, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 126, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"驚いたか。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 128, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"驚きますよ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 130, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"長い刑期の果てに掴んだ自由なのに、\n"
+"自殺だなんて…。"
+msgstr ""
+
+#. ID 13, Page 2, Line 138, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"収容病だとか釈放病だとか言われてるみたいだがな。"
+msgstr ""
+
+#. ID 13, Page 2, Line 140, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"自由というのは\n"
+"必ずしも人を生かすものではないのだよ。"
+msgstr ""
+
+#. ID 13, Page 2, Line 143, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"彼もその一人だ。\\.\\.\n"
+"彼は自由に依って殺された。"
+msgstr ""
+
+#. ID 13, Page 2, Line 146, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"自由の被害者だ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 151, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"でも…。\\|その話が一体何だと…。"
+msgstr ""
+
+#. ID 13, Page 2, Line 153, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"分からんか？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 155, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 161, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"ジークベルトの事だ。\n"
+"どうせ初めから\"その心算\"だったに違いない。"
+msgstr ""
+
+#. ID 13, Page 2, Line 164, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"あの狂人め、死んだら死んだで\n"
+"今度は天使を捕らえた死神を気取りおる。"
+msgstr ""
+
+#. ID 13, Page 2, Line 167, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"何処までも忌まわしい奴だ。"
+msgstr ""
+
+#. ID 13, Page 2, Line 173, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"あの…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 175, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"ジェラールよ。\\.\\.\n"
+"此処の眺めは素晴らしいか？"
+msgstr ""
+
+#. ID 13, Page 2, Line 178, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"え、\\.\\.ええ…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 180, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"あの青空は美しいか？"
+msgstr ""
+
+#. ID 13, Page 2, Line 182, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"はい。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 184, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"其処に白き翼の天使が舞うなどと、\\.\\.\n"
+"本気で思っているのか？"
+msgstr ""
+
+#. ID 13, Page 2, Line 190, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[5]え…？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 203, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"今はまだ、\\.\\.塀の中。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 205, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"ならば塀の外には、\\.\\.何が見えるのだろうな。"
+msgstr ""
+
+#. ID 13, Page 2, Line 210, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"因みに主人公は、\n"
+"自由を手にして人並みに生きて行った。"
+msgstr ""
+
+#. ID 13, Page 2, Line 213, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"それは救い＜ハッピーエンド＞だ。"
+msgstr ""
+
+#. ID 13, Page 2, Line 218, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[3]まさか…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 223, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"今更、私達に出来る事など無い。"
+msgstr ""
+
+#. ID 13, Page 2, Line 225, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"だが敢えて、一つ挙げるのならば。"
+msgstr ""
+
+#. ID 13, Page 2, Line 227, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"\"I hope.\"\\|\n"
+"そう在る事を願おう。"
+msgstr ""
+
+#. ID 13, Page 2, Line 233, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"行くぞ。\\.\\.休憩は終わりだ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 45, Pos (0,1)
+msgid ""
+"男性：\n"
+"そうだとも。\\|\n"
+"ハッピーエンドは失われた。"
+msgstr ""
+
+#. ID 15, Page 1, Line 48, Pos (0,1)
+msgid ""
+"男性：\n"
+"ならば運命に\"そういう眼差し\"を向けるのは、\n"
+"無思慮で在り無責任ではないかね？"
+msgstr ""
+
+#. ID 15, Page 1, Line 51, Pos (0,1)
+msgid ""
+"男性：\n"
+"運命に立ち向かう者達よ。\\|\n"
+"青空に手を伸ばす馬鹿共よ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 57, Pos (0,1)
+msgid ""
+"男性：\n"
+"結局、それを分かっているのは彼女だけか。"
+msgstr ""
+
+#. ID 15, Page 1, Line 59, Pos (0,1)
+msgid ""
+"男性：\n"
+"白き翼を携えた、一人の天使。"
+msgstr ""
+
+#. ID 15, Page 1, Line 79, Pos (0,1)
+msgid ""
+"男性：\n"
+"\\S[2]題名は、\\.\\.これを置いて他に在るまい。\\|\\|\\^"
+msgstr ""

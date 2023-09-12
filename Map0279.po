@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 4, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"アイシャを失って、俺達は絶望した。"
+msgstr ""
+
+#. ID 4, Page 1, Line 7, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"そして精神の安息を求めてDLG法遺族会に入り、\n"
+"様々な会合に参加し、様々な連中と出会った。"
+msgstr ""
+
+#. ID 4, Page 1, Line 12, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"ダメだった。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 15, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"まだガキだった俺は、\n"
+"幸いにも考え込む程度が浅くて済んでたが…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 19, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"父さんと母さんは完璧にドツボに嵌っちまった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 22, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"生命の意義、\\.\\.引いては世界の意義を問い続け、\\.\\.\n"
+"もう誰の声も届きやしない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 26, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"限界に達してた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 40, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"俺達は一つの選択に行き着いた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 43, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"カオス救世会に入り、\\.\\.\n"
+"その心を放棄してエイブラムに預けてしまうか。"
+msgstr ""
+
+#. ID 4, Page 1, Line 47, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"決然として心を抱き続け、\\.\\.\n"
+"マリバンドホープに身を投げるか。"
+msgstr ""
+
+#. ID 4, Page 1, Line 52, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"二つ共、\\.\\.各々の意味での\"終末\"だった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 55, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"俺達は悩み続けた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 58, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"そしてそんな或る日、\\.\\.\"奴\"は現れた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 61, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"それがエンデだ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 76, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"何故？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 79, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"エンデは強い選民思想の持ち主であった筈。"
+msgstr ""
+
+#. ID 4, Page 1, Line 82, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"星の運命を動かし得ない一般人をエキストラと称して\n"
+"ゴミ扱いしていたのよ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 86, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"貴方達みたいな一般人の所に自ら出向くなんて…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 90, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"確かに、俺達は一般人。\\|\n"
+"星の運命と何の因果も持っちゃいなかった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 94, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"だがディザスティアの強大な力は、\n"
+"因果に干渉するには充分な代物だった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 98, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"故にアイシャの家族で在る俺達は、\n"
+"末端ながら星の運命に組み込まれていたんだよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 103, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"そう、末端。\\|\n"
+"理屈上での位置付けではな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 107, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"だが当時俺達が抱いていた負の感情は、\n"
+"エンデ曰く超一級品だったようだ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 111, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"エンデは、その超一級品の匂いを嗅ぎ付けて、\n"
+"俺達の元へやって来た訳だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 116, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"星を殺す素質在り。"
+msgstr ""
+
+#. ID 4, Page 1, Line 119, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"二つの\"終末\"の選択に悩む俺達に、\n"
+"奴は第三の\"終末\"を提示した。"
+msgstr ""
+
+#. ID 4, Page 1, Line 123, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"一緒に世界を終わりにしよう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 139, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"\\S[2]俺達は、\\|それに乗った。\\|\\.\\.\\^"
+msgstr ""
+

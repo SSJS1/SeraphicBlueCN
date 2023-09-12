@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. ID 133, Page 2, Line 221, Pos (0,14)
+#. ChangeHeroName (Actor 1)
+#. ID 137, Page 1, Line 95, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "パーティ全員"
+msgstr "队伍全员"
+
+#. ID 133, Page 2, Line 223, Pos (0,14)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "　 [OFF] "
+msgstr ""
+
+#. ID 133, Page 2, Line 224, Pos (0,14)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "･　ON"
+msgstr ""
+
+#. ID 133, Page 2, Line 227, Pos (0,14)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "　  OFF　"
+msgstr ""
+
+#. ID 133, Page 2, Line 228, Pos (0,14)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "･ [ON]"
+msgstr ""
+
+#. ID 133, Page 2, Line 231, Pos (0,14)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "現在レベルの"
+msgstr "固定当前"
+
+#. ID 133, Page 2, Line 232, Pos (0,14)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "固定"
+msgstr "等级"
+
+#. ID 133, Page 2, Line 233, Pos (0,14)
+#. ChangeHeroName (Actor 7)
+msgctxt "actors.name"
+msgid "　　　　　　"
+msgstr ""
+
+#. ID 133, Page 2, Line 234, Pos (0,14)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[1]の現在レベルを変更\n"
+"\\>\\n[5]\\n[6]\\n[7]\\n[3]\\n[4]\n"
+"\\>レベル変更機能の説明\n"
+"\\>キャンセル"
+msgstr ""
+"\\>更改\\n[1]的等级\n"
+"\\>\\n[5]\\n[6]\\n[7]\\n[3]\\n[4]\n"
+"\\>等级变更机制的说明\n"
+"\\>返回"
+
+#. ID 133, Page 2, Line 243, Pos (0,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "/3"
+msgstr ""
+
+#. ID 133, Page 2, Line 244, Pos (0,14)
+msgid ""
+"\\>\\C[10]【レベル変更機能とは】　　　　　　　　　　　1\\n[2]\\C[0]\n"
+"\\>キャラ別に、本来の最大レベルまでの範囲で\n"
+"\\>自由にレベルを変更する事が出来ます。"
+msgstr ""
+"\\>\\C[10]【有关等级变更机制】　　　　　　　　　　　1\\n[2]\\C[0]\n"
+"\\>每个角色的等级都可以随意地更改，\n"
+"\\>只要不超过他们目前的等级上限就行。"
+
+#. ID 133, Page 2, Line 247, Pos (0,14)
+msgid ""
+"\\>\\C[10]【レベル変更機能とは】　　　　　　　　　　　2\\n[2]\\C[0]\n"
+"\\>レベルを上げすぎた為に手加減して戦いたい場合や、\n"
+"\\>プロファイルデータで高スコアを狙う場合などに\n"
+"\\>活用して下さい。"
+msgstr ""
+"\\>\\C[10]【有关等级变更机制】　　　　　　　　　　　2\\n[2]\\C[0]\n"
+"\\>因为等级太高想要让战斗更刺激一些\n"
+"\\>又或者是想要打出资料数据的高分的话\n"
+"\\>就请好好利用吧。"
+
+#. ID 133, Page 2, Line 251, Pos (0,14)
+msgid ""
+"\\>\\C[10]【現在レベルの固定】　　　　　　　　　　　　3\\n[2]\\C[0]\n"
+"\\>特殊機能「現在レベルの固定」が\\_ON\\_の時は、\n"
+"\\>全てのキャラのレベルが現在のレベルで固定され、\n"
+"\\>レベルアップしても最大レベルのみ上昇します。"
+msgstr ""
+"\\>\\C[10]【固定当前等级】　　　　　　　　　　　　3\\n[2]\\C[0]\n"
+"\\>当打开这个选项时，\n"
+"\\>所有角色的等级都会被固定在当前等级。\n"
+"\\>升级的时候只会增加角色们的等级上限。"
+
+#. ID 133, Page 2, Line 255, Pos (0,14)
+#. ChangeHeroName (Actor 2)
+#. ID 133, Page 2, Line 264, Pos (0,14)
+#. ChangeHeroName (Actor 2)
+#. ID 137, Page 1, Line 13, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ヴェーネ"
+msgstr ""
+
+#. ID 133, Page 2, Line 265, Pos (0,14)
+#. ChangeHeroName (Actor 3)
+#. ID 137, Page 1, Line 19, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ユアン"
+msgstr ""
+
+#. ID 133, Page 2, Line 266, Pos (0,14)
+#. ChangeHeroName (Actor 4)
+#. ID 137, Page 1, Line 22, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ケイン"
+msgstr ""
+
+#. ID 133, Page 2, Line 267, Pos (0,14)
+#. ChangeHeroName (Actor 5)
+#. ID 137, Page 1, Line 31, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ミネルヴァ"
+msgstr ""
+
+#. ID 133, Page 2, Line 268, Pos (0,14)
+#. ChangeHeroName (Actor 6)
+#. ID 137, Page 1, Line 34, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "フォクシー"
+msgstr ""
+
+#. ID 133, Page 2, Line 269, Pos (0,14)
+#. ChangeHeroName (Actor 7)
+#. ID 137, Page 1, Line 40, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ニクソン"
+msgstr ""
+
+#. ID 137, Page 1, Line 10, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "レイク"
+msgstr ""
+
+#. ID 137, Page 1, Line 43, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ドリス"
+msgstr ""
+
+#. ID 137, Page 1, Line 54, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ヤンシー"
+msgstr ""
+
+#. ID 137, Page 1, Line 57, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ランサード"
+msgstr ""
+
+#. ID 137, Page 1, Line 63, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ハウゼン"
+msgstr ""
+
+#. ID 137, Page 1, Line 66, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ヴィルジニー"
+msgstr ""
+
+#. ID 137, Page 1, Line 99, Pos (2,14)
+msgid ""
+"\\>＊\\n[1]のレベルを設定して下さい。（0～\\v[4838]）\n"
+"\\>　（000でキャンセル）"
+msgstr ""
+"\\>＊请设置\\n[1]的等级。（0～\\v[4838]）\n"
+"\\>　（000就是返回）"
+
+#. ID 137, Page 1, Line 103, Pos (2,14)
+msgid ""
+"\\>＊\\n[1]の\n"
+"\\>　現在レベルを設定して下さい。（0～\\v[4838]）\n"
+"\\>　（000でキャンセル）"
+msgstr ""
+"\\>＊请设置\\n[1]的\n"
+"\\>　当前等级。（0～\\v[4838]）\n"
+"\\>　（000就是返回）"
+
+#. ID 137, Page 1, Line 111, Pos (2,14)
+msgid ""
+"\\>\\v[2502]\n"
+"\\>\\v[2552]\n"
+"\\>\\v[2602]\n"
+"\\>\\v[2652]"
+msgstr ""
+
+#. ID 137, Page 1, Line 115, Pos (2,14)
+msgid ""
+"\\>\\v[4832]\n"
+"\\>\\v[4838]\n"
+"\\>\\v[4839]\n"
+"\\>\\v[4840]"
+msgstr ""

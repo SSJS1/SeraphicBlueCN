@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 3, Pos (6,5)
+msgid ""
+"男性：\n"
+"俺達が相手するのは雑魚のガイアキャンサー。\n"
+"言ってみれば小さな癌腫瘍だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (6,5)
+msgid ""
+"男性：\n"
+"でもアレだって侮れたもんじゃないぜ。\n"
+"ナメて掛かるとボコボコにされる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 9, Pos (6,5)
+msgid ""
+"男性：\n"
+"雑魚でこれなんだから、大物のガイアキャンサーは\n"
+"途轍も無いバケモノなんだろうな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 5, Pos (18,11)
+msgid ""
+"女性：\n"
+"いらっしゃい。一泊\\_\\V[4801]\\_ディアよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 9, Pos (18,11)
+msgid ""
+"女性：\n"
+"いらっしゃい。一泊\\_\\V[4801]\\_ディアだよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 17, Pos (18,11)
+msgid ""
+"女性：\n"
+"ゆっくり休んでね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 21, Pos (18,11)
+msgid ""
+"女性：\n"
+"ゆっくり休んでな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 32, Pos (18,11)
+#. ID 6, Page 1, Line 45, Pos (18,11)
+msgid ""
+"女性：\n"
+"また来てね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 36, Pos (18,11)
+#. ID 6, Page 1, Line 49, Pos (18,11)
+msgid ""
+"女性：\n"
+"また来て呉れよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 56, Pos (18,11)
+msgid ""
+"女性：\n"
+"以前は有志の集結で結構賑わってたんだけれど、\n"
+"今は晩酌を交わしに来る野郎共で賑わってるわ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 59, Pos (18,11)
+msgid ""
+"女性：\n"
+"それはそれで味があるのだけれど、\n"
+"私はいつまで経っても眠れないのよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 65, Pos (18,11)
+msgid ""
+"女性：\n"
+"オーグが解散してからは、すっかり客がいないわよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 69, Pos (18,11)
+msgid ""
+"女性：\n"
+"C.M.G.C.が事実上解散。\n"
+"これでこの店も少しは経営が良くなるでしょうね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 3, Pos (6,10)
+msgid ""
+"戦士：\n"
+"解放戦争に対抗する為、有志で此処に来たんだが、\n"
+"街はすっかりもぬけの殻さ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 6, Pos (6,10)
+msgid ""
+"戦士：\n"
+"今、仲間と一緒にどうするかを決めてるんだ。"
+msgstr ""
+
+#. ID 7, Page 3, Line 3, Pos (6,10)
+msgid ""
+"戦士：\n"
+"今、有志たちが続々と街に集まってるんだ。\n"
+"これに乗じて我々もオーグに参加する事にしたよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 3, Pos (6,11)
+msgid ""
+"女戦士：\n"
+"『自分たちはオーグと関係ありません』\n"
+"っていう素振りをしてれば良いだけじゃない？"
+msgstr ""
+
+#. ID 8, Page 1, Line 6, Pos (6,11)
+msgid ""
+"女戦士：\n"
+"で、オーグがヤバそうなら何気なく援護。\n"
+"これで万事解決よ！"
+msgstr ""
+
+#. ID 8, Page 3, Line 3, Pos (6,11)
+msgid ""
+"女戦士：\n"
+"さて、と。\n"
+"ようやく私の手腕が発揮できるのね。"
+msgstr ""
+
+#. ID 8, Page 4, Line 4, Pos (6,11)
+msgid ""
+"女戦士：\n"
+"まぁ、少し乗り遅れた感もあるけれど、\n"
+"ゲオルクを潰す事には変わりないからＯＫね。"
+msgstr ""
+
+#. ID 8, Page 4, Line 9, Pos (6,11)
+msgid ""
+"女戦士：\n"
+"ゲオルクも倒したし、めでたしめでたし…って訳には\n"
+"いかないの？"
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (9,10)
+msgid ""
+"戦士：\n"
+"まぁ落ち着けって。\n"
+"此処まで楽勝で来たんだし、なるようになるだろ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 6, Pos (9,10)
+msgid ""
+"戦士：\n"
+"仮に襲われても、\n"
+"オーグ内部には結構強い奴らがいるって話だ。\n"
+"そいつらに頼み込めば済むじゃねえかよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 3, Pos (9,11)
+msgid ""
+"女戦士：\n"
+"ちょっと待ってよ！\n"
+"相手はあのC.M.G.C.アームズだってよ！？"
+msgstr ""
+
+#. ID 10, Page 1, Line 6, Pos (9,11)
+msgid ""
+"女戦士：\n"
+"此処にいるだけでオーグのメンバーだって言われて、\n"
+"とんでもない目に遭うかもしれないのよ！？"
+msgstr ""
+
+#. ID 10, Page 3, Line 4, Pos (9,11)
+msgid ""
+"戦士：\n"
+"これでフェジテ側も形勢逆転だな。\n"
+"俺達も精一杯協力してやろうぜ！"
+msgstr ""
+
+#. ID 10, Page 3, Line 9, Pos (9,11)
+msgid ""
+"戦士：\n"
+"ゲオルクを倒して有頂天になってたけど、オーグには\n"
+"まだ倒さないといけない敵がいるんだったか。"
+msgstr ""
+
+#. ID 11, Page 1, Line 3, Pos (10,10)
+#. ID 12, Page 1, Line 3, Pos (13,10)
+msgid ""
+"男性：\n"
+"飛び道具とか一部の攻撃は、\n"
+"「相手にカウンターアタックされる事がない」\n"
+"って特性がある。"
+msgstr ""
+
+#. ID 11, Page 1, Line 7, Pos (10,10)
+#. ID 12, Page 1, Line 7, Pos (13,10)
+msgid ""
+"男性：\n"
+"弓矢や銃の攻撃なんかもそうだな。\n"
+"カウンターアタック持ちの敵と戦う時には\n"
+"この特性を意識しておくと良いと思うぜ。"
+msgstr ""
+

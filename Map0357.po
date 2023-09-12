@@ -1,0 +1,605 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 5, Pos (0,12)
+msgid ""
+"ユアン：\n"
+"相変わらず怖い顔してやがるな。\\|\n"
+"交渉なんだからもっと穏やかにしようや。"
+msgstr ""
+
+#. ID 3, Page 1, Line 8, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"貴様こそ、その土臭い粗野な匂いを如何にかしろ。\\|\n"
+"交渉には凡そ相応しくないわ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 11, Pos (0,12)
+msgid ""
+"ユアン：\n"
+"臭さで言ったら\n"
+"近衛兵隊だって充分汗臭いぜ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 14, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"我々は女王陛下に仕える身。\\|\n"
+"民間の凡夫の成り上がりと一緒にするな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 20, Pos (0,12)
+msgid ""
+"ユアン：\n"
+"要求は何だ？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 22, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"知れた事。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 24, Pos (0,12)
+msgid ""
+"ユアン：\n"
+"セラフィックブルーか。"
+msgstr ""
+
+#. ID 3, Page 1, Line 26, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"謝罪も付けて貰おう。\\|\n"
+"今までの政府に対する数々の反逆行為を詫びろ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (0,12)
+msgid ""
+"ユアン：\n"
+"反逆行為？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 34, Pos (0,12)
+msgid ""
+"ユアン：\n"
+"ああ、\\.\\.ヴェーネを囲ってた鳥篭の事か。"
+msgstr ""
+
+#. ID 3, Page 1, Line 36, Pos (0,12)
+msgid ""
+"ユアン：\n"
+"あんな無粋な代物。\\|ブチ壊して正解だったぜ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 42, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"如何やら、\\.\\.時間の無駄だったようだな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 44, Pos (0,12)
+msgid ""
+"ユアン：\n"
+"分かり切ってた事だがな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 46, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"そんな事でしか意見の一致を見られないとは、\n"
+"まったく世知辛い事よ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 52, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"止むを得まい。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 54, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"我々は貴様らオーグを、\n"
+"政府に対する反逆組織と認定して…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 58, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"待ちなさい！ \\.\\.オーウェン！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 67, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"ミネルヴァ様…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 69, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、\\.\\.私です。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 74, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"何故…\\|斯様な所に…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 76, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"オーグとの関係改善特使の極秘任務を\n"
+"デイジー様より仰せ付かっている。"
+msgstr ""
+
+#. ID 3, Page 1, Line 79, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"此処に来る際、デイジー様が\n"
+"貴殿にこの事を告げようとしたのだろうが…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 82, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"どうせ頭に血を上らせて、\n"
+"聞く耳など貸さなかったのだろうな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 88, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"\\S[2]何という事だ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 94, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"オーウェン。\\.\\.この争いは余りにも不毛です。"
+msgstr ""
+
+#. ID 3, Page 1, Line 96, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"C.M.G.C.は政府機関としての特権意識を排除し、\n"
+"またセラフィックブルーを救世の道具として\n"
+"\"所有する\"意識を改め…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 100, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"目的を共にするオーグと手を組んで、\n"
+"ガイアキャンサーに立ち向かわなくてはなりません。"
+msgstr ""
+
+#. ID 3, Page 1, Line 106, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"御言葉ですがミネルヴァ様。\\|\n"
+"民の頂点に立つ政府が、\n"
+"この様な民間の駄犬と手を組むなど…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 110, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"我々はこの世のあらゆる分野に於いて、\\.\\.\n"
+"あらゆる者共を凌駕する覇者でなくてはなりません。"
+msgstr ""
+
+#. ID 3, Page 1, Line 113, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"それこそが支配者というもの。\\|\n"
+"民間組織へ迎合するなど以ての外です。"
+msgstr ""
+
+#. ID 3, Page 1, Line 119, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 124, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"オーウェン。\\|もう一度だけ言います。"
+msgstr ""
+
+#. ID 3, Page 1, Line 126, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"今直ぐ撤退なさい。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 128, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"女王命令です。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 135, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"\\S[2]聞けません。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 138, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"………ッ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 140, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"貴様ッ！\\.\\. 女王命令に刃向かうのか！"
+msgstr ""
+
+#. ID 3, Page 1, Line 142, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"我々はオーグを反逆組織と認定しました。\\|\n"
+"故にオーグは規律に基き排斥されるべし。"
+msgstr ""
+
+#. ID 3, Page 1, Line 145, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"如何にミネルヴァ様の御命令でも、\n"
+"この規律を曲げる事能わず。"
+msgstr ""
+
+#. ID 3, Page 1, Line 148, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"何卒、\\.\\.御許しを。\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 153, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 159, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"御免なさい…。\\|役に立てなくて…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 161, Pos (0,12)
+msgid ""
+"ユアン：\n"
+"充分さ。\\|感謝してる。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 167, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"それでは最後通告だ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 169, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"後一時間だけ猶予を与えよう。\\|\n"
+"その間に貴様を含めたセラフィックブルー全員を\n"
+"此方に引き渡せ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 173, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"それが為されなかった場合は、\n"
+"実力行使に依ってその身柄を確保する。"
+msgstr ""
+
+#. ID 3, Page 1, Line 176, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"また同時にオーグに与した者を反逆者として捕縛、\n"
+"抵抗した場合は容赦無い攻撃を加える。"
+msgstr ""
+
+#. ID 3, Page 1, Line 179, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"そんな…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 184, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"この街を血の海にしないよう、\\.\\.\n"
+"賢い判断を下す事だ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 187, Pos (0,12)
+msgid ""
+"ユアン：\n"
+"分かってるさ。\\|誰が見す見す。"
+msgstr ""
+
+#. ID 3, Page 1, Line 192, Pos (0,12)
+msgid ""
+"ユアン：\n"
+"一つ、\\.\\.提案が在る。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 197, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"聞こう。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 13, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"不穏な空気が漂っているとは思っていたが、\\.\\.\n"
+"まさか女王反逆まで視野に入っていたとはな…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 16, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"貴殿に限ってその様な事は無いとは思うが、\n"
+"念の為確認しておきたい。"
+msgstr ""
+
+#. ID 3, Page 2, Line 19, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"愚問だな。\\.\\.女王陛下に牙剥くなど言語道断。"
+msgstr ""
+
+#. ID 3, Page 2, Line 21, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"ミネルヴァ様、\\.\\.\n"
+"そして天に召されし歴代女王陛下に誓おう。"
+msgstr ""
+
+#. ID 3, Page 2, Line 25, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"それではこれより城に着くまでの間、\\.\\.\n"
+"我々二人の身柄は貴殿の保護下だ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 32, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"さあミネルヴァ様。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 37, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 43, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"御免なさい、\\.\\.ハウゼン。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 49, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"私、\\.\\.やっぱり気持ちに嘘は吐けない…！"
+msgstr ""
+
+#. ID 3, Page 2, Line 51, Pos (0,12)
+msgid ""
+"ミネルヴァ：\n"
+"この気持ちは捨てられないッ！\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 59, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"ミネルヴァ様！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 66, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"何て事だ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 68, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"このままアームズが乗り込んだら、\n"
+"ミネルヴァ様にまで危害が及んでしまう…！"
+msgstr ""
+
+#. ID 3, Page 2, Line 74, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"フェジテセイヴァーが猿芝居とは世も末だな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 76, Pos (0,12)
+msgid ""
+"ハウゼン：\n"
+"何の事だ？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 81, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"成る程。\\.\\.如何なる時も女王陛下の\"味方\"か…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 83, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"さっさと追え。\\|\n"
+"出来る限り早く、連れ戻して来い。"
+msgstr ""
+
+#. ID 3, Page 2, Line 92, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"困った御方だ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 8, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"何なのだ…。\\|この揺れは…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 18, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"収まったか…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 20, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"しかし普通の地震とも思えん…。\\|\n"
+"念の為政府観測所に問い合わせてみるか…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 31, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"政府観測所に繋いで呉れ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 33, Pos (0,12)
+msgid ""
+"兵士：\n"
+"それが…！ \\.\\.大変な事に…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 35, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"やはり被害が出たか。"
+msgstr ""
+
+#. ID 3, Page 3, Line 37, Pos (0,12)
+msgid ""
+"兵士：\n"
+"否…\\.\\.被害どころの話じゃないんです…！"
+msgstr ""
+
+#. ID 3, Page 3, Line 39, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 41, Pos (0,12)
+msgid ""
+"兵士：\n"
+"先程デイジー様から関係幹部全員に向けての\n"
+"緊急連絡が在りまして…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 47, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"馬鹿なッ…！ \\|そんな事が起こり得るのか…！"
+msgstr ""
+
+#. ID 3, Page 3, Line 49, Pos (0,12)
+msgid ""
+"兵士：\n"
+"自分も信じられません。\\.\\.\n"
+"しかし政府観測所の正式な発表ですし、\n"
+"画像データも受け取っています。"
+msgstr ""
+
+#. ID 3, Page 3, Line 53, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"見せてみろ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 58, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 60, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"\\S[2]何という事だ…。\\|これは現実なのか…？"
+msgstr ""
+
+#. ID 3, Page 3, Line 62, Pos (0,12)
+msgid ""
+"兵士：\n"
+"既に高速機をスタンバイ済みです。\\.\\.\n"
+"今直ぐ城へお戻りください。"
+msgstr ""
+
+#. ID 3, Page 3, Line 65, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"分かった。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 70, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"全員聞け！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 72, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"先程、女王代行役デイジー殿の名の下に\n"
+"国家緊急事態宣言が出された！"
+msgstr ""
+
+#. ID 3, Page 3, Line 75, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"作戦は中止！\\.\\.\n"
+"総員速やかに撤収し、次の指示を待て！"
+msgstr ""
+
+#. ID 3, Page 3, Line 78, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"繰り返す！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 80, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"作戦は中止だ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 82, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"総員速やかに撤収し、次の指示を待て！"
+msgstr ""
+
+#. ID 3, Page 3, Line 84, Pos (0,12)
+msgid ""
+"オーウェン：\n"
+"以上！ \\.\\.行動開始！\\|\\^"
+msgstr ""
+

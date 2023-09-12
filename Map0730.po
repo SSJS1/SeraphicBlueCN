@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 25, Page 1, Line 19, Pos (30,0)
+#. ID 25, Page 1, Line 48, Pos (30,0)
+msgid ""
+"ヴェーネ：\n"
+"生き残り、\\.居るのかしら…。"
+msgstr ""
+
+#. ID 25, Page 1, Line 54, Pos (30,0)
+msgid ""
+"ヴェーネ：\n"
+"何て惨状…。\\|\\^"
+msgstr ""
+
+#. ID 25, Page 1, Line 57, Pos (30,0)
+msgid ""
+"ヴェーネ：\n"
+"壊滅と言うよりは寧ろ消滅…。\\|\n"
+"シャルとリーナが言ってた通りね…。"
+msgstr ""
+
+#. ID 25, Page 1, Line 65, Pos (30,0)
+msgid ""
+"ヴェーネ：\n"
+"生き残り、\\.\\.居るのかしら…。"
+msgstr ""
+

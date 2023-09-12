@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (10,12)
+msgid ""
+"女性：\n"
+"いらっしゃいませ。一泊\\_\\V[4801]\\_ディアです。"
+msgstr ""
+
+#. ID 3, Page 1, Line 9, Pos (10,12)
+msgid ""
+"女性：\n"
+"ごゆっくり御休みください。"
+msgstr ""
+
+#. ID 3, Page 1, Line 17, Pos (10,12)
+#. ID 3, Page 1, Line 24, Pos (10,12)
+msgid ""
+"女性：\n"
+"またの御越しを。"
+msgstr ""
+
+#. ID 3, Page 1, Line 28, Pos (10,12)
+msgid ""
+"女性：\n"
+"お早う御座います。また御越し下さいませ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 35, Pos (10,12)
+msgid ""
+"女性：\n"
+"以前、教会の子供達がお昼寝している様子を\n"
+"見たことがあるんだけど…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 38, Pos (10,12)
+msgid ""
+"女性：\n"
+"とても安らかで幸せそうな寝顔だったわ。\\!\n"
+"\"天使の様な寝顔\"って言うけど、本当にその通りね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 43, Pos (10,12)
+msgid ""
+"女性：\n"
+"\"天使の様な寝顔\"、ね…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 45, Pos (10,12)
+msgid ""
+"女性：\n"
+"…ううん、あの子達はきっと、\n"
+"安らかな眠りについてるはずよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 48, Pos (10,12)
+msgid ""
+"女性：\n"
+"神様には裏切られちゃった私だけど…。\\!\n"
+"自分自身は…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 51, Pos (10,12)
+msgid ""
+"女性：\n"
+"あの子達への気持ちだけは、裏切りたくないから。"
+msgstr ""
+
+#. ID 6, Page 1, Line 3, Pos (4,7)
+msgid ""
+"女性：\n"
+"私は別の街から来たのですが、此処の皆さんが\n"
+"教会の子供達に尽くす姿を見ていると、\n"
+"心なしかこちらの気持ちも清々しくなってきます。"
+msgstr ""
+

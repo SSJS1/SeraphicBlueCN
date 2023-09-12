@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (11,19)
+msgid ""
+"女の子：\n"
+"こんどのお誕生日に新しい絵本を買ってもらうの。"
+msgstr ""
+
+#. ID 3, Page 1, Line 10, Pos (11,19)
+msgid ""
+"女の子：\n"
+"お誕生日に新しい絵本を買ってもらったの。\n"
+"大切にするわ。"
+msgstr ""
+
+#. ID 33, Page 1, Line 9, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"フォクシー：ケイオスの雨は、\\.\\.刺す様に冷たかった。"
+msgstr ""
+
+#. ID 33, Page 1, Line 12, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"フォクシー：凍えさせて、突き刺して。\\|\n"
+"そして何も潤さない、不毛と失望の雨…。"
+msgstr ""
+
+#. ID 33, Page 1, Line 17, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"フォクシー：でも、\\.\\.今日の雨はそれよりもずっと…。"
+msgstr ""
+
+#. ID 33, Page 1, Line 20, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"フォクシー：まるで永遠に降り続け、\\.\\.\n"
+"全てを凍え死にさせそうな…。"
+msgstr ""
+
+#. ID 33, Page 1, Line 24, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"フォクシー：そんな雨。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 33, Page 1, Line 34, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ミネルヴァ：天に召されし御母様と歴代の女王達よ…。"
+msgstr ""
+
+#. ID 33, Page 1, Line 37, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ミネルヴァ：そして…\\|ハウゼン…。\\|\\^"
+msgstr ""
+
+#. ID 33, Page 1, Line 41, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ミネルヴァ：私達に力を…。\\|\n"
+"闇の底より見ゆる空の輝きを掴む力を…。"
+msgstr ""
+
+#. ID 33, Page 1, Line 45, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ミネルヴァ：どうか私達に…。"
+msgstr ""
+
+#. ID 33, Page 1, Line 55, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ニクソン：神とは即ち存在に非ず、\\.\\.\n"
+"己が心の抱く希望と信念の証…。"
+msgstr ""
+
+#. ID 33, Page 1, Line 59, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ニクソン：ならば今此処で、\\.\\.私の神に祈りましょう。"
+msgstr ""
+
+#. ID 33, Page 1, Line 63, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ニクソン：この雨に凍える者達へ、温かき希望の光を。"
+msgstr ""
+
+#. ID 33, Page 1, Line 66, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ニクソン：空を屠る悪しき黒影を討たん事を。"
+msgstr ""
+
+#. ID 33, Page 1, Line 70, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ニクソン：全て願いは、\\.\\.私達の青空に。"
+msgstr ""
+
+#. ID 33, Page 1, Line 80, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ドリス：ヴェーネおネエちゃん、\\.\\.かえって来るの？"
+msgstr ""
+
+#. ID 33, Page 1, Line 83, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ヤンシー：いいえ。\\|迎えに行くのよ。"
+msgstr ""
+
+#. ID 33, Page 1, Line 89, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ドリス：むかえに行く…？"
+msgstr ""
+
+#. ID 33, Page 1, Line 95, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ヤンシー：取り戻すのよ。\\|私達の手で。"
+msgstr ""
+
+#. ID 33, Page 1, Line 99, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ヤンシー：一緒に頑張ろうね、\\.\\.ドリス。"
+msgstr ""
+
+#. ID 33, Page 1, Line 102, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ドリス：うん、\\.\\.イッショにガンバる。"
+msgstr ""
+
+#. ID 33, Page 1, Line 105, Pos (18,5)
+msgid ""
+"\n"
+"\n"
+"ドリス：コンドはワタシが、\\.\\.おネエちゃんをまもる。"
+msgstr ""
+
+#. ID 33, Page 2, Line 81, Pos (18,5)
+msgid ""
+"ヤンシー：\n"
+"フェジテ軍は一向に現れず、\\.\\.\n"
+"私達は只、\\.\\.降り続ける雨の音に包まれていた。"
+msgstr ""
+
+#. ID 33, Page 2, Line 84, Pos (18,5)
+msgid ""
+"ヤンシー：\n"
+"窓の露付き。\\|にわかに冷えた空気。"
+msgstr ""
+
+#. ID 33, Page 2, Line 86, Pos (18,5)
+msgid ""
+"ヤンシー：\n"
+"やがて言葉は消えて、\\.\\.考えも浮かばず。"
+msgstr ""
+
+#. ID 33, Page 2, Line 88, Pos (18,5)
+msgid ""
+"ヤンシー：\n"
+"為すがまま、\\.\\.更なる闇へと滑り落ちる。"
+msgstr ""
+
+#. ID 33, Page 2, Line 93, Pos (18,5)
+msgid ""
+"ヤンシー：\n"
+"だが、\\.\\.終わってはいなかった。"
+msgstr ""
+
+#. ID 33, Page 2, Line 98, Pos (18,5)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]私達は、\\.\\.再び起ち上がる。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 33, Page 2, Line 118, Pos (18,5)
+msgid ""
+"ランサード：\n"
+"大変だ！ \\.\\.街の南に飛行機が！\\|\\|\\^"
+msgstr ""
+
+#. ID 33, Page 2, Line 121, Pos (18,5)
+msgid ""
+"ミネルヴァ：\n"
+"デイジー達？\\|\\^"
+msgstr ""
+
+#. ID 33, Page 2, Line 123, Pos (18,5)
+msgid ""
+"ランサード：\n"
+"違う…！\\|\\^"
+msgstr ""
+
+#. ID 33, Page 2, Line 125, Pos (18,5)
+msgid ""
+"ランサード：\n"
+"青い小型の飛行機…。\\|\n"
+"恐らくヴェーネを連れ去った物と同型だろう…。"
+msgstr ""
+
+#. ID 33, Page 2, Line 129, Pos (18,5)
+msgid ""
+"ヤンシー：\n"
+"それじゃあ、\\.\\.ゲオルクの刺客…！"
+msgstr ""
+
+#. ID 33, Page 2, Line 131, Pos (18,5)
+msgid ""
+"ランサード：\n"
+"態々御丁寧に俺達を始末しに来たのだろう。"
+msgstr ""
+
+#. ID 33, Page 2, Line 133, Pos (18,5)
+msgid ""
+"フォクシー：\n"
+"こっちから出るしか無いね。"
+msgstr ""
+
+#. ID 33, Page 2, Line 135, Pos (18,5)
+msgid ""
+"ニクソン：\n"
+"此処で迎え撃って\n"
+"街の人達を巻き込む訳には行きません。"
+msgstr ""
+
+#. ID 33, Page 2, Line 141, Pos (18,5)
+msgid ""
+"ヤンシー：\n"
+"行くわよ！\\|\\^"
+msgstr ""
+

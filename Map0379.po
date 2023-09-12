@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 4, Pos (9,4)
+msgid ""
+"指揮官：\n"
+"ミネルヴァ様。どうか御気を付けて。"
+msgstr ""
+
+#. ID 2, Page 1, Line 11, Pos (9,4)
+msgid ""
+"指揮官：\n"
+"ハウゼン。\n"
+"どうかミネルヴァ様を頼んだぞ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 18, Pos (9,4)
+msgid ""
+"指揮官：\n"
+"諸君の実力を我々は高く評価している。\n"
+"健闘を期待しているぞ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 8, Pos (5,20)
+#. Contains choice at line 2 (3 options)
+msgid "店員：いらっしゃい！"
+msgstr ""
+
+#. ID 10, Page 1, Line 9, Pos (5,20)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 10, Page 1, Line 24, Pos (5,20)
+msgid ""
+"店員：\n"
+"これは、天使王都の政府筋の情報なんだけど…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 26, Pos (5,20)
+msgid ""
+"店員：\n"
+"何でも世界各地で、\n"
+"\\c[8]通常よりも外見の真っ青な、凶暴なモンスター等\\c[0]の\n"
+"存在が確認されるようになったみたい。"
+msgstr ""
+
+#. ID 10, Page 1, Line 30, Pos (5,20)
+msgid ""
+"店員：\n"
+"例の天空境界消滅の件と関わりが有るらしいけど、\n"
+"まだ詳しい事は分かってないみたいね。"
+msgstr ""
+
+#. ID 10, Page 1, Line 33, Pos (5,20)
+msgid ""
+"店員：\n"
+"ともかく、今後の戦闘は気を付けた方が良いと思うわ。\n"
+"このスカイスクレイパーでの戦闘も例外じゃないわよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 39, Pos (5,20)
+#. ID 10, Page 1, Line 50, Pos (5,20)
+msgid ""
+"店員：\n"
+"ここに出現するペイル･リユーズって敵は、\n"
+"大勢で一斉に襲い掛かってくるのが厄介ね。"
+msgstr ""
+
+#. ID 10, Page 1, Line 42, Pos (5,20)
+#. ID 10, Page 1, Line 53, Pos (5,20)
+msgid ""
+"店員：\n"
+"ＨＰは低くて、火属性にかなり弱いみたいだから、\n"
+"早めにまとめて片付けた方が良いと思うわ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 66, Pos (5,20)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"店員：\n"
+"いらっしゃい！"
+msgstr ""
+
+#. ID 10, Page 1, Line 68, Pos (5,20)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+
+#. ID 11, Page 2, Line 33, Pos (0,0)
+#. ID 11, Page 2, Line 106, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"このスカイスクレイパーは地上45階建て。\n"
+"現在我々が居るのは地下フロアの天空穿孔ポートだ。"
+msgstr ""
+
+#. ID 11, Page 2, Line 37, Pos (0,0)
+#. ID 11, Page 2, Line 110, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"そして35階から45階までは\"ハイアーフロア\"と呼ばれ、\n"
+"特に厳重な警備が施されている。"
+msgstr ""
+
+#. ID 11, Page 2, Line 41, Pos (0,0)
+#. ID 11, Page 2, Line 123, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エレベーターのセキュリティも極めて厳重で、\n"
+"現段階でも35階までしか登る事が出来ない。"
+msgstr ""
+
+#. ID 11, Page 2, Line 46, Pos (0,0)
+#. ID 11, Page 2, Line 132, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"依って進攻ルートは、\n"
+"此処からエレベーターで35階まで登った後…。"
+msgstr ""
+
+#. ID 11, Page 2, Line 50, Pos (0,0)
+#. ID 11, Page 2, Line 136, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"敵を退けつつ、階段を使って45階まで地道に\n"
+"進んで行く以外に無さそうだ。"
+msgstr ""
+
+#. ID 11, Page 2, Line 62, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"さてと！ \\.おっ始めるか！"
+msgstr ""
+
+#. ID 11, Page 2, Line 97, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"良く来て呉れた。\\.\\.\n"
+"早速現況を説明しておこう。"
+msgstr ""
+
+#. ID 11, Page 2, Line 115, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"今回の作戦に対しゲオルクは私設戦闘部隊を展開。\n"
+"徹底抗戦の構えを見せているが…。"
+msgstr ""
+
+#. ID 11, Page 2, Line 119, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"やはり今言ったハイアーフロアが難関だ。\n"
+"此処で一気に足が鈍っている。"
+msgstr ""
+
+#. ID 11, Page 2, Line 127, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"一応解除の努力はしているが、\n"
+"これに関しては無理だと思った方が賢明だろう。"
+msgstr ""
+
+#. ID 11, Page 2, Line 146, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも、ゲオルクは本当に\n"
+"今もこの建物内部に居るのかしら？"
+msgstr ""
+
+#. ID 11, Page 2, Line 149, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"実は既に外部に逃亡しているとか…。"
+msgstr ""
+
+#. ID 11, Page 2, Line 151, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"それは在り得ない。\\.\\.\n"
+"作戦準備として先日から厳重な監視を行っている。"
+msgstr ""
+
+#. ID 11, Page 2, Line 154, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"控えめの食事。\\.\\.長めのトイレ。\\.\\.長めの睡眠。\\.\\.\n"
+"全ての行動は絶えず監視下に置かれ…。"
+msgstr ""
+
+#. ID 11, Page 2, Line 157, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"奴は今、45階に\"押し込められている\"。"
+msgstr ""
+
+#. ID 11, Page 2, Line 162, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"否…。\\.\\.そいつは違うぜ。"
+msgstr ""
+
+#. ID 11, Page 2, Line 164, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"何だと…？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 2, Line 166, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"奴は俺達の撃退と決起集会の成功を確信して、\n"
+"差し詰めワインでも楽しんでる頃だ。"
+msgstr ""
+
+#. ID 11, Page 2, Line 169, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"押し込められてるなんて微塵も思わず。\\|\n"
+"寧ろ俺達と遊んで遣ってる位の気持ちで。"
+msgstr ""
+
+#. ID 11, Page 2, Line 172, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"奴はそういう男だ。\\|俺の知る限りな。"
+msgstr ""
+
+#. ID 11, Page 2, Line 177, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 11, Page 2, Line 182, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"もっと早くに切り捨てるべきだったな、あの男は。"
+msgstr ""
+
+#. ID 11, Page 2, Line 184, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"今ならまだ間に合うさ。"
+msgstr ""
+
+#. ID 11, Page 2, Line 186, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"そう祈ろう。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 2, Line 194, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"さてと！ \\.\\.おっ始めるか！\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 3, Pos (3,21)
+msgid ""
+"補給係：\n"
+"どうも、補給係です。\n"
+"完全回復が得意です。"
+msgstr ""
+
+#. ID 12, Page 1, Line 11, Pos (3,21)
+msgid ""
+"補給係：\n"
+"自分、こんな事しか出来ませんけど。\n"
+"頑張ってください、応援してます。"
+msgstr ""
+
+#. ID 44, Page 1, Line 3, Pos (16,12)
+msgid ""
+"女性兵士：\n"
+"ゲオルクの戦闘部隊だけれど、\n"
+"如何もルシファーみたいなのが混ざってるのよね。"
+msgstr ""
+
+#. ID 44, Page 1, Line 6, Pos (16,12)
+msgid ""
+"女性兵士：\n"
+"あんなの兵力として\n"
+"制御出来る様な存在ではない筈なのに。"
+msgstr ""
+
+#. ID 44, Page 1, Line 9, Pos (16,12)
+msgid ""
+"女性兵士：\n"
+"何か不穏な物を感じるわ。"
+msgstr ""
+

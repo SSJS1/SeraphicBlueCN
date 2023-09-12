@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 13, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まるで猫だな。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 16, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"はぁ？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 18, Pos (0,0)
+msgid ""
+"レイク：\n"
+"落ち着きが無いって言ってるんだよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 20, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"この豪華な部屋を堪能してるだけさ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 22, Pos (0,0)
+msgid ""
+"レイク：\n"
+"またケイオスのアレか。"
+msgstr ""
+
+#. ID 3, Page 1, Line 25, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"骨付き肉は骨の髄まで食い尽くせ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 27, Pos (0,0)
+msgid ""
+"レイク：\n"
+"健康だな。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"スカしてな。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 32, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"後でフカフカのベッドが恋しいなんて\n"
+"泣くんじゃないよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 35, Pos (0,0)
+msgid ""
+"レイク：\n"
+"誰が。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 37, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"如何だかね。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 39, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"パパとママを前にして\n"
+"\"立ち位置\"見失ってる男が。"
+msgstr ""
+
+#. ID 3, Page 1, Line 45, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 50, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ふん。\\.\\.何とでも言え。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 64, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"用事、終わったの？"
+msgstr ""
+
+#. ID 3, Page 1, Line 66, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"ああ。\\.\\.荷物運び。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"奴さんの部下が一人腰を痛めた所為で、\n"
+"俺が代わりに使われたみたいだな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 71, Pos (0,0)
+msgid ""
+"レイク：\n"
+"オーグも此処では雑用係か。"
+msgstr ""
+
+#. ID 3, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"気にしてないけどな。\n"
+"元々そういう現場第一の役回りだし。"
+msgstr ""
+
+#. ID 3, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"しっかし…。\\|\n"
+"コイツはまたゴージャスだな…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"物置から馬小屋までを覚悟してた\n"
+"俺の立場を如何して呉れる。"
+msgstr ""
+
+#. ID 3, Page 1, Line 90, Pos (0,0)
+msgid ""
+"レイク：\n"
+"このまま順調に行けば良いんだが…。"
+msgstr ""
+

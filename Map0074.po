@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 3, Pos (4,12)
+#. ID 10, Page 1, Line 3, Pos (4,6)
+#. ID 11, Page 1, Line 3, Pos (10,2)
+#. ID 12, Page 1, Line 3, Pos (16,6)
+#. ID 13, Page 1, Line 3, Pos (16,12)
+#. ID 14, Page 1, Line 3, Pos (10,16)
+msgid ""
+"\n"
+"     ― 星命の生み出せし、大いなる力の結晶 ―\\|\n"
+"    ― 病魔を打ち破るべく、運命の天使と共に ―"
+msgstr ""
+
+#. ID 9, Page 1, Line 6, Pos (4,12)
+msgid ""
+"\n"
+"     ― 此処に集うは、素を付する力の極み也 ―"
+msgstr ""
+
+#. ID 10, Page 1, Line 6, Pos (4,6)
+msgid ""
+"\n"
+"     ― 此処に集うは、態を付する力の極み也 ―"
+msgstr ""
+
+#. ID 11, Page 1, Line 6, Pos (10,2)
+msgid ""
+"\n"
+"    ― 此処に集うは、戦いを制する業の極み也 ―"
+msgstr ""
+
+#. ID 12, Page 1, Line 6, Pos (16,6)
+msgid ""
+"\n"
+"      ― 此処に集うは、態に抗う力の極み也 ―"
+msgstr ""
+
+#. ID 13, Page 1, Line 6, Pos (16,12)
+msgid ""
+"\n"
+"      ― 此処に集うは、素に抗う力の極み也 ―"
+msgstr ""
+
+#. ID 14, Page 1, Line 6, Pos (10,16)
+msgid ""
+"\n"
+"    ― 此処に集うは、生命を支える力の極み也 ―"
+msgstr ""
+

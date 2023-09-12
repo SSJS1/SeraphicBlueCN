@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 7, Pos (0,10)
+msgid ""
+"悲鳴：\n"
+"キャ\\S[2]ーーーァァァッ!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 13, Pos (0,10)
+msgid ""
+"ヤンシー：\n"
+"悲鳴…!? \\.\\.女の子…!?\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 15, Pos (0,10)
+msgid ""
+"ヤンシー：\n"
+"まさかッ…！\\|\\^"
+msgstr ""
+

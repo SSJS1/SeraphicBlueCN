@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 3, Pos (2,4)
+msgid ""
+"男性：\n"
+"この先は飛行船ドック。"
+msgstr ""
+
+#. ID 7, Page 1, Line 5, Pos (2,4)
+msgid ""
+"男性：\n"
+"生憎だけどロアノークは今はお出掛け中だ。"
+msgstr ""
+
+#. ID 7, Page 3, Line 3, Pos (2,4)
+msgid ""
+"男性：\n"
+"発進準備、出来てるぜ。"
+msgstr ""
+
+#. ID 7, Page 3, Line 5, Pos (2,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"男性：\n"
+"カオス救世会本部まで行くかい？"
+msgstr ""
+
+#. ID 7, Page 3, Line 7, Pos (2,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 7, Page 3, Line 10, Pos (2,4)
+msgid ""
+"男性：\n"
+"よし。\\.\\.それじゃ出発だ。"
+msgstr ""
+
+#. ID 7, Page 3, Line 37, Pos (2,4)
+msgid ""
+"男性：\n"
+"何時でも行けるようにバッチリメンテしておくぜ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 9, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうだハウゼン。\\.\\.\n"
+"デイジーに連絡しないと。"
+msgstr ""
+
+#. ID 10, Page 1, Line 12, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"デイジー達までエイブラムの所に行ってしまったら\n"
+"何の意味も無いわ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 15, Pos (1,0)
+msgid ""
+"ハウゼン：\n"
+"ええ…。\\|そうなのですが…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 17, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"如何かしたの？"
+msgstr ""
+
+#. ID 10, Page 1, Line 19, Pos (1,0)
+msgid ""
+"ハウゼン：\n"
+"会議の後直ぐに連絡しようとしたのですが、\n"
+"通信機器の動作不良で連絡出来なかったのです。"
+msgstr ""
+
+#. ID 10, Page 1, Line 22, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうなの…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 24, Pos (1,0)
+msgid ""
+"ハウゼン：\n"
+"しかし念の為もう一度通信室に行ってみましょう。\\|\n"
+"復旧しているかも知れません。"
+msgstr ""
+
+#. ID 10, Page 1, Line 31, Pos (1,0)
+msgid ""
+"シャル：\n"
+"ああハウゼン。\\.\\.丁度良かった。"
+msgstr ""
+
+#. ID 10, Page 1, Line 33, Pos (1,0)
+msgid ""
+"リーナ：\n"
+"通信機の調子戻ったわよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 35, Pos (1,0)
+msgid ""
+"ハウゼン：\n"
+"そうか。\\.\\.助かる。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 42, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"デイジー？ \\.\\.私よ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 44, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"実はカオス救世会の件で…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 49, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええッ!? \\|もう使者を送った!?"
+msgstr ""
+
+#. ID 10, Page 1, Line 54, Pos (1,0)
+msgid ""
+"ハウゼン：\n"
+"ユアン･オースティン。\\|\n"
+"行動力は充分な評価に値するが…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 57, Pos (1,0)
+msgid ""
+"ハウゼン：\n"
+"\\S[2]間が悪過ぎる。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それじゃあ、\\.\\.気を付けて。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 8, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"何だ冴えない面してんな。\\|\n"
+"緊張するなって。"
+msgstr ""
+
+#. ID 11, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"どうせ警備の立ち仕事だ。\\.\\.\n"
+"取り敢えず居眠りでもしなけりゃ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 19, Pos (0,0)
+msgid ""
+"レイク：\n"
+"誰も緊張なんかしてねえよ。\\.\\.\n"
+"余計な世話焼くな。"
+msgstr ""
+
+#. ID 11, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そうか？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 27, Pos (0,0)
+msgid ""
+"レイク：\n"
+"もう良いだろ？\\.\\.\n"
+"さっさと行かせて呉れ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"行ってらっしゃい。"
+msgstr ""
+
+#. ID 11, Page 1, Line 35, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 37, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ…。\\.\\.行って来る。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"なあヴェーネ？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"記憶を失っている間に、\n"
+"何か良い事でも在ったのか？"
+msgstr ""
+
+#. ID 11, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何故？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 66, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ちょっと気に成ってな…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"別に。\\.\\.何も無かったわ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そうか。\\|\\^"
+msgstr ""
+

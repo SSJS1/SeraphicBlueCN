@@ -1,0 +1,827 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 17, Page 1, Line 3, Pos (56,9)
+msgid ""
+"女性：\n"
+"街が大きく成るのは大いに結構なんだけどね。"
+msgstr ""
+
+#. ID 17, Page 1, Line 5, Pos (56,9)
+msgid ""
+"女性：\n"
+"一緒にムサい男も増えるのが不満だわ。"
+msgstr ""
+
+#. ID 17, Page 3, Line 3, Pos (56,9)
+msgid ""
+"女性：\n"
+"あんな事言ってはみたけれど、\n"
+"こんなに寒々しい事に成るなんて…。"
+msgstr ""
+
+#. ID 17, Page 4, Line 3, Pos (56,9)
+msgid ""
+"女性：\n"
+"あの空、凄いプレッシャー。"
+msgstr ""
+
+#. ID 17, Page 4, Line 5, Pos (56,9)
+msgid ""
+"女性：\n"
+"たとえムサい男だろうと街に人が溢れてれば、\n"
+"これ程気負う事も無いんだろうけど…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 3, Pos (25,10)
+msgid ""
+"女戦士：\n"
+"飾り気の無い、狭っ苦しい街でしょう？"
+msgstr ""
+
+#. ID 18, Page 1, Line 5, Pos (25,10)
+msgid ""
+"女戦士：\n"
+"有志として力馬鹿の男ばかり集まった結果よ。"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (8,11)
+msgid ""
+"男性：\n"
+"むさ苦しい男が多くて厭だなんて意見も在るがね、\n"
+"私は活気が在って良い事だと思う。"
+msgstr ""
+
+#. ID 19, Page 1, Line 6, Pos (8,11)
+msgid ""
+"男性：\n"
+"そう、元気が無いよりはずっとましさ。"
+msgstr ""
+
+#. ID 19, Page 3, Line 3, Pos (8,11)
+msgid ""
+"男性：\n"
+"オーグの有志が皆去って行ってしまった…。\n"
+"御覧の通りの寂しい街並みさ。"
+msgstr ""
+
+#. ID 19, Page 4, Line 3, Pos (8,11)
+msgid ""
+"男性：\n"
+"寂しい街並みに、挙げ句壊れた空。"
+msgstr ""
+
+#. ID 19, Page 4, Line 5, Pos (8,11)
+msgid ""
+"男性：\n"
+"もう前のような元気は戻って来ないのだろうか…。"
+msgstr ""
+
+#. ID 19, Page 5, Line 3, Pos (8,11)
+msgid ""
+"男性：\n"
+"少しずつだけど、また男達が街に戻って来ている。\n"
+"私にとっては何よりだよ。"
+msgstr ""
+
+#. ID 19, Page 5, Line 6, Pos (8,11)
+msgid ""
+"男性：\n"
+"そう、男の多い街がね…。\n"
+"フフッ…。"
+msgstr ""
+
+#. ID 19, Page 6, Line 3, Pos (8,11)
+msgid ""
+"男性：\n"
+"何とも不安を煽る空模様だな…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 3, Pos (3,8)
+msgid ""
+"男性：\n"
+"実は俺、元C.M.G.C.アームズの一員だったんだが、\n"
+"あそこの雰囲気が何となく嫌だったから、\n"
+"こっちに有志として参加したんだ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 7, Pos (3,8)
+msgid ""
+"男性：\n"
+"隊長の面倒見もとても良いし、\n"
+"仲間同士強い絆で結ばれてるから、良い感じだよ。"
+msgstr ""
+
+#. ID 21, Page 4, Line 3, Pos (3,8)
+msgid ""
+"男性：\n"
+"C.M.G.C.が事実上解体したのを良いことに、\n"
+"フェジテ各地からオーグの有志たちが、\n"
+"この街に再び集まり始めているんだ。"
+msgstr ""
+
+#. ID 21, Page 4, Line 7, Pos (3,8)
+msgid ""
+"男性：\n"
+"もしかしたら、数ヶ月もしないうちに、\n"
+"この街も元の雰囲気に戻るかもしれないな。"
+msgstr ""
+
+#. ID 21, Page 5, Line 3, Pos (3,8)
+msgid ""
+"男性：\n"
+"今はただ、出来る事をするだけ。か…。"
+msgstr ""
+
+#. ID 22, Page 1, Line 3, Pos (5,8)
+msgid ""
+"男性：\n"
+"最近はガイアキャンサーの撲滅出動よりも、\n"
+"C.M.G.C.絡みの問題解決の為の出動が多いんだよ。"
+msgstr ""
+
+#. ID 22, Page 1, Line 6, Pos (5,8)
+msgid ""
+"男性：\n"
+"隊長があんなことやらかさなきゃ、\n"
+"目的通りに行動は出来たと思うんだけどなぁ。"
+msgstr ""
+
+#. ID 22, Page 4, Line 3, Pos (5,8)
+msgid ""
+"男性：\n"
+"C.M.G.C.が潰れたんだってな。\n"
+"てなわけで、非公認でオーグに復帰さ。"
+msgstr ""
+
+#. ID 22, Page 4, Line 6, Pos (5,8)
+msgid ""
+"男性：\n"
+"あんたらは、S級ガイアキャンサーだけ潰せば良い。\n"
+"他の小さい奴らは、俺たちが潰しておくからさ！"
+msgstr ""
+
+#. ID 22, Page 5, Line 3, Pos (5,8)
+msgid ""
+"男性：\n"
+"はぁ…。\n"
+"流石にあの空を見ると、元気出ないなぁ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 6, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"まったく何なのさ…。"
+msgstr ""
+
+#. ID 23, Page 1, Line 8, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"帰って来たかと思ったら、\n"
+"行き成りこんな所に連れて来て…。"
+msgstr ""
+
+#. ID 23, Page 1, Line 11, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"御免なさい。\\.\\.二人きりに成りたかったの。"
+msgstr ""
+
+#. ID 23, Page 1, Line 16, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"それで？ \\.\\.アタシに話ってのは？"
+msgstr ""
+
+#. ID 23, Page 1, Line 21, Pos (7,6)
+#. ID 23, Page 1, Line 107, Pos (7,6)
+#. ID 23, Page 1, Line 185, Pos (7,6)
+#. ID 23, Page 1, Line 259, Pos (7,6)
+#. ID 23, Page 1, Line 306, Pos (7,6)
+#. ID 23, Page 1, Line 330, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 27, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"貴女…\\|ケイオスに居たのよね？"
+msgstr ""
+
+#. ID 23, Page 1, Line 29, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"そうだけど…。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 31, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"まさか今更、ケイオスの人間なんかとは\n"
+"組めないとか言わないだろうね？"
+msgstr ""
+
+#. ID 23, Page 1, Line 34, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"冗談。\\.\\.誰がそんな事を。"
+msgstr ""
+
+#. ID 23, Page 1, Line 36, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"寧ろ逆よ。\\|私はケイオスの人間を待っていたの。"
+msgstr ""
+
+#. ID 23, Page 1, Line 41, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"待ってた…？\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 43, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"そう。\\.\\.マルゴとは違って\n"
+"ケイオスの\"普通の層\"に溶け込んでいる人。"
+msgstr ""
+
+#. ID 23, Page 1, Line 46, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"私は、そんな人が現れるのを心待ちにしていた。"
+msgstr ""
+
+#. ID 23, Page 1, Line 51, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"アンタ…\\|変わってるね。"
+msgstr ""
+
+#. ID 23, Page 1, Line 53, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"外の世界でケイオスを煙たがらず、\\.\\.\n"
+"それどころか歓迎する奴なんて。"
+msgstr ""
+
+#. ID 23, Page 1, Line 56, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"気に障ったかしら？"
+msgstr ""
+
+#. ID 23, Page 1, Line 58, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"変な気分。\\.\\.リアクションに困るよ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 63, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"まあ良いや。\\.\\.話の続きを。"
+msgstr ""
+
+#. ID 23, Page 1, Line 65, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 71, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"貴女に相談が在るの。"
+msgstr ""
+
+#. ID 23, Page 1, Line 77, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"ドラッグ…\\|手に入らない？"
+msgstr ""
+
+#. ID 23, Page 1, Line 79, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"はぁ？ \\|ドラッグぅ？\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 81, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"そんなモン、別にアタシに相談しなくたって\n"
+"近くのドラッグストアに行けば良いさ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 84, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"風邪薬…\\.\\.頭痛薬…。\\.\\.\n"
+"目薬に胃薬。\\|サプリに化粧品だって揃ってる。"
+msgstr ""
+
+#. ID 23, Page 1, Line 87, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"知らばっくれないで。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 92, Pos (7,6)
+#. ID 23, Page 1, Line 102, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 94, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"別に此処に運べなんて言わないわ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 96, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"取り敢えず先に話だけ付けておいて、\n"
+"また何かの用で向こうに行った時にでも…。"
+msgstr ""
+
+#. ID 23, Page 1, Line 112, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"聞いてるの？\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 114, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"聞いてるよ。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 120, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"お断りだね。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 122, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"………ッ！\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 127, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"何故…？ \\|所詮は余所者だから…？"
+msgstr ""
+
+#. ID 23, Page 1, Line 132, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"答えてッ…！\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 134, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"私はこのチャンスをずっと待ってたのよ…？"
+msgstr ""
+
+#. ID 23, Page 1, Line 136, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"フェジテで最もドラッグに近いケイオスの住人と\n"
+"知り合いに成って、ドラッグを譲って貰う…。"
+msgstr ""
+
+#. ID 23, Page 1, Line 139, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"これは又と無いチャンスなのよ…。"
+msgstr ""
+
+#. ID 23, Page 1, Line 145, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"アンタ…。\\.\\.そんなにドラッグが欲しいの？"
+msgstr ""
+
+#. ID 23, Page 1, Line 147, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"何故？\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 149, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"ドラッグを求めるのに理由が要るの？"
+msgstr ""
+
+#. ID 23, Page 1, Line 154, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"確かにね。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 156, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"アタシが売人を紹介した奴で、\n"
+"その理由を言った奴は一人として居なかった。"
+msgstr ""
+
+#. ID 23, Page 1, Line 159, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"でも奴らは全員、\\.\\.アタシの所に来た時点で\n"
+"既にヤク中だった。"
+msgstr ""
+
+#. ID 23, Page 1, Line 165, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"生憎だけど、\"カタギ\"には\n"
+"ドラッグを廻さない主義なんだよ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 168, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"廻しても良いのは、\n"
+"既に見下げ果てたクズ野郎だけ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 174, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"なら貴女はこう言うの？"
+msgstr ""
+
+#. ID 23, Page 1, Line 176, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"私が堅気だと。\\|私はクズではないと。"
+msgstr ""
+
+#. ID 23, Page 1, Line 178, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"当然さ。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 180, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"アンタに、\\.\\.ドラッグは廻せない。"
+msgstr ""
+
+#. ID 23, Page 1, Line 192, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"この話は忘れて遣るよ。\\|\n"
+"アンタもさっさと忘れちまいな。"
+msgstr ""
+
+#. ID 23, Page 1, Line 195, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"だが…\\.\\.コイツだけは覚えときな。"
+msgstr ""
+
+#. ID 23, Page 1, Line 200, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"ドラッグは人が飼い慣らせる程甘い代物じゃない。"
+msgstr ""
+
+#. ID 23, Page 1, Line 202, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"一時的なロウ状態をハイにする為だけに\n"
+"使用を制限してる心算でも、絶対に中毒に成る。"
+msgstr ""
+
+#. ID 23, Page 1, Line 208, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"差し詰め今のアンタは、\n"
+"エイブラムの野郎の口上にでも当てられて\n"
+"鬱入ってるんだろうけれど…。"
+msgstr ""
+
+#. ID 23, Page 1, Line 212, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"それでドラッグに浸るなんてのは、\n"
+"少し人生の安売りが過ぎるってモンだよ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 215, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"刹那の感情に流されるなと？"
+msgstr ""
+
+#. ID 23, Page 1, Line 217, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"そう言ってる心算だけどね。"
+msgstr ""
+
+#. ID 23, Page 1, Line 219, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"刹那的でないとしたら？"
+msgstr ""
+
+#. ID 23, Page 1, Line 221, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"どの道ダメだ。\\.\\.\n"
+"傷付くのはアンタだけじゃない。"
+msgstr ""
+
+#. ID 23, Page 1, Line 224, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"他に誰か傷付くの？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 230, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"ヴェーネ…。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 235, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"アンタ、\\.\\.想像以上に食えない奴＜オンナ＞だね…。"
+msgstr ""
+
+#. ID 23, Page 1, Line 237, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"\"向こう\"でもこれ程の奴には\n"
+"滅多に出会わなかったよ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 243, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"告げ口する心算？\\|\n"
+"ユアンとレイクに。"
+msgstr ""
+
+#. ID 23, Page 1, Line 246, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"そんな事をしたら今後のオーグの動きに\n"
+"大きな齟齬を来たす事位、分かるわよね？"
+msgstr ""
+
+#. ID 23, Page 1, Line 249, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"増してセラフィックブルー同士で不協和なんて\n"
+"発生したりしたら…。"
+msgstr ""
+
+#. ID 23, Page 1, Line 252, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"分かってるよ。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 254, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"でもアタシはケイオスの住人だ。\\.\\.\n"
+"人生を全うする気なんてハナから無い。"
+msgstr ""
+
+#. ID 23, Page 1, Line 257, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"極端な話、\\.\\.星の生命なんて知った事じゃない。"
+msgstr ""
+
+#. ID 23, Page 1, Line 264, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"言わないけどね。\\|客の秘密は絶対だ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 270, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"貴女は能く分からない人。"
+msgstr ""
+
+#. ID 23, Page 1, Line 272, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"私の人生を、\\.\\.気遣っているのか、\\.\\.いないのか。"
+msgstr ""
+
+#. ID 23, Page 1, Line 274, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"アンタの人生に興味は無い。"
+msgstr ""
+
+#. ID 23, Page 1, Line 276, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"ドラッグは破滅＜カタストロフィ＞を招く。\\|\n"
+"使い道もクソも、\\.\\.例外も無く。"
+msgstr ""
+
+#. ID 23, Page 1, Line 282, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"アタシは只、事実を言ってるだけ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 284, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"その不毛なドラッグの現実と、\n"
+"アンタの的外れなドラッグへの幻想。"
+msgstr ""
+
+#. ID 23, Page 1, Line 290, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"碌でもないオトコさ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 292, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"セックスが最高に上手いけど、\\.\\.\n"
+"しかし同時に最悪でも在る。"
+msgstr ""
+
+#. ID 23, Page 1, Line 295, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"アンタをイかせる事は在っても、\\.\\.\n"
+"アンタを満たす事は無い。"
+msgstr ""
+
+#. ID 23, Page 1, Line 298, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"そしてとろける様な熱の中で、\\.\\.\n"
+"アンタの肉体から生気という生気を奪い去る。"
+msgstr ""
+
+#. ID 23, Page 1, Line 301, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"行き着く先は、\\.\\.物言うミイラ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 311, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"さ、\\.\\.この話は互いに忘れよう。"
+msgstr ""
+
+#. ID 23, Page 1, Line 313, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"アタシはアンタから、\n"
+"何の相談も受けはしなかった。"
+msgstr ""
+
+#. ID 23, Page 1, Line 316, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"当然、ユアンやらレイクやらに\n"
+"何を告げ口する事も無い。"
+msgstr ""
+
+#. ID 23, Page 1, Line 319, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"アンタは、\\.\\.ドラッグなんざ欲しがってない。"
+msgstr ""
+
+#. ID 23, Page 1, Line 321, Pos (7,6)
+msgid ""
+"フォクシー：\n"
+"じゃあね。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 336, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"ケイオスに居た貴女に、\\.\\.\n"
+"私の真意が分からなかったと言うの？"
+msgstr ""
+
+#. ID 23, Page 1, Line 339, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"或いは、\\.\\.其処に居たからこそ、\n"
+"私とは逆の方向を向いていると言うの？"
+msgstr ""
+
+#. ID 23, Page 1, Line 345, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"或いは、\\.\\.知らない振り？"
+msgstr ""
+
+#. ID 23, Page 1, Line 350, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"まあ、如何でも良い事かしら。\\|\n"
+"私の人生に興味が無いのだから。"
+msgstr ""
+
+#. ID 23, Page 1, Line 357, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"エイブラムの所為で、\n"
+"一時的に鬱が入っているなんて…。"
+msgstr ""
+
+#. ID 23, Page 1, Line 360, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"この闇は、\\.\\.そんな刹那の物ではないわ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 362, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"終わる事の無い運命と\n"
+"本質から無限永劫に湧いて出る絶望。"
+msgstr ""
+
+#. ID 23, Page 1, Line 365, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"それに対し救済の在処を問うならば、\\.\\.\n"
+"得られる答えは極めて限られる。"
+msgstr ""
+
+#. ID 23, Page 1, Line 371, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"ドラッグを打ってハイに成る事？\\|\n"
+"そんなの、所詮は仮初めよ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 374, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"応急処置としか思ってない。\\|\n"
+"それを救済などとは思ってない。"
+msgstr ""
+
+#. ID 23, Page 1, Line 380, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ならば…。\\|そう…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 382, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]真なる救済…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 384, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]いずれ見る…。\\|零の地平線…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 393, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]フッ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 399, Pos (7,6)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]フフフッ…。\\|\\|\\^"
+msgstr ""
+

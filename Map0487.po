@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]うぐっ…！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]イーヴル共が…！\\|\n"
+"メンチュンに手を出すな…！\\|\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 19, Pos (0,0)
+msgid ""
+"メンチュン：\n"
+"\\S[2]ヤンシー！ \\|助けてェ!!\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 21, Pos (0,0)
+msgid ""
+"メンチュン：\n"
+"\\S[2]私…！\\| 死にたくない…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 23, Pos (0,0)
+msgid ""
+"メンチュン：\n"
+"\\S[2]生きたい…!!\\|\n"
+"ヤンシーと一緒に居たいよォ…!!\\|\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]止めろ…！\\|\n"
+"殺すなら、\\.\\.この私を…！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]メンチュンの代わりに、\\.\\.私を殺せェ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[5]メン…\\.\\.チュン…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 45, Pos (0,0)
+msgid ""
+"メンチュン：\n"
+"ヤンシー\\S[2]ィィィィィィッ!!!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[4]御師匠様…。\\|\n"
+"手当てなど、\\.\\.しないでください…。\\|\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[4]私は、\\.\\.メンチュンを守り抜く事も出来ず…。\\|\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[4]もう、\\.\\.生きている意味など…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[5]お願いです…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[5]このまま、\\.\\.死なせてください…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 75, Pos (0,0)
+msgid ""
+"師匠：\n"
+"それは成らぬ。\\|\n"
+"お前は生き延びるのだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[4]罰なのですか…？"
+msgstr ""
+
+#. ID 10, Page 1, Line 81, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[4]メンチュンを守れなかった…。\\|\n"
+"この弱さという罪に対する罰…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 84, Pos (0,0)
+msgid ""
+"師匠：\n"
+"その考えは捨てよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 86, Pos (0,0)
+msgid ""
+"師匠：\n"
+"弱き事を罪とするならば、\n"
+"強き事は獣＜けだもの＞を意味する。"
+msgstr ""
+
+#. ID 10, Page 1, Line 89, Pos (0,0)
+msgid ""
+"師匠：\n"
+"それは外道だ。\\|\n"
+"人の道を踏み外せし非人共の行く道だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 93, Pos (0,0)
+msgid ""
+"師匠：\n"
+"ヤンシーよ。\\|\n"
+"お前の生命は罪と罰の証ではない。"
+msgstr ""
+
+#. ID 10, Page 1, Line 97, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[4]それでは、\\.\\.何故私は死んではならないのですか…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 100, Pos (0,0)
+msgid ""
+"師匠：\n"
+"お前は此処に、\n"
+"新たなる戦いの道を踏み出した。"
+msgstr ""
+
+#. ID 10, Page 1, Line 103, Pos (0,0)
+msgid ""
+"師匠：\n"
+"その道はお前を\"強き\"の頂へと導くだろう。"
+msgstr ""
+
+#. ID 10, Page 1, Line 105, Pos (0,0)
+msgid ""
+"師匠：\n"
+"逃げてはならぬ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 107, Pos (0,0)
+msgid ""
+"師匠：\n"
+"呪縛。\\.\\.そして枷。\\|\n"
+"それら幻像を打ち砕き、真の姿、魂の燐光を得よ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 110, Pos (0,0)
+msgid ""
+"師匠：\n"
+"それを以ってしてメンチュンの魂に報いるのだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 113, Pos (0,0)
+msgid ""
+"師匠：\n"
+"\\S[2]ヤンシーよ。\\|強く成れ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 116, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[5]メン…\\.\\.チュン…。\\|\\^"
+msgstr ""
+

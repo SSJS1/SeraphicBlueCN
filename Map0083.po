@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 17, Pos (16,7)
+msgid ""
+"ヴェーネ：\n"
+"何者かの悪質な悪戯で船の操舵機構が破損…。\\.\\.\n"
+"安全確認の為、今日の出航は全て見合わせ…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 20, Pos (16,7)
+#. ID 1, Page 1, Line 71, Pos (16,7)
+msgid ""
+"レイク：\n"
+"こっちは早くホワイトウィングに行きたいってのに。"
+msgstr ""
+
+#. ID 1, Page 1, Line 22, Pos (16,7)
+#. ID 1, Page 1, Line 73, Pos (16,7)
+msgid ""
+"ニクソン：\n"
+"まあまあ、そう生き急がずに。\\.\\.\n"
+"明日からは通常航行に戻るのですから。"
+msgstr ""
+
+#. ID 1, Page 1, Line 28, Pos (16,7)
+#. ID 1, Page 1, Line 81, Pos (16,7)
+msgid ""
+"ヴェーネ：\n"
+"折角だから、色々と街を歩いてみない？"
+msgstr ""
+
+#. ID 1, Page 1, Line 48, Pos (16,7)
+msgid ""
+"船乗り：\n"
+"ホワイトウィング行きの御客人かな？"
+msgstr ""
+
+#. ID 1, Page 1, Line 53, Pos (16,7)
+msgid ""
+"船乗り：\n"
+"実は…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 66, Pos (16,7)
+msgid ""
+"ヴェーネ：\n"
+"何者かの悪質な悪戯で船の操舵機構が破損…。\\|\n"
+"安全確認の為、今日の出航は全て見合わせ…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 69, Pos (16,7)
+msgid ""
+"ヴェーネ：\n"
+"こんな事も在るのね。"
+msgstr ""
+
+#. ID 1, Page 1, Line 76, Pos (16,7)
+msgid ""
+"ニクソン：\n"
+"一日位、別に良いでしょう。"
+msgstr ""
+
+#. ID 1, Page 1, Line 83, Pos (16,7)
+msgid ""
+"ニクソン：\n"
+"そうですね。\\.\\.\n"
+"特にやる事も在りませんし。"
+msgstr ""
+
+#. ID 1, Page 1, Line 89, Pos (16,7)
+msgid ""
+"レイク：\n"
+"俺は結構だ。\\.\\.かったるいから宿屋で寝てる。"
+msgstr ""
+
+#. ID 1, Page 1, Line 91, Pos (16,7)
+msgid ""
+"ニクソン：\n"
+"そういう姿勢は感心しませんね。\\.\\.\n"
+"味気無い人生に成ってしまいますよ？"
+msgstr ""
+
+#. ID 1, Page 1, Line 94, Pos (16,7)
+msgid ""
+"レイク：\n"
+"知った事か。\\.\\.\n"
+"そもそも初めから期待してないぜ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 100, Pos (16,7)
+msgid ""
+"ニクソン：\n"
+"何とまあ。\\.\\.主の嘆きが聞こえそうです。"
+msgstr ""
+
+#. ID 1, Page 1, Line 102, Pos (16,7)
+msgid ""
+"ヴェーネ：\n"
+"どうしてそんなにローテンションなの？"
+msgstr ""
+
+#. ID 1, Page 1, Line 105, Pos (16,7)
+msgid ""
+"レイク：\n"
+"俺に訊くな。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 107, Pos (16,7)
+msgid ""
+"ヴェーネ：\n"
+"自分の事じゃない。"
+msgstr ""
+
+#. ID 1, Page 1, Line 109, Pos (16,7)
+msgid ""
+"レイク：\n"
+"知らないモンは知らない。"
+msgstr ""
+
+#. ID 1, Page 1, Line 111, Pos (16,7)
+msgid ""
+"レイク：\n"
+"知りたくもない。"
+msgstr ""
+
+#. ID 1, Page 1, Line 117, Pos (16,7)
+msgid ""
+"ニクソン：\n"
+"思い掛けず困った人ですね。"
+msgstr ""
+
+#. ID 1, Page 1, Line 119, Pos (16,7)
+msgid ""
+"ヴェーネ：\n"
+"こういう場合は、やはり…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 121, Pos (16,7)
+msgid ""
+"ニクソン：\n"
+"ですね。\\.\\.肝要なのは行動に移る事です。"
+msgstr ""
+
+#. ID 1, Page 1, Line 123, Pos (16,7)
+msgid ""
+"ニクソン：\n"
+"無理矢理にでも街中を引き連れ回す以外、\n"
+"良策は無いかと。"
+msgstr ""
+
+#. ID 1, Page 1, Line 128, Pos (16,7)
+msgid ""
+"レイク：\n"
+"ふざけんな。\\.\\.俺は行かないぞ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 130, Pos (16,7)
+msgid ""
+"ヴェーネ：\n"
+"貴方の為を思って言ってるのよ。\\.\\.\n"
+"そんな生き方だと腐る一方じゃない。"
+msgstr ""
+
+#. ID 1, Page 1, Line 133, Pos (16,7)
+msgid ""
+"レイク：\n"
+"お前には関係無いだろう。"
+msgstr ""
+
+#. ID 1, Page 1, Line 135, Pos (16,7)
+msgid ""
+"レイク：\n"
+"此奴は俺の人生。\\.\\.\n"
+"腐ろうが堕ちようが俺の勝手だ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 138, Pos (16,7)
+msgid ""
+"ヴェーネ：\n"
+"理屈は結構よ。\\.\\.\n"
+"兎に角、一緒に来なさい。"
+msgstr ""
+
+#. ID 1, Page 1, Line 141, Pos (16,7)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]分かったわね？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 146, Pos (16,7)
+msgid ""
+"レイク：\n"
+"ったく…。\\.\\.\n"
+"まるで昔のイリエナだな…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 149, Pos (16,7)
+msgid ""
+"レイク：\n"
+"何だってこの歳で説教なんざ…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 151, Pos (16,7)
+msgid ""
+"ヴェーネ：\n"
+"何ブツクサ言ってるの？\\|\n"
+"返事は？"
+msgstr ""
+
+#. ID 1, Page 1, Line 158, Pos (16,7)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 165, Pos (16,7)
+msgid ""
+"レイク：\n"
+"分かったよ。\\.\\.行けば良いんだろ？"
+msgstr ""
+
+#. ID 1, Page 2, Line 3, Pos (16,7)
+msgid ""
+"船乗り：\n"
+"ホワイトウィング行きの船は現在調整中だ。\n"
+"翌朝まで待って呉れ。"
+msgstr ""
+
+#. ID 1, Page 3, Line 3, Pos (16,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"船乗り：\n"
+"ホワイトウィング行きの船だが、乗るかね？"
+msgstr ""
+
+#. ID 1, Page 3, Line 5, Pos (16,7)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 3, Line 9, Pos (16,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 1, Page 3, Line 7, Pos (16,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"※乗船するとユヴェスには暫く戻って来る事は\n"
+"  出来ません。宜しいですか？"
+msgstr ""
+
+#. ID 1, Page 4, Line 3, Pos (16,7)
+msgid ""
+"船乗り：\n"
+"此処はホワイトウィング行きの船着場だ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (45,8)
+msgid ""
+"海の男：\n"
+"ロビンがこの街の再建を手掛けてもう８年が経つのに、\n"
+"まだ連中の工事は続いてるんだ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 6, Pos (45,8)
+msgid ""
+"海の男：\n"
+"定期的に大量の資材を搬入しちゃあ、\n"
+"海底の方でガチャガチャと。"
+msgstr ""
+
+#. ID 9, Page 1, Line 9, Pos (45,8)
+msgid ""
+"海の男：\n"
+"もうとっくに街なんか完成してるのに、\n"
+"これ以上何を弄り回すって言うんだろうな。"
+msgstr ""
+
+#. ID 9, Page 1, Line 12, Pos (45,8)
+msgid ""
+"海の男：\n"
+"技術屋の考える事は分かんないぜ。"
+msgstr ""
+

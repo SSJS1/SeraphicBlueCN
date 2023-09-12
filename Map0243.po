@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 29, Pos (0,0)
+#. ID 5, Page 1, Line 142, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺が一通りケイオスを見て回って\n"
+"どんなモンか見て来る。"
+msgstr ""
+
+#. ID 5, Page 1, Line 32, Pos (0,0)
+#. ID 5, Page 1, Line 145, Pos (0,0)
+msgid ""
+"レイク：\n"
+"これなら心配性のハウゼンでも、少しは安心だろ？"
+msgstr ""
+
+#. ID 5, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"ケイオスに行く？\\.\\.\n"
+"まさか本気でそんな事を…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"本気も本気よ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"この歓楽都市エンヴィのスラム街、\\.\\.世界で最も混沌に\n"
+"満ちていると言われる\\C[19]エンヴィ･ケイオス\\C[0]。"
+msgstr ""
+
+#. ID 5, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"初めから其処に行く心算で\n"
+"私は此処に来たの。"
+msgstr ""
+
+#. ID 5, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"しかし、\\.\\.他にも見る所は幾らでも…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"何言ってるのよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"あんな表町の整然とした綺麗な街並みを見た所で、\n"
+"この街の一体何を知る事が出来ると？"
+msgstr ""
+
+#. ID 5, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"それはそうだが…。\\.\\.やはり手始めに…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"煮え切らないわね。\\.\\.デイジーなら即決よ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"私が見るべきはエンヴィ･ケイオス。"
+msgstr ""
+
+#. ID 5, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"あの部屋で話を聞くだけでは決して知る事の出来ない、\n"
+"世界のリアル。"
+msgstr ""
+
+#. ID 5, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"間違ってるかしら？"
+msgstr ""
+
+#. ID 5, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"だが…。\\.\\.やはり危険が伴うからして…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 82, Pos (0,0)
+msgid ""
+"レイク：\n"
+"おい、何時までそうやって押し問答してる？"
+msgstr ""
+
+#. ID 5, Page 1, Line 84, Pos (0,0)
+msgid ""
+"レイク：\n"
+"暇で死にそうだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 86, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"御免なさい。\\.\\.今ハウゼンを説得してる所だから。"
+msgstr ""
+
+#. ID 5, Page 1, Line 91, Pos (0,0)
+msgid ""
+"レイク：\n"
+"なあハウゼン。\\.\\.\n"
+"あんたも図体の割りに御節介焼きだな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"当然だ。\\.\\.私は生命に代えてでもミネルヴァを守る\n"
+"義務を負うているのだからな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 97, Pos (0,0)
+msgid ""
+"レイク：\n"
+"優秀なボディーガードってか。\n"
+"にしてはケイオスに行くのは躊躇ってるな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 100, Pos (0,0)
+msgid ""
+"レイク：\n"
+"腕に自信が無いのか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 102, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"戯言を。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 104, Pos (0,0)
+msgid ""
+"レイク：\n"
+"だったら良いだろう。\\.\\.\n"
+"彼女に危険が迫ってもあんたが振り払えば済む。"
+msgstr ""
+
+#. ID 5, Page 1, Line 107, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"言う程ケイオスは単純ではない。\\.\\.\n"
+"豪腕だけでは始末に負えない不測の事態とて\n"
+"充分に起こり得る。"
+msgstr ""
+
+#. ID 5, Page 1, Line 114, Pos (0,0)
+msgid ""
+"レイク：\n"
+"やれやれ…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 120, Pos (0,0)
+msgid ""
+"レイク：\n"
+"じゃあこうしよう。\\.\\.\n"
+"俺が先ず偵察に行って来る。"
+msgstr ""
+
+#. ID 5, Page 1, Line 123, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"一人で？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 125, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ハウゼンはあんたと一緒だろ？"
+msgstr ""
+
+#. ID 5, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"だが、それもまた危険な事だぞ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 129, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それなら慣れてる。\\.\\.仕事柄でな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 131, Pos (0,0)
+msgid ""
+"レイク：\n"
+"寧ろ此処であんた達の押し問答を\n"
+"延々聞かされる方が、俺にはキツい。"
+msgstr ""
+
+#. ID 5, Page 1, Line 137, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"むう…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 147, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"心配性…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"言われ放題ねハウゼン。\\.\\.\n"
+"何時までも煮え切らないからよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 153, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 159, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"でも少し悪い気もするわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 161, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"私とて独りで行かせるのは本意ではない。"
+msgstr ""
+
+#. ID 5, Page 1, Line 163, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"だが私は何が在っても\n"
+"ミネルヴァの傍を離れる訳には行かないのでな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 169, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"レイク。\\.\\.偵察を頼まれて呉れるか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 171, Pos (0,0)
+msgid ""
+"レイク：\n"
+"散歩の心算で行って来るさ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 3, Pos (4,10)
+msgid ""
+"ハウゼン：\n"
+"言っておくが、臆している訳ではないぞ。\n"
+"全てはミネルヴァの身の安全を確保する為。"
+msgstr ""
+
+#. ID 6, Page 1, Line 6, Pos (4,10)
+msgid ""
+"ハウゼン：\n"
+"万に一つの間違いも許されん。\n"
+"だからこそ何重にも及ぶ用心が求められるのだ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 3, Pos (7,5)
+msgid ""
+"ミネルヴァ：\n"
+"御免なさい、\n"
+"独りで行かせる形になってしまって。"
+msgstr ""
+
+#. ID 7, Page 1, Line 6, Pos (7,5)
+msgid ""
+"ミネルヴァ：\n"
+"ハウゼンが私を心配する気持ちは良く分かるけれど、\n"
+"やっぱり過保護よね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 9, Pos (7,5)
+msgid ""
+"ミネルヴァ：\n"
+"行くべき時は、思い切って行かないと。\n"
+"伴うであろう多少の傷になど眼も呉れないで。"
+msgstr ""
+

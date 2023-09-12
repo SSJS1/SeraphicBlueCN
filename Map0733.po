@@ -1,0 +1,966 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (5,12)
+msgid ""
+"トロイ：\n"
+"ディザスティアが絡んでる以上、\n"
+"コイツは相当にヤバい戦いだぜ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 6, Pos (5,12)
+msgid ""
+"トロイ：\n"
+"絶対に死んだりするんじゃねえぞ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 8, Pos (8,8)
+#. ID 5, Page 1, Line 395, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"それじゃあ、エンデは此処でコールドスリープしていた\n"
+"ディザスティアの核を狙って…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 13, Pos (8,8)
+#. ID 5, Page 1, Line 404, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"恐らくまだ中に居るぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 15, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"連中の放ったモンスターが巣食ってるし、\\.\n"
+"連中自身も外に出た様子が無い。"
+msgstr ""
+
+#. ID 5, Page 1, Line 18, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"分かったわ。\\.中に入ってみる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 34, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"よう。\\.\\.こんな所で奇遇だな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 39, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"トロイ…。\\|無事だったのね…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 41, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"野暮用で此処に来ててな。\n"
+"市街の破壊から免れたって訳だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 44, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"とは言え直ぐに此処も嗅ぎ付けられて、\n"
+"中の奴も殆ど殺られちまったんだが。"
+msgstr ""
+
+#. ID 5, Page 1, Line 47, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"嗅ぎ付けられた？"
+msgstr ""
+
+#. ID 5, Page 1, Line 49, Pos (8,8)
+msgid ""
+"ニクソン：\n"
+"すると此処を襲った犯人を見たのですね？"
+msgstr ""
+
+#. ID 5, Page 1, Line 51, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"物陰に隠れてたから、\n"
+"あんまりはっきりとは見てないけどな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 54, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"灰色の皮膚組織に包まれた\n"
+"得体の知れない10歳位のガキだったぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 60, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]エンデ…！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 62, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"知り合いか？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 64, Pos (8,8)
+msgid ""
+"ニクソン：\n"
+"宿敵ですよ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 66, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"同情するぜ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 71, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"他に何か気付いた事は？"
+msgstr ""
+
+#. ID 5, Page 1, Line 73, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"そう言われてもな…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 75, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"\"あいつら\"から身を隠して\n"
+"逃げ果せる事で頭が一杯だったからよ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 83, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]貴方…。\\|今何て言った？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 85, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"あん？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 87, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"\"あいつら\"って…。\\.\\.\n"
+"エンデ一人じゃなかったの？"
+msgstr ""
+
+#. ID 5, Page 1, Line 90, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"ああ、ガキの付き人が多分２･３人。\\.\\.\n"
+"顔は見てないけどな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 96, Pos (8,8)
+msgid ""
+"ニクソン：\n"
+"これはまた…。\\|随分な厄介事に…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 101, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"エンデは基本的に単独行動。\n"
+"協同する様な人間の同胞なんて居ない…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 104, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"やっても精々ゲオルクやモーガンみたいに\n"
+"適当な駒にしておく程度…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 110, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]如何いう事…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 116, Pos (8,8)
+msgid ""
+"ミネルヴァ：\n"
+"ところで…。\\.\\.此処は一体何なのかしら？"
+msgstr ""
+
+#. ID 5, Page 1, Line 118, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"ホワイトウィング･ラボラトリーの\n"
+"隔離特別研究所さ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 121, Pos (8,8)
+msgid ""
+"ミネルヴァ：\n"
+"ええッ…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 123, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"市街地に在ったのは、言わば\"表\"のラボ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 125, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"対して此処は\"裏\"のラボ。\\.\\.\n"
+"高レベルの機密事項を扱う所だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 128, Pos (8,8)
+msgid ""
+"ミネルヴァ：\n"
+"何て事…。\\|\n"
+"内政部も把握していない秘密研究所じゃない…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 131, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"ま、\\.\\.ゲオルクのロビンとは違って、\n"
+"此処にはパーソンしか居ないからな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 134, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"フェジテに流れるパイプが一切繋がってない\n"
+"スタンドアローンって訳だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 141, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"それで、\\.\\.\"奴ら\"の狙いとして\n"
+"何か思い当たる事は無いかしら？"
+msgstr ""
+
+#. ID 5, Page 1, Line 144, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"ああ…。\\.\\.それなんだけどさ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 146, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"分かるのね？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 148, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"分かると言うか、\n"
+"俺も人から聞いたんだけどな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 154, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"俺が外に出ようとしてた時、\n"
+"一人のオッサンが俺を呼び止めたんだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 157, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"傷だらけの血まみれ。\\.\\.\n"
+"瀕死だった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 160, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"オッサンは自分の事を、\n"
+"この研究所の管理責任者の一人だと言った。"
+msgstr ""
+
+#. ID 5, Page 1, Line 163, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"そして死ぬ間際に、\\.\\.俺にメッセージを託した。"
+msgstr ""
+
+#. ID 5, Page 1, Line 165, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"たった一言。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 171, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"\\S[3]ディザスティアを渡すな。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 173, Pos (8,8)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 178, Pos (8,8)
+msgid ""
+"ランサード：\n"
+"\\S[2]ディザスティアだと…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 180, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"俺も最初は耳を疑ったぜ。\\|\n"
+"イーヴル･ディザスティアは10年前にランサードに\n"
+"倒された筈なんだからよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 184, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"だが、\\.\\.そのオッサンが全ての真相を話して呉れた。"
+msgstr ""
+
+#. ID 5, Page 1, Line 194, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"10年前このグラウンドを未曾有の危機に陥れた\n"
+"イーヴル･ディザスティア。"
+msgstr ""
+
+#. ID 5, Page 1, Line 198, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"奴はこの丘でランサードに倒され、死んだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 201, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"\\S[2]筈だった…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 205, Pos (8,8)
+msgid ""
+"\n"
+"ランサード：\n"
+"まさか…\\.\\.死んでいなかったのか…！"
+msgstr ""
+
+#. ID 5, Page 1, Line 209, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"いいや、\\.\\.確かに死んではいた。"
+msgstr ""
+
+#. ID 5, Page 1, Line 212, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"ディザスティアという\"個体\"としてはな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 215, Pos (8,8)
+msgid ""
+"\n"
+"ランサード：\n"
+"如何いう事だ？"
+msgstr ""
+
+#. ID 5, Page 1, Line 219, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"ディザスティアは、凡そ無尽蔵とも思える\n"
+"莫大なエネルギーを持っていた。"
+msgstr ""
+
+#. ID 5, Page 1, Line 223, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"では…\\.\\.そのエネルギーの根源は何だったのか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 231, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"奴の身体の中には、\\.\\.\n"
+"或る未知にして不可思議な生体組織が存在した。"
+msgstr ""
+
+#. ID 5, Page 1, Line 235, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"それこそが、奴の莫大なエネルギーの根源。"
+msgstr ""
+
+#. ID 5, Page 1, Line 238, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"エネルギー炉として機能し、\n"
+"奴にエネルギーを無尽蔵に供給し続ける器官。"
+msgstr ""
+
+#. ID 5, Page 1, Line 242, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"ディザスティアの核だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 246, Pos (8,8)
+msgid ""
+"\n"
+"ランサード：\n"
+"では…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 249, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"そうさ。\\.\\.核は死んでいなかった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 252, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"ディザスティア個体が死亡しても尚、\n"
+"核だけは直接の死を免れて…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 256, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"仮死状態のまま、ずっと眠り続けていたんだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 260, Pos (8,8)
+msgid ""
+"\n"
+"トロイ：\n"
+"\\S[3]ディザスティアは、\\.\\.未だ死んでいない。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 271, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"ディザスティアの核…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 276, Pos (8,8)
+msgid ""
+"ミネルヴァ：\n"
+"完全に見落としていたわ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 278, Pos (8,8)
+msgid ""
+"ミネルヴァ：\n"
+"確かにあの一件は\"私達\"の責任問題が大きく問われ、\n"
+"部隊の極秘派遣等で政府が動いていたけれど…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 281, Pos (8,8)
+msgid ""
+"ミネルヴァ：\n"
+"最終的にはディザスティアの個体死亡を以って\n"
+"状況終了とされていた。"
+msgstr ""
+
+#. ID 5, Page 1, Line 284, Pos (8,8)
+msgid ""
+"ミネルヴァ：\n"
+"それがまさか、\\.\\.\n"
+"そんな物が残されていたなんて…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 290, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"ディザスティアは２個のガイアキャンサーが結合した、\n"
+"史上最悪のキャンサーイーヴル…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 293, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"恐らくその核こそ２個のガイアキャンサーの具現体。\n"
+"元のルシファーの変性体組織。"
+msgstr ""
+
+#. ID 5, Page 1, Line 296, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"即ちその核こそ、\\.\\.\n"
+"寧ろ真意でディザスティアと呼ぶべき物。"
+msgstr ""
+
+#. ID 5, Page 1, Line 299, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"人々がディザスティアと思っていたのは、\n"
+"単に奴が憑代としていたルシファーの変異体に\n"
+"過ぎなかった…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 306, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"成る程な…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 308, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"分かり易く言えば\n"
+"ディザスティアは凄腕のパイロット。"
+msgstr ""
+
+#. ID 5, Page 1, Line 311, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"だが10年前に倒したのは、奴の乗った機体だけ。\\|\n"
+"肝心のパイロットは死んでいなかった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 314, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"こういう事か？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 316, Pos (8,8)
+#. ID 18, Page 1, Line 60, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 321, Pos (8,8)
+msgid ""
+"ランサード：\n"
+"\\S[2]何と言う事だ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 323, Pos (8,8)
+msgid ""
+"ランサード：\n"
+"\\S[2]ディザスティアは、\\.\\.死んでいなかったのか…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 334, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"ディザスティアが倒れた後、直ぐにその死体は\n"
+"駆け付けた研究者らに依って調べられ、\n"
+"その結果極一部の組織に生体反応が確認された。"
+msgstr ""
+
+#. ID 5, Page 1, Line 338, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"彼らは極秘裏にそれを保存、\n"
+"研究所の完成を待って本格的な調査を行った。"
+msgstr ""
+
+#. ID 5, Page 1, Line 341, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"そしてそれがディザスティアの核である事が判明。\n"
+"一先ず仮死状態維持の為に\n"
+"冷凍睡眠＜コールドスリープ＞にした。"
+msgstr ""
+
+#. ID 5, Page 1, Line 345, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"その上で、蘇生方法を調査してこれを蘇生し、\n"
+"様々な研究を行いたい所だったが…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 348, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"時はホワイトウィング建造の最中。\n"
+"元からギリギリ近い予算でやっていたこの計画の中、\n"
+"ラボの研究に偏向して資金を廻す事は難しかった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 352, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"其処でローズバーググループのゲオルクに援助を\n"
+"呼び掛けてみたものの、完全にシカトされる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 358, Pos (8,8)
+msgid ""
+"ヴィルジニー：\n"
+"まあ当然ね。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 360, Pos (8,8)
+msgid ""
+"ヴィルジニー：\n"
+"時折りしもプロジェクト･ヴィルジニーの発動。\n"
+"ゲオルクはシリアの再生に御執心。"
+msgstr ""
+
+#. ID 5, Page 1, Line 363, Pos (8,8)
+msgid ""
+"ヴィルジニー：\n"
+"それでなくても、\n"
+"彼はフェジテと繋がっていたから。"
+msgstr ""
+
+#. ID 5, Page 1, Line 366, Pos (8,8)
+msgid ""
+"ヴィルジニー：\n"
+"セラパーソンの味を知る彼は、\n"
+"\"パーソンだけ\"の研究機関の言う事を聞く耳を\n"
+"持ってないでしょうね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 373, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"その後ゲオルクの線を諦めた彼らは、\n"
+"他から何とかしてそれなりの予算を掻き集め\n"
+"研究を開始した。"
+msgstr ""
+
+#. ID 5, Page 1, Line 377, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"だが相手はディザスティアの核という、\n"
+"正に未知にして不可思議の存在。"
+msgstr ""
+
+#. ID 5, Page 1, Line 380, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"パーソンの限界か如何かはさて置くとして、\n"
+"結局その蘇生方法すら見出す事が出来なかった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 386, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"詰まる所、\\.\\.折角手に入れたディザスティアの核は、\n"
+"仮死状態からの蘇生すら叶う事無く…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 389, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"今までずっと、\n"
+"この研究所の奥深くで眠っていた。"
+msgstr ""
+
+#. ID 5, Page 1, Line 398, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"先ず表のラボを襲ったが空振り。\\.\\.\n"
+"程無く此処を嗅ぎ付け、また襲った。"
+msgstr ""
+
+#. ID 5, Page 1, Line 406, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"連中の放ったモンスターが巣食ってるし、\\.\\.\n"
+"連中自身も外に出た様子が無い。"
+msgstr ""
+
+#. ID 5, Page 1, Line 409, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"分かったわ。\\.\\.中に入ってみる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 411, Pos (8,8)
+msgid ""
+"トロイ：\n"
+"気を付けろよ。\\.\\.\n"
+"相手は途轍も無いバケモノだぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 421, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"ディザスティアの核…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 423, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"それを手にする事が、エンデにとって具体的に\n"
+"如何様なメリットに成るのか…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 426, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"やはりディザスティアが誇ったという、\n"
+"その強大なエネルギー…？"
+msgstr ""
+
+#. ID 5, Page 1, Line 429, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"今でさえ有り余るその力に付して、\n"
+"\"鬼に金棒\"とでも洒落込むと…？"
+msgstr ""
+
+#. ID 5, Page 1, Line 432, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"或いは裸王将に不安を覚えて、\n"
+"強力な武器を求めたと…？"
+msgstr ""
+
+#. ID 5, Page 1, Line 438, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"しかし最も気に掛かるのは、\\.\\.\n"
+"トロイが見たという人間の連れ立ち…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 441, Pos (8,8)
+msgid ""
+"ヴェーネ：\n"
+"何者なの…？\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 12, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"そうか…。\\.\\.\n"
+"核が復活しちまったのか…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 15, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"あれの使い道と言ったら、\n"
+"やはりディザスティアの力を得る事くらい？"
+msgstr ""
+
+#. ID 18, Page 1, Line 18, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"それとも別に、\n"
+"もっと奇を衒った使い道が在るとか？"
+msgstr ""
+
+#. ID 18, Page 1, Line 21, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"順当に考えれば前者かな…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 23, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"俺も別に研究に関わってた訳じゃないから\n"
+"確かな事は言えないけどさ…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 29, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 35, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"ところでさ。\\.\\.モノは相談なんだけど…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 37, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"何？\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 39, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"御邪魔に成らないんだったら、\n"
+"俺もオーグに入れて呉れないか？"
+msgstr ""
+
+#. ID 18, Page 1, Line 42, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"ほら。\\.\\.もうダルムシュタットもユヴェスも\n"
+"消えちまっただろ？"
+msgstr ""
+
+#. ID 18, Page 1, Line 45, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"マジで行く所が無いんだよ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 47, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"勿論、無芸大食とは言わないぜ。\\.\\.\n"
+"薬学のノウハウなんかは一通りだ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 53, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"そうね…。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 55, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"別に連れて行っても支障は無いし、\\.\\.\n"
+"此処で救援を待たせるのも酷な話…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 58, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"如何だい？\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 62, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"私達もこれから本部に帰還する所だし、\n"
+"一緒に連れて行ってあげる。"
+msgstr ""
+
+#. ID 18, Page 1, Line 65, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"それに若い学者が来れば、\n"
+"ドナルドも元気が出るかも知れない。"
+msgstr ""
+
+#. ID 18, Page 1, Line 68, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"その人も俺と同じ学者？"
+msgstr ""
+
+#. ID 18, Page 1, Line 70, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"元リオ･エクスプローラ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 73, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"Ｗｏｗ！ \\.\\.そいつぁ凄い！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 84, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"何してんだよ。\\.\\.早く行こうぜ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 86, Pos (9,8)
+msgid ""
+"トロイ：\n"
+"もう居ても立ってもいられねえよ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 91, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"タフな人。\\|少し羨ましいわ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 103, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"こうして私達はトロイを連れて本部へと帰還。"
+msgstr ""
+
+#. ID 18, Page 1, Line 105, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"新たな実行者の正体とディザスティアの核の行方を\n"
+"突き止めるべく、暗中模索の行動を開始する…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 8, Pos (21,30)
+#. Contains choice at line 2 (3 options)
+msgid "店員：いらっしゃいませ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 9, Pos (21,30)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 21, Page 1, Line 19, Pos (21,30)
+#. ID 21, Page 1, Line 33, Pos (21,30)
+msgid ""
+"店員：\n"
+"勝利のカギは、レベルの高さよりも寧ろ\n"
+"計算された戦略と装備です。"
+msgstr ""
+
+#. ID 21, Page 1, Line 22, Pos (21,30)
+msgid ""
+"店員：\n"
+"あなた達の御活躍をお祈りしています。\n"
+"今後も頑張って下さい。"
+msgstr ""
+
+#. ID 21, Page 1, Line 36, Pos (21,30)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"店員：\n"
+"いらっしゃいませ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 38, Pos (21,30)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+

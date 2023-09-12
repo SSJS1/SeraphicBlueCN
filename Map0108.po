@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 20, Page 1, Line 37, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"夜の海は如何だった？\\.\\.\n"
+"お気に召して頂けたかい？"
+msgstr ""
+
+#. ID 20, Page 1, Line 40, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ。\\.\\.丁重な持成し感謝するぜ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 42, Pos (0,0)
+msgid ""
+"レイク：\n"
+"是非とも礼がしたい所だ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 44, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そりゃ良かった。\\.\\.ボクとしても嬉しいよ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 49, Pos (0,0)
+msgid ""
+"レイク：\n"
+"おいエンデ。\\.\\.\n"
+"どうせ無駄だとは思うが、一応質問だ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 52, Pos (0,0)
+msgid ""
+"レイク：\n"
+"てめえが何者なのか。\\.\\.\n"
+"ヴェーネの何を知ってるのか。\\.\\.\n"
+"何故俺を敵視するのか。"
+msgstr ""
+
+#. ID 20, Page 1, Line 56, Pos (0,0)
+msgid ""
+"レイク：\n"
+"答える気は？\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 58, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"有る訳ねェ。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 60, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ボクが総てを知っていて、\n"
+"対するキミ達が何も知らないなんて…。"
+msgstr ""
+
+#. ID 20, Page 1, Line 63, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"こんな最高に愉快なシチュエーション、\n"
+"誰が見す見す手放すと思う？"
+msgstr ""
+
+#. ID 20, Page 1, Line 69, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"この甘い汁は、\n"
+"一滴残らずボクが吸い尽くしてやるよ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 72, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"シワシワに成って枯死するまで…！"
+msgstr ""
+
+#. ID 20, Page 1, Line 74, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"キミ達は精々ヨダレを垂らしながら、\n"
+"その光景を羨んでれば良いんだよ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 77, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]ザマーミロ。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"エンデ…！ \\.\\.言わせておけば…！"
+msgstr ""
+
+#. ID 20, Page 1, Line 88, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ、\\.\\.止めた止めた。"
+msgstr ""
+
+#. ID 20, Page 1, Line 90, Pos (0,0)
+msgid ""
+"レイク：\n"
+"この野郎は本当に気分悪いぜ…！"
+msgstr ""
+
+#. ID 20, Page 1, Line 92, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そう怒らないでよ。\\.\\.\n"
+"まだ最後の取って置きが在るんだから。"
+msgstr ""
+
+#. ID 20, Page 1, Line 95, Pos (0,0)
+msgid ""
+"レイク：\n"
+"取って置きだと…？"
+msgstr ""
+
+#. ID 20, Page 1, Line 100, Pos (0,0)
+msgid ""
+"レイク：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 102, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まさか…！ \\.\\.この前の…！\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 104, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"御名答。\\.\\.締め括りには丁度良いだろ？"
+msgstr ""
+
+#. ID 20, Page 1, Line 106, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あれは一体何者なんだ！"
+msgstr ""
+
+#. ID 20, Page 1, Line 108, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"だから言っただろ？\\.\\.\n"
+"そんなの答える訳無いって。"
+msgstr ""
+
+#. ID 20, Page 1, Line 111, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ちっ…！\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 113, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そんなに知りたいんだったら、\n"
+"ヴェーネにでも訊けば？"
+msgstr ""
+
+#. ID 20, Page 1, Line 119, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ああ、\\.\\.そっか。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 121, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"訊いても分からないんだっけ？"
+msgstr ""
+
+#. ID 20, Page 1, Line 123, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]使えねーオンナだな。"
+msgstr ""
+
+#. ID 20, Page 1, Line 128, Pos (0,0)
+#. ID 20, Page 1, Line 197, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 133, Pos (0,0)
+msgid ""
+"レイク：\n"
+"全殺し確定だな、\\.\\.てめえは。"
+msgstr ""
+
+#. ID 20, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"思い遣りに欠ける子ですね。\\|\n"
+"少々お仕置きしなくては。"
+msgstr ""
+
+#. ID 20, Page 1, Line 139, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ヘッ。\\.\\.軽々しく言ってんじゃねーよ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 183, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"これは…！\\|\n"
+"何という禍々しい…！"
+msgstr ""
+
+#. ID 20, Page 1, Line 186, Pos (0,0)
+msgid ""
+"レイク：\n"
+"だろう？\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 188, Pos (0,0)
+msgid ""
+"レイク：\n"
+"普通のモンスターとは違う。\\.\\.\n"
+"かと言ってイーヴルとも違う。"
+msgstr ""
+
+#. ID 20, Page 1, Line 191, Pos (0,0)
+msgid ""
+"レイク：\n"
+"なら一体何処ぞのゲテモノなのか、\n"
+"聞きたくも成るさ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 202, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"コイツの名はオルトルート。\\.\\.\n"
+"今夜のシメさ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 208, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まあ、\\.\\.まさかこんな所で\n"
+"死んじゃうとは思ってないけれど。"
+msgstr ""
+
+#. ID 20, Page 1, Line 211, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それじゃあ、\\.\\.頑張ってね。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 2, Line 28, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ホワイトウィングポートに行ってみよう。\n"
+"今日は普通に運航してる筈だ。"
+msgstr ""
+
+#. ID 20, Page 2, Line 49, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ふぅ…。\\|一苦労だぜ…。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 2, Line 54, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それにしても、\\.\\.如何やら少し\n"
+"厄介な事態に成っているようですね。"
+msgstr ""
+
+#. ID 20, Page 2, Line 57, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"あの強力にして禍々しい、\n"
+"そして出所も知れぬ異形の怪物…。"
+msgstr ""
+
+#. ID 20, Page 2, Line 60, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"また何より、\\.\\.それらを完全に\n"
+"使役してみせる謎の少年エンデ…。"
+msgstr ""
+
+#. ID 20, Page 2, Line 68, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"悔しいわ…。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 2, Line 70, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\"奴ら\"の恐ろしさは確実に私の奥底に刻まれていて、\n"
+"尚且つそれを今も感じているというのに…。"
+msgstr ""
+
+#. ID 20, Page 2, Line 73, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それを形に出来ない…。\\|\n"
+"他者に伝えられない…。"
+msgstr ""
+
+#. ID 20, Page 2, Line 76, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何一つとして、\\.\\.打つ手も見出せない…。"
+msgstr ""
+
+#. ID 20, Page 2, Line 81, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 20, Page 2, Line 88, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"いいえ。\\.\\.打つ手なら在りますよ。"
+msgstr ""
+
+#. ID 20, Page 2, Line 93, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"宿に戻って、\n"
+"明日への英気を養う事です。"
+msgstr ""
+
+#. ID 20, Page 2, Line 96, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"こんな夜ならば、\\.\\.尚更に。\\|\\^"
+msgstr ""
+

@@ -1,0 +1,1010 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 28, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"この街は良いね。\\.\\.気に入ったよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 30, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"毒々しくて病的で。\\|\n"
+"退廃的で未来の欠片も無くて。"
+msgstr ""
+
+#. ID 6, Page 1, Line 33, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"こういうの、大好きさ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 35, Pos (0,0)
+msgid ""
+"レイク：\n"
+"だったらてめえ独りで楽しんでろ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 37, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そのクソな趣味に巻き込まれて、\n"
+"こっちは辟易してんだよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 40, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"趣味とはまた。\\.\\.\n"
+"ライフワークとでも呼んで欲しいんだけどね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 43, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ならさっさと死ね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 48, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"やれやれ。\\.\\.\"あれ\"以来素っ気無いねェ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 50, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"寂しいよ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 55, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ちょっとデイジー。\\.\\.この資料全部読むの？"
+msgstr ""
+
+#. ID 6, Page 1, Line 72, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"そうですよ。\\.\\.現場に出ないとは言え、\n"
+"貴方は名目上は最高責任者なのですから。"
+msgstr ""
+
+#. ID 6, Page 1, Line 75, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"知るべき事は知っておかないと。"
+msgstr ""
+
+#. ID 6, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ねえデイジー？\\.\\.\n"
+"これ、意味が分からないんだけど…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 81, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"どれですか？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"C.M.G.C.の資料の此処。"
+msgstr ""
+
+#. ID 6, Page 1, Line 85, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"ああ…。\\.\\.これですね…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 87, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"実行者エンデ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 99, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"思い出したッ！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 104, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何だよ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"思い出したのよ、エンデを。"
+msgstr ""
+
+#. ID 6, Page 1, Line 108, Pos (0,0)
+msgid ""
+"レイク：\n"
+"はぁ？ \\|思い出した？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 110, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"レイクが話してた時からずっと気に成っていたの。\n"
+"エンデって名前を何処かで聞いたと…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 113, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何だって!?\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 115, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ちっ…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 121, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼は\\C[19]実行者\\C[0]…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 123, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\C[19]ガイアキャンサー\\C[0]の実行者エンデよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 125, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"そうか…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 130, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ガイアキャンサー？\\|\n"
+"実行者…？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 140, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"何てこった。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 142, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まさかボクの事を知ってる奴が\n"
+"紛れ込んでるなんて。"
+msgstr ""
+
+#. ID 6, Page 1, Line 145, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"予想外だよ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 150, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[3]実行者…\\.\\.エンデ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 152, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それがてめえの正体なのか…？"
+msgstr ""
+
+#. ID 6, Page 1, Line 157, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"どうせ埋まっちまうパズルのピース。"
+msgstr ""
+
+#. ID 6, Page 1, Line 159, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"他の奴に埋められる位なら、\n"
+"自分の手で埋めて遣るさ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 166, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そう、\\.\\.ボクはガイアキャンサーの実行者だ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 168, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何なんだ、そのガイアキャンサーってのは。"
+msgstr ""
+
+#. ID 6, Page 1, Line 170, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"文字通りだよ。\\.\\.\n"
+"ガイアキャンサー(Gaia Cancer)。"
+msgstr ""
+
+#. ID 6, Page 1, Line 173, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ガイアとはこの星の事。\\.\\.\n"
+"キャンサーとは癌という意味。"
+msgstr ""
+
+#. ID 6, Page 1, Line 176, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ガイアキャンサー。\\|それは星＜ガイア＞の癌。"
+msgstr ""
+
+#. ID 6, Page 1, Line 178, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]星の…\\|癌…？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 192, Pos (0,0)
+msgid ""
+"\n"
+"エンデ：\n"
+"キミ達人間が戦々恐々としてる病魔\"癌\"。"
+msgstr ""
+
+#. ID 6, Page 1, Line 195, Pos (0,0)
+msgid ""
+"\n"
+"エンデ：\n"
+"そう、\\.\\.正にその癌だ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 198, Pos (0,0)
+msgid ""
+"\n"
+"エンデ：\n"
+"キミ達人間が癌に侵される様に、\\.\\.\n"
+"この星＜ガイア＞もまた、癌に侵されているんだよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 210, Pos (0,0)
+msgid ""
+"\n"
+"エンデ：\n"
+"ガイアキャンサー。\\|星の癌。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 213, Pos (0,0)
+msgid ""
+"\n"
+"エンデ：\n"
+"この星を死に至らしめる病魔。"
+msgstr ""
+
+#. ID 6, Page 1, Line 228, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"始まりは星の遺伝子異常。\\.\\.\n"
+"詰る所ガイアプロビデンスの異常、或いは綻び。"
+msgstr ""
+
+#. ID 6, Page 1, Line 231, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そして生まれたガイアキャンサーは、\n"
+"星の生命を徐々に蝕み、\n"
+"最後にはソウルストリームを破壊する。"
+msgstr ""
+
+#. ID 6, Page 1, Line 235, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それは即ち、星を巡る魂の流れの崩壊。\\.\\.\n"
+"魂は身を預ける流れを失い、無秩序に漂う。"
+msgstr ""
+
+#. ID 6, Page 1, Line 238, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"その無秩序状態こそ\\C[19]カオス\\C[0]。"
+msgstr ""
+
+#. ID 6, Page 1, Line 240, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"やがて全ての肉体と魂は分断され、\n"
+"魂はカオスの中に放り出され、\n"
+"彷徨いながら自然消滅して行く。"
+msgstr ""
+
+#. ID 6, Page 1, Line 244, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それこそが星の死滅。"
+msgstr ""
+
+#. ID 6, Page 1, Line 246, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"言葉を変えれば世界の終末。\\|無への回帰。"
+msgstr ""
+
+#. ID 6, Page 1, Line 251, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"星を死に至らしめる癌、\\.\\.ガイアキャンサー。"
+msgstr ""
+
+#. ID 6, Page 1, Line 253, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そしてボクは、\\.\\.その実行者。"
+msgstr ""
+
+#. ID 6, Page 1, Line 259, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ガイアキャンサーは当初、意思も思考も無く、\n"
+"只自然に任せ闇雲に星を蝕むだけの\n"
+"\"普通の\"病魔だった。"
+msgstr ""
+
+#. ID 6, Page 1, Line 263, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"だがガイアの体組織＜人間＞が、\n"
+"その根絶に本格的に乗り出した事で、事情が変わった。"
+msgstr ""
+
+#. ID 6, Page 1, Line 266, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ガイアキャンサーは対抗手段として\n"
+"実行者たるボクを生み出した。"
+msgstr ""
+
+#. ID 6, Page 1, Line 272, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ボクはガイアキャンサーのブレーンにして統率者、\n"
+"戦略的戦闘組織。"
+msgstr ""
+
+#. ID 6, Page 1, Line 275, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"明確な意思と思考の下にガイアキャンサーを使役し、\n"
+"敵対勢力を殲滅する存在。"
+msgstr ""
+
+#. ID 6, Page 1, Line 278, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そして同時に、\\.\\.\n"
+"この星に於いて最も残忍で冷酷な危険因子。"
+msgstr ""
+
+#. ID 6, Page 1, Line 281, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"生命を死に導く事しか知らないガイアキャンサーの\n"
+"申し子なんだから、或る意味当然だけど。"
+msgstr ""
+
+#. ID 6, Page 1, Line 287, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"でも強調しておきたいのは、それらは飽くまでキミ達の\n"
+"価値基準からした認識だという事。"
+msgstr ""
+
+#. ID 6, Page 1, Line 290, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"キミ達はボクをアブノーマルを超えた、\n"
+"異常で危険な存在と見るだろうけれど…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 293, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それは本質的には誤りだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 295, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"何故ならボクはガイアキャンサーの実行者。\\.\\.\n"
+"破壊や殺戮がボクの\"総て\"だから。"
+msgstr ""
+
+#. ID 6, Page 1, Line 298, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それらの行動が相対的に卓越しているのではなく、\\.\\.\n"
+"それらがボクに於いて絶対唯一の概念で在り、\\.\\.\n"
+"それら以外の如何なる行動も取り得ないという事。"
+msgstr ""
+
+#. ID 6, Page 1, Line 305, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 307, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"好んでそれらを行うのではなく、\\.\\.\n"
+"それらを行う事しかボクは知らない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 310, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"キチガイはそれらを\"選択\"するけど、ボクは違う。\\|\n"
+"ボクにはそれらが総てで、選択肢自体が存在しない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 313, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"故に破壊と殺戮をこよなく愛するボクは、\\.\\.\n"
+"物事の本質に於いて至って\"ノーマルで自然\"なんだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 320, Pos (0,0)
+msgid ""
+"レイク：\n"
+"如何でも良いぜ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 322, Pos (0,0)
+msgid ""
+"レイク：\n"
+"てめえが俺達に危害を加える事。\\|\n"
+"そして全ての黒幕で在る事。"
+msgstr ""
+
+#. ID 6, Page 1, Line 325, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺にとって重要なのはそれだけだ。\\.\\.\n"
+"それ以外は知った事じゃねえ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 328, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"視野が狭いね。\\.\\.まだ若いのに。"
+msgstr ""
+
+#. ID 6, Page 1, Line 330, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"否、\\.\\.それもまた若さの特権と醍醐味かな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 335, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まあ、\\.\\.良いか。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 340, Pos (0,0)
+msgid ""
+"レイク：\n"
+"で、\\.\\.そう成るとアレだな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 342, Pos (0,0)
+msgid ""
+"レイク：\n"
+"てめえが今までけし掛けて来たバケモノは…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 344, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そう、あれはガイアキャンサーの一部…。\\|\n"
+"と言うと少し語弊が在るかな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 347, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ガイアキャンサーに於いて、その癌腫瘍は\n"
+"幅広い程度の差を伴いつつ非常に数多く存在する。"
+msgstr ""
+
+#. ID 6, Page 1, Line 350, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"その中でも群を抜いて悪質な10個の癌腫瘍。"
+msgstr ""
+
+#. ID 6, Page 1, Line 352, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"キミ達の間では、個体に対してガイアキャンサーと\n"
+"言えば、普通はこれらを指すみたいだね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 355, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"だから今までキミ達にけし掛けたのは、\n"
+"そのタチの悪い10個の癌腫瘍の各個体。"
+msgstr ""
+
+#. ID 6, Page 1, Line 358, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"キミ達の言うガイアキャンサーだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 360, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"敵対するキミ達を抹殺する為、\\.\\.\n"
+"モンスターという形に具現化させて呼び出したのさ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 363, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まあイルムガルトとオルトルートがキミ達に潰された\n"
+"今と成っては、残す所８個だけど。"
+msgstr ""
+
+#. ID 6, Page 1, Line 366, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まだ在るだろうが。"
+msgstr ""
+
+#. ID 6, Page 1, Line 368, Pos (0,0)
+msgid ""
+"レイク：\n"
+"確かに倒してもいないしバケモノにも成ってないが、\n"
+"ラウレンティアでもう３体出しただろう？"
+msgstr ""
+
+#. ID 6, Page 1, Line 375, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ラウレンティア？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 377, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"あのソウルストリーム集結上昇流、\n"
+"ラウレンティア･ポイント…？"
+msgstr ""
+
+#. ID 6, Page 1, Line 380, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それじゃあ、\\.\\.まさかレイクは…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 387, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"調子に乗らない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 389, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"サービスの対象はガイアキャンサーに関してだけ。\\.\\.\n"
+"あの一件は残念ながら対象外さ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 392, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"今回は思わぬ外野の所為でボクがパズルのピースを\n"
+"埋めてあげたけど、次からは自分で埋めな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 398, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[3]でも…\\.\\.その前に…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 400, Pos (0,0)
+msgid ""
+"レイク：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 402, Pos (0,0)
+msgid ""
+"レイク：\n"
+"来るぞッ！ \\.\\.ガイアキャンサーだ！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 446, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"これが、\\.\\.ガイアキャンサー…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 448, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"話には聞いていたが…。\\|\n"
+"成る程禍々しい…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 454, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"頭を使うのも結構だけどさ、\\.\\.\n"
+"タマには運動もしないと。"
+msgstr ""
+
+#. ID 6, Page 1, Line 457, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"身体が鈍ってちゃあ、\n"
+"折角の綺麗な翼も只の飾りに成っちまう。"
+msgstr ""
+
+#. ID 6, Page 1, Line 460, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そうやってまた逃げるのか。"
+msgstr ""
+
+#. ID 6, Page 1, Line 462, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ボクはガイアキャンサーの頂点に立つ存在だ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 464, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ボクが使役するガイアキャンサーの個々に\n"
+"勝てない様じゃあ、無論ボクにも勝てない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 470, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そう焦らずに。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 472, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"今はこのディートリンデで、一汗流しときな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 486, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何だか、\\.\\.如何にも\"癌\"って感じの奴だね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 488, Pos (0,0)
+msgid ""
+"レイク：\n"
+"けっ…。\\.\\.上等だ…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 490, Pos (0,0)
+msgid ""
+"レイク：\n"
+"幾らでも潰してやるッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 15, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ところでさ、\\.これから如何するの？"
+msgstr ""
+
+#. ID 6, Page 2, Line 20, Pos (0,0)
+#. ID 6, Page 2, Line 142, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"今日の所は表町のホテルに泊まって、\n"
+"明日には此処を発つ心算。"
+msgstr ""
+
+#. ID 6, Page 2, Line 23, Pos (0,0)
+#. ID 6, Page 2, Line 145, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"西のレヴェルストーク山地を越えて、\n"
+"ルートフォードに行くの。"
+msgstr ""
+
+#. ID 6, Page 2, Line 38, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ガイアキャンサー…。\\|星の癌…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 40, Pos (0,0)
+msgid ""
+"レイク：\n"
+"星を死に至らしめる病魔…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 45, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]ん………？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 52, Pos (0,0)
+msgid ""
+"レイク：\n"
+"此処は異世界なんだろう？\\|\n"
+"何故エンデが此処に居た？"
+msgstr ""
+
+#. ID 6, Page 2, Line 58, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それにガイア…。\\|\n"
+"何故\"向こう\"と同じ\"ガイア\"なんだ？"
+msgstr ""
+
+#. ID 6, Page 2, Line 61, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺の居た世界が\"ガイア\"なら、\n"
+"この異世界は\"ガイアでない何か\"の筈だぞ？"
+msgstr ""
+
+#. ID 6, Page 2, Line 67, Pos (0,0)
+msgid ""
+"レイク：\n"
+"此処は異世界じゃないのか…？"
+msgstr ""
+
+#. ID 6, Page 2, Line 72, Pos (0,0)
+msgid ""
+"レイク：\n"
+"くそっ…！ \\.\\.まるで訳が分からねえ…！"
+msgstr ""
+
+#. ID 6, Page 2, Line 80, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"なあレイク？\\.\\.\n"
+"アンタどんなド田舎で育ったのさ？"
+msgstr ""
+
+#. ID 6, Page 2, Line 87, Pos (0,0)
+msgid ""
+"レイク：\n"
+"質問の意図が分からないが？"
+msgstr ""
+
+#. ID 6, Page 2, Line 89, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ガイアキャンサーなんてのは常識中の常識。"
+msgstr ""
+
+#. ID 6, Page 2, Line 91, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"確かに実行者ってのはアタシも初耳だったけど、\n"
+"大概の事は其処らのガキだって知ってる。"
+msgstr ""
+
+#. ID 6, Page 2, Line 94, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"なのにアンタは知らなかった。"
+msgstr ""
+
+#. ID 6, Page 2, Line 96, Pos (0,0)
+msgid ""
+"レイク：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 101, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それは…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 106, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ま、\\.\\.良いか。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 108, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"この街には未来も過去も無い。\\|\n"
+"唯一、今この瞬間が在るだけ。"
+msgstr ""
+
+#. ID 6, Page 2, Line 111, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"故に人に対しても将来の目標やら過去の経験やらを\n"
+"根掘り葉掘り訊いたりしない。"
+msgstr ""
+
+#. ID 6, Page 2, Line 114, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それがケイオス流。\\.\\.\n"
+"詰まんない事訊いて悪かったね。"
+msgstr ""
+
+#. ID 6, Page 2, Line 120, Pos (0,0)
+msgid ""
+"レイク：\n"
+"良いさ、\\.\\.気にしないで呉れ。"
+msgstr ""
+
+#. ID 6, Page 2, Line 122, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ、\\.\\.大丈夫だ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 127, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 133, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ところでさ、\\.\\.これから如何するの？"
+msgstr ""
+
+#. ID 6, Page 2, Line 135, Pos (0,0)
+msgid ""
+"レイク：\n"
+"さあ？ \\.\\.そっちの二人が知ってるぜ。"
+msgstr ""
+
+#. ID 6, Page 2, Line 148, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"へえ。\\.\\.「オーグ」に用事でも？"
+msgstr ""
+
+#. ID 6, Page 2, Line 150, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"有志ではないんだけれど、ちょっとね。"
+msgstr ""
+
+#. ID 6, Page 2, Line 152, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それじゃあ、\\.\\.これでお別れだね。"
+msgstr ""
+
+#. ID 6, Page 2, Line 154, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうね。\\.\\.名残惜しいけれど。"
+msgstr ""
+
+#. ID 6, Page 2, Line 156, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"本件への協力、感謝する。"
+msgstr ""
+
+#. ID 6, Page 2, Line 158, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"まさか此処に住んでて、\n"
+"こんな高貴な方々に御言葉を頂くとは。"
+msgstr ""
+
+#. ID 6, Page 2, Line 161, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"有難く貰っておくよ。"
+msgstr ""
+
+#. ID 6, Page 2, Line 169, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"で、\\.\\.やっぱりレイクも？"
+msgstr ""
+
+#. ID 6, Page 2, Line 174, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺は…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 176, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"流浪の身だって言うのなら、\n"
+"此処に留まるのもアリなんだよ？"
+msgstr ""
+
+#. ID 6, Page 2, Line 179, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アンタ此処に向いてるし、\\.\\.イートを倒したって事なら\n"
+"悪く扱う奴だってそんなには居ない。"
+msgstr ""
+
+#. ID 6, Page 2, Line 185, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 190, Pos (0,0)
+msgid ""
+"レイク：\n"
+"否、\\.\\.ミネルヴァ達に付いて行く。"
+msgstr ""
+
+#. ID 6, Page 2, Line 192, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"流れてる方が好きかい？"
+msgstr ""
+
+#. ID 6, Page 2, Line 194, Pos (0,0)
+msgid ""
+"レイク：\n"
+"違うさ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 199, Pos (0,0)
+msgid ""
+"レイク：\n"
+"逢いたい人が居るんだ。"
+msgstr ""
+

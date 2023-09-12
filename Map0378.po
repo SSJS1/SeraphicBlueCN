@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 5, Pos (0,0)
+msgid ""
+"技官：\n"
+"既に先発隊が突入し、\n"
+"状況確認と進攻ルート確保を行っています。"
+msgstr ""
+
+#. ID 9, Page 1, Line 8, Pos (0,0)
+msgid ""
+"技官：\n"
+"本作戦の指揮官も既に行っておりますので、\n"
+"作戦の詳細は向こうにて。"
+msgstr ""
+
+#. ID 9, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"分かった。\\.\\.直ぐに俺達も転送して呉れ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 13, Pos (0,0)
+msgid ""
+"技官：\n"
+"了解。\\.\\.それでは奥の転送室に。"
+msgstr ""
+

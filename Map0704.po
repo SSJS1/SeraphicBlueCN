@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"\\S[2]運命が…\\.\\.収束する…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 16, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]ええ…。\\|最後の刻に向かって…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"\\S[2]それなのに…。\\.\\.こんなにも…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 26, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]何故か少しも安らがない、\\.\\.星の生命…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 28, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]復活へと近付く事の安堵を、\\.\\.\n"
+"まるで少しも示さないのは…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"\\S[2]暗雲…。\\|凶兆…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"\\S[2]それとも…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 41, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]\"鍵\"の中に…\\.\\.それを拒む者…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 43, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]拒絶と放棄…。\\|意志の亡失…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 48, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]リフューズ･\\.\\.セラフィックブルー…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"\\S[2]天使が天使ならぬ場所に、\\.\\.救いは無い…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 58, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]羽ばたく事を、\\.\\.忘れた翼…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 60, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]羽ばたく事を、\\.\\.棄てた翼…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"\\S[2]悲しみばかりが、\\.\\.加速して行く…。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"\\S[2]最も大切な物を、\\.\\.置き去りにして…。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 72, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]何も救わない、\\.\\.虚無の飛翔を…。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 74, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]見上げる空の蒼に、\\.\\.絶望を滲ませて…。\\|\\|\\^"
+msgstr ""
+

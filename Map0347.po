@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 13, Pos (0,0)
+msgid ""
+"班長：\n"
+"それでは、\\.\\.御休みなさいませ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 20, Pos (0,0)
+msgid ""
+"見張り：\n"
+"寝たんですか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 22, Pos (0,0)
+msgid ""
+"班長：\n"
+"ああ、\\.\\.この奥の寝室だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 27, Pos (0,0)
+msgid ""
+"見張り：\n"
+"大丈夫でしょうか…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 29, Pos (0,0)
+msgid ""
+"班長：\n"
+"大丈夫だとも。"
+msgstr ""
+
+#. ID 4, Page 1, Line 31, Pos (0,0)
+msgid ""
+"班長：\n"
+"入口はこのドアと寝室の窓の二つ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 33, Pos (0,0)
+msgid ""
+"班長：\n"
+"此処はこの通り固めて在るし、\n"
+"窓だって外から常に見張らせて在る。"
+msgstr ""
+
+#. ID 4, Page 1, Line 36, Pos (0,0)
+msgid ""
+"班長：\n"
+"奴が私達に気付かれずにこの中に入る事は、\n"
+"絶対に不可能だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 45, Pos (0,0)
+msgid ""
+"班長：\n"
+"さあ六年の祝祭者め。\\.\\.\n"
+"来れるものなら来てみろ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 48, Pos (0,0)
+msgid ""
+"班長：\n"
+"今まで散々に政府を愚弄して来たが、\n"
+"それも今日限り。"
+msgstr ""
+
+#. ID 4, Page 1, Line 51, Pos (0,0)
+msgid ""
+"班長：\n"
+"貴様は捕縛の運命を免れんだろう。"
+msgstr ""
+
+#. ID 4, Page 2, Line 6, Pos (0,0)
+msgid ""
+"班長：\n"
+"下が騒がしいな。"
+msgstr ""
+
+#. ID 4, Page 2, Line 10, Pos (0,0)
+msgid ""
+"班長：\n"
+"おい。\\.\\.此処は俺が固めてるから\n"
+"下の様子を見て来て呉れ。"
+msgstr ""
+
+#. ID 4, Page 2, Line 13, Pos (0,0)
+msgid ""
+"見張り：\n"
+"了解。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 23, Pos (0,0)
+msgid ""
+"見張り：\n"
+"おい！ \\.\\.一体何の騒ぎだ！"
+msgstr ""
+
+#. ID 4, Page 2, Line 25, Pos (0,0)
+msgid ""
+"別の見張り：\n"
+"奴が出たらしい！\\.\\.\n"
+"煙幕を張って逃げ回ってる！"
+msgstr ""
+
+#. ID 4, Page 2, Line 28, Pos (0,0)
+msgid ""
+"別の見張り：\n"
+"そっちは大丈夫なのか！"
+msgstr ""
+
+#. ID 4, Page 2, Line 30, Pos (0,0)
+msgid ""
+"見張り：\n"
+"問題無い！ \\.\\.班長が入口を固めてる！"
+msgstr ""
+
+#. ID 4, Page 2, Line 32, Pos (0,0)
+msgid ""
+"見張り：\n"
+"兎に角、\\.\\.一度戻って報告だ！"
+msgstr ""
+
+#. ID 4, Page 2, Line 44, Pos (0,0)
+#. ID 4, Page 2, Line 80, Pos (0,0)
+msgid ""
+"見張り：\n"
+"班長ッ！ \\.\\.奴が出ました！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 49, Pos (0,0)
+msgid ""
+"見張り：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 55, Pos (0,0)
+msgid ""
+"見張り：\n"
+"班長…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 62, Pos (0,0)
+msgid ""
+"見張り：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 64, Pos (0,0)
+msgid ""
+"見張り：\n"
+"万全を期する為、\n"
+"イーノック氏に張り付いてるんだな…。"
+msgstr ""
+
+#. ID 4, Page 2, Line 85, Pos (0,0)
+msgid ""
+"見張り：\n"
+"あれ…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 90, Pos (0,0)
+msgid ""
+"見張り：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 92, Pos (0,0)
+msgid ""
+"見張り：\n"
+"\\S[2]うわァァァッ!!\\|\\.\\.\\^"
+msgstr ""
+

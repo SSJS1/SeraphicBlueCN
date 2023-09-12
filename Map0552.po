@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 23, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"出来事は不意の訪れ人。"
+msgstr ""
+
+#. ID 8, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"突然に現れ、\\.\\.突然に去り。\\.\\.\n"
+"肩も叩けず、\\.\\.声も掛けられず。"
+msgstr ""
+
+#. ID 8, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そして私達は、\\.\\.何が起きたのかも分からぬ、\\.\\.\n"
+"置き去りの迷い人。"
+msgstr ""
+
+#. ID 8, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"眼の前にエンデと黒衣の二人が現れて、\n"
+"女の子は惨殺された。"
+msgstr ""
+
+#. ID 8, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"刹那、黒衣の子供の方から\"力\"が解放され、\n"
+"その後はもう記憶が無い。"
+msgstr ""
+
+#. ID 8, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"気が付いた時には、\n"
+"街から離れた草原に横たわっていた。"
+msgstr ""
+
+#. ID 8, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"遠方に見る、巨大な青いドーム状領域。\\|\n"
+"それがダルムシュタットの成れの果てだという事は、\n"
+"直ぐに分かった。"
+msgstr ""
+
+#. ID 8, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そしてあの苛烈な戦闘もまた、\n"
+"嘘の様に収まっていた。"
+msgstr ""
+
+#. ID 8, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"恐らく大多数の人間がドーム形成に巻き込まれ、\n"
+"残りは逃げ去って行ったのだろう。"
+msgstr ""
+
+#. ID 8, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"だがその点では、黒衣の二人の傍に居た私達は\n"
+"ドーム形成の爆心地に居たという事。"
+msgstr ""
+
+#. ID 8, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それがこうして無事で居るという事は、\n"
+"恐らく黒衣の女性が助けて呉れたものと思われる。"
+msgstr ""
+
+#. ID 8, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"全ては状況からの推測に過ぎないが、\n"
+"朦朧とする意識の中で、微かながらも確かに、\n"
+"彼女の声を聞いた気がする。"
+msgstr ""
+
+#. ID 8, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"今にも砕け散りそうな、\\.\\.悲しげな声だった。"
+msgstr ""
+
+#. ID 8, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それから暫くの後。\\.\\.\n"
+"私達はマキシム達三人と合流する。"
+msgstr ""
+
+#. ID 8, Page 1, Line 108, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"そうか…。\\|大変だったな…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 110, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"女の子の母親の行方は、分からないのか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 112, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"探しても無駄だろう。\\.\\.\n"
+"ドーム形成が街の外にまで及んでたからな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 115, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"娘の帰りを待つ母親が、\n"
+"街から離れてるとは考えにくい。"
+msgstr ""
+
+#. ID 8, Page 1, Line 121, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"再会は果たされた。\\|\n"
+"天国でな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 139, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]状況終了。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 141, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]作戦は、\\.\\.失敗だ。\\|\\^"
+msgstr ""
+

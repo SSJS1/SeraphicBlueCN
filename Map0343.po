@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (12,5)
+msgid ""
+"\n"
+"                    一般の方の声"
+msgstr ""
+
+#. ID 2, Page 1, Line 5, Pos (12,5)
+msgid ""
+"一度限りの人生、諦めずにもう少しだけ\n"
+"\\>  \\<今日死にたく成ったら明日に延ばして、\n"
+"\\>    \\<明日死にたく成ったら明後日に延ばして、\n"
+"\\>      \\<もう少しだけ生きてみませんか。"
+msgstr ""
+
+#. ID 3, Page 1, Line 3, Pos (10,3)
+msgid ""
+"\n"
+"                     現場の声"
+msgstr ""
+
+#. ID 3, Page 1, Line 5, Pos (10,3)
+msgid ""
+"頼むから死んで呉れるな\n"
+"\\>  \\<遺族の相手をする俺達の身にも成れ\n"
+"\\>    \\<胃潰瘍で亜全摘喰らっちまうよ\n"
+"\\>      \\<頼むから止めて呉れ"
+msgstr ""
+
+#. ID 4, Page 1, Line 3, Pos (13,5)
+msgid ""
+"\n"
+"                 管理局からの御報せ"
+msgstr ""
+
+#. ID 4, Page 1, Line 5, Pos (13,5)
+msgid ""
+"当局では有能なカウンセラーが常時複数名勤務。\n"
+"また他にも多数のカウンセラーとの契約を結んでおり、\n"
+"御希望に応じて斡旋する準備が御座います。"
+msgstr ""
+
+#. ID 4, Page 1, Line 8, Pos (13,5)
+msgid ""
+"カウンセリング料金も非常に御安く、\n"
+"また国からの補助金が受けられる場合も御座います。\n"
+"自殺志願者の皆さんは、身投げする前に是非一度。"
+msgstr ""
+
+#. ID 4, Page 1, Line 11, Pos (13,5)
+msgid ""
+"「冥土の土産の心算で受けてみたけど、\n"
+"  それが切っ掛けで思い留まり、今じゃ社会復帰。\n"
+"  こいつはオススメだぜ。」\n"
+"\\>                           \\<ダニエル(仮名)男性･25歳"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (16,8)
+msgid ""
+"男性：\n"
+"此処は絶壁管理局。\n"
+"主にマリバンドホープでの投身自殺に関しての\n"
+"各種業務を行ってる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 7, Pos (16,8)
+msgid ""
+"男性：\n"
+"崖下の遺体回収とか身元特定とか、\n"
+"遺族への報告とか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 10, Pos (16,8)
+msgid ""
+"男性：\n"
+"特に遺族の件は厄介でな、大体三日に一度は\n"
+"気が動転する奴が出て修羅場に成るんだよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 13, Pos (16,8)
+msgid ""
+"男性：\n"
+"はっきり言って此処で働いてる奴は、\n"
+"フェジテ屈指の精神的タフガイだぜ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 3, Pos (16,8)
+msgid ""
+"男性：\n"
+"流石の局員連中も大分キてるみたいだな。"
+msgstr ""
+
+#. ID 5, Page 2, Line 5, Pos (16,8)
+msgid ""
+"男性：\n"
+"無理も無いさ。\n"
+"最近の自殺者数は過去最悪の数字なんだ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 28, Pos (0,0)
+msgid ""
+"職員：\n"
+"お待たせしました。\\.\\.\n"
+"御指定の自殺者データです。"
+msgstr ""
+
+#. ID 14, Page 1, Line 31, Pos (0,0)
+msgid ""
+"職員：\n"
+"男性の方はジョシュア･クルスク。\n"
+"女性の方はレオナ･クルスク。"
+msgstr ""
+
+#. ID 14, Page 1, Line 34, Pos (0,0)
+msgid ""
+"職員：\n"
+"関係は夫婦で、両名とも７年前の同じ日時に\n"
+"絶壁より投身自殺。"
+msgstr ""
+
+#. ID 14, Page 1, Line 37, Pos (0,0)
+msgid ""
+"職員：\n"
+"典型的な心中です。"
+msgstr ""
+
+#. ID 14, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"一つ訊くが、\\.\\.死んだのが\n"
+"実は別人だったという事は無いのか？"
+msgstr ""
+
+#. ID 14, Page 1, Line 45, Pos (0,0)
+msgid ""
+"職員：\n"
+"それは在り得ません。"
+msgstr ""
+
+#. ID 14, Page 1, Line 47, Pos (0,0)
+msgid ""
+"職員：\n"
+"歯の治療痕も含めた身体的特徴、果てはＤＮＡまで。\n"
+"全てが本人の物だと確認されています。"
+msgstr ""
+
+#. ID 14, Page 1, Line 50, Pos (0,0)
+msgid ""
+"職員：\n"
+"従ってこの２名は間違い無く\n"
+"ジョシュア･クルスクとレオナ･クルスクです。"
+msgstr ""
+
+#. ID 14, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"家族関係…。\\.\\.\n"
+"長男ケイン･クルスク…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 66, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"長女アイシャ･クルスク…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\\S[2]死亡…？\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 70, Pos (0,0)
+msgid ""
+"職員：\n"
+"ああ、それですね。\\.\\.\n"
+"自殺の動機でもあるんですよ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 73, Pos (0,0)
+msgid ""
+"職員：\n"
+"10年前に当時５才のアイシャが遅発性ディスピスから\n"
+"ルシファー変異症を発症、グラウンドへ廃棄処分。"
+msgstr ""
+
+#. ID 14, Page 1, Line 76, Pos (0,0)
+msgid ""
+"職員：\n"
+"その後両名はDLG法遺族会に入会するも、\n"
+"気力の充実を得る事が出来ず重度の鬱状態に陥り…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 79, Pos (0,0)
+msgid ""
+"職員：\n"
+"７年前、長男ケインと共に此処を訪れた上で、\n"
+"ケインを残して投身自殺に依る心中を図った。"
+msgstr ""
+
+#. ID 14, Page 1, Line 82, Pos (0,0)
+msgid ""
+"職員：\n"
+"これが一連の経緯です。"
+msgstr ""
+
+#. ID 14, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 4, Pos (7,6)
+msgid ""
+"職員：\n"
+"此処で働いている者は、皆どこかしら\n"
+"ドライな思考になっていきますね。"
+msgstr ""
+
+#. ID 15, Page 1, Line 9, Pos (7,6)
+msgid ""
+"職員：\n"
+"はぁ………。"
+msgstr ""
+

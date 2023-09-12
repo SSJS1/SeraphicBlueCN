@@ -1,0 +1,734 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 21, Page 1, Line 7, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"フョードル：なあ…。\\|本気でやるのか？"
+msgstr ""
+
+#. ID 21, Page 1, Line 10, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：怖気付いた？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 13, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"フョードル：だ、\\.\\.誰が…！\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 16, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"フョードル：上等だぜ…！\\.\\.\n"
+"こう成りゃ何処までもやってやる…！"
+msgstr ""
+
+#. ID 21, Page 1, Line 21, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"フョードル：\\S[20]………。\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 25, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"フョードル：でもやっぱり信じられないな…。\\|\n"
+"選りにも選ってあんたが…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 29, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：私にだって、能く分からない。\\|\n"
+"こんな気持ちは初めてだから。"
+msgstr ""
+
+#. ID 21, Page 1, Line 34, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：でも…。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 37, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"フョードル：何だ？\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 41, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：少なくとも、\\.\\.\n"
+"この気持ちが私を其処へと突き動かす。"
+msgstr ""
+
+#. ID 21, Page 1, Line 45, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：そして行き場を失くした私は、\n"
+"それに従って其処に行く以外に無い。"
+msgstr ""
+
+#. ID 21, Page 1, Line 51, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"フョードル：世界は変革された。"
+msgstr ""
+
+#. ID 21, Page 1, Line 54, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"フョードル：世界のそれ自体ではなく、\\.\\.\n"
+"女神の瞳に映る世界。"
+msgstr ""
+
+#. ID 21, Page 1, Line 59, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"フョードル：ようこそ。\\.\\.下等なる人間共の世界へ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 62, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"フョードル：ヴァルキリーフェイク。\\.\\.\n"
+"\"戦女神の贋物\"様。"
+msgstr ""
+
+#. ID 21, Page 1, Line 67, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：私に…\\.\\.その道が行けるだろうか…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 70, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"フョードル：大丈夫さ。俺も付き合うぜ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 74, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：そうね…。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：\\S[2]さようなら。\\.\\.ゲオルク。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 81, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：\\S[2]神はお前を、\\.\\.見放した。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 21, Page 2, Line 8, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"でも信じられないよな…。\\.\\.\n"
+"あのゲオルクが滅びたなんて…。"
+msgstr ""
+
+#. ID 21, Page 2, Line 11, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"永劫に渡る支配者など存在しないわ。"
+msgstr ""
+
+#. ID 21, Page 2, Line 13, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"まあ、私達の手で奴を葬る事になるとは\n"
+"思ってなかったけれど。"
+msgstr ""
+
+#. ID 21, Page 2, Line 20, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"この後、\\.\\.如何成るんだろうな…。"
+msgstr ""
+
+#. ID 21, Page 2, Line 22, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ダルムシュタットもユヴェスも壊滅して、\n"
+"ローズバーググループも崩壊寸前…。"
+msgstr ""
+
+#. ID 21, Page 2, Line 25, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"時代の節目。\\.\\.世界の転機。\\.\\.\n"
+"人々の生きる意志が自ずと道に成る。"
+msgstr ""
+
+#. ID 21, Page 2, Line 28, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"私達が気を廻す事ではないわ。"
+msgstr ""
+
+#. ID 21, Page 2, Line 33, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"あんたは如何するんだ？"
+msgstr ""
+
+#. ID 21, Page 2, Line 35, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ゲオルクとの戦いは終わった。"
+msgstr ""
+
+#. ID 21, Page 2, Line 37, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"だが一連の動乱を陰で操った黒幕エンデとの戦いは、\n"
+"未だ終わってはいない。"
+msgstr ""
+
+#. ID 21, Page 2, Line 43, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"それに奇しくもシリアのコピーとして\n"
+"生まれて来たこの身の因果。"
+msgstr ""
+
+#. ID 21, Page 2, Line 46, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"レイクやヴェーネと共に戦うわ。\\|\n"
+"それが一先ずの生きる道。"
+msgstr ""
+
+#. ID 21, Page 2, Line 52, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"なら、俺も付き合うぜ。"
+msgstr ""
+
+#. ID 21, Page 2, Line 54, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"貴方が？\\|\\^"
+msgstr ""
+
+#. ID 21, Page 2, Line 56, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"\"足\"が要るだろ？\\.\\.\n"
+"コイツの操縦が出来るのは俺だけだ。"
+msgstr ""
+
+#. ID 21, Page 2, Line 59, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"それにあんたらの活躍も見たいしな。\\|\n"
+"この特等席でよ。"
+msgstr ""
+
+#. ID 21, Page 2, Line 62, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"見世物ではないの。"
+msgstr ""
+
+#. ID 21, Page 2, Line 64, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"勘違いするなって。\\.\\.\n"
+"あんたらに惚れ込んだのさ。"
+msgstr ""
+
+#. ID 21, Page 2, Line 71, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"俺は今まで、半端なエリート意識と\n"
+"セラパーソンへの劣等感に振り回されて動いて来た。"
+msgstr ""
+
+#. ID 21, Page 2, Line 74, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"たとえパーソンの中でトップエリートとして\n"
+"ロビンに特別推薦で入社出来ても…。"
+msgstr ""
+
+#. ID 21, Page 2, Line 77, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"其処にはハイディという、\n"
+"セラパーソンの更なる高みが待ち受けていた。"
+msgstr ""
+
+#. ID 21, Page 2, Line 80, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"だから俺はそれをも超えてやろうという一心で、\n"
+"今回のラージュのプロジェクトに参加してた。"
+msgstr ""
+
+#. ID 21, Page 2, Line 83, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"其処に伴う戦争の事なんか大して気にも留めず。\\|\n"
+"明確な自己のビジョンも持たず。"
+msgstr ""
+
+#. ID 21, Page 2, Line 86, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"俺の影、\\.\\.劣等感が敷いたレールの上を、\\.\\.\n"
+"何にも考えずに歩き続けていた。"
+msgstr ""
+
+#. ID 21, Page 2, Line 92, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"でも、\\.\\.ハイディの御陰で吹っ切れた。"
+msgstr ""
+
+#. ID 21, Page 2, Line 94, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"碌に勝ち目も無いゲオルクとの戦いに挑んで、\n"
+"本当にゲオルクを倒しちまった。"
+msgstr ""
+
+#. ID 21, Page 2, Line 97, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"そうしたら、今まで抱いてた劣等感が、\n"
+"何だかアホ臭くてさ…。"
+msgstr ""
+
+#. ID 21, Page 2, Line 103, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"俺が今探している\"もの\"が、\n"
+"あんたらの中に在るような気がするんだ。"
+msgstr ""
+
+#. ID 21, Page 2, Line 106, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"否、\\.\\.若しかしたら\n"
+"あんたら\"そのもの\"なのかも知れない。"
+msgstr ""
+
+#. ID 21, Page 2, Line 112, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"だから、もう少し見させて呉れよ。"
+msgstr ""
+
+#. ID 21, Page 2, Line 114, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"あんたらの生き様を、\\.\\.この特等席で。"
+msgstr ""
+
+#. ID 21, Page 2, Line 120, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"フッ…。\\.\\.\n"
+"それもまたハイディの言ってた通りね。"
+msgstr ""
+
+#. ID 21, Page 2, Line 123, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"あん？\\|\\^"
+msgstr ""
+
+#. ID 21, Page 2, Line 125, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"思い込みもするが、変り身も早い。\n"
+"この時代に於いては至極羨ましい事だと。"
+msgstr ""
+
+#. ID 21, Page 2, Line 128, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"何だよそれ。\\.\\.\n"
+"褒めてんだか貶してんだか。"
+msgstr ""
+
+#. ID 21, Page 2, Line 131, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"さあね。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 2, Line 136, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"でも或る意味ではハイディを超えたじゃない。\\|\n"
+"悪くない結果だと思うけれど？"
+msgstr ""
+
+#. ID 21, Page 2, Line 139, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"何処が。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 2, Line 145, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"まったく…。\\.\\.あのヒトはよ…。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 2, Line 147, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"今頃はフェジテに金を持ち帰って、\n"
+"家族と美味いメシでも食えてるのかね…？"
+msgstr ""
+
+#. ID 21, Page 2, Line 150, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"稀代の国家反逆者を政府が放っておくとは\n"
+"余り思えないけれど。"
+msgstr ""
+
+#. ID 21, Page 2, Line 153, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ミネルヴァに口利きするのは…。"
+msgstr ""
+
+#. ID 21, Page 2, Line 155, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"可能な事と不可能な事の区別くらい\n"
+"付くでしょう？"
+msgstr ""
+
+#. ID 21, Page 2, Line 161, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"妙に気にするのね。\\.\\.情でも移った？"
+msgstr ""
+
+#. ID 21, Page 2, Line 163, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 2, Line 168, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"あのヒトは俺と違って、\\.\\.何か重いものを背負い、\\.\\.\n"
+"信念を持ってプロジェクトに携わってた。"
+msgstr ""
+
+#. ID 21, Page 2, Line 171, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"詳しくは話して呉れなかったけど、\n"
+"家族の為だとか何とか…。"
+msgstr ""
+
+#. ID 21, Page 2, Line 174, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"多分デカい借金でも背負ってたんだろう。"
+msgstr ""
+
+#. ID 21, Page 2, Line 179, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ゲオルクに身売りしてでも貫こうとした…。\\|\n"
+"或いは貫かなくてはならなかったもの…。"
+msgstr ""
+
+#. ID 21, Page 2, Line 182, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"人前では鬼女と言われる程に毅然と…。\\|\n"
+"誰も見てない所では、壊れそうな程に哀しげに…。"
+msgstr ""
+
+#. ID 21, Page 2, Line 185, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"だから…。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 2, Line 190, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"そうね。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 2, Line 192, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"考えの見えない女では在ったけれど、\n"
+"ゲオルクの様な\"黒さ\"を感じた事は無かった。"
+msgstr ""
+
+#. ID 21, Page 2, Line 195, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\"黒き黒\"でなく、\"黒くなき黒\"という感じ。"
+msgstr ""
+
+#. ID 21, Page 2, Line 197, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"良い表現だ。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 2, Line 202, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"願わくば、\\.\\.今後は家族との穏やかな生活を。"
+msgstr ""
+
+#. ID 21, Page 2, Line 204, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ああ…。\\|きっと家では良い母親さ。"
+msgstr ""
+
+#. ID 21, Page 2, Line 206, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"優しさと愛情と。\\.\\.\n"
+"少しばかりの手厳しい言葉。"
+msgstr ""
+
+#. ID 21, Page 3, Line 33, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ジョシュアだわ…!!"
+msgstr ""
+
+#. ID 21, Page 3, Line 40, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"どうする？"
+msgstr ""
+
+#. ID 21, Page 3, Line 42, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"迎え撃つ！"
+msgstr ""
+
+#. ID 21, Page 3, Line 46, Pos (0,0)
+#. ID 21, Page 3, Line 126, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ここで暴れるんだったら、\n"
+"船体のダメージに気を付けろよ！"
+msgstr ""
+
+#. ID 21, Page 3, Line 49, Pos (0,0)
+#. ID 21, Page 3, Line 133, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"危なくなったらセカンドコマンドを開いて\n"
+"バリアフィールドを回復してくれ！"
+msgstr ""
+
+#. ID 21, Page 3, Line 58, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"さあ、\\.\\.突っ込むぜッ！\\|"
+msgstr ""
+
+#. ID 21, Page 3, Line 63, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"待ってなさい…！\\| エル…！\\|\\^"
+msgstr ""
+
+#. ID 21, Page 3, Line 95, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"前方に反応！\\|\\^"
+msgstr ""
+
+#. ID 21, Page 3, Line 97, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"コイツは…\\|人間!?\\|\\^"
+msgstr ""
+
+#. ID 21, Page 3, Line 99, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"まさか！\\|\\^"
+msgstr ""
+
+#. ID 21, Page 3, Line 101, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"前方カメラを最大倍率で出して！"
+msgstr ""
+
+#. ID 21, Page 3, Line 103, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"言われなくてもやってるぜ！"
+msgstr ""
+
+#. ID 21, Page 3, Line 110, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ジョシュアだわ…!!\\|\\^"
+msgstr ""
+
+#. ID 21, Page 3, Line 112, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"こんな場所まで御出迎えかよ！\\.\\.\n"
+"やっぱ敵さんもハンパじゃねーな！"
+msgstr ""
+
+#. ID 21, Page 3, Line 120, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"どうする？\\|\\^"
+msgstr ""
+
+#. ID 21, Page 3, Line 122, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"迎え撃つ！\\|\\^"
+msgstr ""
+
+#. ID 21, Page 3, Line 129, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ラージュの空中戦と同じだな？"
+msgstr ""
+
+#. ID 21, Page 3, Line 131, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"船体がブッ壊れたら即終了！"
+msgstr ""
+
+#. ID 21, Page 3, Line 136, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"分かった！\\|\\^"
+msgstr ""
+
+#. ID 21, Page 4, Line 8, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ふぅ…。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 4, Line 13, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"小さいマシンの筈なんだがな。\\|\n"
+"一人だと異様に広く感じる…。"
+msgstr ""
+
+#. ID 21, Page 4, Line 20, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"大丈夫だよ。\\.\\.\n"
+"この期に及んで逃げたりするかっての。"
+msgstr ""
+
+#. ID 21, Page 4, Line 23, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"乗客の帰りを待たなくちゃいけないし。"
+msgstr ""
+
+#. ID 21, Page 4, Line 25, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"それに…。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 4, Line 32, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ハイディ…。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 4, Line 34, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"あんたが仕掛けたこの戦いだ。\\|\n"
+"結末はきっちり見届けるぜ。"
+msgstr ""
+
+#. ID 21, Page 4, Line 37, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"頑として隠し続けて見せなかった、\\.\\.\n"
+"この真っ暗な空の中でな。"
+msgstr ""
+
+#. ID 21, Page 4, Line 43, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"借りが有るんだよ。\\.\\.\n"
+"あの時背中を押して貰った事。"
+msgstr ""
+
+#. ID 21, Page 4, Line 46, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"御陰で俺はクズに成らずに済んだ。"
+msgstr ""
+
+#. ID 21, Page 4, Line 51, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"だったら、\\.\\.これくらい良いだろう？"
+msgstr ""
+
+#. ID 21, Page 4, Line 53, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"青二才が出来る、せめてもの恩返しさ。"
+msgstr ""
+

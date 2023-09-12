@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"運命は数刻の間に暗転し、\\.\\.\n"
+"そして全ては暗澹たる奈落の底へと。"
+msgstr ""
+
+#. ID 4, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ロアノークの不時着に依って気を失っていた私達は、\n"
+"このココモの町の人々に助けられた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"だが眼が覚めた時、\\.\\.\n"
+"其処に姿無きレイクとヴェーネ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そして重症を負ったイリエナさんと、\n"
+"嘆き悲しむ孤児院の子供達。"
+msgstr ""
+
+#. ID 4, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"通り掛かりの腕の良い医者の御陰で生命こそ\n"
+"取り留めていたが、その有様は余りにも痛々しい。"
+msgstr ""
+
+#. ID 4, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"増して彼女が眼を覚まし、レイクが単身ラージュへと\n"
+"消えて行った事を知ったならば…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"或いは育ての親。\\|\n"
+"何を言われずとも感じているのかもしれない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そう、\\.\\.レイクは連れ去られたヴェーネを追って、\n"
+"たった独りでラージュへと行ってしまった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 75, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"何人かの人が、黒い翼の天使がラージュへと\n"
+"飛んで行くのを見たと言っている。"
+msgstr ""
+
+#. ID 4, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"レイク以外の、誰で在ると言うのか。"
+msgstr ""
+
+#. ID 4, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"セラフィックブルー。\\|\n"
+"輝かしく白き、無垢の翼で在る筈なのに。"
+msgstr ""
+
+#. ID 4, Page 1, Line 86, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"運命は今。\\.\\.\n"
+"黒の唯一色に塗り潰されようとしている。"
+msgstr ""
+
+#. ID 4, Page 1, Line 97, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"何時までそうしてる。\\.\\.風邪を引くぞ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 99, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"貴方は。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"慣れている。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"なら私だって、伊達に修行を積んでいない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 108, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"邪悪なる大空の黒き方舟。\\|\n"
+"必ずやこの手で…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"何か策が在るのか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"唯一の頼みの綱で在るフェジテ軍も、\n"
+"一向に姿を見せないぞ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 116, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"恐らく奇襲部隊の始末に\n"
+"時間を取られているんだわ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"やはりゲオルクは策士だった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 124, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"否、\\.\\.策士と言うよりは、\n"
+"人の尊厳を踏み付けにする天才。"
+msgstr ""
+
+#. ID 4, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"まるで人々を雑草の様に…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 129, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"聞けばラージュ浮上に際してユヴェスを爆破し、\n"
+"街の人間をほぼ皆殺しにしたとか。"
+msgstr ""
+
+#. ID 4, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"ならば味わわせれば良い。"
+msgstr ""
+
+#. ID 4, Page 1, Line 137, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"その雑草に討たれるという、\n"
+"腸＜はらわた＞が捻じ切れんばかりの屈辱を。"
+msgstr ""
+
+#. ID 4, Page 1, Line 146, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"少しは顔に出したら？"
+msgstr ""
+
+#. ID 4, Page 1, Line 148, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"何をだ？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"感じるわよ。\\.\\.貴方の怒りを。"
+msgstr ""
+
+#. ID 4, Page 1, Line 152, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"身体を火照らせ、\n"
+"この雨の冷たさを打ち消さんばかりに。"
+msgstr ""
+
+#. ID 4, Page 1, Line 155, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"或いは冷たき雨を以って、\n"
+"持て余すその火照りを収めんばかりに。"
+msgstr ""
+
+#. ID 4, Page 1, Line 161, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"生憎と昔から無表情でな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 163, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"しかしその分、人よりも身体が火照る。\\|\n"
+"殊に強大な敵を前にしては。"
+msgstr ""
+
+#. ID 4, Page 1, Line 169, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"こんなにも熱いのは、\n"
+"ディザスティアに立ち向かった時以来だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 172, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"吉兆と考えて良いのかしら？"
+msgstr ""
+
+#. ID 4, Page 1, Line 174, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\"俺個人\"としては凶兆だがな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 179, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"もう中に入れ。\\.\\.本当に風邪を引くぞ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 181, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"ドリスも、お前が傍に居た方が良いだろう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 186, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そうね。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 211, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：そう…。\\|この身体の火照り…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 214, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：10年前のあの時と、寸分も違わない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 218, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：勝利への執念と確信。そして実現。"
+msgstr ""
+
+#. ID 4, Page 1, Line 221, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：だが…。\\|\n"
+"その果てに真に待ち受けている物…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 226, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：願わくば、\\.\\.\n"
+"それだけは繰り返して呉れるな…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 230, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ランサード：苦い勝利とさえ呼べぬ、\\.\\.\n"
+"あの様な結末だけは…。"
+msgstr ""
+

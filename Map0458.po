@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 6, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"如何やら、\n"
+"もう暫く此方に御厄介に成りそうですね。"
+msgstr ""
+
+#. ID 2, Page 1, Line 9, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"快く受け入れてくださったユアンには感謝しないと。"
+msgstr ""
+
+#. ID 2, Page 1, Line 14, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"しかし、このままでは…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 16, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"分かっております。"
+msgstr ""
+
+#. ID 2, Page 1, Line 18, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"取り敢えずはオーウェンが動いて呉れるとの事。\\|\n"
+"C.M.G.C.は\"今の所\"蚊帳の外ですから。"
+msgstr ""
+
+#. ID 2, Page 1, Line 21, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"城の明け渡し勧告を繰り返し行い、\n"
+"最終的にはアームズに依る鎮圧部隊を送ると。"
+msgstr ""
+
+#. ID 2, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\"今の所\"、\\.\\.ですか…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 29, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"予断を許さないと言うよりは、\n"
+"一寸先は闇と言うべき。"
+msgstr ""
+
+#. ID 2, Page 1, Line 32, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"モーガンの侵食は時間の問題でしょうね。"
+msgstr ""
+
+#. ID 2, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"馬鹿げてる…。\\|\n"
+"解放戦争の最中に、自国でこんな争いを…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 43, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"取り敢えず今はオーウェンに全てを任せましょう。\\|\n"
+"私達には何も出来ないのですから。"
+msgstr ""
+
+#. ID 2, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"しかしこの状況下では、\n"
+"いよいよゲオルクの出方が問題に成りますぞ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"今国権を握っているのは支配派。\\.\\.\n"
+"それも最極論にして矮小なる臆病者モーガン。"
+msgstr ""
+
+#. ID 2, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"只でさえ何時グラウンドに仕掛けるかも\n"
+"分からないこの状況下で、\n"
+"若しゲオルクが奴らを刺激すれば…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 64, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"モーガンの暴走は必至。\\|\n"
+"グラウンドは焼き尽くされるでしょう。"
+msgstr ""
+
+#. ID 2, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"何か打つ手は無いの…？"
+msgstr ""
+
+#. ID 2, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"今の私達にも出来る事は…！"
+msgstr ""
+
+#. ID 2, Page 1, Line 81, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"一つだけ、\\.\\.考えが有ります。"
+msgstr ""
+
+#. ID 2, Page 1, Line 89, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"反逆が起きる直前、ゲオルク側の様子を探らせていた\n"
+"エージェントから情報が入りました。"
+msgstr ""
+
+#. ID 2, Page 1, Line 92, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"ローズバーググループ系列企業ロビンが、\n"
+"グラウンドの僻地に秘密工場を有していたと。"
+msgstr ""
+
+#. ID 2, Page 1, Line 95, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"秘密工場…。\\|戦闘用の兵器開発ですか…？"
+msgstr ""
+
+#. ID 2, Page 1, Line 97, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"間違い無いでしょう。"
+msgstr ""
+
+#. ID 2, Page 1, Line 99, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"我がフェジテ軍の物に酷似した戦艦も10隻ばかり\n"
+"用意されていたようですし…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 102, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"そもそも工場を発見出来たのは、\n"
+"其処に向かう人の流れを見て取る事が出来たからです。"
+msgstr ""
+
+#. ID 2, Page 1, Line 108, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"人の流れ…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 110, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ゲオルク軍の有志の幾らかが\n"
+"集結しているという事か…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 113, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"もうかなり近い内に、それらの戦艦を使って\n"
+"仕掛けて来る可能性が高いでしょう。"
+msgstr ""
+
+#. ID 2, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"おのれゲオルクめ…！"
+msgstr ""
+
+#. ID 2, Page 1, Line 121, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"何としても阻止しなければ…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"在ったわね。\\.\\.今の私に出来る事。"
+msgstr ""
+
+#. ID 2, Page 1, Line 134, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"その秘密工場に乗り込んで、\n"
+"ゲオルク軍の攻撃を未然に阻止する。"
+msgstr ""
+
+#. ID 2, Page 1, Line 137, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"そうですね。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 142, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"止めないの？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 144, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"止めて欲しいのですか？"
+msgstr ""
+
+#. ID 2, Page 1, Line 146, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"冗談。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 151, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"ならば行きなさい。\\|\n"
+"為せる事を、為しなさい。"
+msgstr ""
+
+#. ID 2, Page 1, Line 154, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"他ならぬ、\\.\\.貴女自身の手で。"
+msgstr ""
+
+#. ID 2, Page 2, Line 5, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"良いの？\\.\\.\n"
+"肝心のアンタが城に戻らなくて。"
+msgstr ""
+
+#. ID 2, Page 2, Line 8, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、\\.\\.デイジーもＯＫして呉れたわ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 10, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\"させた\"の間違いだろ？\\.\\.\n"
+"どうせまた無理言って。"
+msgstr ""
+
+#. ID 2, Page 2, Line 13, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"少しだけね。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 19, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"だって、このまま城に戻る事なんて\n"
+"出来ないわよ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 22, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"戻った所で私はまだ勉強中の身。\\.\\.\n"
+"政治に直接関与する事も出来ず、\n"
+"日々を城内という整った環境で送って行く。"
+msgstr ""
+
+#. ID 2, Page 2, Line 26, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"此処で皆が、世界を巡る運命の中心に\n"
+"身を置いているというのに。"
+msgstr ""
+
+#. ID 2, Page 2, Line 29, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"やがて一国の主たる者が、\n"
+"こんなギャラリーで良いと思う？"
+msgstr ""
+
+#. ID 2, Page 2, Line 35, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"私は動いていたいのよ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 37, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"この運命に、\\.\\.この手で関与したいのよ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 42, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"若いねェ…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 44, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうよ、\\.\\.私は若いもの。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 46, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも何時か必ず、\n"
+"城のヌクヌクとした生活が恋しく成るよ？"
+msgstr ""
+
+#. ID 2, Page 2, Line 54, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうかもね。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 56, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"その時は呼んで頂戴。\\.\\.\n"
+"大いなる軽蔑と少しの親しみを込めて。"
+msgstr ""
+
+#. ID 2, Page 2, Line 59, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"私の事を、\\.\\.オバサンと。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 64, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"良いけど、\\.\\.\n"
+"そしたらアンタは何て言い返す？"
+msgstr ""
+
+#. ID 2, Page 2, Line 67, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それは勿論…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 74, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"御互い様と。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 76, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"また随分と先の話だね。"
+msgstr ""
+

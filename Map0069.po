@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 3, Pos (32,8)
+msgid ""
+"海の男：\n"
+"ユヴェスが消えちまったよ…。\n"
+"しかも其処の住民を殆ど道連れにしてな…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (32,8)
+msgid ""
+"海の男：\n"
+"なんつうか、時代の変わり目っつうか、\n"
+"もうメチャクチャだぜ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 3, Pos (32,8)
+msgid ""
+"海の男：\n"
+"なんつうか、時代の変わり目っつうか…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 5, Pos (32,8)
+msgid ""
+"海の男：\n"
+"空に大穴まで開いちまって、\n"
+"変わり目どころか終わっちまいそうな勢いだな。"
+msgstr ""
+
+#. ID 7, Page 1, Line 7, Pos (27,10)
+msgid ""
+"ランゲル：\n"
+"記憶を失くしたヴェーネを連れて来た時、\\.\\.\n"
+"確かお前は言っていたな。"
+msgstr ""
+
+#. ID 7, Page 1, Line 10, Pos (27,10)
+msgid ""
+"ランゲル：\n"
+"天使様にダンスのステップを教えて貰うと。"
+msgstr ""
+
+#. ID 7, Page 1, Line 15, Pos (27,10)
+msgid ""
+"ランゲル：\n"
+"ありゃあ、いかんな。\\|\n"
+"ダンスも満足にリード出来ない男なぞ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 21, Pos (27,10)
+msgid ""
+"ランゲル：\n"
+"あれから色々な事が在った。"
+msgstr ""
+
+#. ID 7, Page 1, Line 23, Pos (27,10)
+msgid ""
+"ランゲル：\n"
+"結構な時が経った。"
+msgstr ""
+
+#. ID 7, Page 1, Line 25, Pos (27,10)
+msgid ""
+"ランゲル：\n"
+"あらゆる\"もの\"が、変わってしまった。"
+msgstr ""
+
+#. ID 7, Page 1, Line 30, Pos (27,10)
+msgid ""
+"ランゲル：\n"
+"レイク。\\.\\.お前は如何だ？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 32, Pos (27,10)
+msgid ""
+"ランゲル：\n"
+"少しはステップでも覚えたか？"
+msgstr ""
+
+#. ID 7, Page 1, Line 37, Pos (27,10)
+msgid ""
+"ランゲル：\n"
+"だったら、そろそろリードして遣れよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 39, Pos (27,10)
+msgid ""
+"ランゲル：\n"
+"今もお前の傍に居るであろう、\n"
+"その天使＜ひと＞をな。"
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (44,24)
+msgid ""
+"海辺の女の子：\n"
+"きれいだね。"
+msgstr ""
+
+#. ID 9, Page 2, Line 3, Pos (44,24)
+msgid ""
+"海辺の女の子：\n"
+"海の向こう側にはユヴェスとかダルムシュタットとか、\n"
+"いろんなものがあるんだって、\n"
+"よくお父さんに言われてたけど……。"
+msgstr ""
+
+#. ID 9, Page 2, Line 7, Pos (44,24)
+msgid ""
+"海辺の女の子：\n"
+"ユヴェスもダルムシュタットも無くなっちゃったね…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 4, Pos (56,23)
+msgid ""
+"男の子：\n"
+"あの子かわいいな…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 8, Pos (56,23)
+msgid ""
+"男の子：\n"
+"あの子かわいすぎる…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 3, Pos (35,10)
+msgid ""
+"旅人：\n"
+"向こうの大陸に渡れなくなっちまって、\n"
+"仕方ないからここの人達と共同暮らしだ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 6, Pos (35,10)
+msgid ""
+"旅人：\n"
+"ま、困った時はお互い様ってな。\n"
+"こういうのも悪くないぜ。"
+msgstr ""
+
+#. ID 32, Page 1, Line 3, Pos (35,16)
+msgid ""
+"海辺の女：\n"
+"ホワイトウィングにダルムシュタット…。"
+msgstr ""
+
+#. ID 32, Page 1, Line 5, Pos (35,16)
+msgid ""
+"海辺の女：\n"
+"西部大陸には垢抜けたスポットが幾つも在るのに、\n"
+"こっちはそんなのまるで無し。"
+msgstr ""
+
+#. ID 32, Page 1, Line 8, Pos (35,16)
+msgid ""
+"海辺の女：\n"
+"何時かは向こうに住んで、\n"
+"ハイセンスな日々を送るのよ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 3, Pos (32,11)
+msgid ""
+"海の男：\n"
+"海上都市ユヴェスには行ってみたか？"
+msgstr ""
+
+#. ID 38, Page 1, Line 6, Pos (32,11)
+msgid ""
+"海の男：\n"
+"あそこは良いぞ。\n"
+"何たって海の上に街が浮かんでるんだ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 11, Pos (32,11)
+msgid ""
+"海の男：\n"
+"あそこはいいぞ。\n"
+"なんたって海の上に街が浮かんでるんだ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 16, Pos (32,11)
+msgid ""
+"海の男：\n"
+"文字通り寝ても覚めても海。"
+msgstr ""
+
+#. ID 38, Page 1, Line 18, Pos (32,11)
+msgid ""
+"海の男：\n"
+"海好きの奴には最高の場所だぜ。"
+msgstr ""
+
+#. ID 38, Page 2, Line 4, Pos (32,11)
+msgid ""
+"海の男：\n"
+"フェジテにも海って在るのかね…？"
+msgstr ""
+
+#. ID 38, Page 2, Line 8, Pos (32,11)
+msgid ""
+"海の男：\n"
+"フェジテにも海ってあるのかね…？"
+msgstr ""
+
+#. ID 40, Page 1, Line 4, Pos (13,13)
+#. ID 40, Page 2, Line 3, Pos (13,13)
+#. ID 40, Page 4, Line 3, Pos (13,13)
+msgid ""
+"船乗り：\n"
+"此処はユヴェス行きの船着場だ。"
+msgstr ""
+
+#. ID 40, Page 1, Line 11, Pos (13,13)
+#. ID 40, Page 3, Line 3, Pos (13,13)
+msgid ""
+"船乗り：\n"
+"ユヴェス行きの船だ。\n"
+"一人\\_600\\_ディアだが、乗るかね？"
+msgstr ""
+
+#. ID 40, Page 1, Line 28, Pos (13,13)
+#. Choice (2 options)
+#. ID 40, Page 1, Line 32, Pos (13,13)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 3, Line 20, Pos (13,13)
+#. Choice (2 options)
+#. ID 40, Page 3, Line 43, Pos (13,13)
+#. Choice (2 options)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 40, Page 1, Line 30, Pos (13,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"※此処で乗船すると、暫く此方に戻って来る事は\n"
+"  出来ません。宜しいですか？"
+msgstr ""
+
+#. ID 40, Page 1, Line 47, Pos (13,13)
+#. Contains choice at line 2 (1 options)
+#. ID 40, Page 3, Line 89, Pos (13,13)
+#. Contains choice at line 2 (1 options)
+msgid "※所持金が足りません。"
+msgstr ""
+
+#. ID 40, Page 1, Line 48, Pos (13,13)
+#. Choice (1 options, embedded in a message)
+#. ID 40, Page 3, Line 90, Pos (13,13)
+#. Choice (1 options, embedded in a message)
+msgid "ＮＯ"
+msgstr ""
+
+#. ID 40, Page 3, Line 40, Pos (13,13)
+msgid ""
+"\\C[19]【スキップ確認】\n"
+"\\C[0]途中のイベントをスキップし、\n"
+"ダルムシュタットの港まで一気に移動しますか？"
+msgstr ""
+
+#. ID 40, Page 6, Line 3, Pos (13,13)
+msgid ""
+"船乗り：\n"
+"世界はあっという間に変わってしまったね。"
+msgstr ""
+
+#. ID 40, Page 6, Line 5, Pos (13,13)
+msgid ""
+"船乗り：\n"
+"しかし今までの生き方はそう簡単には変えられん。\n"
+"私はこれからも船乗りであり続けたいと思う。"
+msgstr ""
+
+#. ID 40, Page 6, Line 8, Pos (13,13)
+msgid ""
+"船乗り：\n"
+"なに、時間は掛かるだろうが、きっと何とかなるさ。"
+msgstr ""
+
+#. ID 40, Page 7, Line 3, Pos (13,13)
+msgid ""
+"船乗り：\n"
+"そういえば、これは私の仲間の体験談なんだが…。"
+msgstr ""
+
+#. ID 40, Page 7, Line 5, Pos (13,13)
+msgid ""
+"船乗り：\n"
+"ある日そいつは航路を間違って、\n"
+"大陸の南にある島づたいに船を進めてしまった。"
+msgstr ""
+
+#. ID 40, Page 7, Line 8, Pos (13,13)
+msgid ""
+"船乗り：\n"
+"そして、ある島に近付いた時、\n"
+"緑色の妖精を一瞬見かけたと言うんだ。"
+msgstr ""
+
+#. ID 40, Page 7, Line 11, Pos (13,13)
+msgid ""
+"船乗り：\n"
+"まあ、妖精自体居るかどうか眉唾モノなのだが。\n"
+"もし本当なら、一度会ってみたいものだね。"
+msgstr ""
+

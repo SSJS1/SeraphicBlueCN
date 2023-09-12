@@ -1,0 +1,977 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"脈は在りそうか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 6, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"アクセスログを解析した限りでは。"
+msgstr ""
+
+#. ID 3, Page 1, Line 8, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"或る特定リージョンに対して、\n"
+"極めて長期間に渡る頻繁なアクセスが認められます。"
+msgstr ""
+
+#. ID 3, Page 1, Line 11, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"典型的な日記とかのパターンです。"
+msgstr ""
+
+#. ID 3, Page 1, Line 13, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"またタスクスケジュールでも偏執的なまでに念入りな\n"
+"バックアップが組まれている事から…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 16, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"\"それ\"が、正に生命にも匹敵し得る\n"
+"重要なデータである事が推測されます。"
+msgstr ""
+
+#. ID 3, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"日記…。\\|生命にも並ぶ重要なデータ…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"見られそうか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 30, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"今は未だ何とも。"
+msgstr ""
+
+#. ID 3, Page 1, Line 32, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"幾つもプロテクトが掛かってますし、\\.\\.\n"
+"堅牢さもオフィスの\"それ\"の上を行くでしょう。"
+msgstr ""
+
+#. ID 3, Page 1, Line 35, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"今は唯、\\.\\.充分な時間を頂きたいと…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"分かった。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"オフィスが八割方空振りな以上、\n"
+"此処が最後の綱だ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"出来る限り時間は与えるから、\n"
+"何とかこの端末の中の真実を引き摺り出して呉れ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 48, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"ええ、\\.\\.御任せを。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 55, Pos (0,0)
+#. ID 3, Page 4, Line 18, Pos (0,0)
+#. ID 3, Page 4, Line 54, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"この中に…\\.\\.一体何が…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"やはりジークベルトの日記…？"
+msgstr ""
+
+#. ID 3, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"奴は…\\.\\.本当に知っていたのか…？"
+msgstr ""
+
+#. ID 3, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"知られざる、ヴェーネの…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"真にして最後の秘密を…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 6, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[3]ふぅ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 11, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"大変ですね。\\.\\.\n"
+"エイブラムの件まで掛け持ちですか？"
+msgstr ""
+
+#. ID 3, Page 2, Line 14, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"デイジー様ももう少し\n"
+"人使いを御考えになった方が良いのでは…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 17, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"仕方無いさ。\\.\\.\n"
+"女王反逆にラージュの決戦と、大事が続いたんだ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 20, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"後始末で圧倒的に人手が足りない。"
+msgstr ""
+
+#. ID 3, Page 2, Line 22, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"まして私は内政部幹部。\n"
+"此処でこそ力を発揮して皆を牽引しなくては。"
+msgstr ""
+
+#. ID 3, Page 2, Line 28, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"少し不謹慎ですが、\n"
+"\"ヒラ\"で良かったと思ってます。"
+msgstr ""
+
+#. ID 3, Page 2, Line 31, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"その意見には賛成だ。\\.\\.\n"
+"今回ばかりは君達が少し羨ましい。"
+msgstr ""
+
+#. ID 3, Page 2, Line 38, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"御休みになられては？"
+msgstr ""
+
+#. ID 3, Page 2, Line 40, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"君は？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 42, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"自分は大丈夫です。"
+msgstr ""
+
+#. ID 3, Page 2, Line 44, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"なら私も大丈夫だ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 46, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"しかし…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 48, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"それより、状況は？"
+msgstr ""
+
+#. ID 3, Page 2, Line 55, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"今はプロテクトの突破プログラムを\n"
+"走らせている所です。"
+msgstr ""
+
+#. ID 3, Page 2, Line 58, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"もうそろそろ結果が出る頃合かと…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 64, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"ん！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 69, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"如何だ…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 76, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"目的地に着きました。"
+msgstr ""
+
+#. ID 3, Page 2, Line 78, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"置いてあるファイルは唯一つ。\\.\\.\n"
+"特大サイズのダイアリードキュメント。"
+msgstr ""
+
+#. ID 3, Page 2, Line 81, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"ファイルネーム「我が愛娘の記録」。"
+msgstr ""
+
+#. ID 3, Page 2, Line 86, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ヴェーネの\"観察記録\"…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 88, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"恐らく。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 90, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"開けそうか？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 93, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"やってみます。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 108, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"やはりファイル自体にも\n"
+"プロテクトが掛かっていますね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 111, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"開くにはパスワードが必要です。"
+msgstr ""
+
+#. ID 3, Page 2, Line 118, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"やはりそう簡単には行かないか…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 125, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"解析は出来そうか？"
+msgstr ""
+
+#. ID 3, Page 2, Line 127, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"一応やってみます。"
+msgstr ""
+
+#. ID 3, Page 2, Line 129, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"分かった。\\.\\.私は\"正攻法\"で行こう。"
+msgstr ""
+
+#. ID 3, Page 2, Line 131, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"正攻法？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 133, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"オーウェン様からのアドバイスなんだがな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 135, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"如何もあの男、\\.\\.こういうケースでは\n"
+"得てして人に謎掛けをしてほくそえむという\n"
+"厭味なタイプらしい。"
+msgstr ""
+
+#. ID 3, Page 2, Line 139, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"この部屋の何処かにパスワードを示す\n"
+"\"何か\"が存在する可能性が高いという事だ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 142, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"成る程…。\\.\\.\n"
+"偶にそういう話は聞きますね…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 151, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"だったら\"これ\"、\\.\\.\n"
+"何かヒントに成りませんか？"
+msgstr ""
+
+#. ID 3, Page 2, Line 154, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"パスワードの入力画面の所に、\n"
+"意味深なメッセージが出てるんですよ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 157, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ちょっと見せて呉れ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 165, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[2]何だ…\\.\\.これは…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 8, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"調子は如何だ？\\|\n"
+"\"我が愛娘の記録\"の分析は。"
+msgstr ""
+
+#. ID 3, Page 3, Line 11, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"その…。\\.\\.申し訳在りません…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 13, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"まさか一昨日から進んでないのか？"
+msgstr ""
+
+#. ID 3, Page 3, Line 15, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[2]ええ…。\\|まあ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 19, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"彼が殆ど休まずに頑張って呉れているのですが…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 26, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"化け物みたいなプロテクトですよ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 29, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"彼が生きていたならば、\n"
+"政府の機密データは向こう数十年安泰だったでしょう。"
+msgstr ""
+
+#. ID 3, Page 3, Line 35, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 37, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"ふん。\\.\\.あんな狂人の手など借りるものか。"
+msgstr ""
+
+#. ID 3, Page 3, Line 43, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"だがこうも状況が進展しないとは…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 54, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"パスワードのヒントも\n"
+"見付かっていないのだろう？"
+msgstr ""
+
+#. ID 3, Page 3, Line 57, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"本とかを端から調べたのですが…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 59, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"しかも厄介な事に、このパスワードは\n"
+"入力回数に制限が付いているのです。"
+msgstr ""
+
+#. ID 3, Page 3, Line 62, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"３回誤ったパスワードを入れてしまうと、\n"
+"当該データを自動的に消去する仕組みです。"
+msgstr ""
+
+#. ID 3, Page 3, Line 68, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"万が一の時でも、\n"
+"娘との間の秘密だけは守り通すという訳か。"
+msgstr ""
+
+#. ID 3, Page 3, Line 71, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"ベクトルが違っていれば、\n"
+"最良の父親に成れていただろうに。"
+msgstr ""
+
+#. ID 3, Page 3, Line 74, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"馬鹿と天才は紙一重か。"
+msgstr ""
+
+#. ID 3, Page 3, Line 80, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"それで？\\.\\.\n"
+"どうせ既にラストチャンスなのだろう？"
+msgstr ""
+
+#. ID 3, Page 3, Line 83, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"済みません。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 85, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"何か無いのか？\\.\\.\n"
+"ほんの些細な事でも良いのだ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 88, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"一応、入力画面に意味深なメッセージが\n"
+"出てる事は出てるんですが…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 91, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"「娘は悪い親友を得たようだ。」"
+msgstr ""
+
+#. ID 3, Page 3, Line 96, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"\"親友\"の名前が…\\|答えという事か…？"
+msgstr ""
+
+#. ID 3, Page 3, Line 98, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"確証は在りませんが、\\.\\.多分…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 106, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"通信機を。\\.\\.直ぐに連絡を取ろう。"
+msgstr ""
+
+#. ID 3, Page 3, Line 108, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"相手は？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 110, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"決まっているだろうに。"
+msgstr ""
+
+#. ID 3, Page 3, Line 119, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[2]まさか…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 121, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"本当に八方塞だと判断された場合、\n"
+"止むを得ず\"直接的な接触\"を許可する。"
+msgstr ""
+
+#. ID 3, Page 3, Line 124, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"デイジー殿より仰せ付かった。"
+msgstr ""
+
+#. ID 3, Page 3, Line 126, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"その時が来た。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 131, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"聞いた所で、果たして知っているか…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 133, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"お前には親友が居るか？"
+msgstr ""
+
+#. ID 3, Page 3, Line 135, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ええ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 137, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"名前は知っているか？"
+msgstr ""
+
+#. ID 3, Page 3, Line 139, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"それは勿論…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 144, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 146, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"だが我々が直接訊くのは避けるべきか。\\.\\.\n"
+"何かと不穏当な事だ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 149, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"ミネルヴァ様に御願いするとしよう。\\.\\.\n"
+"その方が角も立つまい。"
+msgstr ""
+
+#. ID 3, Page 4, Line 13, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 23, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"その気持ちは分かる。\\.\\.\n"
+"不眠不休は否定されたのだからな。"
+msgstr ""
+
+#. ID 3, Page 4, Line 26, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"さんざ探し回ったパスワードが、\n"
+"まさか\"Ｒ\"の一文字だけだったなどと…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 29, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"こんな話。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 35, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"ジェラール。\\.\\.お前が代わりにやるか？"
+msgstr ""
+
+#. ID 3, Page 4, Line 41, Pos (0,0)
+#. ID 3, Page 4, Line 200, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 43, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[2]私が…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 45, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"これでパスワードが間違っていれば、\n"
+"ジークベルトの記録は永遠に失われる。"
+msgstr ""
+
+#. ID 3, Page 4, Line 48, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"そんな重責を、見す見す一介のエンジニアに\n"
+"背負わせて黙っている心算か？"
+msgstr ""
+
+#. ID 3, Page 4, Line 59, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"お前は少々真面目過ぎるな。"
+msgstr ""
+
+#. ID 3, Page 4, Line 64, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"心配せんでも良い。\\.\\.\n"
+"初めからお前達に背負わせる心算は無いわ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 75, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"私がやろう。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 85, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"ヴェーネは本来、\n"
+"全てを人知れず極秘裏に片付ける心算でいた。"
+msgstr ""
+
+#. ID 3, Page 4, Line 88, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"だからこそ\"パスワードだけ\"教えたのだろう。"
+msgstr ""
+
+#. ID 3, Page 4, Line 90, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"鍵は遣る。\\.\\.後はお前達で勝手に探せ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 92, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"添えられた白紙の手紙が、\n"
+"何百の言葉よりも彼女の意志を語っている。"
+msgstr ""
+
+#. ID 3, Page 4, Line 95, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"沈黙とは、斯くも雄弁なるかな。"
+msgstr ""
+
+#. ID 3, Page 4, Line 100, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"何だか…\\|冷たいですね…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 102, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"当然の結果と言うべきだ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 104, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"今はせめてこの鍵を、\n"
+"有難く使わせて貰う事にしよう。"
+msgstr ""
+
+#. ID 3, Page 4, Line 107, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"それがフェイクでなく本物だと信じるのは、\n"
+"最早義務だと知った上で。"
+msgstr ""
+
+#. ID 3, Page 4, Line 113, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"パスワード…\\|Ｒ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 122, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"ジークベルトよ。\\|\n"
+"今度こそゲームオーバーだ。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 132, Pos (0,0)
+msgid ""
+"＊＊＊：\n"
+"パスワードを受理しました。\n"
+"ファイルをオープンします。"
+msgstr ""
+
+#. ID 3, Page 4, Line 141, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"通った…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 147, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"これが、\\.\\.ヴェーネに関する全記録…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 149, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"\"我が愛娘の記録\"…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 155, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"物凄い量ですね…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 157, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"確かにミネルヴァ様の差し入れ。\n"
+"エスプレッソすらミルクセーキに感じるわ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 163, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"一つ訊くが、\\.\\.\n"
+"「エル」という単語は検索出来るか？"
+msgstr ""
+
+#. ID 3, Page 4, Line 166, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"不可能です、\\.\\.残念ながら。"
+msgstr ""
+
+#. ID 3, Page 4, Line 168, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"普通こういう代物には必ず検索機能が付いている\n"
+"ものなのですが…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 171, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"これはジークベルトが作ったオリジナルの\n"
+"エディターのようで、検索機能が付いていません。"
+msgstr ""
+
+#. ID 3, Page 4, Line 174, Pos (0,0)
+msgid ""
+"エンジニア：\n"
+"ファイルデータも巧妙に暗号化されていて、\n"
+"他のエディターでオープンして検索する方法も\n"
+"使えないでしょう。"
+msgstr ""
+
+#. ID 3, Page 4, Line 181, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"やはりな…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 186, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"何処に何が書いて在るか、自分だけが知っている。"
+msgstr ""
+
+#. ID 3, Page 4, Line 188, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"飽くまで他の誰にも読ませる心算は無い。"
+msgstr ""
+
+#. ID 3, Page 4, Line 190, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"そういう事だ。\\|重ね重ね愚かな男よ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 196, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"次はケーキだ。\\.\\.\n"
+"この記録を全部プリントアウトする。"
+msgstr ""
+
+#. ID 3, Page 4, Line 202, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"覚悟しておけ。\\.\\.\n"
+"ウェディングケーキがそびえ立つぞ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 205, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"恐れ多く、女王陛下の御婚礼祭宴にも迫りつつな。"
+msgstr ""
+
+#. ID 3, Page 4, Line 207, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[2]は、\\.\\.はい…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 209, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"若いのに腑抜けた返事よ。\\.\\.\n"
+"エイブラムで胃がもたれたか？"
+msgstr ""
+
+#. ID 3, Page 4, Line 217, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"あんな似非狂人＜まがいもの＞なぞ後回しだ。\\|\n"
+"今は一刻も早く奴＜ほんもの＞の秘め事を暴く。"
+msgstr ""
+
+#. ID 3, Page 4, Line 220, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"デイジー殿には私の方から報告しておこう。"
+msgstr ""
+
+#. ID 3, Page 4, Line 222, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"はっ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 224, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"可能な限り人手を掻き集めろ。\n"
+"全員で分担して全記録を一字一句チェックする。"
+msgstr ""
+
+#. ID 3, Page 4, Line 231, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"決して抜かるなよ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 233, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"何が飛び出し、\\.\\.何が隠されているか、\\.\\.\n"
+"分かったものではないからな。"
+msgstr ""
+
+#. ID 3, Page 4, Line 236, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"それこそパンドラの箱を空ける心算で紐解け。"
+msgstr ""
+
+#. ID 3, Page 4, Line 238, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"無論、\\.\\.箱の底に希望が残っている事を\n"
+"信じながらだ。"
+msgstr ""
+

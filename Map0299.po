@@ -1,0 +1,393 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 5, Pos (11,13)
+msgid "※ドアが閉まっている。"
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (13,10)
+msgid ""
+"女性：\n"
+"ロアノーク号って元々は中古の輸送船なの。\n"
+"如何にもそれ風の野暮ったいデザイン。"
+msgstr ""
+
+#. ID 9, Page 1, Line 6, Pos (13,10)
+#. ID 9, Page 3, Line 7, Pos (13,10)
+msgid ""
+"女性：\n"
+"でもそれだってリーダーが値切りに値切って、\n"
+"なけなしの予算で買ったみたい。"
+msgstr ""
+
+#. ID 9, Page 1, Line 9, Pos (13,10)
+#. ID 9, Page 3, Line 10, Pos (13,10)
+msgid ""
+"女性：\n"
+"格好付かない話よね。"
+msgstr ""
+
+#. ID 9, Page 3, Line 4, Pos (13,10)
+msgid ""
+"女性：\n"
+"ロアノーク号って元々は中古の輸送船なの。\n"
+"いかにもそれ風の野暮ったいデザイン。"
+msgstr ""
+
+#. ID 9, Page 3, Line 16, Pos (13,10)
+msgid ""
+"女性：\n"
+"リーダー、そろそろ飛行船新しくしませんか？\\|\n"
+"あれじゃ野暮ったいですよ。"
+msgstr ""
+
+#. ID 9, Page 3, Line 19, Pos (13,10)
+msgid ""
+"ユアン：\n"
+"でも予算がな…。\n"
+"俺だってもう少しカッコ良いのが欲しいんだけどさ。"
+msgstr ""
+
+#. ID 9, Page 3, Line 22, Pos (13,10)
+msgid ""
+"ユアン：\n"
+"もう少しアレで我慢して呉れ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 3, Pos (9,4)
+msgid ""
+"ケイン：\n"
+"よう。みんな集まってるぜ。"
+msgstr ""
+
+#. ID 10, Page 2, Line 3, Pos (9,4)
+msgid ""
+"ケイン：\n"
+"もうすぐ会議が始まるぜ。\n"
+"遅刻しないうちに入った入った。"
+msgstr ""
+
+#. ID 13, Page 1, Line 5, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"ほれ、\\.\\.受け取れ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"悪いな爺さん。"
+msgstr ""
+
+#. ID 13, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"本気なのか？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 14, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"念の為だよ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"嘘を吐くでない。\\.\\.\n"
+"お前さんが準備に余念が無いなど。"
+msgstr ""
+
+#. ID 13, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"やっぱりお見通しか…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"長年の勘だけでは在るまい？"
+msgstr ""
+
+#. ID 13, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"まあな。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"治癒はおろか均衡すらも保てないとは。\n"
+"このドナルド･ヒューストン、落ちたものよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そんな事無いさ。\\.\\.\n"
+"その御老体で良く頑張ったと思ってる。"
+msgstr ""
+
+#. ID 13, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"プライドの問題だよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"しかしだからと言って、\n"
+"安易に\"それ\"を使うでないぞ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"分かってる。\\.\\.\n"
+"最後も最後の切り札だ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"そんな\"真逆\"が切り札に成ろうとはの…。\\|\n"
+"冥利に尽きぬ皮肉な事だ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"研究者人生も数十年だが、\n"
+"こうも口惜しい事は数える程しか無いわ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それじゃ、そろそろ行かないと。\\.\\.\n"
+"皆を待たせてるからな。"
+msgstr ""
+
+#. ID 13, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"ああ。\\|\"行って来い\"。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"\\S[3]まったく…。\\|何が罪滅ぼしだ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 13, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"おい。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 24, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"何か用かい？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 29, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"さっきの話…\\.\\.本当なのか？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 31, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"さっきの話って？"
+msgstr ""
+
+#. ID 13, Page 3, Line 33, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"中で話していた事だ。\\.\\.\n"
+"ケインがハイディの息子に良く似ていると。"
+msgstr ""
+
+#. ID 13, Page 3, Line 36, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ああ、\\.\\.マジで良く似てるぜ。\\.\\.\n"
+"俺の記憶に間違いは無い。"
+msgstr ""
+
+#. ID 13, Page 3, Line 42, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"それでお前、\\.\\.ハイディの家族が写っている\n"
+"写真を見たと言ったな？"
+msgstr ""
+
+#. ID 13, Page 3, Line 45, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"一家四人。\\.\\.\n"
+"ハイディと旦那、\\.\\.息子に娘。"
+msgstr ""
+
+#. ID 13, Page 3, Line 48, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"大分古い奴だけどな。\\.\\.\n"
+"リオ暦48年末。"
+msgstr ""
+
+#. ID 13, Page 3, Line 54, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"娘…。\\|48年末…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 60, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"悪いが、これを見て呉れるか？"
+msgstr ""
+
+#. ID 13, Page 3, Line 62, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ロケット…？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 64, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"中の肖像画を。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 71, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"あれ…？ \\.\\.これってあの写真の女の子…。"
+msgstr ""
+
+#. ID 13, Page 3, Line 73, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ハイディの娘じゃないか…。"
+msgstr ""
+
+#. ID 13, Page 3, Line 78, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"メッセージが書いてあるな…。"
+msgstr ""
+
+#. ID 13, Page 3, Line 80, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"お誕生日おめでとう、\\.\\.アイシャ…。"
+msgstr ""
+
+#. ID 13, Page 3, Line 85, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"アイシャって名前なのか…。"
+msgstr ""
+
+#. ID 13, Page 3, Line 90, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\\S[2]そうか…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 98, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"でもこれって見るからに\n"
+"アイシャへのプレゼントだろ？"
+msgstr ""
+
+#. ID 13, Page 3, Line 101, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"何であんたが持ってんだ？"
+msgstr ""
+
+#. ID 13, Page 3, Line 103, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"若しかして、\\.\\.ハイディと知り合いか何か…？"
+msgstr ""
+
+#. ID 13, Page 3, Line 108, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 115, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"お、\\.\\.おい…！\\|\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 120, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"確証こそ無いがな。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 122, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"は？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 3, Line 127, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"俺達は、とんでもない\n"
+"思い違いをしているのかも知れない。"
+msgstr ""
+
+#. ID 13, Page 3, Line 130, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"それこそ、\\.\\.大前提からして。"
+msgstr ""
+
+#. ID 13, Page 3, Line 135, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"黒幕のヴェール。\\.\\.\n"
+"何としても剥ぎ取らなくては…。"
+msgstr ""
+
+#. ID 13, Page 3, Line 144, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"何なんだよ、行き成り…。\\|\n"
+"ぶっきら棒な奴だな…。"
+msgstr ""
+
+#. ID 13, Page 3, Line 147, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"大前提からして間違ってる…？"
+msgstr ""
+
+#. ID 13, Page 3, Line 152, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"何の事だ…？\\|\\^"
+msgstr ""
+

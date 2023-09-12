@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 17, Pos (11,3)
+msgid ""
+"ヤンシー：\n"
+"巨大な戦艦が並ぶ発着場では、\n"
+"依然として大きな混乱が続いていた。"
+msgstr ""
+
+#. ID 12, Page 1, Line 20, Pos (11,3)
+msgid ""
+"ヤンシー：\n"
+"フェジテの襲撃と工場内マシンの暴走。\\|\n"
+"最早敵も味方も無し。"
+msgstr ""
+
+#. ID 12, Page 1, Line 23, Pos (11,3)
+msgid ""
+"ヤンシー：\n"
+"また、既にかなりの数の有志が\n"
+"船に乗って出撃した後でも在った。"
+msgstr ""
+
+#. ID 12, Page 1, Line 29, Pos (11,3)
+msgid ""
+"ヤンシー：\n"
+"その状況下で船を奪うのは、\n"
+"予想よりもずっと容易だった。"
+msgstr ""
+
+#. ID 12, Page 1, Line 32, Pos (11,3)
+msgid ""
+"ヤンシー：\n"
+"まだ何機か残っていた機体の内、\n"
+"私達が眼を付けたのは一番手前の黒獅子10号機。"
+msgstr ""
+
+#. ID 12, Page 1, Line 35, Pos (11,3)
+msgid ""
+"ヤンシー：\n"
+"発進直前に主力火器に不具合が発見されたらしく、\n"
+"急遽乗員が別の船に移動していた物だ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 41, Pos (11,3)
+msgid ""
+"ヤンシー：\n"
+"私達は別に戦いに行く訳ではない。\\.\\.\n"
+"空を飛んでフェジテに行ければそれで充分。"
+msgstr ""
+
+#. ID 12, Page 1, Line 44, Pos (11,3)
+msgid ""
+"ヤンシー：\n"
+"私達はこの船に乗り込み、蛻＜もぬけ＞の殻で在るのを\n"
+"確認すると直ぐに発進させた。"
+msgstr ""
+
+#. ID 12, Page 1, Line 50, Pos (11,3)
+msgid ""
+"ヤンシー：\n"
+"賽は投げられた。\\|\n"
+"最早後戻りは出来ない。"
+msgstr ""
+

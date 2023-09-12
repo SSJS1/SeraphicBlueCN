@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"やっぱり女の子…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"如何したの!? \\.\\.大丈夫!?\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 20, Pos (0,0)
+msgid ""
+"女の子：\n"
+"\\S[10]あ…\\.\\.あれ…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"アレ？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"女の子：\n"
+"\\S[10]うしろ…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"………ッ!!\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 55, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"でかいッ…！\\|\n"
+"一人で手に負える様な相手じゃないわ…！"
+msgstr ""
+
+#. ID 1, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"逃げるわよ！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 67, Pos (0,0)
+msgid ""
+"女の子：\n"
+"え…？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"さあ、\\.\\.走って！\\|\\^"
+msgstr ""
+

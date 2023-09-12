@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 19, Pos (9,8)
+msgid ""
+"イーヴル：\n"
+"\\S[10]グ……ゲェ……。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 25, Pos (9,8)
+msgid ""
+"レイク：\n"
+"丁度良い具合だな。"
+msgstr ""
+
+#. ID 9, Page 1, Line 30, Pos (9,8)
+msgid ""
+"レイク：\n"
+"楽しませて貰うぜ。\\.\\.\n"
+"最近は御無沙汰だったからよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 46, Pos (9,8)
+msgid ""
+"イーヴル：\n"
+"ギャア\\S[2]ァァーーーッ!!!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 51, Pos (9,8)
+msgid ""
+"レイク：\n"
+"おらおらァ！\\.\\.\n"
+"死ねやバケモンが！\\|\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 58, Pos (9,8)
+msgid ""
+"イーヴル：\n"
+"\\S[2]ゲ…！ \\|ゲ…！\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 60, Pos (9,8)
+msgid ""
+"レイク：\n"
+"しけた声出してんじゃねー！\\|\\|\n"
+"もっと叫べェ!!\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 69, Pos (9,8)
+msgid ""
+"イーヴル：\n"
+"\\S[2]ギャ…！ \\.\\.ギギ…！\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 76, Pos (9,8)
+msgid ""
+"イーヴル：\n"
+"ギャ\\S[2]ァァァァァーーーッ!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 81, Pos (9,8)
+msgid ""
+"レイク：\n"
+"\\S[2]そうだ…！ \\|その声だァ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 83, Pos (9,8)
+msgid ""
+"レイク：\n"
+"\\S[2]堪んねェ…！ \\|ゾクゾクするぜ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 88, Pos (9,8)
+msgid ""
+"レイク：\n"
+"\\S[2]ヒャーッハハハハハッ!!\\|\\|\\^"
+msgstr ""
+

@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (0,0)
+msgid ""
+"ドクター：\n"
+"何でわしがそんな話をしなくてはいかんのだ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ドクター：\n"
+"わしは飽くまで技術屋。\\|\n"
+"そういう事は他の奴に頼め。"
+msgstr ""
+
+#. ID 3, Page 1, Line 12, Pos (0,0)
+msgid ""
+"黒服：\n"
+"おい貴様。\\.\\.\n"
+"強気な態度も大概にしておけよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 15, Pos (0,0)
+msgid ""
+"黒服：\n"
+"貴様はゲオルク様に雇われている身なのだぞ？\\|\n"
+"分かっているのか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ドクター：\n"
+"そんな事は分かっている。"
+msgstr ""
+
+#. ID 3, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ドクター：\n"
+"だが契約では、\n"
+"わしの役割は\"開発研究\"と在った筈だが？"
+msgstr ""
+
+#. ID 3, Page 1, Line 23, Pos (0,0)
+msgid ""
+"黒服：\n"
+"いいから来い！\\.\\.\n"
+"ゲオルク様の御命令だぞ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 26, Pos (0,0)
+msgid ""
+"黒服：\n"
+"事と場合に依っては貴様を…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ドクター：\n"
+"殺せるのか？ \\|このわしを？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ドクター：\n"
+"わしが消えて、\n"
+"このプロジェクトが進むのか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 36, Pos (0,0)
+msgid ""
+"黒服：\n"
+"くっ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ドクター：\n"
+"まあ良いわ。\\|\n"
+"此処はわしの方が折れておこう。"
+msgstr ""
+
+#. ID 3, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ドクター：\n"
+"難癖付けられて\n"
+"報酬を減らされたら堪らんからな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 48, Pos (0,0)
+msgid ""
+"黒服：\n"
+"そうだ。\\.\\.それで良い。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 53, Pos (0,0)
+msgid ""
+"黒服：\n"
+"では、一緒に来て貰おうか。"
+msgstr ""
+
+#. ID 3, Page 1, Line 60, Pos (0,0)
+msgid ""
+"黒服：\n"
+"\\S[2]ドクター･\\.\\.ランゲル。\\|\\^"
+msgstr ""
+

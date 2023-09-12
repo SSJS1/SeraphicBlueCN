@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"心の痛み…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そう言えば…\\|そんな事も在りましたね…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 7, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"心の痛みを免罪符にする心算は在りませんが…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 9, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"しかしそれを棄てずに居る者を撃つ程、\\.\\.\n"
+"私の道は険しかっただろうか…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 12, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"此処の主人の様に甘んじて全てを受け止める者に、\n"
+"私は銃を抜いてみせる様な人間だっただろうか…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 18, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"実体無き大勢。\\|生身の個人。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 20, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"大勢の罪に対し個人への復讐を充てるなどと、\n"
+"粗末が過ぎて私刑とすら呼べない。"
+msgstr ""
+
+#. ID 2, Page 2, Line 23, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"言うなれば鬼畜の道。\\|\n"
+"裁きの名を借りて、己の渇きを他者の血で潤す。"
+msgstr ""
+
+#. ID 2, Page 2, Line 29, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私は…\\|鬼畜に成ろうとしていたのか…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 31, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"子供達を捨てた罪に託けてフェジテを憎む事で、\n"
+"自らを潤していたのか…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 38, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ヤンシー達に感謝しなくては。"
+msgstr ""
+
+#. ID 2, Page 2, Line 40, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"貴女達に逢えたお陰で、\\.\\.\n"
+"幸いにして私は未だ、引き金を引いてはいない。"
+msgstr ""
+
+#. ID 2, Page 2, Line 46, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"まだ…\\|道は正せる筈…。\\|\\.\\.\\^"
+msgstr ""
+

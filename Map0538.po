@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 3, Pos (8,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"シャル：\n"
+"出発する？"
+msgstr ""
+
+#. ID 6, Page 1, Line 5, Pos (8,8)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 5, Pos (10,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 7, Page 1, Line 3, Pos (10,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"リーナ：\n"
+"出発します？"
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (15,10)
+msgid ""
+"ユアン：\n"
+"決起集会は成功しちまったが、\n"
+"ゲオルク側にまだ目立った動きは無い…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 6, Pos (15,10)
+msgid ""
+"ユアン：\n"
+"あの野郎、どんな手を仕掛けて来るんだろうな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 4, Pos (5,13)
+msgid ""
+"ヴェーネ：\n"
+"解放戦争…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 6, Pos (5,13)
+msgid ""
+"ヴェーネ：\n"
+"これ以上、何者もゲオルクに屠られる事など\n"
+"在ってはならないのに…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 13, Pos (5,13)
+msgid ""
+"ヴェーネ：\n"
+"私なら本当に大丈夫。\\|心配しないで。"
+msgstr ""
+
+#. ID 11, Page 1, Line 4, Pos (6,23)
+msgid ""
+"レイク：\n"
+"ったく、敵が多過ぎるぜ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 6, Pos (6,23)
+msgid ""
+"レイク：\n"
+"どいつもこいつも…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 12, Pos (6,23)
+msgid ""
+"レイク：\n"
+"俺もツイてないぜ。\n"
+"あんな勝手な奴の息子に生まれちまうとはな。"
+msgstr ""
+
+#. ID 13, Page 1, Line 3, Pos (16,22)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 3, Pos (11,10)
+msgid ""
+"ドリス：\n"
+"ワタシ、ヒコウセンってイマまで\n"
+"乗ったコト無かったの。"
+msgstr ""
+
+#. ID 14, Page 1, Line 6, Pos (11,10)
+msgid ""
+"ドリス：\n"
+"ソラを飛ぶのって、とってもキモチイイね。"
+msgstr ""
+
+#. ID 15, Page 1, Line 3, Pos (13,16)
+msgid ""
+"ヤンシー：\n"
+"この道の先に、\n"
+"果たして何が待っているのかしら…。"
+msgstr ""
+

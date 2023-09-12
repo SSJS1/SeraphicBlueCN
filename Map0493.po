@@ -1,0 +1,695 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 5, Pos (0,0)
+msgid ""
+"\n"
+" ドリス･シュテンダルの魔力暴発事故に関する報告書"
+msgstr ""
+
+#. ID 4, Page 1, Line 7, Pos (0,0)
+msgid ""
+"現場：\n"
+"西地区第２号校舎脇の物陰"
+msgstr ""
+
+#. ID 4, Page 1, Line 9, Pos (0,0)
+msgid ""
+"当事者：\n"
+"・Ｓクラス学生ドリス･シュテンダル\n"
+"・Ａクラス学生３名"
+msgstr ""
+
+#. ID 4, Page 1, Line 12, Pos (0,0)
+msgid ""
+"経緯：\n"
+"Ａクラス学生３名がドリスに対して極めて悪辣な\n"
+"精神的圧力を掛け、これに依りドリスの魔力が\n"
+"暴発した。"
+msgstr ""
+
+#. ID 4, Page 1, Line 16, Pos (0,0)
+msgid ""
+"結果：\n"
+"Ａクラス学生３名が即死(完全消滅)。"
+msgstr ""
+
+#. ID 4, Page 1, Line 18, Pos (0,0)
+msgid ""
+"結果：\n"
+"ドリスに於いては外傷無し。但し精神にダメージを\n"
+"負った為、直ちに掛かり付けのカウンセラーに依る\n"
+"ケアを行った。"
+msgstr ""
+
+#. ID 4, Page 1, Line 22, Pos (0,0)
+msgid ""
+"処分：\n"
+"Ａクラス学生３名を、重度規則違反及び暴行未遂に依り\n"
+"本人死亡のまま退学処分。"
+msgstr ""
+
+#. ID 4, Page 1, Line 25, Pos (0,0)
+msgid ""
+"処分：\n"
+"またドリスに関してはアカデミー規約に依って\n"
+"一切の過失は無し。"
+msgstr ""
+
+#. ID 4, Page 1, Line 28, Pos (0,0)
+msgid ""
+"処分：\n"
+"精神が回復次第、通常の生活に復帰する。"
+msgstr ""
+
+#. ID 4, Page 1, Line 36, Pos (0,0)
+msgid ""
+"学長：\n"
+"もう大丈夫なのか、ドリス？"
+msgstr ""
+
+#. ID 4, Page 1, Line 41, Pos (0,0)
+#. ID 4, Page 2, Line 85, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"うん…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"学長。\\.\\.今回の件は…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 50, Pos (0,0)
+msgid ""
+"学長：\n"
+"うむ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 57, Pos (0,0)
+msgid ""
+"学長：\n"
+"このフェジテ魔法アカデミーは国内最高峰、\n"
+"才能溢れる者達の集う場所だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 60, Pos (0,0)
+msgid ""
+"学長：\n"
+"しかしその多くは10代という、\n"
+"或いは人生で最も不安定な年齢の若人達。"
+msgstr ""
+
+#. ID 4, Page 1, Line 63, Pos (0,0)
+msgid ""
+"学長：\n"
+"当然、その溢れる才能を自分の\"もの\"にしている\n"
+"－完全な自身の制御下に置いている－者は少ない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 66, Pos (0,0)
+msgid ""
+"学長：\n"
+"故に、時として自分の魔力を制御し切れず、\n"
+"魔力暴発という事故が起こる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 69, Pos (0,0)
+msgid ""
+"学長：\n"
+"だからこそ、我がアカデミーには\n"
+"この様な規約が設けられている。"
+msgstr ""
+
+#. ID 4, Page 1, Line 75, Pos (0,0)
+msgid ""
+"学長：\n"
+"魔力暴発を未然に防ぐ為、全ての学生の精神を\n"
+"意図的に圧迫する事を固く禁ずる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 78, Pos (0,0)
+msgid ""
+"学長：\n"
+"またこれに違反して事故が発生した場合、\n"
+"その事故責任は圧迫者に付され、暴発者とアカデミーは\n"
+"一切の責任を負わないものとする。"
+msgstr ""
+
+#. ID 4, Page 1, Line 88, Pos (0,0)
+msgid ""
+"学長：\n"
+"調査の結果、今回の件は\n"
+"この規約に該当する物で在ると認定された。"
+msgstr ""
+
+#. ID 4, Page 1, Line 91, Pos (0,0)
+msgid ""
+"学長：\n"
+"依ってドリス。\\.\\.\n"
+"君に一切の責任は無い。"
+msgstr ""
+
+#. ID 4, Page 1, Line 94, Pos (0,0)
+msgid ""
+"学長：\n"
+"今後も変わらず学業に励んで呉れ給え。"
+msgstr ""
+
+#. ID 4, Page 1, Line 100, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]分かり…\\|ました…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 105, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"如何したの…？\\.\\.\n"
+"何だか元気が無いけれど…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 108, Pos (0,0)
+msgid ""
+"学長：\n"
+"やはりまだケアが不十分だったか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 110, Pos (0,0)
+msgid ""
+"学長：\n"
+"ならば無理して復帰する事は無いぞ。\\.\\.\n"
+"傷を癒す事に専念するべきだ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 116, Pos (0,0)
+#. ID 4, Page 1, Line 188, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 121, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]そうじゃない…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 126, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]だってワタシ…。\\|\n"
+"ヒトをコロしちゃった…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 133, Pos (0,0)
+msgid ""
+"学長：\n"
+"ドリス、\\.\\.君は優しい子だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でもドリス。\\.\\.\n"
+"貴女は何も悪くないのよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"彼らは言ってみれば、\n"
+"ダイナマイトに勝手に火の粉を降り掛けて、\n"
+"そして勝手に自爆して死んだだけ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 142, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"貴女は誰も殺してはいない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 147, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]なんか、\\.\\.ウソっぽい…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 149, Pos (0,0)
+msgid ""
+"学長：\n"
+"嘘ではないとも。"
+msgstr ""
+
+#. ID 4, Page 1, Line 151, Pos (0,0)
+msgid ""
+"学長：\n"
+"この世には踏み込んではならぬ領域が存在し、\n"
+"其処に踏み込んだ彼らに罰が下された。"
+msgstr ""
+
+#. ID 4, Page 1, Line 154, Pos (0,0)
+msgid ""
+"学長：\n"
+"幾らその行為が\"若気の至り\"で在ろうと、\n"
+"それは免罪符を意味しないのだからな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 157, Pos (0,0)
+msgid ""
+"学長：\n"
+"そして君は偶然に、\n"
+"彼らに罰を与える執行者として選ばれた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 160, Pos (0,0)
+msgid ""
+"学長：\n"
+"それだけの事だ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 165, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]でもコロすコトなんか…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 167, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"良いのよ、\\.\\.ドリス。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 169, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"あんなテロリズムの糞餓鬼が数名死んだ所で、\n"
+"然したる損失ではないわ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 172, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"貴女は一切の罪を問われず、\n"
+"今後その力の行使を憚る必要も無い。"
+msgstr ""
+
+#. ID 4, Page 1, Line 178, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"全ては既に過ぎ去り、\\.\\.終わった事。"
+msgstr ""
+
+#. ID 4, Page 1, Line 180, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"此処からは気持ちを新たに、\n"
+"今までと何も変わらぬ日々を始めるのよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 183, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"分かった？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 193, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]分かった…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 201, Pos (0,0)
+msgid ""
+"学長：\n"
+"しかしながら今回の件は、\n"
+"既に学内中に知れ渡る所と成ってしまった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 204, Pos (0,0)
+msgid ""
+"学長：\n"
+"増して此処は、\n"
+"未だ大人ではない若人＜こども＞達が集う…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 207, Pos (0,0)
+msgid ""
+"学長：\n"
+"否、\\.\\.この場合大人か否かは関係無いか…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 212, Pos (0,0)
+msgid ""
+"学長：\n"
+"何れにせよ、\"心無い言葉\"でドリスを謗る者は\n"
+"少なからず出て来るだろう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 215, Pos (0,0)
+msgid ""
+"学長：\n"
+"ならばヴェーネ、\\.\\.君はドリスと最も親しい人間だと\n"
+"カウンセラーから聞いているが…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 218, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ええ、\\.\\.その点は。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 223, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ドリスは、\\.\\.私が守ります。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 5, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ヴェーネおネエちゃんが、オーグに…？"
+msgstr ""
+
+#. ID 4, Page 2, Line 7, Pos (0,0)
+msgid ""
+"学長：\n"
+"本当は緘口令が出されているのだがな。"
+msgstr ""
+
+#. ID 4, Page 2, Line 12, Pos (0,0)
+msgid ""
+"学長：\n"
+"この天使王都アニタの郊外に在る\n"
+"C.M.G.C.居住施設ミネルヴァ。"
+msgstr ""
+
+#. ID 4, Page 2, Line 15, Pos (0,0)
+msgid ""
+"学長：\n"
+"君も一緒に行った事が在るだろう。"
+msgstr ""
+
+#. ID 4, Page 2, Line 17, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"うん…。\\.\\.いつもイリグチでおわかれ…。"
+msgstr ""
+
+#. ID 4, Page 2, Line 19, Pos (0,0)
+msgid ""
+"学長：\n"
+"その居住施設が先週末、オーグに依って襲撃され、\n"
+"特別棟に居たヴェーネが拉致されたのだ。"
+msgstr ""
+
+#. ID 4, Page 2, Line 22, Pos (0,0)
+msgid ""
+"学長：\n"
+"事件の少し後、モーガン\"前\"委員長から\n"
+"私に直々の連絡が在った。"
+msgstr ""
+
+#. ID 4, Page 2, Line 28, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 33, Pos (0,0)
+msgid ""
+"学長：\n"
+"ヴェーネは君の唯一の友人で在ったからな。\\|\n"
+"その意味では非常に残念な結果だ。"
+msgstr ""
+
+#. ID 4, Page 2, Line 36, Pos (0,0)
+msgid ""
+"学長：\n"
+"だが案ずる事は無い。\\.\\.\n"
+"この私は常に君の味方だ。"
+msgstr ""
+
+#. ID 4, Page 2, Line 39, Pos (0,0)
+msgid ""
+"学長：\n"
+"今後の生活で\"理不尽な不便\"が在った場合は、\n"
+"独りで抱え込まず私に言いなさい。"
+msgstr ""
+
+#. ID 4, Page 2, Line 42, Pos (0,0)
+msgid ""
+"学長：\n"
+"必ずや\"善処\"しよう。"
+msgstr ""
+
+#. ID 4, Page 2, Line 47, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ありがとう…。\\|でも…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 49, Pos (0,0)
+msgid ""
+"学長：\n"
+"何かな？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 54, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"これは、ザンネンなケッカじゃない…。"
+msgstr ""
+
+#. ID 4, Page 2, Line 56, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"だっておネエちゃん、\\.\\.\n"
+"おウチにカエれたんだから。"
+msgstr ""
+
+#. ID 4, Page 2, Line 59, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ユアンっていうヒトのところ。"
+msgstr ""
+
+#. ID 4, Page 2, Line 64, Pos (0,0)
+#. ID 4, Page 3, Line 19, Pos (0,0)
+msgid ""
+"学長：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 72, Pos (0,0)
+msgid ""
+"学長：\n"
+"\"片翼\"と\"片翼\"が手を取り合った。"
+msgstr ""
+
+#. ID 4, Page 2, Line 74, Pos (0,0)
+msgid ""
+"学長：\n"
+"私個人としては、\\.\\.これが最良だと思う。"
+msgstr ""
+
+#. ID 4, Page 2, Line 82, Pos (0,0)
+msgid ""
+"学長：\n"
+"ところでドリス。\\.\\.\n"
+"君は嘗て契約金を全額母親に譲渡したそうだな？"
+msgstr ""
+
+#. ID 4, Page 2, Line 92, Pos (0,0)
+msgid ""
+"学長：\n"
+"君の御母さんが、\n"
+"この前王都に来ていたらしい。"
+msgstr ""
+
+#. ID 4, Page 2, Line 95, Pos (0,0)
+msgid ""
+"学長：\n"
+"人気ブランドの最新モデルの服に身を包んでな。"
+msgstr ""
+
+#. ID 4, Page 2, Line 100, Pos (0,0)
+msgid ""
+"学長：\n"
+"ドリス。\\.\\.君は優し過ぎる。"
+msgstr ""
+
+#. ID 4, Page 2, Line 102, Pos (0,0)
+msgid ""
+"学長：\n"
+"不幸にもそれが人を腐らせ、\n"
+"引き換えに君自身をも壊している。"
+msgstr ""
+
+#. ID 4, Page 2, Line 105, Pos (0,0)
+msgid ""
+"学長：\n"
+"だから私は、\\.\\.君の無限の才能に依らずとも、\\.\\.\n"
+"君を放ってはおけないのだよ。"
+msgstr ""
+
+#. ID 4, Page 2, Line 113, Pos (0,0)
+msgid ""
+"学長：\n"
+"もっと利己的に成りなさい。"
+msgstr ""
+
+#. ID 4, Page 2, Line 115, Pos (0,0)
+msgid ""
+"学長：\n"
+"もっと声を上げなさい。"
+msgstr ""
+
+#. ID 4, Page 2, Line 117, Pos (0,0)
+msgid ""
+"学長：\n"
+"君の思う自らの幸せを、\n"
+"他人に見える形で描いてみなさい。"
+msgstr ""
+
+#. ID 4, Page 2, Line 125, Pos (0,0)
+msgid ""
+"学長：\n"
+"私から君への、ちょっとした課題だ。"
+msgstr ""
+
+#. ID 4, Page 2, Line 127, Pos (0,0)
+msgid ""
+"学長：\n"
+"期限も無ければ、\n"
+"レポートの必要も無いがね。"
+msgstr ""
+
+#. ID 4, Page 3, Line 5, Pos (0,0)
+msgid ""
+"学長：\n"
+"それは本当なのか？"
+msgstr ""
+
+#. ID 4, Page 3, Line 7, Pos (0,0)
+msgid ""
+"職員：\n"
+"間違い在りません。\n"
+"モーガン･ダグラスからの通達です。"
+msgstr ""
+
+#. ID 4, Page 3, Line 10, Pos (0,0)
+msgid ""
+"職員：\n"
+"ドリスはグラウンドにてパーソンと接触し\n"
+"当国への反乱を企てた重罪人で在る。"
+msgstr ""
+
+#. ID 4, Page 3, Line 13, Pos (0,0)
+msgid ""
+"職員：\n"
+"依って彼女の身柄を拘束、\n"
+"法の下に厳重なる処罰を与えるものとする。"
+msgstr ""
+
+#. ID 4, Page 3, Line 21, Pos (0,0)
+msgid ""
+"学長：\n"
+"成る程…。\\.\\.そういう魂胆か…。"
+msgstr ""
+
+#. ID 4, Page 3, Line 26, Pos (0,0)
+msgid ""
+"職員：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 3, Line 28, Pos (0,0)
+msgid ""
+"学長：\n"
+"否、何でもない。\\|\n"
+"もう下がって良いぞ。"
+msgstr ""
+
+#. ID 4, Page 3, Line 31, Pos (0,0)
+msgid ""
+"職員：\n"
+"それでは失礼します。"
+msgstr ""
+
+#. ID 4, Page 3, Line 42, Pos (0,0)
+msgid ""
+"学長：\n"
+"ヴェーネを求めるドリスの心…。\\|\n"
+"ドリスを気遣うヴェーネの心…。"
+msgstr ""
+
+#. ID 4, Page 3, Line 45, Pos (0,0)
+msgid ""
+"学長：\n"
+"撚り合った糸が、切っても切れぬ係累として、\n"
+"二人を放ってはおかない。"
+msgstr ""
+
+#. ID 4, Page 3, Line 48, Pos (0,0)
+msgid ""
+"学長：\n"
+"しかしそれを釣り糸に天使＜セラフィックブルー＞を\n"
+"釣り上げようとは…。"
+msgstr ""
+
+#. ID 4, Page 3, Line 54, Pos (0,0)
+msgid ""
+"学長：\n"
+"モーガンよ。\\.\\.\n"
+"須らく滅びるが良い。"
+msgstr ""
+
+#. ID 4, Page 3, Line 57, Pos (0,0)
+msgid ""
+"学長：\n"
+"貴様はこの奸計に於いて、\n"
+"期せず大物の外道を釣り上げ…。"
+msgstr ""
+
+#. ID 4, Page 3, Line 60, Pos (0,0)
+msgid ""
+"学長：\n"
+"その外道の猛き牙にて、\n"
+"喉を食い千切られるだろう。"
+msgstr ""
+
+#. ID 4, Page 3, Line 66, Pos (0,0)
+msgid ""
+"学長：\n"
+"そう、\\.\\.貴様が世界を屠る牙を\n"
+"気取ると言うのならば…。"
+msgstr ""
+
+#. ID 4, Page 3, Line 69, Pos (0,0)
+msgid ""
+"学長：\n"
+"彼女達は、\\.\\.か弱き存在を守る魂の牙なのだ。"
+msgstr ""
+
+#. ID 4, Page 3, Line 74, Pos (0,0)
+msgid ""
+"学長：\n"
+"ドリスよ。\\|如何か無事で。"
+msgstr ""
+
+#. ID 4, Page 3, Line 76, Pos (0,0)
+msgid ""
+"学長：\n"
+"君は絶対に、\\.\\.\n"
+"此処で終わってはいけないのだ…。"
+msgstr ""
+

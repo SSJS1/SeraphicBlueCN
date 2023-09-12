@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 15, Pos (1,8)
+msgid "※通路が封鎖されている。"
+msgstr ""
+
+#. ID 5, Page 1, Line 7, Pos (8,2)
+msgid ""
+"職員：\n"
+"来たわねルシファー！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 9, Pos (8,2)
+msgid ""
+"職員：\n"
+"言っとくけど、私に手を出したら\n"
+"タダじゃ済まないわよ！"
+msgstr ""
+
+#. ID 5, Page 1, Line 12, Pos (8,2)
+msgid ""
+"職員：\n"
+"通信カラテ歴半年の私の技、受けてみなさい！"
+msgstr ""
+
+#. ID 5, Page 1, Line 17, Pos (8,2)
+msgid ""
+"職員：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 22, Pos (8,2)
+msgid ""
+"職員：\n"
+"何だ、救助の人…。\\|\n"
+"まったく紛らわしい…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 25, Pos (8,2)
+msgid ""
+"職員：\n"
+"はい、これ。\\.\\.\n"
+"北西通路のカードキー。"
+msgstr ""
+
+#. ID 5, Page 1, Line 28, Pos (8,2)
+msgid ""
+"職員：\n"
+"それじゃあ、後はお願いね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 38, Pos (8,2)
+msgid ""
+"\\N[1]：\n"
+"\\S[20]………。\\^"
+msgstr ""
+

@@ -1,0 +1,578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 2, Line 15, Pos (0,10)
+msgid ""
+"レイク：\n"
+"何だ？ \\|鍵がかかってるぞ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 17, Pos (0,10)
+msgid ""
+"フォクシー：\n"
+"もう葬儀屋に出かけたんじゃないの？"
+msgstr ""
+
+#. ID 2, Page 2, Line 19, Pos (0,10)
+msgid ""
+"レイク：\n"
+"まさか。"
+msgstr ""
+
+#. ID 2, Page 2, Line 28, Pos (0,10)
+msgid ""
+"レイク：\n"
+"おい、誰もいないのか！"
+msgstr ""
+
+#. ID 2, Page 2, Line 33, Pos (0,10)
+msgid ""
+"ハウゼンの声：\n"
+"何者だ。名を名乗れ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 35, Pos (0,10)
+msgid ""
+"レイク：\n"
+"俺だ、レイクだ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 37, Pos (0,10)
+msgid ""
+"ハウゼンの声：\n"
+"本当にレイクなのか？"
+msgstr ""
+
+#. ID 2, Page 2, Line 43, Pos (0,10)
+msgid ""
+"フォクシー：\n"
+"なあ、本当にアンタの連れなのかい？"
+msgstr ""
+
+#. ID 2, Page 2, Line 45, Pos (0,10)
+msgid ""
+"レイク：\n"
+"一応な。"
+msgstr ""
+
+#. ID 2, Page 2, Line 48, Pos (0,10)
+msgid ""
+"レイク：\n"
+"おい、人がケイオスから生還したのにこの扱いかよ！"
+msgstr ""
+
+#. ID 2, Page 2, Line 50, Pos (0,10)
+msgid ""
+"レイク：\n"
+"労うどころか締め出しやがって！"
+msgstr ""
+
+#. ID 2, Page 2, Line 52, Pos (0,10)
+msgid ""
+"ミネルヴァの声：\n"
+"ちょっとハウゼン。開けてあげれば？"
+msgstr ""
+
+#. ID 2, Page 2, Line 54, Pos (0,10)
+msgid ""
+"ハウゼンの声：\n"
+"しかしミネルヴァ様。奴らの手先かもしれません。"
+msgstr ""
+
+#. ID 2, Page 2, Line 59, Pos (0,10)
+msgid ""
+"フォクシー：\n"
+"変な連れだね。"
+msgstr ""
+
+#. ID 2, Page 2, Line 61, Pos (0,10)
+msgid ""
+"レイク：\n"
+"ちょっとな。"
+msgstr ""
+
+#. ID 2, Page 2, Line 66, Pos (0,10)
+msgid ""
+"ハウゼンの声：\n"
+"おい、レイクだと証明できる何かを示してみろ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 71, Pos (0,10)
+msgid ""
+"レイク：\n"
+"やれやれ…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 73, Pos (0,10)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 75, Pos (0,10)
+msgid ""
+"レイク：\n"
+"綺麗な場所に留まる時は終わったぞ！"
+msgstr ""
+
+#. ID 2, Page 2, Line 77, Pos (0,10)
+msgid ""
+"レイク：\n"
+"全てを凌駕する美しさを手に入れなくていいのか！"
+msgstr ""
+
+#. ID 2, Page 2, Line 82, Pos (0,10)
+msgid ""
+"ハウゼン：\n"
+"いいだろう、入れ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 88, Pos (0,10)
+msgid ""
+"フォクシー：\n"
+"いっそケイオスに住み着く？"
+msgstr ""
+
+#. ID 2, Page 2, Line 90, Pos (0,10)
+msgid ""
+"レイク：\n"
+"考えとくぜ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"如何思う？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"と申されますと？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 17, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"レイクよ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"確かに、変な男では在りますね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"特にガイアキャンサーの知識が皆無だというのは\n"
+"非常に驚かされました。"
+msgstr ""
+
+#. ID 6, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"エンデの事こそトップシークレットでしたが、\n"
+"その他基本的な事項は大々的に広報した物ですから。"
+msgstr ""
+
+#. ID 6, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"それを知らないなどとは、余程無頓着…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうじゃないわよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 37, Pos (0,0)
+#. ID 6, Page 1, Line 205, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼、\\.\\.エンデとの話の中で言ったのよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ラウレンティアって。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"まさか、ラウレンティア･ポイント…！"
+msgstr ""
+
+#. ID 6, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"他に思い当たらないわ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 55, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"それではレイクは…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"恐らく。\\.\\.私も信じ難い気持ちで一杯だけれど。"
+msgstr ""
+
+#. ID 6, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"しかし、\\.\\.何故パーソンが此処に…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"可能性が在るとすれば\n"
+"ポートからの物資搬入に紛れた密入者ですが…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"在り得ないわ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"フェジテの事を認知しているのは\n"
+"\"彼ら\"だけなのよ？"
+msgstr ""
+
+#. ID 6, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"そうですね。\\.\\.如何見ても彼はそんなポストに在る\n"
+"人間とは思えませんし…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 75, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"しかしだとすれば、\\.\\.一体彼は…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 81, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"私は、\\.\\.\"本体\"だと思う。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"そんな馬鹿な…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"い、\\.\\.否…\\|申し訳御座いません…。\\|\n"
+"御無礼を…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 91, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"良いのよ。\\.\\.\n"
+"私だって突飛な考えだと思ってる。"
+msgstr ""
+
+#. ID 6, Page 1, Line 97, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"でも彼は、エンデと因縁を持っていた。"
+msgstr ""
+
+#. ID 6, Page 1, Line 99, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"さっきの二人の話を聞いた限りでは…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"エンデは既に２つのガイアキャンサー、\n"
+"イルムガルトとオルトルートをぶつけている。"
+msgstr ""
+
+#. ID 6, Page 1, Line 104, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"実行者が自ら率先して、\\.\\.しかもそんな\"武器\"まで\n"
+"持ち出して潰しに掛かる存在と言えば…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 107, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"セラフィックブルー…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 109, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"既に第一片翼と第二片翼が確認されている以上、\n"
+"残るのは本体だけ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 112, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"何の由縁で此処に居るのかは謎だけれど。"
+msgstr ""
+
+#. ID 6, Page 1, Line 117, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"何という事だ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"まるで運命よね。\\.\\.\n"
+"ガイアが引き合わせてるみたい。"
+msgstr ""
+
+#. ID 6, Page 1, Line 126, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"しかし、そう成ると私達は如何すれば…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 128, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"如何すればって？"
+msgstr ""
+
+#. ID 6, Page 1, Line 130, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"私達は立場上では、彼をC.M.G.C.のセクションSBに\n"
+"引き渡さなくてはなりません。"
+msgstr ""
+
+#. ID 6, Page 1, Line 133, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"それがこのまま旅を続ければ、\\.\\.\n"
+"彼をオーグに送り届ける形に成るのですぞ？"
+msgstr ""
+
+#. ID 6, Page 1, Line 136, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"選りにも選って、オーグに…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 141, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"でも、\\.\\.それが一番だと思う。"
+msgstr ""
+
+#. ID 6, Page 1, Line 143, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"貴方だって、本当はそう思うでしょう？"
+msgstr ""
+
+#. ID 6, Page 1, Line 148, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そもそも関係悪化の元凶はチーム･アンスバッハ、\n"
+"もといジークベルトじゃない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 153, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼の行き過ぎた方針の所為で、結局最後はユアンが\n"
+"ヴェーネを\"奪還\"する形に成ったのだから。"
+msgstr ""
+
+#. ID 6, Page 1, Line 156, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"\"拉致\"なのでは？"
+msgstr ""
+
+#. ID 6, Page 1, Line 158, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"書類上ではね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 163, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"兎に角、\\.\\.彼をC.M.G.C.に渡すなんて私は反対よ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 165, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"毒を食らわば皿まで、\\.\\.ですか…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 167, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"この期に及んであそこでの立場を気にするなんて\n"
+"ナンセンスだわ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 173, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"それでは、彼への告知も…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 175, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それは私達の役目じゃないわ。\\|\n"
+"然るべき人物から、然るべき形で。"
+msgstr ""
+
+#. ID 6, Page 1, Line 178, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうでなければ、\\.\\.きっと嘘に成る。"
+msgstr ""
+
+#. ID 6, Page 1, Line 184, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"ミネルヴァ様。\\.\\.\n"
+"少し変わられましたね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 187, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"堅さが取れたと言うか、\\.\\.放埓に成ったと言うか…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 189, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"不満？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 191, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"まさか。\\.\\.前よりも力強くていらっしゃる。"
+msgstr ""
+
+#. ID 6, Page 1, Line 193, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"この街に来て正解でした。"
+msgstr ""
+
+#. ID 6, Page 1, Line 198, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"でも、今の事を全部話したら\n"
+"連中は爆発するわね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 201, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"間違い無く。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 203, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"だから良い事、ハウゼン？"
+msgstr ""
+
+#. ID 6, Page 1, Line 207, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"私達はイカルイでレイクという旅人に出会い、\n"
+"その後の旅の助力をして頂きました。"
+msgstr ""
+
+#. ID 6, Page 1, Line 210, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そして共にルートフォードの\n"
+"オーグ本部へ行きました。"
+msgstr ""
+
+#. ID 6, Page 1, Line 213, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ？ \\.\\.実は彼が本体だった？"
+msgstr ""
+
+#. ID 6, Page 1, Line 215, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"あら、\\.\\.そうなんですか。"
+msgstr ""
+
+#. ID 6, Page 1, Line 217, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"全然知りませんでした。"
+msgstr ""
+
+#. ID 6, Page 1, Line 222, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"はい。\\.\\.仰せの通りに御座います。"
+msgstr ""
+
+#. ID 6, Page 1, Line 224, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ＯＫ。\\.\\.もう寝ましょう。\\|\\^"
+msgstr ""
+

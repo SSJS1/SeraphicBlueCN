@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 67, Pos (1,0)
+msgid ""
+"ベネディクタ：\n"
+"此処は、星に刻まれし戦いの記憶が眠る場所…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 69, Pos (1,0)
+msgid ""
+"キャサリン：\n"
+"今一度過去の戦いを振り返り、\\|\n"
+"過去の戦いを見つめ直し、\\|\n"
+"そして未来を歩むべく糧とするならば…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 74, Pos (1,0)
+msgid ""
+"キャサリン：\n"
+"今一度過去の戦いを振り返り、\\|\n"
+"過去の戦いを見つめ直し、\\|そして未来を歩むべく\n"
+"更なる戦いへの糧とするならば…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 80, Pos (1,0)
+msgid ""
+"キャサリン：\n"
+"私達が、戦いの記憶を呼び覚ましましょう。"
+msgstr ""
+
+#. ID 8, Page 1, Line 389, Pos (9,8)
+msgid ""
+"\\>\\v[4963]　BTM\n"
+"\\>\\v[3887]　戦闘曲ＩＤ"
+msgstr ""
+
+#. ID 8, Page 1, Line 641, Pos (9,8)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：\\S[2]くそう！ \\|放せェ！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 644, Pos (9,8)
+msgid ""
+"\n"
+"\n"
+"レイク：誰が放すかよ！\\|\n"
+"てめえは俺の手で地獄に送ってやる！\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 4, Pos (9,8)
+#. ChangeHeroName (Actor 5)
+#. ID 8, Page 3, Line 9, Pos (9,8)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "バー 00"
+msgstr ""
+
+#. ID 8, Page 2, Line 8, Pos (9,8)
+#. ChangeHeroName (Actor 5)
+#. ID 8, Page 3, Line 13, Pos (9,8)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "バー 0"
+msgstr ""
+
+#. ID 8, Page 2, Line 11, Pos (9,8)
+#. ChangeHeroName (Actor 5)
+#. ID 8, Page 3, Line 16, Pos (9,8)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "バー "
+msgstr ""
+
+#. ID 8, Page 2, Line 39, Pos (9,8)
+#. ChangeHeroName (Actor 2)
+#. ID 8, Page 3, Line 22, Pos (9,8)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "戦いの記憶を"
+msgstr ""
+
+#. ID 8, Page 2, Line 40, Pos (9,8)
+#. ChangeHeroName (Actor 3)
+#. ID 8, Page 3, Line 23, Pos (9,8)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "呼び覚ます（"
+msgstr ""
+
+#. ID 8, Page 2, Line 41, Pos (9,8)
+#. ChangeHeroName (Actor 4)
+#. ID 8, Page 3, Line 24, Pos (9,8)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "エネミーナン"
+msgstr ""
+
+#. ID 8, Page 2, Line 43, Pos (9,8)
+#. Contains choice at line 2 (3 options)
+msgid "ベネディクタ：どうするの？"
+msgstr ""
+
+#. ID 8, Page 2, Line 44, Pos (9,8)
+#. Choice (3 options, embedded in a message)
+#. ID 8, Page 2, Line 61, Pos (9,8)
+#. Choice (3 options, embedded in a message)
+#. ID 8, Page 3, Line 27, Pos (9,8)
+#. Choice (3 options, embedded in a message)
+#. ID 8, Page 3, Line 44, Pos (9,8)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>\\n[2]\\n[3]\\n[4]\\n[5]\\v[8]）\n"
+"\\>状況設定\n"
+"\\>詳細説明"
+msgstr ""
+
+#. ID 8, Page 2, Line 60, Pos (9,8)
+#. Contains choice at line 2 (3 options)
+msgid "キャサリン：どうしますか？"
+msgstr ""
+
+#. ID 8, Page 2, Line 104, Pos (9,8)
+#. ChangeHeroName (Actor 2)
+#. ID 8, Page 3, Line 88, Pos (9,8)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "設定について"
+msgstr ""
+
+#. ID 8, Page 2, Line 106, Pos (9,8)
+#. Choice (3 options)
+#. ID 8, Page 3, Line 90, Pos (9,8)
+#. Choice (3 options)
+msgid ""
+"\\>詳細説明・概要と状況\\n[2]\n"
+"\\>詳細説明・補足\n"
+"\\>戻る"
+msgstr ""
+
+#. ID 8, Page 2, Line 108, Pos (9,8)
+#. ID 8, Page 3, Line 92, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・概要】　　　　　　　　　　　　1/4\\C[0]\n"
+"\\>言わばフリーバトルモードであり、\n"
+"\\>過去に登場した敵との再戦を行う事ができます。"
+msgstr ""
+
+#. ID 8, Page 2, Line 111, Pos (9,8)
+#. ID 8, Page 3, Line 95, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・状況設定】　　　　　　　　　　2/4\\C[0]\n"
+"\\>どの敵と戦うかは、「状況設定」項目の\n"
+"\\>「エネミーナンバー」から設定できます。"
+msgstr ""
+
+#. ID 8, Page 2, Line 114, Pos (9,8)
+#. ID 8, Page 3, Line 98, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・状況設定】　　　　　　　　　　3/4\\C[0]\n"
+"\\>「状況設定」では、敵の強さや\n"
+"\\>バトルメンバーのレベル、戦闘曲などを\n"
+"\\>細かく設定する事も可能です。"
+msgstr ""
+
+#. ID 8, Page 2, Line 118, Pos (9,8)
+#. ID 8, Page 3, Line 102, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・状況設定】　　　　　　　　　　4/4\\C[0]\n"
+"\\>更にこのマップでは、物語の中でパーティから離脱した\n"
+"\\>キャラクター達もパーティオーガナイズにて\n"
+"\\>バトルメンバーに加えられ、装備変更も行えます。"
+msgstr ""
+
+#. ID 8, Page 2, Line 125, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・補足】　　　　　　　　　　　　1/6\\C[0]\n"
+"\\>此処での戦闘では敗北しても\n"
+"\\>ゲームオーバーにはなりません。"
+msgstr ""
+
+#. ID 8, Page 2, Line 128, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・補足】　　　　　　　　　　　　2/6\\C[0]\n"
+"\\>此処での戦闘で使用したアイテムは、\n"
+"\\>戦闘が終了すれば戦闘前の所持数に戻ります。"
+msgstr ""
+
+#. ID 8, Page 2, Line 131, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・補足】　　　　　　　　　　　　3/6\\C[0]\n"
+"\\>此処での戦闘に勝利しても\n"
+"\\>EXPやディアなどは一切獲得できません。\n"
+"\\>（本来の獲得値自体は再現として表示されています）"
+msgstr ""
+
+#. ID 8, Page 2, Line 135, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・補足】　　　　　　　　　　　　4/6\\C[0]\n"
+"\\>エスケープコマンドは\n"
+"\\>「バトルエンド」というコマンドに変わっており、\n"
+"\\>これを選択すれば即座に戦闘を終了できます。"
+msgstr ""
+
+#. ID 8, Page 2, Line 139, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・補足】　　　　　　　　　　　　5/6\\C[0]\n"
+"\\>此処での戦闘内容は\n"
+"\\>プロファイルデータには一切影響しません。"
+msgstr ""
+
+#. ID 8, Page 2, Line 153, Pos (9,8)
+#. ChangeHeroName (Actor 2)
+#. ID 8, Page 3, Line 137, Pos (9,8)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ヴェーネ"
+msgstr ""
+
+#. ID 8, Page 2, Line 154, Pos (9,8)
+#. ChangeHeroName (Actor 3)
+#. ID 8, Page 3, Line 138, Pos (9,8)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ユアン"
+msgstr ""
+
+#. ID 8, Page 2, Line 155, Pos (9,8)
+#. ChangeHeroName (Actor 4)
+#. ID 8, Page 3, Line 139, Pos (9,8)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "ケイン"
+msgstr ""
+
+#. ID 8, Page 2, Line 156, Pos (9,8)
+#. ChangeHeroName (Actor 5)
+#. ID 8, Page 3, Line 140, Pos (9,8)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "ミネルヴァ"
+msgstr ""
+
+#. ID 8, Page 3, Line 26, Pos (9,8)
+#. Contains choice at line 2 (3 options)
+msgid "\\>ベネディクタ：どうするの？"
+msgstr ""
+
+#. ID 8, Page 3, Line 43, Pos (9,8)
+#. Contains choice at line 2 (3 options)
+msgid "\\>キャサリン：どうしますか？"
+msgstr ""
+
+#. ID 8, Page 3, Line 109, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・補足】　　　　　　　　　　　　1/5\\C[0]\n"
+"\\>此処での戦闘では敗北しても\n"
+"\\>ゲームオーバーにはなりません。"
+msgstr ""
+
+#. ID 8, Page 3, Line 112, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・補足】　　　　　　　　　　　　2/5\\C[0]\n"
+"\\>此処での戦闘で使用したアイテムは、\n"
+"\\>戦闘が終了すれば戦闘前の所持数に戻ります。"
+msgstr ""
+
+#. ID 8, Page 3, Line 115, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・補足】　　　　　　　　　　　　3/5\\C[0]\n"
+"\\>此処での戦闘に勝利しても\n"
+"\\>EXPやディアなどは一切獲得できません。\n"
+"\\>（本来の獲得値自体は再現として表示されています）"
+msgstr ""
+
+#. ID 8, Page 3, Line 119, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・補足】　　　　　　　　　　　　4/5\\C[0]\n"
+"\\>エスケープコマンドは\n"
+"\\>「バトルエンド」というコマンドに変わっており、\n"
+"\\>これを選択すれば即座に戦闘を終了できます。"
+msgstr ""
+
+#. ID 8, Page 3, Line 123, Pos (9,8)
+msgid ""
+"\\>\\C[10]【戦いの記憶・補足】　　　　　　　　　　　　5/5\\C[0]\n"
+"\\>此処での戦闘内容は\n"
+"\\>プロファイルデータには一切影響しません。"
+msgstr ""
+

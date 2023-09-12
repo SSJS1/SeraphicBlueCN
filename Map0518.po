@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 213, Pos (0,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "キャンセル（"
+msgstr ""
+
+#. ID 9, Page 1, Line 214, Pos (0,1)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "クリア後の"
+msgstr ""
+
+#. ID 9, Page 1, Line 215, Pos (0,1)
+#. Contains choice at line 2 (3 options)
+msgid "\\>\\c[10]【EXTボーナスメニュー】\\c[0]"
+msgstr ""
+
+#. ID 9, Page 1, Line 216, Pos (0,1)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>EXTボーナス説明･補足\n"
+"\\>EXTボーナス選択完了\n"
+"\\>クリア後の選択肢に戻る"
+msgstr ""
+
+#. ID 9, Page 1, Line 218, Pos (0,1)
+msgid ""
+"\\>\\C[10]【EXTボーナスについて】\\C[0]\n"
+"\\>ここでは、２周目以降の特典である\n"
+"\\>\\c[4]EXTension Bonus\\c[0] を\n"
+"\\>様々な種類の中から自由に取得出来ます。"
+msgstr ""
+
+#. ID 9, Page 1, Line 222, Pos (0,1)
+msgid ""
+"\\>\\C[10]【EXTボーナスについて】\\C[0]\n"
+"\\>いくつかのボーナスは、取得すると\n"
+"\\>プロファイルデータのスコア倍率補正が低下します。"
+msgstr ""
+
+#. ID 9, Page 1, Line 226, Pos (0,1)
+msgid ""
+"\\>\\C[10]【EXTボーナスについて】\\C[0]\n"
+"\\>多くのボーナスは、取得するとプロファイルデータの\n"
+"\\>スコアにプラスまたはマイナスの補正が掛かります。"
+msgstr ""
+
+#. ID 9, Page 1, Line 229, Pos (0,1)
+msgid ""
+"\\>\\C[10]【EXTボーナスについて】\\C[0]\n"
+"\\>なお取得したボーナスは\n"
+"\\>次回ここに来た時点で全て解除されます。"
+msgstr ""
+
+#. ID 9, Page 1, Line 234, Pos (0,1)
+msgid ""
+"\\>\\C[10]【EXTボーナスについて】\\C[0]\n"
+"\\>取得したボーナスは\n"
+"\\>次回ここに来た時点で全て解除されます。"
+msgstr ""
+
+#. ID 9, Page 1, Line 237, Pos (0,1)
+msgid ""
+"\\>\\C[10]【各メンバーの初期装備について】\\C[0]\n"
+"\\>各メンバーの初期装備は、\\C[10]アイテム引き継ぎ\\C[0]の\n"
+"\\>EXTボーナスを取得している場合のみ、\n"
+"\\>現時点での装備がそのまま引き継がれます。"
+msgstr ""
+
+#. ID 9, Page 1, Line 241, Pos (0,1)
+msgid ""
+"\\>\\C[10]【各メンバーの初期装備について】\\C[0]\n"
+"\\>１２人パーティでアイテムを引き継がなかった場合は、\n"
+"\\>メンバー全員に最低ランクの初期装備が用意されます。"
+msgstr ""
+
+#. ID 9, Page 1, Line 244, Pos (0,1)
+msgid ""
+"\\>\\C[10]【各メンバーの初期装備について】\\C[0]\n"
+"\\>１２人パーティの場合は、各メンバーが本来加入する\n"
+"\\>箇所までゲームを進めると、そのメンバーの\n"
+"\\>本来の初期装備品がアイテムに追加されます。"
+msgstr ""
+
+#. ID 9, Page 1, Line 256, Pos (0,1)
+#. ChangeHeroName (Actor 2)
+#. ID 9, Page 1, Line 281, Pos (0,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ヴェーネ"
+msgstr ""
+
+#. ID 9, Page 1, Line 257, Pos (0,1)
+#. ChangeHeroName (Actor 3)
+#. ID 9, Page 1, Line 282, Pos (0,1)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ユアン"
+msgstr ""
+

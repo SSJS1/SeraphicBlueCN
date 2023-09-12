@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 20, Page 1, Line 6, Pos (186,90)
+msgid ""
+"ミネルヴァ：\n"
+"先にエンヴィに行くのよ。こっちはその後。"
+msgstr ""
+
+#. ID 24, Page 1, Line 12, Pos (144,73)
+msgid ""
+"ミネルヴァ：\n"
+"大分進んだわね。\\|\n"
+"今日はこの辺でキャンプにしない？"
+msgstr ""
+

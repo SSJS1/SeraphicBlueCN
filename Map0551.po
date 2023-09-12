@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 7, Pos (0,0)
+msgid ""
+"女の子：\n"
+"\\S[2]ひぃっ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 10, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"さーて。\\.\\.高い所は怖いかナ？"
+msgstr ""
+
+#. ID 3, Page 1, Line 12, Pos (0,0)
+msgid ""
+"女の子：\n"
+"\\S[2]怖い…！ \\|怖いよぉ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 15, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]御願い…！ \\|やめてェ…!!\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 17, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"エンデ!! \\.\\.てめえーッ!!\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 20, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"これからキミは、\\.\\.\n"
+"此処から落とされて死ぬんだよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 23, Pos (0,0)
+msgid ""
+"女の子：\n"
+"\\S[2]いや…！ \\|死にたくないよぉ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 25, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"大好きなパパとママにも会えなく成るんだよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 27, Pos (0,0)
+msgid ""
+"女の子：\n"
+"ヤダァァァッ!!\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (0,0)
+msgid ""
+"女の子：\n"
+"パパ！ \\|ママ！ \\|助けてェ!!\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 32, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]ヒャァ…！ \\|たまんねェ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 35, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"おーい、下の方。\\.\\.\n"
+"\"雨\"に気を付けな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 38, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"コイツ、ションベン漏らしやがった。"
+msgstr ""
+
+#. ID 3, Page 1, Line 40, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"次はクソが降るぜー！"
+msgstr ""
+
+#. ID 3, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"野郎\\S[2]ォォォ…!!\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 46, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ヒヒッ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 52, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"おらァ！ \\.\\.もっと泣け！ \\.\\.わめけ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 54, Pos (0,0)
+msgid ""
+"女の子：\n"
+"ウワ\\S[2]ァァァァッ!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 56, Pos (0,0)
+msgid ""
+"女の子：\n"
+"怖い！ \\|怖いよーッ!!\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 58, Pos (0,0)
+msgid ""
+"女の子：\n"
+"死にたくないよーッ!!\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 61, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]最高だァ…！\\|\n"
+"ゾクゾクするぜッ…！\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 64, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]今にもイッちまいそうだ…！\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 67, Pos (0,0)
+msgid ""
+"女の子：\n"
+"ウワ\\S[2]ァァァァァン!!\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 69, Pos (0,0)
+msgid ""
+"女の子：\n"
+"アアア\\S[2]ァァァァァァァッ!!\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 72, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]へへッ…。\\.\\.\n"
+"こんなエクスタシーは滅多に無いぜ…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 75, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]能く楽しませて呉れた…。\\.\\.\n"
+"やっぱ最高の素材だよな…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 79, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]さあ、\\.\\.今楽にしてやるよ。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 81, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"やめろーッ!!\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 83, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[5]あ…！ \\|あァ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 86, Pos (0,0)
+msgid ""
+"女の子：\n"
+"\\S[2]グスッ…！ \\|エグッ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 89, Pos (0,0)
+msgid ""
+"女の子：\n"
+"\\S[2]楽に…\\.\\.するって…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 91, Pos (0,0)
+msgid ""
+"女の子：\n"
+"\\S[2]助けて…\\.\\.くれるの…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 94, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ふふん…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 97, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]死んじゃえ。\\|\\^"
+msgstr ""
+

@@ -1,0 +1,917 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 8, Pos (2,15)
+#. ID 3, Page 2, Line 37, Pos (2,15)
+#. ID 3, Page 2, Line 168, Pos (2,15)
+#. ID 3, Page 2, Line 225, Pos (2,15)
+#. ID 3, Page 2, Line 237, Pos (2,15)
+#. ID 3, Page 2, Line 337, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 15, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"\\S[20]………？\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 23, Pos (2,15)
+#. ID 3, Page 1, Line 50, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 36, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"悲しくないか？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 41, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"見たのね…。\\|\n"
+"まったく行儀の悪い…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 47, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"そのペンダントって、この前のアレ…。\\|\n"
+"家族の写真が入ってる…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 52, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"寂しそうな顔で、\n"
+"ボーっとしながら見詰めて…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 55, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"それで現場では日に３回以上ブチ切れる\n"
+"ヒステリー女＜オバサン＞か。"
+msgstr ""
+
+#. ID 3, Page 1, Line 61, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"何でだよ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 63, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"何だって其処まで自分を追い詰める？"
+msgstr ""
+
+#. ID 3, Page 1, Line 70, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"貴方には分からない事よ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 72, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"何故言い切れる？"
+msgstr ""
+
+#. ID 3, Page 1, Line 74, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"青二才だもの。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 82, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"ったく…。\\|何なんだよ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 84, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"若造やら、青二才やら。\\|\n"
+"何奴も此奴も人を上から見下ろしやがって。"
+msgstr ""
+
+#. ID 3, Page 1, Line 87, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"所詮俺には何も出来ないってか？\\|\n"
+"俺の言う事なんざ聞く価値も無いってか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 94, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"罪なのよ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 99, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"罪…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 101, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"総ては罪への赦しの為に。"
+msgstr ""
+
+#. ID 3, Page 1, Line 103, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"それを行動で示した結果が、このザマか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 105, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"あんたが何の罪を抱えてるか知らないけどさ、\n"
+"これで一体何が償える？"
+msgstr ""
+
+#. ID 3, Page 1, Line 111, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"\"償い\"ではないわ。\\|\"赦し\"よ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 113, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"遠き人への気持ちを込めて、それを行う。\\|\n"
+"それを償いと思う事で、自らは自らを赦す。"
+msgstr ""
+
+#. ID 3, Page 1, Line 116, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"他に道は無い。"
+msgstr ""
+
+#. ID 3, Page 1, Line 121, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"\\S[2]悲しいぜ…。\\|そいつは…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 127, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"やっぱり…\\.\\.貴方は若い。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 129, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"悲しみを\"悲しみ\"と思える気持ちが在る。\\|\n"
+"幸福歓喜との相対で認知する感情が在る。"
+msgstr ""
+
+#. ID 3, Page 1, Line 137, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"安心なさい。\\|\n"
+"貴方はきっと大丈夫。"
+msgstr ""
+
+#. ID 3, Page 1, Line 142, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"違う…。\\|俺が言ってるのは…。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 148, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"死ぬまで悟らない方が幸せなのよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 150, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"この世界は悲しみしか生み出さない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 152, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"空も、\\|大地も、\\|人も、\\|すべて。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 154, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"儚い生命が途中にどんな形を取った所で、\n"
+"結末は決して変わらない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 160, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"\\S[2]それが、\\.\\.私の罪。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 166, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"さっさと忘れなさい。\\|\n"
+"こんな碌でもないオトナの話など。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 174, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"そうだな…。\\|\n"
+"やっぱり俺は若造だよ…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 182, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"だがな、ハイディ。\\|\n"
+"部下イジメは程々にしとけよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 185, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"憎まれ役…\\|似合ってないぜ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 5, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"無事に初出勤を終えたみたいだな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 14, Pos (2,15)
+msgid ""
+"\n"
+"フョードル：\n"
+"ラージュ専用連絡用小型輸送機、\n"
+"ブルーウィング。"
+msgstr ""
+
+#. ID 3, Page 2, Line 18, Pos (2,15)
+msgid ""
+"\n"
+"フョードル：\n"
+"俺がデザインから設計までを一貫して担当した、\n"
+"渾身の逸品。"
+msgstr ""
+
+#. ID 3, Page 2, Line 22, Pos (2,15)
+msgid ""
+"\n"
+"フョードル：\n"
+"機動性を重視した性能も然る事ながら、\n"
+"この鳥をモチーフにしたフォルム。"
+msgstr ""
+
+#. ID 3, Page 2, Line 26, Pos (2,15)
+msgid ""
+"\n"
+"フョードル：\n"
+"鳥類図鑑を見ながら\n"
+"徹夜でデザインした甲斐が在ったぜ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 42, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"そう言えばハイディ、\n"
+"今頃如何してるんだろうな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 45, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"フェジテを裏切ってロビンに入ったのに、\n"
+"この局面でシーベックスに欠陥仕込んで行方不明。"
+msgstr ""
+
+#. ID 3, Page 2, Line 48, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"この前はこの前で、\n"
+"柄にも無く哀しそうな顔してたし…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 54, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"結局何だったんだろうな、あのヒト…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 60, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"それにしても、\\.\\.\n"
+"遂にフェジテとの最終決戦か…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 63, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"正直、しっくり来ないよな…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 68, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"確かにこのラージュはとんでもないバケモンだ。\\|\n"
+"フェジテに対しても勝算が在る。"
+msgstr ""
+
+#. ID 3, Page 2, Line 71, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"詰まりは劣等種パーソンが優良種セラパーソンに\n"
+"此処まで肉薄し、ともすれば凌駕出来るという事。"
+msgstr ""
+
+#. ID 3, Page 2, Line 74, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"この俺達の力が、\\.\\.確かに示された訳だ…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 79, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"なら当然か…。\\|\n"
+"俺とゲオルクは根本的に違うんだから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 82, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"俺にとってはラージュそのものが目的。\\|\n"
+"ラージュが力を示せば、それで満足。"
+msgstr ""
+
+#. ID 3, Page 2, Line 85, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"その後に続くフェジテとの戦いの事なんて、\n"
+"殆ど頭に無かった。"
+msgstr ""
+
+#. ID 3, Page 2, Line 91, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"俺はこの後、如何すれば良い…？"
+msgstr ""
+
+#. ID 3, Page 2, Line 93, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"このままゲオルクに付いてたら、\n"
+"俺も間違い無く戦犯だ…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 96, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"奴を見切る…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 103, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"出来るのか…？\\|\n"
+"やったとして逃げ切れるのか…？"
+msgstr ""
+
+#. ID 3, Page 2, Line 106, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"大体この居場所を捨てて、何処に行けば良い？"
+msgstr ""
+
+#. ID 3, Page 2, Line 111, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"畜生…。\\|\n"
+"俺の目的は、もう果たされたんだよ…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 114, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"俺は、別に戦争がしたかった訳じゃないんだよ…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 116, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"力を証明したかっただけなのに…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 121, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"\\S[2]俺は…\\|如何すれば…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 129, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"御悩みのようね。\\.\\.\n"
+"影に逃げ惑うジュヴナイルさん。"
+msgstr ""
+
+#. ID 3, Page 2, Line 135, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"ハイディ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 137, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"こんな所で何やってんだ！\\|\n"
+"ゲオルクにブッ殺されるぞ！"
+msgstr ""
+
+#. ID 3, Page 2, Line 143, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"フッ…。\\|その心配なら無用だわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 145, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"ゲオルクの敗北は、\n"
+"既に決まっているのだから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 148, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"はぁ…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 150, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"決まってるって…。\\|\n"
+"また何か細工したのか？"
+msgstr ""
+
+#. ID 3, Page 2, Line 153, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"いいえ。\\.\\.ゲオルクの自滅よ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 155, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"彼はこの決戦前に於いて、\n"
+"既に自ら\"勝利のカード\"を大地に捨ててしまった。"
+msgstr ""
+
+#. ID 3, Page 2, Line 158, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 160, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"貴方も切った方が無難よ。\\|\n"
+"その手の中の、ゲオルクという災禍のカード。"
+msgstr ""
+
+#. ID 3, Page 2, Line 163, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"彼の破滅に巻き込まれたくなかったら。"
+msgstr ""
+
+#. ID 3, Page 2, Line 170, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"逆襲の牙が怖い？"
+msgstr ""
+
+#. ID 3, Page 2, Line 172, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"別に…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 174, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"じゃあ、別の何かが怖いのかしら？"
+msgstr ""
+
+#. ID 3, Page 2, Line 176, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"例えば、\\.\\.此処まで歩いて来た道を寸断する行為。"
+msgstr ""
+
+#. ID 3, Page 2, Line 178, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 186, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"これでもラージュプロジェクトでは\n"
+"パートナーに似た関係を組んだ貴方と私。"
+msgstr ""
+
+#. ID 3, Page 2, Line 189, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"見ていれば、そんな事は分かるわよ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 194, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"追い立てられる事でしか歩く事の出来ない足。\\|\n"
+"己の道を騙ったかりそめの幻像。"
+msgstr ""
+
+#. ID 3, Page 2, Line 197, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"自分の意志で歩いている様に見せ掛けて、\n"
+"その実、レールの上を\"歩かされている\"だけ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 203, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"いい加減、そのレールを放棄して、\n"
+"自分の道を踏み出して御覧なさい。"
+msgstr ""
+
+#. ID 3, Page 2, Line 206, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"エリート意識と表裏一体に存在する、\n"
+"\"劣等で在る事\"への怖れ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 209, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"優等を目指して歩くのではなく、\n"
+"劣等から逃げ惑う行為。"
+msgstr ""
+
+#. ID 3, Page 2, Line 212, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"そんな自らの影にレールを敷いて貰っていても、\n"
+"生きているとは呼び難い。"
+msgstr ""
+
+#. ID 3, Page 2, Line 215, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"恐らくは過程に旅情も無く、\n"
+"薄暗く乾いた終着駅が待っているだけ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 218, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"改札の代わりに、\\.\\.嘆きと孤独の棺桶を用意して。"
+msgstr ""
+
+#. ID 3, Page 2, Line 220, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"例えばそれは、このラージュとか。"
+msgstr ""
+
+#. ID 3, Page 2, Line 230, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"決断しなさい。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 232, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"貴方には、\\.\\.まだ未来が在るのだから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 243, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"ああ…。\\|分かったよ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 249, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"俺は…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 257, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"っておい！ \\.\\.何処行くんだよ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 263, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"貴方は恵まれているわ。\\|\n"
+"同じ道への\"連れ\"が居るのだから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 266, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"連れ…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 274, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"おい…！ \\.\\.これって一体…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 279, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"ゲオルクの手には\n"
+"２枚の勝利のカードが在ったわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 282, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"内１枚はゲオルクが自ら捨てた。"
+msgstr ""
+
+#. ID 3, Page 2, Line 284, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"そしてもう１枚は、\\.\\.\n"
+"足が生えて勝手に去って行った。"
+msgstr ""
+
+#. ID 3, Page 2, Line 290, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"まあ、\\.\\.そういう事ね。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 294, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"待って呉れ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 301, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"あんたさっき言ったな？\\|\n"
+"\"俺には\"まだ未来が在るって？"
+msgstr ""
+
+#. ID 3, Page 2, Line 304, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"じゃあ何だ？\\.\\.\n"
+"あんたには未来が無いのか？"
+msgstr ""
+
+#. ID 3, Page 2, Line 310, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"貴方は、\\.\\.如何思う？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 315, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"在るさ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 317, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"あんた、\\.\\.優しい人だからな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 322, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"\\S[2]フフッ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 327, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"やっぱり貴方は青二才ね、\\.\\.フョードル。"
+msgstr ""
+
+#. ID 3, Page 2, Line 329, Pos (2,15)
+msgid ""
+"ハイディ：\n"
+"気持ちだけ受け取っておくわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 342, Pos (2,15)
+msgid ""
+"ヴィルジニー：\n"
+"ブルーウィング。\\.\\.操縦出来るの？"
+msgstr ""
+
+#. ID 3, Page 2, Line 344, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"当然。\\.\\.俺が作ったんだから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 349, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"まあ、\\.\\.事情は追々聞かせて貰うさ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 356, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"アテは？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 359, Pos (2,15)
+msgid ""
+"ヴィルジニー：\n"
+"在るわ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 361, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"行くぜ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 373, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"なあハイディ。\\.\\.\n"
+"他人の進む道に口出すのも結構だが…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 376, Pos (2,15)
+msgid ""
+"フョードル：\n"
+"そう言うあんたは、\\.\\.何処へ行く？"
+msgstr ""
+
+#. ID 3, Page 3, Line 9, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"警備兵：\\S[2]お願いだ…！\\|\n"
+"お願いだから殺さないで…！"
+msgstr ""
+
+#. ID 3, Page 3, Line 14, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[5]ヴェーネは何処だァ…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 17, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"警備兵：\\S[2]あの女なら、\\.\\.ゲオルク様の所に居る…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 20, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"警備兵：\\S[2]場所はレイヤーⅣの奥…。\n"
+"レイヤー･クオリファイドだ…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 25, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[5]そうか…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 28, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"警備兵：\\S[2]なあ…！ \\|教えたんだから助けて…！"
+msgstr ""
+
+#. ID 3, Page 3, Line 31, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"警備兵：\\S[2]ほら、この通りだ…！\n"
+"お前に危害を加える心算は無い…！"
+msgstr ""
+
+#. ID 3, Page 3, Line 35, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"警備兵：\\S[2]だから…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 39, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[5]だからさァ…\\|言ってんだろ？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 42, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[10]ミナゴロシ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 47, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"警備兵：アアア\\S[2]ァァァァァァァァァッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 50, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"レイク：オラ！ \\.\\.オラ！ \\.\\.オラァッ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 53, Pos (2,15)
+msgid ""
+"\n"
+"\n"
+"レイク：死ね\\S[2]ーーーェェェッ!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 61, Pos (2,15)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]ブッ殺してやる！\\| 一人残らず！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 64, Pos (2,15)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]このクソ野郎どもが！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 67, Pos (2,15)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]みんな死んじまえ！\\|\\.\\.\\^"
+msgstr ""
+

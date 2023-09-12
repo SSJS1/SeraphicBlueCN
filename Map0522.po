@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 20, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"あれが\"本体\"だって…？"
+msgstr ""
+
+#. ID 10, Page 1, Line 22, Pos (0,0)
+msgid ""
+"同僚：\n"
+"ああ、\\.\\.そうらしい。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 24, Pos (0,0)
+msgid ""
+"同僚：\n"
+"さっき向こうで\n"
+"観測班の連中が騒いでるのが聞こえたんだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 30, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"でも…。\\.\\.何だってこんな所に…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 32, Pos (0,0)
+msgid ""
+"同僚：\n"
+"さあな。\\.\\.普通じゃないのは確かだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 37, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]運命が…\\|動き出したのか…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 42, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[3]ヴェーネ…。\\|\\^"
+msgstr ""
+

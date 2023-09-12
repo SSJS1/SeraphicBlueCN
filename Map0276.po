@@ -1,0 +1,576 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 3, Pos (7,12)
+msgid ""
+"男性：\n"
+"入って直ぐに橋が架かってるなんて変な街だろ？"
+msgstr ""
+
+#. ID 9, Page 1, Line 5, Pos (7,12)
+msgid ""
+"男性：\n"
+"其処の水路は、実は堀なんだ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 7, Pos (7,12)
+msgid ""
+"男性：\n"
+"別に誰とドンパチやる訳でもなかったんだけど、\n"
+"集まった人種が人種だからな、\n"
+"気が付けば端々で戦闘向きの構造に成ってたのさ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 11, Pos (7,12)
+msgid ""
+"男性：\n"
+"皮肉な事に、現状じゃC.M.G.C.アームズの襲撃に対して\n"
+"大きな効果が期待されてるんだがな。"
+msgstr ""
+
+#. ID 16, Page 1, Line 5, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"そうだ。\\.\\.禁書の件はどんな感じ？"
+msgstr ""
+
+#. ID 16, Page 1, Line 7, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"予想通りの反応ですね。"
+msgstr ""
+
+#. ID 16, Page 1, Line 9, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"不遇にして死したセラパーソンの子供達を改造して\n"
+"戦士にしたのですから、何を言われたとしても\n"
+"不思議ではないでしょう。"
+msgstr ""
+
+#. ID 16, Page 1, Line 13, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"じゃあ、遺族会や救世会なんかは…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 15, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"遺族会は大方の予想通り、\n"
+"近々正式に抗議文書を提出する見通しです。"
+msgstr ""
+
+#. ID 16, Page 1, Line 18, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"逆にカオス救世会は全くの予想外。\\.\\.\n"
+"何一つアクションを見せていません。"
+msgstr ""
+
+#. ID 16, Page 1, Line 21, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"これ見よがしにエイブラムが出張るかと\n"
+"思われていたのですが…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 27, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"それで、何か対策とかは？"
+msgstr ""
+
+#. ID 16, Page 1, Line 32, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"ええ…。\\.\\.一応在るには在ります。"
+msgstr ""
+
+#. ID 16, Page 1, Line 34, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"個人的には余り気乗りしないのですが、\n"
+"やらざるを得ないでしょう。"
+msgstr ""
+
+#. ID 16, Page 1, Line 37, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"如何するの？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 39, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"この様な騒ぎの場合の鉄則は、\n"
+"悪役に民衆の怒りの全てを受け止めさせる事。"
+msgstr ""
+
+#. ID 16, Page 1, Line 42, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"詰まり？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 47, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"モーガンを公開処刑にします。"
+msgstr ""
+
+#. ID 16, Page 1, Line 53, Pos (5,15)
+#. ID 16, Page 4, Line 7, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"んっと…。\\|\n"
+"言ってる事が良く分からない。"
+msgstr ""
+
+#. ID 16, Page 1, Line 59, Pos (5,15)
+#. ID 16, Page 4, Line 13, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"モーガンは死んだのよね？"
+msgstr ""
+
+#. ID 16, Page 1, Line 61, Pos (5,15)
+#. ID 16, Page 4, Line 15, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"ええ。\\.\\.死にました。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 63, Pos (5,15)
+#. ID 16, Page 4, Line 17, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"それじゃあ処刑なんて出来ないじゃない。"
+msgstr ""
+
+#. ID 16, Page 1, Line 65, Pos (5,15)
+#. ID 16, Page 4, Line 19, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"いいえ。\\.\\.方法と過程に気を付ければ、\n"
+"出来ない事も在りません。"
+msgstr ""
+
+#. ID 16, Page 1, Line 68, Pos (5,15)
+#. ID 16, Page 4, Line 22, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 74, Pos (5,15)
+#. ID 16, Page 4, Line 28, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"保管されていた彼のＤＮＡデータを使って\n"
+"素体を作成し、偽装公開処刑を行うのです。"
+msgstr ""
+
+#. ID 16, Page 1, Line 77, Pos (5,15)
+#. ID 16, Page 4, Line 31, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"方法は磔での銃殺刑。"
+msgstr ""
+
+#. ID 16, Page 1, Line 79, Pos (5,15)
+#. ID 16, Page 4, Line 33, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"観衆とは出来るだけ距離を置き、\n"
+"大口径ライフルでの一斉射撃に依って身体を一瞬で\n"
+"バラバラにします。"
+msgstr ""
+
+#. ID 16, Page 1, Line 83, Pos (5,15)
+#. ID 16, Page 4, Line 37, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"モーガンが禁書を発動した事は明るみに出ましたが、\n"
+"彼が死んだという事は未だ公表していません。"
+msgstr ""
+
+#. ID 16, Page 1, Line 86, Pos (5,15)
+#. ID 16, Page 4, Line 40, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"上手くやればモーガンが処刑された事に成り、\n"
+"民衆の怒りも一段落するでしょう。"
+msgstr ""
+
+#. ID 16, Page 1, Line 92, Pos (5,15)
+#. ID 16, Page 4, Line 46, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"成る程ね…。\\.\\.\n"
+"確かに理屈は通ってる…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 98, Pos (5,15)
+#. ID 16, Page 4, Line 52, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"それで、素体は如何するの？\\.\\.\n"
+"やっぱりフェスクで？"
+msgstr ""
+
+#. ID 16, Page 1, Line 101, Pos (5,15)
+#. ID 16, Page 4, Line 55, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"それが本来なのですが、\n"
+"今回に限っては避けるべき所です。"
+msgstr ""
+
+#. ID 16, Page 1, Line 104, Pos (5,15)
+#. ID 16, Page 4, Line 58, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"フェスクは話題性の高いタイムリーな組織で、\n"
+"常に人の眼が向けられていますから。"
+msgstr ""
+
+#. ID 16, Page 1, Line 107, Pos (5,15)
+#. ID 16, Page 4, Line 61, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"でも、フェスクを置いて\n"
+"他に素体を作れる様な所なんて在るかしら？"
+msgstr ""
+
+#. ID 16, Page 1, Line 110, Pos (5,15)
+#. ID 16, Page 4, Line 64, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"ええ。\\.\\.一つだけ。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 115, Pos (5,15)
+#. ID 16, Page 4, Line 69, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"場所はエンヴィ･ケイオス。"
+msgstr ""
+
+#. ID 16, Page 1, Line 117, Pos (5,15)
+#. ID 16, Page 4, Line 71, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"彼女は人呼んで夢売りのマルゴこと\n"
+"マルゴ･モンテリマール。"
+msgstr ""
+
+#. ID 16, Page 1, Line 123, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"そっか…。\\.\\.\n"
+"マルゴも素体を作れたんだっけ…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 126, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"しかし彼女は飽くまで違法に素体作成を行う犯罪者。\\.\\.\n"
+"たとえケイオスの\"神の手\"で在ろうとも。"
+msgstr ""
+
+#. ID 16, Page 1, Line 129, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"その意味では何とも不本意な方法なのですが、\n"
+"フェスクが使えない以上、彼女を頼る他在りません。"
+msgstr ""
+
+#. ID 16, Page 1, Line 132, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"既に極秘接触のセッティングを進めています。"
+msgstr ""
+
+#. ID 16, Page 1, Line 138, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"大変そうね…。\\.\\.\n"
+"此処に残るのが悪く思えて来たかも。"
+msgstr ""
+
+#. ID 16, Page 1, Line 141, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"何を言っているのです。\\.\\.\n"
+"私は何時も通りに参謀の仕事をこなすだけ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 144, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"ですからミネルヴァも、\n"
+"何時も通りに自分の役割を果たしなさい。"
+msgstr ""
+
+#. ID 16, Page 1, Line 147, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"寧ろ貴女達の方こそ、前途に積み上がった問題は\n"
+"途方も無く巨大な筈ですよ？"
+msgstr ""
+
+#. ID 16, Page 1, Line 155, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 162, Pos (5,15)
+msgid ""
+"ミネルヴァ：\n"
+"それもそうね。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 167, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"では、私達は城に戻ります。\\.\\.\n"
+"何か在ったらまた連絡してください。"
+msgstr ""
+
+#. ID 16, Page 1, Line 173, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"それと、\\.\\.\"彼ら\"に宜しくと。"
+msgstr ""
+
+#. ID 16, Page 1, Line 175, Pos (5,15)
+msgid ""
+"デイジー：\n"
+"運命の中心を風の如く駆け抜けた、\\.\\.\n"
+"あの勇敢なる戦士に。"
+msgstr ""
+
+#. ID 16, Page 3, Line 10, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"ダールディンの自殺絶壁マリバンドホープ。\\.\\.\n"
+"其処の絶壁管理局に向かって呉れ。"
+msgstr ""
+
+#. ID 16, Page 3, Line 13, Pos (5,15)
+#. ID 16, Page 3, Line 58, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"黒幕を突き止める。"
+msgstr ""
+
+#. ID 16, Page 3, Line 31, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"こんな所に居たのか。"
+msgstr ""
+
+#. ID 16, Page 3, Line 33, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"外の空気が吸いたくて。"
+msgstr ""
+
+#. ID 16, Page 3, Line 35, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"辟易しているようだな。"
+msgstr ""
+
+#. ID 16, Page 3, Line 37, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"外に出るなら髪くらい整えておけ。\n"
+"天使である前に女だろう。"
+msgstr ""
+
+#. ID 16, Page 3, Line 40, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"大した問題じゃないわ。\\.\\.\n"
+"それより何の用？"
+msgstr ""
+
+#. ID 16, Page 3, Line 43, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"気分転換の良い話を持って来た。"
+msgstr ""
+
+#. ID 16, Page 3, Line 48, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 50, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"ダールディンの自殺絶壁マリバンドホープ。\\|\n"
+"其処の絶壁管理局に向かって呉れ。"
+msgstr ""
+
+#. ID 16, Page 3, Line 56, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"何なの…？ \\.\\.藪から棒に…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 63, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]何ですって…？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 68, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]誰…\\.\\.なの…？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 77, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"\\S[2]ケインの両親だ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 82, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"ケインの…\\.\\.両親…？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 84, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"正確に言うのなら、\\.\\.その内の母親は…。"
+msgstr ""
+
+#. ID 16, Page 3, Line 86, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"ハイディ･バーミンガム。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 91, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"何故、そんな事を…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 98, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"それはまたいずれ。\\.\\.\n"
+"然るべき時、然るべき場所で話す。"
+msgstr ""
+
+#. ID 16, Page 3, Line 101, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"兎に角、\\.\\.今は俺を信じて呉れ。"
+msgstr ""
+
+#. ID 16, Page 3, Line 103, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"俺の中の血が、確かに訴えているんだ。\\|\n"
+"あの日以来ずっと眠り続けていた筈の…。"
+msgstr ""
+
+#. ID 16, Page 3, Line 106, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"そう…。\\.\\.魂の鼓動を…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 112, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"分かった。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 114, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"此処で貴方を疑った所で、\n"
+"どうせ部屋の中で考え込んでるだけだし。"
+msgstr ""
+
+#. ID 16, Page 3, Line 117, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"少しでもアテが在るのなら。"
+msgstr ""
+
+#. ID 16, Page 3, Line 119, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"有難う。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 124, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"でも、\\.\\.何故ダールディンに？"
+msgstr ""
+
+#. ID 16, Page 3, Line 126, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"全ては未だ憶測の域を出ない。\n"
+"だから事実を確かめに行く。"
+msgstr ""
+
+#. ID 16, Page 3, Line 129, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"先ずは根本的な問題。"
+msgstr ""
+
+#. ID 16, Page 3, Line 131, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"ケインの両親が、本当にマリバンドホープで\n"
+"身投げして死んだのか否か…。"
+msgstr ""
+
+#. ID 16, Page 3, Line 134, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"其処からだ。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 3, Line 136, Pos (5,15)
+msgid ""
+"ヴェーネ：\n"
+"なら絶壁管理局に自殺者データが在る筈ね。\\|\n"
+"ミネルヴァが声を掛ければ一発で出て来るわ。"
+msgstr ""
+
+#. ID 16, Page 3, Line 139, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"強い味方が居て助かるな。"
+msgstr ""
+
+#. ID 16, Page 3, Line 144, Pos (5,15)
+msgid ""
+"ランサード：\n"
+"直ぐに出発だ。\\|\\^"
+msgstr ""
+

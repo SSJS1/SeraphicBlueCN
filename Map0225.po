@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 3, Pos (7,5)
+msgid ""
+"旅人：\n"
+"歓楽都市エンヴィ。\n"
+"不毛の荒野のど真ん中に現れた、人々の娯楽の中心地。"
+msgstr ""
+
+#. ID 6, Page 1, Line 6, Pos (7,5)
+msgid ""
+"旅人：\n"
+"しかし私はこう呼ぼう。"
+msgstr ""
+
+#. ID 6, Page 1, Line 8, Pos (7,5)
+msgid ""
+"旅人：\n"
+"過ごせば過ごす程に人の卑しさは身に染みて、\n"
+"心の隙間は、その加速度を増して開き行くばかり。"
+msgstr ""
+
+#. ID 6, Page 1, Line 11, Pos (7,5)
+msgid ""
+"旅人：\n"
+"此処ぞ正に荒野にも勝る不毛の地と。"
+msgstr ""
+
+#. ID 9, Page 1, Line 37, Pos (5,14)
+#. ID 9, Page 1, Line 57, Pos (5,14)
+msgid ""
+"ミネルヴァ：\n"
+"取り敢えず今日の所は、\n"
+"真っ直ぐホテルに向かって休もうかしら。"
+msgstr ""
+
+#. ID 9, Page 1, Line 49, Pos (5,14)
+msgid ""
+"ミネルヴァ：\n"
+"意外なものね。\\.\\.一見して上品な街。"
+msgstr ""
+
+#. ID 9, Page 1, Line 51, Pos (5,14)
+msgid ""
+"ミネルヴァ：\n"
+"歓楽都市なんて言うから、\n"
+"もっと喧しいのを想像してたんだけど。"
+msgstr ""
+
+#. ID 9, Page 1, Line 60, Pos (5,14)
+msgid ""
+"ミネルヴァ：\n"
+"\"視察\"は明日から。"
+msgstr ""
+

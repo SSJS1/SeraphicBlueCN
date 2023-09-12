@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 2, Line 6, Pos (9,5)
+msgid ""
+"メイド：\n"
+"お元気そうで何よりです。"
+msgstr ""
+
+#. ID 5, Page 2, Line 11, Pos (9,5)
+msgid ""
+"メイド：\n"
+"如何かお気を付けて。"
+msgstr ""
+
+#. ID 5, Page 2, Line 17, Pos (9,5)
+msgid ""
+"メイド：\n"
+"如何か御気を付けて。"
+msgstr ""
+
+#. ID 10, Page 1, Line 9, Pos (0,0)
+#. ID 10, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"本当に有難うございました。"
+msgstr ""
+
+#. ID 10, Page 1, Line 11, Pos (0,0)
+#. ID 10, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ところで、森を出るには\n"
+"後どの位歩けば良いのかしら？"
+msgstr ""
+
+#. ID 10, Page 1, Line 14, Pos (0,0)
+#. ID 10, Page 1, Line 50, Pos (0,0)
+msgid ""
+"メイド：\n"
+"そう遠くは在りません。\n"
+"湖畔に沿って歩いて行ってください。"
+msgstr ""
+
+#. ID 10, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"アリガトウ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 42, Pos (0,0)
+msgid ""
+"メイド：\n"
+"いえいえ、\\.\\.此方こそ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"分かったわ。\\.\\.有難う。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 58, Pos (0,0)
+msgid ""
+"メイド：\n"
+"それでは皆様、\\.\\.如何かお気を付けて。"
+msgstr ""
+
+#. ID 10, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"皆さんこそ、お元気で。"
+msgstr ""
+
+#. ID 10, Page 1, Line 72, Pos (0,0)
+msgid ""
+"メイド：\n"
+"ああ、ちょっと待ってください。\\.\\.\n"
+"もう一つだけ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 78, Pos (0,0)
+msgid ""
+"メイド：\n"
+"あの…。\\|ランサードさん…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"何だ？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 92, Pos (0,0)
+msgid ""
+"メイド：\n"
+"若し背負ったものから解放されたなら、\\.\\.\n"
+"宜しければ教えてください。"
+msgstr ""
+
+#. ID 10, Page 1, Line 95, Pos (0,0)
+msgid ""
+"メイド：\n"
+"その結末を、\\.\\.\n"
+"旦那様に御伝えしたいと思いますから。"
+msgstr ""
+
+#. ID 10, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"分かった。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\"その罪\"の辿り着く結末。\\|\n"
+"彼もきっと知りたがっているだろう。"
+msgstr ""
+
+#. ID 10, Page 1, Line 109, Pos (0,0)
+msgid ""
+"メイド：\n"
+"是非とも…\\|\"良い\"報せを。"
+msgstr ""
+
+#. ID 10, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"最善を尽くそう。"
+msgstr ""
+
+#. ID 10, Page 1, Line 120, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"何なの？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"たった一泊しただけで、\n"
+"随分打ち解けてたみたいじゃない。"
+msgstr ""
+
+#. ID 10, Page 1, Line 125, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"打ち解けたのではない。\\|\n"
+"\"縁\"が在ったんだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 128, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"エン…？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 130, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"バラバラに散っていたパズルのピースを組む様に、\n"
+"運命の欠片が次々と巡り合って行く。"
+msgstr ""
+
+#. ID 10, Page 1, Line 133, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"縁と縁が結び合い、\\.\\.世界の真の姿を創り上げる。"
+msgstr ""
+
+#. ID 10, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"抽象的ですね。"
+msgstr ""
+
+#. ID 10, Page 1, Line 137, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"結局何が言いたいの？"
+msgstr ""
+
+#. ID 10, Page 1, Line 142, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\"彼\"が重い腰を上げたという事だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 144, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"そして最早一刻も止まる事無く、\n"
+"\"約束の時と場所\"へ駆けて行く。"
+msgstr ""
+
+#. ID 10, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"その轍に、\\.\\.微塵の緑も残さずにな。"
+msgstr ""
+

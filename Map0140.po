@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (11,4)
+#. ID 12, Page 1, Line 4, Pos (13,4)
+#. ID 13, Page 1, Line 4, Pos (15,4)
+msgid ""
+"＊＊＊：\n"
+"本と本の間から紙切れがはみ出している。\n"
+"何かメモがしてあるようだ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 7, Pos (11,4)
+msgid ""
+"メモ：\n"
+"最深部には\"災厄の核\"が保管されている。\n"
+"が…あれは我々人間の立ち入る事など許されない、\n"
+"まさしく不可能の領域なのかもしれない。"
+msgstr ""
+
+#. ID 12, Page 1, Line 7, Pos (13,4)
+msgid ""
+"メモ：\n"
+"「いつか不可能を可能にして、\n"
+"  この指先で災厄の核の鼓動に触れてみよう！」"
+msgstr ""
+
+#. ID 12, Page 1, Line 10, Pos (13,4)
+msgid ""
+"メモ：\n"
+"なーんて、周りの連中は言ってるし、\n"
+"俺だって建前上、皆の前ではうなずいてる。"
+msgstr ""
+
+#. ID 12, Page 1, Line 13, Pos (13,4)
+msgid ""
+"メモ：\n"
+"でも俺は怖い…。\n"
+"研究者冥利なんぞどうでもいいくらいに、\n"
+"俺はあいつに恐怖を感じるんだ…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 17, Pos (13,4)
+msgid ""
+"メモ：\n"
+"何時か必ず、あいつが災いを呼び寄せてくる。\n"
+"俺にはそんな予感がしてならない…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 7, Pos (15,4)
+msgid ""
+"メモ：\n"
+"この研究所にはもっともっと若い力が必要だと、\n"
+"最近特に感じるようになった。"
+msgstr ""
+
+#. ID 13, Page 1, Line 10, Pos (15,4)
+msgid ""
+"メモ：\n"
+"脇目も振らず、我武者羅に前に突き進む…。\n"
+"高価な研究機材は間に合ってるから、それよりも\n"
+"そういった若々しい意志の力が欲しい。"
+msgstr ""
+
+#. ID 13, Page 1, Line 14, Pos (15,4)
+msgid ""
+"メモ：\n"
+"ただ真っ直ぐに前を見て歩いてきた道。\n"
+"そしてふと振り返れば、何時の間にやらその道は、\n"
+"不可能を可能にしてしまっている事だろう。"
+msgstr ""
+
+#. ID 14, Page 1, Line 3, Pos (12,8)
+msgid ""
+"＊＊＊：\n"
+"紙切れが放置されている。\n"
+"何か走り書きのメモが記されているようだ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 6, Pos (12,8)
+msgid ""
+"＊＊＊：\n"
+"かなり汚い字だが、一部は何とか読めなくもない。"
+msgstr ""
+
+#. ID 14, Page 1, Line 8, Pos (12,8)
+msgid ""
+"メモ：\n"
+"最深部のパスワード…\n"
+"無意味な言葉の羅列ではない\n"
+"ちゃんとした意味あり"
+msgstr ""
+
+#. ID 14, Page 1, Line 12, Pos (12,8)
+msgid ""
+"メモ：\n"
+"我々の作り出す道…\n"
+"振り返ればそこに花が咲いている\n"
+"不可能を可能にする"
+msgstr ""
+
+#. ID 14, Page 1, Line 16, Pos (12,8)
+msgid ""
+"メモ：\n"
+"入力はカタカナ６文字で…"
+msgstr ""
+

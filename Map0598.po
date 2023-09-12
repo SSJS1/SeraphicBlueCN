@@ -1,0 +1,393 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 38, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おネエちゃん！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ドリス、\\.\\.もう大丈夫だから。"
+msgstr ""
+
+#. ID 38, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ヴェーネ…。\\.\\.\n"
+"やっと会えたのね…。"
+msgstr ""
+
+#. ID 38, Page 1, Line 55, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"有難うヤンシー。\n"
+"今までドリスを守って呉れて。"
+msgstr ""
+
+#. ID 38, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"おいモーガンよ。\\.\\.\n"
+"もう何も言う気に成らねえ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ドリスとヤンシーをこっちに渡せ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 66, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そして死ね。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 71, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]クククッ…。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 77, Pos (0,0)
+#. ID 38, Page 3, Line 10, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"如何やら\"罠\"に掛かったようだな。\\.\\.\n"
+"流石はエンデの発案だ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 80, Pos (0,0)
+#. ID 38, Page 3, Line 13, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]何だと…？\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 82, Pos (0,0)
+#. ID 38, Page 3, Line 15, Pos (0,0)
+msgid ""
+"レイク：\n"
+"悪趣味な訳だぜ…。"
+msgstr ""
+
+#. ID 38, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"エンデ…！\\.\\.\n"
+"てめえは何処まで生命を弄ぶ…！"
+msgstr ""
+
+#. ID 38, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ダルムシュタットの女の子…。\\|\n"
+"そしてケイン…！"
+msgstr ""
+
+#. ID 38, Page 1, Line 93, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"アツくなんなよ。\\.\\.\n"
+"たかが二人殺した位で。"
+msgstr ""
+
+#. ID 38, Page 1, Line 96, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そんなに怒ってると早死にするぜ？"
+msgstr ""
+
+#. ID 38, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"黙れこの野郎！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"モーガン。\\.\\.二人を渡しなさい。"
+msgstr ""
+
+#. ID 38, Page 1, Line 105, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"良いだろう。\\.\\.\n"
+"天使の釣餌としての役割は果たされた。"
+msgstr ""
+
+#. ID 38, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"二人とも、\\.\\.こっちへ！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 121, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"従順なのね。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 123, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"此処まで来れば、\n"
+"後は力で叩き伏せれば良い事。"
+msgstr ""
+
+#. ID 38, Page 1, Line 126, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"特にユアン。\\.\\.\n"
+"貴様には色々と恨みが在るからな。"
+msgstr ""
+
+#. ID 38, Page 1, Line 129, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"決して殺さず、\n"
+"延々と存分に傷め付けて呉れるわ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 132, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"てめえなんかに出来んのか？"
+msgstr ""
+
+#. ID 38, Page 1, Line 134, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"私にはエンデという強い味方が付いている。"
+msgstr ""
+
+#. ID 38, Page 1, Line 139, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"約束したのだよ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 141, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"貴様らセラフィックブルーを所有物とし、\n"
+"それをちらつかせる事で私は世界の覇権を握り…。"
+msgstr ""
+
+#. ID 38, Page 1, Line 144, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"その間エンデは実行者権限でガイアキャンサーを\n"
+"休止させ、この星の延命をして呉れる。"
+msgstr ""
+
+#. ID 38, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"何を言うかと思えば…。\\.\\.\n"
+"何処までも見下げ果てた野郎だぜ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 153, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"てめえは所詮エンデの捨て駒なんだよ！\\.\\.\n"
+"この小者が！"
+msgstr ""
+
+#. ID 38, Page 1, Line 156, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"ふん。\\.\\.負け惜しみを。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 158, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"おいエンデ。\n"
+"お前も何か言って遣れ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 168, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"如何した？\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 173, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"悪いけど…。\\.\\.ユアン達の言う通りなんだよね。"
+msgstr ""
+
+#. ID 38, Page 1, Line 175, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 177, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"アンタ、\\.\\.\"器\"じゃないんだよ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 179, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"チーズを齧るだけのネズミが、\n"
+"世界を屠る黒獅子の夢を見てたって事さ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 185, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[5]う…\\.\\.嘘だ…！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 187, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"役目は終わった。\\.\\.\n"
+"これ以上アンタと付き合ってる理由は無い。"
+msgstr ""
+
+#. ID 38, Page 1, Line 193, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そろそろ夢から醒めなよ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 195, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そしてボクの手駒として、\n"
+"セラフィックブルーを倒して呉れよ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 198, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"ふざけるな！\\.\\.\n"
+"私は認めんぞッ！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 201, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"決めるのはアンタじゃない。"
+msgstr ""
+
+#. ID 38, Page 1, Line 203, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"所詮アンタも運命の核に入り損じた\n"
+"\"その他大勢＜エキストラ＞\"。"
+msgstr ""
+
+#. ID 38, Page 1, Line 206, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ディレクターの都合でゴミの様に消えて逝く。"
+msgstr ""
+
+#. ID 38, Page 1, Line 211, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"さあモーガン。\\.\\.\n"
+"これがアンタの最後の出番だ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 217, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]ボクの為に、\\.\\.死ね。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 251, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"やめろーッ！\\.\\.\n"
+"やめて呉れ\\S[2]ェェェェェェェェッ!!\\|\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 269, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"コイツぁ無様だ。\\.\\.\n"
+"アンタ達もそう思うだろ？"
+msgstr ""
+
+#. ID 38, Page 1, Line 272, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"黙れ！ \\.\\.さっさと消えろ！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 279, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"やれやれ…。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 292, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[5]ぐ…。\\.\\.うぐっ…。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 297, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも、確かに無様ね。"
+msgstr ""
+
+#. ID 38, Page 1, Line 299, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"典型的な小悪党の末路。\\.\\.\n"
+"しかも古典的＜クラシック＞。"
+msgstr ""
+
+#. ID 38, Page 1, Line 305, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"こんな男の所為で政府が揺らぎ、\n"
+"ダルムシュタットの惨劇が起きて…。"
+msgstr ""
+
+#. ID 38, Page 1, Line 311, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"あの女の子も、\\.\\.ケインも死んだ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 313, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"やってらんねえよ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 319, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[5]殺す…。\\.\\.殺してやる…。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 321, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"皆殺しだ\\S[2]ァァァァァァッ!!\\|\\|\\^"
+msgstr ""
+

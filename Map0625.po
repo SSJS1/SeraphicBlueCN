@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 20, Page 1, Line 5, Pos (9,8)
+#. ID 20, Page 1, Line 99, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"悲しみの核は全てを\"無\"の方向へ遷移させ、\n"
+"そして\"無\"の状態で真の力を発揮します。"
+msgstr ""
+
+#. ID 20, Page 1, Line 8, Pos (9,8)
+#. ID 20, Page 1, Line 102, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"\"場\"の属性を無にしないよう、くれぐれも気を付けて。"
+msgstr ""
+
+#. ID 20, Page 1, Line 10, Pos (9,8)
+#. ID 20, Page 1, Line 104, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"そしてもう一つ。\n"
+"この核は、強力であり、しかしとても脆い…。"
+msgstr ""
+
+#. ID 20, Page 1, Line 13, Pos (9,8)
+#. ID 20, Page 1, Line 107, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"場合に依っては自壊を起こし、その際に\n"
+"ベネディクタの精神を道連れにする可能性があります。"
+msgstr ""
+
+#. ID 20, Page 1, Line 16, Pos (9,8)
+#. ID 20, Page 1, Line 110, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"無論、\"あってはならない事\"です。"
+msgstr ""
+
+#. ID 20, Page 1, Line 18, Pos (9,8)
+#. ID 20, Page 1, Line 112, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"自壊を誘発する\"もの\"があるとしたら、\n"
+"恐らく破のエレメントでしょう。"
+msgstr ""
+
+#. ID 20, Page 1, Line 21, Pos (9,8)
+#. ID 20, Page 1, Line 115, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"破のエレメントの取扱いにも注意してください。"
+msgstr ""
+
+#. ID 20, Page 1, Line 32, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"それでは、準備は宜しいですか？"
+msgstr ""
+
+#. ID 20, Page 1, Line 34, Pos (9,8)
+#. Choice (3 options)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ\n"
+"悲しみの核について聞きたい"
+msgstr ""
+
+#. ID 20, Page 1, Line 49, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"分かりました。"
+msgstr ""
+
+#. ID 21, Page 1, Line 18, Pos (0,0)
+msgid ""
+"レイク：\n"
+"やったのか…？\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 20, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"ええ。\\.\\.悲しみの核は討たれました。"
+msgstr ""
+
+#. ID 21, Page 1, Line 22, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"星の慟哭やベネディクタの悲しみの根本こそ、\n"
+"未だ消えはしませんが…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 25, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"今この時を以って、\\.\\.\n"
+"ベネディクタ･ティアーズは滅されるでしょう。"
+msgstr ""
+
+#. ID 21, Page 1, Line 40, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]ベネディクタ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 42, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]もう絶対に、\\.\\.泣かせはしない…。\\|\\|\\^"
+msgstr ""
+

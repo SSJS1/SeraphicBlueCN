@@ -1,0 +1,779 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"レイク：\n"
+"頬を打つ雨で眼が覚めた。"
+msgstr ""
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何かが焼け焦げる臭い匂いと、\\.\\.\n"
+"辺りに散らばっている焼け焦げた残骸。"
+msgstr ""
+
+#. ID 1, Page 1, Line 33, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ロアノークは不時着し全損していた。"
+msgstr ""
+
+#. ID 1, Page 1, Line 35, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺も含めてみんな方々に投げ出され、\n"
+"倒れていた。"
+msgstr ""
+
+#. ID 1, Page 1, Line 38, Pos (0,0)
+msgid ""
+"レイク：\n"
+"本来なら容易く死ねる程の事故なんだろうが、\n"
+"何故か大した痛みも傷も無い。"
+msgstr ""
+
+#. ID 1, Page 1, Line 44, Pos (0,0)
+msgid ""
+"レイク：\n"
+"事故の瞬間、\\.\\.意識が飛ぶ寸前、\\.\\.\n"
+"俺達の身体が光に包まれたような気がする。"
+msgstr ""
+
+#. ID 1, Page 1, Line 47, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何の仕掛けかは知らないが、\n"
+"防護バリアの様な物でも展開されたのだろう。"
+msgstr ""
+
+#. ID 1, Page 1, Line 53, Pos (0,0)
+msgid ""
+"レイク：\n"
+"とは言え朦朧とする意識。\\|\n"
+"途轍も無く重い、\\.\\.自由の利かない身体。"
+msgstr ""
+
+#. ID 1, Page 1, Line 56, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何とか力を振り絞って、\\.\\.俺は探す。"
+msgstr ""
+
+#. ID 1, Page 1, Line 61, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺は其処で知った。"
+msgstr ""
+
+#. ID 1, Page 1, Line 63, Pos (0,0)
+msgid ""
+"レイク：\n"
+"遠くに泊まっている、\\.\\.\n"
+"見た事も無い、青い小型の飛行機。"
+msgstr ""
+
+#. ID 1, Page 1, Line 66, Pos (0,0)
+msgid ""
+"レイク：\n"
+"その周りに居る、黒服や傭兵…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 71, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そして、\\.\\.あいつの姿…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"レイク\\S[2]ーーーッ!!\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 79, Pos (0,0)
+msgid ""
+"黒服：\n"
+"助けを求めても無駄だ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 81, Pos (0,0)
+msgid ""
+"黒服：\n"
+"クルーガードで肉体への損傷こそ防止されたが、\n"
+"代わりに極度の疲労が掛かっている。"
+msgstr ""
+
+#. ID 1, Page 1, Line 84, Pos (0,0)
+msgid ""
+"黒服：\n"
+"我々が回復してやったお陰で貴様は元気だが、\n"
+"他の連中は違う。"
+msgstr ""
+
+#. ID 1, Page 1, Line 87, Pos (0,0)
+msgid ""
+"黒服：\n"
+"暫くは意識混濁が続くだろう。\n"
+"その声が聞こえているか如何かも怪しい所だ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"レイク達を如何する心算！"
+msgstr ""
+
+#. ID 1, Page 1, Line 92, Pos (0,0)
+msgid ""
+"黒服：\n"
+"用が有るのは貴様だけだ。\n"
+"残りの奴は連れの傭兵が始末する。"
+msgstr ""
+
+#. ID 1, Page 1, Line 95, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そんな事はさせない！"
+msgstr ""
+
+#. ID 1, Page 1, Line 97, Pos (0,0)
+msgid ""
+"黒服：\n"
+"貴様独りで何が出来る訳でもないだろう。"
+msgstr ""
+
+#. ID 1, Page 1, Line 99, Pos (0,0)
+msgid ""
+"黒服：\n"
+"さあ来い！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"厭よ！ \\.\\.放しなさい！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 103, Pos (0,0)
+msgid ""
+"黒服：\n"
+"諦めろッ！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 109, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"うッ…！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 114, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 116, Pos (0,0)
+msgid ""
+"黒服：\n"
+"手間の掛かる女だ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 121, Pos (0,0)
+msgid ""
+"傭兵：\n"
+"後の連中は始末して良いんだな？"
+msgstr ""
+
+#. ID 1, Page 1, Line 123, Pos (0,0)
+msgid ""
+"黒服：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 125, Pos (0,0)
+msgid ""
+"黒服：\n"
+"私達は先にラージュに戻り、\n"
+"この女をゲオルク様に引き渡して来る。"
+msgstr ""
+
+#. ID 1, Page 1, Line 128, Pos (0,0)
+msgid ""
+"黒服：\n"
+"迎えに来るまでに片付けておけ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 130, Pos (0,0)
+msgid ""
+"傭兵：\n"
+"こんな骨抜き連中、数分も掛かんないぜ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 132, Pos (0,0)
+msgid ""
+"黒服：\n"
+"確かにな。\\.\\.では頼んだぞ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 140, Pos (0,0)
+msgid ""
+"レイク：\n"
+"動かそうとしても動かない身体。"
+msgstr ""
+
+#. ID 1, Page 1, Line 142, Pos (0,0)
+msgid ""
+"レイク：\n"
+"地べたに這いつくばった俺の上を、\n"
+"ヴェーネを乗せた飛行機が飛び去って行く…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 148, Pos (0,0)
+msgid ""
+"レイク：\n"
+"不甲斐無さ。\\.\\.怒り。\\.\\.執念。\\|\n"
+"積み重なって、漸く身体が動く。"
+msgstr ""
+
+#. ID 1, Page 1, Line 151, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ヴェーネが連れて行かれた今更に。"
+msgstr ""
+
+#. ID 1, Page 1, Line 156, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何とか立ち上がった俺の前には、\n"
+"さっきの傭兵が立ち塞がっていた…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 168, Pos (0,0)
+#. ID 1, Page 1, Line 243, Pos (0,0)
+#. ID 1, Page 1, Line 282, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[20]………。\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 171, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：大したモンだ。\\.\\.まだ立ち上がるか？"
+msgstr ""
+
+#. ID 1, Page 1, Line 175, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[5]ヴェーネを返せ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 179, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：へっ。\\.\\.情け無いよなァ？ \\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 182, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：女の一人も守れないなんて。"
+msgstr ""
+
+#. ID 1, Page 1, Line 186, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[5]黙れ…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 190, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：無理しちまってよ。\\.\\.\n"
+"立ってるのがやっとじゃねえか。"
+msgstr ""
+
+#. ID 1, Page 1, Line 194, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：こんな連中の始末とは、俺の\"男\"も格下げだぜ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 198, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[5]グダグダぬかすな…。\\.\\.掛かって来い…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 201, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[5]さっさとてめえを倒して…。\\|\n"
+"ヴェーネを取り戻しに…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 205, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：はいはい。\\.\\.分かりましたぜ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 209, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：先ずはてめえから御望み通り。"
+msgstr ""
+
+#. ID 1, Page 1, Line 212, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：ブッ殺してやるよ！\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 221, Pos (0,0)
+msgid ""
+"\n"
+"                ちょっと待ちなッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 229, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[5]イリエナ…？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 232, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：何だてめえは！ \\|退きやがれッ！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 235, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"イリエナ：いいや退かないよ！"
+msgstr ""
+
+#. ID 1, Page 1, Line 238, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"イリエナ：レイクは私の大事な息子！\\|\n"
+"傷付ける奴は許さないからね！"
+msgstr ""
+
+#. ID 1, Page 1, Line 246, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：おいおい、\\.\\.子を思う母で泣き落としか？\\|\n"
+"俺はそんなに甘くないぜ？"
+msgstr ""
+
+#. ID 1, Page 1, Line 250, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：オラ。\\.\\.さっさと退けよ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 253, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"イリエナ：退かないと言ってるだろ！"
+msgstr ""
+
+#. ID 1, Page 1, Line 257, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：おい糞ババア…。\\|\n"
+"いい加減にしねえとテメエも殺すぞ？"
+msgstr ""
+
+#. ID 1, Page 1, Line 261, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"イリエナ：望む所だよ！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 264, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"イリエナ：息子を庇って死ぬんだったら、\n"
+"あたしゃ本望さ！"
+msgstr ""
+
+#. ID 1, Page 1, Line 268, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[5]やめろイリエナ…！\\| 俺に構うな…！"
+msgstr ""
+
+#. ID 1, Page 1, Line 272, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"イリエナ：何言ってるんだか、\\.\\.この子は。"
+msgstr ""
+
+#. ID 1, Page 1, Line 275, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"イリエナ：こんな時くらい、少しは母親に甘えなさい。"
+msgstr ""
+
+#. ID 1, Page 1, Line 278, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"イリエナ：\\S[2]でなきゃ、\\.\\.寂しいよ…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 288, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"イリエナ：さあ、\\.\\.殺るんだったら私を殺りな！"
+msgstr ""
+
+#. ID 1, Page 1, Line 291, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"イリエナ：レイクには傷一つ付けさせないよ！"
+msgstr ""
+
+#. ID 1, Page 1, Line 295, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：\\S[5]このババア…！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 299, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：けっ…！ \\|だったら御望み通りにしてやるぜ！"
+msgstr ""
+
+#. ID 1, Page 1, Line 302, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：死ねェ！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 8, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[5]イリエナ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 18, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"               \\S[5]何だよ…。\\|この血は…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 23, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"               \\S[5]おい…。\\|何か言えよ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 32, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"                    \\S[20]あ…。\\|ああ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 42, Pos (1,0)
+msgid ""
+"\n"
+"         あああアア\\S[2]ァァァァァァァーッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 51, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：\\S[5]く…\\.\\.黒い翼ァ…!?\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 54, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：\\S[5]何だよコイツ…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 58, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[10]殺シテヤル。\\|ミンナ殺シテヤル。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 61, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：\\S[5]ヒッ…\\.\\.ヒィッ…！ \\|来るなァ…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 64, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[10]ヒトリノコラズ。\\.\\.ミナゴロシ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 67, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[10]ミンナミンナ。\\.\\.死ンジマエ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 70, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"傭兵：\\S[2]や…\\.\\.やめろォォォ…!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 74, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[10]消エロ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 84, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"              \\S[5]待ってろよ。\\.\\.ヴェーネ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 88, Pos (1,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"            \\S[5]今直ぐ、\\.\\.迎えに行くからな。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 124, Pos (1,0)
+msgid ""
+"男性：\n"
+"おい、こっちだ！\\|\n"
+"何人も人が倒れてるぞ！"
+msgstr ""
+
+#. ID 4, Page 1, Line 130, Pos (1,0)
+msgid ""
+"女性：\n"
+"大丈夫…。\\|\n"
+"みんな気を失ってるだけだわ…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 141, Pos (1,0)
+msgid ""
+"\n"
+"男性：\n"
+"イ…\\.\\.イリエナッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 145, Pos (1,0)
+msgid ""
+"\n"
+"女性：\n"
+"\\S[2]酷い…！ \\|血塗れじゃないの…！"
+msgstr ""
+
+#. ID 4, Page 1, Line 149, Pos (1,0)
+msgid ""
+"\n"
+"男性：\n"
+"畜生ッ！ \\.\\.血が止まらねえ！"
+msgstr ""
+
+#. ID 4, Page 1, Line 152, Pos (1,0)
+msgid ""
+"\n"
+"男性：\n"
+"このままじゃイリエナが死んじまう！"
+msgstr ""
+
+#. ID 4, Page 1, Line 155, Pos (1,0)
+msgid ""
+"\n"
+"女性：\n"
+"\\S[2]イリエナ…！ \\|しっかりしてェ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 158, Pos (1,0)
+msgid ""
+"\n"
+"男性：\n"
+"医者だッ！\\.\\.\n"
+"誰でも良いから医者を呼んで来い！"
+msgstr ""
+
+#. ID 4, Page 1, Line 163, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"医者なら此処に居るぞ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 166, Pos (1,0)
+msgid ""
+"\n"
+"男性：\n"
+"あんた…。\\|医者なのか…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 169, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"患者は。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 172, Pos (1,0)
+msgid ""
+"\n"
+"女性：\n"
+"酷いのよ…！ \\|血が全然止まらない…！"
+msgstr ""
+
+#. ID 4, Page 1, Line 176, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 179, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"イリエナ…。\\|何という事だ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 183, Pos (1,0)
+msgid ""
+"\n"
+"男性：\n"
+"\\S[2]助かるんだよな…？"
+msgstr ""
+
+#. ID 4, Page 1, Line 186, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"当たり前だ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 189, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"再出発して第一号の患者。\\.\\.死なせてなるものか。"
+msgstr ""
+
+#. ID 4, Page 1, Line 192, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"だがそれには、お前達のサポートが必要だ。\\|\n"
+"しっかり動いて貰うぞ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 196, Pos (1,0)
+msgid ""
+"\n"
+"男性：\n"
+"ああ、\\.\\.何だってする。\\|\n"
+"だからイリエナを助けてやって呉れ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 200, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"任せておけ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 204, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"大丈夫だイリエナ。\\.\\.\n"
+"このわしが絶対に助けてみせる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 208, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"捨てずに取っておいたこの白衣と医療道具。\\|\n"
+"今日を境に、二度と埃を被らせはせん。"
+msgstr ""
+
+#. ID 4, Page 1, Line 212, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"生涯現役。\\.\\.今こそ見せて遣ろう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 215, Pos (1,0)
+msgid ""
+"\n"
+"老人：\n"
+"このランゲル･ハルスの真の腕前をな。"
+msgstr ""
+

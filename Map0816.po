@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ガイアキャンサーの消滅に依って、\n"
+"オーグもまたその役割を終えた。"
+msgstr ""
+
+#. ID 11, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"しかしながらこのまま組織を解散させてしまうのは\n"
+"少々勿体無いと感じた私は、彼らに政府との\n"
+"合併の話を持ち掛けた。"
+msgstr ""
+
+#. ID 11, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"気が引ける思いがしなかったと言えば嘘に成る。\\|\n"
+"世間体として政府がオーグを\"取り込む\"イメージは\n"
+"拭い切れないだろう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"しかし私は、これは強弱も貴賎も無い両組織の融和だと\n"
+"自分に言い聞かせた。"
+msgstr ""
+
+#. ID 11, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼らは快く応じて呉れた。\\|\n"
+"私は自分が恥ずかしかった。"
+msgstr ""
+
+#. ID 11, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"オーグは政府と合併し、現在はフェジテ兵士団の\n"
+"ルートフォード支部として機能している。"
+msgstr ""
+
+#. ID 11, Page 1, Line 66, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"無論、元々メンバーだった人達も\n"
+"そのまま残っている。"
+msgstr ""
+
+#. ID 11, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"シャルとリーナは引き続き情報通信オペレーター。\n"
+"組織の頭脳を担う役割に就いている。"
+msgstr ""
+
+#. ID 11, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ニネットも引き続き受付嬢。\n"
+"兵士達を送り出しては、その帰りを待つ仕事。"
+msgstr ""
+
+#. ID 11, Page 1, Line 75, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"またトロイはドナルドの後を継ぎ、\n"
+"嘗てユアンの為に作られていたディスピス治療薬の\n"
+"研究を行っている。"
+msgstr ""
+
+#. ID 11, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"今の所成果は上々で、ガーデンの専門部署への\n"
+"異動話も持ち上がって来ている。"
+msgstr ""
+
+#. ID 11, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"しかし飄々としたマイペースな性格が災いして、\n"
+"現場の幹部は余り乗り気ではないし…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 85, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"何よりこの話は、未だ本人に話していないらしい。"
+msgstr ""
+
+#. ID 11, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"今度折を見て話す予定のようだが、\n"
+"だとすれば白紙に戻るのは時間の問題だろう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼はこのままで良いと思う。"
+msgstr ""
+

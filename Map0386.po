@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (3,4)
+#. ID 27, Page 1, Line 4, Pos (2,4)
+#. ID 28, Page 1, Line 4, Pos (4,4)
+msgid ""
+"レイク：\n"
+"ゲオルクの部屋は目前なんだ。\n"
+"屋上なんか行ってる場合じゃないぜ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (8,13)
+msgid ""
+"補給係：\n"
+"どうも、補給係です。\n"
+"完全回復させて頂きます！"
+msgstr ""
+
+#. ID 9, Page 1, Line 9, Pos (8,13)
+msgid ""
+"補給係：\n"
+"どうも、補給係です。\n"
+"完全回復が得意です。"
+msgstr ""
+
+#. ID 9, Page 1, Line 20, Pos (8,13)
+msgid ""
+"補給係：\n"
+"頑張ってください、応援してます！"
+msgstr ""
+
+#. ID 9, Page 1, Line 24, Pos (8,13)
+msgid ""
+"補給係：\n"
+"自分、こんな事しか出来ませんけど。\n"
+"頑張ってください、応援してます。"
+msgstr ""
+

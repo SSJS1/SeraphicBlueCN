@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (15,4)
+msgid ""
+"＊＊＊：\n"
+"本と本の間から紙切れがはみ出している。\n"
+"何かメモがしてあるようだ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 7, Pos (15,4)
+msgid ""
+"かつて人は楽園を目指した。\n"
+"くまなく、そうくまなく世界を捜し歩いた。\n"
+"すると一人の冒険家は悟る。\n"
+"うなだれた姿を晒して、ただ呟く。"
+msgstr ""
+
+#. ID 1, Page 1, Line 11, Pos (15,4)
+msgid ""
+"世界は全て地獄さ。\n"
+"楽園なんぞ目指した俺達が馬鹿だった。\n"
+"出来る事と言えば【地獄】の【四丁目】で、\n"
+"滅びへの扉を開く事だけさ。"
+msgstr ""
+

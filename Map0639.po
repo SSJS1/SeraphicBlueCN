@@ -1,0 +1,578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 28, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"ようこそ、\"解放の方舟\"へ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 14, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"如何です、\\.\\.この出来栄え？"
+msgstr ""
+
+#. ID 28, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"見事だ。\\.\\.方舟の名を負うに相応しい。"
+msgstr ""
+
+#. ID 28, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"一刻も早く起動させて、\n"
+"その真なる勇姿と威容を見せ付けて遣りたいものよ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 21, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"それはまた。\\|\n"
+"御満足頂けたようで何より。"
+msgstr ""
+
+#. ID 28, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"もう行って宜しいですか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"シーベックスの最終チェックも含めて\n"
+"マスター作業を急がなくてはなりません。"
+msgstr ""
+
+#. ID 28, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"最高の仕上がりにな。"
+msgstr ""
+
+#. ID 28, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"特にシーベックスは黒獅子の眼。\\.\\.\n"
+"くれぐれも…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"抜かり無く。\\|失礼します。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ふむ…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"何時も愛想の無い女では在るが、\n"
+"今日はまた格別だな。"
+msgstr ""
+
+#. ID 28, Page 1, Line 63, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"愛想が無いどころか、\n"
+"少し前からは毎日の様に荒れてますね。"
+msgstr ""
+
+#. ID 28, Page 1, Line 66, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"流石にビンタの音は出ませんが、\n"
+"金切り声のヒステリックなのは日に最低３回。"
+msgstr ""
+
+#. ID 28, Page 1, Line 69, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"つい先日、１日だけ午前上がりで午後は休暇を\n"
+"取ってましたが、まるで効果ナシです。"
+msgstr ""
+
+#. ID 28, Page 1, Line 72, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"部下が不憫な事で。"
+msgstr ""
+
+#. ID 28, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"不穏だな。\\.\\.何かトラブルでも在ったか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 76, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"いいえ、全てが順調。\\|\n"
+"何一つ問題は起きてません。"
+msgstr ""
+
+#. ID 28, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"それでも尚あの態度…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ハイディ…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 93, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"でも今回ばかりは、\n"
+"当然と言えば当然なんですがね。"
+msgstr ""
+
+#. ID 28, Page 1, Line 96, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"技術屋にとってマスター作業ってのは\n"
+"最後にして最もピリピリする作業ステージ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 99, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"失敗は許されない。\\|リミットまでの時間も無い。\\|\n"
+"息吐く間も無く作業、作業、作業。"
+msgstr ""
+
+#. ID 28, Page 1, Line 102, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"まして今回はそれに加え、\n"
+"同じ船の中にゲオルク様がいらっしゃる。"
+msgstr ""
+
+#. ID 28, Page 1, Line 105, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"コイツはとんでもないプレッシャーですよ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 110, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"成る程。\\.\\.技術屋とはそういうものなのか。"
+msgstr ""
+
+#. ID 28, Page 1, Line 112, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ならば開発部門の最高責任者、\n"
+"第一主任ハイディが鬼女の形相をするのは必然。"
+msgstr ""
+
+#. ID 28, Page 1, Line 118, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"だがその一方で、\\.\\.第二主任のお前は\n"
+"まるで平気な顔をしているな？"
+msgstr ""
+
+#. ID 28, Page 1, Line 121, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"そりゃまあ。\\.\\.\n"
+"晴れ舞台が迫ってますからね。"
+msgstr ""
+
+#. ID 28, Page 1, Line 124, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ほう、\\.\\.若造が中々吹くではないか。"
+msgstr ""
+
+#. ID 28, Page 1, Line 126, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"その点に於いてはハイディをも上回ると、\n"
+"そう言いたいのか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 129, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"いえいえ、\\.\\.別にそんな。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 131, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ただ彼女の場合、\n"
+"良くも悪くもシリアスが過ぎるかな、と。"
+msgstr ""
+
+#. ID 28, Page 1, Line 137, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"何を言うかと思えば。\\.\\.\n"
+"扱い辛さではお前とて然したる差は無いわ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 140, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"寧ろ今に限れば、\n"
+"お前こそ少しは口元を引き締めては如何かと。"
+msgstr ""
+
+#. ID 28, Page 1, Line 146, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"御喋りは終わりだ、若造。\\|\n"
+"持ち場に戻って作業を再開しろ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 149, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"努めて黙々とな。"
+msgstr ""
+
+#. ID 28, Page 1, Line 154, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ええ、\\.\\.努力してみます。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 163, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 165, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"如何思う？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 167, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"彼は何も考えてないわ。\\.\\.\n"
+"脳天気の粋がり。"
+msgstr ""
+
+#. ID 28, Page 1, Line 170, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"それでは…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 172, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"彼女は相変わらず…。\\|\n"
+"何を考えているのか分からない…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 182, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"さて、かの女史の御機嫌麗しからざるは…。\\|\n"
+"その眼差しが何処までも冷たき事は…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 185, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"果たして何が、\\.\\.そうさせるや。"
+msgstr ""
+
+#. ID 28, Page 1, Line 190, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"まあ、構わん。\\.\\.\n"
+"結果に影響は無い。"
+msgstr ""
+
+#. ID 28, Page 1, Line 193, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"いずれ巻き起こる巨大な流れの中にて、\\.\\.\n"
+"私以外の総ては無力に流され、\\.\\.散って行くのだから。"
+msgstr ""
+
+#. ID 28, Page 1, Line 199, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ラージュよ。\\|\n"
+"今はまだ少し眠るが良い。"
+msgstr ""
+
+#. ID 28, Page 1, Line 202, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そして目覚めし時には、\n"
+"その鉄槌を高々と掲げるのだ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 205, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"神の御名に、\\.\\.ゲオルクの名を刻むべく…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 7, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"10時の方向に中型飛行船を確認。\n"
+"真っ直ぐ此方に向かって来ます。"
+msgstr ""
+
+#. ID 28, Page 2, Line 10, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"フェジテ軍か？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 12, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"違うようです。\n"
+"データベースでは旧式の中型輸送船に近いと…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 18, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"オーグの連中か…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 23, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"船体強度は？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 25, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"デフォルトでは類型飛行船のトップクラスです。\n"
+"更に強化が施されていた場合、\n"
+"デイジー機にも匹敵すると推測されます。"
+msgstr ""
+
+#. ID 28, Page 2, Line 29, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"成る程、\\.\\.それはまた都合の良い事だ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 31, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"中途半端な堅牢さは\n"
+"却って身を滅ぼす事を教えて遣ろう。"
+msgstr ""
+
+#. ID 28, Page 2, Line 37, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"迎撃トラップの準備だ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 39, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"了解。\\.\\.インターフェースをオープンします。"
+msgstr ""
+
+#. ID 28, Page 2, Line 47, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"トラップレベル、Ｂ。\n"
+"ターミネーター、バスターライフルＡ。\n"
+"バレット、ペネトレイター1200。"
+msgstr ""
+
+#. ID 28, Page 2, Line 51, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"オプションで\n"
+"クルーガードＳをプラグインしろ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 54, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"クルーガードＳは保護用バリアフィールドです。\n"
+"敵船の乗員を保護する事に成りますが？"
+msgstr ""
+
+#. ID 28, Page 2, Line 57, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"構わん。\\.\\.目的は船を落とす事で在って\n"
+"奴らを殺す事ではない。"
+msgstr ""
+
+#. ID 28, Page 2, Line 60, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ヴェーネを生きて確保せねば。"
+msgstr ""
+
+#. ID 28, Page 2, Line 62, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"了解。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 67, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"オーダー、コンプリート。\n"
+"これよりオペレーションをスタンバイします。"
+msgstr ""
+
+#. ID 28, Page 2, Line 79, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"それとブルーウィングを１機\n"
+"スタンバイしておけ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 82, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"了解。\\.\\.連絡用輸送機ブルーウィング、\n"
+"スタンバイします。"
+msgstr ""
+
+#. ID 28, Page 2, Line 93, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ブルーウィングにて発進準備だ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 95, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ロアノークの不時着が確認され次第発進。\\|\n"
+"速やかにヴェーネを回収して戻って来い。"
+msgstr ""
+
+#. ID 28, Page 2, Line 98, Pos (0,0)
+msgid ""
+"黒服：\n"
+"他の者達は？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 100, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"始末しろ。\\.\\.だが先ず最初にヴェーネを連れて来い。"
+msgstr ""
+
+#. ID 28, Page 2, Line 102, Pos (0,0)
+msgid ""
+"黒服：\n"
+"承知しました。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 113, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"さっきのキレっぷりが嘘みたい。"
+msgstr ""
+
+#. ID 28, Page 2, Line 116, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"シリアを前にしては、\n"
+"全ての物事は霞まざるを得ないのだ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 119, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ハイディを赦す訳？"
+msgstr ""
+
+#. ID 28, Page 2, Line 121, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"赦しはせんが、血眼で追う事も在るまい。"
+msgstr ""
+
+#. ID 28, Page 2, Line 123, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"それこそ最後の最後まで\n"
+"あの女狐に弄ばれるというものだ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 126, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"奴が仕掛けた細工も程無くして外される。\\|\n"
+"鉄槌が復活する時も遠くない。"
+msgstr ""
+
+#. ID 28, Page 2, Line 132, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"此処は一つ寛容に、善く働いて呉れたと。"
+msgstr ""
+
+#. ID 28, Page 2, Line 134, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そう言っておこうか。"
+msgstr ""
+
+#. ID 28, Page 2, Line 136, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"正しい判断だ。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 141, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"さあ、来るが良い。\\.\\.\n"
+"ヴェーネ･アンスバッハよ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 144, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"我が愛しきシリアの魂を携えて。"
+msgstr ""
+

@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 7, Pos (0,0)
+msgid ""
+"シャル：\n"
+"う～ん。\\.\\.もう少し右かしら？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 9, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"こんな感じ？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 11, Pos (0,0)
+msgid ""
+"シャル：\n"
+"ああ、\\.\\.それじゃ行き過ぎ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 13, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"このくらい？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 15, Pos (0,0)
+msgid ""
+"シャル：\n"
+"そうね…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 17, Pos (0,0)
+msgid ""
+"シャル：\n"
+"ゴメン。\\.\\.さっきので良いわ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 19, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"もう、\\.\\.何なのよ…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 30, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"よう、\\.\\.御二人さん。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 32, Pos (0,0)
+msgid ""
+"シャル：\n"
+"あら。\\.\\.こんな所で如何したの？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 34, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"見学も兼ねて散歩だよ。\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 43, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"これ、\\.\\.写真？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 45, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"そう。\\.\\.この戦いで逝ってしまった人達…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 47, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"左がレイク。\\.\\.右がケイン。\\.\\.\n"
+"そして真ん中がユアンさん。"
+msgstr ""
+
+#. ID 12, Page 1, Line 50, Pos (0,0)
+msgid ""
+"シャル：\n"
+"こうして見守って呉れてれば、\\.\\.\n"
+"結構心強いかなって思ってね。"
+msgstr ""
+
+#. ID 12, Page 1, Line 56, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 65, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"\\S[2]あれ…？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 68, Pos (0,0)
+msgid ""
+"シャル：\n"
+"何？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 73, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"コイツ…。\\|何処かで見たような…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 75, Pos (0,0)
+msgid ""
+"シャル：\n"
+"ケインの事？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 77, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"ロビン秘密工場じゃない？\\|\n"
+"貴方とハイディって人が邪魔に入ったんでしょ？"
+msgstr ""
+
+#. ID 12, Page 1, Line 81, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"まあ…。\\.\\.邪魔したのは本当だけどさ…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 83, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"でもあの時、コイツは居なかったぜ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 88, Pos (0,0)
+msgid ""
+"シャル：\n"
+"そっか…。\\.\\.\n"
+"この時って確か女王反逆の真っ最中…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 91, Pos (0,0)
+msgid ""
+"シャル：\n"
+"ユアンさんとケインは、\n"
+"デイジーさん達の護衛で此処に残ってたんだっけ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 99, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"でもこの顔…。\\|\n"
+"絶対に何処かで見たんだよな…。"
+msgstr ""
+
+#. ID 12, Page 2, Line 12, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"そうだよ…。\\.\\.\n"
+"ハイディの息子にそっくりなんだ…。"
+msgstr ""
+
+#. ID 12, Page 2, Line 18, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"まあ、\\.\\.確かに写真自体は11年前と古かったけどな。"
+msgstr ""
+
+#. ID 12, Page 2, Line 27, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"感じとか、良く似てる。"
+msgstr ""
+
+#. ID 12, Page 2, Line 29, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"所謂オンナ顔ってのか？\\.\\.\n"
+"ガキの頃と余り造形が変わってないだろうし…。"
+msgstr ""
+
+#. ID 12, Page 2, Line 32, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"この雰囲気も。\\.\\.尖ってる感じとかさ。"
+msgstr ""
+
+#. ID 12, Page 2, Line 37, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"へぇ…。\\.\\.そうなんだ…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 2, Line 39, Pos (0,0)
+msgid ""
+"シャル：\n"
+"現物が無いんじゃ何とも言えないけど。"
+msgstr ""
+
+#. ID 12, Page 2, Line 44, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"自分にそっくりな人間が世界に３人は居るって\n"
+"よく言われるけれど、実際在るものなのね…。"
+msgstr ""
+
+#. ID 12, Page 2, Line 47, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"若しかしてハイディの息子なんじゃないのか？"
+msgstr ""
+
+#. ID 12, Page 2, Line 49, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"俺の知る限り、何か家族やら金の関係で\n"
+"問題抱えてたみたいだし。"
+msgstr ""
+
+#. ID 12, Page 2, Line 52, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"借金の所為で生き別れたとか。\\.\\.\n"
+"離婚して旦那に持ってかれたとか。"
+msgstr ""
+
+#. ID 12, Page 2, Line 57, Pos (0,0)
+msgid ""
+"シャル：\n"
+"それは無いわよ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 2, Line 59, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"何でだ？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 2, Line 65, Pos (0,0)
+msgid ""
+"シャル：\n"
+"ケインの両親は、\\.\\.もう死んでるの。"
+msgstr ""
+
+#. ID 12, Page 2, Line 68, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"妹さんがルシファーに成ってしまって…。\\|\n"
+"絶望した両親がマリバンドホープから身投げしたのよ。"
+msgstr ""
+
+#. ID 12, Page 2, Line 71, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"うわっ…。\\.\\.そいつはまた\\_Heavy\\_な…。"
+msgstr ""
+
+#. ID 12, Page 2, Line 82, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"他人の空似か…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 2, Line 84, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"それに生き別れの息子だとしても、\\.\\.\n"
+"本人死亡のハイディ行方不明じゃ話に成らないし。"
+msgstr ""
+
+#. ID 12, Page 2, Line 90, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"まあ此処に来たのも縁だ。\\.\\.\n"
+"御冥福をお祈り申し上げよう。"
+msgstr ""
+
+#. ID 12, Page 2, Line 96, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 12, Page 2, Line 105, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"それじゃ、\\.\\.またな。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 2, Line 107, Pos (0,0)
+msgid ""
+"シャル：\n"
+"何か名案が在ったら\n"
+"ヴェーネ達に教えてあげてね。"
+msgstr ""
+
+#. ID 12, Page 2, Line 110, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 3, Line 12, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"最後の戦いへ！"
+msgstr ""
+
+#. ID 12, Page 3, Line 65, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"みんな。\\.\\.\n"
+"今まで協力して呉れた事に感謝するわ。"
+msgstr ""
+
+#. ID 12, Page 3, Line 68, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私達は今、最後の戦いに臨もうとしている…。"
+msgstr ""
+
+#. ID 12, Page 3, Line 70, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"だからお願い。\\.\\.\n"
+"もう少しの間だけ、私に力を貸して。"
+msgstr ""
+
+#. ID 12, Page 3, Line 78, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"レイク。\\|ユアン。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 3, Line 80, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そしてシリア。\\|ヴェーネ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 3, Line 82, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"消えていった生命に誓う。\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 3, Line 84, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ケイン達を退け、\\.\\.そしてエルを滅し…。\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 3, Line 86, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"この世界を救う事を。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 3, Line 93, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"最後の戦いへ！\\|\\.\\.\\^"
+msgstr ""
+

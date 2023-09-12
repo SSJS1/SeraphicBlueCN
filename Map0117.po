@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 16, Pos (4,6)
+#. ID 9, Page 1, Line 4, Pos (4,4)
+msgid ""
+"女性：\n"
+"いらっしゃいませ。一泊\\_\\V[4801]\\_ディアです。"
+msgstr ""
+
+#. ID 3, Page 1, Line 19, Pos (4,6)
+#. Contains choice at line 3 (1 options)
+msgid ""
+"レイク：\n"
+"(休むにはまだ早いか…。)"
+msgstr ""
+
+#. ID 3, Page 1, Line 21, Pos (4,6)
+#. Choice (1 options, embedded in a message)
+msgid "休憩しない"
+msgstr ""
+
+#. ID 3, Page 1, Line 26, Pos (4,6)
+#. ID 9, Page 1, Line 17, Pos (4,4)
+#. ID 9, Page 1, Line 23, Pos (4,4)
+msgid ""
+"女性：\n"
+"またの御来店を御待ちしております。"
+msgstr ""
+
+#. ID 3, Page 1, Line 30, Pos (4,6)
+msgid ""
+"女性：\n"
+"またのご来店をお待ちしております。"
+msgstr ""
+
+#. ID 5, Page 1, Line 9, Pos (0,0)
+#. ID 5, Page 1, Line 230, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そう成ると、次の目的地はあそこで良いのか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ええ。\\.此処から南西の東海岸沿い。\\.\\.\n"
+"世界最大の商業都市ダルムシュタットです。"
+msgstr ""
+
+#. ID 5, Page 1, Line 29, Pos (0,0)
+msgid ""
+"レイク：\n"
+"記憶は如何だ？"
+msgstr ""
+
+#. ID 5, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"残念だけど…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 36, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"感じる物は確かに在ったわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう言えば天使＜わたし＞は\n"
+"この様な存在だったという、身に憶えが…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも其処で糸が切れてしまって、\n"
+"其処に付随する肝要な事実を引き寄せられないの。"
+msgstr ""
+
+#. ID 5, Page 1, Line 49, Pos (0,0)
+msgid ""
+"レイク：\n"
+"要するにアレか…。\\|\n"
+"喉元まで出掛かってるって奴。"
+msgstr ""
+
+#. ID 5, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そうね。\\.\\.丁度そんな感じ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"中々惜しい所まで、\n"
+"一応来てはいるんですね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"決して無駄足ではなかったわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"もう少しインパクトの強い、\n"
+"強靭な記憶の糸が与えられれば…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 65, Pos (0,0)
+msgid ""
+"レイク：\n"
+"インパクト、\\.\\.か…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 67, Pos (0,0)
+msgid ""
+"レイク：\n"
+"後はアサシンの野郎が落として行った\n"
+"黒獅子のボタン位だけどな…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 70, Pos (0,0)
+msgid ""
+"レイク：\n"
+"さっきお前がジロジロ見ても、\n"
+"別に何も無かっただろう？"
+msgstr ""
+
+#. ID 5, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ええ。\\.\\.見た事が在るという\n"
+"漠然とした感じだけ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 76, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それ以上は何も。"
+msgstr ""
+
+#. ID 5, Page 1, Line 81, Pos (0,0)
+msgid ""
+"レイク：\n"
+"いよいよ手詰まりか…。\\|\n"
+"せめてその黒獅子から繋がる物が在れば…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"\"当て\"が無い訳では在りませんよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 91, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 93, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私がバウンティハンターをしていた頃の相棒が、\n"
+"ダルムシュタットでバーを経営しているんです。"
+msgstr ""
+
+#. ID 5, Page 1, Line 96, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"バーを？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そうです。\\.\\.\n"
+"表向きはバーで、その実は情報屋。"
+msgstr ""
+
+#. ID 5, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"彼の情報収集能力はとても優れていて、\n"
+"昔は良く賞金首の最新情報を持って来たものです。"
+msgstr ""
+
+#. ID 5, Page 1, Line 104, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"だからコンビ解散後の今でも、\n"
+"彼はその能力を生かし情報屋を営んでいる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 107, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私は危ないから止めろと言っているのですが、\n"
+"アサシン等が絡む裏社会にもパイプを持っています。"
+msgstr ""
+
+#. ID 5, Page 1, Line 110, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ですからこのボタンの現物を彼に見せれば、\n"
+"或いは黒獅子に関する何らかの情報が…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 117, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"如何です？\\.\\.\n"
+"彼に会いにダルムシュタットまで。"
+msgstr ""
+
+#. ID 5, Page 1, Line 124, Pos (0,0)
+msgid ""
+"レイク：\n"
+"確かにそれは助かるけどな…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"これは元々私とレイクの問題だし、\n"
+"貴方とはラボまで同行するという約束。"
+msgstr ""
+
+#. ID 5, Page 1, Line 130, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"その約束も済んだ今、\n"
+"貴方が其処までして私達を助ける理由は無いわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 137, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"つれないですね。\\.\\.\n"
+"遠慮なのか拒絶なのか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 140, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"無関係の人を巻き込みたくないの。"
+msgstr ""
+
+#. ID 5, Page 1, Line 142, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私もアサシンと戦ったのですよ？\\|\n"
+"既に巻き込まれた身では在りませんか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 145, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"まだ抜け出せるわ。\\.\\.\n"
+"此処で田舎＜ホーイック＞に引き揚げさえすれば。"
+msgstr ""
+
+#. ID 5, Page 1, Line 151, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それに同行するにしても教会は如何する？\\|\n"
+"ラボに行くだけの予定で出て来たんだろう？"
+msgstr ""
+
+#. ID 5, Page 1, Line 155, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それなら心配要りませんよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 157, Pos (0,0)
+msgid ""
+"レイク：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 164, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"神に仕える者の勘とでも言うのでしょうか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 166, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"或いは天使に出遭うという、\n"
+"その稀有な体験からの高揚感でしょうか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 169, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"何れにせよ、\\.\\.私は貴方達に対して運命的な物、\n"
+"言葉を変えれば\"主の導き\"を感じたのです。"
+msgstr ""
+
+#. ID 5, Page 1, Line 175, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それで？ \\.\\.結局如何したの？"
+msgstr ""
+
+#. ID 5, Page 1, Line 177, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"縁在って暫く同行するかも知れないと\n"
+"彼らに伝えておきました。"
+msgstr ""
+
+#. ID 5, Page 1, Line 183, Pos (0,0)
+msgid ""
+"レイク：\n"
+"主の導きと言うより、\n"
+"只の用意周到だと思うがな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 187, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"しかしこれが予定調和だと仮定すれば、\n"
+"そう言えなくもないでしょう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 193, Pos (0,0)
+msgid ""
+"レイク：\n"
+"やれやれ…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 199, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも…\\.\\.やっぱり気が引けるわね…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 201, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"気負う事は在りませんよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 203, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私は聖職者。\\.\\.人助けは本業です。"
+msgstr ""
+
+#. ID 5, Page 1, Line 208, Pos (0,0)
+msgid ""
+"レイク：\n"
+"人の厚意は素直に受け取れって事か。"
+msgstr ""
+
+#. ID 5, Page 1, Line 211, Pos (0,0)
+msgid ""
+"レイク：\n"
+"なあヴェーネ？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 216, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そうね…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 222, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それじゃあニクソン、\\.\\.お願い出来るかしら？"
+msgstr ""
+
+#. ID 5, Page 1, Line 224, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"この先も宜しく。"
+msgstr ""
+
+#. ID 5, Page 1, Line 233, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ええ。\\.\\.此処から南西の東海岸沿い。\\.\\.\n"
+"世界最大の商業都市ダルムシュタットです。"
+msgstr ""
+
+#. ID 5, Page 1, Line 239, Pos (0,0)
+msgid ""
+"レイク：\n"
+"なあ、\\.\\.しつこいようだが\n"
+"一応これだけは言っておくぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 242, Pos (0,0)
+msgid ""
+"レイク：\n"
+"こんな事に首を突っ込んでどんな事態に成っても、\n"
+"文句は言わないで呉れよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 245, Pos (0,0)
+msgid ""
+"レイク：\n"
+"さっきヴェーネが言った通り、\n"
+"此処で引き揚げればまだ間に合うんだからな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 248, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"分かっていますよ。\\.\\.\n"
+"全ては私から言い出した事。"
+msgstr ""
+
+#. ID 5, Page 1, Line 251, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"後でどんな事態に成っても、\n"
+"決して文句は言いませんよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 285, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そう言えば、\\.\\.この西部大陸のモンスターは\n"
+"東部大陸より強いって聞いたな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 288, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ショップの品揃えが更新されてるかも知れないから、\n"
+"一度顔を出しておくか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 306, Pos (0,0)
+msgid ""
+"\\>\\C[10]【ショップのラインナップ】\\C[0]\n"
+"ショップのラインナップは全国共通です。\n"
+"\"あの街で買える装備は弱い\"とか、\n"
+"\"この街で買える装備は強い\"という事は在りません。"
+msgstr ""
+
+#. ID 5, Page 1, Line 310, Pos (0,0)
+msgid ""
+"\\>\\C[10]【ショップのラインナップ】\\C[0]\n"
+"ストーリーが或る程度進むとラインナップが一新され、\n"
+"より優れた装備が購入可能に成ります。"
+msgstr ""
+
+#. ID 5, Page 1, Line 313, Pos (0,0)
+msgid ""
+"\\>\\C[10]【ショップのラインナップ】\\C[0]\n"
+"新しい土地に来たり、新しい展開に成った時に\n"
+"概してラインナップが一新されますので、\n"
+"忘れずにチェックしてみてください。"
+msgstr ""
+
+#. ID 9, Page 1, Line 9, Pos (4,4)
+msgid ""
+"女性：\n"
+"ごゆっくり御休みください。"
+msgstr ""
+
+#. ID 9, Page 1, Line 27, Pos (4,4)
+msgid ""
+"女性：\n"
+"ディザスティアの丘は、\n"
+"この宿の３階からでも御眺望出来ますよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 3, Pos (13,9)
+msgid ""
+"男性：\n"
+"ディザスティアを倒した事で、\n"
+"ランサード･シャイアンは英雄視されるようになった。"
+msgstr ""
+
+#. ID 10, Page 1, Line 6, Pos (13,9)
+msgid ""
+"男性：\n"
+"だがある意味では、ディザスティアが\n"
+"現れて呉れたからこそ、英雄視されるように\n"
+"なったとも言える。"
+msgstr ""
+
+#. ID 10, Page 1, Line 10, Pos (13,9)
+msgid ""
+"男性：\n"
+"まぁ、肝心なランサード自身はどんな心境なのか。\n"
+"それは我々には知る由も無いのだけどね。"
+msgstr ""
+
+#. ID 11, Page 1, Line 3, Pos (11,10)
+msgid ""
+"女性：\n"
+"机の上に耳をベタッてくっ付けると、\n"
+"ごわごわした音が聞こえたりして、なんか面白いの。"
+msgstr ""
+

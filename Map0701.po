@@ -1,0 +1,728 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 47, Pos (0,0)
+#. ID 7, Page 1, Line 62, Pos (0,1)
+msgid ""
+"ヴェーネ：\n"
+"もう大丈夫なの？"
+msgstr ""
+
+#. ID 3, Page 1, Line 49, Pos (0,0)
+#. ID 7, Page 1, Line 64, Pos (0,1)
+msgid ""
+"レイク：\n"
+"何とか。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 54, Pos (0,0)
+#. ID 7, Page 1, Line 69, Pos (0,1)
+msgid ""
+"レイク：\n"
+"終わったな…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 56, Pos (0,0)
+#. ID 7, Page 1, Line 71, Pos (0,1)
+msgid ""
+"ヴェーネ：\n"
+"これでユアンやシリアの魂も、\n"
+"少しは救われるかしらね…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 59, Pos (0,0)
+#. ID 7, Page 1, Line 74, Pos (0,1)
+msgid ""
+"レイク：\n"
+"元には戻れないけどな。\\|\n"
+"慰めと、少しの生きる力には成るだろ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 65, Pos (0,0)
+#. ID 7, Page 1, Line 80, Pos (0,1)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]そうね…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 130, Pos (0,0)
+#. ID 7, Page 1, Line 145, Pos (0,1)
+msgid ""
+"レイク：\n"
+"ゲオルク…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 132, Pos (0,0)
+#. ID 7, Page 1, Line 147, Pos (0,1)
+msgid ""
+"ヴェーネ：\n"
+"まだ生きていたの…!?\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 134, Pos (0,0)
+#. ID 7, Page 1, Line 149, Pos (0,1)
+msgid ""
+"ゲオルク：\n"
+"\\S[3]このまま死んで堪るかァー！"
+msgstr ""
+
+#. ID 3, Page 1, Line 136, Pos (0,0)
+#. ID 7, Page 1, Line 151, Pos (0,1)
+msgid ""
+"ゲオルク：\n"
+"\\S[3]私は世界を屠る者ッ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 138, Pos (0,0)
+#. ID 7, Page 1, Line 153, Pos (0,1)
+msgid ""
+"ゲオルク：\n"
+"\\S[3]道連れに貴様らの生命を屠って呉れる！"
+msgstr ""
+
+#. ID 3, Page 1, Line 143, Pos (0,0)
+#. ID 7, Page 1, Line 158, Pos (0,1)
+msgid ""
+"レイク：\n"
+"無駄に長生きしやがって、\\.\\.この糞ジジイ…！"
+msgstr ""
+
+#. ID 3, Page 1, Line 145, Pos (0,0)
+#. ID 7, Page 1, Line 160, Pos (0,1)
+msgid ""
+"ヴェーネ：\n"
+"とんだ死に損ないね…！"
+msgstr ""
+
+#. ID 3, Page 1, Line 150, Pos (0,0)
+#. ID 7, Page 1, Line 165, Pos (0,1)
+msgid ""
+"ゲオルク：\n"
+"\\S[3]さあ…\\.\\.貴様らの血肉を食わせろォ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 152, Pos (0,0)
+#. ID 7, Page 1, Line 167, Pos (0,1)
+msgid ""
+"ヴェーネ：\n"
+"くッ…！ \\.\\.如何すれば…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 157, Pos (0,0)
+#. ID 7, Page 1, Line 172, Pos (0,1)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 162, Pos (0,0)
+#. ID 7, Page 1, Line 177, Pos (0,1)
+msgid ""
+"レイク：\n"
+"ヴェーネ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 165, Pos (0,0)
+#. ID 7, Page 1, Line 180, Pos (0,1)
+msgid ""
+"ヴェーネ：\n"
+"何か良い手が？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 174, Pos (0,0)
+#. ID 7, Page 1, Line 189, Pos (0,1)
+msgid ""
+"レイク：\n"
+"\\S[3]元気でな。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 180, Pos (0,0)
+#. ID 7, Page 1, Line 195, Pos (0,1)
+msgid ""
+"ヴェーネ：\n"
+"えっ\\S[10]………？\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 260, Pos (0,0)
+#. ID 7, Page 1, Line 275, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[10]レイク…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 266, Pos (0,0)
+#. ID 7, Page 1, Line 281, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：レイク\\S[2]ーーーーーッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 276, Pos (0,0)
+#. ID 7, Page 1, Line 292, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：\\S[2]くそう！ \\.\\.放せェ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 279, Pos (0,0)
+#. ID 7, Page 1, Line 295, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：誰が放すかよ！\\|\n"
+"てめえは俺の手で地獄に送ってやる！\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 283, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：\\S[2]分かっているのか…！\\|\n"
+"こんな事をしたら貴様の生命も…！\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 287, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：分かってるッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 291, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：これで良いんだよ。\\|\n"
+"やっと見付けた死に場所なんだからな。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 295, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：\\S[3]馬鹿なっ…！\\| このキチガイがっ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 298, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：馬鹿はてめえだ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 301, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：思った事在るのかよ？\\|\n"
+"母さんの為なら自分の生命を捨てられると。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 305, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：\\S[3]ぐっ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 308, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：何が黒獅子だ。\\|笑わせんな。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 311, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：何にも生命を賭けられない、\\.\\.\n"
+"とんだ腑抜け野郎じゃねえか。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 315, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：ユアンのが、\\.\\.余程デカい奴だった！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 319, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：終わらせてやるよ…！\\|\n"
+"てめえにはもう何も喰わせねえ…！\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 324, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：ヴェーネは、\\.\\.俺が守る！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 327, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"レイク：あいつには、\\.\\.未来が在るんだよ！\\|\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 14, Pos (1,0)
+#. ID 6, Page 1, Line 101, Pos (1,0)
+#. ID 7, Page 2, Line 249, Pos (0,1)
+#. ID 7, Page 2, Line 336, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]レイク…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 28, Pos (1,0)
+#. ID 7, Page 2, Line 263, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ユアン：行ってやりな。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 32, Pos (1,0)
+#. ID 7, Page 2, Line 267, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]ユアン…。\\|ヴェーネ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 35, Pos (1,0)
+#. ID 7, Page 2, Line 270, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"オーファ：レイクは、\\.\\.\n"
+"他ならぬ貴女自身の為に生命を燃やしたのよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 40, Pos (1,0)
+#. ID 7, Page 2, Line 275, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]私の…\\.\\.為に…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 43, Pos (1,0)
+#. ID 7, Page 2, Line 278, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ユアン：今レイクの心の中に在るのは唯一人。"
+msgstr ""
+
+#. ID 6, Page 1, Line 46, Pos (1,0)
+#. ID 7, Page 2, Line 281, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ユアン：ヴェーネ。\\.\\.お前だけだ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 49, Pos (1,0)
+#. ID 7, Page 2, Line 284, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ユアン：シリアの残響に身を寄せる訳でもなく、\n"
+"純粋にお前自身の事を思い遣って…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 53, Pos (1,0)
+#. ID 7, Page 2, Line 288, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ユアン：お前の人生を途切れさせない為に、\n"
+"あいつは自分の生命を燃やしたんだよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 57, Pos (1,0)
+#. ID 7, Page 2, Line 292, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ユアン：だから、\\.\\.心を込めて見送ってやれ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 61, Pos (1,0)
+#. ID 7, Page 2, Line 296, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"オーファ：そう…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 64, Pos (1,0)
+#. ID 7, Page 2, Line 299, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"オーファ：彼が生命を捧げた相手＜ひと＞、\n"
+"ヴェーネ･アンスバッハとして。"
+msgstr ""
+
+#. ID 6, Page 1, Line 71, Pos (1,0)
+#. ID 7, Page 2, Line 306, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[5]レイク…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 75, Pos (1,0)
+#. ID 7, Page 2, Line 310, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"オーファ：私とユアンで、貴女の翼に成るわ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 78, Pos (1,0)
+#. ID 7, Page 2, Line 313, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"オーファ：行ってあげて。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 130, Pos (1,0)
+#. ID 7, Page 2, Line 365, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]済まないな。\\|こんな風にしか守れなくて。"
+msgstr ""
+
+#. ID 6, Page 1, Line 134, Pos (1,0)
+#. ID 7, Page 2, Line 369, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]でも…。\\.\\.有難う…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 138, Pos (1,0)
+#. ID 7, Page 2, Line 373, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]ねえ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 141, Pos (1,0)
+#. ID 7, Page 2, Line 376, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]何だ？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 145, Pos (1,0)
+#. ID 7, Page 2, Line 380, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]私は…\\|貴方にとって何者だったのかしら…？"
+msgstr ""
+
+#. ID 6, Page 1, Line 148, Pos (1,0)
+#. ID 7, Page 2, Line 383, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]シリア…？ \\|シリアの残響…？"
+msgstr ""
+
+#. ID 6, Page 1, Line 152, Pos (1,0)
+#. ID 7, Page 2, Line 387, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]いいや。\\.\\.お前はヴェーネだよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 155, Pos (1,0)
+#. ID 7, Page 2, Line 390, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]母さんでもない。\\|まして救世の道具でもない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 158, Pos (1,0)
+#. ID 7, Page 2, Line 393, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]ヴェーネ･アンスバッハ。\\|俺が出会えた大切な人だ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 162, Pos (1,0)
+#. ID 7, Page 2, Line 397, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[20]………。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 166, Pos (1,0)
+#. ID 7, Page 2, Line 401, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]確かに最初は、\\.\\.\n"
+"母さんの温もりに惹かれてたかも知れない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 170, Pos (1,0)
+#. ID 7, Page 2, Line 405, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]でもそれは、お前を否定するという事。\\|\n"
+"母さんだって喜びやしない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 175, Pos (1,0)
+#. ID 7, Page 2, Line 410, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]母さんは逝ってしまった。\\|\n"
+"それは、\\.\\.決して変える事の出来ない現実。"
+msgstr ""
+
+#. ID 6, Page 1, Line 179, Pos (1,0)
+#. ID 7, Page 2, Line 414, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]だからそれを受け入れて、\\.\\.この足で歩き出す。"
+msgstr ""
+
+#. ID 6, Page 1, Line 182, Pos (1,0)
+#. ID 7, Page 2, Line 417, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]母さんは、\\.\\.それを望んでいる。"
+msgstr ""
+
+#. ID 6, Page 1, Line 186, Pos (1,0)
+#. ID 7, Page 2, Line 421, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]俺はお前に母さんの影を見るのではなく、\n"
+"お前自身としての姿を見た。"
+msgstr ""
+
+#. ID 6, Page 1, Line 190, Pos (1,0)
+#. ID 7, Page 2, Line 425, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]だからお前の人生を此処で終わらせたくないと、\\|\n"
+"そう心から思えた。"
+msgstr ""
+
+#. ID 6, Page 1, Line 194, Pos (1,0)
+#. ID 7, Page 2, Line 429, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]それが、\\.\\.俺の答えだ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 197, Pos (1,0)
+#. ID 7, Page 2, Line 432, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]この生命を、\\.\\.お前自身の人生に預ける。\\|\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 201, Pos (1,0)
+#. ID 7, Page 2, Line 436, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]私の…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 206, Pos (1,0)
+#. ID 7, Page 2, Line 441, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]それにしても、清々しい最期だな。\\|\n"
+"こんな気分だなんて夢にも思ってなかった。"
+msgstr ""
+
+#. ID 6, Page 1, Line 210, Pos (1,0)
+#. ID 7, Page 2, Line 445, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]お前に出会ってなければ…。\\|\n"
+"お前と旅をしてなければ…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 214, Pos (1,0)
+#. ID 7, Page 2, Line 449, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]多分腐ったまま、\\.\\.\n"
+"何処かでクソな最期を迎えてたと思う。"
+msgstr ""
+
+#. ID 6, Page 1, Line 218, Pos (1,0)
+#. ID 7, Page 2, Line 453, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]お前に逢えて、\\.\\.一緒に時を過ごせて、\\.\\.\n"
+"本当に良かった。"
+msgstr ""
+
+#. ID 6, Page 1, Line 223, Pos (1,0)
+#. ID 7, Page 2, Line 458, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]お前は如何だ？ \\|俺と逢えて良かったか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 227, Pos (1,0)
+#. ID 7, Page 2, Line 462, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 231, Pos (1,0)
+#. ID 7, Page 2, Line 466, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]私の…\\|素晴らしい思い出よ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 235, Pos (1,0)
+#. ID 7, Page 2, Line 470, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]そうだな…。\\|最高の時間だった…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 238, Pos (1,0)
+#. ID 7, Page 2, Line 473, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]有難う。\\|ヴェーネ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 241, Pos (1,0)
+#. ID 7, Page 2, Line 476, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]私こそ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 245, Pos (1,0)
+#. ID 7, Page 2, Line 480, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]さてと…。\\|お別れだな…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 248, Pos (1,0)
+#. ID 7, Page 2, Line 483, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]………！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 251, Pos (1,0)
+#. ID 7, Page 2, Line 486, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]俺の魂、\\.\\.預かってて呉れるか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 255, Pos (1,0)
+#. ID 7, Page 2, Line 490, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]ええ…。\\.\\.勿論…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 258, Pos (1,0)
+#. ID 7, Page 2, Line 493, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]そうか。\\.\\.そいつは良かった。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 262, Pos (1,0)
+#. ID 7, Page 2, Line 497, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]じゃあな。\\.\\.ヴェーネ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 265, Pos (1,0)
+#. ID 7, Page 2, Line 500, Pos (0,1)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]………!!\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 268, Pos (1,0)
+#. ID 7, Page 2, Line 503, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]頑張れよ。\\|俺達が付いてるからな。\\|\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 271, Pos (1,0)
+#. ID 7, Page 2, Line 506, Pos (0,1)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]みんなで、\\.\\.一緒に生きて行こうぜ。\\|\\|\\^"
+msgstr ""
+

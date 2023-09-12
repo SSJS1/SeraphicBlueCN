@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 75, Pos (0,0)
+msgid ""
+"？？？：\n"
+"おい。\\.\\.生きてるのか？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 80, Pos (0,0)
+msgid ""
+"？？？：\n"
+"こんな所で寝ていると身体を壊すぞ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 85, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]ん………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 108, Pos (0,0)
+#. ID 4, Page 1, Line 352, Pos (0,0)
+msgid ""
+"レイク：\n"
+"取り敢えず、村を適当にうろついてみるか…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 131, Pos (0,0)
+#. ID 4, Page 1, Line 249, Pos (0,0)
+#. ID 4, Page 1, Line 262, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 136, Pos (0,0)
+msgid ""
+"老人：\n"
+"顔色は別に悪くないな。\\.\\.\n"
+"行き倒れという訳でもなさそうだが…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 139, Pos (0,0)
+msgid ""
+"老人：\n"
+"何れにせよ、こんな所で寝るとは変な奴だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 144, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[3]あ、\\.\\.ああ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 146, Pos (0,0)
+msgid ""
+"レイク：\n"
+"此処まで旅してたんだけどな…。\\|\n"
+"急に眠く…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 149, Pos (0,0)
+msgid ""
+"老人：\n"
+"村が直ぐ其処に在るというのに。\\.\\.\n"
+"不眠不休の強行でもしたか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 152, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まあな…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 157, Pos (0,0)
+msgid ""
+"老人：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 162, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何ジロジロ見てんだよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 164, Pos (0,0)
+msgid ""
+"老人：\n"
+"済まん済まん。\\.\\.古くからの知人と\n"
+"顔の雰囲気が良く似ていてな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 167, Pos (0,0)
+msgid ""
+"老人：\n"
+"他人の空似だ。\\.\\.気にせんで呉れ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 173, Pos (0,0)
+msgid ""
+"老人：\n"
+"さてと。\\.\\.それでは私は行くとしようか。"
+msgstr ""
+
+#. ID 4, Page 1, Line 175, Pos (0,0)
+msgid ""
+"老人：\n"
+"今度からは、きちんと宿屋で寝るのだぞ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 177, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 187, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あ…\\.\\.ちょっと待った。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 192, Pos (0,0)
+msgid ""
+"レイク：\n"
+"此処って…\\.\\.何処なんだ？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 197, Pos (0,0)
+msgid ""
+"老人：\n"
+"これまた妙な旅人だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 199, Pos (0,0)
+msgid ""
+"老人：\n"
+"自分の足で此処に来ておいて、\\.\\.\n"
+"此処が何処だか知らんと言うのか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 205, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]ああ…。\\.\\.それは…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 210, Pos (0,0)
+msgid ""
+"レイク：\n"
+"本当は別の目的地が有ったんだけどな。\\.\\.\n"
+"途中で地図を失くして迷っちまって…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 213, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それで何とか辿り着いたのが\n"
+"この村なんだよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 216, Pos (0,0)
+msgid ""
+"老人：\n"
+"ほう、\\.\\.それはまた大変だったな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 218, Pos (0,0)
+msgid ""
+"老人：\n"
+"こんな辺境で迷って人里に辿り着けるとは、\n"
+"中々悪運が強いものよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 224, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それで？ \\.\\.此処は何処なんだ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 226, Pos (0,0)
+msgid ""
+"老人：\n"
+"此処は北部大陸の東の果て。\\.\\.\n"
+"\\C[19]辺境の里イカルイ\\C[0]と呼ばれる村だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 233, Pos (0,0)
+msgid ""
+"レイク：\n"
+"北部大陸…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 235, Pos (0,0)
+msgid ""
+"レイク：\n"
+"おい爺さん。\\.\\.古いジョークなのか知らないけどさ、\n"
+"ちゃんと答えて呉れよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 238, Pos (0,0)
+msgid ""
+"レイク：\n"
+"大陸なんて東部と西部しか無いだろう？"
+msgstr ""
+
+#. ID 4, Page 1, Line 240, Pos (0,0)
+msgid ""
+"老人：\n"
+"はて、\\.\\.それこそ若者の間で流行っている\n"
+"ジョークではないのか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 243, Pos (0,0)
+msgid ""
+"老人：\n"
+"大陸と言えば北部と南部しか無いだろうに。"
+msgstr ""
+
+#. ID 4, Page 1, Line 251, Pos (0,0)
+msgid ""
+"レイク：\n"
+"本気で言ってるのか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 254, Pos (0,0)
+msgid ""
+"老人：\n"
+"本気も何も。\\.\\.常識だろうて。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 256, Pos (0,0)
+msgid ""
+"老人：\n"
+"丁度携帯用の世界地図を持っている。\\|\n"
+"其処まで言うのなら見せて遣ろうか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 269, Pos (0,0)
+msgid ""
+"老人：\n"
+"ほれ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 271, Pos (0,0)
+msgid ""
+"レイク：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 288, Pos (0,0)
+msgid ""
+"老人：\n"
+"何をそんなに驚いている？\\.\\.\n"
+"まるで初めて見たかの様な顔だぞ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 294, Pos (0,0)
+msgid ""
+"レイク：\n"
+"否…。\\|そういう訳じゃないけどさ…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 299, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]そう…\\|そうだ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 304, Pos (0,0)
+msgid ""
+"レイク：\n"
+"寝惚けてんだな、\\.\\.多分。"
+msgstr ""
+
+#. ID 4, Page 1, Line 306, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺って旅が大好きでさ。\\.\\.\n"
+"今見てた夢の中でも旅してて…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 309, Pos (0,0)
+msgid ""
+"レイク：\n"
+"その時持ってた地図には、\n"
+"東と西に大きな大陸が在ったんだよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 312, Pos (0,0)
+msgid ""
+"老人：\n"
+"ほう。\\.\\.筋金入りだな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 317, Pos (0,0)
+msgid ""
+"レイク：\n"
+"疲れが残ってるみたいだ。\\.\\.\n"
+"宿屋に行って寝直すぜ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 323, Pos (0,0)
+msgid ""
+"老人：\n"
+"さて、\\.\\.私はもう行って良いかな？"
+msgstr ""
+
+#. ID 4, Page 1, Line 325, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ。\\.\\.有難う…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 336, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ふざけやがって、あの二人…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 338, Pos (0,0)
+msgid ""
+"レイク：\n"
+"人に生きろだ何だ言っておいて、\\.\\.\n"
+"飛ばした先がこんな訳の分からない異世界かよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 341, Pos (0,0)
+msgid ""
+"レイク：\n"
+"本当に生かす心算有るのか…？"
+msgstr ""
+
+#. ID 4, Page 1, Line 347, Pos (0,0)
+msgid ""
+"レイク：\n"
+"さてと…。\\.\\.何から如何手を付ける？"
+msgstr ""
+
+#. ID 4, Page 1, Line 360, Pos (0,0)
+msgid ""
+"レイク：\n"
+"にしても気に喰わねえ話だ。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 362, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何で俺を起こすのは\n"
+"何時もジジイなんだよ…。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 3, Pos (3,11)
+msgid ""
+"若者：\n"
+"僕、エンヴィのカジノで全財産をスったんですが、\n"
+"此処で自給自足の生活をして、生きていけそうです。"
+msgstr ""
+
+#. ID 7, Page 1, Line 6, Pos (3,11)
+msgid ""
+"若者：\n"
+"エンヴィで失敗した人は、ケイオスに流れずに\n"
+"此処に来れば、再出発できるかも知れないのに…。"
+msgstr ""
+

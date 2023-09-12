@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 24, Page 1, Line 24, Pos (7,3)
+#. ID 24, Page 1, Line 55, Pos (7,3)
+msgid ""
+"\\>\\C[10]【セキュリティ解除】\\C[0]\n"
+"＞地下エネルギープラント行きのエレベーターを\n"
+"  作動します。"
+msgstr ""
+
+#. ID 24, Page 1, Line 35, Pos (7,3)
+msgid ""
+"ユアン：\n"
+"有難う。\\.あんたも早く外に避難して呉れ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 45, Pos (7,3)
+msgid ""
+"\\>\\C[10]【網膜パターンスキャニング】\\C[0]\n"
+"＞網膜パターンをスキャンしました。\n"
+"＞データベースと照合します。"
+msgstr ""
+
+#. ID 24, Page 1, Line 51, Pos (7,3)
+msgid ""
+"\\>\\C[10]【網膜パターンスキャニング】\\C[0]\n"
+"＞照合完了。\n"
+"＞ようこそカーチス･ハミルトンさん。"
+msgstr ""
+
+#. ID 24, Page 1, Line 66, Pos (7,3)
+msgid ""
+"カーチス：\n"
+"これで地下エネルギープラントへ行けます。"
+msgstr ""
+
+#. ID 24, Page 1, Line 68, Pos (7,3)
+msgid ""
+"ユアン：\n"
+"有難う。\\.\\.あんたも早く外に避難して呉れ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 70, Pos (7,3)
+msgid ""
+"カーチス：\n"
+"そうは行きません。\n"
+"逃げ遅れた部下を置いて外に逃げるなど。"
+msgstr ""
+
+#. ID 24, Page 1, Line 73, Pos (7,3)
+msgid ""
+"カーチス：\n"
+"私は部下を全員逃がしてから、\n"
+"最後に此処を出る心算です。"
+msgstr ""
+
+#. ID 24, Page 1, Line 79, Pos (7,3)
+msgid ""
+"ユアン：\n"
+"如何やら、あの評判は本当だったようだな。"
+msgstr ""
+
+#. ID 24, Page 1, Line 81, Pos (7,3)
+msgid ""
+"ユアン：\n"
+"其処まで言うのなら止めやしないが、\n"
+"くれぐれも無理するなよ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 84, Pos (7,3)
+msgid ""
+"カーチス：\n"
+"貴方達も、如何か御武運を。"
+msgstr ""
+
+#. ID 31, Page 1, Line 12, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"ドリス…！ \\.\\.無事だったか…！\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 17, Pos (5,14)
+msgid ""
+"モーガン：\n"
+"これはこれはオーウェン殿。\n"
+"何時の間に縛を逃れたので？"
+msgstr ""
+
+#. ID 31, Page 1, Line 20, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"私の部下は現場で鍛え上げた精鋭揃い。\n"
+"見くびって呉れるなよ。"
+msgstr ""
+
+#. ID 31, Page 1, Line 23, Pos (5,14)
+msgid ""
+"モーガン：\n"
+"そうですか。\\.\\.\n"
+"良い部下に恵まれた事で。"
+msgstr ""
+
+#. ID 31, Page 1, Line 26, Pos (5,14)
+msgid ""
+"モーガン：\n"
+"しかしその働きも\n"
+"直ぐ様徒労に終わるでしょう。"
+msgstr ""
+
+#. ID 31, Page 1, Line 29, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"その台詞、\\.\\.そのまま貴様に返して遣ろう。"
+msgstr ""
+
+#. ID 31, Page 1, Line 34, Pos (5,14)
+msgid ""
+"モーガン：\n"
+"強気ですな。\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 36, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"直にユアン達も応援に駆け付ける。\\.\\.\n"
+"貴様は終わりだ。"
+msgstr ""
+
+#. ID 31, Page 1, Line 39, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"諦めて投降しろ。\\.\\.\n"
+"今ならば公開処刑で華々しく散らせて遣る。"
+msgstr ""
+
+#. ID 31, Page 1, Line 42, Pos (5,14)
+msgid ""
+"モーガン：\n"
+"それはまた僭越至極。"
+msgstr ""
+
+#. ID 31, Page 1, Line 47, Pos (5,14)
+msgid ""
+"モーガン：\n"
+"しかしオーウェン殿。\\.\\.\n"
+"貴殿ともあろう方が状況を把握出来ていないかと。"
+msgstr ""
+
+#. ID 31, Page 1, Line 50, Pos (5,14)
+msgid ""
+"モーガン：\n"
+"私には強力無比の参謀、\n"
+"実行者エンデが付いているのですぞ？"
+msgstr ""
+
+#. ID 31, Page 1, Line 56, Pos (5,14)
+msgid ""
+"モーガン：\n"
+"やれ、\\.\\.エンデ。\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 61, Pos (5,14)
+msgid ""
+"エンデ：\n"
+"悪く思うなよ？\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 90, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"くそう！\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 104, Pos (5,14)
+msgid ""
+"ドリス：\n"
+"オジちゃん！\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 109, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"\\S[10]お…の…れェ…！\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 116, Pos (5,14)
+msgid ""
+"モーガン：\n"
+"元々身体を傷めて今の委員長職に就いた身だろう。\\.\\.\n"
+"少しは弁える事だ。"
+msgstr ""
+
+#. ID 31, Page 1, Line 119, Pos (5,14)
+msgid ""
+"モーガン：\n"
+"\\S[3]なあ、\\.\\.オーウェンよ？\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 126, Pos (5,14)
+msgid ""
+"モーガン：\n"
+"行くぞ。\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 162, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"大丈夫か？\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 164, Pos (5,14)
+msgid ""
+"兵士：\n"
+"私達なら。\\.\\.\n"
+"オーウェン様こそ御怪我は？"
+msgstr ""
+
+#. ID 31, Page 1, Line 167, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"これしきの事で。\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 172, Pos (5,14)
+msgid ""
+"兵士：\n"
+"しかし、\\.\\.これから如何しましょうか…。"
+msgstr ""
+
+#. ID 31, Page 1, Line 174, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"モーガン自身は兎も角として、\n"
+"エンデはとても我々の手に負える代物ではない。"
+msgstr ""
+
+#. ID 31, Page 1, Line 177, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"何とも悔しい事だがな。"
+msgstr ""
+
+#. ID 31, Page 1, Line 182, Pos (5,14)
+msgid ""
+"兵士：\n"
+"では、\\.\\.此処は一時退却と…。"
+msgstr ""
+
+#. ID 31, Page 1, Line 184, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"おい、何を腑抜けた事を言っている？\\.\\.\n"
+"奴らを止める事だけが我々の仕事ではないぞ。"
+msgstr ""
+
+#. ID 31, Page 1, Line 187, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"この本部施設に、逃げ遅れの職員が\n"
+"どれだけ居ると思っているのだ？"
+msgstr ""
+
+#. ID 31, Page 1, Line 190, Pos (5,14)
+msgid ""
+"兵士：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 31, Page 1, Line 192, Pos (5,14)
+msgid ""
+"オーウェン：\n"
+"さあ、\\.\\.仕事だ！\\|\\^"
+msgstr ""
+

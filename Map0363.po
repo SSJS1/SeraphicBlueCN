@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"フェジテ南部…。\\.\\.\n"
+"政府軍との遭遇地点から相当離れたわね…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 11, Pos (0,0)
+#. ID 5, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"この森は北を山地に大きく囲まれ、\n"
+"南には湖が横たわっています。"
+msgstr ""
+
+#. ID 5, Page 1, Line 14, Pos (0,0)
+#. ID 5, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"抜け出すには南西の方角、\n"
+"山地と湖の間の部分を通る以外に在りません。"
+msgstr ""
+
+#. ID 5, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"これは…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ドリス曰く、南紅樹＜ナンコウジュ＞の森だとか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"南紅樹？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"常緑樹に対して常紅樹とでも言うんでしょうか。\\|\n"
+"紅葉でなく常に紅い葉を持つ珍しい樹です。"
+msgstr ""
+
+#. ID 5, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"生息地域はフェジテ南部の群生地、\n"
+"即ちこの南紅樹の森、唯一つ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"フェジテ南部…。\\|\n"
+"政府軍との遭遇地点から相当離れたわね…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"まさかとは思うけど、\\.\\.\n"
+"あの飛行船はもう使えないわよね？"
+msgstr ""
+
+#. ID 5, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ええ、\\.\\.ウンともスンとも言いません。"
+msgstr ""
+
+#. ID 5, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"出口とか、近くには？"
+msgstr ""
+
+#. ID 5, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"否、\\.\\.その辺を軽く歩いてみたんだが…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"デグチはあるけど、とってもトオいよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 76, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"じゃあ差し詰め此処はその対極、\\.\\.\n"
+"森の北東部って所かしら。"
+msgstr ""
+
+#. ID 5, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"状況から鑑みるに、それが濃厚ですね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 85, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"さて如何する？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"如何するも何も。\\.\\.此処を出るわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"だが行く先で\n"
+"フェジテ軍が待ち受けているのは必至だぞ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 92, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そうですね。\\.\\.\n"
+"先程まで上空を偵察機が何度も往復していました。"
+msgstr ""
+
+#. ID 5, Page 1, Line 95, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"此処に直接降りる事が出来ない以上は、\n"
+"森の出口辺りで網を張って待っているでしょう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"だからと言って\n"
+"何時までも此処に居付く訳にも行かないわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"否寧ろ、\\.\\.敢えて彼らに身上を託す意気で。"
+msgstr ""
+
+#. ID 5, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"確かに、この期に及んで無駄な抵抗をしても\n"
+"自らの首を絞めるだけでしょうね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 109, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"それにドリスは同族たるセラパーソン。\\.\\.\n"
+"彼らだって決して悪く扱わない筈。"
+msgstr ""
+
+#. ID 5, Page 1, Line 112, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"あわよくばドリスを\n"
+"オーグまで送り届けて呉れるかも知れない。"
+msgstr ""
+
+#. ID 5, Page 1, Line 118, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 120, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"不服？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"楽観的だな。\\.\\.\n"
+"他のシナリオも考えられるだろう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 125, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"それは此処で言う事じゃないわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"人事を尽くして天命を待つ。\\|\n"
+"今はそれだけ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 133, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"良いだろう。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 140, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ワタシタチ、\\.\\.ダイジョウブなの？"
+msgstr ""
+
+#. ID 5, Page 1, Line 145, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ええ。\\.\\.心配しないで。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 147, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"大丈夫だからね。\\|絶対に。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 8, Pos (5,9)
+#. Contains choice at line 2 (3 options)
+msgid "店員：いらっしゃいませ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 9, Pos (5,9)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 12, Page 1, Line 19, Pos (5,9)
+msgid ""
+"店員：\n"
+"私、ロビンの秘密工場に居た者ですけど…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 21, Pos (5,9)
+msgid ""
+"店員：\n"
+"貴方達にこっそり付いて来たら、\n"
+"こんな所に来ちゃいましたね……。"
+msgstr ""
+
+#. ID 12, Page 1, Line 24, Pos (5,9)
+msgid ""
+"店員：\n"
+"私は私で、何とかしてグラウンドに帰る心算です。\n"
+"お互い頑張りましょう。"
+msgstr ""
+
+#. ID 12, Page 1, Line 35, Pos (5,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"店員：\n"
+"いらっしゃいませ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 37, Pos (5,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+
+#. ID 16, Page 1, Line 48, Pos (7,8)
+#. ID 16, Page 1, Line 77, Pos (7,8)
+msgid ""
+"ドリス：\n"
+"オヤシキだ…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 50, Pos (7,8)
+#. ID 16, Page 1, Line 89, Pos (7,8)
+msgid ""
+"ニクソン：\n"
+"ちょっと訪ねてみましょうか？"
+msgstr ""
+
+#. ID 16, Page 1, Line 52, Pos (7,8)
+#. ID 16, Page 1, Line 91, Pos (7,8)
+msgid ""
+"ニクソン：\n"
+"旅の者だと言えば、\n"
+"或いは休ませて頂けるかもしれません。"
+msgstr ""
+
+#. ID 16, Page 1, Line 79, Pos (7,8)
+msgid ""
+"ヤンシー：\n"
+"本当、湖の上に御屋敷が建ってるわね。\\|\n"
+"こんな人里も無い所なのに。"
+msgstr ""
+
+#. ID 16, Page 1, Line 94, Pos (7,8)
+msgid ""
+"ヤンシー：\n"
+"そうね。\\.\\.もう大分歩いたし。"
+msgstr ""
+
+#. ID 16, Page 1, Line 97, Pos (7,8)
+msgid ""
+"ヤンシー：\n"
+"ドリスも休みたいでしょ？"
+msgstr ""
+
+#. ID 16, Page 1, Line 99, Pos (7,8)
+msgid ""
+"ドリス：\n"
+"うん。\\.\\.ワタシもうヘトヘト。"
+msgstr ""
+
+#. ID 16, Page 1, Line 101, Pos (7,8)
+msgid ""
+"ニクソン：\n"
+"では決まりですね。"
+msgstr ""
+

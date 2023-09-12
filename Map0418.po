@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 3, Pos (10,17)
+msgid ""
+"見張り：\n"
+"境界海が消えてこのザマさ。\n"
+"自殺志願者もビビって逃げ出すぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 7, Pos (1,22)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 12, Pos (1,22)
+msgid ""
+"ヴェーネ：\n"
+"納得してないわね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 14, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、\\.\\.あの顔は。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 19, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"でも何でケインの両親が黒幕だなんて\n"
+"突拍子も無い発想が…？"
+msgstr ""
+
+#. ID 5, Page 1, Line 22, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"剰え母親の方はハイディだと言い切る始末。"
+msgstr ""
+
+#. ID 5, Page 1, Line 24, Pos (1,22)
+msgid ""
+"ヴェーネ：\n"
+"私も知らないわ。\\.\\.\n"
+"兎に角俺を信じろの一点張り。"
+msgstr ""
+
+#. ID 5, Page 1, Line 27, Pos (1,22)
+msgid ""
+"ヴェーネ：\n"
+"部屋に篭る気も起きなかったから、\n"
+"こうして来てはみたけれど…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 33, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"７年も前に死んでしまった人間が\n"
+"黒幕に成れる筈が無い。"
+msgstr ""
+
+#. ID 5, Page 1, Line 36, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"無論、ハイディとケインも全くの無関係。"
+msgstr ""
+
+#. ID 5, Page 1, Line 38, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"また部屋に篭り直し。"
+msgstr ""
+
+#. ID 5, Page 1, Line 40, Pos (1,22)
+msgid ""
+"ヴェーネ：\n"
+"それでも彼は言い張るんでしょうね。\\.\\.\n"
+"俺を信じろと。"
+msgstr ""
+
+#. ID 5, Page 1, Line 43, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"現に遺体が揚がって本人と確認されてるのに。\\.\\.\n"
+"クールに見えて意外と頑固。"
+msgstr ""
+
+#. ID 5, Page 1, Line 46, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"挙げ句の果てには言うに事欠いて、\n"
+"こうとでも言い出しそうよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 49, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"その死体は、実は偽物だったんだ！"
+msgstr ""
+
+#. ID 5, Page 1, Line 51, Pos (1,22)
+msgid ""
+"ヴェーネ：\n"
+"在り得るわね。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 57, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]えっ…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 64, Pos (1,22)
+msgid ""
+"ヴェーネ：\n"
+"如何したの？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 70, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[3]死体が…\\|偽物…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 14, Pos (1,22)
+#. ID 5, Page 2, Line 76, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"直ぐにエンヴィに向かって。"
+msgstr ""
+
+#. ID 5, Page 2, Line 19, Pos (1,22)
+msgid ""
+"ヴェーネ：\n"
+"エンヴィに…？"
+msgstr ""
+
+#. ID 5, Page 2, Line 21, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"そう、\\.エンヴィ･ケイオスのマルゴ狂夢堂に。"
+msgstr ""
+
+#. ID 5, Page 2, Line 23, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"私の記憶が正しければ、\\.\n"
+"其処にまだ答えが残されている筈。"
+msgstr ""
+
+#. ID 5, Page 2, Line 57, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"そういう事だったのね…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 59, Pos (1,22)
+msgid ""
+"ヴェーネ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 66, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"ランサード。\\.\\.貴方は正しかった。"
+msgstr ""
+
+#. ID 5, Page 2, Line 68, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"ケインの両親は…\\|死んでない…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 73, Pos (1,22)
+msgid ""
+"ヴェーネ：\n"
+"ちょっと…。\\|ミネルヴァまで…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 81, Pos (1,22)
+msgid ""
+"ヴェーネ：\n"
+"エンヴィに…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 83, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"そう、\\.\\.エンヴィ･ケイオスのマルゴ狂夢堂に。"
+msgstr ""
+
+#. ID 5, Page 2, Line 85, Pos (1,22)
+msgid ""
+"ミネルヴァ：\n"
+"私の記憶が正しければ、\\.\\.\n"
+"其処にまだ答えが残されている筈。"
+msgstr ""
+

@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 3, Pos (3,9)
+#. ID 4, Page 3, Line 3, Pos (3,9)
+msgid ""
+"女性：\n"
+"……すぅ………すぅ…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 5, Pos (3,9)
+#. ID 4, Page 3, Line 5, Pos (3,9)
+msgid ""
+"女性：\n"
+"………ギリギリギリ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (8,8)
+#. ID 5, Page 3, Line 3, Pos (8,8)
+msgid ""
+"男性：\n"
+"ディフェンダーは便利なＴスフィアだが、\n"
+"上手く活用するのは難しい。"
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (8,8)
+#. ID 5, Page 3, Line 6, Pos (8,8)
+msgid ""
+"男性：\n"
+"味方のＨＰが半分以下の場合や、味方が致命的な\n"
+"ダメージを受けそうな場合は、発動確率が\n"
+"一気に上がる、という事を覚えておくと良いと思うぞ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 10, Pos (8,8)
+#. ID 5, Page 3, Line 10, Pos (8,8)
+msgid ""
+"男性：\n"
+"それと、麻痺や狂乱状態の時には\n"
+"攻撃を引き受けられないから注意が必要だ。"
+msgstr ""
+

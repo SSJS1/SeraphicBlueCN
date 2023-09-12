@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 20, Page 1, Line 27, Pos (0,0)
+msgid ""
+"レイク：\n"
+"奴を追う。"
+msgstr ""
+
+#. ID 20, Page 1, Line 31, Pos (0,0)
+msgid ""
+"レイク：\n"
+"フォクシー。\\.このバリアを外す方法は？"
+msgstr ""
+
+#. ID 20, Page 1, Line 33, Pos (0,0)
+#. ID 20, Page 1, Line 208, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"コイツはマルゴって婆さんが管理してる。"
+msgstr ""
+
+#. ID 20, Page 1, Line 35, Pos (0,0)
+#. ID 20, Page 1, Line 210, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"この近くで「マルゴ狂夢堂」って店をやってるから、\n"
+"行って頼んでみよう。"
+msgstr ""
+
+#. ID 20, Page 1, Line 51, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何だ…？\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 53, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"この先は\"腐街\"に繋がってるのさ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"腐った街、\\.\\.という事…？\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 60, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そう、\\.\\.文字通りの腐った街。"
+msgstr ""
+
+#. ID 20, Page 1, Line 62, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"嘗てこの先の一角は、ケイオスの中でも\n"
+"特に凶悪な犯罪者やキチガイの連中が溜まってた。"
+msgstr ""
+
+#. ID 20, Page 1, Line 65, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そして何時しかそいつらの\"負の気配\"が染み込んで、\n"
+"外のモンスターが棲み付いちまった。"
+msgstr ""
+
+#. ID 20, Page 1, Line 68, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それ以来此処は\"腐街\"と呼ばれ、\n"
+"バリアで隔離されている。"
+msgstr ""
+
+#. ID 20, Page 1, Line 71, Pos (0,0)
+msgid ""
+"レイク：\n"
+"この青い光か…。"
+msgstr ""
+
+#. ID 20, Page 1, Line 73, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"触んない方が良いよ。\\.\\.\n"
+"見た目は地味でも相当強烈なバリアだ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 83, Pos (0,0)
+msgid ""
+"？？？：\n"
+"\\S[2]だから居心地が良いんだね、\\.\\.此処は。\\|\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 92, Pos (0,0)
+msgid ""
+"レイク：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 104, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"やあレイク。\\.\\.生きてて何よりだよ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 106, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺の事は如何でも良い！\\.\\.\n"
+"あいつに手ェ出してないだろうな…！"
+msgstr ""
+
+#. ID 20, Page 1, Line 109, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ああ、\\.\\.それなら。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 111, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"残念ながら\"あの二人\"に邪魔されてね。\n"
+"何も出来なかったよ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 114, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"キミを失って泣き叫ぶ顔を、楽しむ以外は。"
+msgstr ""
+
+#. ID 20, Page 1, Line 116, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ヒヒッ…。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 121, Pos (0,0)
+#. ID 20, Page 1, Line 155, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 126, Pos (0,0)
+msgid ""
+"レイク：\n"
+"もうてめえには何も訊かねえ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 128, Pos (0,0)
+msgid ""
+"レイク：\n"
+"てめえが何者かも。\\.\\.\n"
+"てめえが呼び出す怪物が何なのかも。"
+msgstr ""
+
+#. ID 20, Page 1, Line 134, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[5]殺す。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 136, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"こりゃまた随分と荒れてるね。\\.\\.\n"
+"此処の淀んだ空気に当てられたかな？"
+msgstr ""
+
+#. ID 20, Page 1, Line 142, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まあ良いさ、\\.\\.ボクはこの先で待ってる。"
+msgstr ""
+
+#. ID 20, Page 1, Line 144, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"あっちの方が\"場所\"としてはイイ感じだから。"
+msgstr ""
+
+#. ID 20, Page 1, Line 146, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"続きはまた後で。\\|じゃあね。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 160, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アレは確かにアブないね。"
+msgstr ""
+
+#. ID 20, Page 1, Line 162, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"なまじガキなだけに思考に余計な混ぜ物が無い。\\|\n"
+"本当にピュアな残酷と狂気。"
+msgstr ""
+
+#. ID 20, Page 1, Line 165, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"此処のキチガイ連中も相当ヤバいけど、\n"
+"あのガキはその分だけ更に上回る。"
+msgstr ""
+
+#. ID 20, Page 1, Line 171, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ハウゼン…。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 173, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"ああ…。\\.\\.全く以って恐ろしい奴だ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 175, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"あんな力を抑えた状態でさえ、\n"
+"忌まわしい波動が重く身体を揺らしに来た。"
+msgstr ""
+
+#. ID 20, Page 1, Line 178, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"これで奴が本気に成れば、\n"
+"一体どれ程の人死にが出るか…。"
+msgstr ""
+
+#. ID 20, Page 1, Line 185, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"エンデ…。\\|途轍も無い危険因子…。"
+msgstr ""
+
+#. ID 20, Page 1, Line 190, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そう、\\.\\.確かに何処かで聞いた名前…。"
+msgstr ""
+
+#. ID 20, Page 1, Line 192, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"一体何処で…？\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 199, Pos (0,0)
+msgid ""
+"レイク：\n"
+"奴を追う。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 206, Pos (0,0)
+msgid ""
+"レイク：\n"
+"フォクシー。\\.\\.このバリアを外す方法は？"
+msgstr ""
+

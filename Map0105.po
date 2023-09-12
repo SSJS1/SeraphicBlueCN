@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 4, Pos (16,11)
+msgid ""
+"ガードマン：\n"
+"この先はサルベージポート。\n"
+"数々のサルベージ船が停泊している。"
+msgstr ""
+
+#. ID 5, Page 1, Line 8, Pos (16,11)
+#. ID 5, Page 3, Line 9, Pos (16,11)
+msgid ""
+"ガードマン：\n"
+"生憎だが、登録された\n"
+"サルベージャー以外は立入禁止だぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 13, Pos (16,11)
+msgid ""
+"ガードマン：\n"
+"生憎だが、登録された\n"
+"サルベージャー以外は立入禁止だ。"
+msgstr ""
+
+#. ID 5, Page 3, Line 17, Pos (16,11)
+msgid ""
+"ガードマン：\n"
+"ん、あんた達か。昨夜のモンスター共を\n"
+"片付けてくれたんだろ？　礼を言ってなかったな。"
+msgstr ""
+
+#. ID 5, Page 3, Line 23, Pos (16,11)
+msgid ""
+"ガードマン：\n"
+"ん、あんたか。以前此処で大発生したモンスター共を\n"
+"片付けてくれたよな？　今でも感謝してるぜ。"
+msgstr ""
+
+#. ID 5, Page 3, Line 28, Pos (16,11)
+msgid ""
+"ガードマン：\n"
+"ん、あんた達か。以前此処で大発生したモンスター共を\n"
+"片付けてくれたよな？　今でも感謝してるぜ。"
+msgstr ""
+
+#. ID 5, Page 3, Line 35, Pos (16,11)
+msgid ""
+"ガードマン：\n"
+"感謝の印にこいつを受け取ってくれ。"
+msgstr ""
+
+#. ID 5, Page 3, Line 46, Pos (16,11)
+msgid ""
+"\\n[1]：\n"
+"………。"
+msgstr ""
+
+#. ID 5, Page 3, Line 48, Pos (16,11)
+msgid ""
+"ガードマン：\n"
+"…あんまり嬉しくないって顔だな。\\.\\.\n"
+"分かった分かった、今のは軽い冗談だよ。"
+msgstr ""
+
+#. ID 5, Page 3, Line 51, Pos (16,11)
+msgid ""
+"ガードマン：\n"
+"ほら、こいつも受け取りな。"
+msgstr ""
+
+#. ID 5, Page 3, Line 62, Pos (16,11)
+msgid ""
+"ガードマン：\n"
+"んじゃ、そういう事で。"
+msgstr ""
+
+#. ID 6, Page 1, Line 7, Pos (12,11)
+msgid ""
+"ガードマン：\n"
+"向こうの様子が変だと思って見に行ったら、\n"
+"海のモンスターが大発生してたんだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 10, Pos (12,11)
+msgid ""
+"ガードマン：\n"
+"とてもじゃないが俺の手には負えない。\n"
+"誰でも良いから、何とかして呉れよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 16, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"ちょっと待った！"
+msgstr ""
+
+#. ID 7, Page 1, Line 21, Pos (17,11)
+#. ID 7, Page 1, Line 56, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"連中が色々と荷物を引っ掻き回して、\n"
+"所々通路が塞がってるかも知れないんだが…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 24, Pos (17,11)
+#. ID 7, Page 1, Line 59, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"塞がっている所は迂回すれば良いとして、\n"
+"問題はドラム缶から\"紫の液体\"が流出してる所だ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 27, Pos (17,11)
+#. ID 7, Page 1, Line 62, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"これはサルベージ船の機械整備に使う劇薬でな、\n"
+"絶対にそのまま突っ切ろうだなんて考えるなよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 30, Pos (17,11)
+#. ID 7, Page 1, Line 65, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"此処を通るには\n"
+"\"中和剤\"を撒いて薬品を無害化するんだ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 33, Pos (17,11)
+#. ID 7, Page 1, Line 68, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"中和剤は\"緑色に塗装された木箱\"に入ってる。\n"
+"所々に転がってる筈だから、探してみて呉れ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 39, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"ああ、\\.それと。"
+msgstr ""
+
+#. ID 7, Page 1, Line 41, Pos (17,11)
+#. ID 7, Page 1, Line 79, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"攻撃魔法のスフィアは持ってるか？"
+msgstr ""
+
+#. ID 7, Page 1, Line 43, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"水棲のモンスターってのは大体が火に弱い。\\.\\.\n"
+"火属性魔法での攻撃は基本だぜ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 51, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"ちょっと待った！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 74, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"ああ、\\.\\.それと。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 81, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"水棲のモンスターってのは大体が火に弱い。\\|\n"
+"火属性魔法での攻撃は基本だぜ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 87, Pos (17,11)
+msgid ""
+"ガードマン：\n"
+"それじゃ、\\.\\.くれぐれも気を付けてな。"
+msgstr ""
+

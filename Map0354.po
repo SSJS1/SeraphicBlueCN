@@ -1,0 +1,500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Page 1, Line 15, Pos (0,0)
+#. ID 11, Page 1, Line 354, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"突然変な化け物が現れて、洞窟の中に！"
+msgstr ""
+
+#. ID 11, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"インタビューは一時中断ッ！\\.\n"
+"これより本業に移行する！"
+msgstr ""
+
+#. ID 11, Page 1, Line 25, Pos (0,0)
+#. ID 11, Page 1, Line 368, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ガイアキャンサーを叩き潰すぞ！"
+msgstr ""
+
+#. ID 11, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"良い趣味だな。\\|何て部屋だ？"
+msgstr ""
+
+#. ID 11, Page 1, Line 44, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"此処は悔恨の部屋。"
+msgstr ""
+
+#. ID 11, Page 1, Line 46, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"己の罪を悔い、\\.\\.カオスへの憧れを育む部屋。"
+msgstr ""
+
+#. ID 11, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"罪だと…？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 50, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"そう、\\.\\.罪だ。\\.\\.\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 55, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"では約束通り、インタビューに応じる前に\n"
+"私の話を聞いて頂こう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 58, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"肩の力を抜いて、楽にして呉れ給え。"
+msgstr ""
+
+#. ID 11, Page 1, Line 60, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"くれぐれも、下腹に力など入れぬよう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 62, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"\\S[2]クックックッ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 77, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"では皆々方、\\.\\.暫しの間眼を閉じて、\\.\\.\n"
+"私の声に耳を傾けて欲しい。"
+msgstr ""
+
+#. ID 11, Page 1, Line 84, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"閉じた瞳の暗闇にイメージする物は…。\\|\n"
+"まあ好きにして構わない。"
+msgstr ""
+
+#. ID 11, Page 1, Line 87, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"敢えて望むのならば…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 89, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"私が描いているで在ろう世界という物を、\\.\\.\n"
+"想像して欲しい。"
+msgstr ""
+
+#. ID 11, Page 1, Line 95, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"例えば其方。\\.\\.青髪の御婦人。"
+msgstr ""
+
+#. ID 11, Page 1, Line 97, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"麗しくも陰鬱なその影の中、\n"
+"貴女は如何なる風景を思い描くだろうか？"
+msgstr ""
+
+#. ID 11, Page 1, Line 103, Pos (0,0)
+#. ID 11, Page 1, Line 227, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 114, Pos (0,0)
+msgid ""
+"\n"
+"さて、\\.\\.貴殿達は\n"
+"この世界を何だと思っているかな？"
+msgstr ""
+
+#. ID 11, Page 1, Line 117, Pos (0,0)
+msgid ""
+"\n"
+"正体、\\|実体、\\|本質、\\|意味。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 119, Pos (0,0)
+msgid ""
+"\n"
+"\"それら\"が何で在るかを。\\|答えられまい。"
+msgstr ""
+
+#. ID 11, Page 1, Line 121, Pos (0,0)
+msgid ""
+"\n"
+"そう、\\.\\.そうだろう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 123, Pos (0,0)
+msgid ""
+"\n"
+"只自らが\"在る\"広大な領域としての、\\.\\.\n"
+"極めて漠然たる認識。"
+msgstr ""
+
+#. ID 11, Page 1, Line 126, Pos (0,0)
+msgid ""
+"\n"
+"\"それら\"に眼を瞑り、\\.\\.逃げ惑う。"
+msgstr ""
+
+#. ID 11, Page 1, Line 128, Pos (0,0)
+msgid ""
+"\n"
+"何故なら、\\|絶望的で、\\|味気無いから。"
+msgstr ""
+
+#. ID 11, Page 1, Line 130, Pos (0,0)
+msgid ""
+"\n"
+"本当は感じているのに、\\.\\.偽っている。"
+msgstr ""
+
+#. ID 11, Page 1, Line 133, Pos (0,0)
+msgid ""
+"\n"
+"さあ、\\.\\.心の声を解き放ち給え。"
+msgstr ""
+
+#. ID 11, Page 1, Line 135, Pos (0,0)
+msgid ""
+"\n"
+"この世は厭だろう？ \\|この世は塵だろう？"
+msgstr ""
+
+#. ID 11, Page 1, Line 137, Pos (0,0)
+msgid ""
+"\n"
+"全ての生命。\\|只生まれ死んで逝く。"
+msgstr ""
+
+#. ID 11, Page 1, Line 139, Pos (0,0)
+#. ID 11, Page 1, Line 145, Pos (0,0)
+msgid ""
+"\n"
+"不毛。\\.\\.唯それだけ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 141, Pos (0,0)
+msgid ""
+"\n"
+"嗚呼、\\.\\.虚しき哉。"
+msgstr ""
+
+#. ID 11, Page 1, Line 143, Pos (0,0)
+msgid ""
+"\n"
+"全ての生命。\\|死ぬ為に生まれる。"
+msgstr ""
+
+#. ID 11, Page 1, Line 147, Pos (0,0)
+msgid ""
+"\n"
+"嗚呼、\\.\\.悲しき哉。"
+msgstr ""
+
+#. ID 11, Page 1, Line 150, Pos (0,0)
+msgid ""
+"\n"
+"思った事は無いかね？"
+msgstr ""
+
+#. ID 11, Page 1, Line 152, Pos (0,0)
+msgid ""
+"\n"
+"自分なんて生まれて来なければ良かったと。\\|\n"
+"自ら望んで生まれて来た訳ではないと。"
+msgstr ""
+
+#. ID 11, Page 1, Line 155, Pos (0,0)
+msgid ""
+"\n"
+"生まれたくなかったのに、\\.\\.現世の何者かが勝手に、\\.\\.\n"
+"私をこの世に生み出してしまったと。"
+msgstr ""
+
+#. ID 11, Page 1, Line 159, Pos (0,0)
+msgid ""
+"\n"
+"この世は牢獄。"
+msgstr ""
+
+#. ID 11, Page 1, Line 161, Pos (0,0)
+msgid ""
+"\n"
+"生まれたら最後、\\.\\.死への畏怖を植え付けられ、\\.\\.\n"
+"如何とも逃れ難い牢獄。"
+msgstr ""
+
+#. ID 11, Page 1, Line 165, Pos (0,0)
+msgid ""
+"\n"
+"そう、\\|それが答えだ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 167, Pos (0,0)
+msgid ""
+"\n"
+"この世界は、\\.\\.仕組まれた牢獄。"
+msgstr ""
+
+#. ID 11, Page 1, Line 169, Pos (0,0)
+msgid ""
+"\n"
+"楽園にて禁を破った者が投獄される牢獄。"
+msgstr ""
+
+#. ID 11, Page 1, Line 171, Pos (0,0)
+msgid ""
+"\n"
+"人生とは、\\.\\.その罪に対する懲役。"
+msgstr ""
+
+#. ID 11, Page 1, Line 173, Pos (0,0)
+msgid ""
+"\n"
+"生は投獄。\\|死は解放。"
+msgstr ""
+
+#. ID 11, Page 1, Line 175, Pos (0,0)
+msgid ""
+"\n"
+"故に人は、\\.\\.死を恐れる。"
+msgstr ""
+
+#. ID 11, Page 1, Line 177, Pos (0,0)
+msgid ""
+"\n"
+"恐れる様に仕向けられた。"
+msgstr ""
+
+#. ID 11, Page 1, Line 179, Pos (0,0)
+msgid ""
+"\n"
+"容易く死して、\\.\\.楽園に戻って来ない様に。"
+msgstr ""
+
+#. ID 11, Page 1, Line 182, Pos (0,0)
+msgid ""
+"\n"
+"だがこうして、\\.\\.今我々は悟った。"
+msgstr ""
+
+#. ID 11, Page 1, Line 184, Pos (0,0)
+msgid ""
+"\n"
+"今こそ解放の時だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 186, Pos (0,0)
+msgid ""
+"\n"
+"死への畏怖たる鎖を破り、\\.\\.\n"
+"遥か懐かしき彼の楽園への帰還。"
+msgstr ""
+
+#. ID 11, Page 1, Line 189, Pos (0,0)
+msgid ""
+"\n"
+"死こそ絶対の救い。"
+msgstr ""
+
+#. ID 11, Page 1, Line 191, Pos (0,0)
+msgid ""
+"\n"
+"否、\\.\\.ならば牢獄ごと壊してしまおう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 193, Pos (0,0)
+msgid ""
+"\n"
+"この世界という牢獄を壊し、\\.\\.\n"
+"楽園＜カオス＞に還ろう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 196, Pos (0,0)
+msgid ""
+"\n"
+"それこそは救世。"
+msgstr ""
+
+#. ID 11, Page 1, Line 199, Pos (0,0)
+msgid ""
+"\n"
+"貴殿らの深き理解を祈ろう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 201, Pos (0,0)
+msgid ""
+"\n"
+"恐れる事は無い。"
+msgstr ""
+
+#. ID 11, Page 1, Line 203, Pos (0,0)
+msgid ""
+"\n"
+"今若し自分が闇の中に在るならば。"
+msgstr ""
+
+#. ID 11, Page 1, Line 205, Pos (0,0)
+msgid ""
+"\n"
+"手を伸ばし、\\|其処に在る扉を開け。"
+msgstr ""
+
+#. ID 11, Page 1, Line 207, Pos (0,0)
+msgid ""
+"\n"
+"見える絶対の恐怖の向こうに、\\.\\.\n"
+"真なる救済と癒し。"
+msgstr ""
+
+#. ID 11, Page 1, Line 210, Pos (0,0)
+msgid ""
+"\n"
+"そして貴殿らは、\\.\\.救われるだろう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 212, Pos (0,0)
+msgid ""
+"\n"
+"総てが還るべき、\\.\\.カオスの園にて。"
+msgstr ""
+
+#. ID 11, Page 1, Line 222, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"私からの話は以上だ。\\|清聴を感謝する。"
+msgstr ""
+
+#. ID 11, Page 1, Line 285, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 291, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"それでは約束だ。\\|\n"
+"六年の祝祭者に関してのインタビューを受けよう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 294, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"どの様な事でも、遠慮せず訊いて呉れ給え。"
+msgstr ""
+
+#. ID 11, Page 1, Line 296, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"分かった。\\|\n"
+"御言葉に甘えて、遠慮無く訊かせて貰うぜ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 302, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"先ずは単刀直入に…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 309, Pos (0,0)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 318, Pos (0,0)
+msgid ""
+"レイク：\n"
+"今の揺れは…？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 320, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"地震…？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 325, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"何か…\\.\\.厭な予感がするぜ…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 336, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"ガイアキャンサー反応ッ！\\.\\.\n"
+"距離800のＢクラス！"
+msgstr ""
+
+#. ID 11, Page 1, Line 339, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"やっぱり…。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 352, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"会長！ \\.\\.大変です！\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 356, Pos (0,0)
+msgid ""
+"エイブラム：\n"
+"何だと…！ \\.\\.直ぐに始末しろ！"
+msgstr ""
+
+#. ID 11, Page 1, Line 358, Pos (0,0)
+msgid ""
+"ガードマン：\n"
+"強過ぎます！ \\.\\.とても手に負えません！"
+msgstr ""
+
+#. ID 11, Page 1, Line 365, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"インタビューは一時中断ッ！\\.\\.\n"
+"これより本業に移行する！"
+msgstr ""
+

@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 4, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"ふぅ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 11, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"ジェラール。\n"
+"回復薬を集めて来なさい。"
+msgstr ""
+
+#. ID 4, Page 1, Line 14, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"短期決戦で行きます。"
+msgstr ""
+
+#. ID 4, Page 1, Line 19, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"それと…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 39, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"もっと背後に気を配りなさい。\\|\\|\\^"
+msgstr ""
+

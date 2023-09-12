@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 15, Page 1, Line 33, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"レイク、\\.\\.アンタ中々モテるじゃない。"
+msgstr ""
+
+#. ID 15, Page 1, Line 35, Pos (0,0)
+msgid ""
+"レイク：\n"
+"冗談。\\.\\.あんたの追っ駆けじゃないのか？"
+msgstr ""
+
+#. ID 15, Page 1, Line 37, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"まさか。\\.\\.こんなバケモノと寝る程安くないよ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 42, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まあ、見覚えの在る風体では在るんだがな。"
+msgstr ""
+
+#. ID 15, Page 1, Line 44, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あの黒い翼…。\\|間違い無い…。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 49, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あいつはイーヴル\\.\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ルシファーだわ…！\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 60, Pos (0,0)
+msgid ""
+"レイク：\n"
+"今何て言った？\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\C[19]ルシファー\\C[0]よ。\\.\\.ルシファー。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 67, Pos (0,0)
+#. ID 15, Page 1, Line 294, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 73, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"話には聞いてたけど、\n"
+"こうしてナマで見るのは初めてだね。"
+msgstr ""
+
+#. ID 15, Page 1, Line 76, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"コイツがルシファー…。\\|\n"
+"欠陥嬰児の成れの果てって奴かい。"
+msgstr ""
+
+#. ID 15, Page 1, Line 79, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"噂通り、本当に見る影も無いね。"
+msgstr ""
+
+#. ID 15, Page 1, Line 87, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ルシファー…。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 89, Pos (0,0)
+msgid ""
+"レイク：\n"
+"この世界にも\"イーヴル自体\"は存在するが、\n"
+"その呼び名が違うって事か…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 99, Pos (0,0)
+msgid ""
+"変な声：\n"
+"いやはや、\\.\\.これはまた偶然ですな。"
+msgstr ""
+
+#. ID 15, Page 1, Line 104, Pos (0,0)
+msgid ""
+"レイク：\n"
+"連中が…\\.\\.喋ってるのか？"
+msgstr ""
+
+#. ID 15, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"違うわ。\\.\\.きっと何処かに小型スピーカーでも\n"
+"仕掛けられているのよ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 109, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"この変な声もボイスチェンジャー。"
+msgstr ""
+
+#. ID 15, Page 1, Line 114, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"何者だ！ \\.\\.名を名乗れッ！\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 116, Pos (0,0)
+msgid ""
+"変な声：\n"
+"只の凡夫ですよ。\\.\\.\n"
+"名乗る程の者では在りません。"
+msgstr ""
+
+#. ID 15, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"このルシファーは貴様が仕向けたのか！"
+msgstr ""
+
+#. ID 15, Page 1, Line 121, Pos (0,0)
+msgid ""
+"変な声：\n"
+"ええ、\\.\\.少しばかり用が御座いまして。"
+msgstr ""
+
+#. ID 15, Page 1, Line 123, Pos (0,0)
+msgid ""
+"変な声：\n"
+"其方、第四代現フェジテ女王にて\n"
+"在らせられる高貴なる御方。"
+msgstr ""
+
+#. ID 15, Page 1, Line 126, Pos (0,0)
+msgid ""
+"変な声：\n"
+"\\S[2]クィーン･ミネルヴァに。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 135, Pos (0,0)
+msgid ""
+"\\>ミネルヴァ／ハウゼン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 140, Pos (0,0)
+msgid ""
+"レイク：\n"
+"高貴な御身分とは予想してたがな…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 142, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"良家の御令嬢どころか、\\.\\.女王様とはね…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 147, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[2]という事は…。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 149, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]そうだな…。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 159, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ターゲットはミネルヴァ。\\.\\.\n"
+"奴らは女王様を狙う悪漢の刺客。"
+msgstr ""
+
+#. ID 15, Page 1, Line 162, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何時の間にやら女王様のナイトだよ。\\.\\.\n"
+"有難くも光栄な事さ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 168, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"御免なさい…。\\|決して騙す心算では…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 170, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"隠密行で在るが故、\n"
+"誰にも身分を明かす事は出来なかったのだ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 173, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"別に良いさ。\\.\\.秘密はオンナを美しくする。"
+msgstr ""
+
+#. ID 15, Page 1, Line 175, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"女王様なら当然の嗜みだよ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 180, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"おい変な声の輩！\\.\\.\n"
+"貴様自分の行いを分かっているのか！"
+msgstr ""
+
+#. ID 15, Page 1, Line 183, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"ミネルヴァ様に牙剥くなど、重罪中の重罪！"
+msgstr ""
+
+#. ID 15, Page 1, Line 185, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"そして我こそは歴代女王を守りし鉄壁の戦士、\n"
+"フェジテセイヴァー･ハウゼン！"
+msgstr ""
+
+#. ID 15, Page 1, Line 188, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"貴様如き凡夫に勝機は無い！\\|\n"
+"即刻引き下がれ！"
+msgstr ""
+
+#. ID 15, Page 1, Line 195, Pos (0,0)
+msgid ""
+"変な声：\n"
+"\\S[2]そうは行かんなァ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 200, Pos (0,0)
+msgid ""
+"変な声：\n"
+"既に禁は破られた後。\\|\n"
+"最早唯一つしか選ぶ道は残されてはいまい？"
+msgstr ""
+
+#. ID 15, Page 1, Line 203, Pos (0,0)
+msgid ""
+"変な声：\n"
+"そう即ち、\"二つの鍵\"を手に入れる道。"
+msgstr ""
+
+#. ID 15, Page 1, Line 205, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"二つの鍵…？\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 210, Pos (0,0)
+msgid ""
+"変な声：\n"
+"現状に於いて、この世界には\"二つの鍵\"が存在する。\\|\n"
+"その二者こそが世界を動かし得る。"
+msgstr ""
+
+#. ID 15, Page 1, Line 213, Pos (0,0)
+msgid ""
+"変な声：\n"
+"一つは言わずもがな、\\.\\.\n"
+"現フェジテ女王ミネルヴァ･フェジテ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 216, Pos (0,0)
+msgid ""
+"変な声：\n"
+"そしてもう一つ。\\|\n"
+"お分かりになるかな？"
+msgstr ""
+
+#. ID 15, Page 1, Line 219, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"偉そうに能書き垂れてんじゃないよ！"
+msgstr ""
+
+#. ID 15, Page 1, Line 221, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まったくだぜ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 223, Pos (0,0)
+msgid ""
+"レイク：\n"
+"選りにも選って、\n"
+"こんないけ好かない連中を寄越しやがって。"
+msgstr ""
+
+#. ID 15, Page 1, Line 226, Pos (0,0)
+msgid ""
+"レイク：\n"
+"さっさと終わりにしないと、\n"
+"此奴らをブッ殺してその口を封じるぞ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 232, Pos (0,0)
+msgid ""
+"変な声：\n"
+"やれやれ…。\\|\n"
+"思っていたより随分と荒っぽい性格だな。"
+msgstr ""
+
+#. ID 15, Page 1, Line 235, Pos (0,0)
+msgid ""
+"変な声：\n"
+"汝が名はレイク･ランドヴェリー。"
+msgstr ""
+
+#. ID 15, Page 1, Line 237, Pos (0,0)
+msgid ""
+"変な声：\n"
+"\\S[2]もう一つの鍵よ。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 240, Pos (0,0)
+msgid ""
+"一同：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 246, Pos (0,0)
+msgid ""
+"レイク：\n"
+"てめえ…！ \\|何言ってやがる…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 248, Pos (0,0)
+msgid ""
+"変な声：\n"
+"言葉通りだ。\\.\\.貴様もまた世界の鍵という事。"
+msgstr ""
+
+#. ID 15, Page 1, Line 253, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[3]俺が…\\|世界の鍵だと…？\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 258, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"(ミネルヴァ様…！)\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 260, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"(ええ…！ \\.\\.間違い無い…！)\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 265, Pos (0,0)
+msgid ""
+"変な声：\n"
+"身に覚えは…\\|無いだろうな…。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 267, Pos (0,0)
+msgid ""
+"レイク：\n"
+"当たり前だッ！\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 269, Pos (0,0)
+msgid ""
+"変な声：\n"
+"まあ焦るな。\\.\\.その内分かる事だ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 274, Pos (0,0)
+msgid ""
+"レイク：\n"
+"畜生ッ…！\\.\\.\n"
+"ナメた声でガタガタ抜かしやがって…！"
+msgstr ""
+
+#. ID 15, Page 1, Line 277, Pos (0,0)
+msgid ""
+"レイク：\n"
+"てめえ、\\.\\.さてはゲオルクだな！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 279, Pos (0,0)
+msgid ""
+"\\>ミネルヴァ／ハウゼン：\n"
+"………!?\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 281, Pos (0,0)
+msgid ""
+"レイク：\n"
+"声が知れてるモンだから、\n"
+"姑息に声を変えて再登場と洒落込んでるんだろう！"
+msgstr ""
+
+#. ID 15, Page 1, Line 284, Pos (0,0)
+msgid ""
+"レイク：\n"
+"このバケモノ連中だって、\n"
+"ディザスティアの丘で倒したのと同じだ！"
+msgstr ""
+
+#. ID 15, Page 1, Line 287, Pos (0,0)
+msgid ""
+"レイク：\n"
+"如何だ！ \\.\\.違うかッ！\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 292, Pos (0,0)
+msgid ""
+"変な声：\n"
+"生憎だが、\\.\\.私はゲオルク･ローズバーグではない。"
+msgstr ""
+
+#. ID 15, Page 1, Line 297, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも名前は知ってるみたいだね。"
+msgstr ""
+
+#. ID 15, Page 1, Line 299, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"レイクがゲオルクとしか言ってないのに、\n"
+"アンタは下の名前まで言ってみせた。"
+msgstr ""
+
+#. ID 15, Page 1, Line 305, Pos (0,0)
+msgid ""
+"変な声：\n"
+"これはこれは。\\.\\.\n"
+"迂闊にも口が滑ってしまったか。"
+msgstr ""
+
+#. ID 15, Page 1, Line 311, Pos (0,0)
+msgid ""
+"変な声：\n"
+"まあ兎に角、そういう訳だ。\\.\\.\n"
+"私にはその二人が必要なのだよ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 314, Pos (0,0)
+msgid ""
+"変な声：\n"
+"素直に引き渡すとは初めから思っていないのでな、\n"
+"\"彼ら\"が身柄を確保するだろう。"
+msgstr ""
+
+#. ID 15, Page 1, Line 317, Pos (0,0)
+msgid ""
+"変な声：\n"
+"抵抗するのは勝手だが、彼らも一応は\"ナイト\"だ。\\|\n"
+"御付の二人は死なないように気を付け給え。"
+msgstr ""
+
+#. ID 15, Page 1, Line 323, Pos (0,0)
+msgid ""
+"変な声：\n"
+"\\S[2]それでは、\\.\\.またいずれ。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 329, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]畜生…。\\|何奴も此奴も…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 331, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"随分と敵が多い人生みたいだね。"
+msgstr ""
+
+#. ID 15, Page 1, Line 333, Pos (0,0)
+msgid ""
+"レイク：\n"
+"こういう点もケイオス向きか？"
+msgstr ""
+
+#. ID 15, Page 1, Line 335, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"バッチリ。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 337, Pos (0,0)
+msgid ""
+"レイク：\n"
+"嬉しいぜ。\\.\\.涙が出そうだ。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 348, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でもツイてるよアンタ。\\.\\.\n"
+"手近に鬱憤晴らしの相手が居るじゃない。"
+msgstr ""
+
+#. ID 15, Page 1, Line 351, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まあな。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 357, Pos (0,0)
+msgid ""
+"レイク：\n"
+"さあ来やがれ！ \\.\\.全殺しだッ！\\|\\^"
+msgstr ""
+

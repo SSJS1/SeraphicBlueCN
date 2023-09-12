@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (4,4)
+#. ID 2, Page 1, Line 4, Pos (14,4)
+msgid "※鍵が掛かっている。"
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (0,5)
+msgid ""
+"メイド：\n"
+"そうですか…。\\|旅の方々…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 6, Pos (0,5)
+msgid ""
+"ニクソン：\n"
+"それで、少々差し出がましくは存じますが…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 8, Pos (0,5)
+msgid ""
+"メイド：\n"
+"いえいえ、恐縮なさらずに。\\|\n"
+"今日は是非とも此処で休んで行ってください。"
+msgstr ""
+
+#. ID 9, Page 1, Line 11, Pos (0,5)
+msgid ""
+"メイド：\n"
+"こんな辺鄙な所までいらして、\n"
+"さぞやお疲れの事でしょう。"
+msgstr ""
+
+#. ID 9, Page 1, Line 14, Pos (0,5)
+msgid ""
+"メイド：\n"
+"丁度掃除を終えた所ですので、\n"
+"今直ぐ部屋を御用意致しますね。"
+msgstr ""
+

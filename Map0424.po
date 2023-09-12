@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 40, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"フェジテガーデンはフェジテの中枢。\\.\\.\n"
+"何としても守り切らなくてはならない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 43, Pos (1,0)
+#. ID 6, Page 1, Line 163, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"私達は直ぐ様ガーデンへと飛んだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 56, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"如何したのユアン？\\.\\.\n"
+"貴方達まで来るなんて聞いてないわ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 59, Pos (1,0)
+msgid ""
+"レイク：\n"
+"御偉方の警護は良いのか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 61, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"ああ、\\.\\.ジェラールに任せて来た。"
+msgstr ""
+
+#. ID 6, Page 1, Line 63, Pos (1,0)
+msgid ""
+"ケイン：\n"
+"つーかあの二人に\"行って来い\"って\n"
+"迫られたんだけどな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 69, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"ミネルヴァ、\\.\\.話は聞いたぜ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 71, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"今回は気の毒だったな。\\|\n"
+"月並みだけど元気出して呉れよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 74, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ…。\\.\\.私なら大丈夫…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 80, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"それで、\\.\\.何故此処に？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 82, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"ああ…。\\.\\.\n"
+"ついさっき飛び込んで来た情報なんだが…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 86, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"ダルムシュタットからイーヴルの大群が放たれ、\n"
+"フェジテガーデンを襲撃してるらしい…！"
+msgstr ""
+
+#. ID 6, Page 1, Line 89, Pos (1,0)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 91, Pos (1,0)
+msgid ""
+"レイク：\n"
+"ゲオルクか…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 93, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"そう考えて間違い無いだろう。"
+msgstr ""
+
+#. ID 6, Page 1, Line 95, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"政府軍は！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 97, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"大幅に出遅れてる。"
+msgstr ""
+
+#. ID 6, Page 1, Line 99, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"今までこの秘密工場の戦艦に対して\n"
+"高レベルの警戒態勢を取ってた所為だ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 102, Pos (1,0)
+msgid ""
+"ケイン：\n"
+"この秘密工場は、\n"
+"丸ごと全部陽動だったのさ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 105, Pos (1,0)
+msgid ""
+"ケイン：\n"
+"それに空軍が駆け付けた所で、\n"
+"ガーデンの間近じゃあ気安くドンパチも出来ないだろ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 112, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[3]おのれェ…！ \\.\\.ゲオルク…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 119, Pos (1,0)
+msgid ""
+"フォクシー：\n"
+"コイツは出番だね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 121, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"二人にも同じ事を頼まれた。"
+msgstr ""
+
+#. ID 6, Page 1, Line 123, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"ガーデンはフェジテの中枢。\n"
+"落とされれば壊滅的な打撃を受ける。"
+msgstr ""
+
+#. ID 6, Page 1, Line 126, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"そして現状で最も早くガーデンに行けるのは\n"
+"他でもない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 129, Pos (1,0)
+msgid ""
+"ユアン：\n"
+"身軽さが売りの俺達＜オーグ＞だ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 138, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"フェジテガーデン…。\\|\n"
+"こんな形で、また赴く事に成るなんて…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 144, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]フリッツ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 146, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]そして…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 160, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"フェジテガーデンはフェジテの中枢。\\|\n"
+"何としても守り切らなくてはならない。"
+msgstr ""
+

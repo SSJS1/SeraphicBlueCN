@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Page 1, Line 3, Pos (5,18)
+msgid ""
+"張り紙：\n"
+"この先エレベーターを降りて直ぐの屋外が\n"
+"廃棄爆薬置場です。"
+msgstr ""
+
+#. ID 11, Page 1, Line 6, Pos (5,18)
+msgid ""
+"張り紙：\n"
+"爆薬を廃棄したい方は、必ずその旨を係に通知の上、\n"
+"指定の赤いボックスに爆薬を入れておいてください。"
+msgstr ""
+
+#. ID 11, Page 1, Line 9, Pos (5,18)
+msgid ""
+"張り紙：\n"
+"このボックスには特殊緩衝材が使用されており、\n"
+"不測の衝撃に依る爆発事故を防止します。\n"
+"これ以外のボックスは絶対に使用しないでください。"
+msgstr ""
+
+#. ID 11, Page 1, Line 13, Pos (5,18)
+msgid ""
+"張り紙：\n"
+"また廃棄爆薬の長期放置は、予期せぬ化学反応による\n"
+"突然の爆発などを招き、大変に危険です。\n"
+"先日も西ブロック最上階通路奥で事故が起きました。"
+msgstr ""
+
+#. ID 11, Page 1, Line 17, Pos (5,18)
+msgid ""
+"張り紙：\n"
+"取扱関係者の皆様は扱いに留意してください。"
+msgstr ""
+

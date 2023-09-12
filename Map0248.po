@@ -1,0 +1,1937 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"なあフォクシー。\\.\\.\n"
+"この辺で青髪の余所者を見なかったか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 36, Pos (0,0)
+msgid ""
+"フォクシー(女性)：\n"
+"見なかったけど？\\|\n"
+"若しかして人間狩りのターゲット？"
+msgstr ""
+
+#. ID 4, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"ああ。\\.\\.ボスがヤられた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 41, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"イート･ザ･ミートも堕ちたモンだね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"なあ、\\.\\.まさか匿ってないよな？"
+msgstr ""
+
+#. ID 4, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"もうかなり疲れてる筈だし、\n"
+"身を隠せそうな場所は殆ど探した。"
+msgstr ""
+
+#. ID 4, Page 1, Line 51, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"へえ…？ \\.\\.アタシを疑ってるんだ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"そうじゃねえよ。\\.\\.\n"
+"念の為に部屋を一通り見せてくれ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 59, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 64, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アンタ、\\.\\.確かこないだのジェシカの紹介料が\n"
+"未払いだったよね？"
+msgstr ""
+
+#. ID 4, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"おいおい。\\.\\.まさか脅してるのか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 69, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アタシは基本的に即キャッシュ。\n"
+"ツケは認めない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 72, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それをアンタだからって事で、\n"
+"特別に待って遣ってるんだよ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 75, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"そりゃ百も承知さ。\\.\\.感謝してるよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 77, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"だったらそいつを態度で示しな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"分かった。\\.\\.俺が悪かったよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 84, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それじゃあさっさと行きな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 86, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"こんな所で油売ってる暇が有ったら、\n"
+"方々歩き回って金を工面するんだね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 89, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"もう期限は延びないよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"やれやれ、\\.\\.お前には敵わないぜ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 96, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ほざけヤク中が。"
+msgstr ""
+
+#. ID 4, Page 1, Line 98, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"余計なモノはさっさと出ちまうクセに、\n"
+"肝心なモノはちっとも出ない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 101, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"本当に使えないオトコだね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"あー分かった！\\.\\. 分かったっての！"
+msgstr ""
+
+#. ID 4, Page 1, Line 109, Pos (0,0)
+msgid ""
+"ゴロツキ：\n"
+"キッツイ女だぜ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 127, Pos (0,0)
+msgid ""
+"レイク：\n"
+"救いの女神様だったな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 129, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何言ってるんだか。"
+msgstr ""
+
+#. ID 4, Page 1, Line 131, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アタシは御覧の通りの売春婦。\\.\\.\n"
+"清らかな女神様とは正反対の汚れた女さ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 137, Pos (0,0)
+msgid ""
+"レイク：\n"
+"兎に角助かった。\\.\\.礼を言う。"
+msgstr ""
+
+#. ID 4, Page 1, Line 139, Pos (0,0)
+msgid ""
+"レイク：\n"
+"でも良いのか？\\.\\.\n"
+"あいつらに対しての立場が…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 142, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"構わないさ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 144, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"四六時中「肉食え肉食え」バカ騒ぎして、\n"
+"挙句に今の奴なんかドラッグに手を出しやがった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 147, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"もう直ぐ消える連中だよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 149, Pos (0,0)
+msgid ""
+"レイク：\n"
+"なら良いんだが…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 155, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"しかしアンタ、\\.\\.結構腕が立つんだね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 157, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"イート･ザ･ミートって言えば、\n"
+"「頭は欠陥品、力は一級品」で有名だった奴。"
+msgstr ""
+
+#. ID 4, Page 1, Line 160, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アンタみたいな若い余所者に潰されるなんて、\n"
+"誰も予想してなかったろうね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 163, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そんなの俺だって。\\.\\.\n"
+"無我夢中でブッ倒しただけだ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 166, Pos (0,0)
+msgid ""
+"レイク：\n"
+"しかしその後の人間狩りってのは、流石に…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 168, Pos (0,0)
+msgid ""
+"レイク：\n"
+"散歩がてらに来たのが、とんだ事に成っちまった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 170, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それが\"良い根性\"だって言ってんの。\\|\n"
+"散歩がてらのケイオスなんて。"
+msgstr ""
+
+#. ID 4, Page 1, Line 173, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でもアンタは生命力が強い。\n"
+"此処で生きてくのに向いてるよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 176, Pos (0,0)
+msgid ""
+"レイク：\n"
+"褒めてるのか？ \\.\\.貶してるのか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 178, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ケースバイケース。"
+msgstr ""
+
+#. ID 4, Page 1, Line 180, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"どんな価値もどんな美徳も、\n"
+"結局は時と場所に左右されるいい加減。"
+msgstr ""
+
+#. ID 4, Page 1, Line 183, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"例えば表町で忌み嫌われたゴキブリが、\n"
+"此処じゃあ生き残りのプロフェッショナル。"
+msgstr ""
+
+#. ID 4, Page 1, Line 186, Pos (0,0)
+msgid ""
+"レイク：\n"
+"嬉しいお言葉だな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 192, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも実際、アンタは変わったニオイを持ってる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 194, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"此処の物じゃないけれど、\\.\\.\n"
+"決して遠くもない、\\.\\.重く淀んだニオイ…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 197, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"かと思えば、その隙間から不意に差し込む\n"
+"清廉と凛々しい芳香＜かおり＞…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 200, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アンタ、不思議な奴だよ。\\.\\.\n"
+"まるで異世界の住人みたい。"
+msgstr ""
+
+#. ID 4, Page 1, Line 206, Pos (0,0)
+#. ID 4, Page 1, Line 401, Pos (0,0)
+#. ID 4, Page 1, Line 427, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 211, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アタシがこうしてアンタを匿ったのだって、\n"
+"そのニオイに興味を持ったから。"
+msgstr ""
+
+#. ID 4, Page 1, Line 214, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"あの大デブを捌いたあたり、\n"
+"戦いが生業のクチかい？"
+msgstr ""
+
+#. ID 4, Page 1, Line 217, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ。\\.\\.イーヴルスイーパーだ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 219, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"イーヴル…\\.\\.んん？\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 221, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何だか聞かない言葉だね。\\.\\.業界用語？"
+msgstr ""
+
+#. ID 4, Page 1, Line 226, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あ、\\.\\.ああ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 232, Pos (0,0)
+msgid ""
+"レイク：\n"
+"イーヴルを知らない…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 234, Pos (0,0)
+msgid ""
+"レイク：\n"
+"この世界にはイーヴルなんてのは\n"
+"存在しないって事か…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 243, Pos (0,0)
+msgid ""
+"レイク：\n"
+"兎に角だ。\\.\\.助けて呉れて感謝する。"
+msgstr ""
+
+#. ID 4, Page 1, Line 245, Pos (0,0)
+msgid ""
+"レイク：\n"
+"出来るだけ早く此処を出よう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 247, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そうだね。\\.\\.こんな所に長居するモンじゃないよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 249, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"但し、今晩は此処に泊まって行きな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 251, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"久方振りの人間狩りで街全体が熱を持ってる。\n"
+"冷めるには一晩必要だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 254, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そして明日に成れば、\n"
+"今日の事なんて嘘かもしくは昔話か。"
+msgstr ""
+
+#. ID 4, Page 1, Line 257, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ミートの連中も含めてね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 259, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ボスが潰されてもか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 261, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"コトの重き軽きに大した意味は無いさ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 263, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"全ての物事が、只その場限りで流れて行く。\\.\\.\n"
+"それがこのケイオス。"
+msgstr ""
+
+#. ID 4, Page 1, Line 266, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何に囚われる事も無く。\\.\\.何を得る事も無く。"
+msgstr ""
+
+#. ID 4, Page 1, Line 268, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\"自由\"な街か。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 270, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そういう事。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 280, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"みんな大概そうするよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 283, Pos (0,0)
+msgid ""
+"レイク：\n"
+"綺麗な部屋だ。\\.\\.外からは想像も付かない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 285, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"もっと汚いのが御似合い？"
+msgstr ""
+
+#. ID 4, Page 1, Line 287, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"此処がケイオスだからか…。\\|\n"
+"或いはアタシがビッチだからか…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 290, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そんな意味は無いさ。\\.\\.良い部屋だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 292, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"まあね。\\.\\.これがアタシの\"売り\"に繋がる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 297, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"無駄にデカい下品な尻。\\.\\.\n"
+"まるでシリコンみたいな弾力の胸。"
+msgstr ""
+
+#. ID 4, Page 1, Line 300, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"染み出るムサい体臭に、強過ぎる香水。\\|\n"
+"ヤニの匂いが消えない口に、どす黒いルージュ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 303, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それが典型的なスラムの女。"
+msgstr ""
+
+#. ID 4, Page 1, Line 308, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"まあイク為だけの肉便器ならそれで十分。\n"
+"男の性欲の半分は排泄欲求なんだから。"
+msgstr ""
+
+#. ID 4, Page 1, Line 311, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも\"そればかり\"だと男はやがて卑屈に成り、\n"
+"嫌気を感じ始める。"
+msgstr ""
+
+#. ID 4, Page 1, Line 314, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"只でさえ此処はケイオス。\\.\\.\n"
+"高貴な物や健康的な物への需要＜あこがれ＞が\n"
+"絡み付いた街。"
+msgstr ""
+
+#. ID 4, Page 1, Line 322, Pos (0,0)
+msgid ""
+"レイク：\n"
+"成る程、あんたはその専門って訳か。\\.\\.\n"
+"確かに長身だし\"良い身体\"だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 325, Pos (0,0)
+msgid ""
+"レイク：\n"
+"スポーツか何か？"
+msgstr ""
+
+#. ID 4, Page 1, Line 327, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ダンサーを目指してた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 329, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"其処らの女とは身体の締りが違うし、\\.\\.\n"
+"こうして部屋も整えて、\\.\\.此処では貴重な\"健康的な女\"。"
+msgstr ""
+
+#. ID 4, Page 1, Line 332, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"その上、生で出してもＯＫと来てる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 334, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"高く付くよ、\\.\\.アタシは。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 336, Pos (0,0)
+msgid ""
+"レイク：\n"
+"だろうな。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 338, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何なら抱いてみる？\\.\\.\n"
+"どうせ今晩は此処に泊まるんだ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 341, Pos (0,0)
+msgid ""
+"レイク：\n"
+"金が無い。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 343, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"最初は割引しても良いよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 345, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アンタのニオイは珍しいからね、\n"
+"アタシとしても興味深い。"
+msgstr ""
+
+#. ID 4, Page 1, Line 351, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ん、\\.\\.やっぱり止めとく。"
+msgstr ""
+
+#. ID 4, Page 1, Line 353, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ステディでも？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 355, Pos (0,0)
+msgid ""
+"レイク：\n"
+"違うな。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 357, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それじゃあ\"後ろ\"が専門？"
+msgstr ""
+
+#. ID 4, Page 1, Line 359, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"顔立ちも美形で細身。\\.\\.\n"
+"男と絡ませても違和感無いし。"
+msgstr ""
+
+#. ID 4, Page 1, Line 362, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そんな世界に興味は無い。"
+msgstr ""
+
+#. ID 4, Page 1, Line 368, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"若しかして、\\.\\.アセクシャル？"
+msgstr ""
+
+#. ID 4, Page 1, Line 370, Pos (0,0)
+msgid ""
+"レイク：\n"
+"近い物は在るな。\\.\\.\n"
+"女とは関係を持ちたくないんだよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 373, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"怖い？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 375, Pos (0,0)
+msgid ""
+"レイク：\n"
+"結果が見えてる。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 377, Pos (0,0)
+msgid ""
+"レイク：\n"
+"普通の男が女に求めるものと、\n"
+"俺が女に求めるものは、ちょっとばかり違うらしい。"
+msgstr ""
+
+#. ID 4, Page 1, Line 380, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アブノーマルか。\\.\\.\n"
+"確かにアタシはカヴァーしてないね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 383, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも大丈夫だよ。\\.\\.\n"
+"この街はこの世のあらゆる欲望を遍く満たす場所。"
+msgstr ""
+
+#. ID 4, Page 1, Line 386, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"世間から白い眼で見られる性癖も、\n"
+"此処でなら認められる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 392, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"この際だからカミングアウトしちまいな。\\|\n"
+"女を紹介出来るか否かはさて置いて。"
+msgstr ""
+
+#. ID 4, Page 1, Line 395, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"楽に成りたいんだったら、\n"
+"ゲロは吐いちまうに限るよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 407, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何の因果か、女イコール母親って\n"
+"傾向が在るらしい。"
+msgstr ""
+
+#. ID 4, Page 1, Line 410, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"だったらチャイルドプレイだね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 412, Pos (0,0)
+msgid ""
+"レイク：\n"
+"チャイルドプレイ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 414, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"女を母親だと思って甘えるプレイさ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 416, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"オッパイ吸って、\\.\\.赤ちゃん言葉も使って、\\.\\.\n"
+"場合に依ってはオシメも付ける。"
+msgstr ""
+
+#. ID 4, Page 1, Line 419, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"あーそうそう。\\.\\.オモチャの\"ガラガラ\"も。"
+msgstr ""
+
+#. ID 4, Page 1, Line 421, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"世渡りに疲れ切ったお偉いさんに人気でね、\n"
+"今密かにアツいジャンルだよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 429, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[15]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 431, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[10]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 436, Pos (0,0)
+msgid ""
+"レイク：\n"
+"止めとくぜ。\\|翌朝には首を吊っちまう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 438, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"割と純情なんだね。\\|\n"
+"嫌いじゃないよ、そういうの。"
+msgstr ""
+
+#. ID 4, Page 1, Line 441, Pos (0,0)
+msgid ""
+"レイク：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 447, Pos (0,0)
+msgid ""
+"レイク：\n"
+"なあ、\\.\\.少し早いけど休ませて貰えるか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 449, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"良いよ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 451, Pos (0,0)
+msgid ""
+"レイク：\n"
+"念の為に言っとくが…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 453, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"大丈夫。\\.\\.無防備な男は精々見てるだけ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 458, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"良い夢を。\\|\n"
+"生きて眠る幸せを噛み締めな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 461, Pos (0,0)
+msgid ""
+"レイク：\n"
+"名案だ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 12, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"如何だった、\\.\\.ケイオスの夜は？"
+msgstr ""
+
+#. ID 4, Page 2, Line 14, Pos (0,0)
+msgid ""
+"レイク：\n"
+"毛布が在れば何処だって上等だ。"
+msgstr ""
+
+#. ID 4, Page 2, Line 16, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"やっぱりアンタ、この街に向いてるよ。"
+msgstr ""
+
+#. ID 4, Page 2, Line 21, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"さ、\\.\\.こんな街に長居は無用だ。\\.\\.\n"
+"早いとこ表町に帰った方が良い。"
+msgstr ""
+
+#. ID 4, Page 2, Line 24, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ。\\.\\.世話に成ったな。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 34, Pos (0,0)
+msgid ""
+"？？？：\n"
+"\\S[2]やっぱりユアンの勝ちか。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 41, Pos (0,0)
+msgid ""
+"レイク：\n"
+"………!!\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 46, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"如何したの？ \\|そんな顔色変えて…。"
+msgstr ""
+
+#. ID 4, Page 2, Line 51, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[5]あの野郎ォ…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 58, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ちょっと…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 5, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"逢いたい人が居る、\\.\\.か…。"
+msgstr ""
+
+#. ID 4, Page 4, Line 10, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"だからアンタの匂いには、\\.\\.\n"
+"清廉とした何かが混じっていたんだね。"
+msgstr ""
+
+#. ID 4, Page 4, Line 13, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"このケイオスに似つかわしい淀んだ匂いの中で、\\.\\.\n"
+"似たもの同士だと思ってたアンタとの中で、\\.\\.\n"
+"唯一隔たりを与える物。"
+msgstr ""
+
+#. ID 4, Page 4, Line 17, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\"それ\"故にアンタは此処を去り、\n"
+"やがて此処には相応しくない奴へと変わって行く…。"
+msgstr ""
+
+#. ID 4, Page 4, Line 20, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そしてアタシは、\\.\\.此処で歳を取る。"
+msgstr ""
+
+#. ID 4, Page 4, Line 25, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"もう…\\.\\.どの位経ったのだろう…。"
+msgstr ""
+
+#. ID 4, Page 4, Line 35, Pos (0,0)
+msgid ""
+"少女：\n"
+"\\S[2]いやーーーッ!!\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 37, Pos (0,0)
+msgid ""
+"少女：\n"
+"\\S[2]お父さん！ \\|お母さん！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 40, Pos (0,0)
+msgid ""
+"初老の保安官：\n"
+"君の御両親で、\\.\\.間違い無いかね？"
+msgstr ""
+
+#. ID 4, Page 4, Line 43, Pos (0,0)
+msgid ""
+"少女：\n"
+"\\S[10]は…い…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 46, Pos (0,0)
+msgid ""
+"少女：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 48, Pos (0,0)
+msgid ""
+"少女：\n"
+"\\S[5]何なの…\\.\\.これ…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 50, Pos (0,0)
+msgid ""
+"少女：\n"
+"\\S[3]眼とお腹が…\\.\\.窪んでる…!?\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 53, Pos (0,0)
+msgid ""
+"保安官：\n"
+"君の御両親は、このエンヴィのスラム、\n"
+"ケイオスの闇金融業者から多額の借金をしていたんだ。"
+msgstr ""
+
+#. ID 4, Page 4, Line 56, Pos (0,0)
+msgid ""
+"保安官：\n"
+"尤も元本は少額。\\.\\.\n"
+"無法極まる高利で莫大な額に膨れ上がった。"
+msgstr ""
+
+#. ID 4, Page 4, Line 59, Pos (0,0)
+msgid ""
+"保安官：\n"
+"恐らく一時の金として直ぐ返済する心算で\n"
+"借りてしまったのだろう。"
+msgstr ""
+
+#. ID 4, Page 4, Line 63, Pos (0,0)
+msgid ""
+"保安官：\n"
+"昔からとても人の良い性格だった。\\|\n"
+"優しさを疑う事を知らなかった。"
+msgstr ""
+
+#. ID 4, Page 4, Line 66, Pos (0,0)
+msgid ""
+"保安官：\n"
+"悪魔は常に優しいのだと、\\.\\.\n"
+"以前何かの本で読んだ記憶が在るのだが…。"
+msgstr ""
+
+#. ID 4, Page 4, Line 69, Pos (0,0)
+msgid ""
+"保安官：\n"
+"私はその本を彼らに見せておくべきだった。"
+msgstr ""
+
+#. ID 4, Page 4, Line 72, Pos (0,0)
+msgid ""
+"保安官：\n"
+"完済出来るケースは少ない。"
+msgstr ""
+
+#. ID 4, Page 4, Line 74, Pos (0,0)
+msgid ""
+"保安官：\n"
+"眼球と内臓は摘出されて臓器売買に出され、\\.\\.\n"
+"代わりに砂を詰められ、\\.\\.水路に沈められていた。"
+msgstr ""
+
+#. ID 4, Page 4, Line 78, Pos (0,0)
+msgid ""
+"保安官：\n"
+"くそう…。\\.\\.人の形をした悪魔めが…。"
+msgstr ""
+
+#. ID 4, Page 4, Line 81, Pos (0,0)
+msgid ""
+"少女：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 83, Pos (0,0)
+msgid ""
+"保安官：\n"
+"犯人は既に逮捕した。\\.\\.死刑か終身刑にして遣る。"
+msgstr ""
+
+#. ID 4, Page 4, Line 86, Pos (0,0)
+msgid ""
+"少女：\n"
+"\\S[5]私の、\\.\\.所為だ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 88, Pos (0,0)
+msgid ""
+"少女：\n"
+"\\S[2]苦しい家計なのに、\\.\\.\n"
+"私がダンスをしたいなんて言ったせいで…。"
+msgstr ""
+
+#. ID 4, Page 4, Line 91, Pos (0,0)
+msgid ""
+"少女：\n"
+"\\S[2]高いレッスン費用を出す為に…。"
+msgstr ""
+
+#. ID 4, Page 4, Line 93, Pos (0,0)
+msgid ""
+"保安官：\n"
+"エリザベート。\\.\\.君は悪くない。"
+msgstr ""
+
+#. ID 4, Page 4, Line 95, Pos (0,0)
+msgid ""
+"少女：\n"
+"\\S[10]ワタシガ、\\.\\.コロシタ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 97, Pos (0,0)
+msgid ""
+"保安官：\n"
+"聞くんだエリザベート。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 103, Pos (0,0)
+msgid ""
+"少女：\n"
+"\\S[2]あああァァァーーーッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 107, Pos (0,0)
+msgid ""
+"保安官：\n"
+"カウンセラーを呼べ！\\.\\.\n"
+"それに医者もだ！ \\.\\.鎮静剤を！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 110, Pos (0,0)
+msgid ""
+"少女：\n"
+"死んでやる!!\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 112, Pos (0,0)
+msgid ""
+"少女：\n"
+"こんなバカ女ッ！ \\.\\.ブッ殺す!!\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 115, Pos (0,0)
+msgid ""
+"保安官：\n"
+"急げッ!! \\.\\.急ぐんだッ!!\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 117, Pos (0,0)
+msgid ""
+"少女：\n"
+"キシャァァァーーー!!!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 129, Pos (0,0)
+msgid ""
+"保安官：\n"
+"君は…。\\|若しかしてエリザベートなのか…？"
+msgstr ""
+
+#. ID 4, Page 4, Line 131, Pos (0,0)
+msgid ""
+"女性：\n"
+"さあ？ \\.\\.人違いじゃない？"
+msgstr ""
+
+#. ID 4, Page 4, Line 133, Pos (0,0)
+msgid ""
+"保安官：\n"
+"いいや、間違い無い。"
+msgstr ""
+
+#. ID 4, Page 4, Line 135, Pos (0,0)
+msgid ""
+"保安官：\n"
+"あの事件は、今でも昨日の事の様に良く覚えている。"
+msgstr ""
+
+#. ID 4, Page 4, Line 137, Pos (0,0)
+msgid ""
+"保安官：\n"
+"泣き叫ぶ君の姿を、\\.\\.今でも夢に見る。"
+msgstr ""
+
+#. ID 4, Page 4, Line 140, Pos (0,0)
+msgid ""
+"女性：\n"
+"エリザベート･ディオール。\\|\n"
+"随分前に捨てた名前さ。"
+msgstr ""
+
+#. ID 4, Page 4, Line 143, Pos (0,0)
+msgid ""
+"女性：\n"
+"今ではフォクシーで通ってる。"
+msgstr ""
+
+#. ID 4, Page 4, Line 146, Pos (0,0)
+msgid ""
+"保安官：\n"
+"売春か…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 148, Pos (0,0)
+msgid ""
+"保安官：\n"
+"他に道は無かったのか？"
+msgstr ""
+
+#. ID 4, Page 4, Line 150, Pos (0,0)
+msgid ""
+"保安官：\n"
+"ダンスはもう、止めてしまったのか？"
+msgstr ""
+
+#. ID 4, Page 4, Line 152, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"続けてる訳無いだろ？\\.\\.\n"
+"ダンスをしてたアタシの所為で死んだんだから。"
+msgstr ""
+
+#. ID 4, Page 4, Line 155, Pos (0,0)
+msgid ""
+"保安官：\n"
+"ならば何故、売春など…。"
+msgstr ""
+
+#. ID 4, Page 4, Line 157, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それが適切だと思ったから。"
+msgstr ""
+
+#. ID 4, Page 4, Line 159, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"悪くない容姿と、ダンスで引き締めた身体。\\|\n"
+"健康的だって評判さ。"
+msgstr ""
+
+#. ID 4, Page 4, Line 162, Pos (0,0)
+msgid ""
+"保安官：\n"
+"私が訊きたいのはそんな事ではない。"
+msgstr ""
+
+#. ID 4, Page 4, Line 164, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"いちいち煩いね。\\.\\.\n"
+"アタシはもう昔とは違うんだ。"
+msgstr ""
+
+#. ID 4, Page 4, Line 167, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"親の脛かじって、クソ下らない夢追い駆けてた\n"
+"小娘じゃないんだよ！"
+msgstr ""
+
+#. ID 4, Page 4, Line 170, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アタシは今、\\.\\.この身ィ一つでメシを食ってる！"
+msgstr ""
+
+#. ID 4, Page 4, Line 172, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"人の生業にとやかく口出しするんじゃないよ！"
+msgstr ""
+
+#. ID 4, Page 4, Line 176, Pos (0,0)
+msgid ""
+"保安官：\n"
+"御両親が、悲しんでいると思わんのかね？"
+msgstr ""
+
+#. ID 4, Page 4, Line 178, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"保安官らしからぬ台詞だね。\\.\\.\n"
+"\"死人に口無し\"の方が相応しいと思うけど？"
+msgstr ""
+
+#. ID 4, Page 4, Line 182, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そんな奇麗事を聞く耳なんて、\n"
+"\"少女\"と一緒に売っちまったよ。"
+msgstr ""
+
+#. ID 4, Page 4, Line 185, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そして代わりに十日分のパンと野菜、\n"
+"男の気を引くドレス。"
+msgstr ""
+
+#. ID 4, Page 4, Line 188, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"後は、\\.\\.避妊薬。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 191, Pos (0,0)
+msgid ""
+"保安官：\n"
+"君は随分と変わってしまった。"
+msgstr ""
+
+#. ID 4, Page 4, Line 193, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アンタが何を知ってる。"
+msgstr ""
+
+#. ID 4, Page 4, Line 195, Pos (0,0)
+msgid ""
+"保安官：\n"
+"実家を捜索した時、君の写真を見た。\\|\n"
+"ダンスをしている君はとても活き活きしていた。"
+msgstr ""
+
+#. ID 4, Page 4, Line 198, Pos (0,0)
+msgid ""
+"保安官：\n"
+"何としても守るべき物だと感じた。"
+msgstr ""
+
+#. ID 4, Page 4, Line 200, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"金を食い潰してるだけの雌ガキだね。"
+msgstr ""
+
+#. ID 4, Page 4, Line 203, Pos (0,0)
+msgid ""
+"保安官：\n"
+"私は来月には定年で退職する。"
+msgstr ""
+
+#. ID 4, Page 4, Line 205, Pos (0,0)
+msgid ""
+"保安官：\n"
+"退職金も出るし、\\.\\.何より今まで一人の子供も出来ず、\n"
+"かなり多くの金が貯まっている。"
+msgstr ""
+
+#. ID 4, Page 4, Line 208, Pos (0,0)
+msgid ""
+"保安官：\n"
+"余生で使い切るには、\n"
+"少しばかり額が多過ぎるようだ。"
+msgstr ""
+
+#. ID 4, Page 4, Line 212, Pos (0,0)
+msgid ""
+"保安官：\n"
+"私の養子に成る心算は無いか？"
+msgstr ""
+
+#. ID 4, Page 4, Line 214, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"金食い虫から人間に羽化したアタシを、\n"
+"また金食い虫に戻すのかよ。"
+msgstr ""
+
+#. ID 4, Page 4, Line 218, Pos (0,0)
+msgid ""
+"保安官：\n"
+"何の為の金と人生だ？"
+msgstr ""
+
+#. ID 4, Page 4, Line 220, Pos (0,0)
+msgid ""
+"保安官：\n"
+"人生の為の金か？\\|\n"
+"金の為の人生か？"
+msgstr ""
+
+#. ID 4, Page 4, Line 223, Pos (0,0)
+msgid ""
+"保安官：\n"
+"君は金を稼ぐ為に生まれて来たのか？\\|\n"
+"御両親はその為に君を生んだのか？"
+msgstr ""
+
+#. ID 4, Page 4, Line 227, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アホ臭い。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 229, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そんな物、\\.\\.他の街でならいざ知らず、\n"
+"此処で言う事じゃない。"
+msgstr ""
+
+#. ID 4, Page 4, Line 232, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"長年此処で働いて来たアンタに、\n"
+"分からない訳が無いだろ？"
+msgstr ""
+
+#. ID 4, Page 4, Line 236, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"此処には生まれて来た意味も、\n"
+"生きる意味も無い。"
+msgstr ""
+
+#. ID 4, Page 4, Line 239, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"金とセックス。\\.\\.ドラッグと犯罪。"
+msgstr ""
+
+#. ID 4, Page 4, Line 241, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"此処に在るのは、\\.\\.\"今\"だけさ。"
+msgstr ""
+
+#. ID 4, Page 4, Line 245, Pos (0,0)
+msgid ""
+"保安官：\n"
+"どんなに金を積んででも、\n"
+"守りたい物が在る。"
+msgstr ""
+
+#. ID 4, Page 4, Line 248, Pos (0,0)
+msgid ""
+"保安官：\n"
+"食う事と費やす事は、\\.\\.違う筈だ。"
+msgstr ""
+
+#. ID 4, Page 4, Line 250, Pos (0,0)
+msgid ""
+"保安官：\n"
+"それに、彼は私の友人でも在った男だからな。"
+msgstr ""
+
+#. ID 4, Page 4, Line 252, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アタシには関係の無い話だよ。\\|\n"
+"この身体を売って、取り敢えず今を生きる。"
+msgstr ""
+
+#. ID 4, Page 4, Line 255, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"後は知らない。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 258, Pos (0,0)
+msgid ""
+"保安官：\n"
+"あの頃に戻ろうと言った心算は無いのだが、\n"
+"そう言うのなら止むを得まい。"
+msgstr ""
+
+#. ID 4, Page 4, Line 261, Pos (0,0)
+msgid ""
+"保安官：\n"
+"だがせめて、歩く事だけは止めないで呉れ。\\|\n"
+"暗澹とした泥の中に沈んでしまわないように…。"
+msgstr ""
+
+#. ID 4, Page 4, Line 264, Pos (0,0)
+msgid ""
+"保安官：\n"
+"そうで在る限り、\\.\\.人はやり直せる。"
+msgstr ""
+
+#. ID 4, Page 4, Line 266, Pos (0,0)
+msgid ""
+"保安官：\n"
+"そして何か光明が差した時は、\n"
+"遠慮はするな、考えもするな。"
+msgstr ""
+
+#. ID 4, Page 4, Line 269, Pos (0,0)
+msgid ""
+"保安官：\n"
+"思い切って飛び付け。\\.\\.\n"
+"その全身を、思い切って躍動させて。"
+msgstr ""
+
+#. ID 4, Page 4, Line 272, Pos (0,0)
+msgid ""
+"保安官：\n"
+"ダンスを踊る様にな。"
+msgstr ""
+
+#. ID 4, Page 4, Line 275, Pos (0,0)
+msgid ""
+"保安官：\n"
+"出来るだろう？ \\|エリザベート。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 4, Line 283, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"未練がましいジジイだね。"
+msgstr ""
+
+#. ID 4, Page 4, Line 288, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それとも、\\.\\.今だと言いたいの…？"
+msgstr ""
+
+#. ID 4, Page 4, Line 290, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ふと現れた不思議な匂い…。\\|\n"
+"此処を去り、歩く事を選んだ男…。"
+msgstr ""
+
+#. ID 4, Page 4, Line 296, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ちょいと試してみるか。"
+msgstr ""
+
+#. ID 4, Page 4, Line 298, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"この身体が、\\.\\.まだ\"あの頃\"を覚えている内に…。"
+msgstr ""
+
+#. ID 4, Page 5, Line 13, Pos (0,0)
+#. ID 4, Page 5, Line 264, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"城に行って、一通り調べてみましょう。"
+msgstr ""
+
+#. ID 4, Page 5, Line 23, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"偽装投身自殺…？"
+msgstr ""
+
+#. ID 4, Page 5, Line 25, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうよ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 5, Line 27, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"７年前、ジョシュアとレオナはこの街を訪れ、\n"
+"各々自分の素体をマルゴに作って貰い…。"
+msgstr ""
+
+#. ID 4, Page 5, Line 30, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それをマリバンドホープから投げ捨てたのよ。"
+msgstr ""
+
+#. ID 4, Page 5, Line 35, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"マルゴのビジネスからも分かる様に、\n"
+"素体は魂を伴わない\"それ自体\"としては\n"
+"死体と同じに認識される。"
+msgstr ""
+
+#. ID 4, Page 5, Line 39, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"だから管理局の遺体処理の担当は、\n"
+"当然の如く\"何時もの\"遺体として処理する。"
+msgstr ""
+
+#. ID 4, Page 5, Line 42, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"まさかそれが元々生命を持っていない\n"
+"素体であったなどとは、夢にも思わずに。"
+msgstr ""
+
+#. ID 4, Page 5, Line 48, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"とはいえ所詮は状況から鑑みた物。\\.\\.\n"
+"推論の域を出ないんだけれどね…。"
+msgstr ""
+
+#. ID 4, Page 5, Line 54, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でもマルゴの素体作製は、\n"
+"基本的には此処の死姦愛好者向け。\n"
+"生粋の裏ビジネスだ。"
+msgstr ""
+
+#. ID 4, Page 5, Line 58, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そんなモノに夫婦揃って依頼を入れるなんて、\n"
+"マトモじゃないにも程が在る。"
+msgstr ""
+
+#. ID 4, Page 5, Line 61, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"素体の使い道を考えても、\n"
+"浮かんで来るのは\"真っ当でない\"使い道。"
+msgstr ""
+
+#. ID 4, Page 5, Line 64, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"きっと婆さんだって、\n"
+"依頼の段階で既にその程度の事は考えてた筈。"
+msgstr ""
+
+#. ID 4, Page 5, Line 67, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"単に口出ししなかっただけでね。"
+msgstr ""
+
+#. ID 4, Page 5, Line 73, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"最早…\\.\\.黒に凡そ近い灰色か…。"
+msgstr ""
+
+#. ID 4, Page 5, Line 78, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"偽装投身自殺と成れば、目的は言うまでもなく、\n"
+"自分という存在を社会から消し去る事。"
+msgstr ""
+
+#. ID 4, Page 5, Line 81, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そしてその上で、\\.\\.\n"
+"全くの別人として生きる事。"
+msgstr ""
+
+#. ID 4, Page 5, Line 84, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"例えばハイディ･バーミンガムとか。"
+msgstr ""
+
+#. ID 4, Page 5, Line 89, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"唯…\\.\\.問題は\"その必要性\"ね。"
+msgstr ""
+
+#. ID 4, Page 5, Line 91, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"エンデに取って代わるだけなら、\n"
+"態々別人に成る必要は一切無い筈。"
+msgstr ""
+
+#. ID 4, Page 5, Line 94, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ならば何故二人は、そんな面倒な手順を踏んでまで\n"
+"別人に成り済ましたのかしら…。"
+msgstr ""
+
+#. ID 4, Page 5, Line 100, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"エンデに取って代わるだけでは、\n"
+"足りなかった…？"
+msgstr ""
+
+#. ID 4, Page 5, Line 103, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"別人に成り済まさなくては出来ない様な事を、\n"
+"他にも画策してたって訳か。"
+msgstr ""
+
+#. ID 4, Page 5, Line 106, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうとしか思えないわね。"
+msgstr ""
+
+#. ID 4, Page 5, Line 112, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"分からない…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 5, Line 114, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"実行者に成るだけでは飽き足らず、\\.\\.\n"
+"まだ他に何か企んでいるというの…？"
+msgstr ""
+
+#. ID 4, Page 5, Line 117, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そのケインの両親は…。"
+msgstr ""
+
+#. ID 4, Page 5, Line 122, Pos (0,0)
+#. ID 4, Page 5, Line 243, Pos (0,0)
+msgid ""
+"一同：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 5, Line 128, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"取り敢えず…\\.\\.正体の方から探るべきね。"
+msgstr ""
+
+#. ID 4, Page 5, Line 130, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"「レオナ＝ハイディ」だと仮定して、\n"
+"残ったもう片方…。"
+msgstr ""
+
+#. ID 4, Page 5, Line 133, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ジョシュアの正体を。"
+msgstr ""
+
+#. ID 4, Page 5, Line 138, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"城の総合データベースが多分役に立つわ。"
+msgstr ""
+
+#. ID 4, Page 5, Line 140, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ディザスティア絡みで揺れる時勢が時勢。\n"
+"政府関係機関のデータが天下御免で見られる筈。"
+msgstr ""
+
+#. ID 4, Page 5, Line 143, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも何で政府関係機関なの？"
+msgstr ""
+
+#. ID 4, Page 5, Line 145, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"レオナがハイディというエンジニア…。\\.\\.\n"
+"それもロビンのラージュプロジェクト第一主任なんて\n"
+"結構な社会的立場に居た以上…。"
+msgstr ""
+
+#. ID 4, Page 5, Line 149, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ジョシュアもまた、それなりの社会的立場…。\\.\\.\n"
+"例えば政府関係者等に成り済ましているかも知れない。"
+msgstr ""
+
+#. ID 4, Page 5, Line 152, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"絶壁管理局からジョシュアのデータを取り寄せて、\n"
+"城のデータベースと端から照合してみるわ。"
+msgstr ""
+
+#. ID 4, Page 5, Line 155, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それで引っ掛かったら儲けモンだね。"
+msgstr ""
+
+#. ID 4, Page 5, Line 160, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それじゃあ、\\.\\.早速城へ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 5, Line 164, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"待って呉れ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 5, Line 170, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"そのデータベースというのは、\n"
+"他にも様々な情報が見られるのか？"
+msgstr ""
+
+#. ID 4, Page 5, Line 173, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ。\\.\\.\"総合\"データベースだから。"
+msgstr ""
+
+#. ID 4, Page 5, Line 175, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"流石に民間まではカヴァーしかねるとして、\n"
+"政府関連の情報ならば全て。"
+msgstr ""
+
+#. ID 4, Page 5, Line 178, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"トップシークレットの内容でもか？"
+msgstr ""
+
+#. ID 4, Page 5, Line 180, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ勿論。\\.\\.私は女王だし、\n"
+"閲覧の際にはデイジーも立ち会うから。"
+msgstr ""
+
+#. ID 4, Page 5, Line 186, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 5, Line 188, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"何か見たい情報でも？"
+msgstr ""
+
+#. ID 4, Page 5, Line 195, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"ディザスティアの情報を。"
+msgstr ""
+
+#. ID 4, Page 5, Line 197, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ディザスティア…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 5, Line 200, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"総てのイーヴルには\"元\"と成った\n"
+"セラパーソンが居るのだろう？"
+msgstr ""
+
+#. ID 4, Page 5, Line 203, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"たとえそれが、\\.\\.ディザスティアでも。"
+msgstr ""
+
+#. ID 4, Page 5, Line 208, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ディザスティア…\\|原体…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 5, Line 213, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"確かに…。\\.\\.言われてみればその通り…。"
+msgstr ""
+
+#. ID 4, Page 5, Line 218, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ルシファーだかイーヴルが現れてもう20年。"
+msgstr ""
+
+#. ID 4, Page 5, Line 220, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"人々の生命を滅している筈のルシファー廃棄過程も、\n"
+"今では完全なルーチンワーク。"
+msgstr ""
+
+#. ID 4, Page 5, Line 223, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"総ては当たり前過ぎた。\\.\\.\n"
+"ルシファー原体に改まった視線を向ける奴は少ない。"
+msgstr ""
+
+#. ID 4, Page 5, Line 230, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ランサード。\\.\\.\n"
+"そう言うからには心当たりが？"
+msgstr ""
+
+#. ID 4, Page 5, Line 236, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"該当者として、一人の少女が挙がるだろう。"
+msgstr ""
+
+#. ID 4, Page 5, Line 238, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"アイシャ･クルスクだ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 5, Line 248, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アンタ…。\\.\\.冗談抜きで何を知ってんのさ…。"
+msgstr ""
+
+#. ID 4, Page 5, Line 253, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 5, Line 255, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\"黙って俺に付いて来い\"か。\\.\\.\n"
+"最近のウケは良くないね。"
+msgstr ""
+
+#. ID 4, Page 5, Line 261, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"まあ良いわ…。\\.\\.\n"
+"これ以上何を言っても論より証拠。"
+msgstr ""
+
+#. ID 6, Page 1, Line 5, Pos (5,10)
+#. Choice (2 options)
+msgid ""
+"休む\n"
+"休まない"
+msgstr ""
+

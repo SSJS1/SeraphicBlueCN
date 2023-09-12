@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 11, Pos (13,12)
+#. ID 4, Page 1, Line 149, Pos (13,12)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 16, Pos (13,12)
+msgid ""
+"レイク：\n"
+"ヴェーネ…\\.\\.居ないな…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 21, Pos (13,12)
+msgid ""
+"レイク：\n"
+"確か…\\.展望広場が在るとか言ってたな…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 36, Pos (13,12)
+msgid ""
+"少女：\n"
+"\\S[5]ドウシテ…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 39, Pos (13,12)
+msgid ""
+"少女：\n"
+"\\S[5]どうして…\\|コロしちゃったの…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 42, Pos (13,12)
+msgid ""
+"ヴェーネ：\n"
+"真の意味に於いて、\\.\\.\n"
+"私はこの子を救済したのよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 46, Pos (13,12)
+msgid ""
+"少女：\n"
+"\\S[2]おネエちゃんの言ってるコト、\\.\\.\n"
+"わかんない…！\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 50, Pos (13,12)
+msgid ""
+"ヴェーネ：\n"
+"死ぬ事も出来ず、\\.\\.生きる事も出来ず…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 53, Pos (13,12)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]それでも、\\.\\.ドリス…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 56, Pos (13,12)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]貴方は、\\.\\.それを\"救い\"と呼ぶの？\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 69, Pos (13,12)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 74, Pos (13,12)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]私の…\\.\\.過去…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 79, Pos (13,12)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]ドリス…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 84, Pos (13,12)
+msgid ""
+"ヴェーネ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 89, Pos (13,12)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]何なの…。\\|この胸の苦しさ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 103, Pos (13,12)
+msgid ""
+"男の声：\n"
+"\\S[3]シリア…。\\|\n"
+"如何して、\\.\\.こんな事に…。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 107, Pos (13,12)
+msgid ""
+"男の声：\n"
+"\\S[3]ああ…。\\|\n"
+"お前に良く似た、\\.\\.可愛い子だよ…。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 111, Pos (13,12)
+msgid ""
+"男の声：\n"
+"\\S[3]済まない…。\\|\n"
+"俺があんな事さえしなければ…。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 115, Pos (13,12)
+msgid ""
+"女の声：\n"
+"\\S[3]え？ \\|この子を？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 118, Pos (13,12)
+msgid ""
+"男の声：\n"
+"\\S[3]名前は、\\.\\.レイク･ランドヴェリーと言います。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 121, Pos (13,12)
+msgid ""
+"女の声：\n"
+"\\S[3]きっと、\\.\\.幸せをくださるに違いありません。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 124, Pos (13,12)
+msgid ""
+"男の声：\n"
+"\\S[3]ならば、\\.\\.この言葉を贈ります。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 127, Pos (13,12)
+msgid ""
+"\n"
+"              \\S[3]ごめんなさい。\\|\n"
+"              本当に、\\.ごめんなさい。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 141, Pos (13,12)
+msgid ""
+"レイク：\n"
+"\\S[3]ちくしょう…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 154, Pos (13,12)
+msgid ""
+"レイク：\n"
+"ヴェーネ…\\|居ないな…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 159, Pos (13,12)
+msgid ""
+"レイク：\n"
+"俺と似た様な用事か…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 164, Pos (13,12)
+msgid ""
+"レイク：\n"
+"確か…\\.\\.展望広場が在るとか言ってたな…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 169, Pos (13,12)
+msgid ""
+"レイク：\n"
+"見に行ってみるか。\\.\\.夜の海って奴を。"
+msgstr ""
+

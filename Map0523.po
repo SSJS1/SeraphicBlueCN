@@ -1,0 +1,662 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 74, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]ヴェーネ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 81, Pos (0,0)
+msgid ""
+"同僚：\n"
+"おいフリッツ、\\.\\.\n"
+"またこんな所に居たのかよ。\\|\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 87, Pos (0,0)
+msgid ""
+"同僚：\n"
+"この前も言われただろ。\\.\\.\n"
+"此処は基本的に作業用通路なんだから、\n"
+"無闇に使うなって。"
+msgstr ""
+
+#. ID 3, Page 1, Line 96, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"けれど此処が一番なんだよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 98, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"空の展望も。吹き付ける風も。"
+msgstr ""
+
+#. ID 3, Page 1, Line 100, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"頭の中の厭なものが全て、\n"
+"あの空に散って行く様な気がする。"
+msgstr ""
+
+#. ID 3, Page 1, Line 103, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"或いは、この生命さえもね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 105, Pos (0,0)
+msgid ""
+"同僚：\n"
+"不穏な事言って呉れるぜ。\\.\\.\n"
+"飛び降りたりしないだろうな？"
+msgstr ""
+
+#. ID 3, Page 1, Line 108, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"大丈夫だよ。\\.\\.\n"
+"飛び降りたら行き着く先は大地だ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 111, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"僕は空に行きたい。"
+msgstr ""
+
+#. ID 3, Page 1, Line 113, Pos (0,0)
+#. ID 3, Page 1, Line 254, Pos (0,0)
+#. ID 3, Page 1, Line 297, Pos (0,0)
+msgid ""
+"同僚：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 121, Pos (0,0)
+msgid ""
+"同僚：\n"
+"\"それ\"を持ってる所を見ると、\n"
+"結局言えず仕舞いか…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 124, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"最後のチャンスだったけど…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 129, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"結局僕は、\\.\\.\n"
+"何時だって何も出来やしない…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 132, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"あの時からずっと言われるがまま。\\|\n"
+"今だってこうして空を見ているだけ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 135, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"ヴェーネ達が戦っている、\\.\\.あの空を。"
+msgstr ""
+
+#. ID 3, Page 1, Line 140, Pos (0,0)
+msgid ""
+"同僚：\n"
+"あの黒い空か…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 142, Pos (0,0)
+msgid ""
+"同僚：\n"
+"まだ一般には伏せてあるけど、\n"
+"あれが星の死滅の兆候なんだってな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 145, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"ヴェーネの最後の戦いの舞台だ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 150, Pos (0,0)
+msgid ""
+"同僚：\n"
+"最後の戦い…\\|か…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 155, Pos (0,0)
+msgid ""
+"同僚：\n"
+"正直言って気が乗らないぜ。\\.\\.\n"
+"これで星が救われるとしても。"
+msgstr ""
+
+#. ID 3, Page 1, Line 158, Pos (0,0)
+msgid ""
+"同僚：\n"
+"そうして訪れる未来を何の考えも無しに\n"
+"甘受するなんて、とてもじゃないが俺には出来ない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 161, Pos (0,0)
+msgid ""
+"同僚：\n"
+"俺達のやった事は何なのか。\\|\n"
+"彼女にどれだけのものを押し付けて来たのか。"
+msgstr ""
+
+#. ID 3, Page 1, Line 164, Pos (0,0)
+msgid ""
+"同僚：\n"
+"そして挙げ句の果てには…。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 169, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"僕達は咎人…。\\|彼女は十字架…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 171, Pos (0,0)
+msgid ""
+"同僚：\n"
+"そうだな。\\.\\.\n"
+"言い逃れする心算も無い。"
+msgstr ""
+
+#. ID 3, Page 1, Line 178, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"この頃ふと、父さんの事を考えるんだ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 180, Pos (0,0)
+msgid ""
+"同僚：\n"
+"ジークベルトか？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 182, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"父さんはヴェーネの人間性を全て否定して、\n"
+"救世の道具に仕立て上げようとしていた。"
+msgstr ""
+
+#. ID 3, Page 1, Line 185, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"でも本当は、\\.\\.それが彼女にとって\n"
+"最も救いの在る道だったのかも知れないと。"
+msgstr ""
+
+#. ID 3, Page 1, Line 188, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"こんな結末を辿るくらいなら、\\.\\.いっそ道具に徹して\n"
+"人間の心など持たない方が良かったと…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 194, Pos (0,0)
+msgid ""
+"同僚：\n"
+"かもな…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 199, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"今更そんな心を持った所で、\\.\\.\n"
+"それは彼女に痛みと嘆きしか与えはしない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 202, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"自分の誕生に後悔して、\\.\\.\n"
+"自分を産んだ者を只管に呪い続ける。"
+msgstr ""
+
+#. ID 3, Page 1, Line 205, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"こんな事なら生まれて来なければ良かったと。"
+msgstr ""
+
+#. ID 3, Page 1, Line 210, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"生まれて来ない事が一番の救い。\\|\n"
+"でも生まれて来てしまった以上、せめてその次善。"
+msgstr ""
+
+#. ID 3, Page 1, Line 213, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"人としての心を奪い去り、\\.\\.\n"
+"何も感じなくしてあげる事。"
+msgstr ""
+
+#. ID 3, Page 1, Line 216, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"人よりずっと多い悲しみを背負わされ、\\.\\.\n"
+"人よりずっと少ない歓びしか享受出来ないのならば。"
+msgstr ""
+
+#. ID 3, Page 1, Line 219, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"心を棄て、\\.\\.人間を辞める事は、\\.\\.\n"
+"本人にとって充分な救いである筈だ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 222, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"そしてそれを非難する権利は、何人にも無い筈だ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 228, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"父さんが其処までも考えていたのか如何か、\n"
+"僕には分からないけれど…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 231, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"少なくとも、\\.\\.これだけは言える。"
+msgstr ""
+
+#. ID 3, Page 1, Line 236, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"結局僕は、\\.\\.あの頃と変わらない未熟者。"
+msgstr ""
+
+#. ID 3, Page 1, Line 238, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"中途半端な手心を掛けては、\n"
+"ヴェーネの首を真綿で締め上げている。"
+msgstr ""
+
+#. ID 3, Page 1, Line 241, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"生かす事も出来ず。\\|殺す事も出来ず。"
+msgstr ""
+
+#. ID 3, Page 1, Line 243, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"もがけばもがく程に自らの咎を積み重ね、\\.\\.\n"
+"彼女の存在を生と死の狭間に貶める。"
+msgstr ""
+
+#. ID 3, Page 1, Line 249, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"そして\"今度\"こそ…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 259, Pos (0,0)
+msgid ""
+"同僚：\n"
+"彼女も然る事ながら、\\.\\.お前だって。"
+msgstr ""
+
+#. ID 3, Page 1, Line 261, Pos (0,0)
+msgid ""
+"同僚：\n"
+"こんな問題、お前も含めて誰かが\n"
+"如何こう出来る様な代物じゃないのにさ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 267, Pos (0,0)
+msgid ""
+"同僚：\n"
+"でもお前は、自分の口から言うんだろう？"
+msgstr ""
+
+#. ID 3, Page 1, Line 269, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"何時か誰かが言わなければならない事だ。\\|\n"
+"この極まった咎は、僕が引き受ける。"
+msgstr ""
+
+#. ID 3, Page 1, Line 272, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"戦い終わり、\\.\\.星を救って戻って来た救世の天使…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 274, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"そんな彼女に捧げる、\\.\\.\n"
+"気の利き過ぎた、労いの言葉を。"
+msgstr ""
+
+#. ID 3, Page 1, Line 281, Pos (0,0)
+msgid ""
+"同僚：\n"
+"ん…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 284, Pos (0,0)
+msgid ""
+"同僚：\n"
+"済まない、俺はもう行くぜ。\\.\\.\n"
+"この後カンファレンスが入ってるんだ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 287, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"御疲れ様。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 289, Pos (0,0)
+msgid ""
+"同僚：\n"
+"あんまり気負うなよ。\\.\\.\n"
+"これじゃお前が先に潰れちまう。"
+msgstr ""
+
+#. ID 3, Page 1, Line 292, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"僕ばかり健常だなんて御免だよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 302, Pos (0,0)
+msgid ""
+"同僚：\n"
+"何か在ったら、遠慮無く相談しろよな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 304, Pos (0,0)
+msgid ""
+"同僚：\n"
+"良いか？ \\|遠慮無くだぞ？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 313, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 318, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]こんな物さえ無ければ…。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 323, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]こんな紙切れ一枚で、\\.\\.\n"
+"ヴェーネを出迎えろって言うのか…！\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 329, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[5]ちくしょうッ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 12, Pos (0,0)
+msgid ""
+"同僚：\n"
+"はぁ？ \\.\\.此処に残る？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 14, Pos (0,0)
+msgid ""
+"同僚：\n"
+"避難命令が出てるんだぞ？"
+msgstr ""
+
+#. ID 3, Page 2, Line 16, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"知った事か。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 18, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"僕は此処に残る。\\|\n"
+"あの空に一番近い、この場所に。"
+msgstr ""
+
+#. ID 3, Page 2, Line 21, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"ヴェーネを置いて行けるものか。"
+msgstr ""
+
+#. ID 3, Page 2, Line 26, Pos (0,0)
+msgid ""
+"同僚：\n"
+"やれやれ…。\\.\\.\n"
+"一度言い出すと聞かないんだよな…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 35, Pos (0,0)
+msgid ""
+"同僚：\n"
+"よし。\\.\\.俺も残る。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 37, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 39, Pos (0,0)
+msgid ""
+"同僚：\n"
+"逃げたくないんだよ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 41, Pos (0,0)
+msgid ""
+"同僚：\n"
+"彼女がその身を以って\n"
+"あの空で戦っているってのに…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 44, Pos (0,0)
+msgid ""
+"同僚：\n"
+"俺達は全てを彼女に押し付けた挙げ句、\n"
+"安全な場所で御気楽して来た。"
+msgstr ""
+
+#. ID 3, Page 2, Line 47, Pos (0,0)
+msgid ""
+"同僚：\n"
+"やっぱ卑怯だぜ、\\.\\.これは。"
+msgstr ""
+
+#. ID 3, Page 2, Line 52, Pos (0,0)
+msgid ""
+"同僚：\n"
+"若し此処で逃げ出したとしよう。\\|\n"
+"そして若し世界が救われたとしよう。"
+msgstr ""
+
+#. ID 3, Page 2, Line 55, Pos (0,0)
+msgid ""
+"同僚：\n"
+"俺達に何が待ってる？"
+msgstr ""
+
+#. ID 3, Page 2, Line 60, Pos (0,0)
+msgid ""
+"同僚：\n"
+"後味の悪い人生さ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 62, Pos (0,0)
+msgid ""
+"同僚：\n"
+"彼女の人生を犠牲にして御膳立てされた、\n"
+"冷たくて味気無い食事。"
+msgstr ""
+
+#. ID 3, Page 2, Line 65, Pos (0,0)
+msgid ""
+"同僚：\n"
+"冗談じゃない。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 67, Pos (0,0)
+msgid ""
+"同僚：\n"
+"折角生きるんだから、\\.\\.\n"
+"温かくて美味い食事が食いたいだろ？"
+msgstr ""
+
+#. ID 3, Page 2, Line 77, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"ああ。\\|此処で待とう。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 79, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"そして若しもの時は彼女を追って、\\.\\.\n"
+"この世界で最も早く…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 86, Pos (0,0)
+msgid ""
+"同僚：\n"
+"何れにせよ…\\|死ぬ心算なんだろ…？"
+msgstr ""
+
+#. ID 3, Page 2, Line 88, Pos (0,0)
+msgid ""
+"同僚：\n"
+"この世界が死のうが救われようが、\\.\\.\n"
+"それとは関係無く…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 94, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"ヴェーネが帰って来ても、\\.\\.\n"
+"僕は美味い食事を得る事は出来ないからね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 100, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"分からないんだよ…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 102, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"如何すれば、\\.\\.ヴェーネが救われるのか…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 104, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"如何すれば、\\.\\.満たされるのか…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 109, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"一緒に…\\|生命を否定してあげる事以外に…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 115, Pos (0,0)
+msgid ""
+"同僚：\n"
+"そんなの…\\.\\.納得出来ないぜ…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 120, Pos (0,0)
+msgid ""
+"同僚：\n"
+"\"生きよう\"とは…\\.\\.言えないのか？"
+msgstr ""
+
+#. ID 3, Page 2, Line 125, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"そんな資格、僕には無いよ…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 127, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"ヴェーネだって…\\|求めていない…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 132, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]ヴェーネが欲しいのは…\\.\\.唯一つ…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 134, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]\"終わり\"…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 136, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]この運命でもなく…。\\|\n"
+"ましてこの世界でもなく…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 139, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]忌まわしく絶望に満ちた、\\.\\.\n"
+"自分という存在の、\\.\\.終わり…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 145, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]死は、\\|ヴェーネを救って呉れるんだよ。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 147, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]僕なんかよりも、\\.\\.ずっとずっと優しく…。\\|\\|\\^"
+msgstr ""
+

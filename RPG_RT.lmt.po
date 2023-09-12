@@ -1,0 +1,2799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "システムマップ"
+msgstr ""
+
+#. ID 3
+msgid "バトルシステム"
+msgstr ""
+
+#. ID 4
+msgid "メインメニュー"
+msgstr ""
+
+#. ID 5
+msgid "ゲーム開始"
+msgstr ""
+
+#. ID 6
+msgid "アイテムメニュー"
+msgstr ""
+
+#. ID 7
+msgid "アビリティメニュー"
+msgstr ""
+
+#. ID 8
+msgid "装備メニュー"
+msgstr ""
+
+#. ID 9
+msgid "ステータスメニュー"
+msgstr ""
+
+#. ID 10
+msgid "サプリメントメニュー"
+msgstr ""
+
+#. ID 11
+msgid "パーティオーガナイズ"
+msgstr ""
+
+#. ID 12
+msgid "屋外"
+msgstr ""
+
+#. ID 13
+msgid "エクステンドメニュー"
+msgstr ""
+
+#. ID 14
+msgid "グラウンドフィールド１"
+msgstr ""
+
+#. ID 15
+msgid "フェジテフィールド1"
+msgstr ""
+
+#. ID 16
+msgid "フェジテフィールド2"
+msgstr ""
+
+#. ID 17
+msgid "インナーリング内向"
+msgstr ""
+
+#. ID 18
+msgid "癒しの街トゥルク"
+msgstr ""
+
+#. ID 19
+msgid "ランゲル診療所"
+msgstr ""
+
+#. ID 20
+msgid "ショップ売却メニュー"
+msgstr ""
+
+#. ID 21
+#. ID 36
+#. ID 66
+#. ID 72
+#. ID 90
+#. ID 117
+#. ID 130
+#. ID 146
+#. ID 174
+#. ID 225
+#. ID 247
+#. ID 282
+#. ID 321
+#. ID 410
+msgid "ショップ"
+msgstr ""
+
+#. ID 22
+#. ID 37
+msgid "宿屋１Ｆ"
+msgstr ""
+
+#. ID 23
+#. ID 38
+msgid "宿屋２Ｆ"
+msgstr ""
+
+#. ID 24
+msgid "プレート／東市街"
+msgstr ""
+
+#. ID 25
+msgid "ディクショナリーメイン"
+msgstr ""
+
+#. ID 26
+msgid "キャストデータ"
+msgstr ""
+
+#. ID 27
+msgid "タームデータ"
+msgstr ""
+
+#. ID 28
+msgid "ストーリーリビュー"
+msgstr ""
+
+#. ID 29
+msgid "ショップ購入メニュー"
+msgstr ""
+
+#. ID 30
+msgid "ヒストリー1"
+msgstr ""
+
+#. ID 31
+msgid "デスティネイション"
+msgstr ""
+
+#. ID 32
+msgid "ヒストリー2"
+msgstr ""
+
+#. ID 33
+msgid "スカイスクレイパー35F"
+msgstr ""
+
+#. ID 34
+msgid "故郷の街ココモ"
+msgstr ""
+
+#. ID 35
+msgid "街外れ1"
+msgstr ""
+
+#. ID 39
+msgid "イリエナ孤児院"
+msgstr ""
+
+#. ID 40
+msgid "EP37EVC"
+msgstr ""
+
+#. ID 41
+msgid "名も無き洞窟1"
+msgstr ""
+
+#. ID 42
+msgid "名も無き洞窟2"
+msgstr ""
+
+#. ID 43
+msgid "名も無き洞窟4"
+msgstr ""
+
+#. ID 44
+msgid "名も無き洞窟3"
+msgstr ""
+
+#. ID 45
+msgid "トゥルクの森１"
+msgstr ""
+
+#. ID 46
+msgid "トゥルクの森２"
+msgstr ""
+
+#. ID 47
+msgid "トゥルクの森３"
+msgstr ""
+
+#. ID 48
+msgid "トゥルクの森４"
+msgstr ""
+
+#. ID 49
+msgid "トゥルクの森５"
+msgstr ""
+
+#. ID 50
+msgid "トゥルクの森６"
+msgstr ""
+
+#. ID 51
+msgid "トゥルクの森７"
+msgstr ""
+
+#. ID 52
+msgid "トゥルクの森８"
+msgstr ""
+
+#. ID 53
+msgid "トゥルクの森９"
+msgstr ""
+
+#. ID 54
+msgid "トゥルクの森10"
+msgstr ""
+
+#. ID 55
+msgid "トゥルクの森11"
+msgstr ""
+
+#. ID 56
+msgid "EP10EVC-2"
+msgstr ""
+
+#. ID 57
+msgid "トゥルクの森12"
+msgstr ""
+
+#. ID 58
+msgid "オリジナルヴェーネ領域"
+msgstr ""
+
+#. ID 59
+msgid "プレート／西市街"
+msgstr ""
+
+#. ID 60
+msgid "星命の結晶1"
+msgstr ""
+
+#. ID 61
+msgid "アイシャの空4-1"
+msgstr ""
+
+#. ID 62
+msgid "アイシャの空4-2"
+msgstr ""
+
+#. ID 63
+msgid "幼天使の里ホーイック"
+msgstr ""
+
+#. ID 64
+msgid "宿屋1Ｆ"
+msgstr ""
+
+#. ID 65
+msgid "宿屋2Ｆ"
+msgstr ""
+
+#. ID 67
+msgid "教会1Ｆ"
+msgstr ""
+
+#. ID 68
+msgid "教会2Ｆ"
+msgstr ""
+
+#. ID 69
+msgid "プレート／中央市街"
+msgstr ""
+
+#. ID 70
+msgid "東部大陸港"
+msgstr ""
+
+#. ID 71
+#. ID 145
+#. ID 173
+#. ID 224
+msgid "宿屋"
+msgstr ""
+
+#. ID 73
+msgid "美術室"
+msgstr ""
+
+#. ID 74
+msgid "下層／東部大陸ポート"
+msgstr ""
+
+#. ID 75
+msgid "星命の結晶2"
+msgstr ""
+
+#. ID 76
+msgid "上層／東市街"
+msgstr ""
+
+#. ID 77
+msgid "ユヴェス／展望広場"
+msgstr ""
+
+#. ID 78
+msgid "中央市街"
+msgstr ""
+
+#. ID 79
+msgid "海上歴史館正面"
+msgstr ""
+
+#. ID 80
+msgid "西市街１"
+msgstr ""
+
+#. ID 81
+msgid "西市街２"
+msgstr ""
+
+#. ID 82
+msgid "ダルムポート"
+msgstr ""
+
+#. ID 83
+msgid "エル領域(EP44)"
+msgstr ""
+
+#. ID 84
+msgid "ホワイトポート"
+msgstr ""
+
+#. ID 85
+msgid "プレート／サルベージ"
+msgstr ""
+
+#. ID 86
+msgid "ラヴェンナ東山岳地点"
+msgstr ""
+
+#. ID 87
+msgid "ラヴェンナ地下洞2-1"
+msgstr ""
+
+#. ID 88
+#. ID 118
+#. ID 131
+#. ID 242
+#. ID 281
+#. ID 411
+#. ID 513
+msgid "宿屋1F"
+msgstr ""
+
+#. ID 89
+#. ID 119
+#. ID 283
+msgid "宿屋2F"
+msgstr ""
+
+#. ID 91
+#. ID 485
+msgid "エントランス"
+msgstr ""
+
+#. ID 92
+msgid "第1ビジョン"
+msgstr ""
+
+#. ID 93
+msgid "第2ビジョン"
+msgstr ""
+
+#. ID 94
+msgid "第3ビジョン"
+msgstr ""
+
+#. ID 95
+msgid "第1-2接合"
+msgstr ""
+
+#. ID 96
+msgid "第2-3接合"
+msgstr ""
+
+#. ID 97
+msgid "Ｎ東市街"
+msgstr ""
+
+#. ID 98
+msgid "Ｎ東市街展望広場"
+msgstr ""
+
+#. ID 99
+msgid "Ｎ中央市街"
+msgstr ""
+
+#. ID 100
+msgid "Ｎ宿屋1F"
+msgstr ""
+
+#. ID 101
+msgid "Ｎ宿屋2F"
+msgstr ""
+
+#. ID 102
+msgid "Ｎショップ"
+msgstr ""
+
+#. ID 103
+msgid "Ｎ西市街１"
+msgstr ""
+
+#. ID 104
+msgid "Ｎ西市街２"
+msgstr ""
+
+#. ID 105
+msgid "ラヴェンナ地下洞1-8"
+msgstr ""
+
+#. ID 106
+msgid "サルベージポート1"
+msgstr ""
+
+#. ID 107
+msgid "サルベージポート2"
+msgstr ""
+
+#. ID 108
+msgid "サルベージポート3"
+msgstr ""
+
+#. ID 109
+msgid "サルベージポート4"
+msgstr ""
+
+#. ID 110
+msgid "研究都市ホワイトウィング"
+msgstr ""
+
+#. ID 111
+msgid "港"
+msgstr ""
+
+#. ID 112
+#. ID 409
+msgid "市街"
+msgstr ""
+
+#. ID 113
+msgid "ラボ入口"
+msgstr ""
+
+#. ID 114
+msgid "分岐路"
+msgstr ""
+
+#. ID 115
+msgid "ディザスティアの丘１"
+msgstr ""
+
+#. ID 116
+msgid "ディザスティアの丘２"
+msgstr ""
+
+#. ID 120
+#. ID 284
+msgid "宿屋3F"
+msgstr ""
+
+#. ID 121
+msgid "EP07EVC"
+msgstr ""
+
+#. ID 122
+msgid "応接室"
+msgstr ""
+
+#. ID 123
+msgid "中間地点"
+msgstr ""
+
+#. ID 124
+msgid "ジークベルトオフィス"
+msgstr ""
+
+#. ID 125
+#. ID 537
+msgid "メインストリート2"
+msgstr ""
+
+#. ID 126
+msgid "商業繁華ダルム／メイン1"
+msgstr ""
+
+#. ID 127
+#. ID 540
+msgid "メインストリート3"
+msgstr ""
+
+#. ID 128
+#. ID 538
+msgid "西側路地"
+msgstr ""
+
+#. ID 129
+#. ID 539
+msgid "東側路地"
+msgstr ""
+
+#. ID 132
+#. ID 243
+#. ID 412
+msgid "宿屋2F通路"
+msgstr ""
+
+#. ID 133
+#. ID 244
+msgid "宿屋2F個室1"
+msgstr ""
+
+#. ID 134
+msgid "ゲオルクとシリア"
+msgstr ""
+
+#. ID 135
+msgid "階段1"
+msgstr ""
+
+#. ID 136
+#. ID 542
+msgid "スクレイパー前広場"
+msgstr ""
+
+#. ID 137
+#. ID 541
+msgid "港湾区画"
+msgstr ""
+
+#. ID 138
+msgid "ガンホリック"
+msgstr ""
+
+#. ID 139
+msgid "EP08EVC"
+msgstr ""
+
+#. ID 140
+#. ID 141
+#. ID 505
+#. ID 647
+#. ID 652
+#. ID 703
+msgid "個室"
+msgstr ""
+
+#. ID 142
+msgid "トリックフロア"
+msgstr ""
+
+#. ID 143
+msgid "洞窟2"
+msgstr ""
+
+#. ID 144
+msgid "清き水鏡のラヴェンナ"
+msgstr ""
+
+#. ID 147
+msgid "ラヴェンナ湖1"
+msgstr ""
+
+#. ID 148
+msgid "ラヴェンナ湖2"
+msgstr ""
+
+#. ID 149
+msgid "地下洞入口"
+msgstr ""
+
+#. ID 150
+msgid "ラヴェンナ地下洞1-1"
+msgstr ""
+
+#. ID 151
+msgid "ラヴェンナ地下洞1-2"
+msgstr ""
+
+#. ID 152
+msgid "ラヴェンナ地下洞1-3"
+msgstr ""
+
+#. ID 153
+msgid "ラヴェンナ地下洞1-4"
+msgstr ""
+
+#. ID 154
+msgid "ラヴェンナ地下洞1-5"
+msgstr ""
+
+#. ID 155
+msgid "ラヴェンナ地下洞1-6"
+msgstr ""
+
+#. ID 156
+msgid "ラヴェンナ地下洞1-7"
+msgstr ""
+
+#. ID 157
+msgid "ラヴェンナ地下洞2-2"
+msgstr ""
+
+#. ID 158
+msgid "ラヴェンナ地下洞2-3"
+msgstr ""
+
+#. ID 159
+msgid "観測室"
+msgstr ""
+
+#. ID 160
+msgid "ラヴェンナ地下洞2-4"
+msgstr ""
+
+#. ID 161
+msgid "ユヴェス研究所跡1a"
+msgstr ""
+
+#. ID 162
+msgid "飛行船発着場1"
+msgstr ""
+
+#. ID 163
+msgid "ラヴェンナ地下洞2-5"
+msgstr ""
+
+#. ID 164
+msgid "ラヴェンナ地下洞2-6-1"
+msgstr ""
+
+#. ID 165
+msgid "ラヴェンナ地下洞2-6-2"
+msgstr ""
+
+#. ID 166
+msgid "ラヴェンナ地下洞2-6-3"
+msgstr ""
+
+#. ID 167
+msgid "ラヴェンナ地下洞2-7"
+msgstr ""
+
+#. ID 168
+msgid "ラヴェンナ地下洞2-8"
+msgstr ""
+
+#. ID 169
+msgid "ラヴェンナ地下洞2-9"
+msgstr ""
+
+#. ID 170
+msgid "ラヴェンナ地下洞2-10"
+msgstr ""
+
+#. ID 171
+msgid "ラヴェンナ地下洞東口"
+msgstr ""
+
+#. ID 172
+msgid "星の里メンドゥーサ"
+msgstr ""
+
+#. ID 175
+msgid "村長の家"
+msgstr ""
+
+#. ID 176
+msgid "コックピット空中戦1"
+msgstr ""
+
+#. ID 177
+msgid "EP10/17EVC"
+msgstr ""
+
+#. ID 178
+msgid "星の大樹ラウレンティア"
+msgstr ""
+
+#. ID 179
+msgid "ラウレンティア1-1"
+msgstr ""
+
+#. ID 180
+msgid "ラウレンティア1-2"
+msgstr ""
+
+#. ID 181
+msgid "ラウレンティア1-3"
+msgstr ""
+
+#. ID 182
+msgid "ソウルストリーム昇降"
+msgstr ""
+
+#. ID 183
+msgid "ラウレンティア2-1"
+msgstr ""
+
+#. ID 184
+msgid "ラウレンティア2-2"
+msgstr ""
+
+#. ID 185
+msgid "ラウレンティア2-3"
+msgstr ""
+
+#. ID 186
+msgid "ラウレンティア2-4"
+msgstr ""
+
+#. ID 187
+msgid "ラウレンティア2-5"
+msgstr ""
+
+#. ID 188
+msgid "ラウレンティア3-1"
+msgstr ""
+
+#. ID 189
+msgid "ラウレンティア3-2"
+msgstr ""
+
+#. ID 190
+msgid "ラウレンティア3-3"
+msgstr ""
+
+#. ID 191
+msgid "ラウレンティア3-4"
+msgstr ""
+
+#. ID 192
+msgid "ラウレンティア4-1"
+msgstr ""
+
+#. ID 193
+msgid "ラウレンティア4-2"
+msgstr ""
+
+#. ID 194
+msgid "ラウレンティア4-3"
+msgstr ""
+
+#. ID 195
+msgid "ラウレンティア4-4"
+msgstr ""
+
+#. ID 196
+msgid "ラウレンティア4-5"
+msgstr ""
+
+#. ID 197
+msgid "ラウレンティア5-1"
+msgstr ""
+
+#. ID 198
+msgid "ラウレンティア6-5"
+msgstr ""
+
+#. ID 199
+msgid "ラウレンティア5-2"
+msgstr ""
+
+#. ID 200
+msgid "ラウレンティア4-6"
+msgstr ""
+
+#. ID 201
+msgid "ラウレンティア4-7"
+msgstr ""
+
+#. ID 202
+msgid "ラウレンティア5-3"
+msgstr ""
+
+#. ID 203
+msgid "ラウレンティア5-4"
+msgstr ""
+
+#. ID 204
+msgid "ラウレンティア5-5"
+msgstr ""
+
+#. ID 205
+msgid "ラウレンティア6-1"
+msgstr ""
+
+#. ID 206
+msgid "ラウレンティア6-2"
+msgstr ""
+
+#. ID 207
+msgid "ラウレンティア6-3"
+msgstr ""
+
+#. ID 208
+msgid "ラウレンティア6-4"
+msgstr ""
+
+#. ID 209
+msgid "ラウレンティア7-1"
+msgstr ""
+
+#. ID 210
+msgid "ラウレンティア7-2"
+msgstr ""
+
+#. ID 211
+msgid "ラウレンティア7-3"
+msgstr ""
+
+#. ID 212
+msgid "ラウレンティア7-4"
+msgstr ""
+
+#. ID 213
+msgid "ラウレンティア7-5"
+msgstr ""
+
+#. ID 214
+msgid "ラウレンティア8-1"
+msgstr ""
+
+#. ID 215
+msgid "ラウレンティア9-1"
+msgstr ""
+
+#. ID 216
+msgid "ユヴェス研究所跡2"
+msgstr ""
+
+#. ID 217
+msgid "第2カット"
+msgstr ""
+
+#. ID 218
+msgid "データセーブ"
+msgstr ""
+
+#. ID 219
+msgid "蒼き夢見の小道"
+msgstr ""
+
+#. ID 220
+msgid "キャンピングポイント朝"
+msgstr ""
+
+#. ID 221
+msgid "辺境の里イカルイ"
+msgstr ""
+
+#. ID 222
+msgid "川辺"
+msgstr ""
+
+#. ID 223
+msgid "滝"
+msgstr ""
+
+#. ID 226
+msgid "歓楽都市エンヴィ"
+msgstr ""
+
+#. ID 227
+msgid "エンヴィ中央"
+msgstr ""
+
+#. ID 228
+msgid "エンヴィ東"
+msgstr ""
+
+#. ID 229
+msgid "エンヴィ西"
+msgstr ""
+
+#. ID 230
+msgid "エンヴィ北西"
+msgstr ""
+
+#. ID 231
+msgid "ケイオス入口"
+msgstr ""
+
+#. ID 232
+msgid "エンヴィ･ケイオス1"
+msgstr ""
+
+#. ID 233
+msgid "エンヴィ･ケイオス2"
+msgstr ""
+
+#. ID 234
+msgid "エンヴィ･ケイオス3"
+msgstr ""
+
+#. ID 235
+msgid "エンヴィ･ケイオス4"
+msgstr ""
+
+#. ID 236
+msgid "エンヴィ･ケイオス5"
+msgstr ""
+
+#. ID 237
+msgid "エンヴィ･ケイオス6"
+msgstr ""
+
+#. ID 238
+msgid "エンヴィ･ケイオス7"
+msgstr ""
+
+#. ID 239
+msgid "エンヴィ･ケイオス8"
+msgstr ""
+
+#. ID 240
+msgid "エンヴィ･ケイオス9"
+msgstr ""
+
+#. ID 241
+msgid "エンヴィ･ケイオス10"
+msgstr ""
+
+#. ID 245
+msgid "階段2"
+msgstr ""
+
+#. ID 246
+msgid "スカイスクレイパー36F"
+msgstr ""
+
+#. ID 248
+msgid "イベントカット"
+msgstr ""
+
+#. ID 249
+msgid "フォクシーの部屋"
+msgstr ""
+
+#. ID 250
+msgid "EP14EVC-1"
+msgstr ""
+
+#. ID 251
+msgid "EP14EVC-2"
+msgstr ""
+
+#. ID 252
+msgid "腐街入口"
+msgstr ""
+
+#. ID 253
+msgid "マルゴ狂夢堂1"
+msgstr ""
+
+#. ID 254
+msgid "マルゴ狂夢堂2"
+msgstr ""
+
+#. ID 255
+msgid "腐街1"
+msgstr ""
+
+#. ID 256
+msgid "腐街2"
+msgstr ""
+
+#. ID 257
+msgid "モーガンのラボ"
+msgstr ""
+
+#. ID 258
+msgid "EP14EVC"
+msgstr ""
+
+#. ID 259
+msgid "ジークベルト自宅"
+msgstr ""
+
+#. ID 260
+msgid "レヴェルストーク／東1"
+msgstr ""
+
+#. ID 261
+msgid "東側斜面2"
+msgstr ""
+
+#. ID 262
+msgid "東側斜面3"
+msgstr ""
+
+#. ID 263
+msgid "東側斜面4"
+msgstr ""
+
+#. ID 264
+msgid "東側斜面5"
+msgstr ""
+
+#. ID 265
+msgid "東側斜面6"
+msgstr ""
+
+#. ID 266
+msgid "東側斜面7"
+msgstr ""
+
+#. ID 267
+msgid "西側斜面1"
+msgstr ""
+
+#. ID 268
+msgid "西側斜面2"
+msgstr ""
+
+#. ID 269
+msgid "西側斜面3"
+msgstr ""
+
+#. ID 270
+msgid "西側斜面4"
+msgstr ""
+
+#. ID 271
+msgid "西側斜面5"
+msgstr ""
+
+#. ID 272
+msgid "ショップ屋外"
+msgstr ""
+
+#. ID 273
+msgid "ショップ屋内"
+msgstr ""
+
+#. ID 274
+msgid "キャンピングポイント夜"
+msgstr ""
+
+#. ID 275
+msgid "EVC1"
+msgstr ""
+
+#. ID 276
+msgid "EVC2"
+msgstr ""
+
+#. ID 277
+msgid "有志都市ルートフォード"
+msgstr ""
+
+#. ID 278
+msgid "ルートフォード市街1"
+msgstr ""
+
+#. ID 279
+msgid "ルートフォード市街2"
+msgstr ""
+
+#. ID 280
+msgid "エンデとの接触"
+msgstr ""
+
+#. ID 285
+msgid "Sブロック中央"
+msgstr ""
+
+#. ID 286
+msgid "Sブロック東通路"
+msgstr ""
+
+#. ID 287
+msgid "スカイスクレイパー37F"
+msgstr ""
+
+#. ID 288
+msgid "Sブロック西通路"
+msgstr ""
+
+#. ID 289
+msgid "個室-東上2(フ)"
+msgstr ""
+
+#. ID 290
+msgid "スカイスクレイパー38F"
+msgstr ""
+
+#. ID 291
+msgid "スカイスクレイパー39F"
+msgstr ""
+
+#. ID 292
+msgid "スカイスクレイパー40F"
+msgstr ""
+
+#. ID 293
+msgid "個室-東下3(ミ)"
+msgstr ""
+
+#. ID 294
+msgid "ブロック一般"
+msgstr ""
+
+#. ID 295
+msgid "Ｂ接合一般右"
+msgstr ""
+
+#. ID 296
+msgid "個室-西上3(レ)"
+msgstr ""
+
+#. ID 297
+msgid "通路端部一般1"
+msgstr ""
+
+#. ID 298
+msgid "通路一般1"
+msgstr ""
+
+#. ID 299
+msgid "キャンパスの脇道"
+msgstr ""
+
+#. ID 300
+msgid "Nブロック中央"
+msgstr ""
+
+#. ID 301
+msgid "Nブロック東通路"
+msgstr ""
+
+#. ID 302
+msgid "Nブロック西通路"
+msgstr ""
+
+#. ID 303
+msgid "ミーティングルーム"
+msgstr ""
+
+#. ID 304
+msgid "中庭"
+msgstr ""
+
+#. ID 305
+msgid "オーグ本部／エントランス"
+msgstr ""
+
+#. ID 306
+msgid "EP16/20EVC"
+msgstr ""
+
+#. ID 307
+msgid "不定プレイス／エンデ領域"
+msgstr ""
+
+#. ID 308
+#. ID 492
+#. ID 635
+msgid "テラス"
+msgstr ""
+
+#. ID 309
+msgid "エル領域"
+msgstr ""
+
+#. ID 310
+msgid "船内1"
+msgstr ""
+
+#. ID 311
+msgid "ランゲルの研究室"
+msgstr ""
+
+#. ID 312
+msgid "荒野"
+msgstr ""
+
+#. ID 313
+msgid "空中戦1"
+msgstr ""
+
+#. ID 314
+msgid "通路中間一般"
+msgstr ""
+
+#. ID 315
+msgid "下層通用路1"
+msgstr ""
+
+#. ID 316
+msgid "下層通用路2"
+msgstr ""
+
+#. ID 317
+msgid "ルシファー廃棄施設1"
+msgstr ""
+
+#. ID 318
+msgid "C.M.G.C.施設／入口"
+msgstr ""
+
+#. ID 319
+msgid "異国的小京テンリン"
+msgstr ""
+
+#. ID 320
+msgid "ヤンシーの部屋"
+msgstr ""
+
+#. ID 322
+msgid "墓地"
+msgstr ""
+
+#. ID 323
+msgid "EP19EVC"
+msgstr ""
+
+#. ID 324
+msgid "三条峰"
+msgstr ""
+
+#. ID 325
+msgid "三条峰2"
+msgstr ""
+
+#. ID 326
+msgid "三条峰3"
+msgstr ""
+
+#. ID 327
+msgid "三条峰4"
+msgstr ""
+
+#. ID 328
+msgid "三条峰5"
+msgstr ""
+
+#. ID 329
+msgid "三条峰6"
+msgstr ""
+
+#. ID 330
+msgid "三条峰7"
+msgstr ""
+
+#. ID 331
+msgid "三条峰8"
+msgstr ""
+
+#. ID 332
+msgid "三条峰9"
+msgstr ""
+
+#. ID 333
+msgid "三条峰10"
+msgstr ""
+
+#. ID 334
+msgid "三条峰11"
+msgstr ""
+
+#. ID 335
+msgid "三条峰12"
+msgstr ""
+
+#. ID 336
+msgid "洞窟1"
+msgstr ""
+
+#. ID 337
+msgid "EP19/20EVC-1/2"
+msgstr ""
+
+#. ID 338
+msgid "EP20/24EVC"
+msgstr ""
+
+#. ID 339
+msgid "通路一般2"
+msgstr ""
+
+#. ID 340
+msgid "生死混在のダールディン"
+msgstr ""
+
+#. ID 341
+msgid "マリバンドホープ1"
+msgstr ""
+
+#. ID 342
+msgid "マリバンドホープ2"
+msgstr ""
+
+#. ID 343
+msgid "イーノック邸入口"
+msgstr ""
+
+#. ID 344
+msgid "絶壁管理局"
+msgstr ""
+
+#. ID 345
+msgid "ルシファー廃棄施設2"
+msgstr ""
+
+#. ID 346
+#. ID 405
+msgid "入口ホール"
+msgstr ""
+
+#. ID 347
+msgid "イーノック自室"
+msgstr ""
+
+#. ID 348
+msgid "イーノック自室前"
+msgstr ""
+
+#. ID 349
+msgid "客間"
+msgstr ""
+
+#. ID 350
+msgid "客間前"
+msgstr ""
+
+#. ID 351
+msgid "ルシファー廃棄施設3"
+msgstr ""
+
+#. ID 352
+msgid "フェジテ城／図書室"
+msgstr ""
+
+#. ID 353
+msgid "会議室"
+msgstr ""
+
+#. ID 354
+msgid "カオス救世会本部"
+msgstr ""
+
+#. ID 355
+msgid "建物内"
+msgstr ""
+
+#. ID 356
+msgid "洞窟入口"
+msgstr ""
+
+#. ID 357
+msgid "EP22/26/27EVC"
+msgstr ""
+
+#. ID 358
+#. ID 366
+msgid "EP22EVC"
+msgstr ""
+
+#. ID 359
+msgid "EP22/27EVC"
+msgstr ""
+
+#. ID 360
+msgid "通路端部一般2"
+msgstr ""
+
+#. ID 361
+msgid "EP22/31/40EVC"
+msgstr ""
+
+#. ID 362
+msgid "Ｂ接合一般左"
+msgstr ""
+
+#. ID 363
+msgid "フェジテガーデン／屋外1"
+msgstr ""
+
+#. ID 364
+msgid "南紅樹の森1"
+msgstr ""
+
+#. ID 365
+msgid "南紅樹の森2"
+msgstr ""
+
+#. ID 367
+msgid "南紅樹の森3"
+msgstr ""
+
+#. ID 368
+msgid "南紅樹の森4"
+msgstr ""
+
+#. ID 369
+msgid "南紅樹の森5"
+msgstr ""
+
+#. ID 370
+msgid "南紅樹の森6"
+msgstr ""
+
+#. ID 371
+msgid "南紅樹の森7"
+msgstr ""
+
+#. ID 372
+msgid "教会焼却後市街"
+msgstr ""
+
+#. ID 373
+msgid "南紅樹の森8"
+msgstr ""
+
+#. ID 374
+msgid "サウスブリッジ"
+msgstr ""
+
+#. ID 375
+msgid "ジェラール過去1"
+msgstr ""
+
+#. ID 376
+msgid "サウスブリッジメイン"
+msgstr ""
+
+#. ID 377
+msgid "EP23EVC"
+msgstr ""
+
+#. ID 378
+msgid "南紅樹の森9"
+msgstr ""
+
+#. ID 379
+msgid "天空穿孔ポート"
+msgstr ""
+
+#. ID 380
+msgid "スカイスクレイパー"
+msgstr ""
+
+#. ID 381
+msgid "スカイスクレイパー41F"
+msgstr ""
+
+#. ID 382
+msgid "スカイスクレイパー42F"
+msgstr ""
+
+#. ID 383
+msgid "スカイスクレイパー43F"
+msgstr ""
+
+#. ID 384
+msgid "スカイスクレイパー44F"
+msgstr ""
+
+#. ID 385
+msgid "南紅樹の森10"
+msgstr ""
+
+#. ID 386
+msgid "南紅樹の森11"
+msgstr ""
+
+#. ID 387
+msgid "スカイスクレイパー45F"
+msgstr ""
+
+#. ID 388
+msgid "ゲオルクの部屋"
+msgstr ""
+
+#. ID 389
+msgid "屋上"
+msgstr ""
+
+#. ID 390
+msgid "EP24EVC"
+msgstr ""
+
+#. ID 391
+msgid "EP24EVC-2"
+msgstr ""
+
+#. ID 392
+msgid "南紅樹の森12"
+msgstr ""
+
+#. ID 393
+msgid "橋"
+msgstr ""
+
+#. ID 394
+msgid "倉庫"
+msgstr ""
+
+#. ID 395
+msgid "ルシファー廃棄施設4"
+msgstr ""
+
+#. ID 396
+msgid "船内通路1-1"
+msgstr ""
+
+#. ID 397
+msgid "船内通路2-1"
+msgstr ""
+
+#. ID 398
+msgid "船内通路2-2"
+msgstr ""
+
+#. ID 399
+msgid "船内通路2-3"
+msgstr ""
+
+#. ID 400
+msgid "船内通路1-2"
+msgstr ""
+
+#. ID 401
+msgid "船内通路3-1"
+msgstr ""
+
+#. ID 402
+msgid "湖面の屋敷"
+msgstr ""
+
+#. ID 403
+msgid "船室2"
+msgstr ""
+
+#. ID 404
+msgid "船室3"
+msgstr ""
+
+#. ID 406
+msgid "船室"
+msgstr ""
+
+#. ID 407
+msgid "天使王都ミネルヴァ"
+msgstr ""
+
+#. ID 408
+msgid "城門前広場"
+msgstr ""
+
+#. ID 413
+msgid "食堂"
+msgstr ""
+
+#. ID 414
+msgid "寝室"
+msgstr ""
+
+#. ID 415
+msgid "宿屋3F通路"
+msgstr ""
+
+#. ID 416
+msgid "宿屋3F個室1"
+msgstr ""
+
+#. ID 417
+msgid "南紅樹の森13"
+msgstr ""
+
+#. ID 418
+msgid "マリバンドホープB1"
+msgstr ""
+
+#. ID 419
+msgid "マリバンドホープB2"
+msgstr ""
+
+#. ID 420
+msgid "ルシファー廃棄施設5"
+msgstr ""
+
+#. ID 421
+msgid "秘密地下通路1"
+msgstr ""
+
+#. ID 422
+msgid "*421 コンフィグ"
+msgstr ""
+
+#. ID 423
+msgid "*422 ﾃﾞｨｸｼｮﾅﾘALT"
+msgstr ""
+
+#. ID 424
+msgid "秘密地下通路3"
+msgstr ""
+
+#. ID 425
+msgid "ロビン秘密工場"
+msgstr ""
+
+#. ID 426
+msgid "中央ブロック1-1"
+msgstr ""
+
+#. ID 427
+msgid "中央ブロック1-2"
+msgstr ""
+
+#. ID 428
+msgid "東ブロック2-1"
+msgstr ""
+
+#. ID 429
+msgid "東ブロック3-1"
+msgstr ""
+
+#. ID 430
+msgid "西ブロック2-1"
+msgstr ""
+
+#. ID 431
+msgid "廃棄爆薬置場1"
+msgstr ""
+
+#. ID 432
+#. ID 435
+#. ID 439
+#. ID 446
+#. ID 448
+#. ID 468
+#. ID 582
+#. ID 583
+#. ID 584
+msgid "個室1"
+msgstr ""
+
+#. ID 433
+msgid "廃棄爆薬置場2"
+msgstr ""
+
+#. ID 434
+msgid "東ブロック4-1"
+msgstr ""
+
+#. ID 436
+#. ID 440
+#. ID 447
+msgid "個室2"
+msgstr ""
+
+#. ID 437
+msgid "個室3"
+msgstr ""
+
+#. ID 438
+msgid "西ブロック3-1"
+msgstr ""
+
+#. ID 441
+msgid "西ブロック4-1"
+msgstr ""
+
+#. ID 442
+msgid "西ブロック5-1"
+msgstr ""
+
+#. ID 443
+msgid "破損箇所A"
+msgstr ""
+
+#. ID 444
+msgid "破損箇所B"
+msgstr ""
+
+#. ID 445
+msgid "崖"
+msgstr ""
+
+#. ID 449
+msgid "発着場前1"
+msgstr ""
+
+#. ID 450
+msgid "発着場前2"
+msgstr ""
+
+#. ID 451
+msgid "黒獅子8号機甲板"
+msgstr ""
+
+#. ID 452
+msgid "地下フロア1-1"
+msgstr ""
+
+#. ID 453
+msgid "地下フロア2-1"
+msgstr ""
+
+#. ID 454
+msgid "秘密地下通路2"
+msgstr ""
+
+#. ID 455
+msgid "地下フロア3-1"
+msgstr ""
+
+#. ID 456
+msgid "地下牢1"
+msgstr ""
+
+#. ID 457
+msgid "地下牢2"
+msgstr ""
+
+#. ID 458
+msgid "*457 ﾌﾟﾛﾌｧｲﾙ"
+msgstr ""
+
+#. ID 459
+msgid "EP26/31EVC"
+msgstr ""
+
+#. ID 460
+msgid "ルシファー廃棄施設6"
+msgstr ""
+
+#. ID 461
+msgid "南紅樹の森14"
+msgstr ""
+
+#. ID 462
+msgid "ルシファー廃棄施設7"
+msgstr ""
+
+#. ID 463
+msgid "EP27EVC"
+msgstr ""
+
+#. ID 464
+msgid "岩場"
+msgstr ""
+
+#. ID 465
+msgid "南紅樹の森15"
+msgstr ""
+
+#. ID 466
+msgid "ヤンシーサイド"
+msgstr ""
+
+#. ID 467
+#. ID 506
+msgid "通路1"
+msgstr ""
+
+#. ID 469
+msgid "通路2"
+msgstr ""
+
+#. ID 470
+msgid "通路3"
+msgstr ""
+
+#. ID 471
+msgid "通路4"
+msgstr ""
+
+#. ID 472
+msgid "通路5"
+msgstr ""
+
+#. ID 473
+msgid "発着場前"
+msgstr ""
+
+#. ID 474
+msgid "黒獅子10号機"
+msgstr ""
+
+#. ID 475
+msgid "船内2"
+msgstr ""
+
+#. ID 476
+msgid "甲板"
+msgstr ""
+
+#. ID 477
+msgid "オーウェン部隊待機地点"
+msgstr ""
+
+#. ID 478
+msgid "教室"
+msgstr ""
+
+#. ID 479
+msgid "街外れ2"
+msgstr ""
+
+#. ID 480
+msgid "EP28EVC"
+msgstr ""
+
+#. ID 481
+msgid "EP28EVC-2"
+msgstr ""
+
+#. ID 482
+msgid "EP28/31荒野"
+msgstr ""
+
+#. ID 483
+msgid "街外れ3"
+msgstr ""
+
+#. ID 484
+msgid "フェジテガーデン／南ブロ"
+msgstr ""
+
+#. ID 486
+msgid "南紅樹の森16"
+msgstr ""
+
+#. ID 487
+msgid "南紅樹の森17"
+msgstr ""
+
+#. ID 488
+msgid "ヤンシーの記憶"
+msgstr ""
+
+#. ID 489
+msgid "主人の部屋前"
+msgstr ""
+
+#. ID 490
+msgid "ドリスの家"
+msgstr ""
+
+#. ID 491
+msgid "オーウェン待機地点"
+msgstr ""
+
+#. ID 493
+msgid "校舎脇"
+msgstr ""
+
+#. ID 494
+msgid "アカデミー関連／学長室"
+msgstr ""
+
+#. ID 495
+msgid "泉の傍"
+msgstr ""
+
+#. ID 496
+#. ID 613
+#. ID 628
+msgid "EP34EVC-2"
+msgstr ""
+
+#. ID 497
+msgid "デイジー側"
+msgstr ""
+
+#. ID 498
+msgid "選択失敗"
+msgstr ""
+
+#. ID 499
+msgid "BW発進"
+msgstr ""
+
+#. ID 500
+msgid "フェジテガーデン／屋外2"
+msgstr ""
+
+#. ID 501
+msgid "フェジテガーデン／屋外3"
+msgstr ""
+
+#. ID 502
+msgid "漆黒のラージュ／C-BECS"
+msgstr ""
+
+#. ID 503
+msgid "ジェラール過去2"
+msgstr ""
+
+#. ID 504
+msgid "ゲート"
+msgstr ""
+
+#. ID 507
+msgid "通路２"
+msgstr ""
+
+#. ID 508
+msgid "ホール"
+msgstr ""
+
+#. ID 509
+msgid "小道"
+msgstr ""
+
+#. ID 510
+msgid "雑木林"
+msgstr ""
+
+#. ID 511
+msgid "*511 ｽﾀｰﾄ設定"
+msgstr ""
+
+#. ID 512
+msgid "*512 星命の結晶1"
+msgstr ""
+
+#. ID 514
+msgid "*515 地下牢2"
+msgstr ""
+
+#. ID 515
+msgid "*516 ゲームクリア"
+msgstr ""
+
+#. ID 516
+msgid "*517 星命の結晶2"
+msgstr ""
+
+#. ID 517
+msgid "*518*EXTボーナス選択"
+msgstr ""
+
+#. ID 518
+msgid "*519 戦いの記憶"
+msgstr ""
+
+#. ID 519
+msgid "*520 BM設定"
+msgstr ""
+
+#. ID 520
+msgid "*521 アイシャ領域"
+msgstr ""
+
+#. ID 521
+msgid "外壁西"
+msgstr ""
+
+#. ID 522
+msgid "インナーリング外向"
+msgstr ""
+
+#. ID 523
+msgid "*141*極悪雪ダルマ"
+msgstr ""
+
+#. ID 524
+msgid "*525*妖精の里"
+msgstr ""
+
+#. ID 525
+msgid "外壁東"
+msgstr ""
+
+#. ID 526
+msgid "フェスクセクション"
+msgstr ""
+
+#. ID 527
+msgid "フェスク2F"
+msgstr ""
+
+#. ID 528
+msgid "フェスク3F"
+msgstr ""
+
+#. ID 529
+msgid "フェスク4F"
+msgstr ""
+
+#. ID 530
+msgid "*516 サプリALT"
+msgstr ""
+
+#. ID 531
+#. ID 543
+msgid "EP29EVC"
+msgstr ""
+
+#. ID 532
+msgid "*533 ｱｲｼｬの丘"
+msgstr ""
+
+#. ID 533
+msgid "EP29/37EVC"
+msgstr ""
+
+#. ID 534
+msgid "玉座"
+msgstr ""
+
+#. ID 535
+msgid "ロアノーク／ブリッジ"
+msgstr ""
+
+#. ID 536
+msgid "ダルムEP30／メイン1"
+msgstr ""
+
+#. ID 544
+msgid "スクロール"
+msgstr ""
+
+#. ID 545
+msgid "ドーム外"
+msgstr ""
+
+#. ID 546
+#. ID 548
+msgid "EP30EVC"
+msgstr ""
+
+#. ID 547
+msgid "EP30/31EVC"
+msgstr ""
+
+#. ID 549
+msgid "EP31EVC"
+msgstr ""
+
+#. ID 550
+msgid "南棟1F-1"
+msgstr ""
+
+#. ID 551
+msgid "C.M.G.C.本部／エント"
+msgstr ""
+
+#. ID 552
+msgid "南棟1F-2"
+msgstr ""
+
+#. ID 553
+msgid "南棟1F-3"
+msgstr ""
+
+#. ID 554
+msgid "南棟1F-4"
+msgstr ""
+
+#. ID 555
+msgid "屋外連絡通路"
+msgstr ""
+
+#. ID 556
+msgid "北棟1F-1"
+msgstr ""
+
+#. ID 557
+msgid "北棟1F-2"
+msgstr ""
+
+#. ID 558
+msgid "北棟1F-3"
+msgstr ""
+
+#. ID 559
+msgid "北棟1F-4"
+msgstr ""
+
+#. ID 560
+msgid "北棟2F-1"
+msgstr ""
+
+#. ID 561
+msgid "北棟2F-2"
+msgstr ""
+
+#. ID 562
+msgid "北棟2F-3"
+msgstr ""
+
+#. ID 563
+msgid "北棟2F-4"
+msgstr ""
+
+#. ID 564
+msgid "南棟2F-1"
+msgstr ""
+
+#. ID 565
+msgid "南棟2F-2"
+msgstr ""
+
+#. ID 566
+msgid "南棟2F-3"
+msgstr ""
+
+#. ID 567
+msgid "南棟2F-4"
+msgstr ""
+
+#. ID 568
+msgid "南棟3F-1"
+msgstr ""
+
+#. ID 569
+msgid "南棟3F-2"
+msgstr ""
+
+#. ID 570
+msgid "南棟3F-3"
+msgstr ""
+
+#. ID 571
+msgid "南棟3F-4"
+msgstr ""
+
+#. ID 572
+msgid "北棟3F-1"
+msgstr ""
+
+#. ID 573
+msgid "北棟3F-2"
+msgstr ""
+
+#. ID 574
+msgid "北棟3F-3"
+msgstr ""
+
+#. ID 575
+msgid "北棟3F-4"
+msgstr ""
+
+#. ID 576
+msgid "エネルギープラント1"
+msgstr ""
+
+#. ID 577
+msgid "エネルギープラント2"
+msgstr ""
+
+#. ID 578
+msgid "エネルギープラント3"
+msgstr ""
+
+#. ID 579
+msgid "エネルギープラント4"
+msgstr ""
+
+#. ID 580
+msgid "エネルギープラント5"
+msgstr ""
+
+#. ID 581
+msgid "エネルギープラント6"
+msgstr ""
+
+#. ID 585
+msgid "エネルギープラント7"
+msgstr ""
+
+#. ID 586
+msgid "EP31EVC-1"
+msgstr ""
+
+#. ID 587
+msgid "個室-西下3(ヤ)"
+msgstr ""
+
+#. ID 588
+msgid "EP31/37/42EVC"
+msgstr ""
+
+#. ID 589
+msgid "ベネディクタ"
+msgstr ""
+
+#. ID 590
+msgid "山岳の辺境ビエラ"
+msgstr ""
+
+#. ID 591
+msgid "街1"
+msgstr ""
+
+#. ID 592
+msgid "街2"
+msgstr ""
+
+#. ID 593
+msgid "街3"
+msgstr ""
+
+#. ID 594
+msgid "街4"
+msgstr ""
+
+#. ID 595
+msgid "街5"
+msgstr ""
+
+#. ID 596
+msgid "街6"
+msgstr ""
+
+#. ID 597
+msgid "広場"
+msgstr ""
+
+#. ID 598
+msgid "崩落せし信念1"
+msgstr ""
+
+#. ID 599
+msgid "崩落せし信念2"
+msgstr ""
+
+#. ID 600
+msgid "崩落せし信念3"
+msgstr ""
+
+#. ID 601
+msgid "崩落せし信念4"
+msgstr ""
+
+#. ID 602
+msgid "崩落せし信念5"
+msgstr ""
+
+#. ID 603
+msgid "神騙りの罪科1"
+msgstr ""
+
+#. ID 604
+msgid "運命への序章1"
+msgstr ""
+
+#. ID 605
+msgid "神騙りの罪科2"
+msgstr ""
+
+#. ID 606
+msgid "神騙りの罪科3"
+msgstr ""
+
+#. ID 607
+msgid "運命への序章2"
+msgstr ""
+
+#. ID 608
+msgid "心"
+msgstr ""
+
+#. ID 609
+msgid "EP32/44EVC"
+msgstr ""
+
+#. ID 610
+msgid "真実"
+msgstr ""
+
+#. ID 611
+msgid "EP34EVC-1"
+msgstr ""
+
+#. ID 612
+msgid "コントロールルーム"
+msgstr ""
+
+#. ID 614
+msgid "EP34-1/44/45EVC"
+msgstr ""
+
+#. ID 615
+msgid "EP32/34EVC-3"
+msgstr ""
+
+#. ID 616
+msgid "不時着地点"
+msgstr ""
+
+#. ID 617
+msgid "上層階"
+msgstr ""
+
+#. ID 618
+msgid "レイヤーⅡ"
+msgstr ""
+
+#. ID 619
+msgid "レイヤーⅢ"
+msgstr ""
+
+#. ID 620
+msgid "レイヤーⅣ"
+msgstr ""
+
+#. ID 621
+msgid "レイヤーⅤ"
+msgstr ""
+
+#. ID 622
+msgid "ラージュの鉄槌"
+msgstr ""
+
+#. ID 623
+msgid "クオリファイド"
+msgstr ""
+
+#. ID 624
+msgid "発着場"
+msgstr ""
+
+#. ID 625
+msgid "下層階"
+msgstr ""
+
+#. ID 626
+msgid "EP34EVC-4"
+msgstr ""
+
+#. ID 627
+msgid "EP34EVC"
+msgstr ""
+
+#. ID 629
+msgid "ＢＷ／コックピット"
+msgstr ""
+
+#. ID 630
+msgid "EP34/35/42/44EVC"
+msgstr ""
+
+#. ID 631
+msgid "EP34EVC-5"
+msgstr ""
+
+#. ID 632
+#. ID 672
+msgid "EP35EVC"
+msgstr ""
+
+#. ID 633
+msgid "レイヤーⅠ"
+msgstr ""
+
+#. ID 634
+msgid "テラス通路"
+msgstr ""
+
+#. ID 636
+msgid "レイヤーⅡ-2"
+msgstr ""
+
+#. ID 637
+msgid "レイヤーⅡ-3"
+msgstr ""
+
+#. ID 638
+msgid "レイヤーⅡ-4"
+msgstr ""
+
+#. ID 639
+msgid "レイヤーⅢ-2"
+msgstr ""
+
+#. ID 640
+msgid "レイヤーⅢ-3"
+msgstr ""
+
+#. ID 641
+msgid "レイヤーⅢ-4"
+msgstr ""
+
+#. ID 642
+msgid "レイヤーⅢ-5"
+msgstr ""
+
+#. ID 643
+msgid "レイヤーⅢ-6"
+msgstr ""
+
+#. ID 644
+msgid "レイヤーⅢ-7"
+msgstr ""
+
+#. ID 645
+msgid "レイヤーⅢ-8"
+msgstr ""
+
+#. ID 646
+msgid "レイヤーⅢ-9"
+msgstr ""
+
+#. ID 648
+msgid "レイヤーⅣ-2"
+msgstr ""
+
+#. ID 649
+msgid "レイヤーⅣ-3"
+msgstr ""
+
+#. ID 650
+msgid "レイヤーⅣ-4"
+msgstr ""
+
+#. ID 651
+msgid "レイヤーⅣ-5"
+msgstr ""
+
+#. ID 653
+msgid "レイヤーⅤ-2"
+msgstr ""
+
+#. ID 654
+msgid "レイヤーⅤ-3"
+msgstr ""
+
+#. ID 655
+msgid "レイヤーⅤ-4"
+msgstr ""
+
+#. ID 656
+msgid "レイヤーⅤ-5"
+msgstr ""
+
+#. ID 657
+msgid "ラージュの鉄槌-2"
+msgstr ""
+
+#. ID 658
+msgid "ラージュの鉄槌-3"
+msgstr ""
+
+#. ID 659
+msgid "ラージュの鉄槌-4"
+msgstr ""
+
+#. ID 660
+msgid "ラージュの鉄槌-5"
+msgstr ""
+
+#. ID 661
+msgid "ラージュの鉄槌-6"
+msgstr ""
+
+#. ID 662
+msgid "ラージュの鉄槌-7"
+msgstr ""
+
+#. ID 663
+msgid "ラージュの鉄槌-8"
+msgstr ""
+
+#. ID 664
+msgid "ラージュの鉄槌-9"
+msgstr ""
+
+#. ID 665
+msgid "クオリファイド2"
+msgstr ""
+
+#. ID 666
+msgid "クオリファイド3"
+msgstr ""
+
+#. ID 667
+msgid "クオリファイド4"
+msgstr ""
+
+#. ID 668
+msgid "クオリファイド5"
+msgstr ""
+
+#. ID 669
+msgid "クオリファイド6"
+msgstr ""
+
+#. ID 670
+msgid "クオリファイド7"
+msgstr ""
+
+#. ID 671
+msgid "クオリファイド8"
+msgstr ""
+
+#. ID 673
+msgid "EP36EVC"
+msgstr ""
+
+#. ID 674
+msgid "EP37/38EVC"
+msgstr ""
+
+#. ID 675
+msgid "オリジナルヴェーネ"
+msgstr ""
+
+#. ID 676
+msgid "ラウレンティア腐敗1"
+msgstr ""
+
+#. ID 677
+msgid "ラウレンティア腐敗2"
+msgstr ""
+
+#. ID 678
+msgid "マクダレーネ2"
+msgstr ""
+
+#. ID 679
+msgid "ロスヴィータ2"
+msgstr ""
+
+#. ID 680
+msgid "ラウレンティア腐敗3"
+msgstr ""
+
+#. ID 681
+msgid "マクダレーネ1"
+msgstr ""
+
+#. ID 682
+msgid "ロスヴィータ1"
+msgstr ""
+
+#. ID 683
+msgid "アタナーズィア1"
+msgstr ""
+
+#. ID 684
+msgid "丘外れ1"
+msgstr ""
+
+#. ID 685
+msgid "跡地"
+msgstr ""
+
+#. ID 686
+msgid "丘外れ2"
+msgstr ""
+
+#. ID 687
+msgid "丘外れ3"
+msgstr ""
+
+#. ID 688
+msgid "丘外れ4"
+msgstr ""
+
+#. ID 689
+msgid "WWL隔離／地下1F"
+msgstr ""
+
+#. ID 690
+msgid "地下3F"
+msgstr ""
+
+#. ID 691
+msgid "地下2F-1"
+msgstr ""
+
+#. ID 692
+msgid "地下2F-2"
+msgstr ""
+
+#. ID 693
+msgid "地下2F-3"
+msgstr ""
+
+#. ID 694
+msgid "地下4F"
+msgstr ""
+
+#. ID 695
+msgid "地下5F-1"
+msgstr ""
+
+#. ID 696
+msgid "地下5F-2"
+msgstr ""
+
+#. ID 697
+msgid "地下5F-3"
+msgstr ""
+
+#. ID 698
+msgid "地下6F"
+msgstr ""
+
+#. ID 699
+msgid "地下7F"
+msgstr ""
+
+#. ID 700
+msgid "地下8F-1"
+msgstr ""
+
+#. ID 701
+msgid "地下8F-2"
+msgstr ""
+
+#. ID 702
+msgid "地下8F-3"
+msgstr ""
+
+#. ID 704
+msgid "EP40/42EVC"
+msgstr ""
+
+#. ID 705
+msgid "夕陽"
+msgstr ""
+
+#. ID 706
+msgid "反乱の終着点"
+msgstr ""
+
+#. ID 707
+msgid "アイシャの空"
+msgstr ""
+
+#. ID 708
+msgid "アイシャの空1-1"
+msgstr ""
+
+#. ID 709
+msgid "アイシャの空1-2"
+msgstr ""
+
+#. ID 710
+msgid "アイシャの空1-3"
+msgstr ""
+
+#. ID 711
+msgid "アイシャの空1-4"
+msgstr ""
+
+#. ID 712
+msgid "アイシャの空1-5"
+msgstr ""
+
+#. ID 713
+msgid "アイシャの空2-1"
+msgstr ""
+
+#. ID 714
+msgid "アイシャの空2-2"
+msgstr ""
+
+#. ID 715
+msgid "アイシャの空2-3"
+msgstr ""
+
+#. ID 716
+msgid "アイシャの空2-4"
+msgstr ""
+
+#. ID 717
+msgid "アイシャの空3-2"
+msgstr ""
+
+#. ID 718
+msgid "アイシャの空3-3"
+msgstr ""
+
+#. ID 719
+msgid "アイシャの空3-4"
+msgstr ""
+
+#. ID 720
+msgid "アイシャの空3-5"
+msgstr ""
+
+#. ID 721
+msgid "アイシャの空3-1"
+msgstr ""
+
+#. ID 722
+msgid "アイシャの空3-6"
+msgstr ""
+
+#. ID 723
+msgid "アイシャの空3-7"
+msgstr ""
+
+#. ID 724
+msgid "アイシャの空3-8"
+msgstr ""
+
+#. ID 725
+msgid "アイシャの空4-3"
+msgstr ""
+
+#. ID 726
+msgid "魂たちの揺籃1"
+msgstr ""
+
+#. ID 727
+msgid "魂たちの揺籃2"
+msgstr ""
+
+#. ID 728
+msgid "魂たちの揺籃3"
+msgstr ""
+
+#. ID 729
+msgid "魂たちの揺籃4"
+msgstr ""
+
+#. ID 730
+msgid "魂たちの揺籃5"
+msgstr ""
+
+#. ID 731
+msgid "魂たちの揺籃6"
+msgstr ""
+
+#. ID 732
+msgid "魂たちの揺籃7"
+msgstr ""
+
+#. ID 733
+msgid "魂たちの揺籃8"
+msgstr ""
+
+#. ID 734
+msgid "生命の海"
+msgstr ""
+
+#. ID 735
+msgid "死天使の卵"
+msgstr ""
+
+#. ID 736
+msgid "エンディング／カオス"
+msgstr ""
+
+#. ID 737
+msgid "庭園"
+msgstr ""
+
+#. ID 738
+#. ID 739
+msgid "EP44EVC"
+msgstr ""
+
+#. ID 740
+#. ID 741
+msgid "EDEVC"
+msgstr ""
+
+#. ID 742
+msgid "ニクソン＆マキシム"
+msgstr ""
+
+#. ID 743
+msgid "ミネルヴァ＆フォクシー"
+msgstr ""
+
+#. ID 744
+msgid "ランサード＆ヴィルジニー"
+msgstr ""
+
+#. ID 745
+msgid "ヴェーネ＆フリッツ"
+msgstr ""
+
+#. ID 746
+msgid "決戦後"
+msgstr ""
+
+#. ID 747
+msgid "EP31/34/41EVC"
+msgstr ""
+

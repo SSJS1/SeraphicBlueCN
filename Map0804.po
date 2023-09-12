@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 5, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"ようニクソン？ \\.\\.コイツが見えるか？"
+msgstr ""
+
+#. ID 2, Page 1, Line 7, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"みんな行き場を失くしてイライラしてるからな。\\|\n"
+"青空バーと洒落込んで一儲けだ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 13, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"獲物を追って追って追い駆けて。\\.\\.\n"
+"挙げ句の果ては空の彼方。"
+msgstr ""
+
+#. ID 2, Page 1, Line 16, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"何だか随分と大変みたいだが、\n"
+"それは俺も同じだぜ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 19, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"無事だった酒樽探して運んで来るのに\n"
+"どれだけ苦労したか。"
+msgstr ""
+
+#. ID 2, Page 1, Line 25, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"まあそう言う訳だ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 27, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"相棒の新たな船出。\\.\\.\n"
+"沈没させる様な真似すんなよな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 30, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"勿論、お前のボトルは残ってるぜ。"
+msgstr ""
+

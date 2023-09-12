@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 2, Line 9, Pos (17,22)
+msgid ""
+"男性：\n"
+"やっぱり行くのか、\\.解放戦争に。"
+msgstr ""
+
+#. ID 4, Page 2, Line 11, Pos (17,22)
+#. ID 4, Page 2, Line 61, Pos (17,22)
+msgid ""
+"ニクソン：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 13, Pos (17,22)
+#. ID 4, Page 2, Line 63, Pos (17,22)
+msgid ""
+"ニクソン：\n"
+"これからダルムシュタットに行って、\n"
+"決起集会に出ようと思います。"
+msgstr ""
+
+#. ID 4, Page 2, Line 32, Pos (17,22)
+msgid ""
+"男性：\n"
+"燃えちまったな…。"
+msgstr ""
+
+#. ID 4, Page 2, Line 37, Pos (17,22)
+msgid ""
+"女性：\n"
+"本当に…\\|これで良かったのかしら…。"
+msgstr ""
+
+#. ID 4, Page 2, Line 39, Pos (17,22)
+msgid ""
+"女性：\n"
+"信仰を捨てた証とは言え…。\\|\n"
+"あの子達の部屋までも…。"
+msgstr ""
+
+#. ID 4, Page 2, Line 45, Pos (17,22)
+msgid ""
+"女性：\n"
+"たった一つの思い出…。"
+msgstr ""
+
+#. ID 4, Page 2, Line 50, Pos (17,22)
+msgid ""
+"ニクソン：\n"
+"思い出は、憎しみの炎に注がれる油。\\|\n"
+"項垂れる身に打ち付ける、冷たい雨。"
+msgstr ""
+
+#. ID 4, Page 2, Line 53, Pos (17,22)
+msgid ""
+"ニクソン：\n"
+"総てを捨てなくては、\\.\\.歩き出せません。"
+msgstr ""
+
+#. ID 4, Page 2, Line 59, Pos (17,22)
+msgid ""
+"男性：\n"
+"やっぱり行くのか、\\.\\.解放戦争に。"
+msgstr ""
+
+#. ID 4, Page 2, Line 69, Pos (17,22)
+msgid ""
+"女性：\n"
+"何もかも…。\\|\n"
+"此処から去って行ってしまうわね…。"
+msgstr ""
+
+#. ID 4, Page 2, Line 72, Pos (17,22)
+msgid ""
+"ニクソン：\n"
+"申し訳在りません。\\|\n"
+"今の私には、こうする事しか出来ないのです。"
+msgstr ""
+
+#. ID 4, Page 2, Line 80, Pos (17,22)
+msgid ""
+"ニクソン：\n"
+"あの空に…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 87, Pos (17,22)
+msgid ""
+"ニクソン：\n"
+"あの空に浮かぶ巨大な影に、\n"
+"有るだけの銃弾＜なげき＞を撃ち込む。"
+msgstr ""
+
+#. ID 4, Page 2, Line 90, Pos (17,22)
+msgid ""
+"ニクソン：\n"
+"それさえ出来れば、\\.\\.もう何も求めません。"
+msgstr ""
+
+#. ID 4, Page 2, Line 92, Pos (17,22)
+msgid ""
+"ニクソン：\n"
+"たとえそれが、\\.\\.\n"
+"未来を放棄する事で在ったとしても。"
+msgstr ""
+
+#. ID 17, Page 1, Line 3, Pos (25,19)
+msgid ""
+"男性：\n"
+"俺達、何に向かって祈ってたんだろう。"
+msgstr ""
+
+#. ID 17, Page 1, Line 5, Pos (25,19)
+msgid ""
+"男性：\n"
+"居もしない神に、何を求めてたんだろう…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 11, Pos (25,19)
+msgid ""
+"男性：\n"
+"祈りは、所詮祈り。\n"
+"心を誤魔化すだけで、何も救わない…。"
+msgstr ""
+
+#. ID 17, Page 2, Line 3, Pos (25,19)
+msgid ""
+"男性：\n"
+"壊れゆく空。"
+msgstr ""
+
+#. ID 17, Page 2, Line 5, Pos (25,19)
+msgid ""
+"男性：\n"
+"そもそもの神の不在か、\n"
+"或いは此処に至って死に逝く神か…。"
+msgstr ""
+
+#. ID 17, Page 2, Line 8, Pos (25,19)
+msgid ""
+"男性：\n"
+"まあ、結果は変わらないさ。"
+msgstr ""
+
+#. ID 17, Page 2, Line 10, Pos (25,19)
+msgid ""
+"男性：\n"
+"きっとあの空の下で、\n"
+"全ては死に絶えて行くんだろう…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 3, Pos (15,49)
+msgid ""
+"男性：\n"
+"あのフェジテに\n"
+"子供達を捨てた母親が住んでる訳だ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 6, Pos (15,49)
+msgid ""
+"男性：\n"
+"どんなふてぶてしい顔をしているのか、\n"
+"一度見てみたいものだな。"
+msgstr ""
+
+#. ID 18, Page 2, Line 3, Pos (15,49)
+msgid ""
+"男性：\n"
+"今となってはフェジテも目に付くが、\n"
+"それ以上にあの空だ。"
+msgstr ""
+
+#. ID 18, Page 2, Line 6, Pos (15,49)
+msgid ""
+"男性：\n"
+"空が壊れるなどと…。\n"
+"一体何が起きているんだ…？"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (18,17)
+msgid ""
+"女性：\n"
+"この焼け跡は、神の不在の証。"
+msgstr ""
+
+#. ID 19, Page 1, Line 5, Pos (18,17)
+msgid ""
+"女性：\n"
+"遥か天上に居るのは、\n"
+"子供達を捨てたセラパーソンだけなのよ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 3, Pos (24,44)
+msgid ""
+"女性：\n"
+"不憫としか言いようが無いわ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 3, Pos (27,44)
+msgid ""
+"女性：\n"
+"売春だけでも汚らわしいというのに、\n"
+"その上で出来た子供を見捨てるなんて。"
+msgstr ""
+
+#. ID 21, Page 1, Line 6, Pos (27,44)
+msgid ""
+"女性：\n"
+"天使が聞いて呆れるよ。\n"
+"寧ろ悪魔じゃないか。"
+msgstr ""
+
+#. ID 22, Page 1, Line 3, Pos (11,9)
+msgid ""
+"女性：\n"
+"この場所で花を育ててみようかと思ってるの。"
+msgstr ""
+
+#. ID 22, Page 1, Line 5, Pos (11,9)
+msgid ""
+"女性：\n"
+"やっぱり\"傷痕\"よりも\"想い\"の方が、\n"
+"きっと幸せに成れる筈。"
+msgstr ""
+
+#. ID 22, Page 1, Line 11, Pos (11,9)
+msgid ""
+"女性：\n"
+"それに此処は子供達の集う場所だから。"
+msgstr ""
+
+#. ID 22, Page 1, Line 13, Pos (11,9)
+msgid ""
+"女性：\n"
+"花壇の一つ位無いと、ねぇ？"
+msgstr ""
+
+#. ID 26, Page 1, Line 4, Pos (13,32)
+msgid ""
+"男性：\n"
+"俺は神様なんて、信じてなかったけどな。"
+msgstr ""
+
+#. ID 26, Page 1, Line 6, Pos (13,32)
+msgid ""
+"男性：\n"
+"何かを信じた結果馬鹿を見るのは御免さ。\n"
+"何時どん底に突き落とされるか、裏切られるかって\n"
+"ビクビクしちまう。"
+msgstr ""
+
+#. ID 26, Page 1, Line 10, Pos (13,32)
+msgid ""
+"男性：\n"
+"あんたは何を信じてる？"
+msgstr ""
+
+#. ID 26, Page 1, Line 14, Pos (13,32)
+msgid ""
+"男性：\n"
+"自分の目に見えないものは、信じられないよな。"
+msgstr ""
+
+#. ID 27, Page 1, Line 4, Pos (28,29)
+msgid ""
+"男性：\n"
+"信じる者が救われない世の中だ。\n"
+"そりゃ、何もかも信じられなくなる人も居るだろうさ。"
+msgstr ""
+
+#. ID 27, Page 1, Line 9, Pos (28,29)
+msgid ""
+"男性：\n"
+"何が正しくて、何が間違っているのか。"
+msgstr ""
+
+#. ID 27, Page 1, Line 11, Pos (28,29)
+msgid ""
+"男性：\n"
+"誰かが正しいと言ったら、それは正しい事なのかな？"
+msgstr ""
+
+#. ID 27, Page 1, Line 13, Pos (28,29)
+msgid ""
+"男性：\n"
+"自分の目でものを見て、自分の心で判断したいね。"
+msgstr ""
+

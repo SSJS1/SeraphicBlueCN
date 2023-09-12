@@ -1,0 +1,690 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 33, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"\\S[2]ああ…。\\|何て姿に…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 37, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"これが…。\\|あの子供達だって言うの…？"
+msgstr ""
+
+#. ID 5, Page 1, Line 41, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"ガイアキャンサー反応…！\\|\n"
+"キャンサーイーヴルだってのか…！"
+msgstr ""
+
+#. ID 5, Page 1, Line 46, Pos (0,0)
+#. ID 7, Page 1, Line 29, Pos (0,14)
+msgid ""
+"\n"
+"ユアン：\n"
+"変異の際にガイアキャンサーを引き寄せ、\n"
+"融合してしまうケース…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 51, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"畜生ッ…！\\| 最悪の結果だ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 55, Pos (0,0)
+#. ID 7, Page 1, Line 38, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 58, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"ニクソン…。\\|こんな事を言うのは…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 61, Pos (0,0)
+#. ID 7, Page 1, Line 45, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"分かっていますよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 65, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"\\S[3]子供達は、\\.\\.もう助からない。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 72, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"可哀想に。\\.\\.こんなにも苦しんでいる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 75, Pos (0,0)
+#. ID 7, Page 1, Line 60, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"早く楽にしてあげないといけません。"
+msgstr ""
+
+#. ID 5, Page 1, Line 79, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"本当に、\\|良いんだな…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 83, Pos (0,0)
+#. ID 7, Page 1, Line 68, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"中々寝静まらない子も居ましてね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 86, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"私でないと、\\.\\.眠って呉れないのですよ。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 61, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"済まない…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 65, Pos (0,0)
+#. ID 7, Page 2, Line 45, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"謝る必要は在りません。"
+msgstr ""
+
+#. ID 5, Page 2, Line 68, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"何処まで行っても閉ざされていた未来ならば…。\\|\n"
+"どうせ生まれ、\\.\\.どうせ死ぬのなら…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 72, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"せめて少しでも多くの幸せを…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 76, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"スラムに比べれば、\\.\\.このホーイックは天国だった…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 79, Pos (0,0)
+#. ID 7, Page 2, Line 60, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"\\S[2]私も…\\|彼らに出会えて幸せだった…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 83, Pos (0,0)
+#. ID 7, Page 2, Line 64, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"\\S[3]でも…！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 94, Pos (0,0)
+#. ID 7, Page 2, Line 75, Pos (0,14)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 97, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"てめえ！\\.\\. ユアンに何しやがる！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 101, Pos (0,0)
+#. ID 7, Page 2, Line 82, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"それでも、今の私はこうせずにはいられない！"
+msgstr ""
+
+#. ID 5, Page 2, Line 104, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"筋違いだろうと何だろうと、\\.\\.\n"
+"セラパーソンに銃を向けずにはいられない！"
+msgstr ""
+
+#. ID 5, Page 2, Line 108, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"何故だ！ \\|あの子達が何をした！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 111, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"何故こんな過酷な運命を背負わされる！"
+msgstr ""
+
+#. ID 5, Page 2, Line 114, Pos (0,0)
+#. ID 7, Page 2, Line 98, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"捨てた者達がのうのうと生き長らえ、\n"
+"捨てられた者達が非業の死を遂げるだと!?"
+msgstr ""
+
+#. ID 5, Page 2, Line 118, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"ふざけるなァ!!\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 122, Pos (0,0)
+#. ID 7, Page 2, Line 106, Pos (0,14)
+msgid ""
+"\n"
+"ケイン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 126, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"\\S[2]貴方達は、\\.\\.天使じゃない。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 130, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"\\S[3]悪魔だ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 134, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"ニクソンお願い。\\.\\.銃を下ろして。"
+msgstr ""
+
+#. ID 5, Page 2, Line 137, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"出来ませんよ。\\|身体が言う事を聞かない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 142, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"今直ぐ、\\.\\.此処から消えてください。"
+msgstr ""
+
+#. ID 5, Page 2, Line 145, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"でなければ、\\.\\.私は貴方の頭を撃ち抜いてしまう。"
+msgstr ""
+
+#. ID 5, Page 2, Line 148, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"我侭かも知れませんが、\\.\\.\n"
+"私に人殺しをさせないでください。"
+msgstr ""
+
+#. ID 5, Page 2, Line 153, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"勝手な言い草ね。\\.\\.そんなの只の八つ当たりよ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 156, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"これは私達が如何にか出来た問題ではなかったわ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 159, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"それに私達は何もしていない。\\|\n"
+"子供を捨てたのは私達ではない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 164, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"それなのに、\\.\\.何で私達が銃を向けられる訳？"
+msgstr ""
+
+#. ID 5, Page 2, Line 167, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"そんなに殺したいなら、\\.\\.\n"
+"私達と一緒にフェジテに来れば良いじゃない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 171, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"ケイオスで子供を捨てた奴を探して、\n"
+"端から殺して行ったら？"
+msgstr ""
+
+#. ID 5, Page 2, Line 176, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"もう良い、\\.\\.ヴェーネ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 179, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"こんな所で落ち着いて正論を持ち出した所で、\n"
+"人の心はそれ程簡単じゃない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 184, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"俺達はセラパーソン。"
+msgstr ""
+
+#. ID 5, Page 2, Line 187, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"今此処で俺達に罪を見出さなければ、\n"
+"ニクソンはきっと狂ってしまうだろう。"
+msgstr ""
+
+#. ID 5, Page 2, Line 191, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"行き場の無い怒りと悲しみで、\n"
+"心を粉々に砕かれてな。"
+msgstr ""
+
+#. ID 5, Page 2, Line 195, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"それで私達が泥水を被るの？"
+msgstr ""
+
+#. ID 5, Page 2, Line 198, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"馬鹿馬鹿しい。\\.\\.やってられないわ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 202, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 206, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"今は、\\.\\.去るだけだ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 209, Pos (0,0)
+msgid ""
+"\n"
+"ユアン：\n"
+"別れの言葉も、\\.\\.何も言わずにな。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 225, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"\\S[10]あ…あ…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 229, Pos (0,0)
+msgid ""
+"\n"
+"ニクソン：\n"
+"あああ\\S[3]ァァァーーーーーッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 17, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"\\S[2]ああ…。\\|なんて姿に…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 21, Pos (0,14)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"これが、あの子供達だっていうの…？"
+msgstr ""
+
+#. ID 7, Page 1, Line 25, Pos (0,14)
+msgid ""
+"\n"
+"ケイン：\n"
+"こいつ、只のイーヴルじゃない…。\\|\n"
+"キャンサーイーヴルだ…！"
+msgstr ""
+
+#. ID 7, Page 1, Line 34, Pos (0,14)
+msgid ""
+"\n"
+"ユアン：\n"
+"最悪の結果だ…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 41, Pos (0,14)
+msgid ""
+"\n"
+"ユアン：\n"
+"ニクソン…。\\|\n"
+"こんな事を言うのは…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 49, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"子供達は、もう助からない。"
+msgstr ""
+
+#. ID 7, Page 1, Line 56, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"可哀想に。\n"
+"こんなにも苦しんでいる。"
+msgstr ""
+
+#. ID 7, Page 1, Line 64, Pos (0,14)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"本当に、\\.\\.良いのね…？"
+msgstr ""
+
+#. ID 7, Page 1, Line 71, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"私でないと、\\.\\.眠って呉れないのですよ。"
+msgstr ""
+
+#. ID 7, Page 2, Line 41, Pos (0,14)
+msgid ""
+"\n"
+"ユアン：\n"
+"済まない…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 48, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"何処まで行っても閉ざされていた未来ならば…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 51, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"どうせ生まれ、どうせ死ぬのなら、\n"
+"せめて少しでも多くの幸せを…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 56, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"スラムに比べれば、\n"
+"このホーイックは天国だった…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 78, Pos (0,14)
+msgid ""
+"\n"
+"ケイン：\n"
+"てめえ！\\| ユアンに何しやがる！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 85, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"筋違いだろうと何だろうと、\n"
+"セラパーソンに銃を向けずにはいられない！"
+msgstr ""
+
+#. ID 7, Page 2, Line 89, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"何故だ！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 92, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"あの子達が何をした！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 95, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"如何してこんな過酷な運命を背負わされる！"
+msgstr ""
+
+#. ID 7, Page 2, Line 102, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"ふざけるな！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 110, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"あなた達は、天使じゃない…。"
+msgstr ""
+
+#. ID 7, Page 2, Line 113, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"\\S[2]悪魔だ…！\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 117, Pos (0,14)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"ニクソンお願い。銃を下ろして。"
+msgstr ""
+
+#. ID 7, Page 2, Line 120, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"出来ませんよ。身体が言う事を聞かない。"
+msgstr ""
+
+#. ID 7, Page 2, Line 124, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"今直ぐ、此処から消えてください。"
+msgstr ""
+
+#. ID 7, Page 2, Line 127, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"でなければ、私はあなたの頭を撃ち抜いてしまう。"
+msgstr ""
+
+#. ID 7, Page 2, Line 131, Pos (0,14)
+msgid ""
+"\n"
+"ニクソン：\n"
+"我侭かもしれませんが、\n"
+"私に人殺しをさせないでください。"
+msgstr ""
+
+#. ID 7, Page 2, Line 135, Pos (0,14)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"そんなの勝手過ぎるわ！"
+msgstr ""
+
+#. ID 7, Page 2, Line 138, Pos (0,14)
+msgid ""
+"\n"
+"ユアン：\n"
+"ヴェーネ、何も言うな。"
+msgstr ""
+
+#. ID 7, Page 2, Line 141, Pos (0,14)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"でも、こんなの唯の八つ当たりよ！"
+msgstr ""
+
+#. ID 7, Page 2, Line 144, Pos (0,14)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"私達が如何にか出来た問題じゃなかった！"
+msgstr ""
+
+#. ID 7, Page 2, Line 147, Pos (0,14)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"銃を向けられる筋合いなんて無いわ！"
+msgstr ""
+
+#. ID 7, Page 2, Line 151, Pos (0,14)
+msgid ""
+"\n"
+"ユアン：\n"
+"だとしても、俺達はセラパーソン。"
+msgstr ""
+
+#. ID 7, Page 2, Line 154, Pos (0,14)
+msgid ""
+"\n"
+"ユアン：\n"
+"此処に居る資格は無い。"
+msgstr ""
+
+#. ID 7, Page 2, Line 158, Pos (0,14)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 162, Pos (0,14)
+msgid ""
+"\n"
+"ユアン：\n"
+"唯、去るだけだ。"
+msgstr ""
+
+#. ID 7, Page 2, Line 165, Pos (0,14)
+msgid ""
+"\n"
+"ユアン：\n"
+"別れの言葉も、何も言わずに。"
+msgstr ""
+
+#. ID 7, Page 2, Line 180, Pos (0,14)
+msgid ""
+"ニクソン：\n"
+"\\S[10]あ…あ…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 2, Line 185, Pos (0,14)
+msgid ""
+"ニクソン：\n"
+"あああァァァァァァァァッ!!!!\\|\\|\\^"
+msgstr ""
+

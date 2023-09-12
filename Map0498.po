@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"フョードル！ \\.\\.スタンバイは!?\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"Anytime！ \\.\\.いつでもどうぞ！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"デイジー達は？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 13, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"既に撤収済みさ。\\.\\.俺達がラストだ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"直ぐに発進よ。\\.\\.\n"
+"爆発まで時間が無い。"
+msgstr ""
+
+#. ID 1, Page 1, Line 18, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ＯＫ！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 35, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ブルーウィング、\\.\\.発進ッ！\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 86, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"さあ、\\.\\.デカい花火だぜ！"
+msgstr ""
+
+#. ID 1, Page 1, Line 88, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ユヴェスの時とは違う、最高の一発だ！"
+msgstr ""
+
+#. ID 1, Page 1, Line 93, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ゲオルクよ。\\.\\.\n"
+"せめて最期の刻位、華々しく散ってみなさい。"
+msgstr ""
+
+#. ID 1, Page 1, Line 96, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"貴様がシリア達から見限られた老犬でなく、\n"
+"飽くまで孤高の黒獅子で在ったと言うのならば。"
+msgstr ""
+
+#. ID 1, Page 1, Line 102, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"まあ、\\.\\.期待はしてないけれど。"
+msgstr ""
+
+#. ID 1, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ユアンは何時も言っていた。\\|\n"
+"人に諭し、自らに銘じる様に。"
+msgstr ""
+
+#. ID 1, Page 1, Line 141, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"降り止まない雨は無い。"
+msgstr ""
+
+#. ID 1, Page 1, Line 143, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そしてその後には、\n"
+"抜ける様な青空が待っている。"
+msgstr ""
+
+#. ID 1, Page 1, Line 149, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"炎を上げて、\\.\\.黒獅子の骸が崩れ落ちる。"
+msgstr ""
+
+#. ID 1, Page 1, Line 151, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"見渡せば、\\.\\.青空が広がっていた。"
+msgstr ""
+

@@ -1,0 +1,521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 38, Page 1, Line 47, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"エンデ！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 49, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"もうお前に駒は残っていないわ。\\.\\.\n"
+"覚悟しなさい。"
+msgstr ""
+
+#. ID 38, Page 1, Line 52, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"此処で全ての決着を付けるッ！"
+msgstr ""
+
+#. ID 38, Page 1, Line 57, Pos (0,9)
+#. ID 38, Page 2, Line 104, Pos (0,9)
+#. ID 38, Page 2, Line 111, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 62, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"\\S[5]ヒヒッ…。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 71, Pos (0,9)
+msgid ""
+"\n"
+"        キシャアァァァアァァァアァァッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 96, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]エンデ…？\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 102, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"ちくしょう！ \\|ちくしょう！ \\|ちくしょうッ！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 105, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"くそったれが！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 108, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"うお\\S[2]ォォォォォォッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 113, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]何なのよ…。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 115, Pos (0,9)
+msgid ""
+"フォクシー：\n"
+"イカれてる…。\\.\\.\n"
+"カジノで全財産スッたみたいに…。"
+msgstr ""
+
+#. ID 38, Page 1, Line 121, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"\\S[3]笑えよ…。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 123, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 125, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"ああ笑え笑え！\\.\\.\n"
+"思い切り笑いやがれ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 129, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"オラ\\S[2]ァァァァァァァッ!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 134, Pos (0,9)
+msgid ""
+"ヤンシー：\n"
+"気が触れてる…。"
+msgstr ""
+
+#. ID 38, Page 1, Line 136, Pos (0,9)
+msgid ""
+"ミネルヴァ：\n"
+"裸王将で追い詰められたから…？"
+msgstr ""
+
+#. ID 38, Page 1, Line 138, Pos (0,9)
+msgid ""
+"ランサード：\n"
+"否違う。\\.\\.奴は敗者の眼をしている。"
+msgstr ""
+
+#. ID 38, Page 1, Line 140, Pos (0,9)
+msgid ""
+"ドリス：\n"
+"ケンカで負けたオトコノコ…？"
+msgstr ""
+
+#. ID 38, Page 1, Line 146, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"ああそうさ！ \\.\\.どうせ俺は負けたさ！"
+msgstr ""
+
+#. ID 38, Page 1, Line 148, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"あんなくだらねえ連中にッ！"
+msgstr ""
+
+#. ID 38, Page 1, Line 153, Pos (0,9)
+msgid ""
+"ニクソン：\n"
+"トロイの言っていた\n"
+"連れ立ちの事でしょうね…。"
+msgstr ""
+
+#. ID 38, Page 1, Line 156, Pos (0,9)
+msgid ""
+"ヴィルジニー：\n"
+"此処に来るまでに\n"
+"２体のガイアキャンサーを仕掛けた連中…。"
+msgstr ""
+
+#. ID 38, Page 1, Line 163, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"ムカつくぜッ…！\\|\n"
+"ムカついて死にそうだぜッ…！\\|\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 166, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"何でこの俺がァァァ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 171, Pos (0,9)
+msgid ""
+"ミネルヴァ：\n"
+"恐らくエンデは\"彼ら\"の裏切りに遭って、\n"
+"戦いの末に敗北したんだわ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 177, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"その\"彼ら\"の起こした下克上。"
+msgstr ""
+
+#. ID 38, Page 1, Line 179, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"エンデは実行者の座から引き摺り下ろされ、\\.\\.\n"
+"\"彼ら\"が新たな実行者に成った。"
+msgstr ""
+
+#. ID 38, Page 1, Line 182, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"そして今、\\.\\.眼の前に居るのは最早\n"
+"\"実行者エンデ\"じゃない…。"
+msgstr ""
+
+#. ID 38, Page 1, Line 185, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ガイアキャンサー、\\.\\.エンデ…！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 190, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"さあ如何したァ！\\|\n"
+"早くヤれよ！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 193, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"偉そうに放置プレイ気取ってんじゃねえ！\n"
+"クソ野郎共が！"
+msgstr ""
+
+#. ID 38, Page 1, Line 205, Pos (0,9)
+msgid ""
+"男性の声：\n"
+"まったく。\\.\\.仮にも先刻まで実行者であった者が\n"
+"こうも露骨に無様だとは。"
+msgstr ""
+
+#. ID 38, Page 1, Line 208, Pos (0,9)
+msgid ""
+"女性の声：\n"
+"結局の所、力を奪ってしまえば、\n"
+"無闇に突っ張る只のジュヴナイルさん。"
+msgstr ""
+
+#. ID 38, Page 1, Line 211, Pos (0,9)
+msgid ""
+"女性の声：\n"
+"失望したわ。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 213, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"黙れクソババア！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 218, Pos (0,9)
+msgid ""
+"少年の声：\n"
+"よう、エンデさんよ？\\.\\.\n"
+"今の気分は如何だい？"
+msgstr ""
+
+#. ID 38, Page 1, Line 221, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"うるせえ！ \\.\\.さっきから言ってんだろ！"
+msgstr ""
+
+#. ID 38, Page 1, Line 223, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"偉そうに放置プレイぶっこいてねえで\n"
+"一思いにヤりやがれ！"
+msgstr ""
+
+#. ID 38, Page 1, Line 229, Pos (0,9)
+msgid ""
+"少年の声：\n"
+"やれやれ…。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 270, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"\\S[2]全殺しだァ…！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 281, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"ちくしょー\\S[2]ォォォォォォッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 300, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"恨むわよ、\\.\\.エンデ。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 302, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"本当ならばこれが最後の戦い。\\.\\.\n"
+"実りの多く有意義な物だったのに。"
+msgstr ""
+
+#. ID 38, Page 1, Line 305, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"只の通過点？ \\|糞にも劣る捨て駒？"
+msgstr ""
+
+#. ID 38, Page 1, Line 310, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]ふざけないで。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 315, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"\\S[5]グォォォォォォ…。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 317, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"目障りなのよ！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 1, Line 319, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"死ね！ \\.\\.この負け犬が！\\|\\^"
+msgstr ""
+
+#. ID 38, Page 2, Line 13, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"\\S[20]あ…うぅぅ…。\\^"
+msgstr ""
+
+#. ID 38, Page 2, Line 18, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 38, Page 2, Line 25, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]無様ね。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 2, Line 30, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"\\S[10]ちくしょう…。\\|何でこんなオチに…。"
+msgstr ""
+
+#. ID 38, Page 2, Line 32, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"それはこっちの台詞よ。"
+msgstr ""
+
+#. ID 38, Page 2, Line 34, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"お前が下克上を退けていれば、\\.\\.\n"
+"お前を倒す事で全てが終わったというのに…。"
+msgstr ""
+
+#. ID 38, Page 2, Line 37, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"それをこんな風に話を拗らせて…。"
+msgstr ""
+
+#. ID 38, Page 2, Line 39, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"何が実行者よ。\\.\\.役立たずが。"
+msgstr ""
+
+#. ID 38, Page 2, Line 44, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"\\S[10]けっ…。\\.\\.ヒデェ言い草…。"
+msgstr ""
+
+#. ID 38, Page 2, Line 46, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"\\S[10]これじゃあ…\\.\\.どっちがワルなんだか…。"
+msgstr ""
+
+#. ID 38, Page 2, Line 48, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"どっちでも良いわよ。\\.\\.\n"
+"何れにせよお前は許さない。"
+msgstr ""
+
+#. ID 38, Page 2, Line 57, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"ランサード、\\.\\.ちょっと良い？\\|\\^"
+msgstr ""
+
+#. ID 38, Page 2, Line 59, Pos (0,9)
+msgid ""
+"ランサード：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 2, Line 65, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"剣を貸して。\\.\\.此奴に止めを刺してやるわ。"
+msgstr ""
+
+#. ID 38, Page 2, Line 71, Pos (0,9)
+msgid ""
+"ランサード：\n"
+"女の細腕には重い得物だ。\\.\\.\n"
+"気を付けて扱え。"
+msgstr ""
+
+#. ID 38, Page 2, Line 82, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]エンデ…。\\|お前の所為で私は…。"
+msgstr ""
+
+#. ID 38, Page 2, Line 84, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]許さない…。\\|この手で殺してやる…。"
+msgstr ""
+
+#. ID 38, Page 2, Line 89, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"\\S[10]ケッ…。\\.\\.ヤるならさっさとヤれよ…。"
+msgstr ""
+
+#. ID 38, Page 2, Line 94, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"でもその前に一つだけ、\\.\\.訊いておく事が在るわ。"
+msgstr ""
+
+#. ID 38, Page 2, Line 96, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"お前を倒して新たな実行者に成った者達。\\|\n"
+"彼らは一体誰なの？"
+msgstr ""
+
+#. ID 38, Page 2, Line 99, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]答えなさい。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 2, Line 106, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"答えろーッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 38, Page 2, Line 113, Pos (0,9)
+msgid ""
+"エンデ：\n"
+"\\S[20]………\\|\\S[5]やだ。\\|\\^"
+msgstr ""
+
+#. ID 38, Page 2, Line 118, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]あ、\\.\\.そう。\\.\\.\\^"
+msgstr ""
+
+#. ID 38, Page 2, Line 173, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"こんな筈ではなかった。"
+msgstr ""
+
+#. ID 38, Page 2, Line 175, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"エンデが死に、\\.\\.そして終わらぬ戦い。"
+msgstr ""
+
+#. ID 38, Page 2, Line 177, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"姿無くして立ちはだかる、\"新たな実行者\"達。"
+msgstr ""
+
+#. ID 38, Page 2, Line 182, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"だが\"彼ら\"にとって見れば予定通り。\\.\\.\n"
+"最初からこういう筋書きに成っていたのだろう。"
+msgstr ""
+
+#. ID 38, Page 2, Line 185, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"詰まりは私達が無知であったという事。\\|\n"
+"勝手にエンデ打倒の終着点＜ゆめ＞を見ていただけ。"
+msgstr ""
+
+#. ID 38, Page 2, Line 191, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"消沈する意気。\\|湧昇する憤怒。"
+msgstr ""
+
+#. ID 38, Page 2, Line 193, Pos (0,9)
+msgid ""
+"ヴェーネ：\n"
+"それらに引き摺られる様に、\n"
+"戦いは更なる高所＜そら＞へと縺れ込む…。"
+msgstr ""
+

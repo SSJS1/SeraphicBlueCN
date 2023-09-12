@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"この力の波動…！\\|\n"
+"ガイアキャンサー…!?\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でもそんな訳…。\\|\n"
+"ガイアキャンサーは10体全て倒した筈…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 53, Pos (0,0)
+msgid ""
+"男の声：\n"
+"\\S[2]来たか…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 55, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"誰!?\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 62, Pos (0,0)
+msgid ""
+"男の声：\n"
+"\\S[2]私は、\\.\\.こういう者だ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 107, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ガイアキャンサー!? \\|11体目…!?\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 109, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"馬鹿なッ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 15, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何故…\\|11体目のガイアキャンサーが…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 17, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"確かに全部で10体だった筈よね？"
+msgstr ""
+
+#. ID 3, Page 2, Line 19, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、\\.\\.C.M.G.C.の観測結果では確かに全10体。\\|\n"
+"新規に出現した報告は受けてないわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 26, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"じゃあ今のエスメラルダは、\\.\\.\n"
+"正にあの瞬間に新生した物だと…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 29, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"確かにそうとしか説明出来ない。\\|\n"
+"でも幾ら何でも唐突過ぎるわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 32, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"あんな強いガイアキャンサーなら相当前から兆候を\n"
+"発して、危険因子としてマークされてる筈よ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 38, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何て言うか…\\|隠し玉って感じだね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 43, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"隠し玉…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 45, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"隠そうと思って隠せる代物かしら…？"
+msgstr ""
+
+#. ID 3, Page 2, Line 48, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そんなの無理よ。\\.\\.\n"
+"ラージュの時と同じ理屈。"
+msgstr ""
+
+#. ID 3, Page 2, Line 51, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\"目立つ存在\"は、絶対に何処かで尻尾を掴まれる。"
+msgstr ""
+
+#. ID 3, Page 2, Line 56, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ラージュの理屈…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 58, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"エスメラルダもラージュと同じく、\n"
+"何処かに身を隠して眠っていたのだとしたら…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 64, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうよ…！ \\.\\.それだわ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 69, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 76, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ディザスティアよ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 78, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ディザスティアは２個のガイアキャンサーと結合した\n"
+"キャンサーイーヴル。"
+msgstr ""
+
+#. ID 3, Page 2, Line 84, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 86, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"人々の記憶より薄れながら、\n"
+"\"彼ら\"はずっとディザスティアの核で眠っていた…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 89, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ガイアキャンサーの、11体目と12体目。"
+msgstr ""
+
+#. ID 3, Page 2, Line 91, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"恐らくエンデがディザスティアの核を蘇生させて、\n"
+"それに伴ってこの両者もまた眠りから醒めた。"
+msgstr ""
+
+#. ID 3, Page 2, Line 94, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"或いは逆に、この両者を蘇生させる事で\n"
+"核自体も蘇生させたか…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 97, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"何れにせよC.M.G.C.は大騒ぎね。\\.\\.\n"
+"行き成り新規ガイアキャンサーを２体もキャッチして。"
+msgstr ""
+
+#. ID 3, Page 2, Line 103, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも…\\.\\.待って。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 105, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"さっきエスメラルダを呼び出したの、\\.\\.\n"
+"よく考えればエンデとは違う人物だったわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 108, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そう言えば…。\\|\n"
+"明らかにエンデとは違う男性の声だったような…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 114, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"妙ね…。\\|\n"
+"ガイアキャンサーの召喚は実行者特権なのよ？"
+msgstr ""
+
+#. ID 3, Page 2, Line 117, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"エンデにのみ許されて…。\\|\n"
+"エンデだけが為し得て…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 120, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そしてエンデ以外の何者も、\\.\\.\n"
+"絶対に為す事の出来ない業…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 126, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"じゃあ…\\.\\.あの男性の声は？"
+msgstr ""
+
+#. ID 3, Page 2, Line 128, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\"彼\"がエスメラルダを呼び出したのは、\n"
+"覆せない事実なのよ？"
+msgstr ""
+
+#. ID 3, Page 2, Line 136, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"分からない…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 138, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"唯一つ言えるのは、\\.\\.私達の想像を超えた何かが、\n"
+"この奥で起きているという事。"
+msgstr ""
+
+#. ID 3, Page 2, Line 141, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう…。\\|運命の変曲点…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 147, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"立ち止まって何を考えるよりも、\\.\\.\n"
+"先に進む以外に無さそうね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 150, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ええ。\\.\\.其処に何が待ち受けていようとも。"
+msgstr ""
+
+#. ID 3, Page 2, Line 159, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"エンデとその同胞。\\|\n"
+"復活したディザスティアの核。"
+msgstr ""
+
+#. ID 3, Page 2, Line 162, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"新たなる２体のガイアキャンサー。\\|\n"
+"それを呼び出してみせた、\"エンデではない\"何者か。"
+msgstr ""
+
+#. ID 3, Page 2, Line 168, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"この奥で…\\|何が私達を待っているというのか…。"
+msgstr ""
+

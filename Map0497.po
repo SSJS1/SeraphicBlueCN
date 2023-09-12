@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 18, Page 1, Line 6, Pos (0,0)
+msgid ""
+"男性(真中)：\n"
+"本当に爆弾が仕掛けられているのか？"
+msgstr ""
+
+#. ID 18, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、\\.\\.恐らく。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 17, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"これは…！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"見付かったの!?\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"\\S[3]空振りだ…！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"\\S[3]この船に…\\.\\.爆弾は無い…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 49, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"大変だッ！\\.\\.\n"
+"別の船で自律型の妙な爆弾が見付かったらしい！"
+msgstr ""
+
+#. ID 18, Page 1, Line 52, Pos (0,0)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"撤退するのよ！ \\.\\.今ならまだ…！\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 59, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"ダメだ…！\\.\\.\n"
+"全機の航行システムが乗っ取られちまった…！"
+msgstr ""
+
+#. ID 18, Page 1, Line 65, Pos (0,0)
+msgid ""
+"男性(上)：\n"
+"\\S[2]逃げられないんだよォ…！\\|\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[5]そんな…。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 88, Pos (0,0)
+msgid ""
+"\\>\\C[10]【ヒント】\\C[0]\n"
+"機体を選択する際に、\n"
+"焦らず少し時間を置いてみてください。"
+msgstr ""
+
+#. ID 18, Page 1, Line 91, Pos (0,0)
+msgid ""
+"\\>\\C[10]【ヒント】\\C[0]\n"
+"誰かが何か重要なヒントを思い付くかも知れません。"
+msgstr ""
+

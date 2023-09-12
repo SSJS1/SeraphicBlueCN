@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (1,14)
+msgid ""
+"男性：\n"
+"こっちは工業区画用の資材搬入口なんでな、\n"
+"悪いけど通行禁止だ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 3, Pos (32,32)
+#. ID 8, Page 3, Line 3, Pos (32,32)
+msgid ""
+"船乗り：\n"
+"此処はユヴェス行きの船着場だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 3, Pos (32,32)
+msgid ""
+"船乗り：\n"
+"ユヴェス行きの船だ。\n"
+"一人\\_600\\_ディアだが、乗るかね？"
+msgstr ""
+
+#. ID 8, Page 2, Line 20, Pos (32,32)
+#. Choice (2 options)
+msgid ""
+"乗船する\n"
+"乗船しない"
+msgstr ""
+
+#. ID 8, Page 2, Line 40, Pos (32,32)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\C[19]【スキップ確認】\n"
+"\\C[0]東部大陸港まで一気に移動しますか？"
+msgstr ""
+
+#. ID 8, Page 2, Line 42, Pos (32,32)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 8, Page 2, Line 93, Pos (32,32)
+#. Contains choice at line 2 (1 options)
+msgid "※所持金が足りません。"
+msgstr ""
+
+#. ID 8, Page 2, Line 94, Pos (32,32)
+#. Choice (1 options, embedded in a message)
+msgid "乗船しない"
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (4,28)
+msgid ""
+"男性：\n"
+"摘み食いしてぇー。"
+msgstr ""
+
+#. ID 10, Page 1, Line 42, Pos (29,35)
+msgid ""
+"ニクソン：\n"
+"それでも…。\\.\\.私はこの場所に来た…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 44, Pos (29,35)
+msgid ""
+"ニクソン：\n"
+"それでも…。\\.\\.\n"
+"私は此処から引き返そうとしない…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 47, Pos (29,35)
+msgid ""
+"ニクソン：\n"
+"幾らでも引き返せるというのに、\\.\\.\n"
+"唯一点を見据えている。"
+msgstr ""
+
+#. ID 10, Page 1, Line 50, Pos (29,35)
+msgid ""
+"ニクソン：\n"
+"天空の大陸を突き刺す、\\.\\.あの摩天楼を。"
+msgstr ""
+
+#. ID 10, Page 1, Line 56, Pos (29,35)
+msgid ""
+"ニクソン：\n"
+"\\S[2]そして…\\|私は堕ちて行く…。\\|\\|\\^"
+msgstr ""
+

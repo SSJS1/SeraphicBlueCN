@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 15, Page 1, Line 28, Pos (7,3)
+#. ID 15, Page 1, Line 76, Pos (7,3)
+msgid ""
+"\\>\\C[10]【セキュリティ解除】\\C[0]\n"
+"＞屋外連絡通路を開放します。"
+msgstr ""
+
+#. ID 15, Page 1, Line 43, Pos (7,3)
+msgid ""
+"カーチス：\n"
+"此処のセキュリティも、\n"
+"確か私の網膜パターンで解除出来た筈…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 52, Pos (7,3)
+msgid ""
+"\\>\\C[10]【網膜パターンスキャニング】\\C[0]\n"
+"＞網膜パターンをスキャンしました。\n"
+"＞データベースと照合します。"
+msgstr ""
+
+#. ID 15, Page 1, Line 58, Pos (7,3)
+msgid ""
+"\\>\\C[10]【網膜パターンスキャニング】\\C[0]\n"
+"＞照合完了。\n"
+"＞ようこそカーチス･ハミルトンさん。"
+msgstr ""
+
+#. ID 15, Page 1, Line 65, Pos (7,3)
+msgid ""
+"カーチス：\n"
+"良し、\\.\\.これで…。\\|\\^"
+msgstr ""
+

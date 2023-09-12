@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 4, Pos (4,8)
+#. Contains choice at line 2 (2 options)
+#. ID 3, Page 1, Line 3, Pos (9,8)
+#. Contains choice at line 2 (2 options)
+msgid "※崖下は丁度池になっている…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 5, Pos (4,8)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 1, Line 4, Pos (9,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"飛び降りる\n"
+"何もしない"
+msgstr ""
+

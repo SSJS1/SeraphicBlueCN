@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 26, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"これが爆弾ッ…!?\\|\\^"
+msgstr ""
+
+#. ID 26, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"想像以上だわ…！\\.\\.\n"
+"自律型兵器として此処までだなんて…！"
+msgstr ""
+
+#. ID 26, Page 1, Line 37, Pos (0,0)
+msgid ""
+"レイク：\n"
+"この野郎をブッ倒さない限り、\n"
+"解除も投げ捨ても出来ないって事か…！"
+msgstr ""
+
+#. ID 26, Page 1, Line 40, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ジジイの悪趣味も然る事ながら、\n"
+"開発者の顔も拝みたいぜ！"
+msgstr ""
+
+#. ID 26, Page 1, Line 46, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ヤるかい御嬢さん？\\.\\.\n"
+"敵は手強いよ？"
+msgstr ""
+
+#. ID 26, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"当然ッ…！\\|\\^"
+msgstr ""
+
+#. ID 26, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"絶対に止めるッ！\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 61, Pos (0,0)
+msgid ""
+"レイク：\n"
+"やったか…！\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 72, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 74, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"ミネルヴァ様!!\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 101, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ハウゼン！\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 104, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"来るなッ！\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 109, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[5]ハウゼン…？\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 114, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"悪趣味な代物で御座います。"
+msgstr ""
+
+#. ID 26, Page 2, Line 119, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"この爆弾、如何やら敗北を察知すると\n"
+"道連れを作る仕掛けに成っているようです。"
+msgstr ""
+
+#. ID 26, Page 2, Line 122, Pos (0,0)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 127, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"でも…！ \\.\\.何とか引き剥がせば…！"
+msgstr ""
+
+#. ID 26, Page 2, Line 129, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"それは出来ません。"
+msgstr ""
+
+#. ID 26, Page 2, Line 131, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"抵抗に反応して即座に爆発し、\n"
+"周囲の人間までも巻き込んでしまうでしょう。"
+msgstr ""
+
+#. ID 26, Page 2, Line 134, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それじゃあ如何するの！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 140, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[3]ハウゼン…。\\|\n"
+"アンタまさか…！\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 148, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"私ごと、\\.\\.この爆弾を投棄します。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 153, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[5]何言ってるのよ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 158, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"申し訳御座いません、\\.\\.ミネルヴァ様。"
+msgstr ""
+
+#. ID 26, Page 2, Line 160, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"この時を以ってフェジテセイヴァーの任を辞する事、\n"
+"如何か御許しください。"
+msgstr ""
+
+#. ID 26, Page 2, Line 166, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[3]お願い…。\\|\n"
+"そんな事言わないで…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 172, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"御別れです。\\|ミネルヴァ様。\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 174, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"貴方と過ごした日々、\\.\\.\n"
+"大変に楽しく御座いました。"
+msgstr ""
+
+#. ID 26, Page 2, Line 180, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"\\S[3]御元気で。\\|\\^"
+msgstr ""
+

@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 28, Page 1, Line 16, Pos (9,12)
+msgid ""
+"ヴェーネ：\n"
+"これが…\\.\\.最後のガイアキャンサー…！"
+msgstr ""
+
+#. ID 28, Page 1, Line 18, Pos (9,12)
+msgid ""
+"ヴェーネ：\n"
+"此奴を倒せば、\\.\\.\n"
+"遂にエンデとの最後の戦いが…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 29, Pos (9,12)
+msgid ""
+"ヴェーネ：\n"
+"待ってなさい、\\.\\.エンデ！\\|\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 16, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"これで…\\.\\.10体…。\\|\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 18, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"全てのガイアキャンサーを倒した…。"
+msgstr ""
+
+#. ID 29, Page 1, Line 25, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"残るは、\\.\\.エンデ唯一人…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 30, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]さあ…！ \\.\\.来なさい…！\\|\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 40, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………？\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 45, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]来ない…？\\|\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 58, Pos (5,12)
+msgid ""
+"ヤンシー：\n"
+"来ないわね。\\|\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 63, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"おかしい…。\\|こんな筈じゃあ…。"
+msgstr ""
+
+#. ID 29, Page 1, Line 65, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"ガイアキャンサーを全部潰されて、\n"
+"奴が黙っているなんて…。"
+msgstr ""
+
+#. ID 29, Page 1, Line 71, Pos (5,12)
+msgid ""
+"フォクシー：\n"
+"御苦労さん。\\.\\.能く頑張ったね。"
+msgstr ""
+
+#. ID 29, Page 1, Line 73, Pos (5,12)
+msgid ""
+"フォクシー：\n"
+"とか言ってナメた口でも叩きながら\n"
+"出て来るモンとばかり。"
+msgstr ""
+
+#. ID 29, Page 1, Line 79, Pos (5,12)
+msgid ""
+"ニクソン：\n"
+"若しかしたら、\\.\\.\n"
+"此処から離れた別の場所で何らかの行動を\n"
+"起こしているかも知れませんね。"
+msgstr ""
+
+#. ID 29, Page 1, Line 86, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"そう考えるしか無いわね…。"
+msgstr ""
+
+#. ID 29, Page 1, Line 93, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"エンデ…。\\|一体何の心算なの…？\\|\\|\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 102, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"ガイアキャンサーを全て潰されたというのに、\n"
+"一向に現れる気配の無いエンデ。"
+msgstr ""
+
+#. ID 29, Page 1, Line 105, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"止む無く私達はラウレンティアを後にし、\n"
+"本部へと撤収。"
+msgstr ""
+
+#. ID 29, Page 1, Line 108, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"奴の動向を探る事にした…。"
+msgstr ""
+
+#. ID 29, Page 1, Line 113, Pos (5,12)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]だが…。\\|\\^"
+msgstr ""
+

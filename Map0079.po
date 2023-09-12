@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 4, Pos (8,32)
+msgid ""
+"独り言の多い女性：\n"
+"（ぶつぶつ…）仕方無いなぁ…適当に時間潰すか…。"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (11,8)
+msgid ""
+"海の男：\n"
+"この先を進むとサルベージポートだ。\n"
+"サルベージ船が多数停泊している。"
+msgstr ""
+
+#. ID 19, Page 1, Line 6, Pos (11,8)
+msgid ""
+"海の男：\n"
+"尤も、中に入るには此処で\n"
+"サルベージャー登録をしないといけないんだがな。"
+msgstr ""
+
+#. ID 20, Page 1, Line 3, Pos (16,36)
+msgid ""
+"女性：\n"
+"此処の街並みって、\n"
+"思ったよりも整ってるわね。"
+msgstr ""
+
+#. ID 20, Page 1, Line 6, Pos (16,36)
+msgid ""
+"女性：\n"
+"幾らロビンに依る復興が進んだとは言え、\n"
+"サルベージャーが集まって作られた街でしょ？"
+msgstr ""
+
+#. ID 20, Page 1, Line 9, Pos (16,36)
+msgid ""
+"女性：\n"
+"もっと雑然としたのを想像してたのよ。"
+msgstr ""
+

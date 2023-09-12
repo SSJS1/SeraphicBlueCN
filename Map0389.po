@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 15, Page 1, Line 15, Pos (17,31)
+msgid ""
+"ニクソン：\n"
+"レイク…！ \\|生きていたのですね…！"
+msgstr ""
+
+#. ID 15, Page 1, Line 17, Pos (17,31)
+msgid ""
+"ニクソン：\n"
+"それにヴェーネ達まで一緒に…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 22, Pos (17,31)
+msgid ""
+"ニクソン：\n"
+"この戦争…。\\|若しや…。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 31, Pos (17,31)
+msgid ""
+"ヤンシー：\n"
+"何ですって…!?\\.\\.\n"
+"あの中にヴェーネが居るの…!?"
+msgstr ""
+
+#. ID 15, Page 1, Line 35, Pos (17,31)
+msgid ""
+"ドリス：\n"
+"うん、\\.\\.ヴェーネおネエちゃん。"
+msgstr ""
+
+#. ID 15, Page 1, Line 37, Pos (17,31)
+msgid ""
+"ヤンシー：\n"
+"どの人？\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 42, Pos (17,31)
+msgid ""
+"ドリス：\n"
+"アオいカミのおネエちゃん。"
+msgstr ""
+
+#. ID 15, Page 1, Line 47, Pos (17,31)
+msgid ""
+"ヤンシー：\n"
+"何なのよ…\\.\\.これ…。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 49, Pos (17,31)
+msgid ""
+"ヤンシー：\n"
+"何で選りに選ってフェジテの襲撃部隊に…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 62, Pos (17,31)
+msgid ""
+"\n"
+"諸君、御覧の通り。\\|\n"
+"これがフェジテの遣り方だ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 65, Pos (17,31)
+msgid ""
+"\n"
+"今まで私を犬の様に飼い慣らした心算で、\n"
+"その犬が一度でも噛み付こうとすればこの有様。"
+msgstr ""
+
+#. ID 15, Page 1, Line 68, Pos (17,31)
+msgid ""
+"\n"
+"嗜めようともせず。\\|\n"
+"言って聞かせようともせず。\\|\n"
+"まして叩いて分からせようともせず。"
+msgstr ""
+
+#. ID 15, Page 1, Line 72, Pos (17,31)
+msgid ""
+"\n"
+"即時に殺す。\\.\\.仰々しく野蛮な手段に訴えてな。"
+msgstr ""
+
+#. ID 15, Page 1, Line 75, Pos (17,31)
+msgid ""
+"\n"
+"そう、\\.\\.フェジテは我々パーソンに対し、\n"
+"犬畜生程の権利すらも認めてはいない。"
+msgstr ""
+
+#. ID 15, Page 1, Line 78, Pos (17,31)
+msgid ""
+"\n"
+"見掛ければ即ち殺す。\\|まるでゴキブリの扱いだ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 81, Pos (17,31)
+msgid ""
+"\n"
+"ところで諸君は、\\.\\.フェジテの人間がこのグラウンドを\n"
+"何と呼んでいるか御存じかな？"
+msgstr ""
+
+#. ID 15, Page 1, Line 85, Pos (17,31)
+msgid ""
+"\n"
+"\\S[3]ゴミ溜めだ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 88, Pos (17,31)
+msgid ""
+"\n"
+"まあ成る程とは思うだろう。"
+msgstr ""
+
+#. ID 15, Page 1, Line 90, Pos (17,31)
+msgid ""
+"\n"
+"実際にこの20年間、我々の住まう大地は\n"
+"イーヴルを棄てるゴミ溜めにされたのだから。"
+msgstr ""
+
+#. ID 15, Page 1, Line 95, Pos (17,31)
+msgid ""
+"\n"
+"繰り返しに成るが、\\.\\.\n"
+"フェジテは我々に犬畜生程の権利も認めてはいない。"
+msgstr ""
+
+#. ID 15, Page 1, Line 98, Pos (17,31)
+msgid ""
+"\n"
+"それは一部の支配者階級に留まらず、\\.\\.\n"
+"言うなればフェジテ全土のモラルとして根付いている。"
+msgstr ""
+
+#. ID 15, Page 1, Line 101, Pos (17,31)
+msgid ""
+"\n"
+"セラパーソンこそ世界を動かす優良の種。\\|\n"
+"パーソンこそゴミ溜めに徘徊する劣等の種。"
+msgstr ""
+
+#. ID 15, Page 1, Line 104, Pos (17,31)
+msgid ""
+"\n"
+"家庭教育や初等教育に於いても、\n"
+"世界のルールとしてこの認識を植え付けて憚らない。"
+msgstr ""
+
+#. ID 15, Page 1, Line 107, Pos (17,31)
+msgid ""
+"\n"
+"世界はセラパーソンの為に在り。\\|\n"
+"世界はセラパーソンの所有物。"
+msgstr ""
+
+#. ID 15, Page 1, Line 110, Pos (17,31)
+msgid ""
+"\n"
+"そして我々パーソンは、\\.\\.其処に集まるゴキブリ共。"
+msgstr ""
+
+#. ID 15, Page 1, Line 112, Pos (17,31)
+msgid ""
+"\n"
+"これこそセラパーソンが世界に与える、規則と公理だ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 114, Pos (17,31)
+msgid ""
+"\n"
+"セラパーソンが我々に与える、\\.\\.支配を超えた蹂躙だ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 117, Pos (17,31)
+msgid ""
+"\n"
+"諸君はこれを、是として受容するのか？"
+msgstr ""
+
+#. ID 15, Page 1, Line 119, Pos (17,31)
+msgid ""
+"\n"
+"否ッ…！ \\|それは絶対に在ってはならぬ事。"
+msgstr ""
+
+#. ID 15, Page 1, Line 121, Pos (17,31)
+msgid ""
+"\n"
+"何故ならば、\\.\\.我々は\"人\"で在るからだ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 123, Pos (17,31)
+msgid ""
+"\n"
+"人で在る、\\.\\.その事に関する、\\.\\.\n"
+"権利と責任を有している。"
+msgstr ""
+
+#. ID 15, Page 1, Line 126, Pos (17,31)
+msgid ""
+"\n"
+"それが何で在るのかは、\\.\\.言うまでもなかろう。"
+msgstr ""
+
+#. ID 15, Page 1, Line 129, Pos (17,31)
+msgid ""
+"\n"
+"ならば今こそ！ \\.\\.それを体現しようではないか…！"
+msgstr ""
+
+#. ID 15, Page 1, Line 133, Pos (17,31)
+msgid ""
+"\n"
+"確かにフェジテには、\n"
+"我々を遥かに凌駕する圧倒的な力が在る。"
+msgstr ""
+
+#. ID 15, Page 1, Line 136, Pos (17,31)
+msgid ""
+"\n"
+"だがその力は、転化可能な物だ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 138, Pos (17,31)
+msgid ""
+"\n"
+"即ち、私は今までの過程に於いて\n"
+"フェジテの技術を余す所無く吸収し…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 141, Pos (17,31)
+msgid ""
+"\n"
+"そしてまた時には、\n"
+"フェジテの優れた人材をも引き抜き…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 144, Pos (17,31)
+msgid ""
+"\n"
+"今此処にッ！\\|\n"
+"フェジテを撃ち滅ぼせるだけの牙を携えている。"
+msgstr ""
+
+#. ID 15, Page 1, Line 147, Pos (17,31)
+msgid ""
+"\n"
+"だが！ \\.\\.その牙は余りにも大きい！\\|\n"
+"私一人だけでは到底扱えない代物だ！"
+msgstr ""
+
+#. ID 15, Page 1, Line 151, Pos (17,31)
+msgid ""
+"\n"
+"ならば貸しては呉れぬか！ \\|諸君らの力を！"
+msgstr ""
+
+#. ID 15, Page 1, Line 153, Pos (17,31)
+msgid ""
+"\n"
+"皆で力を合わせ一匹の獣と化し！\\|\n"
+"その牙を誇り高く天に剥こう！"
+msgstr ""
+
+#. ID 15, Page 1, Line 156, Pos (17,31)
+msgid ""
+"\n"
+"フェジテの心臓に深々と喰らい付き！\\|\n"
+"奴らの倒れる姿を共に見よう！"
+msgstr ""
+
+#. ID 15, Page 1, Line 159, Pos (17,31)
+msgid ""
+"\n"
+"示すのだッ！\\|\n"
+"我々が人で在る、\\.\\.その事の権利と責任を！"
+msgstr ""
+
+#. ID 15, Page 1, Line 163, Pos (17,31)
+msgid ""
+"\n"
+"正道は我らに在り！\\|\n"
+"フェジテからの輝かしき解放をこの手に！"
+msgstr ""
+
+#. ID 15, Page 1, Line 166, Pos (17,31)
+msgid ""
+"\n"
+"諸君！ \\|今こそ蜂起の時だ！"
+msgstr ""
+
+#. ID 15, Page 1, Line 168, Pos (17,31)
+msgid ""
+"\n"
+"私に集え！ \\|私と共に勝ち抜こう！"
+msgstr ""
+
+#. ID 15, Page 1, Line 170, Pos (17,31)
+msgid ""
+"\n"
+"これぞ我々が人で在る為の、大いなる聖戦！"
+msgstr ""
+
+#. ID 15, Page 1, Line 172, Pos (17,31)
+msgid ""
+"\n"
+"                 解放戦争であるッ!!\\|\\.\\.\\^"
+msgstr ""
+

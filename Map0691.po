@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 26, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"ようこそ。\\.\\.ラージュの鉄槌へ。"
+msgstr ""
+
+#. ID 26, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]ハイディ…！\\|\\^"
+msgstr ""
+
+#. ID 26, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"如何いう事かしら。"
+msgstr ""
+
+#. ID 26, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"私とフョードルを送り出して何処に消えたかと思えば、\n"
+"まだこんな所に居たとは。"
+msgstr ""
+
+#. ID 26, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"もう用など無い筈よ。"
+msgstr ""
+
+#. ID 26, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"そうは行かないわ。\\.\\.\n"
+"私はこの鉄槌を管理する責任者。"
+msgstr ""
+
+#. ID 26, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"何を言うか。\n"
+"自分でシーベックスに細工しておいて。"
+msgstr ""
+
+#. ID 26, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"フェジテを…\\|助けて呉れるんじゃないの？"
+msgstr ""
+
+#. ID 26, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"まさか。\\|\\^"
+msgstr ""
+
+#. ID 26, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"でも第一撃が外れたのは、確かに貴女の仕業…。"
+msgstr ""
+
+#. ID 26, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"祖国への最後の手心よ。"
+msgstr ""
+
+#. ID 26, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"これで第二撃を阻止出来ないのならば、\n"
+"もう見る\"もの\"は無いわ。"
+msgstr ""
+
+#. ID 26, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"鉄槌で穴だらけにするまで。"
+msgstr ""
+
+#. ID 26, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 26, Page 1, Line 62, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"まるで神様みたいな物言いだね。\\.\\.\n"
+"年増ババアのヒステリーには度が過ぎる。"
+msgstr ""
+
+#. ID 26, Page 1, Line 65, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"顔の小皺の数だけ\n"
+"フェジテに穴でも開けてみるかい？"
+msgstr ""
+
+#. ID 26, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"悪くない案だけど、それじゃあ弾数が足りないわ。"
+msgstr ""
+
+#. ID 26, Page 1, Line 70, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そりゃ失礼。\\|\\^"
+msgstr ""
+
+#. ID 26, Page 1, Line 75, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"飽くまで引かないと言うのね…。"
+msgstr ""
+
+#. ID 26, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"他力本願な。\\|\\^"
+msgstr ""
+
+#. ID 26, Page 1, Line 80, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"好きで好きで仕方無い\n"
+"この現世＜せかい＞なんでしょう？\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 26, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"だったら自分達の手で守り抜く事ね。"
+msgstr ""
+
+#. ID 26, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"今回相手をするのは、\n"
+"この鉄槌防衛用の特別自律兵器。"
+msgstr ""
+
+#. ID 26, Page 1, Line 91, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"鋼鉄の戦女神＜DIE WALKURE＞。"
+msgstr ""
+
+#. ID 26, Page 1, Line 96, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"さてヴィルジニー。\\.\\.\n"
+"人の心を得た戦女神。\\.\\.\n"
+"詰まる所のヴァルキリーフェイク。"
+msgstr ""
+
+#. ID 26, Page 1, Line 100, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"果たして貴女は\"彼女\"に勝って、\n"
+"その生きる道を貫けるのかしら？"
+msgstr ""
+
+#. ID 26, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"見くびられたもの。\n"
+"そんな木偶人形と同列に語られるとは。"
+msgstr ""
+
+#. ID 26, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"それはそれは。\\.\\.御免なさい。\\|\\^"
+msgstr ""
+
+#. ID 26, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"それでは見せて貰おうかしら。\n"
+"ヴァルキリーフェイクの道とやらを。"
+msgstr ""
+
+#. ID 26, Page 1, Line 114, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"そして現世＜せかい＞に執着する者達の\n"
+"哀れな御苦労を…！"
+msgstr ""
+
+#. ID 26, Page 2, Line 9, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"………!?\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 11, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ハイディが居ない…。\\|\n"
+"何時の間に…？"
+msgstr ""
+
+#. ID 26, Page 2, Line 15, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"気にしなくて良いわ。\\.\\.\n"
+"負けを認めたという事よ。"
+msgstr ""
+
+#. ID 26, Page 2, Line 21, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"所詮は度の過ぎたヒステリーだったのかな。"
+msgstr ""
+
+#. ID 26, Page 2, Line 23, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"たった一度のブチキレ。"
+msgstr ""
+
+#. ID 26, Page 2, Line 25, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"しかも意図的に高い食器を避けて\n"
+"安い食器だけをブチ壊す様な、後を引かない奴。"
+msgstr ""
+
+#. ID 26, Page 2, Line 28, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"女とはそういう者なのかしら？"
+msgstr ""
+
+#. ID 26, Page 2, Line 30, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"大体はね。\\|\\^"
+msgstr ""
+
+#. ID 26, Page 2, Line 32, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ではその様に、私の知識に刻んでおくわ。"
+msgstr ""
+
+#. ID 26, Page 2, Line 37, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"まあフョードルならば、\\.\\.\n"
+"全く別の見解を示すのだろうけれど…。"
+msgstr ""
+
+#. ID 26, Page 3, Line 27, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ハードウェアとＯＳの両方を破壊しておいたわ。\n"
+"これでラージュの鉄槌は死んだ。"
+msgstr ""
+
+#. ID 26, Page 3, Line 30, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"次はゲオルクの所ね。"
+msgstr ""
+
+#. ID 26, Page 3, Line 33, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"レイヤー･クオリファイドとレイヤーⅠ･エレベーターの\n"
+"セキュリティも一緒に解除しておいたわ。"
+msgstr ""
+
+#. ID 26, Page 3, Line 38, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"レイヤー･クオリファイドのセキュリティも\n"
+"一緒に解除しておいたわ。"
+msgstr ""
+
+#. ID 26, Page 3, Line 44, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"急ぐわよ。"
+msgstr ""
+
+#. ID 26, Page 3, Line 48, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"急ぐわよ。\\|\\^"
+msgstr ""
+

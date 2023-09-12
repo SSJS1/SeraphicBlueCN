@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 52, Page 1, Line 3, Pos (0,20)
+msgid ""
+"男性：\n"
+"この先は工業区画だ。"
+msgstr ""
+
+#. ID 52, Page 1, Line 5, Pos (0,20)
+msgid ""
+"男性：\n"
+"安全管理の為関係者以外はこっから先には行けない\n"
+"決まりに成ってる。"
+msgstr ""
+
+#. ID 58, Page 1, Line 4, Pos (10,6)
+msgid ""
+"老婆：\n"
+"広大な敷地だろう？"
+msgstr ""
+
+#. ID 58, Page 1, Line 6, Pos (10,6)
+msgid ""
+"老婆：\n"
+"此処は以前、\n"
+"ローズバーググループの本社が在った敷地でね…。"
+msgstr ""
+
+#. ID 58, Page 1, Line 9, Pos (10,6)
+msgid ""
+"老婆：\n"
+"あのどでかい摩天楼が立った後、社屋を取り壊し\n"
+"大きな公園にして一般解放したんだよ。"
+msgstr ""
+
+#. ID 58, Page 1, Line 12, Pos (10,6)
+msgid ""
+"老婆：\n"
+"今じゃすっかり皆の憩いの場さ。"
+msgstr ""
+
+#. ID 58, Page 1, Line 18, Pos (10,6)
+msgid ""
+"老婆：\n"
+"このパークは皆の憩いの場なんだ。"
+msgstr ""
+
+#. ID 58, Page 1, Line 20, Pos (10,6)
+msgid ""
+"老婆：\n"
+"それをゲオルクめ、\n"
+"戦争なんぞの決起集会場にしおってからに。"
+msgstr ""
+
+#. ID 58, Page 1, Line 23, Pos (10,6)
+msgid ""
+"老婆：\n"
+"変わってしまったと言うべきか…。\n"
+"化けの皮が剥がれたと言うべきか…。"
+msgstr ""
+
+#. ID 59, Page 1, Line 3, Pos (12,18)
+msgid ""
+"男性：\n"
+"初めて東部大陸の方から出て来たんですけど、\n"
+"こんな大きい街は見た事が在りません。"
+msgstr ""
+
+#. ID 59, Page 1, Line 6, Pos (12,18)
+msgid ""
+"男性：\n"
+"此処のメインストリートだけで、\n"
+"田舎の何十倍在る事か…。"
+msgstr ""
+
+#. ID 65, Page 1, Line 5, Pos (16,15)
+msgid ""
+"レイク：\n"
+"ガンホリック･マキシムってのは\n"
+"こっちじゃないか…。"
+msgstr ""
+

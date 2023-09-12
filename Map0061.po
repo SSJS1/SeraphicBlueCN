@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (4,3)
+#. ID 2, Page 1, Line 3, Pos (5,6)
+#. ID 3, Page 1, Line 3, Pos (6,9)
+#. ID 4, Page 1, Line 3, Pos (24,9)
+#. ID 33, Page 1, Line 3, Pos (24,3)
+#. ID 34, Page 1, Line 3, Pos (23,6)
+#. ID 35, Page 1, Line 3, Pos (20,9)
+msgid "※石像に文字が刻まれている。"
+msgstr ""
+
+#. ID 1, Page 1, Line 4, Pos (4,3)
+msgid ""
+"\n"
+"        \"Queen\"………例えば此処は女王の冠"
+msgstr ""
+
+#. ID 2, Page 1, Line 4, Pos (5,6)
+msgid ""
+"\n"
+"       \"Angel\"………例えば此処は天使の上天"
+msgstr ""
+
+#. ID 3, Page 1, Line 4, Pos (6,9)
+msgid ""
+"\n"
+"    \"Zephyr\"………例えば此処は西風の始まる場所"
+msgstr ""
+
+#. ID 4, Page 1, Line 4, Pos (24,9)
+msgid ""
+"\n"
+"   \"Mirror\"………写し鏡は在らざる半身を写し出す"
+msgstr ""
+
+#. ID 33, Page 1, Line 4, Pos (24,3)
+msgid ""
+"\n"
+"   \"Past\"………例えば此処は過去を読み出す場所"
+msgstr ""
+
+#. ID 34, Page 1, Line 4, Pos (23,6)
+msgid ""
+"\n"
+"     \"Lasting\"………例えば此処は永続の先駆け"
+msgstr ""
+
+#. ID 35, Page 1, Line 4, Pos (20,9)
+msgid ""
+"\n"
+"     \"Memory\"………例えば此処は思い出の最初"
+msgstr ""
+

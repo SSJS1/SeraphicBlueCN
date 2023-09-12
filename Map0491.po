@@ -1,0 +1,543 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何時も…。\\|独りなのね…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"だって、\\.\\.みんなワタシのコトきらいだから…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"嫌われる様な事…\\.\\.何かした？"
+msgstr ""
+
+#. ID 3, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ううん。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 23, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう、貴女は何もしていない。\\|\n"
+"只此処に在るだけ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ワタシは居ないほうが良いんだって。"
+msgstr ""
+
+#. ID 3, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"誰が言ったの？"
+msgstr ""
+
+#. ID 3, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ママ…。\\|\n"
+"すこしマエまで、ママだったヒト…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"貴女は…\\.\\.此処に居て良いのよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"でも、\\.\\.みんなが…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"気に掛ける事は無いわ。\\.\\.\n"
+"寧ろ彼らは哀れな存在。"
+msgstr ""
+
+#. ID 3, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"アワれな、\\.\\.ソンザイ…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"子供らしく遊ぶ事もせずに勉強して、\n"
+"優秀なエリートとして此処に入学して来た。"
+msgstr ""
+
+#. ID 3, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"しかし其処で貴女の存在を知る。"
+msgstr ""
+
+#. ID 3, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"努力に依って到達し得ない世界の高み。\\|\n"
+"天賦の才という名のリアル。"
+msgstr ""
+
+#. ID 3, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そして自らをエリートと自負し、\n"
+"決して凡才の集団に迎合出来ないスタイル。"
+msgstr ""
+
+#. ID 3, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"平凡な世界に居座る事も出来ず、\\.\\.\n"
+"そして真なる高みに行く事も出来ず。"
+msgstr ""
+
+#. ID 3, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そして中途半端なエリート達は、\n"
+"天才で在る貴女に嫉妬する。"
+msgstr ""
+
+#. ID 3, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"すればする程に自分の負けを刻む事を、\n"
+"知ってか知らずか。"
+msgstr ""
+
+#. ID 3, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう、\\.\\.彼らは哀れな存在。"
+msgstr ""
+
+#. ID 3, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"大地に根を張れず。\\.\\.\n"
+"大空を飛べず。"
+msgstr ""
+
+#. ID 3, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それらを厭い、\\.\\.それらに厭われる、\\.\\.流浪の種子。"
+msgstr ""
+
+#. ID 3, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"だから、気に掛ける事は無いわ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そんな先行き暗い連中など相手にせず、\n"
+"自分の高みを歩くのよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 92, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"貴女には、\\.\\.明るい未来が在るのだから。"
+msgstr ""
+
+#. ID 3, Page 1, Line 97, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"それって、\\.\\.どんなミライ？"
+msgstr ""
+
+#. ID 3, Page 1, Line 99, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そうね…。\\.\\.\n"
+"敢えて一言で言うのなら…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 105, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"少なくとも塵には成らずに済む、と。"
+msgstr ""
+
+#. ID 3, Page 2, Line 7, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おネエちゃん、\\.\\.ここで暮らしてるの？"
+msgstr ""
+
+#. ID 3, Page 2, Line 9, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"一応はね。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 11, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"平日は寮内の\"特別室\"に寝泊りして、\n"
+"週末は帰るの。"
+msgstr ""
+
+#. ID 3, Page 2, Line 17, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おウチ、\\.\\.どこなの？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 22, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"郊外に在るC.M.G.C.居住施設。"
+msgstr ""
+
+#. ID 3, Page 2, Line 24, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"正確に言えば、家ではないのだけれど。"
+msgstr ""
+
+#. ID 3, Page 2, Line 29, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"それじゃあ、\\.\\.\n"
+"おネエちゃんもおウチが無いの？"
+msgstr ""
+
+#. ID 3, Page 2, Line 32, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ワタシとおんなじ…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 38, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そうね。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 40, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"最初から持っていないか、\n"
+"中途より失うかの相違も在るけれど。"
+msgstr ""
+
+#. ID 3, Page 2, Line 43, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私には、\\.\\.帰るべき所なんて、\\.\\.何処にも無い。"
+msgstr ""
+
+#. ID 3, Page 2, Line 45, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"敢えて一つだけ留保するとすれば、\n"
+"オーグ以外には。"
+msgstr ""
+
+#. ID 3, Page 2, Line 48, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"オーグ？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 50, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"C.M.G.C.と犬猿の仲の民間組織。\n"
+"ガイアキャンサーと戦っているの。"
+msgstr ""
+
+#. ID 3, Page 2, Line 53, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"じゃあおネエちゃんは、オーグにはいりたいの？"
+msgstr ""
+
+#. ID 3, Page 2, Line 55, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そうじゃないわ。\\|\n"
+"\"彼\"の元に行きたいのよ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 58, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私の前世＜パーソン＞の魂の残響。\\|\n"
+"美しく温かく、\\.\\.悲しく冷たい、\\.\\.人の情感。"
+msgstr ""
+
+#. ID 3, Page 2, Line 61, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私の意志というよりは寧ろ\n"
+"\"彼女\"の意志なのかも知れないけれど…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 64, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私はオーグへ赴きたい。"
+msgstr ""
+
+#. ID 3, Page 2, Line 66, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そしてグラウンドに赴いて、\n"
+"姿形の変わり切った\"あの子\"に会いたい。"
+msgstr ""
+
+#. ID 3, Page 2, Line 69, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"その気持ちが、\\.\\.\n"
+"今の私の唯一の生存理由＜モチベーション＞。"
+msgstr ""
+
+#. ID 3, Page 2, Line 75, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ふぅん…。\\|\n"
+"ナンだかムズカしいよ…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 81, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ドリスは、\\.\\.帰りたい場所は在る？"
+msgstr ""
+
+#. ID 3, Page 2, Line 83, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"失ってしまった代わりの、\\.\\.\n"
+"新しいお家にしたい場所は在る？"
+msgstr ""
+
+#. ID 3, Page 2, Line 89, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ワタシは…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 99, Pos (0,0)
+msgid ""
+"\n"
+"ちょっと。\\.\\.あそこに居るのってドリスじゃない？"
+msgstr ""
+
+#. ID 3, Page 2, Line 101, Pos (0,0)
+msgid ""
+"\n"
+"例の３人を一瞬で消滅させちまったって言う、\n"
+"あのドリスかよ…！"
+msgstr ""
+
+#. ID 3, Page 2, Line 104, Pos (0,0)
+msgid ""
+"\n"
+"そうよそうよ…！ \\.\\.あの人殺し…！"
+msgstr ""
+
+#. ID 3, Page 2, Line 106, Pos (0,0)
+msgid ""
+"\n"
+"しかもアイツ、知的障害者なんだって。"
+msgstr ""
+
+#. ID 3, Page 2, Line 108, Pos (0,0)
+msgid ""
+"\n"
+"マジで？ \\.\\.それってヤバくねえ？"
+msgstr ""
+
+#. ID 3, Page 2, Line 110, Pos (0,0)
+msgid ""
+"\n"
+"何か眼が合ったら行き成り言い寄られて、\n"
+"そのままブッ殺されんじゃねえか？"
+msgstr ""
+
+#. ID 3, Page 2, Line 113, Pos (0,0)
+msgid ""
+"\n"
+"うわっ。\\.\\.在り得るわよ、それ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 115, Pos (0,0)
+msgid ""
+"\n"
+"近付かねえ方が良いって。\\.\\.\n"
+"あっち行こうぜ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 126, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ワタシは…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 133, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おネエちゃんとイッショに居たい。"
+msgstr ""
+
+#. ID 3, Page 2, Line 135, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おネエちゃんが、\\.\\.ワタシのおウチ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 140, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]そう…。\\|有難う…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 147, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"けれどね、ドリス。"
+msgstr ""
+
+#. ID 3, Page 2, Line 149, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"出来るだけ早く、\\.\\.私以外のお家も見付けてね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 151, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"どうして？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 156, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私は…。\\|\n"
+"誰かの寄る辺、家に成れる様な…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 159, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そんな真っ当な\n"
+"人生を歩める人間じゃないのよ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 169, Pos (0,0)
+msgid ""
+"\n"
+"\\S[2]それからしばらくして、\\.\\.\n"
+"おネエちゃんはアカデミーに来なくなった…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 10, Pos (0,0)
+msgid ""
+"\n"
+"ちょっと、\\.\\.あそこに居るのってドリスじゃない？"
+msgstr ""
+
+#. ID 3, Page 3, Line 12, Pos (0,0)
+msgid ""
+"\n"
+"本当だ。\\.\\.危ないからあっち行こ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 14, Pos (0,0)
+msgid ""
+"\n"
+"まったくよ、何で学長はあんなの置いとくんだ？"
+msgstr ""
+
+#. ID 3, Page 3, Line 16, Pos (0,0)
+msgid ""
+"\n"
+"魔力暴発だか何だか知らないけどさ、\n"
+"どうせ知恵遅れが意味も無く癇癪起こしただけだろ？"
+msgstr ""
+
+#. ID 3, Page 3, Line 19, Pos (0,0)
+msgid ""
+"\n"
+"ったく、冗談じゃねえよ。\\|\n"
+"さっさと居なくなっちまえ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 22, Pos (0,0)
+msgid ""
+"\n"
+"でもさー、\\.\\.これで別の場所に行っても\n"
+"多分同じだよな。"
+msgstr ""
+
+#. ID 3, Page 3, Line 25, Pos (0,0)
+msgid ""
+"\n"
+"そうそう。そういうのって必ず居るのよね。\\|\n"
+"何処に行っても邪魔者にしか成れない奴。"
+msgstr ""
+
+#. ID 3, Page 3, Line 28, Pos (0,0)
+msgid ""
+"\n"
+"それってもう死ぬしか無くねェ？"
+msgstr ""
+
+#. ID 3, Page 3, Line 30, Pos (0,0)
+msgid ""
+"\n"
+"て言うかさっさと死ねって感じ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 32, Pos (0,0)
+msgid ""
+"\n"
+"だよなー。\\.\\.\n"
+"生きてる限りウザいんだからなー。"
+msgstr ""
+
+#. ID 3, Page 3, Line 35, Pos (0,0)
+msgid ""
+"\n"
+"\\S[2]ヒャハハハハハハッ！\\|\\.\\.\\^"
+msgstr ""
+

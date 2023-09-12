@@ -1,0 +1,562 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]私…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]私、\\.\\.やっぱり戻るわ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ヤンシー…？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"此処まで来て今更何を。\\.\\.\n"
+"オーグに助けを求めに行くんだろう？"
+msgstr ""
+
+#. ID 1, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"オーグには二人で行って。"
+msgstr ""
+
+#. ID 1, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"戻って…\\.\\.如何するのです？"
+msgstr ""
+
+#. ID 1, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリスと一緒に捕まるわ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 39, Pos (0,0)
+#. ID 1, Page 1, Line 81, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"独りには…\\.\\.しておけないか。"
+msgstr ""
+
+#. ID 1, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"確かにオーグに助けを求める事は、\n"
+"結果的にドリスを助ける事に繋がる…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"でも、\\.\\.私はその少し先の未来よりも\n"
+"今を重んじる。"
+msgstr ""
+
+#. ID 1, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリスにとっての、\\.\\.\n"
+"闇落ちる、\\.\\.今この瞬間。"
+msgstr ""
+
+#. ID 1, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"見知らぬ他人に捕縛され、\\.\\.\n"
+"どんな残酷な仕打ちを受けるかも知れず。"
+msgstr ""
+
+#. ID 1, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"恐怖と孤独に包まれ、\\.\\.\n"
+"きっと泣き震えている。"
+msgstr ""
+
+#. ID 1, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"あの子を置いては行けない。"
+msgstr ""
+
+#. ID 1, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"今この時、\\.\\.あの子の傍に居てあげたい。"
+msgstr ""
+
+#. ID 1, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"あの子を守りたい…！\\.\\.\n"
+"この生命に代えてでも…！\\|\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"好きにしろ。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"但しそれで自分が血を見る思いをしても、\n"
+"俺は知らん。"
+msgstr ""
+
+#. ID 1, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"自分から死にに行く奴を説得するほど、\n"
+"俺は暇じゃないんでな。"
+msgstr ""
+
+#. ID 1, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"やらせておけ。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"分かりました。"
+msgstr ""
+
+#. ID 1, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"オーグの事は私達が引き受けますから、\n"
+"貴女はドリスの傍に居てあげてください。"
+msgstr ""
+
+#. ID 1, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ドリスには、\\.\\.貴女が必要です。"
+msgstr ""
+
+#. ID 1, Page 1, Line 96, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"有難う。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 99, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]それじゃあ…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"これで良かったのでしょうか…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 108, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"お前だって、少し前まで子供が居ただろう？"
+msgstr ""
+
+#. ID 1, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"しかし彼女は、何かが違う…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"情愛を以って守りたいと言うより、\n"
+"守るという行為へ追い立てられている様な…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 116, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"或いは悲愴で…。\\.\\.\n"
+"或いは自らが救いを求める様な…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"しかし状況が状況だ。\n"
+"本質を云々する余裕も無いだろう。"
+msgstr ""
+
+#. ID 1, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"実際問題としてドリスには\n"
+"一刻も早い助けが必要なのだからな。"
+msgstr ""
+
+#. ID 1, Page 1, Line 126, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"それに、\\.\\.これがあいつの道だ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 128, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"今この時、その行いに嘘偽りが在ったとしても、\n"
+"それが明日への糧に成らないとは言い切れまい？"
+msgstr ""
+
+#. ID 1, Page 1, Line 132, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"\"生\"の泥臭さですか。"
+msgstr ""
+
+#. ID 1, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"何時か呪縛は消えて、\\.\\.其処に何かが残る。"
+msgstr ""
+
+#. ID 1, Page 1, Line 137, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"胸に抱く\"もの\"、\\.\\.辿った道と、\\.\\.生える草花。"
+msgstr ""
+
+#. ID 1, Page 1, Line 140, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"強ち…\\.\\.他人事でも在りませんね。"
+msgstr ""
+
+#. ID 1, Page 1, Line 142, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"そういう事だ。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 146, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私達も行きましょう。"
+msgstr ""
+
+#. ID 1, Page 1, Line 149, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"ああ…。\\.\\.\n"
+"久しぶりに血が騒いでいる。"
+msgstr ""
+
+#. ID 1, Page 1, Line 152, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"早く悪を斬らせろと。"
+msgstr ""
+
+#. ID 1, Page 1, Line 154, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"奇遇ですね。\\.\\.\n"
+"私も同じ気分ですよ。"
+msgstr ""
+
+#. ID 1, Page 2, Line 7, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]おネエちゃん…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 2, Line 10, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"払った犠牲が…\\.\\.余りにも大き過ぎた…。"
+msgstr ""
+
+#. ID 1, Page 2, Line 13, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"今は静かに、\\.\\.皆で祈りましょう。"
+msgstr ""
+
+#. ID 1, Page 2, Line 16, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 2, Line 18, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"勇敢なる戦士ケインとユアンに、\n"
+"永久の安らぎと栄光在れ…。"
+msgstr ""
+
+#. ID 1, Page 2, Line 23, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ユアン…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 2, Line 26, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]お前も…\\.\\.感じてるのか…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 2, Line 29, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ええ…。\\.\\.彼の魂が…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 2, Line 37, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]済まねえな…。\\.\\.\n"
+"こんな思いさせちまって…。"
+msgstr ""
+
+#. ID 1, Page 2, Line 41, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]けど、この魂は未だ消えやしない。"
+msgstr ""
+
+#. ID 1, Page 2, Line 43, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]セラフィックブルーの役割を果たして、\n"
+"この運命に決着を付けるまでは。"
+msgstr ""
+
+#. ID 1, Page 2, Line 47, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]魂だけに成っちまうけど、\\.\\.\n"
+"もう暫く一緒に居させて貰うぜ。"
+msgstr ""
+
+#. ID 1, Page 2, Line 51, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]やっぱり勝手だよ…。\\.\\.あんたは…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 2, Line 54, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]さあ…。\\.\\.私と一緒に…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 2, Line 56, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]貴方の翼を…\\.\\.私と共に…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 2, Line 110, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"かくしてC.M.G.C.本部の決戦は終結した。"
+msgstr ""
+
+#. ID 1, Page 2, Line 112, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"其処には数々の犠牲が払われた。"
+msgstr ""
+
+#. ID 1, Page 2, Line 117, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"試作兵器と共に爆死したケイン。"
+msgstr ""
+
+#. ID 1, Page 2, Line 119, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私達を逃がし、モーガンと共に消えたユアン。"
+msgstr ""
+
+#. ID 1, Page 2, Line 121, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"また、数名の職員の安否が確認出来ていない。"
+msgstr ""
+
+#. ID 1, Page 2, Line 123, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"一応行方不明と扱われてはいるが、\n"
+"逃げ遅れて施設の爆破に巻き込まれたものと\n"
+"見られている。"
+msgstr ""
+
+#. ID 1, Page 2, Line 127, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そしてその中には、私達に協力して呉れた\n"
+"カーチスの名前も入っていた。"
+msgstr ""
+
+#. ID 1, Page 2, Line 130, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"オーウェンは救助活動中の戦闘で負傷したが、\n"
+"爆破寸前で部下に助けられ、辛くもその生命を拾った。"
+msgstr ""
+
+#. ID 1, Page 2, Line 136, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"一方時を同じくして王都ミネルヴァでは、\n"
+"オーウェンの名の下に集った反モーガンの部隊が\n"
+"フェジテ城への突入を決行。"
+msgstr ""
+
+#. ID 1, Page 2, Line 140, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"折りしもモーガン敗北の報を受けて意気消沈していた\n"
+"反逆派の人間を難無く制圧し、城の奪還に成功する。"
+msgstr ""
+
+#. ID 1, Page 2, Line 147, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"その後、モーガンの身辺に関する調査が開始された。\n"
+"特別調査班の組織を経て実動に至るまで\n"
+"半日掛からない早業で在る。"
+msgstr ""
+
+#. ID 1, Page 2, Line 151, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"モーガンが\"余計な置き土産\"をしている事を\n"
+"最大限に警戒した結果だろう。"
+msgstr ""
+
+#. ID 1, Page 2, Line 157, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"果たして、置き土産は見付かった。\n"
+"それが\\C[19]禁書\\C[0]で在る。"
+msgstr ""
+
+#. ID 1, Page 2, Line 160, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"この禁書とは、モーガンが極秘裏に進めていた\n"
+"プロジェクトのコードネーム。"
+msgstr ""
+
+#. ID 1, Page 2, Line 163, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"彼は人里離れた僻地に秘密の研究所を所有。\n"
+"不正入手したルシファーに改造を施して\n"
+"\\C[19]ルシファーナイツ\\C[0]なる部隊を構成していたのだ。"
+msgstr ""
+
+#. ID 1, Page 2, Line 167, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"この言わば神をも恐れぬ禁忌。\n"
+"ルシファーに対するこの上無き冒涜。"
+msgstr ""
+
+#. ID 1, Page 2, Line 170, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それを証明するかの様に、各個体のコールネームは\n"
+"ブラスフェミィ(blasphemy：冒涜)で在った。"
+msgstr ""
+
+#. ID 1, Page 2, Line 176, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"政府はこの禁書に関して、\n"
+"その真相を開示せざるを得なかった。"
+msgstr ""
+
+#. ID 1, Page 2, Line 179, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"先のダルムシュタット戦で、大量のルシファーが\n"
+"モーガンの忠実な部下として戦闘を行ったという\n"
+"既成事実が出来上がっていたから。"
+msgstr ""
+
+#. ID 1, Page 2, Line 183, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"以降立て続く世論の追及に対して、\n"
+"これ以外の対処方法が無かったから。"
+msgstr ""
+
+#. ID 1, Page 2, Line 190, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"こうしてエンデを黒幕としてモーガンが企てた\n"
+"フェジテの動乱は、大きな禍根－政府の信用失墜－を\n"
+"残しつつ終焉を迎えたのだった。"
+msgstr ""
+
+#. ID 1, Page 2, Line 194, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"しかしそれですら、\\.\\.\n"
+"星を巡る運命に於いては、ほんの一部。"
+msgstr ""
+
+#. ID 1, Page 2, Line 197, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"エンデとゲオルクの野望。\n"
+"そして大地に異様なる威容を示し続けている\n"
+"ベネディクタ･ティアーズ。"
+msgstr ""
+
+#. ID 1, Page 2, Line 204, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"戦いは、\\.\\.終わらない。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 2, Line 206, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"燃え上がる激しさと凄惨さは、\n"
+"まるで凍て付いた紅蓮の炎の如く…。"
+msgstr ""
+

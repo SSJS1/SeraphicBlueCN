@@ -1,0 +1,3817 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "ダミーデータ"
+msgstr ""
+
+#. ID 1
+#. ID 2
+#. ID 3
+#. ID 4
+#. ID 5
+#. ID 6
+#. ID 7
+#. ID 8
+#. ID 9
+#. ID 10
+#. ID 11
+#. ID 12
+msgctxt "actors.title"
+msgid "――――――"
+msgstr ""
+
+#. ID 2
+msgctxt "actors.name"
+msgid "ヴェーネ"
+msgstr ""
+
+#. ID 3
+msgctxt "actors.name"
+msgid "ユアン"
+msgstr ""
+
+#. ID 4
+msgctxt "actors.name"
+msgid "ケイン"
+msgstr ""
+
+#. ID 5
+msgctxt "actors.name"
+msgid "ミネルヴァ"
+msgstr ""
+
+#. ID 6
+msgctxt "actors.name"
+msgid "フォクシー"
+msgstr ""
+
+#. ID 7
+msgctxt "actors.name"
+msgid "ニクソン"
+msgstr ""
+
+#. ID 8
+msgctxt "actors.name"
+msgid "ドリス"
+msgstr ""
+
+#. ID 9
+msgctxt "actors.name"
+msgid "ヤンシー"
+msgstr ""
+
+#. ID 10
+msgctxt "actors.name"
+msgid "ランサード"
+msgstr ""
+
+#. ID 11
+msgctxt "actors.name"
+msgid "ハウゼン"
+msgstr ""
+
+#. ID 12
+msgctxt "actors.name"
+msgid "ヴィルジニー"
+msgstr ""
+
+#. ID 13
+msgctxt "actors.name"
+msgid "ダミー２"
+msgstr ""
+
+#. ID 14
+msgctxt "actors.name"
+msgid "ダミー３"
+msgstr ""
+
+#. ID 15
+msgctxt "actors.name"
+msgid "ダミー４"
+msgstr ""
+
+#. ID 1
+msgctxt "items.name"
+msgid "ユーズアイテム001"
+msgstr ""
+
+#. ID 2
+msgctxt "items.name"
+msgid "ユーズアイテム002"
+msgstr ""
+
+#. ID 3
+msgctxt "items.name"
+msgid "ユーズアイテム003"
+msgstr ""
+
+#. ID 4
+msgctxt "items.name"
+msgid "ユーズアイテム004"
+msgstr ""
+
+#. ID 5
+msgctxt "items.name"
+msgid "ユーズアイテム005"
+msgstr ""
+
+#. ID 6
+msgctxt "items.name"
+msgid "ユーズアイテム006"
+msgstr ""
+
+#. ID 7
+msgctxt "items.name"
+msgid "ユーズアイテム007"
+msgstr ""
+
+#. ID 8
+msgctxt "items.name"
+msgid "ユーズアイテム008"
+msgstr ""
+
+#. ID 9
+msgctxt "items.name"
+msgid "ユーズアイテム009"
+msgstr ""
+
+#. ID 10
+msgctxt "items.name"
+msgid "ユーズアイテム010"
+msgstr ""
+
+#. ID 11
+msgctxt "items.name"
+msgid "ユーズアイテム011"
+msgstr ""
+
+#. ID 12
+msgctxt "items.name"
+msgid "ユーズアイテム012"
+msgstr ""
+
+#. ID 13
+msgctxt "items.name"
+msgid "ユーズアイテム013"
+msgstr ""
+
+#. ID 14
+msgctxt "items.name"
+msgid "ユーズアイテム014"
+msgstr ""
+
+#. ID 15
+msgctxt "items.name"
+msgid "ユーズアイテム015"
+msgstr ""
+
+#. ID 16
+msgctxt "items.name"
+msgid "ユーズアイテム016"
+msgstr ""
+
+#. ID 17
+msgctxt "items.name"
+msgid "ユーズアイテム017"
+msgstr ""
+
+#. ID 18
+msgctxt "items.name"
+msgid "ユーズアイテム018"
+msgstr ""
+
+#. ID 19
+msgctxt "items.name"
+msgid "ユーズアイテム019"
+msgstr ""
+
+#. ID 20
+msgctxt "items.name"
+msgid "ユーズアイテム020"
+msgstr ""
+
+#. ID 21
+msgctxt "items.name"
+msgid "ユーズアイテム021"
+msgstr ""
+
+#. ID 22
+msgctxt "items.name"
+msgid "ユーズアイテム022"
+msgstr ""
+
+#. ID 23
+msgctxt "items.name"
+msgid "ユーズアイテム023"
+msgstr ""
+
+#. ID 24
+msgctxt "items.name"
+msgid "ユーズアイテム024"
+msgstr ""
+
+#. ID 25
+msgctxt "items.name"
+msgid "ユーズアイテム025"
+msgstr ""
+
+#. ID 26
+msgctxt "items.name"
+msgid "ユーズアイテム026"
+msgstr ""
+
+#. ID 27
+msgctxt "items.name"
+msgid "ユーズアイテム027"
+msgstr ""
+
+#. ID 28
+msgctxt "items.name"
+msgid "ユーズアイテム028"
+msgstr ""
+
+#. ID 29
+msgctxt "items.name"
+msgid "ユーズアイテム029"
+msgstr ""
+
+#. ID 30
+msgctxt "items.name"
+msgid "ユーズアイテム030"
+msgstr ""
+
+#. ID 31
+msgctxt "items.name"
+msgid "ユーズアイテム031"
+msgstr ""
+
+#. ID 32
+msgctxt "items.name"
+msgid "ユーズアイテム032"
+msgstr ""
+
+#. ID 33
+msgctxt "items.name"
+msgid "ユーズアイテム033"
+msgstr ""
+
+#. ID 34
+msgctxt "items.name"
+msgid "ユーズアイテム034"
+msgstr ""
+
+#. ID 35
+msgctxt "items.name"
+msgid "ユーズアイテム035"
+msgstr ""
+
+#. ID 36
+msgctxt "items.name"
+msgid "ユーズアイテム036"
+msgstr ""
+
+#. ID 37
+msgctxt "items.name"
+msgid "ユーズアイテム037"
+msgstr ""
+
+#. ID 38
+msgctxt "items.name"
+msgid "ユーズアイテム038"
+msgstr ""
+
+#. ID 39
+msgctxt "items.name"
+msgid "ユーズアイテム039"
+msgstr ""
+
+#. ID 40
+msgctxt "items.name"
+msgid "ユーズアイテム040"
+msgstr ""
+
+#. ID 41
+msgctxt "items.name"
+msgid "ユーズアイテム041"
+msgstr ""
+
+#. ID 42
+msgctxt "items.name"
+msgid "ユーズアイテム042"
+msgstr ""
+
+#. ID 43
+msgctxt "items.name"
+msgid "ユーズアイテム043"
+msgstr ""
+
+#. ID 44
+msgctxt "items.name"
+msgid "ユーズアイテム044"
+msgstr ""
+
+#. ID 45
+msgctxt "items.name"
+msgid "ユーズアイテム045"
+msgstr ""
+
+#. ID 46
+msgctxt "items.name"
+msgid "ユーズアイテム046"
+msgstr ""
+
+#. ID 47
+msgctxt "items.name"
+msgid "ユーズアイテム047"
+msgstr ""
+
+#. ID 48
+msgctxt "items.name"
+msgid "ユーズアイテム048"
+msgstr ""
+
+#. ID 49
+msgctxt "items.name"
+msgid "ユーズアイテム049"
+msgstr ""
+
+#. ID 50
+msgctxt "items.name"
+msgid "ユーズアイテム050"
+msgstr ""
+
+#. ID 51
+msgctxt "items.name"
+msgid "ユーズアイテム051"
+msgstr ""
+
+#. ID 52
+msgctxt "items.name"
+msgid "ユーズアイテム052"
+msgstr ""
+
+#. ID 53
+msgctxt "items.name"
+msgid "*053 ALTフルヒール"
+msgstr ""
+
+#. ID 54
+msgctxt "items.name"
+msgid "*054 ALTフルヒールＡ"
+msgstr ""
+
+#. ID 55
+msgctxt "items.name"
+msgid "ユーズアイテム055"
+msgstr ""
+
+#. ID 56
+msgctxt "items.name"
+msgid "ユーズアイテム056"
+msgstr ""
+
+#. ID 57
+msgctxt "items.name"
+msgid "ユーズアイテム057"
+msgstr ""
+
+#. ID 58
+msgctxt "items.name"
+msgid "ユーズアイテム058"
+msgstr ""
+
+#. ID 59
+msgctxt "items.name"
+msgid "ユーズアイテム059"
+msgstr ""
+
+#. ID 60
+msgctxt "items.name"
+msgid "ユーズアイテム060"
+msgstr ""
+
+#. ID 61
+msgctxt "items.name"
+msgid "ユーズアイテム061"
+msgstr ""
+
+#. ID 62
+msgctxt "items.name"
+msgid "ユーズアイテム062"
+msgstr ""
+
+#. ID 63
+msgctxt "items.name"
+msgid "ユーズアイテム063"
+msgstr ""
+
+#. ID 64
+msgctxt "items.name"
+msgid "ユーズアイテム064"
+msgstr ""
+
+#. ID 65
+msgctxt "items.name"
+msgid "ユーズアイテム065"
+msgstr ""
+
+#. ID 66
+msgctxt "items.name"
+msgid "ユーズアイテム066"
+msgstr ""
+
+#. ID 67
+msgctxt "items.name"
+msgid "ユーズアイテム067"
+msgstr ""
+
+#. ID 68
+msgctxt "items.name"
+msgid "ユーズアイテム068"
+msgstr ""
+
+#. ID 69
+msgctxt "items.name"
+msgid "ユーズアイテム069"
+msgstr ""
+
+#. ID 70
+msgctxt "items.name"
+msgid "ユーズアイテム070"
+msgstr ""
+
+#. ID 71
+msgctxt "items.name"
+msgid "ユーズアイテム071"
+msgstr ""
+
+#. ID 72
+msgctxt "items.name"
+msgid "ユーズアイテム072"
+msgstr ""
+
+#. ID 73
+msgctxt "items.name"
+msgid "ユーズアイテム073"
+msgstr ""
+
+#. ID 74
+msgctxt "items.name"
+msgid "ユーズアイテム074"
+msgstr ""
+
+#. ID 75
+msgctxt "items.name"
+msgid "ユーズアイテム075"
+msgstr ""
+
+#. ID 76
+msgctxt "items.name"
+msgid "ユーズアイテム076"
+msgstr ""
+
+#. ID 77
+msgctxt "items.name"
+msgid "ユーズアイテム077"
+msgstr ""
+
+#. ID 78
+msgctxt "items.name"
+msgid "ユーズアイテム078"
+msgstr ""
+
+#. ID 79
+msgctxt "items.name"
+msgid "ユーズアイテム079"
+msgstr ""
+
+#. ID 80
+#. ID 81
+msgctxt "items.name"
+msgid "ユーズアイテム080"
+msgstr ""
+
+#. ID 82
+msgctxt "items.name"
+msgid "*ALT フルヒール"
+msgstr ""
+
+#. ID 83
+msgctxt "items.name"
+msgid "*ALT フルヒールＡ"
+msgstr ""
+
+#. ID 90
+msgctxt "items.name"
+msgid "★ラヴェンナ犬 ｽｲｯﾁ"
+msgstr ""
+
+#. ID 99
+msgctxt "items.name"
+msgid "BM ベネディクタ"
+msgstr ""
+
+#. ID 100
+msgctxt "items.name"
+msgid "BM キャサリン"
+msgstr ""
+
+#. ID 101
+msgctxt "items.name"
+msgid "一般アイテム001"
+msgstr ""
+
+#. ID 102
+msgctxt "items.name"
+msgid "一般アイテム002"
+msgstr ""
+
+#. ID 103
+msgctxt "items.name"
+msgid "一般アイテム003"
+msgstr ""
+
+#. ID 104
+msgctxt "items.name"
+msgid "一般アイテム004"
+msgstr ""
+
+#. ID 105
+msgctxt "items.name"
+msgid "一般アイテム005"
+msgstr ""
+
+#. ID 106
+msgctxt "items.name"
+msgid "一般アイテム006"
+msgstr ""
+
+#. ID 107
+msgctxt "items.name"
+msgid "一般アイテム007"
+msgstr ""
+
+#. ID 108
+msgctxt "items.name"
+msgid "一般アイテム008"
+msgstr ""
+
+#. ID 109
+msgctxt "items.name"
+msgid "一般アイテム009"
+msgstr ""
+
+#. ID 110
+msgctxt "items.name"
+msgid "一般アイテム010"
+msgstr ""
+
+#. ID 111
+msgctxt "items.name"
+msgid "一般アイテム011"
+msgstr ""
+
+#. ID 112
+msgctxt "items.name"
+msgid "一般アイテム012"
+msgstr ""
+
+#. ID 113
+msgctxt "items.name"
+msgid "一般アイテム013"
+msgstr ""
+
+#. ID 114
+msgctxt "items.name"
+msgid "一般アイテム014"
+msgstr ""
+
+#. ID 115
+msgctxt "items.name"
+msgid "一般アイテム015"
+msgstr ""
+
+#. ID 116
+msgctxt "items.name"
+msgid "一般アイテム016"
+msgstr ""
+
+#. ID 117
+msgctxt "items.name"
+msgid "一般アイテム017"
+msgstr ""
+
+#. ID 118
+msgctxt "items.name"
+msgid "一般アイテム018"
+msgstr ""
+
+#. ID 119
+msgctxt "items.name"
+msgid "一般アイテム019"
+msgstr ""
+
+#. ID 120
+msgctxt "items.name"
+msgid "一般アイテム020"
+msgstr ""
+
+#. ID 121
+msgctxt "items.name"
+msgid "一般アイテム021"
+msgstr ""
+
+#. ID 122
+msgctxt "items.name"
+msgid "一般アイテム022"
+msgstr ""
+
+#. ID 123
+msgctxt "items.name"
+msgid "一般アイテム023"
+msgstr ""
+
+#. ID 124
+msgctxt "items.name"
+msgid "一般アイテム024"
+msgstr ""
+
+#. ID 125
+msgctxt "items.name"
+msgid "一般アイテム025"
+msgstr ""
+
+#. ID 126
+msgctxt "items.name"
+msgid "一般アイテム026"
+msgstr ""
+
+#. ID 127
+msgctxt "items.name"
+msgid "一般アイテム027"
+msgstr ""
+
+#. ID 128
+msgctxt "items.name"
+msgid "一般アイテム028"
+msgstr ""
+
+#. ID 129
+msgctxt "items.name"
+msgid "一般アイテム029"
+msgstr ""
+
+#. ID 130
+msgctxt "items.name"
+msgid "一般アイテム030"
+msgstr ""
+
+#. ID 131
+msgctxt "items.name"
+msgid "一般アイテム031"
+msgstr ""
+
+#. ID 132
+msgctxt "items.name"
+msgid "一般アイテム032"
+msgstr ""
+
+#. ID 133
+msgctxt "items.name"
+msgid "一般アイテム033"
+msgstr ""
+
+#. ID 134
+msgctxt "items.name"
+msgid "一般アイテム034"
+msgstr ""
+
+#. ID 135
+msgctxt "items.name"
+msgid "一般アイテム035"
+msgstr ""
+
+#. ID 136
+msgctxt "items.name"
+msgid "一般アイテム036"
+msgstr ""
+
+#. ID 137
+msgctxt "items.name"
+msgid "一般アイテム037"
+msgstr ""
+
+#. ID 138
+msgctxt "items.name"
+msgid "一般アイテム038"
+msgstr ""
+
+#. ID 139
+msgctxt "items.name"
+msgid "一般アイテム039"
+msgstr ""
+
+#. ID 140
+msgctxt "items.name"
+msgid "一般アイテム040"
+msgstr ""
+
+#. ID 141
+msgctxt "items.name"
+msgid "一般アイテム041"
+msgstr ""
+
+#. ID 142
+msgctxt "items.name"
+msgid "一般アイテム042"
+msgstr ""
+
+#. ID 143
+msgctxt "items.name"
+msgid "一般アイテム043"
+msgstr ""
+
+#. ID 144
+msgctxt "items.name"
+msgid "一般アイテム044"
+msgstr ""
+
+#. ID 145
+msgctxt "items.name"
+msgid "一般アイテム045"
+msgstr ""
+
+#. ID 146
+msgctxt "items.name"
+msgid "一般アイテム046"
+msgstr ""
+
+#. ID 147
+msgctxt "items.name"
+msgid "一般アイテム047"
+msgstr ""
+
+#. ID 148
+msgctxt "items.name"
+msgid "一般アイテム048"
+msgstr ""
+
+#. ID 149
+msgctxt "items.name"
+msgid "一般アイテム049"
+msgstr ""
+
+#. ID 150
+msgctxt "items.name"
+msgid "一般アイテム050"
+msgstr ""
+
+#. ID 151
+msgctxt "items.name"
+msgid "一般アイテム051"
+msgstr ""
+
+#. ID 152
+msgctxt "items.name"
+msgid "一般アイテム052"
+msgstr ""
+
+#. ID 153
+msgctxt "items.name"
+msgid "一般アイテム053"
+msgstr ""
+
+#. ID 154
+msgctxt "items.name"
+msgid "一般アイテム054"
+msgstr ""
+
+#. ID 155
+msgctxt "items.name"
+msgid "一般アイテム055"
+msgstr ""
+
+#. ID 156
+msgctxt "items.name"
+msgid "一般アイテム056"
+msgstr ""
+
+#. ID 157
+msgctxt "items.name"
+msgid "一般アイテム057"
+msgstr ""
+
+#. ID 158
+msgctxt "items.name"
+msgid "一般アイテム058"
+msgstr ""
+
+#. ID 159
+msgctxt "items.name"
+msgid "一般アイテム059"
+msgstr ""
+
+#. ID 160
+msgctxt "items.name"
+msgid "一般アイテム060"
+msgstr ""
+
+#. ID 161
+msgctxt "items.name"
+msgid "一般アイテム061"
+msgstr ""
+
+#. ID 162
+msgctxt "items.name"
+msgid "一般アイテム062"
+msgstr ""
+
+#. ID 163
+msgctxt "items.name"
+msgid "一般アイテム063"
+msgstr ""
+
+#. ID 164
+msgctxt "items.name"
+msgid "一般アイテム064"
+msgstr ""
+
+#. ID 165
+msgctxt "items.name"
+msgid "一般アイテム065"
+msgstr ""
+
+#. ID 166
+msgctxt "items.name"
+msgid "一般アイテム066"
+msgstr ""
+
+#. ID 167
+msgctxt "items.name"
+msgid "一般アイテム067"
+msgstr ""
+
+#. ID 168
+msgctxt "items.name"
+msgid "一般アイテム068"
+msgstr ""
+
+#. ID 169
+msgctxt "items.name"
+msgid "一般アイテム069"
+msgstr ""
+
+#. ID 170
+msgctxt "items.name"
+msgid "一般アイテム070"
+msgstr ""
+
+#. ID 171
+msgctxt "items.name"
+msgid "一般アイテム071"
+msgstr ""
+
+#. ID 172
+msgctxt "items.name"
+msgid "一般アイテム072"
+msgstr ""
+
+#. ID 173
+msgctxt "items.name"
+msgid "一般アイテム073"
+msgstr ""
+
+#. ID 174
+msgctxt "items.name"
+msgid "一般アイテム074"
+msgstr ""
+
+#. ID 175
+msgctxt "items.name"
+msgid "一般アイテム075"
+msgstr ""
+
+#. ID 176
+msgctxt "items.name"
+msgid "一般アイテム076"
+msgstr ""
+
+#. ID 177
+msgctxt "items.name"
+msgid "一般アイテム077"
+msgstr ""
+
+#. ID 178
+msgctxt "items.name"
+msgid "一般アイテム078"
+msgstr ""
+
+#. ID 179
+msgctxt "items.name"
+msgid "一般アイテム079"
+msgstr ""
+
+#. ID 180
+msgctxt "items.name"
+msgid "一般アイテム080"
+msgstr ""
+
+#. ID 201
+msgctxt "items.name"
+msgid "貴重品001"
+msgstr ""
+
+#. ID 202
+msgctxt "items.name"
+msgid "貴重品002"
+msgstr ""
+
+#. ID 203
+msgctxt "items.name"
+msgid "貴重品003"
+msgstr ""
+
+#. ID 204
+msgctxt "items.name"
+msgid "貴重品004"
+msgstr ""
+
+#. ID 205
+msgctxt "items.name"
+msgid "貴重品005"
+msgstr ""
+
+#. ID 206
+msgctxt "items.name"
+msgid "貴重品006"
+msgstr ""
+
+#. ID 207
+msgctxt "items.name"
+msgid "貴重品007"
+msgstr ""
+
+#. ID 208
+msgctxt "items.name"
+msgid "貴重品008"
+msgstr ""
+
+#. ID 209
+msgctxt "items.name"
+msgid "貴重品009"
+msgstr ""
+
+#. ID 210
+msgctxt "items.name"
+msgid "貴重品010"
+msgstr ""
+
+#. ID 211
+msgctxt "items.name"
+msgid "貴重品011★ガマグチ"
+msgstr ""
+
+#. ID 212
+msgctxt "items.name"
+msgid "貴重品012"
+msgstr ""
+
+#. ID 213
+msgctxt "items.name"
+msgid "貴重品013 ディザ勲章"
+msgstr ""
+
+#. ID 214
+msgctxt "items.name"
+msgid "貴重品014"
+msgstr ""
+
+#. ID 215
+msgctxt "items.name"
+msgid "貴重品015"
+msgstr ""
+
+#. ID 216
+msgctxt "items.name"
+msgid "貴重品016"
+msgstr ""
+
+#. ID 301
+msgctxt "items.name"
+msgid "武器001"
+msgstr ""
+
+#. ID 302
+msgctxt "items.name"
+msgid "武器002"
+msgstr ""
+
+#. ID 303
+msgctxt "items.name"
+msgid "武器003"
+msgstr ""
+
+#. ID 304
+msgctxt "items.name"
+msgid "武器004"
+msgstr ""
+
+#. ID 305
+msgctxt "items.name"
+msgid "武器005"
+msgstr ""
+
+#. ID 306
+msgctxt "items.name"
+msgid "武器006-アイアン"
+msgstr ""
+
+#. ID 307
+msgctxt "items.name"
+msgid "武器007"
+msgstr ""
+
+#. ID 308
+msgctxt "items.name"
+msgid "武器008"
+msgstr ""
+
+#. ID 309
+msgctxt "items.name"
+msgid "武器009"
+msgstr ""
+
+#. ID 310
+msgctxt "items.name"
+msgid "武器010 ##ｱﾝﾂﾊﾝﾀｰ"
+msgstr ""
+
+#. ID 311
+msgctxt "items.name"
+msgid "武器011"
+msgstr ""
+
+#. ID 312
+msgctxt "items.name"
+msgid "武器012"
+msgstr ""
+
+#. ID 313
+msgctxt "items.name"
+msgid "武器013-シルバー"
+msgstr ""
+
+#. ID 314
+msgctxt "items.name"
+msgid "武器014"
+msgstr ""
+
+#. ID 315
+msgctxt "items.name"
+msgid "武器015"
+msgstr ""
+
+#. ID 316
+msgctxt "items.name"
+msgid "武器016"
+msgstr ""
+
+#. ID 317
+msgctxt "items.name"
+msgid "武器017"
+msgstr ""
+
+#. ID 318
+msgctxt "items.name"
+msgid "武器018"
+msgstr ""
+
+#. ID 319
+msgctxt "items.name"
+msgid "武器019"
+msgstr ""
+
+#. ID 320
+msgctxt "items.name"
+msgid "武器020"
+msgstr ""
+
+#. ID 321
+msgctxt "items.name"
+msgid "武器021"
+msgstr ""
+
+#. ID 322
+msgctxt "items.name"
+msgid "武器022-ゴールド"
+msgstr ""
+
+#. ID 323
+msgctxt "items.name"
+msgid "武器023"
+msgstr ""
+
+#. ID 324
+msgctxt "items.name"
+msgid "武器024"
+msgstr ""
+
+#. ID 325
+msgctxt "items.name"
+msgid "武器025"
+msgstr ""
+
+#. ID 326
+msgctxt "items.name"
+msgid "武器026"
+msgstr ""
+
+#. ID 327
+msgctxt "items.name"
+msgid "武器027"
+msgstr ""
+
+#. ID 328
+msgctxt "items.name"
+msgid "武器028"
+msgstr ""
+
+#. ID 329
+msgctxt "items.name"
+msgid "武器029 ##ﾌｪｼﾞﾃBLADE"
+msgstr ""
+
+#. ID 330
+msgctxt "items.name"
+msgid "武器030-クリスタル"
+msgstr ""
+
+#. ID 331
+msgctxt "items.name"
+msgid "武器031"
+msgstr ""
+
+#. ID 332
+msgctxt "items.name"
+msgid "武器032"
+msgstr ""
+
+#. ID 333
+msgctxt "items.name"
+msgid "武器033"
+msgstr ""
+
+#. ID 334
+msgctxt "items.name"
+msgid "武器034"
+msgstr ""
+
+#. ID 335
+msgctxt "items.name"
+msgid "武器035"
+msgstr ""
+
+#. ID 336
+msgctxt "items.name"
+msgid "武器036"
+msgstr ""
+
+#. ID 337
+msgctxt "items.name"
+msgid "武器037"
+msgstr ""
+
+#. ID 338
+msgctxt "items.name"
+msgid "武器038 ##ヘルﾌｨｽﾄ"
+msgstr ""
+
+#. ID 339
+msgctxt "items.name"
+msgid "武器039 ##ﾊｳﾘﾝｸﾞﾘﾎﾞﾙ"
+msgstr ""
+
+#. ID 340
+msgctxt "items.name"
+msgid "武器040 ##黒血剣"
+msgstr ""
+
+#. ID 341
+msgctxt "items.name"
+msgid "武器041 ##ﾄﾞﾗｺﾞﾝｽﾚｲﾔ"
+msgstr ""
+
+#. ID 342
+msgctxt "items.name"
+msgid "武器042"
+msgstr ""
+
+#. ID 343
+msgctxt "items.name"
+msgid "武器043-プラチナ"
+msgstr ""
+
+#. ID 344
+msgctxt "items.name"
+msgid "武器044"
+msgstr ""
+
+#. ID 345
+msgctxt "items.name"
+msgid "武器045"
+msgstr ""
+
+#. ID 346
+msgctxt "items.name"
+msgid "武器046"
+msgstr ""
+
+#. ID 347
+msgctxt "items.name"
+msgid "武器047"
+msgstr ""
+
+#. ID 348
+msgctxt "items.name"
+msgid "武器048"
+msgstr ""
+
+#. ID 349
+msgctxt "items.name"
+msgid "武器049"
+msgstr ""
+
+#. ID 350
+msgctxt "items.name"
+msgid "武器050 ##ｶｰｼﾝｸﾞｴｯｼﾞ"
+msgstr ""
+
+#. ID 351
+msgctxt "items.name"
+msgid "武器051-ファイナル"
+msgstr ""
+
+#. ID 352
+msgctxt "items.name"
+msgid "武器052"
+msgstr ""
+
+#. ID 353
+msgctxt "items.name"
+msgid "武器053"
+msgstr ""
+
+#. ID 354
+msgctxt "items.name"
+msgid "武器054"
+msgstr ""
+
+#. ID 355
+msgctxt "items.name"
+msgid "武器055"
+msgstr ""
+
+#. ID 356
+msgctxt "items.name"
+msgid "武器056"
+msgstr ""
+
+#. ID 357
+msgctxt "items.name"
+msgid "武器057"
+msgstr ""
+
+#. ID 358
+msgctxt "items.name"
+msgid "武器058"
+msgstr ""
+
+#. ID 359
+msgctxt "items.name"
+msgid "武器059"
+msgstr ""
+
+#. ID 360
+msgctxt "items.name"
+msgid "武器060"
+msgstr ""
+
+#. ID 361
+msgctxt "items.name"
+msgid "武器061"
+msgstr ""
+
+#. ID 362
+msgctxt "items.name"
+msgid "武器062"
+msgstr ""
+
+#. ID 363
+msgctxt "items.name"
+msgid "武器063"
+msgstr ""
+
+#. ID 364
+msgctxt "items.name"
+msgid "武器064"
+msgstr ""
+
+#. ID 365
+msgctxt "items.name"
+msgid "武器065"
+msgstr ""
+
+#. ID 366
+msgctxt "items.name"
+msgid "武器066"
+msgstr ""
+
+#. ID 367
+msgctxt "items.name"
+msgid "武器067"
+msgstr ""
+
+#. ID 368
+msgctxt "items.name"
+msgid "武器068"
+msgstr ""
+
+#. ID 369
+msgctxt "items.name"
+msgid "武器069"
+msgstr ""
+
+#. ID 370
+msgctxt "items.name"
+msgid "武器070"
+msgstr ""
+
+#. ID 371
+msgctxt "items.name"
+msgid "武器071"
+msgstr ""
+
+#. ID 372
+msgctxt "items.name"
+msgid "武器072"
+msgstr ""
+
+#. ID 373
+msgctxt "items.name"
+msgid "武器073 ハリセン"
+msgstr ""
+
+#. ID 374
+msgctxt "items.name"
+msgid "武器074"
+msgstr ""
+
+#. ID 375
+msgctxt "items.name"
+msgid "武器075"
+msgstr ""
+
+#. ID 376
+msgctxt "items.name"
+msgid "武器076"
+msgstr ""
+
+#. ID 377
+msgctxt "items.name"
+msgid "武器077"
+msgstr ""
+
+#. ID 378
+msgctxt "items.name"
+msgid "武器078"
+msgstr ""
+
+#. ID 379
+msgctxt "items.name"
+msgid "武器079"
+msgstr ""
+
+#. ID 380
+msgctxt "items.name"
+msgid "武器080"
+msgstr ""
+
+#. ID 381
+msgctxt "items.name"
+msgid "武器081"
+msgstr ""
+
+#. ID 382
+msgctxt "items.name"
+msgid "武器082"
+msgstr ""
+
+#. ID 383
+msgctxt "items.name"
+msgid "武器083"
+msgstr ""
+
+#. ID 384
+msgctxt "items.name"
+msgid "武器084"
+msgstr ""
+
+#. ID 385
+msgctxt "items.name"
+msgid "武器085"
+msgstr ""
+
+#. ID 386
+msgctxt "items.name"
+msgid "武器086"
+msgstr ""
+
+#. ID 387
+msgctxt "items.name"
+msgid "武器087"
+msgstr ""
+
+#. ID 388
+msgctxt "items.name"
+msgid "武器088"
+msgstr ""
+
+#. ID 389
+msgctxt "items.name"
+msgid "武器089"
+msgstr ""
+
+#. ID 390
+msgctxt "items.name"
+msgid "武器090"
+msgstr ""
+
+#. ID 391
+msgctxt "items.name"
+msgid "武器091"
+msgstr ""
+
+#. ID 392
+msgctxt "items.name"
+msgid "武器092"
+msgstr ""
+
+#. ID 393
+msgctxt "items.name"
+msgid "武器093"
+msgstr ""
+
+#. ID 394
+msgctxt "items.name"
+msgid "武器094"
+msgstr ""
+
+#. ID 395
+msgctxt "items.name"
+msgid "武器095"
+msgstr ""
+
+#. ID 396
+msgctxt "items.name"
+msgid "武器096"
+msgstr ""
+
+#. ID 397
+msgctxt "items.name"
+msgid "武器097"
+msgstr ""
+
+#. ID 398
+msgctxt "items.name"
+msgid "武器098"
+msgstr ""
+
+#. ID 399
+msgctxt "items.name"
+msgid "武器099"
+msgstr ""
+
+#. ID 400
+msgctxt "items.name"
+msgid "武器100"
+msgstr ""
+
+#. ID 401
+msgctxt "items.name"
+msgid "武器101"
+msgstr ""
+
+#. ID 402
+msgctxt "items.name"
+msgid "武器102"
+msgstr ""
+
+#. ID 403
+msgctxt "items.name"
+msgid "武器103"
+msgstr ""
+
+#. ID 404
+msgctxt "items.name"
+msgid "武器104"
+msgstr ""
+
+#. ID 405
+msgctxt "items.name"
+msgid "武器105"
+msgstr ""
+
+#. ID 406
+msgctxt "items.name"
+msgid "武器106"
+msgstr ""
+
+#. ID 407
+msgctxt "items.name"
+msgid "武器107"
+msgstr ""
+
+#. ID 408
+msgctxt "items.name"
+msgid "武器108"
+msgstr ""
+
+#. ID 409
+msgctxt "items.name"
+msgid "武器109"
+msgstr ""
+
+#. ID 410
+msgctxt "items.name"
+msgid "武器110"
+msgstr ""
+
+#. ID 411
+msgctxt "items.name"
+msgid "武器111"
+msgstr ""
+
+#. ID 412
+msgctxt "items.name"
+msgid "武器112"
+msgstr ""
+
+#. ID 413
+msgctxt "items.name"
+msgid "武器113"
+msgstr ""
+
+#. ID 414
+msgctxt "items.name"
+msgid "武器114"
+msgstr ""
+
+#. ID 415
+msgctxt "items.name"
+msgid "武器115"
+msgstr ""
+
+#. ID 416
+msgctxt "items.name"
+msgid "武器116"
+msgstr ""
+
+#. ID 417
+msgctxt "items.name"
+msgid "武器117"
+msgstr ""
+
+#. ID 418
+msgctxt "items.name"
+msgid "武器118"
+msgstr ""
+
+#. ID 419
+msgctxt "items.name"
+msgid "武器119"
+msgstr ""
+
+#. ID 420
+msgctxt "items.name"
+msgid "武器120"
+msgstr ""
+
+#. ID 421
+msgctxt "items.name"
+msgid "武器121"
+msgstr ""
+
+#. ID 422
+msgctxt "items.name"
+msgid "武器122"
+msgstr ""
+
+#. ID 423
+msgctxt "items.name"
+msgid "武器123"
+msgstr ""
+
+#. ID 424
+msgctxt "items.name"
+msgid "武器124"
+msgstr ""
+
+#. ID 425
+msgctxt "items.name"
+msgid "武器125"
+msgstr ""
+
+#. ID 426
+msgctxt "items.name"
+msgid "武器126"
+msgstr ""
+
+#. ID 427
+msgctxt "items.name"
+msgid "武器127"
+msgstr ""
+
+#. ID 428
+msgctxt "items.name"
+msgid "武器128"
+msgstr ""
+
+#. ID 429
+msgctxt "items.name"
+msgid "武器129"
+msgstr ""
+
+#. ID 430
+msgctxt "items.name"
+msgid "武器130"
+msgstr ""
+
+#. ID 431
+msgctxt "items.name"
+msgid "武器131"
+msgstr ""
+
+#. ID 432
+msgctxt "items.name"
+msgid "武器132"
+msgstr ""
+
+#. ID 433
+msgctxt "items.name"
+msgid "武器133"
+msgstr ""
+
+#. ID 434
+msgctxt "items.name"
+msgid "武器134"
+msgstr ""
+
+#. ID 435
+msgctxt "items.name"
+msgid "武器135"
+msgstr ""
+
+#. ID 436
+msgctxt "items.name"
+msgid "武器136"
+msgstr ""
+
+#. ID 437
+msgctxt "items.name"
+msgid "武器137-EXファイナル"
+msgstr ""
+
+#. ID 438
+msgctxt "items.name"
+msgid "武器138"
+msgstr ""
+
+#. ID 439
+msgctxt "items.name"
+msgid "武器139"
+msgstr ""
+
+#. ID 440
+msgctxt "items.name"
+msgid "武器140　豪衝剣"
+msgstr ""
+
+#. ID 441
+msgctxt "items.name"
+msgid "武器141　天鳴泣"
+msgstr ""
+
+#. ID 442
+msgctxt "items.name"
+msgid "武器142"
+msgstr ""
+
+#. ID 443
+msgctxt "items.name"
+msgid "武器143"
+msgstr ""
+
+#. ID 444
+msgctxt "items.name"
+msgid "武器144"
+msgstr ""
+
+#. ID 445
+msgctxt "items.name"
+msgid "武器145"
+msgstr ""
+
+#. ID 446
+msgctxt "items.name"
+msgid "武器146"
+msgstr ""
+
+#. ID 447
+msgctxt "items.name"
+msgid "武器147"
+msgstr ""
+
+#. ID 448
+msgctxt "items.name"
+msgid "武器148"
+msgstr ""
+
+#. ID 449
+msgctxt "items.name"
+msgid "武器149"
+msgstr ""
+
+#. ID 450
+msgctxt "items.name"
+msgid "武器150"
+msgstr ""
+
+#. ID 451
+msgctxt "items.name"
+msgid "武器151"
+msgstr ""
+
+#. ID 452
+msgctxt "items.name"
+msgid "武器152"
+msgstr ""
+
+#. ID 453
+msgctxt "items.name"
+msgid "武器153"
+msgstr ""
+
+#. ID 454
+msgctxt "items.name"
+msgid "武器154"
+msgstr ""
+
+#. ID 455
+msgctxt "items.name"
+msgid "武器155　神帝槍"
+msgstr ""
+
+#. ID 456
+msgctxt "items.name"
+msgid "武器156"
+msgstr ""
+
+#. ID 457
+msgctxt "items.name"
+msgid "武器157　蒼醒剣"
+msgstr ""
+
+#. ID 458
+msgctxt "items.name"
+msgid "武器158"
+msgstr ""
+
+#. ID 459
+msgctxt "items.name"
+msgid "武器159"
+msgstr ""
+
+#. ID 460
+msgctxt "items.name"
+msgid "武器160"
+msgstr ""
+
+#. ID 461
+msgctxt "items.name"
+msgid "武器161*"
+msgstr ""
+
+#. ID 462
+msgctxt "items.name"
+msgid "武器162*"
+msgstr ""
+
+#. ID 463
+msgctxt "items.name"
+msgid "武器163*"
+msgstr ""
+
+#. ID 464
+msgctxt "items.name"
+msgid "武器164*"
+msgstr ""
+
+#. ID 465
+msgctxt "items.name"
+msgid "武器165*"
+msgstr ""
+
+#. ID 466
+msgctxt "items.name"
+msgid "武器166*"
+msgstr ""
+
+#. ID 467
+msgctxt "items.name"
+msgid "武器167*"
+msgstr ""
+
+#. ID 468
+msgctxt "items.name"
+msgid "武器168*"
+msgstr ""
+
+#. ID 469
+msgctxt "items.name"
+msgid "武器169*"
+msgstr ""
+
+#. ID 470
+msgctxt "items.name"
+msgid "武器170*"
+msgstr ""
+
+#. ID 501
+msgctxt "items.name"
+msgid "フレーム001"
+msgstr ""
+
+#. ID 502
+msgctxt "items.name"
+msgid "フレーム002"
+msgstr ""
+
+#. ID 503
+msgctxt "items.name"
+msgid "フレーム003"
+msgstr ""
+
+#. ID 504
+msgctxt "items.name"
+msgid "フレーム004"
+msgstr ""
+
+#. ID 505
+msgctxt "items.name"
+msgid "フレーム005"
+msgstr ""
+
+#. ID 506
+msgctxt "items.name"
+msgid "フレーム006"
+msgstr ""
+
+#. ID 507
+msgctxt "items.name"
+msgid "フレーム007-アイアン"
+msgstr ""
+
+#. ID 508
+msgctxt "items.name"
+msgid "フレーム008"
+msgstr ""
+
+#. ID 509
+msgctxt "items.name"
+msgid "フレーム009"
+msgstr ""
+
+#. ID 510
+msgctxt "items.name"
+msgid "フレーム010"
+msgstr ""
+
+#. ID 511
+msgctxt "items.name"
+msgid "フレーム011"
+msgstr ""
+
+#. ID 512
+msgctxt "items.name"
+msgid "フレーム012-シルバー"
+msgstr ""
+
+#. ID 513
+msgctxt "items.name"
+msgid "フレーム013"
+msgstr ""
+
+#. ID 514
+msgctxt "items.name"
+msgid "フレーム014"
+msgstr ""
+
+#. ID 515
+msgctxt "items.name"
+msgid "フレーム015"
+msgstr ""
+
+#. ID 516
+msgctxt "items.name"
+msgid "フレーム016"
+msgstr ""
+
+#. ID 517
+msgctxt "items.name"
+msgid "フレーム017"
+msgstr ""
+
+#. ID 518
+msgctxt "items.name"
+msgid "フレーム018-ゴールド"
+msgstr ""
+
+#. ID 519
+msgctxt "items.name"
+msgid "フレーム019"
+msgstr ""
+
+#. ID 520
+msgctxt "items.name"
+msgid "フレーム020"
+msgstr ""
+
+#. ID 521
+msgctxt "items.name"
+msgid "フレーム021"
+msgstr ""
+
+#. ID 522
+msgctxt "items.name"
+msgid "フレーム022"
+msgstr ""
+
+#. ID 523
+msgctxt "items.name"
+msgid "フレーム023-ｸﾘｽﾀﾙ"
+msgstr ""
+
+#. ID 524
+msgctxt "items.name"
+msgid "フレーム024"
+msgstr ""
+
+#. ID 525
+msgctxt "items.name"
+msgid "フレーム025"
+msgstr ""
+
+#. ID 526
+msgctxt "items.name"
+msgid "フレーム026"
+msgstr ""
+
+#. ID 527
+msgctxt "items.name"
+msgid "フレーム027 ##魔幻気"
+msgstr ""
+
+#. ID 528
+msgctxt "items.name"
+msgid "フレーム028 ##Fﾏｼｰﾅﾘ"
+msgstr ""
+
+#. ID 529
+msgctxt "items.name"
+msgid "フレーム029-プラチナ"
+msgstr ""
+
+#. ID 530
+msgctxt "items.name"
+msgid "フレーム030"
+msgstr ""
+
+#. ID 531
+msgctxt "items.name"
+msgid "フレーム031"
+msgstr ""
+
+#. ID 532
+msgctxt "items.name"
+msgid "フレーム032"
+msgstr ""
+
+#. ID 533
+msgctxt "items.name"
+msgid "フレーム033 ##ｷﾞｶﾞﾝﾄ"
+msgstr ""
+
+#. ID 534
+msgctxt "items.name"
+msgid "フレーム034 ##ﾍｷｻﾌﾚｰ"
+msgstr ""
+
+#. ID 535
+msgctxt "items.name"
+msgid "フレーム035 ##黄昏の"
+msgstr ""
+
+#. ID 536
+msgctxt "items.name"
+msgid "フレーム036-ﾌｧｲﾅﾙ"
+msgstr ""
+
+#. ID 537
+msgctxt "items.name"
+msgid "フレーム037"
+msgstr ""
+
+#. ID 538
+msgctxt "items.name"
+msgid "フレーム038"
+msgstr ""
+
+#. ID 539
+msgctxt "items.name"
+msgid "フレーム039"
+msgstr ""
+
+#. ID 540
+msgctxt "items.name"
+msgid "フレーム040ｿｳﾙｸﾚｲﾄﾞﾙ"
+msgstr ""
+
+#. ID 541
+msgctxt "items.name"
+msgid "フレーム041*氷魔の鎧"
+msgstr ""
+
+#. ID 542
+msgctxt "items.name"
+msgid "フレーム042*漢ビキニ"
+msgstr ""
+
+#. ID 543
+msgctxt "items.name"
+msgid "フレーム043"
+msgstr ""
+
+#. ID 544
+msgctxt "items.name"
+msgid "フレーム044"
+msgstr ""
+
+#. ID 545
+msgctxt "items.name"
+msgid "フレーム045"
+msgstr ""
+
+#. ID 546
+msgctxt "items.name"
+msgid "フレーム046"
+msgstr ""
+
+#. ID 547
+msgctxt "items.name"
+msgid "フレーム047"
+msgstr ""
+
+#. ID 548
+msgctxt "items.name"
+msgid "フレーム048"
+msgstr ""
+
+#. ID 549
+msgctxt "items.name"
+msgid "フレーム049"
+msgstr ""
+
+#. ID 550
+msgctxt "items.name"
+msgid "フレーム050"
+msgstr ""
+
+#. ID 551
+msgctxt "items.name"
+msgid "フレーム051"
+msgstr ""
+
+#. ID 552
+msgctxt "items.name"
+msgid "フレーム052"
+msgstr ""
+
+#. ID 553
+msgctxt "items.name"
+msgid "フレーム053"
+msgstr ""
+
+#. ID 554
+msgctxt "items.name"
+msgid "フレーム054"
+msgstr ""
+
+#. ID 555
+msgctxt "items.name"
+msgid "フレーム055"
+msgstr ""
+
+#. ID 556
+msgctxt "items.name"
+msgid "フレーム056"
+msgstr ""
+
+#. ID 557
+msgctxt "items.name"
+msgid "フレーム057"
+msgstr ""
+
+#. ID 558
+msgctxt "items.name"
+msgid "フレーム058"
+msgstr ""
+
+#. ID 559
+msgctxt "items.name"
+msgid "フレーム059"
+msgstr ""
+
+#. ID 560
+msgctxt "items.name"
+msgid "フレーム060"
+msgstr ""
+
+#. ID 561
+msgctxt "items.name"
+msgid "フレーム061"
+msgstr ""
+
+#. ID 562
+msgctxt "items.name"
+msgid "フレーム062"
+msgstr ""
+
+#. ID 563
+msgctxt "items.name"
+msgid "フレーム063"
+msgstr ""
+
+#. ID 564
+msgctxt "items.name"
+msgid "フレーム064"
+msgstr ""
+
+#. ID 565
+msgctxt "items.name"
+msgid "フレーム065"
+msgstr ""
+
+#. ID 566
+msgctxt "items.name"
+msgid "フレーム066"
+msgstr ""
+
+#. ID 567
+msgctxt "items.name"
+msgid "フレーム067"
+msgstr ""
+
+#. ID 568
+msgctxt "items.name"
+msgid "フレーム068"
+msgstr ""
+
+#. ID 569
+msgctxt "items.name"
+msgid "フレーム069"
+msgstr ""
+
+#. ID 570
+msgctxt "items.name"
+msgid "フレーム070"
+msgstr ""
+
+#. ID 571
+msgctxt "items.name"
+msgid "フレーム071"
+msgstr ""
+
+#. ID 572
+msgctxt "items.name"
+msgid "フレーム072"
+msgstr ""
+
+#. ID 573
+msgctxt "items.name"
+msgid "フレーム073"
+msgstr ""
+
+#. ID 574
+msgctxt "items.name"
+msgid "フレーム074"
+msgstr ""
+
+#. ID 575
+msgctxt "items.name"
+msgid "フレーム075"
+msgstr ""
+
+#. ID 576
+msgctxt "items.name"
+msgid "フレーム076"
+msgstr ""
+
+#. ID 577
+msgctxt "items.name"
+msgid "フレーム077"
+msgstr ""
+
+#. ID 578
+msgctxt "items.name"
+msgid "フレーム078"
+msgstr ""
+
+#. ID 579
+msgctxt "items.name"
+msgid "フレーム079"
+msgstr ""
+
+#. ID 580
+msgctxt "items.name"
+msgid "フレーム080"
+msgstr ""
+
+#. ID 601
+msgctxt "items.name"
+msgid "スフィア001-------Ａ"
+msgstr ""
+
+#. ID 602
+msgctxt "items.name"
+msgid "スフィア002"
+msgstr ""
+
+#. ID 603
+msgctxt "items.name"
+msgid "スフィア003"
+msgstr ""
+
+#. ID 604
+msgctxt "items.name"
+msgid "スフィア004"
+msgstr ""
+
+#. ID 605
+msgctxt "items.name"
+msgid "スフィア005"
+msgstr ""
+
+#. ID 606
+msgctxt "items.name"
+msgid "スフィア006"
+msgstr ""
+
+#. ID 607
+msgctxt "items.name"
+msgid "スフィア007-回復 １"
+msgstr ""
+
+#. ID 608
+msgctxt "items.name"
+msgid "スフィア008 回 ２"
+msgstr ""
+
+#. ID 609
+msgctxt "items.name"
+msgid "スフィア009 回 ３"
+msgstr ""
+
+#. ID 610
+msgctxt "items.name"
+msgid "スフィア010 回 ４"
+msgstr ""
+
+#. ID 611
+msgctxt "items.name"
+msgid "スフィア011 回 ５"
+msgstr ""
+
+#. ID 612
+msgctxt "items.name"
+msgid "スフィア012 回 ６"
+msgstr ""
+
+#. ID 613
+msgctxt "items.name"
+msgid "スフィア013-補助"
+msgstr ""
+
+#. ID 614
+msgctxt "items.name"
+msgid "スフィア014"
+msgstr ""
+
+#. ID 615
+msgctxt "items.name"
+msgid "スフィア015"
+msgstr ""
+
+#. ID 616
+msgctxt "items.name"
+msgid "スフィア016"
+msgstr ""
+
+#. ID 617
+msgctxt "items.name"
+msgid "スフィア017"
+msgstr ""
+
+#. ID 618
+msgctxt "items.name"
+msgid "スフィア018"
+msgstr ""
+
+#. ID 619
+msgctxt "items.name"
+msgid "スフィア019 攻A"
+msgstr ""
+
+#. ID 620
+msgctxt "items.name"
+msgid "スフィア020 攻A"
+msgstr ""
+
+#. ID 621
+msgctxt "items.name"
+msgid "スフィア021 攻A"
+msgstr ""
+
+#. ID 622
+msgctxt "items.name"
+msgid "スフィア022 回A"
+msgstr ""
+
+#. ID 623
+msgctxt "items.name"
+msgid "スフィア023 補A"
+msgstr ""
+
+#. ID 624
+msgctxt "items.name"
+msgid "スフィア024 補A"
+msgstr ""
+
+#. ID 625
+msgctxt "items.name"
+msgid "スフィア025 補Aﾒﾀﾓﾙ"
+msgstr ""
+
+#. ID 626
+msgctxt "items.name"
+msgid "スフィア026 回Aｴｳﾞｧﾝ"
+msgstr ""
+
+#. ID 627
+msgctxt "items.name"
+msgid "スフィア027 予備空き"
+msgstr ""
+
+#. ID 628
+msgctxt "items.name"
+msgid "スフィア028-------Ｉ"
+msgstr ""
+
+#. ID 629
+msgctxt "items.name"
+msgid "スフィア029"
+msgstr ""
+
+#. ID 630
+msgctxt "items.name"
+msgid "スフィア030"
+msgstr ""
+
+#. ID 631
+msgctxt "items.name"
+msgid "スフィア031"
+msgstr ""
+
+#. ID 632
+msgctxt "items.name"
+msgid "スフィア032"
+msgstr ""
+
+#. ID 633
+msgctxt "items.name"
+msgid "スフィア033"
+msgstr ""
+
+#. ID 634
+msgctxt "items.name"
+msgid "スフィア034"
+msgstr ""
+
+#. ID 635
+msgctxt "items.name"
+msgid "スフィア035"
+msgstr ""
+
+#. ID 636
+msgctxt "items.name"
+msgid "スフィア036"
+msgstr ""
+
+#. ID 637
+msgctxt "items.name"
+msgid "スフィア037"
+msgstr ""
+
+#. ID 638
+msgctxt "items.name"
+msgid "スフィア038"
+msgstr ""
+
+#. ID 639
+msgctxt "items.name"
+msgid "スフィア039"
+msgstr ""
+
+#. ID 640
+msgctxt "items.name"
+msgid "スフィア040"
+msgstr ""
+
+#. ID 641
+msgctxt "items.name"
+msgid "スフィア041"
+msgstr ""
+
+#. ID 642
+msgctxt "items.name"
+msgid "スフィア042"
+msgstr ""
+
+#. ID 643
+msgctxt "items.name"
+msgid "スフィア043"
+msgstr ""
+
+#. ID 644
+msgctxt "items.name"
+msgid "スフィア044"
+msgstr ""
+
+#. ID 645
+msgctxt "items.name"
+msgid "スフィア045"
+msgstr ""
+
+#. ID 646
+msgctxt "items.name"
+msgid "スフィア046"
+msgstr ""
+
+#. ID 647
+msgctxt "items.name"
+msgid "スフィア047"
+msgstr ""
+
+#. ID 648
+msgctxt "items.name"
+msgid "スフィア048"
+msgstr ""
+
+#. ID 649
+msgctxt "items.name"
+msgid "スフィア049"
+msgstr ""
+
+#. ID 650
+msgctxt "items.name"
+msgid "スフィア050"
+msgstr ""
+
+#. ID 651
+msgctxt "items.name"
+msgid "スフィア051"
+msgstr ""
+
+#. ID 652
+msgctxt "items.name"
+msgid "スフィア052"
+msgstr ""
+
+#. ID 653
+msgctxt "items.name"
+msgid "スフィア053"
+msgstr ""
+
+#. ID 654
+msgctxt "items.name"
+msgid "スフィア054"
+msgstr ""
+
+#. ID 655
+msgctxt "items.name"
+msgid "スフィア055"
+msgstr ""
+
+#. ID 656
+msgctxt "items.name"
+msgid "スフィア056"
+msgstr ""
+
+#. ID 657
+msgctxt "items.name"
+msgid "スフィア057"
+msgstr ""
+
+#. ID 658
+msgctxt "items.name"
+msgid "スフィア058"
+msgstr ""
+
+#. ID 659
+msgctxt "items.name"
+msgid "スフィア059"
+msgstr ""
+
+#. ID 660
+msgctxt "items.name"
+msgid "スフィア060"
+msgstr ""
+
+#. ID 661
+msgctxt "items.name"
+msgid "スフィア061"
+msgstr ""
+
+#. ID 662
+msgctxt "items.name"
+msgid "スフィア062"
+msgstr ""
+
+#. ID 663
+msgctxt "items.name"
+msgid "スフィア063"
+msgstr ""
+
+#. ID 664
+msgctxt "items.name"
+msgid "スフィア064"
+msgstr ""
+
+#. ID 665
+msgctxt "items.name"
+msgid "スフィア065"
+msgstr ""
+
+#. ID 666
+msgctxt "items.name"
+msgid "スフィア066"
+msgstr ""
+
+#. ID 667
+msgctxt "items.name"
+msgid "スフィア067"
+msgstr ""
+
+#. ID 668
+msgctxt "items.name"
+msgid "スフィア068"
+msgstr ""
+
+#. ID 669
+msgctxt "items.name"
+msgid "スフィア069"
+msgstr ""
+
+#. ID 670
+msgctxt "items.name"
+msgid "スフィア070"
+msgstr ""
+
+#. ID 671
+msgctxt "items.name"
+msgid "スフィア071"
+msgstr ""
+
+#. ID 672
+msgctxt "items.name"
+msgid "スフィア072"
+msgstr ""
+
+#. ID 673
+msgctxt "items.name"
+msgid "スフィア073"
+msgstr ""
+
+#. ID 674
+msgctxt "items.name"
+msgid "スフィア074"
+msgstr ""
+
+#. ID 675
+msgctxt "items.name"
+msgid "スフィア075"
+msgstr ""
+
+#. ID 676
+msgctxt "items.name"
+msgid "スフィア076"
+msgstr ""
+
+#. ID 677
+msgctxt "items.name"
+msgid "スフィア077"
+msgstr ""
+
+#. ID 678
+msgctxt "items.name"
+msgid "スフィア078"
+msgstr ""
+
+#. ID 679
+msgctxt "items.name"
+msgid "スフィア079"
+msgstr ""
+
+#. ID 680
+msgctxt "items.name"
+msgid "スフィア080"
+msgstr ""
+
+#. ID 681
+msgctxt "items.name"
+msgid "スフィア081"
+msgstr ""
+
+#. ID 682
+msgctxt "items.name"
+msgid "スフィア082"
+msgstr ""
+
+#. ID 683
+msgctxt "items.name"
+msgid "スフィア083"
+msgstr ""
+
+#. ID 684
+msgctxt "items.name"
+msgid "スフィア084"
+msgstr ""
+
+#. ID 685
+msgctxt "items.name"
+msgid "スフィア085"
+msgstr ""
+
+#. ID 686
+msgctxt "items.name"
+msgid "スフィア086"
+msgstr ""
+
+#. ID 687
+msgctxt "items.name"
+msgid "スフィア087"
+msgstr ""
+
+#. ID 688
+msgctxt "items.name"
+msgid "スフィア088"
+msgstr ""
+
+#. ID 689
+msgctxt "items.name"
+msgid "スフィア089"
+msgstr ""
+
+#. ID 690
+msgctxt "items.name"
+msgid "スフィア090"
+msgstr ""
+
+#. ID 691
+msgctxt "items.name"
+msgid "スフィア091"
+msgstr ""
+
+#. ID 692
+msgctxt "items.name"
+msgid "スフィア092"
+msgstr ""
+
+#. ID 693
+msgctxt "items.name"
+msgid "スフィア093"
+msgstr ""
+
+#. ID 694
+msgctxt "items.name"
+msgid "スフィア094"
+msgstr ""
+
+#. ID 695
+msgctxt "items.name"
+msgid "スフィア095"
+msgstr ""
+
+#. ID 696
+msgctxt "items.name"
+msgid "スフィア096"
+msgstr ""
+
+#. ID 697
+msgctxt "items.name"
+msgid "スフィア097"
+msgstr ""
+
+#. ID 698
+msgctxt "items.name"
+msgid "スフィア098"
+msgstr ""
+
+#. ID 699
+msgctxt "items.name"
+msgid "スフィア099"
+msgstr ""
+
+#. ID 700
+msgctxt "items.name"
+msgid "スフィア100"
+msgstr ""
+
+#. ID 701
+msgctxt "items.name"
+msgid "スフィア101"
+msgstr ""
+
+#. ID 702
+msgctxt "items.name"
+msgid "スフィア102"
+msgstr ""
+
+#. ID 703
+msgctxt "items.name"
+msgid "スフィア103"
+msgstr ""
+
+#. ID 704
+msgctxt "items.name"
+msgid "スフィア104"
+msgstr ""
+
+#. ID 705
+msgctxt "items.name"
+msgid "スフィア105"
+msgstr ""
+
+#. ID 706
+msgctxt "items.name"
+msgid "スフィア106"
+msgstr ""
+
+#. ID 707
+msgctxt "items.name"
+msgid "スフィア107"
+msgstr ""
+
+#. ID 708
+msgctxt "items.name"
+msgid "スフィア108"
+msgstr ""
+
+#. ID 709
+msgctxt "items.name"
+msgid "スフィア109"
+msgstr ""
+
+#. ID 710
+msgctxt "items.name"
+msgid "スフィア110"
+msgstr ""
+
+#. ID 711
+msgctxt "items.name"
+msgid "スフィア111"
+msgstr ""
+
+#. ID 712
+msgctxt "items.name"
+msgid "スフィア112"
+msgstr ""
+
+#. ID 713
+msgctxt "items.name"
+msgid "スフィア113"
+msgstr ""
+
+#. ID 714
+msgctxt "items.name"
+msgid "スフィア114"
+msgstr ""
+
+#. ID 715
+msgctxt "items.name"
+msgid "スフィア115"
+msgstr ""
+
+#. ID 716
+msgctxt "items.name"
+msgid "スフィア116"
+msgstr ""
+
+#. ID 717
+msgctxt "items.name"
+msgid "スフィア117"
+msgstr ""
+
+#. ID 718
+msgctxt "items.name"
+msgid "スフィア118"
+msgstr ""
+
+#. ID 719
+msgctxt "items.name"
+msgid "スフィア119"
+msgstr ""
+
+#. ID 720
+msgctxt "items.name"
+msgid "スフィア120"
+msgstr ""
+
+#. ID 721
+msgctxt "items.name"
+msgid "スフィア121"
+msgstr ""
+
+#. ID 722
+msgctxt "items.name"
+msgid "スフィア122"
+msgstr ""
+
+#. ID 723
+msgctxt "items.name"
+msgid "スフィア123"
+msgstr ""
+
+#. ID 724
+msgctxt "items.name"
+msgid "スフィア124"
+msgstr ""
+
+#. ID 725
+msgctxt "items.name"
+msgid "スフィア125"
+msgstr ""
+
+#. ID 726
+msgctxt "items.name"
+msgid "スフィア126"
+msgstr ""
+
+#. ID 727
+msgctxt "items.name"
+msgid "スフィア127"
+msgstr ""
+
+#. ID 728
+msgctxt "items.name"
+msgid "スフィア128"
+msgstr ""
+
+#. ID 729
+msgctxt "items.name"
+msgid "スフィア129"
+msgstr ""
+
+#. ID 730
+msgctxt "items.name"
+msgid "スフィア130"
+msgstr ""
+
+#. ID 731
+msgctxt "items.name"
+msgid "スフィア131"
+msgstr ""
+
+#. ID 732
+msgctxt "items.name"
+msgid "スフィア132"
+msgstr ""
+
+#. ID 733
+msgctxt "items.name"
+msgid "スフィア133"
+msgstr ""
+
+#. ID 734
+msgctxt "items.name"
+msgid "スフィア134"
+msgstr ""
+
+#. ID 735
+msgctxt "items.name"
+msgid "スフィア135"
+msgstr ""
+
+#. ID 736
+msgctxt "items.name"
+msgid "スフィア136"
+msgstr ""
+
+#. ID 737
+msgctxt "items.name"
+msgid "スフィア137"
+msgstr ""
+
+#. ID 738
+msgctxt "items.name"
+msgid "スフィア138"
+msgstr ""
+
+#. ID 739
+msgctxt "items.name"
+msgid "スフィア139"
+msgstr ""
+
+#. ID 740
+msgctxt "items.name"
+msgid "スフィア140"
+msgstr ""
+
+#. ID 741
+msgctxt "items.name"
+msgid "スフィア141"
+msgstr ""
+
+#. ID 742
+msgctxt "items.name"
+msgid "スフィア142"
+msgstr ""
+
+#. ID 743
+msgctxt "items.name"
+msgid "スフィア143"
+msgstr ""
+
+#. ID 744
+msgctxt "items.name"
+msgid "スフィア144"
+msgstr ""
+
+#. ID 745
+msgctxt "items.name"
+msgid "スフィア145"
+msgstr ""
+
+#. ID 746
+msgctxt "items.name"
+msgid "スフィア146"
+msgstr ""
+
+#. ID 747
+msgctxt "items.name"
+msgid "スフィア147"
+msgstr ""
+
+#. ID 748
+msgctxt "items.name"
+msgid "スフィア148"
+msgstr ""
+
+#. ID 749
+msgctxt "items.name"
+msgid "スフィア149"
+msgstr ""
+
+#. ID 750
+msgctxt "items.name"
+msgid "スフィア150"
+msgstr ""
+
+#. ID 751
+msgctxt "items.name"
+msgid "スフィア151"
+msgstr ""
+
+#. ID 752
+msgctxt "items.name"
+msgid "スフィア152"
+msgstr ""
+
+#. ID 753
+msgctxt "items.name"
+msgid "スフィア153"
+msgstr ""
+
+#. ID 754
+msgctxt "items.name"
+msgid "スフィア154"
+msgstr ""
+
+#. ID 755
+msgctxt "items.name"
+msgid "スフィア155"
+msgstr ""
+
+#. ID 756
+msgctxt "items.name"
+msgid "スフィア156"
+msgstr ""
+
+#. ID 757
+msgctxt "items.name"
+msgid "スフィア157"
+msgstr ""
+
+#. ID 758
+msgctxt "items.name"
+msgid "スフィア158"
+msgstr ""
+
+#. ID 759
+msgctxt "items.name"
+msgid "スフィア159"
+msgstr ""
+
+#. ID 760
+msgctxt "items.name"
+msgid "スフィア160"
+msgstr ""
+
+#. ID 761
+msgctxt "items.name"
+msgid "スフィア161"
+msgstr ""
+
+#. ID 762
+msgctxt "items.name"
+msgid "スフィア162"
+msgstr ""
+
+#. ID 763
+msgctxt "items.name"
+msgid "スフィア163"
+msgstr ""
+
+#. ID 764
+msgctxt "items.name"
+msgid "スフィア164"
+msgstr ""
+
+#. ID 765
+msgctxt "items.name"
+msgid "スフィア165"
+msgstr ""
+
+#. ID 766
+msgctxt "items.name"
+msgid "スフィア166"
+msgstr ""
+
+#. ID 767
+msgctxt "items.name"
+msgid "スフィア167"
+msgstr ""
+
+#. ID 768
+msgctxt "items.name"
+msgid "スフィア168"
+msgstr ""
+
+#. ID 769
+msgctxt "items.name"
+msgid "スフィア169"
+msgstr ""
+
+#. ID 770
+msgctxt "items.name"
+msgid "スフィア170"
+msgstr ""
+
+#. ID 771
+msgctxt "items.name"
+msgid "スフィア171"
+msgstr ""
+
+#. ID 772
+msgctxt "items.name"
+msgid "スフィア172-FE変動"
+msgstr ""
+
+#. ID 773
+msgctxt "items.name"
+msgid "スフィア173"
+msgstr ""
+
+#. ID 774
+msgctxt "items.name"
+msgid "スフィア174"
+msgstr ""
+
+#. ID 775
+msgctxt "items.name"
+msgid "スフィア175"
+msgstr ""
+
+#. ID 776
+msgctxt "items.name"
+msgid "スフィア176"
+msgstr ""
+
+#. ID 777
+msgctxt "items.name"
+msgid "スフィア177"
+msgstr ""
+
+#. ID 778
+msgctxt "items.name"
+msgid "スフィア178"
+msgstr ""
+
+#. ID 779
+msgctxt "items.name"
+msgid "スフィア179"
+msgstr ""
+
+#. ID 780
+msgctxt "items.name"
+msgid "スフィア180"
+msgstr ""
+
+#. ID 781
+msgctxt "items.name"
+msgid "スフィア181"
+msgstr ""
+
+#. ID 782
+msgctxt "items.name"
+msgid "スフィア182-------Ｔ"
+msgstr ""
+
+#. ID 783
+msgctxt "items.name"
+msgid "スフィア183"
+msgstr ""
+
+#. ID 784
+msgctxt "items.name"
+msgid "スフィア184 ﾘﾌﾚｯｸｽ"
+msgstr ""
+
+#. ID 785
+msgctxt "items.name"
+msgid "スフィア185"
+msgstr ""
+
+#. ID 786
+msgctxt "items.name"
+msgid "スフィア186 ｶｳﾝﾀｰ"
+msgstr ""
+
+#. ID 787
+msgctxt "items.name"
+msgid "スフィア187"
+msgstr ""
+
+#. ID 788
+msgctxt "items.name"
+msgid "スフィア188"
+msgstr ""
+
+#. ID 789
+msgctxt "items.name"
+msgid "スフィア189"
+msgstr ""
+
+#. ID 790
+msgctxt "items.name"
+msgid "スフィア190"
+msgstr ""
+
+#. ID 791
+msgctxt "items.name"
+msgid "スフィア191"
+msgstr ""
+
+#. ID 792
+msgctxt "items.name"
+msgid "スフィア192"
+msgstr ""
+
+#. ID 793
+msgctxt "items.name"
+msgid "スフィア193 ｳｨｻﾞｳﾄ"
+msgstr ""
+
+#. ID 794
+msgctxt "items.name"
+msgid "スフィア194 ﾉｰﾃｨｽ"
+msgstr ""
+
+#. ID 795
+msgctxt "items.name"
+msgid "スフィア195"
+msgstr ""
+
+#. ID 796
+msgctxt "items.name"
+msgid "スフィア196"
+msgstr ""
+
+#. ID 797
+msgctxt "items.name"
+msgid "スフィア197"
+msgstr ""
+
+#. ID 798
+msgctxt "items.name"
+msgid "スフィア198-------Ｇ"
+msgstr ""
+
+#. ID 799
+msgctxt "items.name"
+msgid "スフィア199"
+msgstr ""
+
+#. ID 800
+msgctxt "items.name"
+msgid "スフィア200"
+msgstr ""
+
+#. ID 801
+msgctxt "items.name"
+msgid "スフィア201"
+msgstr ""
+
+#. ID 802
+msgctxt "items.name"
+msgid "スフィア202"
+msgstr ""
+
+#. ID 803
+msgctxt "items.name"
+msgid "スフィア203"
+msgstr ""
+
+#. ID 804
+msgctxt "items.name"
+msgid "スフィア204"
+msgstr ""
+
+#. ID 805
+msgctxt "items.name"
+msgid "スフィア205-アイアン"
+msgstr ""
+
+#. ID 806
+msgctxt "items.name"
+msgid "スフィア206"
+msgstr ""
+
+#. ID 807
+msgctxt "items.name"
+msgid "スフィア207"
+msgstr ""
+
+#. ID 808
+msgctxt "items.name"
+msgid "スフィア208"
+msgstr ""
+
+#. ID 809
+msgctxt "items.name"
+msgid "スフィア209"
+msgstr ""
+
+#. ID 810
+msgctxt "items.name"
+msgid "スフィア210"
+msgstr ""
+
+#. ID 811
+msgctxt "items.name"
+msgid "スフィア211"
+msgstr ""
+
+#. ID 812
+msgctxt "items.name"
+msgid "スフィア212"
+msgstr ""
+
+#. ID 813
+msgctxt "items.name"
+msgid "スフィア213"
+msgstr ""
+
+#. ID 814
+msgctxt "items.name"
+msgid "スフィア214 ##ｵｰﾙﾄﾞB"
+msgstr ""
+
+#. ID 815
+msgctxt "items.name"
+msgid "スフィア215"
+msgstr ""
+
+#. ID 816
+msgctxt "items.name"
+msgid "スフィア216 ##ﾊﾟﾝﾌﾟｷ"
+msgstr ""
+
+#. ID 817
+msgctxt "items.name"
+msgid "スフィア217 ##屍骨の"
+msgstr ""
+
+#. ID 818
+msgctxt "items.name"
+msgid "スフィア218-シルバー"
+msgstr ""
+
+#. ID 819
+msgctxt "items.name"
+msgid "スフィア219"
+msgstr ""
+
+#. ID 820
+msgctxt "items.name"
+msgid "スフィア220"
+msgstr ""
+
+#. ID 821
+msgctxt "items.name"
+msgid "スフィア221"
+msgstr ""
+
+#. ID 822
+msgctxt "items.name"
+msgid "スフィア222"
+msgstr ""
+
+#. ID 823
+msgctxt "items.name"
+msgid "スフィア223"
+msgstr ""
+
+#. ID 824
+msgctxt "items.name"
+msgid "スフィア224"
+msgstr ""
+
+#. ID 825
+msgctxt "items.name"
+msgid "スフィア225"
+msgstr ""
+
+#. ID 826
+msgctxt "items.name"
+msgid "スフィア226"
+msgstr ""
+
+#. ID 827
+msgctxt "items.name"
+msgid "スフィア227"
+msgstr ""
+
+#. ID 828
+msgctxt "items.name"
+msgid "スフィア228-ゴールド"
+msgstr ""
+
+#. ID 829
+msgctxt "items.name"
+msgid "スフィア229"
+msgstr ""
+
+#. ID 830
+msgctxt "items.name"
+msgid "スフィア230"
+msgstr ""
+
+#. ID 831
+msgctxt "items.name"
+msgid "スフィア231"
+msgstr ""
+
+#. ID 832
+msgctxt "items.name"
+msgid "スフィア232"
+msgstr ""
+
+#. ID 833
+msgctxt "items.name"
+msgid "スフィア233"
+msgstr ""
+
+#. ID 834
+msgctxt "items.name"
+msgid "スフィア234"
+msgstr ""
+
+#. ID 835
+msgctxt "items.name"
+msgid "スフィア235"
+msgstr ""
+
+#. ID 836
+msgctxt "items.name"
+msgid "スフィア236"
+msgstr ""
+
+#. ID 837
+msgctxt "items.name"
+msgid "スフィア237"
+msgstr ""
+
+#. ID 838
+msgctxt "items.name"
+msgid "スフィア238-ｸﾘｽﾀﾙ"
+msgstr ""
+
+#. ID 839
+msgctxt "items.name"
+msgid "スフィア239"
+msgstr ""
+
+#. ID 840
+msgctxt "items.name"
+msgid "スフィア240"
+msgstr ""
+
+#. ID 841
+msgctxt "items.name"
+msgid "スフィア241"
+msgstr ""
+
+#. ID 842
+msgctxt "items.name"
+msgid "スフィア242"
+msgstr ""
+
+#. ID 843
+msgctxt "items.name"
+msgid "スフィア243"
+msgstr ""
+
+#. ID 844
+msgctxt "items.name"
+msgid "スフィア244"
+msgstr ""
+
+#. ID 845
+msgctxt "items.name"
+msgid "スフィア245"
+msgstr ""
+
+#. ID 846
+msgctxt "items.name"
+msgid "スフィア246"
+msgstr ""
+
+#. ID 847
+msgctxt "items.name"
+msgid "スフィア247"
+msgstr ""
+
+#. ID 848
+msgctxt "items.name"
+msgid "スフィア248 ##ﾑｰﾝｳﾞｪ"
+msgstr ""
+
+#. ID 849
+msgctxt "items.name"
+msgid "スフィア249 ##ﾗｲﾌﾊﾞｲ"
+msgstr ""
+
+#. ID 850
+msgctxt "items.name"
+msgid "スフィア250 ##ﾃﾞﾙﾀﾌｫ"
+msgstr ""
+
+#. ID 851
+msgctxt "items.name"
+msgid "スフィア251 ##ﾌｪｲｽｽｷ"
+msgstr ""
+
+#. ID 852
+msgctxt "items.name"
+msgid "スフィア252-プラチナ"
+msgstr ""
+
+#. ID 853
+msgctxt "items.name"
+msgid "スフィア253"
+msgstr ""
+
+#. ID 854
+msgctxt "items.name"
+msgid "スフィア254"
+msgstr ""
+
+#. ID 855
+msgctxt "items.name"
+msgid "スフィア255"
+msgstr ""
+
+#. ID 856
+msgctxt "items.name"
+msgid "スフィア256"
+msgstr ""
+
+#. ID 857
+msgctxt "items.name"
+msgid "スフィア257"
+msgstr ""
+
+#. ID 858
+msgctxt "items.name"
+msgid "スフィア258"
+msgstr ""
+
+#. ID 859
+msgctxt "items.name"
+msgid "スフィア259 ##ｿﾆｯｸﾌﾞ"
+msgstr ""
+
+#. ID 860
+msgctxt "items.name"
+msgid "スフィア260 ##獣王の"
+msgstr ""
+
+#. ID 861
+msgctxt "items.name"
+msgid "スフィア261 ##ｵｰﾌﾞｵﾌ"
+msgstr ""
+
+#. ID 862
+msgctxt "items.name"
+msgid "スフィア262 ##流転の"
+msgstr ""
+
+#. ID 863
+msgctxt "items.name"
+msgid "スフィア263-エーテル"
+msgstr ""
+
+#. ID 864
+msgctxt "items.name"
+msgid "スフィア264"
+msgstr ""
+
+#. ID 865
+msgctxt "items.name"
+msgid "スフィア265"
+msgstr ""
+
+#. ID 866
+msgctxt "items.name"
+msgid "スフィア266"
+msgstr ""
+
+#. ID 867
+msgctxt "items.name"
+msgid "スフィア267"
+msgstr ""
+
+#. ID 868
+msgctxt "items.name"
+msgid "スフィア268"
+msgstr ""
+
+#. ID 869
+msgctxt "items.name"
+msgid "スフィア269"
+msgstr ""
+
+#. ID 870
+msgctxt "items.name"
+msgid "スフィア270 ##ﾄﾞﾘｰﾐｨ"
+msgstr ""
+
+#. ID 871
+msgctxt "items.name"
+msgid "スフィア271"
+msgstr ""
+
+#. ID 872
+msgctxt "items.name"
+msgid "スフィア272"
+msgstr ""
+
+#. ID 873
+msgctxt "items.name"
+msgid "スフィア273"
+msgstr ""
+
+#. ID 874
+msgctxt "items.name"
+msgid "スフィア274 ##ﾀｰﾐﾈｰﾄ"
+msgstr ""
+
+#. ID 875
+msgctxt "items.name"
+msgid "スフィア275 ##幻魔独"
+msgstr ""
+
+#. ID 876
+msgctxt "items.name"
+msgid "スフィア276 ##ｲｯﾂｸｰﾙ"
+msgstr ""
+
+#. ID 877
+msgctxt "items.name"
+msgid "スフィア277 ##麗水晶"
+msgstr ""
+
+#. ID 878
+msgctxt "items.name"
+msgid "スフィア278 ##重度汚"
+msgstr ""
+
+#. ID 879
+msgctxt "items.name"
+msgid "スフィア279ＳＢﾌｧｸﾀｰ"
+msgstr ""
+
+#. ID 880
+msgctxt "items.name"
+msgid "スフィア280 ##豪魔の"
+msgstr ""
+
+#. ID 881
+msgctxt "items.name"
+msgid "*Ｔ クイックリカバリ"
+msgstr ""
+
+#. ID 882
+msgctxt "items.name"
+msgid "*Ｔ リフレックスALT"
+msgstr ""
+
+#. ID 883
+msgctxt "items.name"
+msgid "*Ｔ カウンターALT"
+msgstr ""
+
+#. ID 884
+msgctxt "items.name"
+msgid "*Ｔ ｳｨｻﾞｳﾄ/ ﾃﾞｨﾌｪﾝﾀﾞ"
+msgstr ""
+
+#. ID 885
+msgctxt "items.name"
+msgid "*Ｔ ﾉｰﾃｨｽ/ ﾄｩﾜｲｽT"
+msgstr ""
+
+#. ID 886
+msgctxt "items.name"
+msgid "*Ｔ ﾄｩﾜｲｽIE/ ﾄｩﾜｲｽI"
+msgstr ""
+
+#. ID 887
+msgctxt "items.name"
+msgid "*Ｔ ﾄｩﾜｲｽIS/ ﾘｼﾞｪﾈﾚｰ"
+msgstr ""
+
+#. ID 901
+msgctxt "items.name"
+msgid "*Ａ 攻魔ｱﾙﾃｨﾒｯﾄ ALT"
+msgstr ""
+
+#. ID 902
+msgctxt "items.name"
+msgid "*　回魔ｱﾙﾃｨﾒｯﾄ ALT"
+msgstr ""
+
+#. ID 903
+msgctxt "items.name"
+msgid "*　補魔ｱﾙﾃｨﾒｯﾄ ALT"
+msgstr ""
+
+#. ID 904
+#. ID 905
+#. ID 906
+#. ID 907
+#. ID 908
+#. ID 909
+#. ID 910
+#. ID 911
+#. ID 912
+#. ID 913
+msgctxt "items.name"
+msgid "*　"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "EP"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "LV"
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "SAVE：Select the SeraphicBlue-Memory"
+msgstr ""
+
+msgctxt "terms.load_game_message"
+msgid "REVIVE：Select the SeraphicBlue-Memory"
+msgstr ""
+
+msgctxt "terms.file"
+msgid " MEMORY"
+msgstr ""
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
+

@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 17, Page 1, Line 33, Pos (7,7)
+msgid ""
+"\n"
+"※ミネルヴァが\n"
+"  固有アビリティ\\c[19]『フェイタルガーディアン』\\c[0]を習得。"
+msgstr ""
+
+#. ID 17, Page 1, Line 49, Pos (7,7)
+msgid ""
+"キャサリン：\n"
+"来て呉れましたね。"
+msgstr ""
+
+#. ID 17, Page 1, Line 54, Pos (7,7)
+msgid ""
+"ベネディクタ：\n"
+"此処はガイアキャンサーに蝕まれしソウルホーム。\\|\n"
+"星の慟哭の結末たる物。"
+msgstr ""
+
+#. ID 17, Page 1, Line 57, Pos (7,7)
+msgid ""
+"ヴェーネ：\n"
+"そのようね。\\.\\.レオナも言っていたわ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 63, Pos (7,7)
+msgid ""
+"ベネディクタ：\n"
+"このアイシャの空は、\n"
+"言わば生命を守護する鉄壁に開いた\"穴\"。"
+msgstr ""
+
+#. ID 17, Page 1, Line 66, Pos (7,7)
+msgid ""
+"ベネディクタ：\n"
+"今この時、\\.\\.この星に於いて最も脆弱な箇所。"
+msgstr ""
+
+#. ID 17, Page 1, Line 71, Pos (7,7)
+msgid ""
+"キャサリン：\n"
+"彼らはこの領域に於いてその力を行使する事で、\n"
+"直接的に星の生命の殺傷を試みています。"
+msgstr ""
+
+#. ID 17, Page 1, Line 74, Pos (7,7)
+msgid ""
+"キャサリン：\n"
+"私とベネディクタの力も殆ど失われました。\\|\n"
+"星が衰弱している何よりの証拠です。"
+msgstr ""
+
+#. ID 17, Page 1, Line 80, Pos (7,7)
+msgid ""
+"ベネディクタ：\n"
+"最早頼れるのは、\n"
+"セラフィックブルーである貴女達だけ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 83, Pos (7,7)
+msgid ""
+"ベネディクタ：\n"
+"死を目前にしたこの星の、\\.\\.\n"
+"貴女達は最後の希望。"
+msgstr ""
+
+#. ID 17, Page 1, Line 89, Pos (7,7)
+msgid ""
+"キャサリン：\n"
+"相対するは、\\.\\.星を殺し、\n"
+"総てを無に帰さんとするクルスクの者達。"
+msgstr ""
+
+#. ID 17, Page 1, Line 92, Pos (7,7)
+msgid ""
+"キャサリン：\n"
+"最後のガイアキャンサー\"アイシャ\"との融合さえも\n"
+"果たした実行者…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 95, Pos (7,7)
+msgid ""
+"キャサリン：\n"
+"未曾有の脅威と災厄。\\|\n"
+"新たなるディザスティアです。"
+msgstr ""
+
+#. ID 17, Page 1, Line 101, Pos (7,7)
+msgid ""
+"ベネディクタ：\n"
+"彼らを倒した時、\n"
+"遂にガイアリバースへの扉が開かれるわ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 107, Pos (7,7)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 112, Pos (7,7)
+msgid ""
+"キャサリン：\n"
+"この最後の戦いに際して、\\.\\.\"なけなし\"ではありますが\n"
+"星の代弁者からの加護を授けましょう。"
+msgstr ""
+
+#. ID 17, Page 1, Line 137, Pos (7,7)
+msgid ""
+"\n"
+"※ミネルヴァが\n"
+"  固有アビリティ『フェイタルガーディアン』を習得。"
+msgstr ""
+
+#. ID 17, Page 1, Line 146, Pos (7,7)
+msgid ""
+"ベネディクタ：\n"
+"セラフィックブルー。\\|\n"
+"大いなる翼にて飛翔する天使がもたらす生命の力。"
+msgstr ""
+
+#. ID 17, Page 1, Line 152, Pos (7,7)
+msgid ""
+"キャサリン：\n"
+"最早何を懇願するまでもありません。\\|\n"
+"唯一つの切なる願いを除いては。"
+msgstr ""
+
+#. ID 17, Page 1, Line 158, Pos (7,7)
+msgid ""
+"キャサリン：\n"
+"この世界を救ってください。\\|\n"
+"生命の営みを諦めないでください。"
+msgstr ""
+
+#. ID 17, Page 1, Line 164, Pos (7,7)
+msgid ""
+"ベネディクタ：\n"
+"黒く忌まわしき、全ての鎖を打ち砕き…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 166, Pos (7,7)
+msgid ""
+"ベネディクタ：\n"
+"その翼を、有らん限りの力で広げて…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 180, Pos (7,7)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ええ…。\\|必ず…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 182, Pos (7,7)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]必ず…\\|この手で…。\\|\\.\\.\\^"
+msgstr ""
+

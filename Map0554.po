@@ -1,0 +1,925 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ごめんなさい、\\.\\.おネエちゃん…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"何故…\\|謝るの？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"こう成ったの、\\.\\.みんなワタシのせい。"
+msgstr ""
+
+#. ID 10, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"何故…\\.\\.そんな風に思うの？"
+msgstr ""
+
+#. ID 10, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ママが言ってた。"
+msgstr ""
+
+#. ID 10, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おまえなんて、\\.\\.産むんじゃなかった。"
+msgstr ""
+
+#. ID 10, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おまえなんて、\\.\\.居てもジャマなだけ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"アカデミーのみんなが言ってた。"
+msgstr ""
+
+#. ID 10, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おまえなんか消えちゃえ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おまえなんか、\\.\\.だれもヒツヨウとしてない。"
+msgstr ""
+
+#. ID 10, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"だから、\\.\\.ごめんなさい。"
+msgstr ""
+
+#. ID 10, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ワタシ、\\.\\.おネエちゃんのジャマ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]お願い…。\\.\\.\n"
+"そんな事を言わないで…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]そんな…\\.\\.人を傷付ける言葉を…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]貴女と…\\.\\.貴女を思う人々を…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"でも、\\.\\.今の貴女は\n"
+"その言葉しか持ち合わせてはいないのよね…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"人を蔑む事で別の人への愛に換えようとする、\n"
+"冷たい人々の中で…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]ねえ、\\.\\.ドリス？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 76, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"貴女の道を、\\.\\.教えて呉れる？"
+msgstr ""
+
+#. ID 10, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"独りきりで歩いて来た、\\.\\.貴女の道…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"だってこのままじゃあ、\\.\\.\n"
+"貴女はきっと蝕まれ、朽ちてしまう。"
+msgstr ""
+
+#. ID 10, Page 1, Line 86, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"私は決して歩む事は出来ないけれど、\n"
+"此処で貴女の道を知る事は出来る。"
+msgstr ""
+
+#. ID 10, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"独りきりで歩いて来た道だとしても、\n"
+"それを独りきりで抱え込む必要は何処にも無い…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 95, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"お願い。\\|私にも教えて。"
+msgstr ""
+
+#. ID 10, Page 1, Line 97, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"私には如何しても、\\.\\.\n"
+"貴女を独りにする事が出来ないから。"
+msgstr ""
+
+#. ID 10, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]うん…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 108, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ワタシのミチはね…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 10, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"彼女の道が語られ、今へと繋がる。"
+msgstr ""
+
+#. ID 10, Page 2, Line 12, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そして語られるべき言葉の無い、\\.\\.此処は時の狭間。"
+msgstr ""
+
+#. ID 10, Page 2, Line 14, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"しかし私の心は何処か冷めていた。\\.\\.\n"
+"私の隣に居るのは誰なのだろうと。"
+msgstr ""
+
+#. ID 10, Page 2, Line 17, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリスなのか。\\|\n"
+"それともメンチュンなのか。"
+msgstr ""
+
+#. ID 10, Page 2, Line 23, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"私はドリスを利用しているだけなのか。"
+msgstr ""
+
+#. ID 10, Page 2, Line 25, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"身を賭してこの子を守る事で、\\.\\.\n"
+"あの罪を償い、\\.\\.そして自分を赦そうとして…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 28, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"私は本当にこの子を守りたいのだろうか。\\|\n"
+"本当にこの子を思い遣っているのだろうか。"
+msgstr ""
+
+#. ID 10, Page 2, Line 34, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"自分が、\\.\\.何処までも腹立たしかった。"
+msgstr ""
+
+#. ID 10, Page 2, Line 36, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"心の乱れと迷いがドリスに伝わる事が、\n"
+"如何しようも無く怖かった。"
+msgstr ""
+
+#. ID 10, Page 2, Line 39, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"或いはドリスは既に、\n"
+"それを感じ取っていたかも知れず…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 42, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"それを彼女の口から告げられる事に、\n"
+"静かに怯えていた。"
+msgstr ""
+
+#. ID 10, Page 2, Line 48, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"しかし。\\|今は私だけ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 50, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"唯一この私のみが、\n"
+"ドリスの支えと成り得る。"
+msgstr ""
+
+#. ID 10, Page 2, Line 53, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"此処で私が強く在らねば、\n"
+"何の為に今まで強さを求めて来たというのか。"
+msgstr ""
+
+#. ID 10, Page 2, Line 59, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"メンチュンの無念が心を打つ。\n"
+"御師匠様の言葉が蘇る。"
+msgstr ""
+
+#. ID 10, Page 2, Line 62, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"為さねばならない。\\|\n"
+"全ての迷いを振り払って。"
+msgstr ""
+
+#. ID 10, Page 2, Line 65, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"この胸の、\\.\\.守りたいという心に、\\.\\.\n"
+"自らの全てを委ねて…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 71, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]我、\\.\\.強き者なり。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 8, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 15, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"誰ッ…！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 24, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]クククッ…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 26, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]モーガン…！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 32, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"何の用？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 34, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"前菜を楽しみに来た。"
+msgstr ""
+
+#. ID 10, Page 3, Line 36, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"何…？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 38, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"今部下に拷問器具を運ばせている。"
+msgstr ""
+
+#. ID 10, Page 3, Line 43, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"成る程。\\.\\.拷問が趣味って訳。"
+msgstr ""
+
+#. ID 10, Page 3, Line 45, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"そうとも。\\.\\.\n"
+"私はこれで相当なサディストでな。"
+msgstr ""
+
+#. ID 10, Page 3, Line 48, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"殊に貴様らの様に婦女子が囚われていると、\n"
+"もういたぶりたくて仕方無いのだよ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 51, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"俗世間のサドマゾなど遠く及ばん、\n"
+"目くるめく鬼畜の世界。"
+msgstr ""
+
+#. ID 10, Page 3, Line 54, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"行く行く殺す事を前提に、\n"
+"その肉体を徹底的に傷め付けて破壊する…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 57, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"その過程で身悶え苦しむ女の悲鳴程、\n"
+"この世で美しく心地良い物は存在しない。"
+msgstr ""
+
+#. ID 10, Page 3, Line 63, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"貴様らに分かるか？"
+msgstr ""
+
+#. ID 10, Page 3, Line 65, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"分かる訳無いでしょ。\\.\\.この変態。"
+msgstr ""
+
+#. ID 10, Page 3, Line 67, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"ぬうッ…！ \\|変態ッ…!?\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 73, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"へっ。\\.\\.言い負けてやんの。"
+msgstr ""
+
+#. ID 10, Page 3, Line 75, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"黙れエンデ！ \\.\\.貴様までも笑う事か！"
+msgstr ""
+
+#. ID 10, Page 3, Line 77, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"だって仕方無いじゃん。"
+msgstr ""
+
+#. ID 10, Page 3, Line 79, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"実際変態のクセに、変態って言われたら\n"
+"面食らってるんだからさ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 82, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"しっかりしなよ？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 90, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"ふん…。\\.\\.まあ良い…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 92, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"ドリスの様な\n"
+"ひ弱な存在を徹底的に蹂躙するも良し。"
+msgstr ""
+
+#. ID 10, Page 3, Line 95, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"貴様みたいな気の強い女を\n"
+"ジワジワと征服するも、また良し。"
+msgstr ""
+
+#. ID 10, Page 3, Line 98, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"二種類の楽しみが味わえる好機だ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 100, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"生憎だけど二種類じゃないわね。"
+msgstr ""
+
+#. ID 10, Page 3, Line 102, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"何だと？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 104, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"楽しみは一種類だけ。\n"
+"ドリスには指一本触れさせない。"
+msgstr ""
+
+#. ID 10, Page 3, Line 110, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"貴様はつくづく妙な女だ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 112, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"一度外に逃げ出したものを引き返し、\n"
+"自らの意志で此処に捕らわれた。"
+msgstr ""
+
+#. ID 10, Page 3, Line 115, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"そして今度は自ら鬼畜の責め苦に対して\n"
+"身を差し出す始末。"
+msgstr ""
+
+#. ID 10, Page 3, Line 121, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"さて、\\.\\.これを真性のマゾとするか如何か…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 123, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"強ちハズレでもないかもね。"
+msgstr ""
+
+#. ID 10, Page 3, Line 125, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"生命すら削る辛苦を以って\n"
+"己を赦し潤す行為をそう呼ぶならば。"
+msgstr ""
+
+#. ID 10, Page 3, Line 128, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"それはマゾとは呼ばん。\\.\\.\n"
+"\"死にたがり\"だ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 131, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"残念、\\.\\.御希望に添えなかったわね。"
+msgstr ""
+
+#. ID 10, Page 3, Line 133, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"いいや、添っているとも。"
+msgstr ""
+
+#. ID 10, Page 3, Line 135, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"私が見たいのはマゾの喜ぶ姿ではない。\\.\\.\n"
+"ノーマルの悶え苦しむ姿だ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 138, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"貴様は私の欲望を満たし得る。"
+msgstr ""
+
+#. ID 10, Page 3, Line 143, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 145, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"だが残念な事に、\n"
+"私の食指は貴様よりもドリスの方に動いている。"
+msgstr ""
+
+#. ID 10, Page 3, Line 148, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"先にドリスの方を楽しませて貰おう。"
+msgstr ""
+
+#. ID 10, Page 3, Line 150, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"駄目よッ！\\.\\.\n"
+"ドリスには手を出さないで！"
+msgstr ""
+
+#. ID 10, Page 3, Line 153, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"それは私が決める事だ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 159, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そう…。\\|そういう事だったのね…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 161, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 163, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"貴方、\\.\\.ドリスを選んだんじゃなくて、\n"
+"私を避けたのよ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 166, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"まるで意味が分からんな。"
+msgstr ""
+
+#. ID 10, Page 3, Line 168, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"なら分かり易く言ってあげる。"
+msgstr ""
+
+#. ID 10, Page 3, Line 173, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]貴方は、\\.\\.私が怖いのよ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 178, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]何だと…？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 180, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"貴方は拷問に依る婦女子の悲鳴が心地良いと、\n"
+"自分をサディストだと言った。"
+msgstr ""
+
+#. ID 10, Page 3, Line 183, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"でもそれは大嘘。\\.\\.\n"
+"都合良く言い換えた言葉の虚構。"
+msgstr ""
+
+#. ID 10, Page 3, Line 186, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"ならば何と言う！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 188, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"弱虫よッ！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 190, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"ぐっ………！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 192, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"貴方は自分より力の弱い婦女子を痛め付け、\n"
+"鬱積した感情を晴らしているに過ぎない。"
+msgstr ""
+
+#. ID 10, Page 3, Line 195, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"鬼畜？ \\.\\.拷問？ \\.\\.サディスト？\\.\\.\n"
+"片腹痛いわ！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 198, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"これは只の弱い者苛めよ！"
+msgstr ""
+
+#. ID 10, Page 3, Line 200, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"だから貴方はドリスを選ぶ事で私を避けた。\n"
+"私が普通よりは腕の立つ女だから。"
+msgstr ""
+
+#. ID 10, Page 3, Line 203, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"私を服従させる自信が無いから！\\.\\.\n"
+"私の反撃が怖いから！"
+msgstr ""
+
+#. ID 10, Page 3, Line 206, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"この小者め！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 211, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]お、\\.\\.おのれッ…！\\|\n"
+"言わせておけばッ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 220, Pos (0,0)
+#. ID 13, Page 1, Line 4, Pos (1,0)
+#. ID 13, Page 2, Line 4, Pos (1,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"なら私から拷問に掛けなさい！\\|\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 223, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"この肉を斬れ！ \\.\\.この骨を断て！\\|\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 226, Pos (0,0)
+#. ID 13, Page 1, Line 10, Pos (1,0)
+#. ID 13, Page 2, Line 10, Pos (1,0)
+msgid ""
+"\n"
+"モーガン：\n"
+"\\S[2]ぐぐ…！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 229, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"如何した！ \\.\\.早くしなさい！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 234, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"為せるならば為してみよ！ \\.\\.モーガン･ダグラス！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 255, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[5]ぐ…！ \\.\\.ぐ…！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 257, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"グギ\\S[2]ーーーィィィィッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 266, Pos (0,0)
+msgid ""
+"部下：\n"
+"モーガン様！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 271, Pos (0,0)
+msgid ""
+"部下：\n"
+"\\S[2]モーガン…\\.\\.様…？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 278, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[5]何だぁァァ…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 283, Pos (0,0)
+msgid ""
+"部下：\n"
+"あ…\\.\\.はい…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 285, Pos (0,0)
+msgid ""
+"部下：\n"
+"ユアン達が此方に近付いています。"
+msgstr ""
+
+#. ID 10, Page 3, Line 290, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"分かった…。\\|拷問は中止だ…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 292, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"お前達は引き続き準備を進めろ…。\\.\\.\n"
+"私も直ぐにプラントに向かう…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 295, Pos (0,0)
+msgid ""
+"部下：\n"
+"了解。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 304, Pos (0,0)
+#. ID 10, Page 3, Line 322, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 310, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"まあ、\\.\\.この世界を手に入れれば、\n"
+"拷問なぞ気の向いた時に幾らでも出来る。"
+msgstr ""
+
+#. ID 10, Page 3, Line 313, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"今はユアン共を迎える準備に\n"
+"専念しようではないか。"
+msgstr ""
+
+#. ID 10, Page 3, Line 316, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"聡明な判断ね。"
+msgstr ""
+
+#. ID 10, Page 3, Line 318, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"女、\\.\\.生命拾いしたな。"
+msgstr ""
+
+#. ID 10, Page 3, Line 320, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ええ。\\.\\.ホッとした。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 328, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"一緒に来て貰おうか。"
+msgstr ""
+
+#. ID 10, Page 3, Line 330, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"言っておくが脱走を企てても無駄だぞ。\n"
+"エンデが不可視の結界を張っている。"
+msgstr ""
+
+#. ID 10, Page 3, Line 336, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"さあ、\\.\\.来るんだ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 347, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"やれやれ。\\.\\.\n"
+"こう見てると情無いや。"
+msgstr ""
+
+#. ID 10, Page 3, Line 350, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"別に良いんだけどさ。\n"
+"最低限の仕事はして呉れたんだし。"
+msgstr ""
+
+#. ID 10, Page 3, Line 353, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"あんなのでも、\n"
+"一応勝ちの布石には使えるって事。"
+msgstr ""
+
+#. ID 10, Page 3, Line 359, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"言ってたっけ。\\.\\.\n"
+"\"歩\"が居ない将棋は負け将棋。"
+msgstr ""
+
+#. ID 10, Page 3, Line 362, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"余り同意は出来ないけど。"
+msgstr ""
+
+#. ID 13, Page 1, Line 7, Pos (1,0)
+#. ID 13, Page 2, Line 7, Pos (1,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"この肉を斬り、\\|この骨を断ってみなさい！\\|\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 13, Pos (1,0)
+#. ID 13, Page 2, Line 13, Pos (1,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"さあ如何したの！\\|\n"
+"早く！\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 19, Pos (1,0)
+#. ID 13, Page 2, Line 19, Pos (1,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"為せるものなら為してみよ！\\|\\.\\.\n"
+"モーガン･ダグラス！\\|\\^"
+msgstr ""
+

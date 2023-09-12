@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 22, Page 1, Line 18, Pos (13,10)
+#. Choice (4 options)
+msgid ""
+"＞レイヤーⅠ\n"
+"＞レイヤーⅡ\n"
+"\\C[3]＞レイヤーⅣ\n"
+"\\C[3]＞レイヤーⅤ"
+msgstr ""
+
+#. ID 22, Page 1, Line 38, Pos (13,10)
+#. Choice (4 options)
+msgid ""
+"＞レイヤーⅠ\n"
+"＞レイヤーⅡ\n"
+"＞レイヤーⅣ\n"
+"\\C[3]＞レイヤーⅤ"
+msgstr ""
+
+#. ID 22, Page 1, Line 57, Pos (13,10)
+#. Choice (4 options)
+msgid ""
+"＞レイヤーⅠ\n"
+"＞レイヤーⅡ\n"
+"＞レイヤーⅣ\n"
+"＞レイヤーⅤ"
+msgstr ""
+
+#. ID 22, Page 1, Line 128, Pos (13,10)
+#. ID 22, Page 1, Line 150, Pos (13,10)
+msgid ""
+"\\C[10]【中央エレベーター】\\C[0]\n"
+"＞セキュリティによって閉鎖されています。"
+msgstr ""
+

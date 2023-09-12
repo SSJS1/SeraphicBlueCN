@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 28, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]用済み…？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そう、\\.\\.お前はもう用済みだ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"如何して…。\\|御父様…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"先程部下が、ロアノークの不時着現場より\n"
+"ヴェーネを連れて来た。"
+msgstr ""
+
+#. ID 28, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"シリアの魂がこの手の中に。"
+msgstr ""
+
+#. ID 28, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"しかしながら、このシリアの魂を\n"
+"お前に繋げる事は技術的に不可能らしい。"
+msgstr ""
+
+#. ID 28, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"即ち\"ヴィルジニー29\"を\n"
+"新規作成する必要が在るという事だ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"既に手配を進め、数日後には素体作成に\n"
+"着手出来る見込みに成っている。"
+msgstr ""
+
+#. ID 28, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ヴィルジニー29。\\|\n"
+"いずれ転じてシリア･ローズバーグ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"それが今の私の娘。"
+msgstr ""
+
+#. ID 28, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"お前はもう不要なのだよ。\\|\n"
+"ヴィルジニー28ＶＶＦ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]私は…\\|棄てられるの…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"人聞きの悪い事だ。\\.\\.\n"
+"せめて\"引退\"とでも言って呉れ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"お前はとても善く役割を果たして呉れたし、\n"
+"優れた能力も持っている。"
+msgstr ""
+
+#. ID 28, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"今までの様にネオイーヴルの餌として廃棄処分に\n"
+"してしまうのは、少々惜しいというものだ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]私は…\\|如何成るの…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 85, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"私は如何もしない。"
+msgstr ""
+
+#. ID 28, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"私の元を永久に離れ、\n"
+"お前の好きな様に生きるのだ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"必要な物が在れば言うが良い。\\|\n"
+"餞別として何でも与えよう。"
+msgstr ""
+
+#. ID 28, Page 1, Line 93, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"勿論金でも構わんぞ。\\|\n"
+"浪費しなければ一生暮らせるだけの額を用意しよう。"
+msgstr ""
+
+#. ID 28, Page 1, Line 96, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"小金の為に汗水流さずに済むのは、\n"
+"この憂世に於いて最高の幸せの一つだ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 102, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 104, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"さあ、遠慮無く言うが良い。\\|\n"
+"私がその全てに応じ、満たして遣ろう。"
+msgstr ""
+
+#. ID 28, Page 1, Line 110, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]少し…\\|考える時間を…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 112, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"良かろう。\\.\\.\n"
+"今後のお前の\"豊かさ\"を決める重要な選択。"
+msgstr ""
+
+#. ID 28, Page 1, Line 115, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"憚らず貪欲に構え、\n"
+"要らぬ遠慮などしない事だ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 121, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]はい…。\\|御父様…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 9, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"レイヤーⅠ･飛行船発着場にてブルーウィングが一機、\n"
+"未承認で発進しました。"
+msgstr ""
+
+#. ID 28, Page 2, Line 12, Pos (0,0)
+msgid ""
+"オペレーター：\n"
+"如何致しましょう？"
+msgstr ""
+
+#. ID 28, Page 2, Line 17, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ヴィルジニーか…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 22, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"放っておけ。\\.\\.約束の餞別だ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 29, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"良いのかい、行かせて？"
+msgstr ""
+
+#. ID 28, Page 2, Line 31, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"もう用済みだからな。"
+msgstr ""
+
+#. ID 28, Page 2, Line 33, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"でもボディガードに格下げして留める位の\n"
+"計らいも在るんじゃないの？"
+msgstr ""
+
+#. ID 28, Page 2, Line 36, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\"唯一人\"たる事に意義が在る。\n"
+"劣化コピーは目障りなだけだ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 42, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"やれやれ。\\.\\.冷たい御方だ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 47, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"でも、逆襲されるとかの怖れは無いのかい？"
+msgstr ""
+
+#. ID 28, Page 2, Line 50, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"在り得ん話だ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 52, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"奴の擬似人格内に存在するのは、\n"
+"私に対する絶対不変の愛情と服従という摂理。"
+msgstr ""
+
+#. ID 28, Page 2, Line 55, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"故に私に対する逆襲は摂理の外。\\|\n"
+"思い付く事も無い。"
+msgstr ""
+
+#. ID 28, Page 2, Line 61, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"若し奴が私の元に戻って来たならば…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 63, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"奴は其処に跪き、\\.\\.\n"
+"私との再びの愛情の遣り取りを求めるだろう。"
+msgstr ""
+
+#. ID 28, Page 2, Line 66, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そう…。\\.\\.涙を流し声を震わせてな。"
+msgstr ""
+
+#. ID 28, Page 2, Line 68, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それで？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 75, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"隣に居るシリアとの\"真の愛\"を見せ付けるまでだ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 80, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"成る程…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 82, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"でも甘く見ない方が良いぜ？\n"
+"可愛さ余って何とやらとか言うんだろう？"
+msgstr ""
+
+#. ID 28, Page 2, Line 85, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"病魔の分際で人の心を語るか。\n"
+"滑稽な事だ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 88, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"別にそんな心算じゃないさ。\n"
+"ボクに人の心は理解出来ない。"
+msgstr ""
+
+#. ID 28, Page 2, Line 91, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ちょっとした\"知人\"の受け売りだよ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 96, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 103, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"まあ良い。\\.\\.どの道要らぬ心配だ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 105, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"いよいよ果たされるシリアの再生…。\\|\n"
+"誰にも邪魔はさせん…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 111, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 120, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"アンタ…\\|鋭いね。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 122, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"確かにコイツは面白く成りそうだ。"
+msgstr ""
+

@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (12,9)
+#. ID 4, Page 1, Line 4, Pos (19,9)
+msgid "※鍵が掛かっている。"
+msgstr ""
+
+#. ID 8, Page 1, Line 6, Pos (12,5)
+msgid ""
+"ドリス：\n"
+"おネエちゃん、つかれちゃった。"
+msgstr ""
+
+#. ID 8, Page 1, Line 8, Pos (12,5)
+msgid ""
+"ヤンシー：\n"
+"そうね。\\.\\.長旅だったものね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 10, Pos (12,5)
+msgid ""
+"ヤンシー：\n"
+"今日は早く休んで、\\.\\.明日は街を出歩こうか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 12, Pos (12,5)
+msgid ""
+"ドリス：\n"
+"うん、\\.\\.そうする。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 14, Pos (12,5)
+msgid ""
+"ヤンシー：\n"
+"それじゃ、今日はゆっくり休まないとね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 32, Pos (12,5)
+msgid ""
+"ランサード：\n"
+"戦争の決起集会を前に街の散策か…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 34, Pos (12,5)
+msgid ""
+"ランサード：\n"
+"扱い辛い…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 55, Pos (12,5)
+msgid ""
+"ニクソン：\n"
+"こんにちは。\\.\\.貴方も決起集会に？"
+msgstr ""
+
+#. ID 8, Page 1, Line 57, Pos (12,5)
+msgid ""
+"ランサード：\n"
+"一応は。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 62, Pos (12,5)
+msgid ""
+"ランサード：\n"
+"牧師みたいな格好だな…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 64, Pos (12,5)
+msgid ""
+"ニクソン：\n"
+"ええ、\\.\\.この前までは。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 71, Pos (12,5)
+msgid ""
+"ランサード：\n"
+"ホーイックの牧師か…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 73, Pos (12,5)
+msgid ""
+"ニクソン：\n"
+"御存じでしたか。"
+msgstr ""
+
+#. ID 8, Page 1, Line 75, Pos (12,5)
+msgid ""
+"ランサード：\n"
+"風の噂でな。\\.\\.今の今まで半信半疑だった。"
+msgstr ""
+
+#. ID 8, Page 1, Line 81, Pos (12,5)
+msgid ""
+"ランサード：\n"
+"気の毒な事だ。\\|\n"
+"月並みだが、気を確かに持って呉れ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 84, Pos (12,5)
+msgid ""
+"ニクソン：\n"
+"有難うございます。"
+msgstr ""
+
+#. ID 8, Page 1, Line 89, Pos (12,5)
+msgid ""
+"ニクソン：\n"
+"では、\\.\\.私はこれで…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 103, Pos (12,5)
+msgid ""
+"ニクソン：\n"
+"そう言えば今の人。\\.\\.\n"
+"何処と無く\"彼\"に似ていましたね…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 109, Pos (12,5)
+msgid ""
+"ニクソン：\n"
+"ランサード･シャイアン…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 111, Pos (12,5)
+msgid ""
+"ニクソン：\n"
+"失踪から十年。\\.\\.順当に老けていれば\n"
+"丁度あんな感じでしょうか…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 123, Pos (12,5)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 128, Pos (12,5)
+msgid ""
+"ランサード：\n"
+"それでも…。\\.\\.\n"
+"其処には幸福が在ったのだろうか…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 134, Pos (12,5)
+msgid ""
+"ランサード：\n"
+"\\S[2]或いは…\\.\\.お前の所にも…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 139, Pos (12,5)
+msgid ""
+"ランサード：\n"
+"\\S[2]アイシャ…。\\|\\^"
+msgstr ""
+

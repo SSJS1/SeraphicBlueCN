@@ -1,0 +1,431 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 24, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"久し振り。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、\\.\\.御久し振りね。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それで早速だけど、良い物件は在った？"
+msgstr ""
+
+#. ID 4, Page 1, Line 32, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ああ。\\.\\.其処なんかイケてると思うんだよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 34, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"表町の直ぐ近くだし、\n"
+"広さも在って状態も悪くない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"なら丁度良いわね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 42, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも本気？\\.\\.\n"
+"このケイオスにダンス教室なんて。"
+msgstr ""
+
+#. ID 4, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"思うに人が退廃して行く原因の一つが、\n"
+"打ち込めるものが何も無い事だと思うの。"
+msgstr ""
+
+#. ID 4, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そしてこのケイオスには、\n"
+"そういったものを提供する場が何処にも無い。"
+msgstr ""
+
+#. ID 4, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"だからダンス教室を作って、\n"
+"一人でも多くダンスに情熱を傾ける様に成れば、\n"
+"それは此処にとって大きなプラスの筈。"
+msgstr ""
+
+#. ID 4, Page 1, Line 55, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それにこの教室には表町の人々に向けても\n"
+"開放されるわ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"同じ街でありながら隔絶された二つの場所の人々が、\n"
+"ダンスを通じて交流を深める事を期待して。"
+msgstr ""
+
+#. ID 4, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"まあ当面は警備兵が常駐するけれどね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 67, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"で、\\.\\.何だってダンスなのさ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"私のとても親しい人に、\n"
+"丁度ダンスのエキスパートが居るから。"
+msgstr ""
+
+#. ID 4, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"その人は訳在って今はダンスから遠ざかってるけど、\n"
+"心の奥底の情熱は消せないまま。"
+msgstr ""
+
+#. ID 4, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"私は、彼女の本当に輝く姿を見てみたい。"
+msgstr ""
+
+#. ID 4, Page 1, Line 80, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"随分と個人的な目的だね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"でもダンスの素晴らしさも知っているでしょう？"
+msgstr ""
+
+#. ID 4, Page 1, Line 87, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"まあ、\\.\\.ね…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 95, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"この教室の先生に成って呉れるかしら？"
+msgstr ""
+
+#. ID 4, Page 1, Line 97, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"女王命令って奴？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 99, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"私からのお願いよ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 104, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ああ、\\.\\.喜んで。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"有難う、\\.\\.フォクシー。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 108, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それじゃあ早速だけど、\n"
+"貴女に会って貰いたい人が居るの。"
+msgstr ""
+
+#. ID 4, Page 1, Line 111, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"このプロジェクトは基本的に国の予算で\n"
+"運営されるけど、その他にも個人で結構な額を\n"
+"寄付して呉れた人が居るのよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 117, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"また奇特なのが居たモンだね。\n"
+"こんな冒険的＜むぼう＞なプロジェクトに。"
+msgstr ""
+
+#. ID 4, Page 1, Line 120, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"貴女は今日からダンス教室の先生。\n"
+"だからその人と一度会っておいて呉れないかしら？"
+msgstr ""
+
+#. ID 4, Page 1, Line 123, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"構わないよ。\\.\\.今日来てるの？"
+msgstr ""
+
+#. ID 4, Page 1, Line 125, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ、\\.\\.其処で待ってて貰ってる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"今呼ぶね。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 144, Pos (0,0)
+msgid ""
+"老人：\n"
+"元気そうで何よりだ、\\.\\.エリザベート。"
+msgstr ""
+
+#. ID 4, Page 1, Line 149, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アンタ…。\\|あの時の保安官…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 151, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それじゃあアンタが寄付を？"
+msgstr ""
+
+#. ID 4, Page 1, Line 153, Pos (0,0)
+msgid ""
+"老人：\n"
+"言っただろう？\\.\\.\n"
+"余生で使い切るには少々多過ぎる額の金が有ると。"
+msgstr ""
+
+#. ID 4, Page 1, Line 156, Pos (0,0)
+msgid ""
+"老人：\n"
+"君がダンス教室の先生を務めると聞いてね、\n"
+"迷わず寄付させて貰ったよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 159, Pos (0,0)
+msgid ""
+"老人：\n"
+"以前は養女にする事も考えていたが、\n"
+"やはりこの方が良い。"
+msgstr ""
+
+#. ID 4, Page 1, Line 162, Pos (0,0)
+msgid ""
+"老人：\n"
+"君はこれからもっともっと輝けるだろう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 167, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何やってんのさ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 169, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"寄付する位に金が有るんなら、\n"
+"幾らだって余生を豪華に過ごせるじゃないか…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 172, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それをこんな汚い街の、\n"
+"しかも前途多難のプロジェクトにさ…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 175, Pos (0,0)
+msgid ""
+"老人：\n"
+"生憎と私も此処の保安局で半生を過ごした身。\\|\n"
+"たとえ汚くとも、移ってしまった情は偽れんよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 178, Pos (0,0)
+msgid ""
+"老人：\n"
+"其処に君が住んでいるのなら、尚更だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 184, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも本当にそれで良いの？"
+msgstr ""
+
+#. ID 4, Page 1, Line 186, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"此処で保安官をやってたなら、\n"
+"金の力や有難味だって知ってる筈だよ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 189, Pos (0,0)
+msgid ""
+"老人：\n"
+"ああ、そうだな。\\.\\.\n"
+"御陰で金の使い道には何時も気を遣っている。"
+msgstr ""
+
+#. ID 4, Page 1, Line 192, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"だったら…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 194, Pos (0,0)
+msgid ""
+"老人：\n"
+"私はとても良い買い物をした。"
+msgstr ""
+
+#. ID 4, Page 1, Line 199, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 201, Pos (0,0)
+msgid ""
+"老人：\n"
+"億千万の金を積んでも買えるとは限らない宝石を、\n"
+"たったあれだけの金で買えたのだ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 204, Pos (0,0)
+msgid ""
+"老人：\n"
+"素晴らしい買い物だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 210, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"負けたよ。\\|アンタには敵わない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 215, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"名前。\\|教えて呉れる？"
+msgstr ""
+
+#. ID 4, Page 1, Line 220, Pos (0,0)
+msgid ""
+"老人：\n"
+"ハリーだ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 222, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そっか。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 227, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"有難う、\\.\\.ハリー。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 229, Pos (0,0)
+msgid ""
+"ハリー：\n"
+"如何致しまして、\\.\\.エリザベート。"
+msgstr ""
+
+#. ID 4, Page 1, Line 231, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"アタシの事はフォクシーで良いよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 233, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"今日までこの街をこの名前で生きて来た。"
+msgstr ""
+
+#. ID 4, Page 1, Line 235, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そして明日からもまた、\n"
+"この街をこの名前で生きて行く。"
+msgstr ""
+
+#. ID 4, Page 1, Line 238, Pos (0,0)
+msgid ""
+"ハリー：\n"
+"分かった。\\.\\.それでは改めて。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 243, Pos (0,0)
+msgid ""
+"ハリー：\n"
+"如何致しまして、\\.\\.フォクシー先生。"
+msgstr ""
+
+#. ID 4, Page 1, Line 248, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"意外と…\\.\\.良い響きだね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 255, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"なあ、\\.\\.ミネルヴァ？\\|\\.\\.\\^"
+msgstr ""
+

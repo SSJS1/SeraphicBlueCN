@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 15, Page 1, Line 3, Pos (13,6)
+msgid ""
+"剣士：\n"
+"この街は一歩外に出れば荒野が広がってる。"
+msgstr ""
+
+#. ID 15, Page 1, Line 5, Pos (13,6)
+msgid ""
+"剣士：\n"
+"元は草原だったのが、ディザスティアとの長い戦いで\n"
+"荒れ果て、碌に草も生えなく成ったらしい。"
+msgstr ""
+
+#. ID 16, Page 1, Line 78, Pos (4,7)
+msgid ""
+"ニクソン：\n"
+"先にラボの件を片付けておきましょう。"
+msgstr ""
+

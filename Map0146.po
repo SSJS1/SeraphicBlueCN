@@ -1,0 +1,607 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 3, Pos (20,10)
+msgid ""
+"聖職者：\n"
+"嘗て水鏡と呼ばれたこの湖。"
+msgstr ""
+
+#. ID 6, Page 1, Line 5, Pos (20,10)
+msgid ""
+"聖職者：\n"
+"それは単に水が綺麗というだけでなく、\n"
+"水に生命力が満ちていた事も理由と言えるでしょう。"
+msgstr ""
+
+#. ID 6, Page 1, Line 8, Pos (20,10)
+msgid ""
+"聖職者：\n"
+"しかし今、この湖からは殆ど生命力を感じられません。\n"
+"それどころか、何か不吉な災禍の予感すら…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 11, Pos (20,10)
+msgid ""
+"聖職者：\n"
+"一体如何してしまったというのでしょうか…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 3, Pos (20,10)
+msgid ""
+"聖職者：\n"
+"空に巣食う黒き滅びの兆候…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 5, Pos (20,10)
+msgid ""
+"聖職者：\n"
+"若しかしたらこの湖は、\n"
+"ずっと前から知っていたのかもしれませんね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 10, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"綺麗な湖ね…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 21, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"このラヴェンナ湖は嘗て\"水鏡\"と呼ばれ、\n"
+"一大観光地として賑わった場所です。"
+msgstr ""
+
+#. ID 8, Page 1, Line 24, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"まあ、20年程前の昔話なんですが…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 29, Pos (8,29)
+msgid ""
+"レイク：\n"
+"でも水鏡なんて程綺麗だとは思わないがな。\\|\n"
+"本当に流行ってたのか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 32, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"それは多分、\n"
+"人足が遠退き寂れて久しいからでしょう。"
+msgstr ""
+
+#. ID 8, Page 1, Line 35, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"湖全体からも元気が感じられませんし。"
+msgstr ""
+
+#. ID 8, Page 1, Line 37, Pos (8,29)
+msgid ""
+"レイク：\n"
+"観光地の末路って事か。"
+msgstr ""
+
+#. ID 8, Page 1, Line 39, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"世知辛い事です。"
+msgstr ""
+
+#. ID 8, Page 1, Line 44, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"そうね…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 46, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"あの頃はもっと美しい、\\.\\.正に水鏡だった…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 52, Pos (8,29)
+msgid ""
+"\\>レイク／ニクソン：\n"
+"………!?\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 59, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]そう…\\|あの頃は…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 68, Pos (8,29)
+msgid ""
+"\n"
+"男性：\n"
+"如何だ。\\.\\.綺麗だろ？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 71, Pos (8,29)
+msgid ""
+"\n"
+"女性：\n"
+"本当。\\.\\.こんな綺麗な場所が在ったのね…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 74, Pos (8,29)
+msgid ""
+"\n"
+"男性：\n"
+"まさか\"地元\"のお前より、\n"
+"\"余所者\"の俺の方が流行に詳しいなんてな…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 79, Pos (8,29)
+msgid ""
+"\n"
+"男性：\n"
+"安心しろ。\\.\\.俺も鳥篭は好きじゃない。"
+msgstr ""
+
+#. ID 8, Page 1, Line 82, Pos (8,29)
+msgid ""
+"\n"
+"男性：\n"
+"まあ当初の予定とは、大分外れるけどな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 86, Pos (8,29)
+msgid ""
+"\n"
+"女性：\n"
+"ねえ…。\\|若しも…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 90, Pos (8,29)
+msgid ""
+"\n"
+"男性：\n"
+"残念だけど、それは先ず在り得ない。\\|\n"
+"それの為に、俺達は今まで四苦八苦して来たんだ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 94, Pos (8,29)
+msgid ""
+"\n"
+"女性：\n"
+"それでも、\\.\\.万が一という事も…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 98, Pos (8,29)
+msgid ""
+"\n"
+"女性：\n"
+"ラヴェンナ…。\\|良い名前ね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 101, Pos (8,29)
+msgid ""
+"\n"
+"女性：\n"
+"それじゃあ…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 105, Pos (8,29)
+msgid ""
+"\n"
+"男性：\n"
+"そうだな…。\\.\\.そっちの場合は如何したもんかな…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 109, Pos (8,29)
+msgid ""
+"\n"
+"女性：\n"
+"そうね。\\.\\.それが良いわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 113, Pos (8,29)
+msgid ""
+"\n"
+"女性：\n"
+"ねえ…。\\|本当にこのままで居られるのかしら…？"
+msgstr ""
+
+#. ID 8, Page 1, Line 116, Pos (8,29)
+msgid ""
+"\n"
+"男性：\n"
+"断言は出来ない。\\.\\.\n"
+"でも俺は、それに生命を賭ける。"
+msgstr ""
+
+#. ID 8, Page 1, Line 120, Pos (8,29)
+msgid ""
+"\n"
+"男性：\n"
+"誓おう。\\|この思い出に。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 131, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"何時か…\\|私は此処に来ていた。"
+msgstr ""
+
+#. ID 8, Page 1, Line 133, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"間違い無い。\\.\\.\n"
+"その傍らには、愛しい人が居た。"
+msgstr ""
+
+#. ID 8, Page 1, Line 136, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"そしてこの湖の輝きに誓い、\\.\\.約束を交わした。"
+msgstr ""
+
+#. ID 8, Page 1, Line 138, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"今はもう見る影もない、\\.\\.その輝きに…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 143, Pos (8,29)
+msgid ""
+"レイク：\n"
+"約束…。\\|守れなかったのか…？"
+msgstr ""
+
+#. ID 8, Page 1, Line 148, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"覚えていないわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 150, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"でも…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 155, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"あの温かさを手繰って行くと、\\.\\.\n"
+"突然世界が冷たさに覆われる気がする…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 162, Pos (8,29)
+msgid ""
+"レイク：\n"
+"分かった。\\.\\.もう無理に思い出すな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 164, Pos (8,29)
+msgid ""
+"レイク：\n"
+"温かいままで良い。"
+msgstr ""
+
+#. ID 8, Page 1, Line 171, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"やっぱり、\\.\\.レイクは優しいね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 176, Pos (8,29)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 183, Pos (8,29)
+msgid ""
+"レイク：\n"
+"さあな。\\.\\.偶然だろ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 235, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"如何したの、\\.\\.黙り込んで？"
+msgstr ""
+
+#. ID 8, Page 1, Line 240, Pos (8,29)
+msgid ""
+"レイク：\n"
+"煩いな。\\.\\.ほっとけよ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 245, Pos (8,29)
+#. ID 13, Page 1, Line 101, Pos (18,24)
+#. ID 13, Page 1, Line 124, Pos (18,24)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 250, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"やれやれ…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 255, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"それにしても…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 261, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 268, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"ヴェーネの思い出は、\n"
+"恐らくこのラヴェンナが最も賑わっていた時期。"
+msgstr ""
+
+#. ID 8, Page 1, Line 271, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"即ち約20年前。"
+msgstr ""
+
+#. ID 8, Page 1, Line 273, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"その20年前に、彼女はそれ相応の年頃で、\n"
+"愛する男性と共に此処を訪れていたと…？"
+msgstr ""
+
+#. ID 8, Page 1, Line 279, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"当時の年齢を10代後半と低く仮定しても、\n"
+"現在ヴェーネは40歳近くという計算に成る…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 285, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"そんな馬鹿な。\\.\\.\n"
+"ヴェーネは如何見ても20歳近辺。"
+msgstr ""
+
+#. ID 8, Page 1, Line 288, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"或いは、天使は人間に比べて\n"
+"年老いて行くのが遅いとか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 291, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"いいえ、それは在り得ません。"
+msgstr ""
+
+#. ID 8, Page 1, Line 293, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"トロイはそんな事言ってませんでしたし、\n"
+"教会の子供達だって普通に成長している…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 299, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"矛盾も良い所ですよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 301, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"現在20歳近辺の彼女が、\\.\\.凡そ20年前に、\\.\\.\n"
+"少なくとも10代後半の年齢で居た…？"
+msgstr ""
+
+#. ID 8, Page 1, Line 311, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"ヴェーネ。\\.\\.つかぬ事を伺いますが…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 313, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"何？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 318, Pos (8,29)
+msgid ""
+"ニクソン：\n"
+"貴方…。\\.\\.歳は幾つですか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 323, Pos (8,29)
+msgid ""
+"ヴェーネ：\n"
+"22歳よ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 38, Pos (18,24)
+msgid ""
+"ヴェーネ：\n"
+"ラヴェンナ…。\\|\n"
+"あの時の…\\.\\.あの約束の場所…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 44, Pos (18,24)
+msgid ""
+"ヴェーネ：\n"
+"こんな未来を、\\.\\.こんな結末を、\\.\\.知る事も無く…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 49, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 54, Pos (18,24)
+msgid ""
+"ヴェーネ：\n"
+"御免なさい。\\|\n"
+"こんな風にしか再訪を果たせずに。"
+msgstr ""
+
+#. ID 13, Page 1, Line 57, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"何謝ってんだよ。\\.\\.悪いのは全部俺なんだ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 59, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"ああ、一から十まで。\\|\n"
+"何もかも、全て俺の罪だ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 65, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"それに…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 70, Pos (18,24)
+msgid ""
+"ヴェーネ：\n"
+"何…？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 75, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"\\S[3]シリアは、\\.\\.もう居ない。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 83, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"そんな顔をしないで呉れ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 85, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"お前は、\\.\\.ヴェーネなんだから。"
+msgstr ""
+
+#. ID 13, Page 1, Line 90, Pos (18,24)
+msgid ""
+"ヴェーネ：\n"
+"それでも…\\.\\.この彼女の残響を…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 92, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"その温もりは否定しない。"
+msgstr ""
+
+#. ID 13, Page 1, Line 94, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"だが其処に取り縋る事で、\\.\\.色んな物が否定される。"
+msgstr ""
+
+#. ID 13, Page 1, Line 96, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"そしてこの罪までも薄めてしまう。"
+msgstr ""
+
+#. ID 13, Page 1, Line 106, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"総てに訪れる、\\.\\.始まりと終わり。"
+msgstr ""
+
+#. ID 13, Page 1, Line 108, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"あの日々はもう終わり、\\.\\.\n"
+"この日々が始まった。"
+msgstr ""
+
+#. ID 13, Page 1, Line 114, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"きちんと見据えようぜ。\\|\n"
+"今この時、真に此処に在るべき物を。"
+msgstr ""
+
+#. ID 13, Page 1, Line 117, Pos (18,24)
+msgid ""
+"ユアン：\n"
+"なあ、\\.\\.ヴェーネ？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 133, Pos (18,24)
+msgid ""
+"ヴェーネ：\n"
+"シリア･ローズバーグ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 135, Pos (18,24)
+msgid ""
+"ヴェーネ：\n"
+"あれ程貴方が愛した人の、\\.\\.この魂の残響。"
+msgstr ""
+
+#. ID 13, Page 1, Line 137, Pos (18,24)
+msgid ""
+"ヴェーネ：\n"
+"何故そんなに頑なに拒むの？\\|\n"
+"私は別に構わないのに。"
+msgstr ""
+
+#. ID 13, Page 1, Line 140, Pos (18,24)
+msgid ""
+"ヴェーネ：\n"
+"貴方が望めば、\\.\\.私は\"彼女\"にも成れるのに。"
+msgstr ""
+
+#. ID 13, Page 1, Line 145, Pos (18,24)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]私なんかが居るよりも、\\.\\.\n"
+"ずっとずっと、\\.\\.幸せでしょう？"
+msgstr ""
+
+#. ID 15, Page 1, Line 3, Pos (21,15)
+msgid ""
+"男性：\n"
+"20年前、此処で結婚を誓ったんだ。\n"
+"でも空を見た瞬間、妻に三行半を突きつけられたよ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 6, Pos (21,15)
+msgid ""
+"男性：\n"
+"行く当てもないし、どうせ死ぬなら此処で死ぬよ。\n"
+"儚い夢を見させてくれたこの場所に、\n"
+"俺が持ちうる精一杯の憎悪を込めてやって…。"
+msgstr ""
+

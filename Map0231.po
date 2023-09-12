@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (6,5)
+msgid ""
+"男性：\n"
+"このケイオスを隠し遠ざけんばかりに\n"
+"高く分厚い…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 6, Pos (6,5)
+msgid ""
+"男性：\n"
+"見れば見る程に陰険だよな、あの壁は。"
+msgstr ""
+
+#. ID 2, Page 1, Line 3, Pos (13,8)
+msgid ""
+"男性：\n"
+"興味本位で来たんなら、さっさと帰りな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 5, Pos (13,8)
+msgid ""
+"男性：\n"
+"そういう気持ちの奴は、色んな誘惑にフラフラと\n"
+"着いて行って、気が付けば破滅してる。"
+msgstr ""
+
+#. ID 2, Page 1, Line 8, Pos (13,8)
+msgid ""
+"男性：\n"
+"これと決めて脇目も振らないお目当てが無い限り、\n"
+"この街は人を食い尽くすぜ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 30, Pos (1,0)
+msgid ""
+"レイク：\n"
+"下手に目立つと厄介な事に成るかも知れない。\\.\\.\n"
+"気を付けないと。"
+msgstr ""
+
+#. ID 10, Page 1, Line 52, Pos (1,0)
+msgid ""
+"レイク：\n"
+"表町とはえらい違いだな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 54, Pos (1,0)
+msgid ""
+"レイク：\n"
+"下手に目立つと厄介な事に成るかも知れない。\\|\n"
+"気を付けないと。"
+msgstr ""
+
+#. ID 10, Page 3, Line 51, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"此処が…\\|エンヴィ･ケイオス…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 56, Pos (1,0)
+#. ID 10, Page 3, Line 72, Pos (1,0)
+#. ID 10, Page 3, Line 84, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 61, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"確かに…\\.\\.レイクの言っていた通り空気が…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 66, Pos (1,0)
+msgid ""
+"フォクシー：\n"
+"如何した御嬢さん？\\|\n"
+"此処の汚い空気は御口に合わないかい？"
+msgstr ""
+
+#. ID 10, Page 3, Line 77, Pos (1,0)
+msgid ""
+"ミネルヴァ：\n"
+"平気よ、\\.\\.これ位。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 79, Pos (1,0)
+msgid ""
+"フォクシー：\n"
+"そう？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 3, Line 91, Pos (1,0)
+msgid ""
+"フォクシー：\n"
+"下手に息を止めると、\n"
+"反動で深呼吸して尚更にキツい。"
+msgstr ""
+
+#. ID 10, Page 3, Line 94, Pos (1,0)
+msgid ""
+"フォクシー：\n"
+"意識しないで普通にしてれば、\n"
+"直に慣れるよ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 100, Pos (1,0)
+msgid ""
+"フォクシー：\n"
+"さあ、\\.\\.先に進もうか。\\|\\.\\.\\^"
+msgstr ""
+

@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ねえドリス。\\|\n"
+"訊いても良いかしら？"
+msgstr ""
+
+#. ID 3, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"何故…\\|ヴェーネの所に行きたいの？"
+msgstr ""
+
+#. ID 3, Page 1, Line 17, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おトモダチだから。"
+msgstr ""
+
+#. ID 3, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"他に友達は？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"いないよ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"私は…\\|貴女の友達に成れるかしら？"
+msgstr ""
+
+#. ID 3, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"うん。\\|おネエちゃんはおトモダチ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ワタシのコト、\\.\\.イジめないから。"
+msgstr ""
+
+#. ID 3, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"有難う。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"何か相談が在る時は、\\.\\.遠慮無く言ってね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"貴女の力に、\\.\\.成りたいから。"
+msgstr ""
+

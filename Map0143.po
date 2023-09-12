@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 3, Pos (11,20)
+msgid ""
+"老婆：\n"
+"この辺境の村が有名に成ったのは、\n"
+"かれこれ20年位前。"
+msgstr ""
+
+#. ID 8, Page 1, Line 6, Pos (11,20)
+msgid ""
+"老婆：\n"
+"旅行情報誌に、水鏡と見紛うばかりの美しい湖として\n"
+"此処の湖が紹介されたのが切っ掛けだった。"
+msgstr ""
+
+#. ID 8, Page 1, Line 9, Pos (11,20)
+msgid ""
+"老婆：\n"
+"だが、今は御覧の通り。"
+msgstr ""
+
+#. ID 8, Page 1, Line 11, Pos (11,20)
+msgid ""
+"老婆：\n"
+"流行が来れば持てはやし、\n"
+"流行が去れば見向きもせん。"
+msgstr ""
+
+#. ID 8, Page 1, Line 14, Pos (11,20)
+msgid ""
+"老婆：\n"
+"流行り廃りが早い程、世の中は病んでおるわ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 3, Pos (11,20)
+msgid ""
+"老婆：\n"
+"ゲオルクの私利私欲にて勃発せし解放戦争。"
+msgstr ""
+
+#. ID 8, Page 2, Line 5, Pos (11,20)
+msgid ""
+"老婆：\n"
+"乗せる側も乗せる側なら、\n"
+"乗る側も乗る側。"
+msgstr ""
+
+#. ID 8, Page 2, Line 8, Pos (11,20)
+msgid ""
+"老婆：\n"
+"やっぱり世の中病んでおるわ。"
+msgstr ""
+
+#. ID 8, Page 3, Line 3, Pos (11,20)
+msgid ""
+"老婆：\n"
+"如何やら病んでおったのは世の中ではなく、\n"
+"この世界という存在そのものだったようだね…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (24,30)
+msgid ""
+"男の子：\n"
+"ここ、何にも無くってつまんないや。"
+msgstr ""
+
+#. ID 9, Page 1, Line 6, Pos (24,30)
+msgid ""
+"男の子：\n"
+"あ～あ。またダルムシュタットに行きたいな…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 12, Pos (24,30)
+msgid ""
+"男の子：\n"
+"ダルムシュタット、無くなっちゃった。"
+msgstr ""
+
+#. ID 9, Page 1, Line 14, Pos (24,30)
+msgid ""
+"男の子：\n"
+"何にも無いトコだけど、やっぱりここでいいや。"
+msgstr ""
+
+#. ID 11, Page 1, Line 3, Pos (14,14)
+msgid ""
+"女性：\n"
+"昔の恋愛ブームにあやかって、此処に来て見たけど、\n"
+"全然出会いなんてやってこなくて嫌になるわ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 6, Pos (14,14)
+msgid ""
+"女性：\n"
+"かと言ってユヴェスの野郎達には興味なんて無いし、\n"
+"ホワイトウィングの男達には私の性には合わない。\n"
+"ダルムシュタットでも見事にフラれまくったわ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 10, Pos (14,14)
+msgid ""
+"女性：\n"
+"ねぇ、私の素敵な出会いは何処に在るって言うのよ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 4, Pos (18,33)
+msgid ""
+"女の子：\n"
+"ここ、何にも無いけど、本当に楽しいよ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 6, Pos (18,33)
+msgid ""
+"女の子：\n"
+"虫やお花もたくさんあるし、友だちもいっぱいいるの。"
+msgstr ""
+
+#. ID 12, Page 1, Line 12, Pos (18,33)
+msgid ""
+"女の子：\n"
+"お空、まっくろになっちゃった。"
+msgstr ""
+
+#. ID 12, Page 1, Line 14, Pos (18,33)
+msgid ""
+"女の子：\n"
+"友だちもどこかいっちゃって、さびしいなぁ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 4, Pos (17,15)
+msgid ""
+"丁寧な旅人：\n"
+"この前までダルムシュタットに居たのですが、\n"
+"正直言ってこの村の方が僕の好みです。"
+msgstr ""
+
+#. ID 17, Page 1, Line 7, Pos (17,15)
+msgid ""
+"丁寧な旅人：\n"
+"個人的な嗜好でもあるのですが、あの街は如何も\n"
+"居るだけで疲れる様な気がするんです。"
+msgstr ""
+
+#. ID 17, Page 1, Line 10, Pos (17,15)
+msgid ""
+"丁寧な旅人：\n"
+"その点此方は、居るだけで\n"
+"身も心もリフレッシュする様な気がするんです。"
+msgstr ""
+
+#. ID 17, Page 1, Line 13, Pos (17,15)
+msgid ""
+"丁寧な旅人：\n"
+"暫くは此処に滞在しようと思ってるんです。"
+msgstr ""
+
+#. ID 17, Page 1, Line 20, Pos (17,15)
+msgid ""
+"丁寧な旅人：\n"
+"何だか気に入ったので、もう少し滞在します。"
+msgstr ""
+
+#. ID 17, Page 1, Line 26, Pos (17,15)
+msgid ""
+"丁寧な旅人：\n"
+"いい加減殺伐としているこの時勢。\n"
+"もうこの村を離れたく在りません。"
+msgstr ""
+
+#. ID 17, Page 2, Line 3, Pos (17,15)
+msgid ""
+"旅人：\n"
+"世界の終末すら感じさせる今ですからね。"
+msgstr ""
+
+#. ID 17, Page 2, Line 5, Pos (17,15)
+msgid ""
+"旅人：\n"
+"どうせ迎えるのなら、\n"
+"この村で穏やかに迎えようと思っています。"
+msgstr ""
+
+#. ID 18, Page 1, Line 4, Pos (5,43)
+msgid ""
+"村娘：\n"
+"見た所冒険者か旅人みたいね。\n"
+"地下洞に用かしら？"
+msgstr ""
+
+#. ID 18, Page 1, Line 7, Pos (5,43)
+msgid ""
+"村娘：\n"
+"それだったら、其処から湖畔に出て道なりに\n"
+"湖を対岸まで回り込んだ先。"
+msgstr ""
+
+#. ID 18, Page 1, Line 10, Pos (5,43)
+msgid ""
+"村娘：\n"
+"地下洞の入口が在るわよ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 16, Pos (5,43)
+msgid ""
+"村娘：\n"
+"こんな廃れた村に住んでて、\n"
+"私の人生これで良いのかしら…？"
+msgstr ""
+
+#. ID 18, Page 2, Line 3, Pos (5,43)
+msgid ""
+"村娘：\n"
+"空に開いた穴。\n"
+"想像も付かない様な異変。"
+msgstr ""
+
+#. ID 18, Page 2, Line 6, Pos (5,43)
+msgid ""
+"村娘：\n"
+"廃れた村に住むか賑やかな街に住むか。\n"
+"こう成ってはもう意味の無い事ね。"
+msgstr ""
+

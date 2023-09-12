@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"幸いにも、其処は村の近くだったようです。\\|\n"
+"私は村人から介抱を受けました。"
+msgstr ""
+
+#. ID 4, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"幸いにも、そこは村の近くだったようです。\\|\n"
+"私は村人から介抱を受けました。"
+msgstr ""
+
+#. ID 4, Page 1, Line 26, Pos (0,0)
+msgid ""
+"村人：\n"
+"もう大丈夫なのですか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ああ。\\.\\.本当に有難う。"
+msgstr ""
+
+#. ID 4, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"貴方達が見付けて呉れなかったら、\n"
+"私は今頃…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 34, Pos (0,0)
+msgid ""
+"村人：\n"
+"止してください。\\.\\.そんな縁起でもない事。"
+msgstr ""
+
+#. ID 4, Page 1, Line 36, Pos (0,0)
+msgid ""
+"村人：\n"
+"こうして助かったんですから、\n"
+"それで良いじゃないですか。"
+msgstr ""
+
+#. ID 4, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ああ。\\.\\.本当にありがとう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"あなた達が見付けてくれなかったら、\n"
+"私は今頃…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 46, Pos (0,0)
+msgid ""
+"村人：\n"
+"よしてください。\\.\\.そんな縁起でもないこと。"
+msgstr ""
+
+#. ID 4, Page 1, Line 48, Pos (0,0)
+msgid ""
+"村人：\n"
+"こうして助かったんですから、\n"
+"それでいいじゃないですか。"
+msgstr ""
+
+#. ID 4, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 68, Pos (0,0)
+msgid ""
+"村人：\n"
+"如何なされました？"
+msgstr ""
+
+#. ID 4, Page 1, Line 72, Pos (0,0)
+msgid ""
+"村人：\n"
+"どうなされました？"
+msgstr ""
+
+#. ID 4, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 86, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"思ったよりも…\\.\\.騒ぎに成ってないなと。"
+msgstr ""
+
+#. ID 4, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"思ったよりも…\\.\\.騒ぎになってないなと。"
+msgstr ""
+
+#. ID 4, Page 1, Line 94, Pos (0,0)
+msgid ""
+"村人：\n"
+"騒ぎ…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 96, Pos (0,0)
+msgid ""
+"村人：\n"
+"そりゃあ大騒ぎでしたよ。\\.\\.\n"
+"傷だらけの人が倒れていたんですから。"
+msgstr ""
+
+#. ID 4, Page 1, Line 99, Pos (0,0)
+msgid ""
+"村人：\n"
+"この片田舎じゃ一大事です。"
+msgstr ""
+
+#. ID 4, Page 1, Line 101, Pos (0,0)
+msgid ""
+"村人：\n"
+"やっぱりバウンティハンターの人ですか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 104, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"知らばっくれるな。\\|見た筈だろう？"
+msgstr ""
+
+#. ID 4, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"私が意識を失っていた以上、\n"
+"私の背中から出ていた筈だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"知らばっくれるな。\\|見たはずだろう？"
+msgstr ""
+
+#. ID 4, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"私が意識を失っていた以上、\n"
+"私の背中から出ていたはずだ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 118, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"天使の翼＜フェザー＞が。"
+msgstr ""
+
+#. ID 4, Page 1, Line 123, Pos (0,0)
+msgid ""
+"村人：\n"
+"さあ…。\\.\\.何せ慌ててたもので…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 125, Pos (0,0)
+msgid ""
+"村人：\n"
+"覚えてません。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"なっ…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 129, Pos (0,0)
+msgid ""
+"村人：\n"
+"それより林檎はお好きですか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 131, Pos (0,0)
+msgid ""
+"村人：\n"
+"今日はニトールさん家の林檎の収穫の日でして。\\|\n"
+"村で一番美味しいんですよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 134, Pos (0,0)
+msgid ""
+"村人：\n"
+"是非とも食べてみてください。"
+msgstr ""
+
+#. ID 4, Page 1, Line 144, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"当時ホワイトウィング･ラボラトリーは\n"
+"天使研究に際して懸賞金制度を設けていました。"
+msgstr ""
+
+#. ID 4, Page 1, Line 147, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ホーイックの幼天使孤児でさえ貴重とされた事情。\n"
+"成人男性の天使など値千金。"
+msgstr ""
+
+#. ID 4, Page 1, Line 151, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"見るからに相当貧しい村でしたから、\n"
+"その金が在ればどれだけ潤った事か…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 156, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"見るからに相当貧しい村でしたから、\n"
+"その金があればどれだけうるおったことか…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 171, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"御馳走様でした。"
+msgstr ""
+
+#. ID 4, Page 1, Line 173, Pos (0,0)
+#. ID 4, Page 1, Line 182, Pos (0,0)
+msgid ""
+"村人：\n"
+"毎年この時期に収穫しています。"
+msgstr ""
+
+#. ID 4, Page 1, Line 175, Pos (0,0)
+msgid ""
+"村人：\n"
+"遠路では在るでしょうが、\n"
+"宜しければまた食べに来て下さい。"
+msgstr ""
+
+#. ID 4, Page 1, Line 180, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ごちそう様でした。"
+msgstr ""
+
+#. ID 4, Page 1, Line 184, Pos (0,0)
+msgid ""
+"村人：\n"
+"遠路ではあるでしょうが、\n"
+"よろしければまた食べに来て下さい。"
+msgstr ""
+

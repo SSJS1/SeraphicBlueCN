@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 23, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"もう頃合だろう。\\.任務に戻ろうぜ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 31, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"此処は格別だね。\\.\\.\n"
+"とても自殺の名所だとは思えない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 37, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ま、\\.\\.見てくれだけだろうな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 39, Pos (0,0)
+msgid ""
+"レイク：\n"
+"どうせ真下の岸壁には、\n"
+"ホトケがゴロゴロしてやがる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 45, Pos (0,0)
+#. ID 4, Page 1, Line 101, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 51, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ねえアンタ。\\.\\.\n"
+"中々シラける事言って呉れるね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 54, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"もうちょっとロマンの在る台詞は無いの？"
+msgstr ""
+
+#. ID 4, Page 1, Line 56, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あんたの口から\n"
+"ロマンなんて言葉が聞けるとはな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 59, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"当然さ。\\.\\.ロマンを感じないようじゃ\n"
+"\"健全な女\"には成れないよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 62, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何の為に人がケイオスを出て来たと思ってんの？"
+msgstr ""
+
+#. ID 4, Page 1, Line 67, Pos (0,0)
+msgid ""
+"レイク：\n"
+"やれやれ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 70, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"スカしてんじゃないよ。\\.\\.\n"
+"そいつはアタシの台詞だね。"
+msgstr ""
+
+#. ID 4, Page 1, Line 76, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"まったく勿体無い。\\.\\.\n"
+"こんな所を自殺の名所にしちまって。"
+msgstr ""
+
+#. ID 4, Page 1, Line 79, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"最初に身を投げた奴の罪は大きいよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 86, Pos (0,0)
+msgid ""
+"レイク：\n"
+"高い所から海を見ると、\\.\\.\n"
+"何だか身を投げたい衝動に駆られる…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 89, Pos (0,0)
+msgid ""
+"レイク：\n"
+"と言うよりは、\\.\\.海の側に吸い寄せられる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 94, Pos (0,0)
+msgid ""
+"レイク：\n"
+"分からなくもない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 96, Pos (0,0)
+msgid ""
+"レイク：\n"
+"今でこそ昼間だが、これで夜とも成れば尚更だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 107, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"有難味の無い事さ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 109, Pos (0,0)
+msgid ""
+"レイク：\n"
+"かもな。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 111, Pos (0,0)
+msgid ""
+"レイク：\n"
+"でもそれで、\"あいつ\"と少しばかり\n"
+"気持ちを共にする事が出来る。"
+msgstr ""
+
+#. ID 4, Page 1, Line 114, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"あいつ？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 116, Pos (0,0)
+msgid ""
+"レイク：\n"
+"こっちの話だ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 121, Pos (0,0)
+msgid ""
+"レイク：\n"
+"でも意外だな。\\.\\.\n"
+"ケイオスの人間が自殺反対派か？"
+msgstr ""
+
+#. ID 4, Page 1, Line 124, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"誰が。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 126, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"せめて死ぬ時位、少しは場所に気を遣いな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 128, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"生ゴミを捨てるには、\n"
+"此処は少しばかり綺麗過ぎる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 131, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ゴミはゴミ捨て場だよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 133, Pos (0,0)
+msgid ""
+"レイク：\n"
+"最低限のマナーだな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 139, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"この景色…。\\|\n"
+"やっぱ何時見ても変わんねえな…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 148, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"前にも此処に？"
+msgstr ""
+
+#. ID 4, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"７年位前な。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 156, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"\\S[3]一家心中で。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 158, Pos (0,0)
+msgid ""
+"\\>レイク／フォクシー：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 163, Pos (0,0)
+msgid ""
+"レイク：\n"
+"心中…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 169, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"元々四人家族だったんだけどさ。\\|\n"
+"妹がルシファーに成っちまってよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 172, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"父さんも母さんも絶望しちまって、\n"
+"せめてもの救いを求めてDLG法遺族会に入った。"
+msgstr ""
+
+#. ID 4, Page 1, Line 175, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"でも、\\.\\.やっぱり駄目だった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 184, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"父さん！\\| 母さん！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 186, Pos (0,0)
+msgid ""
+"男性：\n"
+"駄目だボウズ！ \\.\\.近寄っちゃいけねえ！"
+msgstr ""
+
+#. ID 4, Page 1, Line 188, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"何だよ！ \\.\\.会わせてくれよッ！"
+msgstr ""
+
+#. ID 4, Page 1, Line 190, Pos (0,0)
+msgid ""
+"男性：\n"
+"駄目だ！ \\.\\.アレはもう親御さんじゃねえ！"
+msgstr ""
+
+#. ID 4, Page 1, Line 192, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"そんなの分かんないよ！"
+msgstr ""
+
+#. ID 4, Page 1, Line 194, Pos (0,0)
+msgid ""
+"男性：\n"
+"兎に角ッ！ \\.\\.駄目なモンは駄目だッ！"
+msgstr ""
+
+#. ID 4, Page 1, Line 197, Pos (0,0)
+msgid ""
+"男性：\n"
+"おい！ \\.\\.風が強いぞ！\\.\\.\n"
+"シートしっかり縛っとけ！"
+msgstr ""
+
+#. ID 4, Page 1, Line 200, Pos (0,0)
+msgid ""
+"男性：\n"
+"絶対にそんなモノ、\n"
+"ボウズに見せるんじゃねえぞ！"
+msgstr ""
+
+#. ID 4, Page 1, Line 203, Pos (0,0)
+msgid ""
+"男性：\n"
+"一生モンの傷＜トラウマ＞に成っちまう！"
+msgstr ""
+
+#. ID 4, Page 1, Line 212, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"一家心中の為に此処に来た、その夜だった。\\|\n"
+"俺が寝ている間に身を投げやがったのさ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 215, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"無責任に、俺一人だけ残しやがって。"
+msgstr ""
+
+#. ID 4, Page 1, Line 220, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"遺体の回収が行われたのは、明けたその日の夕方。\n"
+"海が紅く染まる頃。"
+msgstr ""
+
+#. ID 4, Page 1, Line 223, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"此処の景色は、\\.\\.あの日から変わっていない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 228, Pos (0,0)
+msgid ""
+"レイク：\n"
+"悪かった…。\\|\n"
+"さっきの台詞は取り消しとくぜ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 231, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"良いよ。\\.\\.あんたの本音なんだろ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 233, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"それに俺だって、\n"
+"何時までも縛られるガキで居るのは御免だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 236, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"寧ろあんたらみたいに、\n"
+"ホトケ云々と言い放てる位に解放されたいぜ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 242, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"バカだね…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 244, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"自覚してる。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 250, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"この際だから正直に言っちまうと、\n"
+"今回の任務は乗り気じゃない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 253, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"過去がアレだからな。\\.\\.\n"
+"半分は六年の祝祭者に賛成さ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 256, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"妹が連れて行かれてからの、\n"
+"二人の項垂れた姿を思い出すと…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 259, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"そう思わずには居られない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 264, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"イカれてるな、\\.\\.俺。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 266, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"罪じゃないさ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 274, Pos (0,0)
+msgid ""
+"レイク：\n"
+"大人が勝手に子供を独り残して、\n"
+"その人生を狂わせちまう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 277, Pos (0,0)
+msgid ""
+"レイク：\n"
+"最近の流行りみたいだな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 279, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"放っとけよ。\\.\\.ブームなんて直ぐ終わっちまう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 281, Pos (0,0)
+msgid ""
+"レイク：\n"
+"一度狂った人生は戻らないぜ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 283, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"言っただろ？\\.\\.\n"
+"縛られる程ガキじゃないって。"
+msgstr ""
+
+#. ID 4, Page 1, Line 289, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ。\\|そいつには同意だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 297, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"なあ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 302, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"若し身投げの現場に出くわしたら、\n"
+"あんたらは如何する？"
+msgstr ""
+
+#. ID 4, Page 1, Line 305, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"止めるか？ \\|イかせるか？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 310, Pos (0,0)
+msgid ""
+"レイク：\n"
+"放っておく。\\.\\.本人のやりたい様にやらせる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 312, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それが一番\"幸福\"だし…。\\|\n"
+"寧ろそれを止めてみせる程…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 315, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺は傲慢じゃない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 320, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"気が合うな。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 326, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"「生きてればその内良い事が在る」。\\|\n"
+"随分と市民権を得た言葉だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 329, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"また腹の膨れない代物を。"
+msgstr ""
+
+#. ID 4, Page 1, Line 331, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"自殺を止める奴の多くがこの言葉を吐く。\\|\n"
+"遺族会の集まりでも同じだった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 334, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"ブッ殺したいと思った。"
+msgstr ""
+
+#. ID 4, Page 1, Line 336, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"何奴も此奴も、良識振ったクソ偽善者。\\|\n"
+"それで人の生命を救ったと天狗に成ってやがる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 342, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"\"その内\"って何時だよ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 344, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"何年？ \\.\\.何月？ \\.\\.何日？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 349, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"二人は絶望の淵で、\\.\\.生き死にの狭間で、\\.\\.\n"
+"常に刹那の葛藤に見舞われていた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 352, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"何時来るとも、\\.\\.\n"
+"或いは来るか否かも知れない…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 355, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"そんな不確定な喜びを待つ余裕は、\n"
+"残されちゃいなかった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 358, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"だから身を投げた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 360, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"確実で、\\.\\.そして手の届く、\\.\\.\n"
+"ソイツは約束された安らぎと結末だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 366, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"俺は二人の選択を尊重してる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 368, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"俺としても、\n"
+"あんな二人を見てるのはキツかったしな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 371, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"あの自殺は、\\.\\.俺達を救って呉れたのさ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 376, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"俺とした事が、少し喋り過ぎちまった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 378, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"もう頃合だろう。\\.\\.任務に戻ろうぜ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 3, Pos (7,20)
+msgid ""
+"女性：\n"
+"とても綺麗な景色…。\n"
+"時間が経つのを忘れてしまいそう…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 3, Pos (7,20)
+msgid ""
+"女性：\n"
+"私、ずっと信じてるよ。\n"
+"キミといつまでも一緒にいられるってこと。"
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (8,20)
+msgid ""
+"男性：\n"
+"何だか、このままでずっと居たいな…。\n"
+"君の隣に、ずっと居たい。"
+msgstr ""
+
+#. ID 9, Page 2, Line 3, Pos (8,20)
+msgid ""
+"男性：\n"
+"僕も信じているさ。\n"
+"生きてこの約束を果たせるって事を。"
+msgstr ""
+
+#. ID 10, Page 1, Line 3, Pos (15,20)
+msgid ""
+"女性：\n"
+"あそこの二人ったら、本当に熱くて困るわ！\n"
+"此処がどんな場所だか知ってるのかしら？"
+msgstr ""
+
+#. ID 10, Page 1, Line 6, Pos (15,20)
+msgid ""
+"女性：\n"
+"き～ッ！ 見せ付けてんじゃねえぞオラ！"
+msgstr ""
+
+#. ID 10, Page 2, Line 8, Pos (15,20)
+msgid ""
+"女性：\n"
+"何だってこんな空だって言うのに、\n"
+"あの二人はいつまでもラブラブなのよッ！？"
+msgstr ""
+
+#. ID 10, Page 2, Line 11, Pos (15,20)
+msgid ""
+"女性：\n"
+"き～ッ！！\n"
+"蹴落とすぞコラ！"
+msgstr ""
+

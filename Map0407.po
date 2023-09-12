@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 15, Page 1, Line 3, Pos (5,23)
+msgid ""
+"男性：\n"
+"此処は城門前広場。\n"
+"言ってみれば市民公園だ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 6, Pos (5,23)
+msgid ""
+"男性：\n"
+"普段は意外と静かだけど、\n"
+"催し物とか在ると凄い混雑に成る。"
+msgstr ""
+
+#. ID 15, Page 1, Line 9, Pos (5,23)
+msgid ""
+"男性：\n"
+"最近だと去年のミネルヴァ様の戴冠式なんか。\n"
+"過去最大の人出だったそうだ。"
+msgstr ""
+
+#. ID 15, Page 2, Line 3, Pos (5,23)
+msgid ""
+"男性：\n"
+"暇な時は良く此処に居るんでね、\n"
+"大体の事は分かる。"
+msgstr ""
+
+#. ID 15, Page 2, Line 6, Pos (5,23)
+msgid ""
+"男性：\n"
+"空に穴が開いてからと言うもの、\n"
+"城壁の向こうの空気が今迄とは違うんだ。"
+msgstr ""
+
+#. ID 15, Page 2, Line 9, Pos (5,23)
+msgid ""
+"男性：\n"
+"特に分かり易いのは其処の門兵。\n"
+"この所だらけ気味だったのが急に引き締まった。"
+msgstr ""
+
+#. ID 15, Page 2, Line 12, Pos (5,23)
+msgid ""
+"男性：\n"
+"これって、やっぱり…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 4, Pos (33,28)
+msgid ""
+"女戦士：\n"
+"解放戦争が起きたけど、\n"
+"軍は特に新規の人材募集は掛けてないみたいだね。"
+msgstr ""
+
+#. ID 16, Page 1, Line 7, Pos (33,28)
+msgid ""
+"女戦士：\n"
+"初めから勝敗など知れてるって事か…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 14, Pos (33,28)
+msgid ""
+"女戦士：\n"
+"やっぱりゲオルクが負けたね。\n"
+"最後のラージュは結構危なかったけど。"
+msgstr ""
+
+#. ID 16, Page 1, Line 21, Pos (33,28)
+msgid ""
+"女戦士：\n"
+"空に開いた黒い穴…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 23, Pos (33,28)
+msgid ""
+"女戦士：\n"
+"黒くて丸いって事ではラージュと似てるかも\n"
+"知れないけど、今回は流石の政府軍も為す術無しか…。"
+msgstr ""
+
+#. ID 20, Page 1, Line 27, Pos (24,5)
+msgid ""
+"ユアン：\n"
+"さてと、\\.俺達も本部に戻るか。"
+msgstr ""
+
+#. ID 20, Page 1, Line 41, Pos (24,5)
+msgid ""
+"ミネルヴァ：\n"
+"少しの間だけど、お別れね。"
+msgstr ""
+
+#. ID 20, Page 1, Line 43, Pos (24,5)
+msgid ""
+"ユアン：\n"
+"気を付けるんだぞ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 45, Pos (24,5)
+msgid ""
+"フォクシー：\n"
+"ヤバいと思ったら無理するんじゃないよ。\\|\n"
+"直ぐに戻って来な。"
+msgstr ""
+
+#. ID 20, Page 1, Line 48, Pos (24,5)
+msgid ""
+"ハウゼン：\n"
+"案ずる事は無い。\\|このハウゼンが付いている。"
+msgstr ""
+
+#. ID 20, Page 1, Line 55, Pos (24,5)
+msgid ""
+"ハウゼン：\n"
+"それでは参りましょう。"
+msgstr ""
+
+#. ID 20, Page 1, Line 57, Pos (24,5)
+msgid ""
+"ミネルヴァ：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 20, Page 1, Line 70, Pos (24,5)
+msgid ""
+"ユアン：\n"
+"さてと、\\.\\.俺達も本部に戻るか。"
+msgstr ""
+
+#. ID 20, Page 1, Line 75, Pos (24,5)
+#. ID 34, Page 3, Line 21, Pos (27,5)
+#. ID 34, Page 3, Line 46, Pos (27,5)
+msgid ""
+"フォクシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 19, Pos (25,5)
+msgid ""
+"兵士：\n"
+"これはミネルヴァ様。\\.\\.\n"
+"何やら御急ぎの様で如何なされましたか？"
+msgstr ""
+
+#. ID 29, Page 1, Line 22, Pos (25,5)
+msgid ""
+"ミネルヴァ：\n"
+"御願い。\\.\\.今直ぐデイジーに会わせて。"
+msgstr ""
+
+#. ID 29, Page 1, Line 24, Pos (25,5)
+msgid ""
+"兵士：\n"
+"しかし今デイジー様は大変に御多忙でして、\n"
+"たとえミネルヴァ様でも容易くは…。"
+msgstr ""
+
+#. ID 29, Page 1, Line 27, Pos (25,5)
+msgid ""
+"ミネルヴァ：\n"
+"実行者の正体が掴めそうなの。"
+msgstr ""
+
+#. ID 29, Page 1, Line 29, Pos (25,5)
+msgid ""
+"兵士：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 31, Pos (25,5)
+msgid ""
+"兵士：\n"
+"承知しました。\\.\\.直ちに手配します。"
+msgstr ""
+
+#. ID 34, Page 3, Line 13, Pos (27,5)
+msgid ""
+"ミネルヴァ：\n"
+"如何したの、\\.\\.フォクシー？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 34, Page 3, Line 23, Pos (27,5)
+msgid ""
+"ミネルヴァ：\n"
+"ねえってば。\\|\\^"
+msgstr ""
+
+#. ID 34, Page 3, Line 25, Pos (27,5)
+msgid ""
+"フォクシー：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 34, Page 3, Line 27, Pos (27,5)
+msgid ""
+"ミネルヴァ：\n"
+"ねえ…。\\|\\^"
+msgstr ""
+
+#. ID 34, Page 3, Line 29, Pos (27,5)
+msgid ""
+"フォクシー：\n"
+"ん？\\|\\^"
+msgstr ""
+
+#. ID 34, Page 3, Line 34, Pos (27,5)
+msgid ""
+"フォクシー：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 34, Page 3, Line 36, Pos (27,5)
+msgid ""
+"ミネルヴァ：\n"
+"何難しい顔してるの？"
+msgstr ""
+
+#. ID 34, Page 3, Line 38, Pos (27,5)
+msgid ""
+"フォクシー：\n"
+"ちょっと気に成る事が有ってね。"
+msgstr ""
+
+#. ID 34, Page 3, Line 40, Pos (27,5)
+msgid ""
+"ミネルヴァ：\n"
+"ジョシュアとレオナ？\\|\n"
+"それともカーチスとハイディ？"
+msgstr ""
+
+#. ID 34, Page 3, Line 48, Pos (27,5)
+msgid ""
+"ミネルヴァ：\n"
+"でも状況から判断すれば、\n"
+"あの二人が黒幕としか考えられないわ。"
+msgstr ""
+
+#. ID 34, Page 3, Line 51, Pos (27,5)
+msgid ""
+"フォクシー：\n"
+"ああ…。\\|それは納得してる…。"
+msgstr ""
+
+#. ID 34, Page 3, Line 53, Pos (27,5)
+msgid ""
+"ミネルヴァ：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 34, Page 3, Line 58, Pos (27,5)
+msgid ""
+"ミネルヴァ：\n"
+"他に何か？\\|\\^"
+msgstr ""
+
+#. ID 34, Page 3, Line 63, Pos (27,5)
+msgid ""
+"フォクシー：\n"
+"\\S[2]ちょっと、\\.\\.ね…。\\|\\^"
+msgstr ""
+
+#. ID 34, Page 3, Line 72, Pos (27,5)
+msgid ""
+"フォクシー：\n"
+"\"カーチス＝ジョシュア\"…。"
+msgstr ""
+
+#. ID 34, Page 3, Line 74, Pos (27,5)
+msgid ""
+"フォクシー：\n"
+"カーチスは、\\.\\.ケインの親父だった…。"
+msgstr ""
+
+#. ID 34, Page 4, Line 6, Pos (27,5)
+msgid ""
+"フォクシー：\n"
+"止めて呉れよ。\\.\\.そんな冗談。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 36, Page 1, Line 18, Pos (15,13)
+msgid ""
+"ミネルヴァ：\n"
+"C.M.G.C.解散後、その委員長であったオーウェンには\n"
+"新たに内政部の椅子が用意されていた。"
+msgstr ""
+
+#. ID 36, Page 1, Line 21, Pos (15,13)
+msgid ""
+"ミネルヴァ：\n"
+"しかしながら彼はそれを辞退すると同時に辞職、\n"
+"私達の所から去っていった。"
+msgstr ""
+
+#. ID 36, Page 1, Line 24, Pos (15,13)
+msgid ""
+"ミネルヴァ：\n"
+"聞けば古傷の調子が芳しくないようで、\n"
+"これを機に暫く静養の日々を過ごすとか。"
+msgstr ""
+
+#. ID 36, Page 1, Line 27, Pos (15,13)
+msgid ""
+"ミネルヴァ：\n"
+"また市井より支配者の何たるかを見詰め直す\n"
+"好機だとも語っていた。"
+msgstr ""
+
+#. ID 36, Page 1, Line 36, Pos (15,13)
+msgid ""
+"ミネルヴァ：\n"
+"だがやはり城の様子が気に成るのだろうか。\\|\n"
+"今でも週に一度はジェラール達の様子を見に来ては、\n"
+"あれやこれやと注文を付けている。"
+msgstr ""
+
+#. ID 36, Page 1, Line 40, Pos (15,13)
+msgid ""
+"ミネルヴァ：\n"
+"そんな事なら\n"
+"此処に残れば良かったではないかとも思うのだが…。"
+msgstr ""
+
+#. ID 36, Page 1, Line 43, Pos (15,13)
+msgid ""
+"ミネルヴァ：\n"
+"それは少々無粋な物言いだろうか。"
+msgstr ""
+
+#. ID 37, Page 1, Line 4, Pos (16,18)
+msgid ""
+"女性：\n"
+"此処って、市民公園なのに人数が疎らなんですよ。\n"
+"だから、ゆっくりしたい時には格好の場所です。"
+msgstr ""
+
+#. ID 37, Page 1, Line 9, Pos (16,18)
+msgid ""
+"女性：\n"
+"何でも最近、部屋の中に籠もる人が多いようで、\n"
+"様々な健康障害が発生しているとか。"
+msgstr ""
+
+#. ID 37, Page 1, Line 12, Pos (16,18)
+msgid ""
+"女性：\n"
+"どんなに忙しい人でも、こうやって外に出て\n"
+"ちょっと身体を動かせば良いのにと思いますよ。"
+msgstr ""
+

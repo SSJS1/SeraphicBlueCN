@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 18, Pos (16,19)
+msgid ""
+"ニクソン：\n"
+"またマキシムの所に行かないといけませんからね、\n"
+"外には出ない方がいいでしょう。"
+msgstr ""
+
+#. ID 24, Page 1, Line 3, Pos (11,15)
+msgid ""
+"女の子：\n"
+"あのビル、こっからでも見えるんだよ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 5, Pos (11,15)
+msgid ""
+"女の子：\n"
+"すごいよね～。"
+msgstr ""
+
+#. ID 25, Page 1, Line 4, Pos (11,14)
+msgid ""
+"女の子：\n"
+"もう、前に立たないでよ。\n"
+"ビルが見えないじゃない。"
+msgstr ""
+
+#. ID 26, Page 1, Line 3, Pos (21,11)
+msgid ""
+"女性：\n"
+"此処の名物と言えばやっぱりスカイスクレイパーと、\n"
+"その周囲に広がるスカイスクレイパーパークだね。"
+msgstr ""
+
+#. ID 26, Page 1, Line 6, Pos (21,11)
+msgid ""
+"女性：\n"
+"田舎から出て来たからには、\n"
+"一度は行っておかないと。"
+msgstr ""
+
+#. ID 26, Page 2, Line 3, Pos (21,11)
+msgid ""
+"オバサン：\n"
+"何だかすっかり雰囲気悪く成っちまったね…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 26, Pos (12,17)
+#. ID 28, Page 1, Line 106, Pos (12,17)
+msgid ""
+"ニクソン：\n"
+"このメインストリートを真直ぐ進み、\n"
+"途中で左手の路地に入ってください。"
+msgstr ""
+
+#. ID 28, Page 1, Line 29, Pos (12,17)
+#. ID 28, Page 1, Line 109, Pos (12,17)
+msgid ""
+"ニクソン：\n"
+"奥の突き当たりに「ガンホリック･マキシム」という\n"
+"バーが在る筈です。"
+msgstr ""
+
+#. ID 28, Page 1, Line 37, Pos (12,17)
+msgid ""
+"ニクソン：\n"
+"此処に来るのも随分と久し振りですね。"
+msgstr ""
+
+#. ID 28, Page 1, Line 42, Pos (12,17)
+msgid ""
+"ヴェーネ：\n"
+"あの正面に見えるビルは何かしら…？"
+msgstr ""
+
+#. ID 28, Page 1, Line 66, Pos (12,17)
+msgid ""
+"ニクソン：\n"
+"あれはローズバーググループの本社ビルディングで、\n"
+"\\C[19]スカイスクレイパー\\C[0]と呼ばれています。"
+msgstr ""
+
+#. ID 28, Page 1, Line 72, Pos (12,17)
+msgid ""
+"レイク：\n"
+"あれがそうなのか…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 74, Pos (12,17)
+msgid ""
+"レイク：\n"
+"前々から話には聞いていたが、\n"
+"あんなに高いとは思ってなかったな。"
+msgstr ""
+
+#. ID 28, Page 1, Line 77, Pos (12,17)
+msgid ""
+"ニクソン：\n"
+"ええ、\\.\\.私も初めて見た時は驚きました。"
+msgstr ""
+
+#. ID 28, Page 1, Line 84, Pos (12,17)
+msgid ""
+"ニクソン：\n"
+"後で行ってみましょうか。"
+msgstr ""
+
+#. ID 28, Page 1, Line 86, Pos (12,17)
+msgid ""
+"ヴェーネ：\n"
+"良いわね。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 91, Pos (12,17)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 98, Pos (12,17)
+msgid ""
+"レイク：\n"
+"それで、\\.\\.その前にやっておく事が有るだろう？"
+msgstr ""
+
+#. ID 28, Page 1, Line 100, Pos (12,17)
+msgid ""
+"レイク：\n"
+"ニクソンの元相棒がやってるバーってのは？"
+msgstr ""
+
+#. ID 28, Page 3, Line 40, Pos (12,17)
+msgid ""
+"ヤンシー：\n"
+"これがダルムシュタット。\\|\n"
+"成る程、聞きしに優る商業繁華の都ね。"
+msgstr ""
+
+#. ID 28, Page 3, Line 43, Pos (12,17)
+msgid ""
+"ヤンシー：\n"
+"特に今は決起集会を控えて有志が集い、\n"
+"水増しされてるって所かしら。"
+msgstr ""
+
+#. ID 28, Page 3, Line 49, Pos (12,17)
+msgid ""
+"ヤンシー：\n"
+"取り敢えず、\\.\\.今は宿の確保ね。"
+msgstr ""
+
+#. ID 32, Page 1, Line 3, Pos (10,8)
+msgid ""
+"女戦士：\n"
+"ふぅ…、ラヴェンナから此処まで歩いて来るのは\n"
+"一苦労だったから、早く宿で休みたいよ。"
+msgstr ""
+
+#. ID 32, Page 1, Line 6, Pos (10,8)
+msgid ""
+"女戦士：\n"
+"…でもこの喧騒じゃあ、\n"
+"あまり休めたものじゃないかもねぇ。"
+msgstr ""
+
+#. ID 32, Page 3, Line 3, Pos (10,8)
+msgid ""
+"女戦士：\n"
+"決起集会は無事終わったよ。\n"
+"私たちは、フェジテの襲撃に備えておくために、\n"
+"此処を守らなきゃいけないってさ。"
+msgstr ""
+
+#. ID 32, Page 3, Line 7, Pos (10,8)
+msgid ""
+"女戦士：\n"
+"でも此処って、スカイスクレイパーまで一本道だし、\n"
+"要塞としてはイマイチなんだよねぇ。"
+msgstr ""
+
+#. ID 32, Page 3, Line 10, Pos (10,8)
+msgid ""
+"女戦士：\n"
+"それこそ堀とかを作っておかなくちゃ駄目なのに、\n"
+"ロビンは一行に動く気配無し。"
+msgstr ""
+
+#. ID 32, Page 3, Line 13, Pos (10,8)
+msgid ""
+"女戦士：\n"
+"何だか眉唾だね。\n"
+"もしかしたら何か裏があるのかもね…。"
+msgstr ""
+

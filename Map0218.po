@@ -1,0 +1,521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 26, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"見えましたか？\\.\\.\n"
+"貴方の想いは…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 30, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"無に帰そうとする流れを有へ向ける力。\\|\n"
+"道標と、歩みの源。"
+msgstr ""
+
+#. ID 9, Page 1, Line 34, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あんた達…。\\|\n"
+"若しかして\"星の御遣い\"…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 38, Pos (0,0)
+msgid ""
+"レイク：\n"
+"否…？ \\.\\.そもそもこれは現実なのか…？"
+msgstr ""
+
+#. ID 9, Page 1, Line 40, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺はエンデの野郎に\n"
+"ソウルストリームに落とされたんだ…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 43, Pos (0,0)
+msgid ""
+"レイク：\n"
+"だったら此処は…。\\.\\.\n"
+"落ちて落ちて行き着いた先…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 47, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[3]俺は…\\.\\.死んだのか…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 50, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"いいえ。\\.\\.貴方は死んではいません。"
+msgstr ""
+
+#. ID 9, Page 1, Line 52, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"そして、\\.\\.生きてもいません。"
+msgstr ""
+
+#. ID 9, Page 1, Line 55, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"此処は生死の存在しない場所。\\.\\.\n"
+"本質のテリトリー。"
+msgstr ""
+
+#. ID 9, Page 1, Line 58, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"自分とは即ちこの場の総て。\\.\\.\n"
+"この場の総てとは即ち自分。"
+msgstr ""
+
+#. ID 9, Page 1, Line 62, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"此処に於ける総ては、\\.\\.貴方自身なのですよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 64, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"肉体たる器を超え、\\.\\.魂たる定型を超え、\\.\\.\n"
+"此処に溶け散った貴方の本質＜すべて＞。"
+msgstr ""
+
+#. ID 9, Page 1, Line 67, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"それらは貴方を隙間無く見透かし、\n"
+"また貴方もそれらを満遍無く見渡す。"
+msgstr ""
+
+#. ID 9, Page 1, Line 71, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"此処に於いてあらゆる事象は、\n"
+"即ち自己との対話なのです。"
+msgstr ""
+
+#. ID 9, Page 1, Line 75, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それじゃあ、さっきまでの記憶は…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 77, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"回顧の\"それ\"。\\.\\.\n"
+"記憶を辿る事で、己を掴む行為。"
+msgstr ""
+
+#. ID 9, Page 1, Line 80, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"貴方と\"貴方\"が求め合っていた。\\.\\.\n"
+"見せて貰う事。\\.\\.見て貰う事。"
+msgstr ""
+
+#. ID 9, Page 1, Line 85, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何だか…\\.\\.訳が分からなく成って来たな。"
+msgstr ""
+
+#. ID 9, Page 1, Line 87, Pos (0,0)
+msgid ""
+"レイク：\n"
+"此処で俺が自分と\n"
+"向き合ってるのは良いとして…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 90, Pos (0,0)
+msgid ""
+"レイク：\n"
+"結局の所、\"この俺\"は如何成ってる？"
+msgstr ""
+
+#. ID 9, Page 1, Line 92, Pos (0,0)
+msgid ""
+"レイク：\n"
+"こうして今喋っている俺は？"
+msgstr ""
+
+#. ID 9, Page 1, Line 94, Pos (0,0)
+msgid ""
+"レイク：\n"
+"生きているのか？ \\.\\.死んでいるのか？"
+msgstr ""
+
+#. ID 9, Page 1, Line 96, Pos (0,0)
+msgid ""
+"レイク：\n"
+"夢なのか？ \\.\\.現実なのか？"
+msgstr ""
+
+#. ID 9, Page 1, Line 99, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"それらは全て本質の下位に位置する物。\\.\\.\n"
+"この本質の領域では、それらは全て未定義なのです。"
+msgstr ""
+
+#. ID 9, Page 1, Line 102, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"正確には、\\.\\.貴方が定義者と成る。"
+msgstr ""
+
+#. ID 9, Page 1, Line 105, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"これが\"死\"で在ると言うのなら、\n"
+"貴方はその通り本来の世界でも死ぬ事に。"
+msgstr ""
+
+#. ID 9, Page 1, Line 108, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"その逆も、\\.\\.また然り。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 111, Pos (0,0)
+msgid ""
+"レイク：\n"
+"全ては俺次第って訳か。"
+msgstr ""
+
+#. ID 9, Page 1, Line 115, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"レイク。\\.\\.貴方はとても揺れています。"
+msgstr ""
+
+#. ID 9, Page 1, Line 118, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"イーヴル殺しに憂き身をやつす闇。\\|\n"
+"ヴェーネに対し想いを馳せる光。"
+msgstr ""
+
+#. ID 9, Page 1, Line 121, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"光を汚さぬ為闇に帰ろうか。\\|\n"
+"闇を振り払って光の中に生きようか。"
+msgstr ""
+
+#. ID 9, Page 1, Line 125, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"今此処は、\\.\\.生と死の境界。"
+msgstr ""
+
+#. ID 9, Page 1, Line 127, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"何者から、\\.\\.何物も強制される事の無い、\\.\\.\n"
+"世界で唯一つの完全なる自由の場。"
+msgstr ""
+
+#. ID 9, Page 1, Line 131, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"光と闇を、此処で選ぶ必要は在りません。"
+msgstr ""
+
+#. ID 9, Page 1, Line 133, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"先に進むか。\\.\\.此処で終わるか。\\.\\.\n"
+"選ぶべきはそういう事です。"
+msgstr ""
+
+#. ID 9, Page 1, Line 137, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 139, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"\\S[2]決められますか？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 143, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あんたらも回り諄い真似をするんだな。\\|\n"
+"結局はこう言いたいんだろ？"
+msgstr ""
+
+#. ID 9, Page 1, Line 147, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ヴェーネへの気持ちを、\\.\\.もう少し続けてみろと。"
+msgstr ""
+
+#. ID 9, Page 1, Line 150, Pos (0,0)
+msgid ""
+"レイク：\n"
+"良く分からない気持ちさ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 152, Pos (0,0)
+msgid ""
+"レイク：\n"
+"恋愛みたいに胸を焼くのではない…。\\|\n"
+"もっと温かくて染み渡る物…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 155, Pos (0,0)
+msgid ""
+"レイク：\n"
+"歪な心の断面に、\\.\\.ピッタリと嵌る物。"
+msgstr ""
+
+#. ID 9, Page 1, Line 157, Pos (0,0)
+msgid ""
+"レイク：\n"
+"今までどんな事をしても埋められなかった隙間を、\n"
+"そいつだけは埋めて呉れそうな気がする。"
+msgstr ""
+
+#. ID 9, Page 1, Line 161, Pos (0,0)
+msgid ""
+"レイク：\n"
+"感じるんだよ。\\.\\.\n"
+"心の奥底よりも更に深い所の\"俺\"…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 164, Pos (0,0)
+msgid ""
+"レイク：\n"
+"魂が、\\.\\.喜んでいると。"
+msgstr ""
+
+#. ID 9, Page 1, Line 167, Pos (0,0)
+msgid ""
+"レイク：\n"
+"やれやれ。\\.\\.喋り過ぎだ。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 169, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"それで良いのです。"
+msgstr ""
+
+#. ID 9, Page 1, Line 178, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"その語りは、即ち自己との対話。\\|\n"
+"偽り無き己の真底を見詰めた結果。"
+msgstr ""
+
+#. ID 9, Page 1, Line 181, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"そして己の変化を受け入れ認めた証。"
+msgstr ""
+
+#. ID 9, Page 1, Line 183, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"貴方の中に於いて最も上位に在る物。\\|\n"
+"それが彼女へ馳せる想い。"
+msgstr ""
+
+#. ID 9, Page 1, Line 186, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"溶けた心の想い人。\\|\n"
+"それ即ち揺蕩う者を\"先\"へと歩かせる道標と源。"
+msgstr ""
+
+#. ID 9, Page 1, Line 191, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"今、\\.\\.貴方は\"境界\"を越えました。"
+msgstr ""
+
+#. ID 9, Page 1, Line 193, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"進んで行くのです。\\.\\.貴方の道を。"
+msgstr ""
+
+#. ID 9, Page 1, Line 195, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"憎まず、\\.\\.撥ね付けず、\\.\\.従えず。\\.\\.\n"
+"運命を超えて。"
+msgstr ""
+
+#. ID 9, Page 1, Line 198, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"その魂は、何時か運命の呪縛を解きほぐし、\n"
+"青空を取り戻すでしょう。"
+msgstr ""
+
+#. ID 9, Page 1, Line 201, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"生命を湛え煌く翼の舞う、\\.\\.遥かに蒼い空を…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 204, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"貴方の翼は美しい。\\|\n"
+"私達でも、憧れる位に。"
+msgstr ""
+
+#. ID 9, Page 1, Line 207, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"そして翼の意志は、\\.\\.また新たな翼を生み出す。"
+msgstr ""
+
+#. ID 9, Page 1, Line 210, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"貴方達になら、\\.\\.それが出来る筈。"
+msgstr ""
+
+#. ID 9, Page 1, Line 212, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"その魂に依りて、\\.\\.歩き続ける限り。"
+msgstr ""
+
+#. ID 9, Page 1, Line 217, Pos (0,0)
+msgid ""
+"レイク：\n"
+"一つだけ、\\.\\.教えて呉れないか。"
+msgstr ""
+
+#. ID 9, Page 1, Line 221, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ヴェーネは無事か？"
+msgstr ""
+
+#. ID 9, Page 1, Line 223, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"心配要らないわ。\\.\\.手は打っておいたから。"
+msgstr ""
+
+#. ID 9, Page 1, Line 226, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"彼女達は無事に\n"
+"エンデから逃げ延びましたよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 229, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そうか。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 232, Pos (0,0)
+msgid ""
+"レイク：\n"
+"だったら、\\.\\.帰ってみるか。"
+msgstr ""
+
+#. ID 9, Page 1, Line 234, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あいつと居る時間は、\\.\\.嫌いじゃないからな。"
+msgstr ""
+
+#. ID 9, Page 2, Line 8, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"今こそ空は解き放たれ、\\.\\.\n"
+"世界は真の姿を目の当たりにする。"
+msgstr ""
+
+#. ID 9, Page 2, Line 11, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"しかしそれは、\\.\\.新たなる運命の始まり。"
+msgstr ""
+
+#. ID 9, Page 2, Line 13, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"私達ですら描かなかった空と大地にて、\\.\\.\n"
+"予めの道は、その姿さえ霞ませて行く…。"
+msgstr ""
+
+#. ID 9, Page 2, Line 17, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"感じる…。\\|\n"
+"空と大地に馳せる、数々の黒き思念の翼…。"
+msgstr ""
+
+#. ID 9, Page 2, Line 20, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"繋留を解かれし今こそ、\\.\\.\n"
+"それらは舞おうとしている…。"
+msgstr ""
+
+#. ID 9, Page 2, Line 23, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"時にこの空から、\\.\\.蒼を奪い去って…。"
+msgstr ""
+
+#. ID 9, Page 2, Line 26, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"お願いです…。\\|その運命だけは…。"
+msgstr ""
+
+#. ID 9, Page 2, Line 28, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"私達が望んだのは、\\.\\.\n"
+"そんな事ではないのですから…。"
+msgstr ""
+
+#. ID 9, Page 2, Line 32, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"忘れないでください。\\|\n"
+"そして守ってあげてください。"
+msgstr ""
+
+#. ID 9, Page 2, Line 35, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"天も地も、\\.\\.総てを等しく包み込んで呉れる、\\.\\.\n"
+"この大空の遥かなる蒼さを…。"
+msgstr ""
+
+#. ID 9, Page 2, Line 39, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"\\S[20]………。\\^"
+msgstr ""
+

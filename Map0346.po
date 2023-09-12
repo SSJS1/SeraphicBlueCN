@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 4, Pos (0,0)
+msgid ""
+"班長：\n"
+"イーノック殿。\\.\\.24時に成りました。"
+msgstr ""
+
+#. ID 4, Page 1, Line 6, Pos (0,0)
+msgid ""
+"班長：\n"
+"奴の予告時間まで後３時間。\\|\n"
+"私共はこれより重点警備を開始致します。"
+msgstr ""
+
+#. ID 4, Page 1, Line 9, Pos (0,0)
+msgid ""
+"班長：\n"
+"貴殿もこれ以降は、\n"
+"どうぞ部屋の外には出られませんよう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 12, Pos (0,0)
+msgid ""
+"イーノック：\n"
+"信頼して良いのだな？"
+msgstr ""
+
+#. ID 4, Page 1, Line 14, Pos (0,0)
+msgid ""
+"班長：\n"
+"勿論です。\\.\\.我が警護班に全て御任せください。"
+msgstr ""
+
+#. ID 4, Page 1, Line 16, Pos (0,0)
+msgid ""
+"イーノック：\n"
+"うむ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 18, Pos (0,0)
+msgid ""
+"イーノック：\n"
+"それでは私はこれから眠る事にする。\\|\n"
+"表の警備は頼んだぞ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 21, Pos (0,0)
+msgid ""
+"班長：\n"
+"承知しました。\\.\\.\n"
+"どうぞごゆっくり御休みください。"
+msgstr ""
+

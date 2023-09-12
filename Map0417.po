@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 3, Pos (30,17)
+msgid ""
+"父親：\n"
+"とんでもない景色になってしまいました。"
+msgstr ""
+
+#. ID 7, Page 1, Line 5, Pos (30,17)
+msgid ""
+"父親：\n"
+"ここから身投げ出来るだけの度胸があるのなら、\n"
+"十二分に世の中渡って行けると思うのですが…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 3, Pos (29,17)
+msgid ""
+"男の子：\n"
+"高すぎ～。"
+msgstr ""
+
+#. ID 10, Page 1, Line 3, Pos (27,25)
+msgid ""
+"女性：\n"
+"要は見方一つなのよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 5, Pos (27,25)
+msgid ""
+"女性：\n"
+"素晴らしい景色が眺められる場所なのか、\n"
+"落ちたら死ねる場所なのか。"
+msgstr ""
+
+#. ID 10, Page 1, Line 8, Pos (27,25)
+msgid ""
+"女性：\n"
+"視野を広く持ってそれに気が付けば、\n"
+"自殺しようだなんて気は失せるもんだと思うけどねぇ。"
+msgstr ""
+

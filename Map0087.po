@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 8, Pos (14,5)
+#. ID 4, Page 3, Line 9, Pos (14,5)
+msgid ""
+"女性：\n"
+"只今準備中です。今暫く御待ちください。"
+msgstr ""
+
+#. ID 4, Page 2, Line 9, Pos (14,5)
+msgid ""
+"女性：\n"
+"いらっしゃいませ。一泊\\_\\V[4801]\\_ディアになります。"
+msgstr ""
+
+#. ID 4, Page 2, Line 26, Pos (14,5)
+#. Choice (3 options)
+msgid ""
+"\\>休憩する\n"
+"\\>休憩しない\n"
+"\\>雑談する"
+msgstr ""
+
+#. ID 4, Page 2, Line 39, Pos (14,5)
+#. Choice (2 options)
+#. ID 4, Page 2, Line 61, Pos (14,5)
+#. Choice (2 options)
+msgid ""
+"休憩する\n"
+"休憩しない"
+msgstr ""
+
+#. ID 4, Page 2, Line 52, Pos (14,5)
+msgid "※所持金が足りません。"
+msgstr ""
+
+#. ID 4, Page 2, Line 57, Pos (14,5)
+msgid ""
+"ニクソン：\n"
+"(仕方在りませんね。\n"
+" 此処は私がポケットマネーを出しておきましょう。)"
+msgstr ""
+
+#. ID 4, Page 2, Line 74, Pos (14,5)
+#. ID 6, Page 1, Line 10, Pos (14,3)
+msgid ""
+"女性：\n"
+"ごゆっくり御休みください。"
+msgstr ""
+
+#. ID 4, Page 2, Line 124, Pos (14,5)
+msgid ""
+"女性：\n"
+"またのお越しをお待ちしております。"
+msgstr ""
+
+#. ID 4, Page 2, Line 133, Pos (14,5)
+msgid ""
+"女性：\n"
+"最近はユヴェスの海にゴミを投げ捨てる方が多くて、\n"
+"サルベージャーを初めとする業者の方々も\n"
+"困っているそうです。"
+msgstr ""
+
+#. ID 4, Page 2, Line 137, Pos (14,5)
+msgid ""
+"女性：\n"
+"ユヴェスが発展していくにしても、人が集まる事で\n"
+"そういった悪習が生まれてしまうのは困り者ですよね。"
+msgstr ""
+
+#. ID 4, Page 3, Line 14, Pos (14,5)
+msgid ""
+"女性：\n"
+"有難う御座いました。良い船旅を。"
+msgstr ""
+
+#. ID 6, Page 1, Line 4, Pos (14,3)
+msgid ""
+"女性：\n"
+"いらっしゃいませ。\n"
+"一泊\\V[4801]ディアに成ります。"
+msgstr ""
+
+#. ID 6, Page 1, Line 18, Pos (14,3)
+#. ID 6, Page 1, Line 24, Pos (14,3)
+msgid ""
+"女性：\n"
+"またの御越しをお待ちしております。"
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (7,9)
+msgid ""
+"女性：\n"
+"ふぅ…。\n"
+"サルベージの合間のコーヒーは至福のひと時ね。"
+msgstr ""
+

@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 2, Line 13, Pos (9,5)
+#. ID 2, Page 2, Line 53, Pos (9,5)
+msgid ""
+"ニクソン：\n"
+"やはり、今のモンスターはエンデの仕業でしょうね。"
+msgstr ""
+
+#. ID 2, Page 2, Line 15, Pos (9,5)
+#. ID 2, Page 2, Line 101, Pos (9,5)
+msgid ""
+"ヴェーネ：\n"
+"気を引き締めて行きましょう。"
+msgstr ""
+
+#. ID 2, Page 2, Line 23, Pos (9,5)
+msgid ""
+"レイク：\n"
+"何が温厚な動物達だ。\\.\\.ふざけやがって。"
+msgstr ""
+
+#. ID 2, Page 2, Line 25, Pos (9,5)
+msgid ""
+"レイク：\n"
+"その上これが、\n"
+"あのジジイの耄碌じゃないって所がな。"
+msgstr ""
+
+#. ID 2, Page 2, Line 31, Pos (9,5)
+msgid ""
+"ヴェーネ：\n"
+"それじゃあ、レイクも感付いていたの？"
+msgstr ""
+
+#. ID 2, Page 2, Line 36, Pos (9,5)
+msgid ""
+"ニクソン：\n"
+"先刻から漂っている、この気配に…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 38, Pos (9,5)
+msgid ""
+"レイク：\n"
+"当然だ。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 40, Pos (9,5)
+msgid ""
+"レイク：\n"
+"この思い返すだけでも腹の立つ、黒い気配。"
+msgstr ""
+
+#. ID 2, Page 2, Line 42, Pos (9,5)
+msgid ""
+"レイク：\n"
+"こんなモノを持ってるのは、\n"
+"あのクソガキだけだ。"
+msgstr ""
+
+#. ID 2, Page 2, Line 48, Pos (9,5)
+msgid ""
+"レイク：\n"
+"\\S[2]エンデ…！\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 55, Pos (9,5)
+msgid ""
+"ニクソン：\n"
+"そしてこの先も恐らく。\\.\\.\n"
+"ユヴェスのサルベージポートと同様です。"
+msgstr ""
+
+#. ID 2, Page 2, Line 61, Pos (9,5)
+msgid ""
+"ヴェーネ：\n"
+"でも、もっと重要な事が…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 63, Pos (9,5)
+msgid ""
+"ヴェーネ：\n"
+"此処にエンデが居る以上、\n"
+"それはゲオルクとエンデが結託している事を示す…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 66, Pos (9,5)
+msgid ""
+"レイク：\n"
+"だろうな。\\.\\.まさか偶然\n"
+"一緒に成ったなんて事も無いだろうし。"
+msgstr ""
+
+#. ID 2, Page 2, Line 72, Pos (9,5)
+msgid ""
+"ヴェーネ：\n"
+"エンデとゲオルクは誘い合わせて\n"
+"このラウレンティアに集った…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 75, Pos (9,5)
+msgid ""
+"ヴェーネ：\n"
+"奴らは一体何を…？"
+msgstr ""
+
+#. ID 2, Page 2, Line 77, Pos (9,5)
+msgid ""
+"レイク：\n"
+"さあな。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 79, Pos (9,5)
+msgid ""
+"レイク：\n"
+"唯一つ確実なのは、お二人さん共\n"
+"余り良い趣味はしてないって事だな。"
+msgstr ""
+
+#. ID 2, Page 2, Line 85, Pos (9,5)
+msgid ""
+"ニクソン：\n"
+"悪魔と黒獅子の調理場ですか。\\.\\.\n"
+"恐ろしいレシピが置いて在るのでしょうね。"
+msgstr ""
+
+#. ID 2, Page 2, Line 91, Pos (9,5)
+msgid ""
+"ニクソン：\n"
+"兎に角。\\.\\.こう成ったからには\n"
+"先に進む以外に在りません。"
+msgstr ""
+
+#. ID 2, Page 2, Line 94, Pos (9,5)
+msgid ""
+"レイク：\n"
+"何作ってるんだか知らないが、\n"
+"全部生ゴミに捨てて遣る。"
+msgstr ""
+
+#. ID 2, Page 2, Line 97, Pos (9,5)
+msgid ""
+"レイク：\n"
+"後は、粗大ゴミが二名ばかり。"
+msgstr ""
+
+#. ID 2, Page 2, Line 99, Pos (9,5)
+msgid ""
+"レイク：\n"
+"少しばかり大掃除だぜ。"
+msgstr ""
+

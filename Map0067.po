@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Page 1, Line 3, Pos (13,4)
+msgid ""
+"男の子：\n"
+"この前読んだ本に書いてあったんだ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 5, Pos (13,4)
+msgid ""
+"男の子：\n"
+"天使ってみんなにシアワセを運ぶ人なんだって。"
+msgstr ""
+
+#. ID 11, Page 1, Line 7, Pos (13,4)
+msgid ""
+"男の子：\n"
+"ボクも、みんなにシアワセを運ぶのかな…？"
+msgstr ""
+
+#. ID 12, Page 1, Line 3, Pos (9,13)
+msgid ""
+"女の子：\n"
+"赤ちゃんはコウノトリが運んでくるのよ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 5, Pos (9,13)
+msgid ""
+"女の子：\n"
+"赤ちゃんが欲しいと思ってる人の所に運んでくるの。"
+msgstr ""
+
+#. ID 12, Page 1, Line 7, Pos (9,13)
+msgid ""
+"女の子：\n"
+"私も、誰かに欲しいと思われて運ばれたのかな？"
+msgstr ""
+
+#. ID 12, Page 1, Line 9, Pos (9,13)
+msgid ""
+"女の子：\n"
+"だったら、どうして捨てられちゃったのかな…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 3, Pos (11,6)
+msgid ""
+"男の子：\n"
+"お父さんもお母さんも要らないよ。\n"
+"迎えに来たって着いてくもんか。"
+msgstr ""
+
+#. ID 13, Page 1, Line 6, Pos (11,6)
+msgid ""
+"男の子：\n"
+"ニクソンやみんながいるもんね。"
+msgstr ""
+
+#. ID 16, Page 1, Line 3, Pos (5,7)
+msgid ""
+"男性：\n"
+"今日は私が子供達の世話をしています。\n"
+"純朴で可愛い子達で、とても接し甲斐が有ります。"
+msgstr ""
+
+#. ID 16, Page 1, Line 6, Pos (5,7)
+msgid ""
+"男性：\n"
+"本当に、こんなに可愛い子供を捨てる親の顔を\n"
+"見てみたいものですよ…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 6, Pos (0,0)
+#. ID 17, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"如何ですか？\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何となく…。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 20, Pos (0,0)
+msgid ""
+"レイク：\n"
+"記憶が戻って来たのか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"いいえ。\\.\\.感じるの。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私は以前、\\.\\.この子供達を取り巻く事情に関して\n"
+"聞き知っていたみたい。"
+msgstr ""
+
+#. ID 17, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"本当なのですか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ええ…。\\|多分だけれど…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でもそれは、\\.\\.霧の掛かった風景の様な物。"
+msgstr ""
+
+#. ID 17, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ぼやけた全体像が浮かぶだけで、\\.\\.\n"
+"細かに詳しい事までは…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それでも、\\.\\.何か一つ位思い出せませんか…？"
+msgstr ""
+
+#. ID 17, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そうね…。\\|何とか思い出してみるわ…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 60, Pos (0,0)
+msgid ""
+"男性：\n"
+"\\S[2]だからマルゴ………。\\|\n"
+"………を使って……。"
+msgstr ""
+
+#. ID 17, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]それで丁度……ホーイックの……。"
+msgstr ""
+
+#. ID 17, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]でも……………のリスク……。\\|\n"
+"まさか彼女が………。"
+msgstr ""
+
+#. ID 17, Page 1, Line 71, Pos (0,0)
+msgid ""
+"男性：\n"
+"\\S[2]勿論………。\\|\n"
+"………気を配って………。"
+msgstr ""
+
+#. ID 17, Page 1, Line 75, Pos (0,0)
+msgid ""
+"男性：\n"
+"\\S[2]………エンヴィは……………。"
+msgstr ""
+
+#. ID 17, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]…………その方が………。\\|\n"
+"………捨てられても………。"
+msgstr ""
+
+#. ID 17, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"「マルゴ」と「エンヴィ」。"
+msgstr ""
+
+#. ID 17, Page 1, Line 92, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何だそれ？\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"分からない。\\.\\.\n"
+"その二つの単語が\"聞き取れた\"の。"
+msgstr ""
+
+#. ID 17, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"残念ながら、\\.\\.\n"
+"現状では何も分からないようですね。"
+msgstr ""
+
+#. ID 17, Page 1, Line 107, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"正直に言いますと、\\.\\.\n"
+"貴方の記憶に少し期待していたのですよ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 110, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"このホーイックに捨てられた子供達の背後に渦巻く\n"
+"事情を知るチャンスですから。"
+msgstr ""
+
+#. ID 17, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"御免なさい。\\.\\.役に立てなくて。"
+msgstr ""
+
+#. ID 17, Page 1, Line 115, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"いいえ。\\.\\.貴方には何の非も在りませんよ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 117, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"貴方とて子供達に似た迷える白い翼。\\|\n"
+"主の導きの下に此処にいらした方ですから。"
+msgstr ""
+
+#. ID 17, Page 1, Line 120, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私こそ、勝手に期待を抱いて済みません。"
+msgstr ""
+
+#. ID 17, Page 1, Line 125, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"でも、\\.\\.記憶が戻った時は教えて頂けますか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"実際に知った所で、\n"
+"果たして私に何が出来るかは分かりませんが…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 133, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それでも…。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ご覧なさい、\\.\\.この子達の澄んだ瞳を。"
+msgstr ""
+
+#. ID 17, Page 1, Line 140, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"此処に何の罪科が？"
+msgstr ""
+
+#. ID 17, Page 1, Line 142, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"母親達は、\\.\\.何を思って\n"
+"この子達を捨てると言うのですか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 148, Pos (0,0)
+msgid ""
+"レイク：\n"
+"捨てる側の心の内、\\.\\.か…。"
+msgstr ""
+
+#. ID 20, Page 1, Line 3, Pos (14,11)
+msgid ""
+"女の子：\n"
+"こないだ、教会の外の子の家で\n"
+"いっしょに遊んだの。"
+msgstr ""
+
+#. ID 20, Page 1, Line 6, Pos (14,11)
+msgid ""
+"女の子：\n"
+"そしたらね、その子の家のお父さんとお母さん、\n"
+"私をすごく可愛がってくれたよ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 9, Pos (14,11)
+msgid ""
+"女の子：\n"
+"お父さんとお母さんって、すごくあったかいんだね。"
+msgstr ""
+
+#. ID 20, Page 1, Line 11, Pos (14,11)
+msgid ""
+"女の子：\n"
+"私もいつか、本当のお父さんやお母さんに、\n"
+"あってみたいな…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 3, Pos (12,12)
+msgid ""
+"男の子：\n"
+"ぼくらって、天使なんだよね？"
+msgstr ""
+
+#. ID 21, Page 1, Line 5, Pos (12,12)
+msgid ""
+"男の子：\n"
+"絵本でみる天使は、子どもでも羽根があるのに…。\\!\n"
+"どうしてぼくらには、羽根がないんだろう？"
+msgstr ""
+

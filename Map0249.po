@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 4, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"もう夜よ…。\\|幾ら何でも遅過ぎるわ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"やはりケイオスで何か在ったのでしょう…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"探しには…\\|行けないわよね…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"昼間でさえ危険な場所です。\\|\n"
+"夜とも成ればこの私でも身の安全は保証されません。"
+msgstr ""
+
+#. ID 5, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"取り敢えず、\n"
+"私はもう一度表町を探して来ます。"
+msgstr ""
+
+#. ID 5, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"ミネルヴァ様は入れ違いに成らないよう\n"
+"此処に残っていてください。"
+msgstr ""
+
+#. ID 5, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"施錠はしっかりと。"
+msgstr ""
+
+#. ID 5, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"誰かが来てレイクと名乗っても、\n"
+"確証の無い限りは開けない事。"
+msgstr ""
+
+#. ID 5, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"\"支配派\"の連中が手先を雇っているとしたら、\n"
+"私が貴女から離れる時を待っている筈です。"
+msgstr ""
+
+#. ID 5, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ええ。\\.\\.分かっているわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"一応今回のオーグ特使任務は極秘中の極秘。"
+msgstr ""
+
+#. ID 5, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"滅多な事は無いかと思いますが、\n"
+"しかし油断は禁物ですぞ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"それではハウゼン、\\.\\.今暫く留守に致します。"
+msgstr ""
+
+#. ID 5, Page 2, Line 8, Pos (0,0)
+msgid ""
+"レイク：\n"
+"逢いたい人が居る、か…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 10, Pos (0,0)
+msgid ""
+"レイク：\n"
+"我ながら吹いたもんだ。"
+msgstr ""
+

@@ -1,0 +1,573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 52, Page 1, Line 30, Pos (18,54)
+msgid ""
+"ヴェーネ：\n"
+"あれが…\\.\\.星の大樹ラウレンティア…。"
+msgstr ""
+
+#. ID 52, Page 1, Line 53, Pos (18,54)
+msgid ""
+"ニクソン：\n"
+"雄大ですね…。\\|\\^"
+msgstr ""
+
+#. ID 52, Page 1, Line 58, Pos (18,54)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 52, Page 1, Line 60, Pos (18,54)
+msgid ""
+"レイク：\n"
+"まあ、\\.\\.それに関しては同意だ。"
+msgstr ""
+
+#. ID 52, Page 1, Line 62, Pos (18,54)
+msgid ""
+"レイク：\n"
+"だがそんな事よりも…。"
+msgstr ""
+
+#. ID 52, Page 1, Line 69, Pos (18,54)
+msgid ""
+"レイク：\n"
+"何だ、\\.\\.このギャラリーは。\\|\\^"
+msgstr ""
+
+#. ID 52, Page 1, Line 74, Pos (18,54)
+msgid ""
+"ニクソン：\n"
+"やはり噂通りの人達のようですね。"
+msgstr ""
+
+#. ID 52, Page 1, Line 76, Pos (18,54)
+msgid ""
+"ニクソン：\n"
+"ガイア理論に根差した独特の世界観。\\.\\.\n"
+"閉ざされた山中という地理的な条件。"
+msgstr ""
+
+#. ID 52, Page 1, Line 79, Pos (18,54)
+msgid ""
+"ニクソン：\n"
+"詰まる所、\\.\\.余所者には冷たいと…。"
+msgstr ""
+
+#. ID 52, Page 1, Line 81, Pos (18,54)
+msgid ""
+"レイク：\n"
+"何で黙ってた？"
+msgstr ""
+
+#. ID 52, Page 1, Line 83, Pos (18,54)
+msgid ""
+"ニクソン：\n"
+"行く前からでは、\n"
+"モチベーションが失せてしまいますよ？"
+msgstr ""
+
+#. ID 52, Page 1, Line 86, Pos (18,54)
+msgid ""
+"ヴェーネ：\n"
+"知らぬが仏だと？"
+msgstr ""
+
+#. ID 52, Page 1, Line 88, Pos (18,54)
+msgid ""
+"ニクソン：\n"
+"それは違います。"
+msgstr ""
+
+#. ID 52, Page 1, Line 90, Pos (18,54)
+msgid ""
+"ニクソン：\n"
+"私は\"神\"は信仰していても、\n"
+"\"仏\"は信仰しておりませんので。"
+msgstr ""
+
+#. ID 52, Page 1, Line 93, Pos (18,54)
+msgid ""
+"ヴェーネ：\n"
+"とんだジョークね。\\.\\.まさか初めからそれを？"
+msgstr ""
+
+#. ID 52, Page 1, Line 95, Pos (18,54)
+msgid ""
+"ニクソン：\n"
+"考え過ぎですよ。"
+msgstr ""
+
+#. ID 52, Page 1, Line 100, Pos (18,54)
+msgid ""
+"レイク：\n"
+"もう良い。\\.\\.\n"
+"それより一人こっちに歩いて来るぜ。"
+msgstr ""
+
+#. ID 52, Page 1, Line 110, Pos (18,54)
+msgid ""
+"レイク：\n"
+"何だ爺さん。\\.\\.早速だが出てけとでも？"
+msgstr ""
+
+#. ID 52, Page 1, Line 115, Pos (18,54)
+msgid ""
+"村長：\n"
+"おんし、\\.\\.名を何と言う？"
+msgstr ""
+
+#. ID 52, Page 1, Line 117, Pos (18,54)
+msgid ""
+"レイク：\n"
+"名前？\\|\\^"
+msgstr ""
+
+#. ID 52, Page 1, Line 119, Pos (18,54)
+msgid ""
+"レイク：\n"
+"この村は、余所者を追い出すか否か、\n"
+"名前で決めるのか？"
+msgstr ""
+
+#. ID 52, Page 1, Line 122, Pos (18,54)
+msgid ""
+"村長：\n"
+"良いから答えんか。"
+msgstr ""
+
+#. ID 52, Page 1, Line 127, Pos (18,54)
+msgid ""
+"レイク：\n"
+"レイク。\\.\\.レイク･ランドヴェリーだ。"
+msgstr ""
+
+#. ID 52, Page 1, Line 132, Pos (18,54)
+msgid ""
+"村長：\n"
+"という事は…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 52, Page 1, Line 134, Pos (18,54)
+msgid ""
+"村長：\n"
+"御婦人はヴェーネ。\\|\n"
+"牧師様はニクソン。\\|\\^"
+msgstr ""
+
+#. ID 52, Page 1, Line 137, Pos (18,54)
+msgid ""
+"一同：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 52, Page 1, Line 142, Pos (18,54)
+msgid ""
+"村長：\n"
+"ようこそ星の里へ。\\.\\.\"選ばれし者\"よ。"
+msgstr ""
+
+#. ID 52, Page 3, Line 16, Pos (18,54)
+msgid ""
+"ユアン：\n"
+"ああ、\\.そうだ。"
+msgstr ""
+
+#. ID 52, Page 3, Line 18, Pos (18,54)
+msgid ""
+"ユアン：\n"
+"念の為ヴェーネ用の装備を持って来たんだったな。\\.\\.\n"
+"資金も幾らか。"
+msgstr ""
+
+#. ID 52, Page 3, Line 34, Pos (18,54)
+msgid ""
+"ユアン：\n"
+"ああ、\\.\\.そうだ。\\|\\^"
+msgstr ""
+
+#. ID 52, Page 3, Line 36, Pos (18,54)
+msgid ""
+"ユアン：\n"
+"念の為ヴェーネ用の装備を持って来たんだったな。\\|\n"
+"資金も幾らか。"
+msgstr ""
+
+#. ID 52, Page 3, Line 67, Pos (18,54)
+msgid ""
+"\n"
+"\\>                  資金20000ディア"
+msgstr ""
+
+#. ID 59, Page 1, Line 3, Pos (14,43)
+msgid ""
+"女戦士：\n"
+"此処は確かに排他的。\n"
+"偶に旅人とか冒険者がやって来ても、\n"
+"温かい態度は見せないわ。"
+msgstr ""
+
+#. ID 59, Page 1, Line 7, Pos (14,43)
+msgid ""
+"女戦士：\n"
+"でも一応こうして宿屋は設けて在るの。"
+msgstr ""
+
+#. ID 59, Page 1, Line 9, Pos (14,43)
+msgid ""
+"女戦士：\n"
+"幾ら何でも、遠路をやって来て疲れてる人達を\n"
+"休ませもせず追い返すのはアレだからね。"
+msgstr ""
+
+#. ID 59, Page 2, Line 3, Pos (14,43)
+msgid ""
+"女戦士：\n"
+"来る時が来ちまったね…。"
+msgstr ""
+
+#. ID 62, Page 1, Line 3, Pos (29,28)
+msgid ""
+"老婆：\n"
+"この川は星の大樹の周囲を取り囲んでいる川。"
+msgstr ""
+
+#. ID 62, Page 1, Line 5, Pos (29,28)
+msgid ""
+"老婆：\n"
+"故にその水は、\n"
+"ガイアの生命の中核に最も近しい、正に生命の水。"
+msgstr ""
+
+#. ID 62, Page 1, Line 9, Pos (29,28)
+msgid ""
+"老婆：\n"
+"この水と共に生きてウン十年。\n"
+"大病の一つとて患った事は無いぞ。"
+msgstr ""
+
+#. ID 62, Page 1, Line 15, Pos (29,28)
+msgid ""
+"老婆：\n"
+"しかしこの所、\n"
+"心成しか水の生命力に衰えを感じる…。"
+msgstr ""
+
+#. ID 62, Page 1, Line 18, Pos (29,28)
+msgid ""
+"老婆：\n"
+"只私が歳を取っただけなのか。\n"
+"それとも…。"
+msgstr ""
+
+#. ID 62, Page 2, Line 3, Pos (29,28)
+msgid ""
+"老婆：\n"
+"やはり間違いない…。\n"
+"水の生命力が確実に衰えておる…。"
+msgstr ""
+
+#. ID 62, Page 2, Line 6, Pos (29,28)
+msgid ""
+"老婆：\n"
+"即ちは星の大樹、星の生命の衰え…。"
+msgstr ""
+
+#. ID 62, Page 2, Line 8, Pos (29,28)
+msgid ""
+"老婆：\n"
+"よもや私より先に、\n"
+"星が死ぬ事など在るまいな…？"
+msgstr ""
+
+#. ID 62, Page 3, Line 3, Pos (29,28)
+msgid ""
+"老婆：\n"
+"星に先立たれるなどと、\n"
+"この老い耄れに何と惨い仕打ちだろうか…。"
+msgstr ""
+
+#. ID 62, Page 3, Line 6, Pos (29,28)
+msgid ""
+"老婆：\n"
+"還るべき大いなる星を亡くすなどと…。"
+msgstr ""
+
+#. ID 65, Page 1, Line 3, Pos (38,2)
+msgid ""
+"見張り：\n"
+"この先はラウレンティアへの道。\n"
+"無闇に先に進めない事になってるんだ。"
+msgstr ""
+
+#. ID 65, Page 1, Line 6, Pos (38,2)
+msgid ""
+"見張り：\n"
+"それだってのにゲオルクの奴、\n"
+"まるで自分の庭みたいにズカズカと。"
+msgstr ""
+
+#. ID 65, Page 1, Line 9, Pos (38,2)
+msgid ""
+"見張り：\n"
+"これでラウレンティアに何かしたら\n"
+"只じゃ済まさないぜ。"
+msgstr ""
+
+#. ID 65, Page 3, Line 4, Pos (38,2)
+msgid ""
+"見張り：\n"
+"村長から話は聞いてるぜ。\n"
+"あんた達だけが頼みの綱だよ。"
+msgstr ""
+
+#. ID 65, Page 3, Line 11, Pos (38,2)
+msgid ""
+"見張り：\n"
+"やっと元に戻ったな…。"
+msgstr ""
+
+#. ID 67, Page 1, Line 3, Pos (32,24)
+msgid ""
+"女の子：\n"
+"お兄ちゃんったら、其処の石に飛び移れるんだって、\n"
+"私に自慢ばっかりするの。"
+msgstr ""
+
+#. ID 67, Page 1, Line 6, Pos (32,24)
+msgid ""
+"女の子：\n"
+"ふんだ。どうせそのうち落っこちてびしょ濡れになって\n"
+"ママに怒られるんだから。"
+msgstr ""
+
+#. ID 68, Page 2, Line 3, Pos (20,42)
+msgid ""
+"男の子：\n"
+"あの木なんの木、不思議な木～♪"
+msgstr ""
+
+#. ID 68, Page 3, Line 3, Pos (20,42)
+msgid ""
+"男の子：\n"
+"ねがいごとを叶える、不思議な花の伝説って知ってる？"
+msgstr ""
+
+#. ID 68, Page 3, Line 5, Pos (20,42)
+msgid ""
+"男の子：\n"
+"ぼくはその花が、ラウレンティアの近くに\n"
+"咲くんじゃないかって、にらんでるんだけど…。\n"
+"なかなか見つからないんだよね、これが。"
+msgstr ""
+
+#. ID 68, Page 3, Line 9, Pos (20,42)
+msgid ""
+"男の子：\n"
+"もしその花が見つかったら、ぼくは花に\n"
+"おねがいごとをするんだ。"
+msgstr ""
+
+#. ID 68, Page 3, Line 12, Pos (20,42)
+msgid ""
+"男の子：\n"
+"『お空を元にもどして、\n"
+"　パパやママを安心させてください』って。"
+msgstr ""
+
+#. ID 73, Page 1, Line 4, Pos (18,15)
+msgid ""
+"男性：\n"
+"物置を整理してたらこんな箱が見付かったんだ。"
+msgstr ""
+
+#. ID 73, Page 1, Line 6, Pos (18,15)
+msgid ""
+"男性：\n"
+"上に謎掛けが書いてあって、\n"
+"これを解かないと鍵が開けられないらしい。"
+msgstr ""
+
+#. ID 73, Page 1, Line 9, Pos (18,15)
+msgid ""
+"男性：\n"
+"村のみんなにも色々と知恵を出して貰ったんだけど\n"
+"サッパリでね。"
+msgstr ""
+
+#. ID 73, Page 1, Line 12, Pos (18,15)
+msgid ""
+"男性：\n"
+"どうだい？\n"
+"君達も一つ挑戦してみないか？"
+msgstr ""
+
+#. ID 73, Page 1, Line 15, Pos (18,15)
+msgid ""
+"男性：\n"
+"開けられたなら中身は全部あげるよ。\n"
+"私達はもうギブアップだ。"
+msgstr ""
+
+#. ID 73, Page 1, Line 22, Pos (18,15)
+msgid ""
+"男性：\n"
+"凄いねぇ、君達。\n"
+"私じゃあ一生掛かっても解けなかったろうね。"
+msgstr ""
+
+#. ID 74, Page 1, Line 3, Pos (39,1)
+msgid ""
+"見張り：\n"
+"ラウレンティアの様子が何だか変なんだよ。\n"
+"近付かない方が無難だぜ。"
+msgstr ""
+
+#. ID 75, Page 1, Line 3, Pos (19,15)
+msgid ""
+"＊＊＊：\n"
+"箱の上に文字が記されている。"
+msgstr ""
+
+#. ID 75, Page 1, Line 5, Pos (19,15)
+msgid ""
+"箱の文字：\n"
+"ある農耕民族は、白い米を宝とした。\n"
+"米を尊ぶ者は長き時を生き、\n"
+"また白を尊ぶ者は更に長き時を生きると言われた。"
+msgstr ""
+
+#. ID 75, Page 1, Line 9, Pos (19,15)
+msgid ""
+"箱の文字：\n"
+"ならば米の時と白の時。\n"
+"これら二つを掛け合わせれば、\n"
+"久遠にも思え、また至高の宝なり。"
+msgstr ""
+
+#. ID 75, Page 1, Line 13, Pos (19,15)
+msgid ""
+"箱の文字：\n"
+"宝を求める者よ、その久遠の数を此処に示せ。"
+msgstr ""
+
+#. ID 75, Page 1, Line 24, Pos (19,15)
+msgid ""
+"＊＊＊：\n"
+"鍵が外れた！"
+msgstr ""
+
+#. ID 75, Page 1, Line 60, Pos (19,15)
+msgid ""
+"＊＊＊：\n"
+"何も起きない…。"
+msgstr ""
+
+#. ID 76, Page 1, Line 3, Pos (12,34)
+msgid ""
+"男の子：\n"
+"俺の妹ったら、石に飛び乗ってる内に落ちるから、\n"
+"石に飛び移るのを止めとけって言うんだ。"
+msgstr ""
+
+#. ID 76, Page 1, Line 6, Pos (12,34)
+msgid ""
+"男の子：\n"
+"ったく、コツをつかめば楽勝なのにさ。\n"
+"度胸が無いからそういうことで心配しちまうんだよ。"
+msgstr ""
+
+#. ID 78, Page 1, Line 8, Pos (36,29)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。"
+msgstr ""
+
+#. ID 79, Page 1, Line 6, Pos (30,14)
+msgid ""
+"男性：\n"
+"ゲオルクめ…。\n"
+"ラウレンティアに何かしたら、唯では済まさんぞ…。"
+msgstr ""
+
+#. ID 79, Page 1, Line 11, Pos (30,14)
+msgid ""
+"男性：\n"
+"ゲオルクはラウレンティアに一体何をしたのだ…？"
+msgstr ""
+
+#. ID 79, Page 2, Line 3, Pos (30,14)
+msgid ""
+"男性：\n"
+"最近、如何もラウレンティアの様子が変なんだ。"
+msgstr ""
+
+#. ID 79, Page 2, Line 5, Pos (30,14)
+msgid ""
+"男性：\n"
+"木の色が、心成しか変な色に成って来てるんだ。\n"
+"何と言うか、木が腐った感じの色にね。"
+msgstr ""
+
+#. ID 79, Page 2, Line 8, Pos (30,14)
+msgid ""
+"男性：\n"
+"何か、途轍もなく嫌な予感がして成らないんだよ。"
+msgstr ""
+
+#. ID 79, Page 3, Line 3, Pos (30,14)
+msgid ""
+"男性：\n"
+"とうとう星までも侵されてしまったのか…。\n"
+"最早、我々も此処までなのかな。"
+msgstr ""
+
+#. ID 79, Page 3, Line 6, Pos (30,14)
+msgid ""
+"男性：\n"
+"しかし我々は星と共に運命を共にする存在。\n"
+"星が死ぬのならば、それもまた運命。"
+msgstr ""
+
+#. ID 79, Page 3, Line 9, Pos (30,14)
+msgid ""
+"男性：\n"
+"さて…と、今の内に覚悟を決めておかねばな。"
+msgstr ""
+
+#. ID 81, Page 1, Line 3, Pos (37,13)
+msgid ""
+"女性：\n"
+"外界は科学やら何やらに重きが置かれてるけど、\n"
+"ここにはそういったものは関係ないわ。"
+msgstr ""
+
+#. ID 81, Page 1, Line 6, Pos (37,13)
+msgid ""
+"女性：\n"
+"私達は、自然と、星と共に在ること。\n"
+"ただそれだけを信じているの。"
+msgstr ""
+
+#. ID 81, Page 2, Line 3, Pos (37,13)
+msgid ""
+"女性：\n"
+"星が死ぬと言うのなら、それも運命。"
+msgstr ""
+
+#. ID 81, Page 2, Line 5, Pos (37,13)
+msgid ""
+"女性：\n"
+"諦めが良いって言う気は無いけれど、生きている以上、\n"
+"いずれ訪れる死を覚悟する必要は有ると思うわ。"
+msgstr ""
+

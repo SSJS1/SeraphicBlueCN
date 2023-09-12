@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 3, Pos (9,10)
+msgid ""
+"旅人：\n"
+"ゲオルクは何を考えてるんだろうな。\n"
+"付け焼き刃でフェジテに敵う訳無いのに。"
+msgstr ""
+
+#. ID 6, Page 1, Line 4, Pos (6,4)
+msgid ""
+"女性：\n"
+"いらっしゃいませ。\n"
+"王都ミネルヴァにようこそ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 7, Pos (6,4)
+msgid ""
+"女性：\n"
+"一泊\\_\\V[4801]\\_ディアと成っておりますが、\n"
+"如何なさいますか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 13, Pos (6,4)
+msgid ""
+"女性：\n"
+"ごゆっくり御休みください。良い夢を。"
+msgstr ""
+
+#. ID 6, Page 1, Line 21, Pos (6,4)
+#. ID 6, Page 1, Line 27, Pos (6,4)
+msgid ""
+"女性：\n"
+"またの御来駕を心より御待ちしております。"
+msgstr ""
+
+#. ID 6, Page 1, Line 31, Pos (6,4)
+msgid ""
+"女性：\n"
+"マナーの良いお客様が多くて助かります。"
+msgstr ""
+
+#. ID 7, Page 1, Line 4, Pos (14,10)
+msgid ""
+"女旅人：\n"
+"この近く、本当に此処以外何も無いのよね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 6, Pos (14,10)
+msgid ""
+"女旅人：\n"
+"何でも、山を挟んだ向こう側の大森林の中には、\n"
+"人知れずに栄える村があるって噂よ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 9, Pos (14,10)
+msgid ""
+"女旅人：\n"
+"でも、私は山を越えて旅をする気力はないし、\n"
+"それに人里離れた場所は嫌なのよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 12, Pos (14,10)
+msgid ""
+"女旅人：\n"
+"もし貴方達に興味が有れば、行ってみたらどうかしら？"
+msgstr ""
+
+#. ID 7, Page 1, Line 16, Pos (14,10)
+msgid ""
+"女旅人：\n"
+"北東の山を挟んだ向こう側の大森林の中には、\n"
+"人知れずに栄える村があるって噂よ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 19, Pos (14,10)
+msgid ""
+"女旅人：\n"
+"…探してみても、多分見つからないと思うけど。\n"
+"まあその、御免なさいね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 3, Pos (13,11)
+msgid ""
+"男性：\n"
+"ディフェンダーは便利なＴスフィアだが、\n"
+"上手く活用するのは難しい。"
+msgstr ""
+
+#. ID 8, Page 1, Line 6, Pos (13,11)
+msgid ""
+"男性：\n"
+"味方のＨＰが半分以下の場合や、味方が致命的な\n"
+"ダメージを受けそうな場合は、発動確率が\n"
+"一気に上がる、という事を覚えておくと良いと思うぞ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 10, Pos (13,11)
+msgid ""
+"男性：\n"
+"それと、麻痺や狂乱状態の時には\n"
+"攻撃を引き受けられないから注意が必要だ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (10,11)
+msgid ""
+"男性：\n"
+"飛び道具とか一部の攻撃は、\n"
+"「相手にカウンターアタックされる事がない」\n"
+"って特性がある。"
+msgstr ""
+
+#. ID 9, Page 1, Line 7, Pos (10,11)
+msgid ""
+"男性：\n"
+"弓矢や銃の攻撃なんかもそうだな。\n"
+"カウンターアタック持ちの敵と戦う時には\n"
+"この特性を意識しておくと良いと思うぜ。"
+msgstr ""
+

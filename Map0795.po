@@ -1,0 +1,806 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 47, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]此処は…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 51, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"？？？：この星の生命の中核。\\|生命の海だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 61, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：海は好きかい？"
+msgstr ""
+
+#. ID 10, Page 1, Line 64, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：だとしたら？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 67, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：俺は大嫌いだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 70, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：でしょうね。\\.\\.\n"
+"如何して貴方達が好き好むだろうか。"
+msgstr ""
+
+#. ID 10, Page 1, Line 74, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：生命の源。\\.\\.曰く総ての元凶たる海を。"
+msgstr ""
+
+#. ID 10, Page 1, Line 77, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：良く分かってるじゃねえか。"
+msgstr ""
+
+#. ID 10, Page 1, Line 80, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：その調子だと、言いたい事は\n"
+"殆ど母さんが言っちまったみたいだな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 84, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：ええ。\\.\\.全てを聞いた。"
+msgstr ""
+
+#. ID 10, Page 1, Line 87, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：そして貴方達を理解した。"
+msgstr ""
+
+#. ID 10, Page 1, Line 90, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：そいつは嬉しいねェ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 95, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：で？ \\.\\.答えを聞かせて貰おうか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 98, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：何の事？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 101, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：知らばっくれるなよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 104, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：………。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 107, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：母さんの最後の質問だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 110, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：最後まで俺達の敵であるか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 113, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：それとも俺達に付いて、世界を滅ぼすか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 116, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：貴方達を倒して星を救う。\\|\n"
+"答えるまでもない事よ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 120, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：へえ？\\.\\. その理由は？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 123, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：私はこの双翼に\n"
+"沢山の人々の想いを背負っている。"
+msgstr ""
+
+#. ID 10, Page 1, Line 127, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：それらを此処で棄てる事は出来ない。"
+msgstr ""
+
+#. ID 10, Page 1, Line 131, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：成る程、流石は救世主様。"
+msgstr ""
+
+#. ID 10, Page 1, Line 134, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：何とも御立派な事だが…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 139, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：この期に及んで、まだそんな事言うかね。"
+msgstr ""
+
+#. ID 10, Page 1, Line 142, Pos (0,0)
+#. ID 10, Page 1, Line 171, Pos (0,0)
+#. ID 10, Page 2, Line 23, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 145, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：あんたが一番良く分かってる筈だ。\\.\\.\n"
+"今更無駄な抵抗だってのが。"
+msgstr ""
+
+#. ID 10, Page 1, Line 149, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：こっち側にはエルが居るんだぜ？"
+msgstr ""
+
+#. ID 10, Page 1, Line 152, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：透けてんだよ。\\.\\.あんたの本音。"
+msgstr ""
+
+#. ID 10, Page 1, Line 155, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：今までの\"過程の上\"ならいざ知らず。\\|\n"
+"この時、\\.\\.この場所、\\.\\.運命の終着点で。"
+msgstr ""
+
+#. ID 10, Page 1, Line 159, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：もう避ける事は出来ない。\\|\n"
+"あんたとエルの意味は交代する。"
+msgstr ""
+
+#. ID 10, Page 1, Line 163, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：エルこそ真実。\\|あんたは偽り。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 166, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：違うかい？\\.\\.\n"
+"ヴェーネ･アンスバッハさんよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 176, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：自分で選びな。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 179, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：………？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 182, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：暴かれるか。\\|自白するか。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 186, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：フッ…。\\|貴方には失望したわ…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 189, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：そんな悪趣味な人だったなんて。"
+msgstr ""
+
+#. ID 10, Page 1, Line 192, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：人の事言えるのかよ？\\|\n"
+"自分ばっかり棚に上げちまってさ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 196, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：エンデの喉をブチ抜いたあんたも\n"
+"充分に悪趣味だぜ？"
+msgstr ""
+
+#. ID 10, Page 1, Line 200, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：それに\"コレ\"は必要な事だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 203, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：\"影\"と\"本体\"は繋がってるべきなんだからよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 207, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：さて？ \\.\\.如何すんだい？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 212, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：レオナの言葉を借りるわ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 215, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：あん？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 218, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：冥土の土産の\"真実\"なんて、\\.\\.\n"
+"そんなの無駄でしょう？"
+msgstr ""
+
+#. ID 10, Page 1, Line 223, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：けっ…。\\|\n"
+"何て天使＜おんな＞だよ、あんたは…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 227, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：消え逝く奴に語る事など無いってか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 230, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：真実が欲しければ私を倒してみろってか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 233, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：自己保身のクセに、能くも其処まで…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 236, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：何とでも言いなさい。"
+msgstr ""
+
+#. ID 10, Page 1, Line 239, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：エルが示す私の真実を暴かれる事は\n"
+"忌まわしく…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 243, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：しかし私から全てを語るなど、\\.\\.\n"
+"それこそは絶対に許されぬ事。"
+msgstr ""
+
+#. ID 10, Page 1, Line 247, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：だから俺を倒す。"
+msgstr ""
+
+#. ID 10, Page 1, Line 250, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：両方の意味でね。"
+msgstr ""
+
+#. ID 10, Page 1, Line 253, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：セラフィックブルーとして。\\|\n"
+"そしてヴェーネ･アンスバッハとして。"
+msgstr ""
+
+#. ID 10, Page 1, Line 259, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：へっ…。\\|上等だぜ…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 262, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：其処まで言われたんじゃあ、\n"
+"こっちもマジでやるしかねえだろ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 266, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：そういう事。\\.\\.\n"
+"余計＜ウェット＞な情など無用なものよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 270, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：必要なのはドライな思考。"
+msgstr ""
+
+#. ID 10, Page 1, Line 273, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：だろうな。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 277, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：それじゃあ始めるとするか！"
+msgstr ""
+
+#. ID 10, Page 1, Line 280, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：ドライに行こうぜ！ \\|ドライによ！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 16, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：ちくしょう…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 19, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：前々から思ってはいたさ…。\\|\n"
+"あんたは敵に回すと厄介な女だ…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 27, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：ケイン。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 30, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：何だ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 34, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：一応は仲間だった\"よしみ\"。"
+msgstr ""
+
+#. ID 10, Page 2, Line 37, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：少ないけれど。\\|全てでもないけれど。"
+msgstr ""
+
+#. ID 10, Page 2, Line 40, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：私から貴方に、\\.\\.贈る言葉を。"
+msgstr ""
+
+#. ID 10, Page 2, Line 44, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：聞かせて呉れ…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 50, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：この終末の空で、\\.\\.私は貴方達を知った。"
+msgstr ""
+
+#. ID 10, Page 2, Line 53, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：この運命の下で、\\.\\.私は貴方達を排除した。"
+msgstr ""
+
+#. ID 10, Page 2, Line 57, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：そしてこの胸の内で、\\.\\.私は答えを出した。"
+msgstr ""
+
+#. ID 10, Page 2, Line 61, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：貴方達に賛成よ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 64, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：\\S[2]そうか…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 68, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：変な感じがしていた。"
+msgstr ""
+
+#. ID 10, Page 2, Line 71, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：主観的な事ではあるけど、貴方達には…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 74, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：モーガン、ゲオルク、エンデとかの、\\.\\.\n"
+"今までの相手の様な敵意を感じなかった。"
+msgstr ""
+
+#. ID 10, Page 2, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：勝利しても満たされる事は無く、\n"
+"何処か空虚な感覚を禁じ得なかった。"
+msgstr ""
+
+#. ID 10, Page 2, Line 84, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：だったら…\\|\"そういう事\"じゃねえかい？"
+msgstr ""
+
+#. ID 10, Page 2, Line 87, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：心の底では、\n"
+"このイカれた信念を共有出来る、貴重な仲間。"
+msgstr ""
+
+#. ID 10, Page 2, Line 91, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：しかしこの運命の上では、\n"
+"絶対に相容れる事の無い敵同士。"
+msgstr ""
+
+#. ID 10, Page 2, Line 96, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：やれやれ…。\\|\n"
+"クソな運命＜じんせい＞だったな…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 100, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：そうね。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 103, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：せめて最後くらいは、\\.\\.\n"
+"一緒にこの生命を呪いましょう。"
+msgstr ""
+
+#. ID 10, Page 2, Line 107, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：そうする事で、\n"
+"少しでも手を取り合えるのならば。"
+msgstr ""
+
+#. ID 10, Page 2, Line 111, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：悪くねえな。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 121, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：けどよ…\\.\\.\"俺達\"は未だ負けてないぜ。"
+msgstr ""
+
+#. ID 10, Page 2, Line 124, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：\"こういう事態\"は覚悟してたからな。\\|\n"
+"父さんが\"最後の保険\"を用意して呉れてる。"
+msgstr ""
+
+#. ID 10, Page 2, Line 129, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：分かっているわ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 132, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：エルの胎動…\\|息遣いを感じる…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 135, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：そういう事。\\.\\.\n"
+"最後の一人＜アンカー＞にバトンが渡った。"
+msgstr ""
+
+#. ID 10, Page 2, Line 139, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：俺達の総てを以って終末をもたらす、\n"
+"憑代の姫君…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 143, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：最後まで相容れなかった、\n"
+"あんたの幻＜カウンターパート＞…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 147, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：そして、\\|\"ねがい\"…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 151, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：見せて呉れるか？"
+msgstr ""
+
+#. ID 10, Page 2, Line 154, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：ヴェーネ･アンスバッハが、何方を選ぶか…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 158, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：\\S[2]じゃあな。\\|一足先に消えとくぜ。\\|\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 161, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ケイン：\\S[2]あんたに逢えて、\\.\\.良かったよ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 172, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：そう…。\\|\n"
+"こんな勝利なんか虚しいだけ…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 176, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：生きる事が、\n"
+"斯くも虚しく寂寥に包まれて…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 181, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]生命の営み…？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 185, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]躍起に成って守る意味を…。\\|\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 188, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[3]私は、\\.\\.感じない。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 199, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]だとしても…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 203, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]エル…！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 206, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]お前は、\\.\\.私の手で滅する…！\\|\\.\\.\\^"
+msgstr ""
+

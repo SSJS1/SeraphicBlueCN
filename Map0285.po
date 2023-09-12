@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (16,7)
+#. ID 2, Page 2, Line 4, Pos (26,7)
+#. ID 3, Page 1, Line 4, Pos (36,7)
+#. ID 4, Page 1, Line 4, Pos (16,11)
+#. ID 5, Page 2, Line 4, Pos (26,11)
+#. ID 6, Page 2, Line 4, Pos (36,11)
+msgid "※鍵が掛かっている。"
+msgstr ""
+
+#. ID 2, Page 1, Line 4, Pos (26,7)
+msgid ""
+"\\C[10]\n"
+"\\>                  【フォクシー】\n"
+"\\C[0]"
+msgstr ""
+
+#. ID 2, Page 1, Line 7, Pos (26,7)
+msgid ""
+"レイク：\n"
+"勝手に入らない方が良いな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 5, Pos (26,11)
+msgid ""
+"\\C[10]\n"
+"\\>                   【ハウゼン】\n"
+"\\C[0]"
+msgstr ""
+
+#. ID 5, Page 1, Line 8, Pos (26,11)
+msgid ""
+"レイク：\n"
+"勝手に入らない方が良いな。\n"
+"触らぬ神に祟り無しだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 5, Pos (36,11)
+msgid ""
+"\\C[10]\n"
+"\\>             【クィーン･ミネルヴァ】\n"
+"\\C[0]"
+msgstr ""
+
+#. ID 6, Page 1, Line 8, Pos (36,11)
+msgid ""
+"レイク：\n"
+"勝手に入らない方が良いな。\n"
+"ハウゼンなんかに殺されるのはゴメンだ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 72, Pos (36,10)
+msgid ""
+"ハウゼン：\n"
+"此処はうら若き婦女子の、\\.\\.\n"
+"それもミネルヴァ様の御部屋。"
+msgstr ""
+
+#. ID 13, Page 1, Line 75, Pos (36,10)
+msgid ""
+"ハウゼン：\n"
+"\\S[3]何の用だ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 77, Pos (36,10)
+msgid ""
+"レイク：\n"
+"訊きたい事が在るんだよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 79, Pos (36,10)
+msgid ""
+"ハウゼン：\n"
+"では私に訊け。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 81, Pos (36,10)
+msgid ""
+"レイク：\n"
+"こんな通路で立ち話かよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 83, Pos (36,10)
+msgid ""
+"ハウゼン：\n"
+"気に食わないのか？"
+msgstr ""
+
+#. ID 13, Page 1, Line 85, Pos (36,10)
+msgid ""
+"レイク：\n"
+"ああ、不満だ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 87, Pos (36,10)
+msgid ""
+"ハウゼン：\n"
+"では立ち去れ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 89, Pos (36,10)
+#. ID 14, Page 1, Line 45, Pos (26,8)
+#. ID 14, Page 1, Line 85, Pos (26,8)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 94, Pos (36,10)
+msgid ""
+"レイク：\n"
+"分かった。\\.\\.言葉を変える。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 96, Pos (36,10)
+msgid ""
+"レイク：\n"
+"ミネルヴァとあんた、\\.\\.二人に訊きたい事が在る。"
+msgstr ""
+
+#. ID 13, Page 1, Line 98, Pos (36,10)
+msgid ""
+"レイク：\n"
+"如何だ？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 104, Pos (36,10)
+msgid ""
+"ミネルヴァの声：\n"
+"ハウゼン、\\.\\.さっきから何なの？"
+msgstr ""
+
+#. ID 13, Page 1, Line 106, Pos (36,10)
+msgid ""
+"ハウゼン：\n"
+"レイクが訊きたい事が在ると…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 108, Pos (36,10)
+#. ID 14, Page 1, Line 95, Pos (26,8)
+msgid ""
+"ミネルヴァの声：\n"
+"まさか通せんぼしてたの？"
+msgstr ""
+
+#. ID 13, Page 1, Line 110, Pos (36,10)
+msgid ""
+"ハウゼン：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 112, Pos (36,10)
+msgid ""
+"ミネルヴァの声：\n"
+"呆れた。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 114, Pos (36,10)
+msgid ""
+"ミネルヴァの声：\n"
+"そうやって特別扱いしても仲間内に\n"
+"不和が出来るだけじゃない。"
+msgstr ""
+
+#. ID 13, Page 1, Line 117, Pos (36,10)
+msgid ""
+"ミネルヴァの声：\n"
+"城を出て普通の服に着替えた私は、\n"
+"その辺の小娘と何も変わり無いのよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 123, Pos (36,10)
+msgid ""
+"ミネルヴァの声：\n"
+"レイク！ \\.\\.構わないから入って！"
+msgstr ""
+
+#. ID 13, Page 1, Line 130, Pos (36,10)
+msgid ""
+"レイク：\n"
+"参ったぜ。\\.\\.女王命令だ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 135, Pos (36,10)
+msgid ""
+"ハウゼン：\n"
+"女王陛下の個室に招き入れられたのだ。\\|\n"
+"身に余る光栄と胸に刻んでおけ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 146, Pos (36,10)
+#. ID 14, Page 1, Line 126, Pos (26,8)
+msgid ""
+"レイク：\n"
+"やれやれ…。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 50, Pos (26,8)
+msgid ""
+"ハウゼン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 55, Pos (26,8)
+msgid ""
+"レイク：\n"
+"此処はフォクシーの部屋だぞ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 57, Pos (26,8)
+msgid ""
+"ハウゼン：\n"
+"その通りだ。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 62, Pos (26,8)
+msgid ""
+"レイク：\n"
+"退け、このデク人形が。\\.\\.\n"
+"まるで持ち場が違うだろうが。"
+msgstr ""
+
+#. ID 14, Page 1, Line 65, Pos (26,8)
+msgid ""
+"ハウゼン：\n"
+"若造が粋がるな。"
+msgstr ""
+
+#. ID 14, Page 1, Line 67, Pos (26,8)
+msgid ""
+"レイク：\n"
+"若造だと？ \\|そんな事言える程の御年配か？"
+msgstr ""
+
+#. ID 14, Page 1, Line 69, Pos (26,8)
+msgid ""
+"レイク：\n"
+"行っても三十路だろ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 71, Pos (26,8)
+msgid ""
+"ハウゼン：\n"
+"私の製造年は2684年だ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 76, Pos (26,8)
+msgid ""
+"レイク：\n"
+"\\S[20]………？\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 81, Pos (26,8)
+msgid ""
+"レイク：\n"
+"結局何歳なんだよ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 83, Pos (26,8)
+msgid ""
+"ハウゼン：\n"
+"138歳だ。\\.\\.若造が。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 91, Pos (26,8)
+msgid ""
+"ミネルヴァの声：\n"
+"ハウゼン、さっきから何なの？"
+msgstr ""
+
+#. ID 14, Page 1, Line 93, Pos (26,8)
+msgid ""
+"ハウゼン：\n"
+"レイクが来ておりまして。"
+msgstr ""
+
+#. ID 14, Page 1, Line 97, Pos (26,8)
+msgid ""
+"ハウゼン：\n"
+"いいえ。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 102, Pos (26,8)
+msgid ""
+"ミネルヴァの声：\n"
+"良いから入れてあげなさい！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 109, Pos (26,8)
+msgid ""
+"レイク：\n"
+"女王命令だぜ、ポンコツ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 111, Pos (26,8)
+msgid ""
+"ハウゼン：\n"
+"生憎だが身体の整備は行き届いている。\\|\n"
+"常に最新の技術だ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 114, Pos (26,8)
+msgid ""
+"ハウゼン：\n"
+"お前よりも若々しいだろう。"
+msgstr ""
+

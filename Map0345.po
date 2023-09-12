@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 4, Pos (0,0)
+msgid ""
+"班長：\n"
+"よく来て呉れた、オーグの諸君。"
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (0,0)
+msgid ""
+"班長：\n"
+"私は本件に関してイーノック氏特別警護班の\n"
+"班長を務めている者だ。宜しく。"
+msgstr ""
+
+#. ID 5, Page 1, Line 9, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"ああ、\\.\\.宜しく。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"俺はケイン･クルスク。\\.\\.\n"
+"向かって右がレイク･ランドヴェリーで、\n"
+"左がフォクシーだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"それで早速だけど、俺達の仕事は？"
+msgstr ""
+
+#. ID 5, Page 1, Line 20, Pos (0,0)
+msgid ""
+"班長：\n"
+"予想通りだとは思うが、この屋敷の警備だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 22, Pos (0,0)
+msgid ""
+"班長：\n"
+"六年の祝祭者は本日2700＜フタナナマルマル＞時、\\.\\.\n"
+"詰まり日付が変わった深夜３時に犯行を予告している。"
+msgstr ""
+
+#. ID 5, Page 1, Line 25, Pos (0,0)
+msgid ""
+"班長：\n"
+"依ってこの前後３時間を重点警備の時間帯とした。"
+msgstr ""
+
+#. ID 5, Page 1, Line 27, Pos (0,0)
+msgid ""
+"班長：\n"
+"君達には同じ持ち場にて、24時から２時間交代で\n"
+"翌朝６時までの重点警備をして貰う。"
+msgstr ""
+
+#. ID 5, Page 1, Line 30, Pos (0,0)
+msgid ""
+"班長：\n"
+"また諸注意等々に関しては\n"
+"後で全員を集めた上での説明を行うから、その時に。"
+msgstr ""
+
+#. ID 5, Page 1, Line 36, Pos (0,0)
+msgid ""
+"班長：\n"
+"イーノック氏の御厚意で、\n"
+"客間を休憩室として使わせて頂ける事に成っている。"
+msgstr ""
+
+#. ID 5, Page 1, Line 40, Pos (0,0)
+msgid ""
+"班長：\n"
+"君達の部屋は向こう側、２階の奥の方だ。\\|\n"
+"ドアに張り紙がして在るから、行けば分かる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 44, Pos (0,0)
+msgid ""
+"班長：\n"
+"呼び出しが掛かるまで、其処で待機してて呉れ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 46, Pos (0,0)
+msgid ""
+"班長：\n"
+"私からは以上だ。\\|質問は？"
+msgstr ""
+
+#. ID 5, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"特に。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 50, Pos (0,0)
+msgid ""
+"班長：\n"
+"では解散とする。\\.\\.また後で会おう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 62, Pos (0,0)
+msgid ""
+"班長：\n"
+"ああ、\\.\\.ちょっと待った。"
+msgstr ""
+
+#. ID 5, Page 1, Line 64, Pos (0,0)
+msgid ""
+"班長：\n"
+"これから此方の方で作業をするのだが、\n"
+"少し人手が足りないようだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 67, Pos (0,0)
+msgid ""
+"班長：\n"
+"もし君達が構わないのなら、\n"
+"一人で良いから貸して呉れないか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"別に構わないぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 73, Pos (0,0)
+msgid ""
+"班長：\n"
+"それではケイン。\\.\\.\n"
+"済まないが私と一緒に来て呉れ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"分かった。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 84, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"先に行ってて良いぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 86, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"お疲れさん。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 94, Pos (0,0)
+msgid ""
+"班長：\n"
+"済まないな。\\.\\.直ぐ終わる。\\|\\^"
+msgstr ""
+

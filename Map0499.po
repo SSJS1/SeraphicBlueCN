@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 16, Page 1, Line 3, Pos (10,16)
+msgid ""
+"男性：\n"
+"この前まで、この向こうには\n"
+"海が広がっていたんだけれどね。"
+msgstr ""
+
+#. ID 16, Page 1, Line 6, Pos (10,16)
+msgid ""
+"男性：\n"
+"今と成ってはダールディンに負けず劣らずの\n"
+"絶景ポイントだ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 9, Pos (10,16)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"男性：\n"
+"君達も見てみる？"
+msgstr ""
+
+#. ID 16, Page 1, Line 11, Pos (10,16)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 5, Pos (12,33)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 17, Page 1, Line 3, Pos (6,25)
+msgid ""
+"女性：\n"
+"御覧の通り、このガーデンは陸地を持たずに空に\n"
+"定置されている施設。"
+msgstr ""
+
+#. ID 17, Page 1, Line 6, Pos (6,25)
+msgid ""
+"女性：\n"
+"だから交通手段も飛行船だけで、\n"
+"こうして巨大な発着場が設けられているの。"
+msgstr ""
+
+#. ID 18, Page 1, Line 3, Pos (12,33)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"男性：\n"
+"チルドレン･プレビューは御存じですか？"
+msgstr ""
+
+#. ID 18, Page 1, Line 7, Pos (12,33)
+msgid ""
+"男性：\n"
+"そうですか。"
+msgstr ""
+
+#. ID 18, Page 1, Line 9, Pos (12,33)
+msgid ""
+"男性：\n"
+"しかし折角軌道に乗り始めた矢先のサービス停止。\n"
+"ガーデン側としてはかなりの痛手でしょう。"
+msgstr ""
+
+#. ID 18, Page 1, Line 15, Pos (12,33)
+msgid ""
+"男性：\n"
+"男女各々のＤＮＡデータから予想される子供の顔を\n"
+"ＣＧで描画して見せて呉れるサービスですよ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 18, Pos (12,33)
+msgid ""
+"男性：\n"
+"昔は遊び半分で両者の顔面データを合成して\n"
+"子供の顔にするなんてのも在りましたが…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 21, Pos (12,33)
+msgid ""
+"男性：\n"
+"これはまるで次元が違う。\n"
+"ＤＮＡデータから論理的に導出される顔なのです。"
+msgstr ""
+
+#. ID 18, Page 1, Line 24, Pos (12,33)
+msgid ""
+"男性：\n"
+"信頼性もそれなりですね。\n"
+"この前公表された初年度実績では56％だとか。"
+msgstr ""
+
+#. ID 18, Page 1, Line 30, Pos (12,33)
+msgid ""
+"男性：\n"
+"因みにガーデン側は10年以内に、これを基盤とした\n"
+"チルドレン･オーダーの実現を目指すそうです。"
+msgstr ""
+
+#. ID 18, Page 1, Line 33, Pos (12,33)
+msgid ""
+"男性：\n"
+"様々な身体特性、或いは各種先天性疾患のリスクを\n"
+"人工的に操作若しくは軽減出来る様にし…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 36, Pos (12,33)
+msgid ""
+"男性：\n"
+"チルドレン･プレビューと組み合わせて、\n"
+"両親が一定の範囲で自分好みの子供を\n"
+"注文＜オーダー＞する事が出来ると…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 40, Pos (12,33)
+msgid ""
+"男性：\n"
+"こういうシステムです。"
+msgstr ""
+
+#. ID 18, Page 1, Line 42, Pos (12,33)
+msgid ""
+"男性：\n"
+"まあ技術そのものの難しさや、\n"
+"一部倫理団体からの猛烈な反論も在って、\n"
+"前途多難の様相ですが。"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (7,38)
+msgid ""
+"女性：\n"
+"普段ならもっと沢山の人が居るんだけれどね。"
+msgstr ""
+
+#. ID 20, Page 1, Line 3, Pos (13,16)
+msgid ""
+"女性：\n"
+"ディスピスという大きなリスクの在る今、\n"
+"子供を作るか否かという問題で、\n"
+"しばしば夫婦仲が壊れるケースが在るみたいね。"
+msgstr ""
+
+#. ID 20, Page 1, Line 7, Pos (13,16)
+msgid ""
+"女性：\n"
+"しかも統計では、\n"
+"その内の85％に於いて女性が子供を欲しがっている。"
+msgstr ""
+
+#. ID 20, Page 1, Line 10, Pos (13,16)
+msgid ""
+"女性：\n"
+"何故かって？\\|\n"
+"それは女が馬鹿だからよ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 13, Pos (13,16)
+msgid ""
+"女性：\n"
+"大体結婚式の辺りから、\n"
+"自分が世界の主役だなんて浮かれ気分に成り、\n"
+"その\"乗り\"のまま子作りまで考える。"
+msgstr ""
+
+#. ID 20, Page 1, Line 17, Pos (13,16)
+msgid ""
+"女性：\n"
+"自分の子供に限ってディスピスなんて、と。"
+msgstr ""
+
+#. ID 20, Page 1, Line 19, Pos (13,16)
+msgid ""
+"女性：\n"
+"ねえ？\\.\\.\n"
+"まさしく馬鹿でしょう？"
+msgstr ""
+

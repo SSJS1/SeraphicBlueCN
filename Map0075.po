@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (22,34)
+msgid ""
+"男性：\n"
+"妹とはぐれちゃった…。\n"
+"あいつ、僕がそばにいないと本当に駄目だからなぁ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 9, Pos (22,34)
+msgid ""
+"男性：\n"
+"今日も妹とはぐれちゃった…。\n"
+"まさか、この兄をさしおいてオトコができたのか…!?"
+msgstr ""
+
+#. ID 4, Page 1, Line 4, Pos (4,14)
+msgid ""
+"女の子：\n"
+"シスコンの兄貴がウザいから、ちょっと離れてるの。"
+msgstr ""
+
+#. ID 4, Page 1, Line 8, Pos (4,14)
+msgid ""
+"女の子：\n"
+"きょうだいを持つと、何かと苦労するわねぇ。"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (26,30)
+msgid ""
+"海の男：\n"
+"此処は人の出入りは多いけどな、\n"
+"大体は観光とかの単なる通過で、\n"
+"実際に住んでる数は然程多くないんだよ。"
+msgstr ""
+
+#. ID 19, Page 1, Line 7, Pos (26,30)
+msgid ""
+"海の男：\n"
+"この住宅街に住んでる奴だって、\n"
+"多くは俺達みたいなサルベージャーだ。"
+msgstr ""
+

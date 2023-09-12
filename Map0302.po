@@ -1,0 +1,488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]また…\\|逢えたわね。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 29, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 34, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]ヴェーネ…\\|なのか…？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ええ、\\.\\.私よ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"無事で良かった。"
+msgstr ""
+
+#. ID 12, Page 1, Line 56, Pos (0,0)
+msgid ""
+"レイク：\n"
+"お前こそ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ユアン達が助けに来て呉れたから。"
+msgstr ""
+
+#. ID 12, Page 1, Line 66, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あんたが…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ユアン･オースティン。\\.\\.\n"
+"このオーグのリーダーを務めている。"
+msgstr ""
+
+#. ID 12, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"宜しくな、\\.\\.レイク。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 76, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ヴェーネを助けて呉れて有難う。"
+msgstr ""
+
+#. ID 12, Page 1, Line 78, Pos (0,0)
+msgid ""
+"レイク：\n"
+"こちらこそ\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 90, Pos (0,0)
+msgid ""
+"\n"
+"イリエナ：\n"
+"え？ \\.\\.この子を？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 93, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"預かって欲しいのです。\\|\n"
+"俺は訳有って…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 97, Pos (0,0)
+msgid ""
+"\n"
+"イリエナ：\n"
+"でも、\\.\\.母親は…！\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 100, Pos (0,0)
+msgid ""
+"\n"
+"イリエナ：\n"
+"まだへその緒だって付いてる…！"
+msgstr ""
+
+#. ID 12, Page 1, Line 104, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"シリアは…\\|死にました。"
+msgstr ""
+
+#. ID 12, Page 1, Line 107, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"生命と引き換えに、\\.\\.此奴を産み落として。"
+msgstr ""
+
+#. ID 12, Page 1, Line 111, Pos (0,0)
+msgid ""
+"\n"
+"イリエナ：\n"
+"\\S[3]ああ…！ \\|何て事…！\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 115, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"時間が無い。\\.\\.早く此処から消えないと、\n"
+"此奴まで巻き込んでしまう。"
+msgstr ""
+
+#. ID 12, Page 1, Line 119, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"預かって…\\|呉れますね？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 123, Pos (0,0)
+msgid ""
+"\n"
+"イリエナ：\n"
+"名前は…？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 127, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"レイク･ランドヴェリー。"
+msgstr ""
+
+#. ID 12, Page 1, Line 131, Pos (0,0)
+msgid ""
+"\n"
+"イリエナ：\n"
+"何時か、\\.\\.迎えに来れますか？"
+msgstr ""
+
+#. ID 12, Page 1, Line 134, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"やがて時が満ちて、\\.\\.\n"
+"その時にまだ俺が生き残っていれば。"
+msgstr ""
+
+#. ID 12, Page 1, Line 138, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"否、必ず生き残ってみせます。"
+msgstr ""
+
+#. ID 12, Page 1, Line 142, Pos (0,0)
+msgid ""
+"\n"
+"イリエナ：\n"
+"分かりました。\\|如何か御無事で。"
+msgstr ""
+
+#. ID 12, Page 1, Line 145, Pos (0,0)
+msgid ""
+"\n"
+"イリエナ：\n"
+"どんな境遇だろうと、\n"
+"貴方は世界で唯一人の、この子の父親です。"
+msgstr ""
+
+#. ID 12, Page 1, Line 149, Pos (0,0)
+msgid ""
+"\n"
+"イリエナ：\n"
+"力尽きる事は許されないと、思ってください。"
+msgstr ""
+
+#. ID 12, Page 1, Line 152, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"その覚悟で来ました。"
+msgstr ""
+
+#. ID 12, Page 1, Line 156, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"最後に…。\\|一つだけ訊いておきたい事が。"
+msgstr ""
+
+#. ID 12, Page 1, Line 159, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"若しこの地上に天使が降りて来たのなら、\n"
+"\"彼\"は如何すると思いますか？"
+msgstr ""
+
+#. ID 12, Page 1, Line 164, Pos (0,0)
+msgid ""
+"\n"
+"イリエナ：\n"
+"きっと…。\\|幸せを下さるに違い在りません。"
+msgstr ""
+
+#. ID 12, Page 1, Line 168, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"ならば、\\.\\.この言葉を贈ります。"
+msgstr ""
+
+#. ID 12, Page 1, Line 174, Pos (0,0)
+msgid ""
+"\n"
+"              \\S[2]ごめんなさい。\\|\n"
+"              本当に、\\.\\.ごめんなさい。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 186, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ヴェーネ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 188, Pos (0,0)
+msgid ""
+"レイク：\n"
+"悪いが…\\.\\.少し下がってて呉れ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 190, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"駄目よレイク…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 196, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ヴェーネ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 198, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 200, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"為すがままにしか成らないだろ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 207, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"お願い。\\.\\.乱暴な事はしないで…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 217, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ユアン･オースティンか。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 222, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 227, Pos (0,0)
+msgid ""
+"レイク：\n"
+"分かってるな？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 232, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"分かってるさ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 237, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[2]親父だ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 250, Pos (0,0)
+msgid ""
+"レイク：\n"
+"野郎ッ！ \\.\\.今まで何してやがった！\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 252, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"止めてレイク！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 254, Pos (0,0)
+msgid ""
+"レイク：\n"
+"能くも今更ツラ見せられたモンだな！\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 256, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"おい！ \\.\\.早く引き剥がせッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 258, Pos (0,0)
+msgid ""
+"レイク：\n"
+"母さんにあんな死に方させやがって！\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 260, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"止めるんだレイク！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 262, Pos (0,0)
+msgid ""
+"レイク：\n"
+"放せーッ！\\.\\.\n"
+"この野郎だけは許せねえッ！\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 268, Pos (0,0)
+msgid ""
+"レイク：\n"
+"おいてめえ！\\.\\.\n"
+"今まで母さんの墓参りに来たか！\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 271, Pos (0,0)
+msgid ""
+"レイク：\n"
+"花の一本でも手向けたのかよ！\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 273, Pos (0,0)
+msgid ""
+"レイク：\n"
+"墓作って終わりにしてんじゃねえよ！\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 278, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何とか言え\\S[2]ーーーッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 296, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"やっぱりな…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 298, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"当然だ。\\.\\.全部お前さんが撒いた種だろうに。"
+msgstr ""
+
+#. ID 12, Page 1, Line 300, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"言って呉れるぜ。\\.\\.\n"
+"シナリオ書いたのは爺さんだろ？"
+msgstr ""
+
+#. ID 12, Page 1, Line 303, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"そういうのを責任転嫁と言うんだ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 308, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"根は…\\|深いな…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 310, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"母親を孤独の裡に死なせ、\\.\\.以後墓参りにも来なければ\n"
+"自分を迎えに来る訳でもなし。"
+msgstr ""
+
+#. ID 12, Page 1, Line 313, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"父親らしい事なぞ、本当に何もしておらん。"
+msgstr ""
+
+#. ID 12, Page 1, Line 315, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"それが22年に渡って積もり、\n"
+"レイクの心に深く深く根を張っている。"
+msgstr ""
+
+#. ID 12, Page 1, Line 318, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"中庭の雑草取りとは訳が違うぞ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 320, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"分かってるよ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 325, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"苦労するな、\\.\\.これから。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 327, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ああ。\\.\\.\"クソ親父\"の言葉すら出て来なかった。"
+msgstr ""
+
+#. ID 12, Page 1, Line 334, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"氷で冷やしたら如何だ？"
+msgstr ""
+
+#. ID 12, Page 1, Line 336, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"いいよ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 338, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"子供に抓られたと思えば、何て事無いさ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 345, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"仕方の無い男だ。\\|\\^"
+msgstr ""
+

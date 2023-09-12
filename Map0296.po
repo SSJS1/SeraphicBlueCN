@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 10, Pos (13,6)
+msgid ""
+"レイク：\n"
+"畜生！\\| バカにしやがって！\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 17, Pos (13,6)
+msgid ""
+"レイク：\n"
+"またカードキーを探さないと…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 19, Pos (13,6)
+msgid ""
+"レイク：\n"
+"手前の東ブロック辺りで誰か居れば良いんだが…。"
+msgstr ""
+

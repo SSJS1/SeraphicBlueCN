@@ -1,0 +1,521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (13,11)
+msgid ""
+"女バウンティハンター：\n"
+"賞金首を仕留めるには、確かな腕前を前提として、\n"
+"何より情報を仕入れる手際がカギになるわ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 6, Pos (13,11)
+msgid ""
+"女バウンティハンター：\n"
+"誰よりも早く新鮮な情報を手に入れ、誰よりも早く\n"
+"賞金首を狩る。"
+msgstr ""
+
+#. ID 3, Page 1, Line 9, Pos (13,11)
+msgid ""
+"女バウンティハンター：\n"
+"今まで色々情報屋を当たったけれど、ここのマスターが\n"
+"一番早くてアテになるわ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 3, Pos (4,8)
+msgid ""
+"男性：\n"
+"客の多くはマスターから情報を買うために来ている。\n"
+"それが表社会のものであれ、裏社会のものであれ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 6, Pos (4,8)
+msgid ""
+"男性：\n"
+"でも俺は情報には興味は無いんだ。単純にこの場所の、\n"
+"清濁入り混じる少し淀んだ空気が好きなのさ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 9, Pos (4,8)
+msgid ""
+"男性：\n"
+"そして何より、その空気に曝す事で酒はその美味さを\n"
+"増すからな。"
+msgstr ""
+
+#. ID 9, Page 1, Line 10, Pos (0,0)
+#. ID 9, Page 1, Line 100, Pos (0,0)
+msgid ""
+"※ニクソンが固有アビリティ\n"
+"  『メリルデリンジャー』『ミリィスタンガン』\n"
+"  を習得。"
+msgstr ""
+
+#. ID 9, Page 1, Line 23, Pos (0,0)
+#. ID 9, Page 1, Line 225, Pos (0,0)
+msgid ""
+"※ニクソンが固有アビリティ\n"
+"  『ガンナー･ヴァーサタイル』\n"
+"  『バイブルレジスタンス』を習得。"
+msgstr ""
+
+#. ID 9, Page 1, Line 38, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"教会まで焼き払ったそうだな。"
+msgstr ""
+
+#. ID 9, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"相変わらずですね。\\.\\.新鮮で確実な情報。"
+msgstr ""
+
+#. ID 9, Page 1, Line 45, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"何言ってやがる。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"あの出来事は、皆の心に厭と言う程\n"
+"神の不在を刻み付けました。"
+msgstr ""
+
+#. ID 9, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そして示しました。"
+msgstr ""
+
+#. ID 9, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"祈りは…。\\|少なくとも形而下に於いては…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"何も救えない無力の証で在るのだと。"
+msgstr ""
+
+#. ID 9, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"だから訣別したのです。"
+msgstr ""
+
+#. ID 9, Page 1, Line 68, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"お前…。\\.\\.此処に来た理由って…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 73, Pos (0,0)
+#. ID 9, Page 1, Line 294, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"注文を、\\.\\.宜しいですか？"
+msgstr ""
+
+#. ID 9, Page 1, Line 75, Pos (0,0)
+#. ID 9, Page 1, Line 127, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"メリルとミリィを。"
+msgstr ""
+
+#. ID 9, Page 1, Line 82, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"ヤる気か…。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 93, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"ほらよ。\\.\\.御注文通りのチューニングだ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 107, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"妻＜メリル＞と娘＜ミリィ＞と共に、\n"
+"孤独でない戦場に赴くってか？"
+msgstr ""
+
+#. ID 9, Page 1, Line 110, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"未練がましい事しやがって。"
+msgstr ""
+
+#. ID 9, Page 1, Line 112, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私にはもう、あの二人しか残っていないのですよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 114, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"逃げられて何年経つ？\\.\\.\n"
+"そんなんで残ってると言えるのか？"
+msgstr ""
+
+#. ID 9, Page 1, Line 117, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"言えますとも。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"たとえ傍には居なくても、\\.\\.\n"
+"たとえどんなに離れていても。"
+msgstr ""
+
+#. ID 9, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"この大地に在る限りは。"
+msgstr ""
+
+#. ID 9, Page 1, Line 133, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"あの頃は馬鹿だったからな、俺達。"
+msgstr ""
+
+#. ID 9, Page 1, Line 135, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"所帯持ちの分際でバウンティハンター稼業に\n"
+"のめり込んで、絵に描いた様に逃げられた。"
+msgstr ""
+
+#. ID 9, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"貴方が結婚に反対した時、\n"
+"素直に従っていれば良かったですね。"
+msgstr ""
+
+#. ID 9, Page 1, Line 141, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"馬鹿言え。\\.\\.\n"
+"お前がメリルに押し切られたんだろうが。"
+msgstr ""
+
+#. ID 9, Page 1, Line 144, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そう言えば。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 150, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"なあ。\\|本当にヤる気なのか？"
+msgstr ""
+
+#. ID 9, Page 1, Line 152, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"此処に来ている事が何よりの証です。"
+msgstr ""
+
+#. ID 9, Page 1, Line 154, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"幾多の疑問を纏って、\\.\\.帰ろうと思えば幾らでも\n"
+"帰るチャンスは在ったのに…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 157, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"気が付けば私は、\\.\\.\n"
+"此処で二人に見守られて酒を飲む。"
+msgstr ""
+
+#. ID 9, Page 1, Line 163, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"だとしても、ターゲットは\n"
+"フェジテだけじゃないだろう？"
+msgstr ""
+
+#. ID 9, Page 1, Line 166, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それでしたら、\n"
+"ヴェーネに手厳しい事を言われましたよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 169, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そんなに殺したいのなら、\n"
+"子供を捨てた奴を直に殺せと。"
+msgstr ""
+
+#. ID 9, Page 1, Line 172, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"そいつはまた。\\.\\.\n"
+"見掛けに依らずキツい姉ちゃんだな。"
+msgstr ""
+
+#. ID 9, Page 1, Line 178, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"でも、それだって一理在る。"
+msgstr ""
+
+#. ID 9, Page 1, Line 180, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"お前が本当に銃を向けるべき相手が、\n"
+"一体誰なのか。"
+msgstr ""
+
+#. ID 9, Page 1, Line 183, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"生憎と見当が付きません。"
+msgstr ""
+
+#. ID 9, Page 1, Line 185, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"昔の様に貴方が\n"
+"ターゲットを見付けて呉れますか？"
+msgstr ""
+
+#. ID 9, Page 1, Line 188, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"何をヘタレた事を。"
+msgstr ""
+
+#. ID 9, Page 1, Line 190, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"生憎と向こうにはパイプが無くてな。\\.\\.\n"
+"悪いが自分で見付けて呉れ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 196, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 201, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"ああそうだ、\\.\\.ちょっと待ってろ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 203, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 214, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"持ってきな。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 232, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"これは…。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 234, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"この前手に入った掘り出し物のブツだ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 236, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"一つが変り種の銃。\\.\\.\n"
+"そしてもう一つが…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 239, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"年代物のバイブル…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 241, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私は教会を焼き払った時、\n"
+"一緒にバイブルも焼いてしまったのですがね。"
+msgstr ""
+
+#. ID 9, Page 1, Line 244, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"まあ話を聞けって。"
+msgstr ""
+
+#. ID 9, Page 1, Line 249, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"このバイブル、どうやら持ち主の身を守る\n"
+"不思議な力が秘められてるらしい。"
+msgstr ""
+
+#. ID 9, Page 1, Line 252, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"だがその力を引き出すのに、\n"
+"ちょいとばかりコツが必要だそうだ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 255, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"結論から言えば、牧師とか\"その方面\"の\n"
+"職業じゃないと上手く行かないらしい。"
+msgstr ""
+
+#. ID 9, Page 1, Line 258, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"今の私を牧師だと言う訳で。"
+msgstr ""
+
+#. ID 9, Page 1, Line 260, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"心得は有るだろうが。"
+msgstr ""
+
+#. ID 9, Page 1, Line 262, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"消せない過去ですよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 267, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 272, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"まあ兎に角だ、この古びたバイブル、\n"
+"お前にとっちゃ役に立つ筈だ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 275, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"道に迷うにしても、否…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 277, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"道に迷うからこそ、\\.\\.身を守る力が必要だろう？"
+msgstr ""
+
+#. ID 9, Page 1, Line 279, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"バイブルを焼いた者であっても？"
+msgstr ""
+
+#. ID 9, Page 1, Line 281, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"生き残る為に必要な力だ。\\.\\.\n"
+"そんなのは関係無いと、俺は思うがね。"
+msgstr ""
+
+#. ID 9, Page 1, Line 287, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 289, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"分かりました。\\.\\.受け取っておきましょう。"
+msgstr ""
+
+#. ID 9, Page 1, Line 296, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 298, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私のボトルを。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 309, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"どうも。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 314, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"なあ…。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 319, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"子供達に見せて遣れよ。\\|\n"
+"生き方の手本って奴をさ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 322, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"道に迷った時は、\n"
+"如何いう風にして先に進むのか。"
+msgstr ""
+
+#. ID 9, Page 1, Line 325, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"皆、お前の背中を見てるんだぜ。"
+msgstr ""
+

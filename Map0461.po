@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 5, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"真っ暗ね…。\\.\\.何も見えないわ…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 7, Pos (0,0)
+msgid ""
+"職員：\n"
+"電源が落ちてるみたいだな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 12, Pos (0,0)
+msgid ""
+"レイク：\n"
+"大丈夫だろ。\\|\n"
+"取り敢えずイーヴルの\"臭い\"はしない。"
+msgstr ""
+
+#. ID 8, Page 1, Line 18, Pos (0,0)
+msgid ""
+"職員：\n"
+"臭い…か。\\|\n"
+"俺には能く分かんないな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 24, Pos (0,0)
+msgid ""
+"職員：\n"
+"兎に角、今電源を入れる。"
+msgstr ""
+
+#. ID 8, Page 1, Line 49, Pos (0,0)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 54, Pos (0,0)
+#. ID 8, Page 2, Line 6, Pos (0,0)
+msgid ""
+"職員：\n"
+"参ったな…。\\|\n"
+"まだ一体残ってたのか…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 57, Pos (0,0)
+#. ID 8, Page 2, Line 9, Pos (0,0)
+msgid ""
+"職員：\n"
+"本当は部外者には見せちゃいけないんだが…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 62, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]こいつは…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 67, Pos (0,0)
+#. ID 8, Page 2, Line 19, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"欠陥嬰児よ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ディスピスを発症し、その末期症状として\n"
+"ルシファー変異症にまで至った子供…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]天使に成れなかった、\\.\\.黒い悪魔…。\\|\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 106, Pos (0,0)
+#. ID 8, Page 2, Line 31, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"正確にはルシファー変異症発症体若しくは\n"
+"ルシファー原体。"
+msgstr ""
+
+#. ID 8, Page 1, Line 109, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"恐らく変異過程Ⅲ期。\n"
+"高度知能が欠損し、原始的知能が卓越する直前の\n"
+"意識混濁期。"
+msgstr ""
+
+#. ID 8, Page 1, Line 113, Pos (0,0)
+#. ID 8, Page 2, Line 38, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"全身麻酔下での劇薬物プールに依る擬似的安楽薬殺\n"
+"Enoch Method(イーノック法)を施している最中ね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 119, Pos (0,0)
+#. ID 8, Page 2, Line 44, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 124, Pos (0,0)
+msgid ""
+"職員：\n"
+"良く知ってるんだな。\\.\\.\n"
+"同業者か何か？"
+msgstr ""
+
+#. ID 8, Page 1, Line 127, Pos (0,0)
+#. ID 8, Page 2, Line 52, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"違うわ。\\.\\.\n"
+"興味が在って本を結構読んでいるの。"
+msgstr ""
+
+#. ID 8, Page 1, Line 130, Pos (0,0)
+#. ID 8, Page 2, Line 55, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"流石に臨床経験は無いけれど。"
+msgstr ""
+
+#. ID 8, Page 1, Line 132, Pos (0,0)
+msgid ""
+"職員：\n"
+"そうか。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 138, Pos (0,0)
+msgid ""
+"職員：\n"
+"あんたの言う通り、\\.\\.これはルシファー遺児だ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 140, Pos (0,0)
+msgid ""
+"職員：\n"
+"変異過程Ⅲ期。\\.\\.\n"
+"人間としての性質が失われ、凶暴なルシファーとして\n"
+"完成される直前の状態。"
+msgstr ""
+
+#. ID 8, Page 1, Line 144, Pos (0,0)
+msgid ""
+"職員：\n"
+"薬殺に依る安楽死としては最後のチャンスだが、\n"
+"その成功率は時と共に下がり続けてる。"
+msgstr ""
+
+#. ID 8, Page 1, Line 147, Pos (0,0)
+msgid ""
+"職員：\n"
+"これも見た限り不成功だ。\\|\n"
+"近い内にグラウンドに廃棄されるだろう。"
+msgstr ""
+
+#. ID 8, Page 1, Line 153, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"可哀想にな…。\\|\n"
+"こんな姿に成っちまってよ…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 159, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ホーイックの子供達も、\\.\\.\n"
+"こんな風に死んで逝ったのか…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 165, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ただ言葉だけを知っていたルシファー…。\\|\n"
+"これが、その真実…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 171, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"まるで…\\|死ぬ為に生まれて来る生命だな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 173, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"そんなんだったら、\n"
+"初めから生まれて来なきゃ良いと思うんだけど。"
+msgstr ""
+
+#. ID 8, Page 1, Line 176, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"どーよ、\\.\\.その辺？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 181, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そうね…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 183, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"こう在っては最早、生まれ来る事を安直に\n"
+"幸福などとは言えない筈。"
+msgstr ""
+
+#. ID 8, Page 1, Line 189, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"実際、\\.\\.\"彼ら\"もそう感じているみたいだし。"
+msgstr ""
+
+#. ID 8, Page 1, Line 191, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そうでしょう？\\|\n"
+"カプセルの所に貼り付けて在る手紙。"
+msgstr ""
+
+#. ID 8, Page 1, Line 194, Pos (0,0)
+msgid ""
+"職員：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 196, Pos (0,0)
+msgid ""
+"職員：\n"
+"その手紙は、ルシファーに成っちまった子供に宛てた、\n"
+"親からの最後の手紙。"
+msgstr ""
+
+#. ID 8, Page 1, Line 199, Pos (0,0)
+msgid ""
+"職員：\n"
+"一連の処理に最初から最後まで付き添い、\\.\\.\n"
+"いずれは灰と成って空に散って行く。"
+msgstr ""
+
+#. ID 8, Page 1, Line 205, Pos (0,0)
+msgid ""
+"職員：\n"
+"俺は１年位前に、\n"
+"フェスクからこの部署に移って来たんだが…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 208, Pos (0,0)
+msgid ""
+"職員：\n"
+"\"生まれて来て呉れてありがとう\"。"
+msgstr ""
+
+#. ID 8, Page 1, Line 210, Pos (0,0)
+msgid ""
+"職員：\n"
+"その言葉を眼にしたのは、\\.\\.\n"
+"今までに３通だけだ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 14, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]此奴は…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 21, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ディスピスを発症し、\\.\\.その末期症状として\n"
+"ルシファー変異症にまで至った子供…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 34, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"恐らく変異過程Ⅲ期。\\|\n"
+"高度知能が欠損し、原始的知能が卓越する直前の\n"
+"意識混濁期。"
+msgstr ""
+
+#. ID 8, Page 2, Line 49, Pos (0,0)
+msgid ""
+"職員：\n"
+"良く知ってるんだな。\\|\n"
+"同業者？"
+msgstr ""
+

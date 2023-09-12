@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. ID 1, Page 1, Line 8, Pos (1,2)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "StartSetting"
+msgstr ""
+
+#. ID 1, Page 1, Line 75, Pos (1,2)
+#. Contains choice at line 2 (3 options)
+msgid "\\>\\C[10]【ゲームモード選択】\\C[0]"
+msgstr "\\>\\C[10]【游戏模式的选择】\\C[0]"
+
+#. ID 1, Page 1, Line 76, Pos (1,2)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>ゲームモード説明\n"
+"\\>オリジナルモード\n"
+"\\>アレンジモード"
+msgstr ""
+"\\>游戏模式的说明\n"
+"\\>Original模式\n"
+"\\>Arrange模式"
+
+#. ID 1, Page 1, Line 78, Pos (1,2)
+msgid ""
+"\\>\\C[10]【ゲームモードの説明／オリジナルモード】　　　 1/5\\C[0]\n"
+"\\>純正版の\\_Seraphic Blue\\_と同様のゲーム内容です。\n"
+"\\>改造版独自のコンフィグ機能および、\n"
+"\\>それに応じた各種仕様の追加は在ります。"
+msgstr ""
+"\\>\\C[10]【游戏模式的说明 / Original模式】　　　 1/5\\C[0]\n"
+"\\>和原版的游戏内容一致。\n"
+"\\>通过更改本改造版的各项设置，\n"
+"\\>也可以添加各种各样的新玩法。"
+
+#. ID 1, Page 1, Line 82, Pos (1,2)
+msgid ""
+"\\>\\C[10]【ゲームモードの説明／アレンジモード】　　　　 2/5\\C[0]\n"
+"\\>ゲームバランス変更、新規ボス等の追加、\n"
+"\\>バトルシステムの新要素追加といった\n"
+"\\>様々なゲーム内容のアレンジがなされたモードです。"
+msgstr ""
+"\\>\\C[10]【游戏模式的说明 / Arrange模式】　　　　 2/5\\C[0]\n"
+"\\>将许多游戏中的内容进行调整的游戏模式。\n"
+"\\>比如游戏平衡的变更，新Boss的增加\n"
+"\\>以及战斗系统中的新要素等等。"
+
+#. ID 1, Page 1, Line 86, Pos (1,2)
+msgid ""
+"\\>\\C[10]【ゲームモードの説明／ゲームモードの途中変更】 3/5\\C[0]\n"
+"\\>ゲームモードは本編中でもコンフィグのディープ設定で\n"
+"\\>変更可能ですが、ゲームモードを途中で変更すると、\n"
+"\\>スコアにマイナスの補正が掛かります。"
+msgstr ""
+"\\>\\C[10]【游戏模式的说明 / 在游戏中途变更模式】 3/5\\C[0]\n"
+"\\>虽然也可以在游戏中进行游戏模式的变更，\n"
+"\\>但是这么做的话，\n"
+"\\>就会减少分数。"
+
+#. ID 1, Page 1, Line 90, Pos (1,2)
+msgid ""
+"\\>\\C[10]【ゲームモードの説明／スコアによる影響】　　　 4/5\\C[0]\n"
+"\\>オリジナルモードでは、\n"
+"\\>スコアによるゲーム本編への影響は一切有りません。"
+msgstr ""
+"\\>\\C[10]【游戏模式的说明 / 分数造成的影响】　　　 4/5\\C[0]\n"
+"\\>在Original模式中，\n"
+"\\>分数不会影响游戏中的内容。"
+
+#. ID 1, Page 1, Line 93, Pos (1,2)
+msgid ""
+"\\>\\C[10]【ゲームモードの説明／スコアによる影響】　　　 5/5\\C[0]\n"
+"\\>アレンジモードでは、高スコアを達成すると、\n"
+"\\>某所でおまけアイテムが得られる可能性が有ります。\n"
+"\\>但し、このおまけは他の条件でも取得可能です。"
+msgstr ""
+"\\>\\C[10]【游戏模式的说明 / 分数造成的影响】　　　 5/5\\C[0]\n"
+"\\>如果在Arrange模式中取得高分的话，\n"
+"\\>就有可能在某处获得额外道具。\n"
+"\\>不过，这些额外道具也可以通过其他条件取得。"
+
+#. ID 1, Page 1, Line 109, Pos (1,2)
+#. Contains choice at line 2 (2 options)
+msgid "\\>タイトル画面に戻りますか？"
+msgstr "\\>要返回标题界面吗？"
+
+#. ID 1, Page 1, Line 110, Pos (1,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>ＹＥＳ\n"
+"\\>ＮＯ"
+msgstr ""
+"\\>YES\n"
+"\\>NO"

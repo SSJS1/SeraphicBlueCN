@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 14, Pos (14,10)
+msgid ""
+"ヴィルジニー：\n"
+"此処がラージュの円盤中央部よ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 16, Pos (14,10)
+msgid ""
+"ヴィルジニー：\n"
+"ラージュは複数の階層＜レイヤー＞から成り、\n"
+"レイヤー間をこのエレベーターで移動するわ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 35, Pos (14,10)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：現在地はレイヤーⅠ･飛行船発着場。"
+msgstr ""
+
+#. ID 1, Page 1, Line 38, Pos (14,10)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：そしてラージュの鉄槌の制御部が\n"
+"在るのは最上層のレイヤーⅥ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 42, Pos (14,10)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：但しこの中央エレベーターで行けるのは\n"
+"レイヤーⅤまで。"
+msgstr ""
+
+#. ID 1, Page 1, Line 46, Pos (14,10)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：其処からは階段に依る接続で\n"
+"レイヤーⅥへと移動する。"
+msgstr ""
+
+#. ID 1, Page 1, Line 57, Pos (14,10)
+msgid ""
+"\n"
+"\n"
+"ヤンシー：レイクとヴェーネが居そうな場所は？"
+msgstr ""
+
+#. ID 1, Page 1, Line 60, Pos (14,10)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：ヴェーネはゲオルクと一緒。\n"
+"レイクも今頃ゲオルクを目指している筈。"
+msgstr ""
+
+#. ID 1, Page 1, Line 64, Pos (14,10)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：場所はレイヤー･クオリファイド。\n"
+"レイヤーⅣから繋がっている特別区域。"
+msgstr ""
+
+#. ID 1, Page 1, Line 68, Pos (14,10)
+msgid ""
+"\n"
+"\n"
+"ヴィルジニー：鉄槌を始末したら、私達も向かうわ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 77, Pos (14,10)
+msgid ""
+"ヴィルジニー：\n"
+"説明は以上。\\.\n"
+"先ずはレイヤーⅥを目指すわよ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 92, Pos (14,10)
+msgid ""
+"ヴィルジニー：\n"
+"説明は以上。\\.\\.\n"
+"先ずはレイヤーⅥを目指すわよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 8, Pos (4,16)
+#. Contains choice at line 2 (3 options)
+msgid "店員：準備はしっかりと。敵はデカいわよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 9, Pos (4,16)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 10, Page 1, Line 19, Pos (4,16)
+msgid ""
+"店員：\n"
+"ラージュの敵と渡り合う上では、\n"
+"ヴィルジニーの能力が鍵になるんじゃないかしら。"
+msgstr ""
+
+#. ID 10, Page 1, Line 30, Pos (4,16)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"店員：\n"
+"準備はしっかりと。敵はデカいわよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 32, Pos (4,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+
+#. ID 11, Page 1, Line 3, Pos (20,16)
+msgid ""
+"補給係：\n"
+"どうも、補給係です。\n"
+"完全回復が得意です。"
+msgstr ""
+
+#. ID 11, Page 1, Line 11, Pos (20,16)
+msgid ""
+"補給係：\n"
+"自分、こんな事しか出来ませんけど。\n"
+"頑張ってください、応援してます。"
+msgstr ""
+
+#. ID 15, Page 1, Line 19, Pos (12,14)
+#. Choice (4 options)
+msgid ""
+"\\>＞レイヤーⅡ\n"
+"\\>\\C[3]＞レイヤーⅢ\n"
+"\\>\\C[3]＞レイヤーⅣ\n"
+"\\>\\C[3]＞レイヤーⅤ"
+msgstr ""
+
+#. ID 15, Page 1, Line 39, Pos (12,14)
+#. Choice (4 options)
+msgid ""
+"\\>＞レイヤーⅡ\n"
+"\\>＞レイヤーⅢ\n"
+"\\>\\C[3]＞レイヤーⅣ\n"
+"\\>\\C[3]＞レイヤーⅤ"
+msgstr ""
+
+#. ID 15, Page 1, Line 59, Pos (12,14)
+#. Choice (4 options)
+msgid ""
+"\\>＞レイヤーⅡ\n"
+"\\>＞レイヤーⅢ\n"
+"\\>＞レイヤーⅣ\n"
+"\\>\\C[3]＞レイヤーⅤ"
+msgstr ""
+
+#. ID 15, Page 1, Line 78, Pos (12,14)
+#. Choice (4 options)
+msgid ""
+"\\>＞レイヤーⅡ\n"
+"\\>＞レイヤーⅢ\n"
+"\\>＞レイヤーⅣ\n"
+"\\>＞レイヤーⅤ"
+msgstr ""
+
+#. ID 15, Page 1, Line 104, Pos (12,14)
+#. Choice (4 options)
+msgid ""
+"＞レイヤーⅡ\n"
+"\\C[3]＞レイヤーⅢ\n"
+"\\C[3]＞レイヤーⅣ\n"
+"\\C[3]＞レイヤーⅤ"
+msgstr ""
+
+#. ID 15, Page 1, Line 124, Pos (12,14)
+#. Choice (4 options)
+msgid ""
+"＞レイヤーⅡ\n"
+"＞レイヤーⅢ\n"
+"\\C[3]＞レイヤーⅣ\n"
+"\\C[3]＞レイヤーⅤ"
+msgstr ""
+
+#. ID 15, Page 1, Line 144, Pos (12,14)
+#. Choice (4 options)
+msgid ""
+"＞レイヤーⅡ\n"
+"＞レイヤーⅢ\n"
+"＞レイヤーⅣ\n"
+"\\C[3]＞レイヤーⅤ"
+msgstr ""
+
+#. ID 15, Page 1, Line 163, Pos (12,14)
+#. Choice (4 options)
+msgid ""
+"＞レイヤーⅡ\n"
+"＞レイヤーⅢ\n"
+"＞レイヤーⅣ\n"
+"＞レイヤーⅤ"
+msgstr ""
+
+#. ID 15, Page 1, Line 233, Pos (12,14)
+#. ID 15, Page 1, Line 267, Pos (12,14)
+#. ID 15, Page 1, Line 302, Pos (12,14)
+#. ID 48, Page 1, Line 4, Pos (10,14)
+msgid ""
+"\\>\\C[10]【中央エレベーター】\\C[0]\n"
+"\\>＞セキュリティによって閉鎖されています。"
+msgstr ""
+
+#. ID 15, Page 1, Line 237, Pos (12,14)
+#. ID 15, Page 1, Line 271, Pos (12,14)
+#. ID 15, Page 1, Line 306, Pos (12,14)
+#. ID 48, Page 1, Line 8, Pos (10,14)
+msgid ""
+"\\C[10]【中央エレベーター】\\C[0]\n"
+"＞セキュリティによって閉鎖されています。"
+msgstr ""
+
+#. ID 25, Page 1, Line 3, Pos (21,19)
+msgid "\\>※このリターンツリーはまだ利用出来ません。"
+msgstr ""
+

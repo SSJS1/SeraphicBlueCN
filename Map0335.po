@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"奥は？"
+msgstr ""
+
+#. ID 2, Page 1, Line 23, Pos (0,0)
+msgid ""
+"男性：\n"
+"行き止まりだ。\\.少し先で水脈にぶち当たってる。"
+msgstr ""
+
+#. ID 2, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリス。\\.私は今からこの人と一緒に\n"
+"表のバケモノを片付けて来るわ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ワタシもイッショにタタカう。\\.\\.\n"
+"マホウでガンバる。"
+msgstr ""
+
+#. ID 2, Page 1, Line 36, Pos (0,0)
+#. ID 2, Page 1, Line 328, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"少々気は引けるが、\n"
+"加勢して貰うのが賢明だろう。"
+msgstr ""
+
+#. ID 2, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 54, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"貴女、\\.\\.名前は？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 58, Pos (0,0)
+#. ID 2, Page 1, Line 66, Pos (0,0)
+msgid ""
+"\n"
+"女の子：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 62, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"訊いてるでしょ？ \\|名前は？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 70, Pos (0,0)
+msgid ""
+"\n"
+"女の子：\n"
+"ドリス･シュテンダル…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 73, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"ドリスね。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"それじゃあドリス、\\.\\.\n"
+"私はこれから奥の方の様子を見て来るわ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 86, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"だから絶対に此処を動いちゃ駄目よ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"さっきのバケモノが来ても、\n"
+"あの体躯じゃ中までは入って来れないから大丈夫。"
+msgstr ""
+
+#. ID 2, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"分かった？ \\.\\.ジッとしてるのよ？"
+msgstr ""
+
+#. ID 2, Page 1, Line 99, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 104, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"うん、\\.\\.わかった。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 111, Pos (0,0)
+msgid ""
+"男の声：\n"
+"おい、\\.\\.其処に誰か居るのか？"
+msgstr ""
+
+#. ID 2, Page 1, Line 125, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"お前達も大蛇のバケモノか？"
+msgstr ""
+
+#. ID 2, Page 1, Line 128, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"え？ \\.\\.それじゃ貴方も？"
+msgstr ""
+
+#. ID 2, Page 1, Line 131, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"この先の崖下に居座っててな。\\|\n"
+"一騎打ちにはデカ過ぎるから迂回路を探してた。"
+msgstr ""
+
+#. ID 2, Page 1, Line 139, Pos (0,0)
+msgid ""
+"\n"
+"\\>ヤンシー／男性：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 143, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"やって呉れたな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 146, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"御免なさいね。"
+msgstr ""
+
+#. ID 2, Page 1, Line 149, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"フゥ…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 152, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"奥は？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 155, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"行き止まりだ。\\.\\.少し先で水脈にぶち当たってる。"
+msgstr ""
+
+#. ID 2, Page 1, Line 158, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"前門の虎。後門の狼。"
+msgstr ""
+
+#. ID 2, Page 1, Line 161, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"背水の陣って言うのよ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 164, Pos (0,0)
+msgid ""
+"\n"
+"男性：\n"
+"如何やら責任を感じてないみたいだな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 174, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"厭ねぇ。\\.\\.そんな事無いわ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 179, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"それで？ \\.\\.殺れる自信は有る？"
+msgstr ""
+
+#. ID 2, Page 1, Line 181, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"まさか奴が諦めるまで\n"
+"待ってるなんて言わないわよね？"
+msgstr ""
+
+#. ID 2, Page 1, Line 184, Pos (0,0)
+msgid ""
+"男性：\n"
+"無理な話だ。\\.\\.恐らくこれは奴の布陣。"
+msgstr ""
+
+#. ID 2, Page 1, Line 186, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ええ、\\.\\.体躯に似合わない策士。"
+msgstr ""
+
+#. ID 2, Page 1, Line 188, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"労して獲物を追い駆けずとも、\n"
+"獲物の方から恐れ逃げ出し、この\"籠\"に入って行く。"
+msgstr ""
+
+#. ID 2, Page 1, Line 191, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"後は入口で重圧を掛け、\\.\\.\n"
+"耐え切れず飛び出した所をペロリ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 197, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"慌ててたとは言え迂闊。\\.\\.\n"
+"未だ未だ修行が足りないわね。"
+msgstr ""
+
+#. ID 2, Page 1, Line 200, Pos (0,0)
+msgid ""
+"男性：\n"
+"地元のモンクか。"
+msgstr ""
+
+#. ID 2, Page 1, Line 202, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"貴方は？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 204, Pos (0,0)
+msgid ""
+"男性：\n"
+"元バウンティハンターだ。\\|\n"
+"引退してもう10年位経つがな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 207, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"名前も良いかしら？"
+msgstr ""
+
+#. ID 2, Page 1, Line 209, Pos (0,0)
+msgid ""
+"男性：\n"
+"名乗る程の者じゃない。"
+msgstr ""
+
+#. ID 2, Page 1, Line 211, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"良いから教えなさい。\\.\\.\n"
+"声を掛ける時に困るのよ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 217, Pos (0,0)
+msgid ""
+"男性：\n"
+"ランサード。\\|\n"
+"ランサード･シャイアンだ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 220, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ランサード…？\\.\\.\n"
+"何処かで聞いた様な名前ね…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 231, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ま、\\.\\.如何でも良いわ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 233, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"モンクと元バウンティハンター。\\.\\.\n"
+"二人掛かりなら何とか出来るかもね。"
+msgstr ""
+
+#. ID 2, Page 1, Line 236, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"微妙だと思うがな。\\.\\.\n"
+"あれを沈めるのは骨が折れる。"
+msgstr ""
+
+#. ID 2, Page 1, Line 245, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリス。\\.\\.私は今からこの人と一緒に\n"
+"表のバケモノを片付けて来るわ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 248, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"良いって言うまで、外に出ちゃ駄目よ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 250, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"分かった？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 255, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ワタシも…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 257, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 259, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ワタシもタタカう。\\|\n"
+"おネエちゃんとイッショなら、ダイジョウブ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 262, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"無理よ。\\.\\.お子様はジッとしてなさい。"
+msgstr ""
+
+#. ID 2, Page 1, Line 266, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"如何した？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 268, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリスも戦うって言ってるのよ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 277, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"これ…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 284, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"バッジ…？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 286, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"何か文字が入ってるな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 291, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"フェジテ魔法アカデミー…。\\|\n"
+"特Ａクラス、ドリス･シュテンダル…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 294, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"特級術士＜スペリオルメイジ＞証…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 299, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"特級術士…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 301, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"特級厨士と同じ様な物かしら…？"
+msgstr ""
+
+#. ID 2, Page 1, Line 303, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"何だそれは。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 305, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"異国の料理人の称号。\\.\\.\n"
+"エリート中のエリートである証ね。"
+msgstr ""
+
+#. ID 2, Page 1, Line 313, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"それではドリスは、\n"
+"術士に於けるエリート中のエリートだと…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 316, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"恐らくは。\\.\\.\n"
+"世の中、見掛けに依らないものね。"
+msgstr ""
+
+#. ID 2, Page 1, Line 322, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ワタシもイッショにタタカう。\\|\n"
+"マホウでガンバる。"
+msgstr ""
+
+#. ID 2, Page 1, Line 331, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そうね。\\.\\.二人で相手するには重い相手だし。"
+msgstr ""
+
+#. ID 2, Page 1, Line 336, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"分かったわドリス。\\.\\.一緒に戦おう。"
+msgstr ""
+
+#. ID 2, Page 1, Line 338, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ガンバろうね、\\.\\.おネエちゃん。"
+msgstr ""
+
+#. ID 10, Page 1, Line 4, Pos (12,1)
+msgid ""
+"ヤンシー：\n"
+"奥に行っても仕方無いわ。"
+msgstr ""
+

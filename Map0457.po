@@ -1,0 +1,647 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 145, Page 1, Line 9, Pos (1,2)
+#. Contains choice at line 2 (3 options)
+#. ID 145, Page 1, Line 23, Pos (1,2)
+#. Contains choice at line 2 (3 options)
+msgid "\\>\\C[10]【プロファイルデータメニュー】\\C[0]"
+msgstr ""
+
+#. ID 145, Page 1, Line 10, Pos (1,2)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>その他の記録確認\n"
+"\\>スコアシステム解説\n"
+"\\>キャンセル"
+msgstr ""
+
+#. ID 145, Page 1, Line 24, Pos (1,2)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>その他の記録確認\n"
+"\\>スコアシステム解説\n"
+"\\>EXTボーナスの取得状況確認"
+msgstr ""
+
+#. ID 145, Page 1, Line 53, Pos (1,2)
+msgid ""
+"\\>　　　ゲーム周回 \\v[3341]\n"
+"\\>　　ベストスコア \\v[3831]\n"
+"\\>最短クリアタイム \\v[4832]:\\v[4833]:\\v[4834]"
+msgstr ""
+
+#. ID 145, Page 1, Line 63, Pos (1,2)
+msgid "\\>　　　ゲーム周回 \\v[3341]"
+msgstr ""
+
+#. ID 145, Page 1, Line 68, Pos (1,2)
+msgid ""
+"\\>EASY通常戦闘回数 \\v[3345]\n"
+"\\>HARD通常戦闘回数 \\v[3346]\n"
+"\\>EASYボス戦闘回数 \\v[3189]\n"
+"\\>HARDボス戦闘回数 \\v[3190]"
+msgstr ""
+
+#. ID 145, Page 1, Line 74, Pos (1,2)
+msgid ""
+"\\>雑魚敵との戦闘を省略した回数：\\v[3334]\n"
+"\\>ボス戦での最多バトルメンバー人数：\\v[3187]"
+msgstr ""
+
+#. ID 145, Page 1, Line 78, Pos (1,2)
+msgid "\\>雑魚敵との戦闘を省略した回数：\\v[3334]"
+msgstr ""
+
+#. ID 145, Page 1, Line 81, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "キャンセル回"
+msgstr ""
+
+#. ID 145, Page 1, Line 82, Pos (1,2)
+msgid ""
+"\\>ストライクアタック回数 \\v[4741]\n"
+"\\>ウェイト\\n[2]数（通常\\_\\v[4742]　ＨＣ\\_\\v[4743]）\n"
+"\\>　　アシストムーブ回数 \\v[4744]\n"
+"\\>エクステンドチャージ回数 \\v[4745]"
+msgstr ""
+
+#. ID 145, Page 1, Line 87, Pos (1,2)
+msgid ""
+"\\>オーバードライブ回数 \\v[4746]\n"
+"\\>オートドライブ回数 \\v[4747]"
+msgstr ""
+
+#. ID 145, Page 1, Line 91, Pos (1,2)
+msgid "\\>オーバードライブ回数 \\v[4746]"
+msgstr ""
+
+#. ID 145, Page 1, Line 95, Pos (1,2)
+msgid ""
+"\\>雑魚敵との戦闘を省略した回数 \\v[3334]\n"
+"\\>　　　オーバーエネミー撃破数 \\v[3360]\n"
+"\\>　　　ラッキーセブン発生回数 \\v[3350]"
+msgstr ""
+
+#. ID 145, Page 1, Line 100, Pos (1,2)
+msgid ""
+"\\>雑魚敵との戦闘を省略した回数 \\v[3334]\n"
+"\\>　　　オーバーエネミー撃破数 \\v[3360]"
+msgstr ""
+
+#. ID 145, Page 1, Line 106, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 145, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 182, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 198, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 236, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 550, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ヴェーネ"
+msgstr ""
+
+#. ID 145, Page 1, Line 112, Pos (1,2)
+#. Contains choice at line 2 (3 options)
+msgid "\\>\\C[10]【スコアシステム解説】\\C[0]"
+msgstr ""
+
+#. ID 145, Page 1, Line 113, Pos (1,2)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>概要･スコアの上げ方\n"
+"\\>スコア計算式･各要素解説\n"
+"\\>補足"
+msgstr ""
+
+#. ID 145, Page 1, Line 116, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "「どれだけ"
+msgstr ""
+
+#. ID 145, Page 1, Line 117, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "上手い戦い方"
+msgstr ""
+
+#. ID 145, Page 1, Line 118, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコアシステム概要】\\C[0]\n"
+"\\>\\n[2]\\C[4]低レベルで\\C[0]･\\C[4]高難度で\\C[0]･\\C[4]\\n[3]で\\C[0]\n"
+"\\>　\\C[4]多くのボスを倒した\\C[0]か」\n"
+"\\>という評価を、スコアという数値で表したものです。"
+msgstr ""
+
+#. ID 145, Page 1, Line 122, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコアシステム概要】\\C[0]\n"
+"\\>オリジナルモードでは、\n"
+"\\>スコアによるゲーム本編への影響は一切有りません。"
+msgstr ""
+
+#. ID 145, Page 1, Line 125, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコアシステム概要】\\C[0]\n"
+"\\>アレンジモードでは、高スコアを達成すると、\n"
+"\\>某所でおまけアイテムが得られる可能性が有ります。\n"
+"\\>但し、このおまけは他の条件でも取得可能です。"
+msgstr ""
+
+#. ID 145, Page 1, Line 129, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコアの上げ方】\\C[0]\n"
+"\\>・より低いレベルでボスと戦う\n"
+"\\>・より高難度のバトル難易度（コンフィグ設定）で\n"
+"\\>　ボスと戦う"
+msgstr ""
+
+#. ID 145, Page 1, Line 133, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコアの上げ方】\\C[0]\n"
+"\\>・ボス戦闘で\n"
+"\\>　より好成績のグレード（戦闘評価）を収める\n"
+"\\>・有利なEXTボーナス（クリア特典）を取得し過ぎない"
+msgstr ""
+
+#. ID 145, Page 1, Line 137, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコアの上げ方／現在レベルの変更】\\C[0]\n"
+"\\>トップメニューの「STATUS」から\n"
+"\\>キャラのレベルにカーソルを合わせると、\n"
+"\\>各キャラの\\C[4]現在レベルの変更\\C[0]が行えます。"
+msgstr ""
+
+#. ID 145, Page 1, Line 141, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコアの上げ方／現在レベルの変更】\\C[0]\n"
+"\\>各キャラのレベルは、本来の最大レベルまでの範囲で\n"
+"\\>自由に変更する事が出来ます。\n"
+"\\>より低いレベルでボスに挑戦する際に活用して下さい。"
+msgstr ""
+
+#. ID 145, Page 1, Line 150, Pos (1,2)
+#. Choice (4 options)
+msgid ""
+"\\>スコア計算式\n"
+"\\>ボス戦闘レベル差合計\n"
+"\\>ボス戦闘平均グレード\n"
+"\\>スコア倍率補正"
+msgstr ""
+
+#. ID 145, Page 1, Line 152, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア計算式】\\C[0]\n"
+"\\>「ボス戦闘レベル差合計\n"
+"\\>　 × ボス戦闘平均グレード × スコア倍率補正」\n"
+"\\>以上の計算で算出される値がスコアになります。"
+msgstr ""
+
+#. ID 145, Page 1, Line 159, Pos (1,2)
+msgid ""
+"\\>\\C[10]【ボス戦闘レベル差合計】\\C[0]\n"
+"\\>各ボス戦闘における、戦闘参加メンバーの平均レベルと\n"
+"\\>ボス側の平均レベルとの差分の合計です。\n"
+"\\>\\C[4]ボス側のレベルが高いほどプラスの値\\C[0]になります。"
+msgstr ""
+
+#. ID 145, Page 1, Line 163, Pos (1,2)
+msgid ""
+"\\>\\C[10]【ボス戦闘レベル差合計／レベル差の確認方法】\\C[0]\n"
+"\\>その戦闘における敵側との平均レベル差は、\n"
+"\\>戦闘勝利時のバトルレポートにて確認出来ます。"
+msgstr ""
+
+#. ID 145, Page 1, Line 169, Pos (1,2)
+msgid ""
+"\\>\\C[10]【ボス戦闘平均グレード】\\C[0]\n"
+"\\>ボス戦闘勝利時のグレード（戦闘評価）の平均値です。\n"
+"\\>一戦当たりの獲得グレードの上限は\n"
+"\\>難易度によって異なり、次の通りとなっています。"
+msgstr ""
+
+#. ID 145, Page 1, Line 173, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "一戦当たりの"
+msgstr ""
+
+#. ID 145, Page 1, Line 174, Pos (1,2)
+msgid ""
+"\\>\\C[10]【ボス戦闘平均グレード／\\n[2]グレード上限】\\C[0]\n"
+"\\> EASY ： 90（獲得グレード自体も90％に減少）\n"
+"\\>NORMAL：100\n"
+"\\> HARD ：200"
+msgstr ""
+
+#. ID 145, Page 1, Line 178, Pos (1,2)
+msgid ""
+"\\>\\C[10]【ボス戦闘平均グレード】\\C[0]\n"
+"\\>好成績を収めるには、あまり不利な状況に陥らず、\n"
+"\\>ＨＰやＴＰを消耗し過ぎず、\n"
+"\\>手早く勝利する事が求められます。"
+msgstr ""
+
+#. ID 145, Page 1, Line 186, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "難易度によっ"
+msgstr ""
+
+#. ID 145, Page 1, Line 188, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア倍率補正】\\C[0]\n"
+"\\>スコアに掛かる倍率です。\n"
+"\\>補正値は\\C[4]x1.00\\C[0]を基本として、\\C[4]\\n[2]て減少\\C[0]し、\n"
+"\\>また後述の\\C[4]EXTボーナスによっても増減\\C[0]します。"
+msgstr ""
+
+#. ID 145, Page 1, Line 194, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア倍率補正】\\C[0]\n"
+"\\>スコアに掛かる倍率です。\n"
+"\\>補正値は\\C[4]x1.00\\C[0]を基本として、\n"
+"\\>\\C[4]ボス戦闘時の\\n[2]て減少\\C[0]します。"
+msgstr ""
+
+#. ID 145, Page 1, Line 199, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア倍率補正】\\C[0]\n"
+"\\> EASY ：\\_-\\_0.60（=\\_通常倍率\\_\\C[4]x0.40\\C[0]）\n"
+"\\>NORMAL：\\_-\\_0.25（=\\_通常倍率\\_\\C[4]x0.75\\C[0]）\n"
+"\\> HARD ：±0.00（=\\_通常倍率\\_\\C[4]x1.00\\C[0]）"
+msgstr ""
+
+#. ID 145, Page 1, Line 203, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア倍率補正】\\C[0]\n"
+"\\>\\C[4]複数の難易度でボスと戦った事がある場合\\C[0]は、\n"
+"\\>一度でもボスと戦った事がある難易度の中で、\n"
+"\\>\\C[4]最も低い難易度の補正が適用\\C[0]されます。"
+msgstr ""
+
+#. ID 145, Page 1, Line 207, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア倍率補正／EXTボーナス】\\C[0]\n"
+"\\>２周目以降のプレイで利用できる各種クリア特典です。\n"
+"\\>特定の特典を有効にすると、\n"
+"\\>スコア倍率補正が低下します。"
+msgstr ""
+
+#. ID 145, Page 1, Line 212, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア倍率補正／バトルメンバー人数による補正】\\C[0]\n"
+"\\>これまでのボス戦における最多バトルメンバー人数が\n"
+"\\>少なく、また本来のバトルメンバー人数よりも\n"
+"\\>少ないほど、スコア倍率補正が増加します。"
+msgstr ""
+
+#. ID 145, Page 1, Line 219, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア倍率補正／難易度別の補正減少】\\C[0]\n"
+"\\> EASY ：\\_-\\_0.50（=\\_通常倍率\\_\\C[4]x0.50\\C[0]）\n"
+"\\>NORMAL：\\_-\\_0.20（=\\_通常倍率\\_\\C[4]x0.80\\C[0]）\n"
+"\\> HARD ：±0.00（=\\_通常倍率\\_\\C[4]x1.00\\C[0]）"
+msgstr ""
+
+#. ID 145, Page 1, Line 223, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア倍率補正／難易度別の補正減少】\\C[0]\n"
+"\\>\\C[4]複数の難易度でボスと戦った事がある場合\\C[0]は、\n"
+"\\>一度でもボスと戦った事がある難易度の中で、\n"
+"\\>\\C[4]最も低い難易度の補正が適用\\C[0]されます。"
+msgstr ""
+
+#. ID 145, Page 1, Line 227, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア倍率補正／EXTボーナス】\\C[0]\n"
+"\\>２周目以降のプレイで利用できる各種クリア特典です。\n"
+"\\>有効にする特典の内容によって、\n"
+"\\>倍率補正が増減します。"
+msgstr ""
+
+#. ID 145, Page 1, Line 231, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア倍率補正／EXTボーナス】\\C[0]\n"
+"\\>基本的に有利な特典を取得するほど\n"
+"\\>倍率補正が大きく減少します。"
+msgstr ""
+
+#. ID 145, Page 1, Line 245, Pos (1,2)
+msgid ""
+"\\>\\C[10]【グレード算出の補足／敵の強弱による補正】\\C[0]\n"
+"\\>強敵（こちらよりもレベルの高い敵）との戦闘では\n"
+"\\>グレードにプラスの補正が掛かります。\n"
+"\\>敵が弱すぎる場合は、マイナスの補正が掛かります。"
+msgstr ""
+
+#. ID 145, Page 1, Line 249, Pos (1,2)
+msgid ""
+"\\>\\C[10]【グレード算出の補足／メンバー数による補正】\\C[0]\n"
+"\\>通常よりも少ないバトルメンバー人数で戦うほど、\n"
+"\\>グレードにプラスの補正が掛かります。"
+msgstr ""
+
+#. ID 145, Page 1, Line 252, Pos (1,2)
+msgid ""
+"\\>\\C[10]【グレード算出の補足／アビリティによる補正】\\C[0]\n"
+"\\>一部の高性能なアビリティを使用すると、\n"
+"\\>グレードにマイナスの補正が掛かります。"
+msgstr ""
+
+#. ID 145, Page 1, Line 255, Pos (1,2)
+msgid ""
+"\\>\\C[10]【グレード算出の補足／アビリティによる補正】\\C[0]\n"
+"\\>これらのアビリティの中には、使用時の経過ＷＴが\n"
+"\\>大きいほど補正が弱くなるものや、ボス戦闘では\n"
+"\\>使用しても補正が掛からないものも存在します。"
+msgstr ""
+
+#. ID 145, Page 1, Line 259, Pos (1,2)
+msgid ""
+"\\>\\C[10]【グレード等の強制確認】\\C[0]\n"
+"\\>特定のイベント戦闘では、勝利してもグレード等が\n"
+"\\>表示されず、バトルレポートを開く間も無く\n"
+"\\>戦闘が自動的に終了します。"
+msgstr ""
+
+#. ID 145, Page 1, Line 263, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "勝利時のグレ"
+msgstr ""
+
+#. ID 145, Page 1, Line 264, Pos (1,2)
+msgid ""
+"\\>\\C[10]【グレード等の強制確認】\\C[0]\n"
+"\\>このような戦闘でも、コンフィグの\n"
+"\\>\\C[4]「\\n[2]ード等の表示」\\C[0]の設定が\\C[4]ON2\\C[0]の時は、\n"
+"\\>バトルレポートを開いてグレード等の確認が行えます。"
+msgstr ""
+
+#. ID 145, Page 1, Line 268, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコアに殆ど影響しないボス】\\C[0]\n"
+"\\>・\\C[4]強制的に敗北\\C[0]する形でストーリーが進行するボス\n"
+"\\>・アレンジモードで追加されたボス"
+msgstr ""
+
+#. ID 145, Page 1, Line 271, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコアに殆ど影響しないボス】\\C[0]\n"
+"\\>これらのボスとの戦闘では、ボスに勝利しても\n"
+"\\>「ボス戦闘レベル差合計」の値は変動しません。"
+msgstr ""
+
+#. ID 145, Page 1, Line 274, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコアに殆ど影響しないボス】\\C[0]\n"
+"\\>また、これらのボス戦闘での獲得グレードは、最大でも\n"
+"\\>それまでの\\C[4]ボス戦闘平均グレードと同値まで\\C[0]しか\n"
+"\\>獲得出来ません。"
+msgstr ""
+
+#. ID 145, Page 1, Line 278, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコアに殆ど影響しないボス】\\C[0]\n"
+"\\>ゲームクリア後に、その周回のまま最終盤のボス戦闘を\n"
+"\\>繰り返した場合は、プロファイルデータの\n"
+"\\>ボス戦闘回数やスコア関連の記録は変動しません。"
+msgstr ""
+
+#. ID 145, Page 1, Line 284, Pos (1,2)
+msgid ""
+"\\>\\C[10]【スコア倍率補正の補足】\\C[0]\n"
+"\\>アレンジモードでは、ゲームの難易度を大幅に下げる\n"
+"\\>何らかの手段を用いた場合にも、\n"
+"\\>スコア倍率補正が減少する可能性が有ります。"
+msgstr ""
+
+#. ID 145, Page 1, Line 292, Pos (1,2)
+msgid ""
+"\\>\\C[10]【ゲームモードの途中変更による補正】\\C[0]\n"
+"\\>ゲーム本編の途中で、コンフィグのディープ設定にて\n"
+"\\>ゲームモードを変更すると、スコア倍率補正が\n"
+"\\>x0.01で固定されます。"
+msgstr ""
+
+#. ID 145, Page 1, Line 306, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 313, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 320, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 327, Pos (1,2)
+#. ChangeHeroName (Actor 5)
+#. ID 145, Page 1, Line 348, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 360, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 367, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 374, Pos (1,2)
+#. ChangeHeroName (Actor 5)
+#. ID 145, Page 1, Line 386, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 394, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 401, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 413, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 425, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 432, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 439, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 446, Pos (1,2)
+#. ChangeHeroName (Actor 5)
+#. ID 145, Page 1, Line 458, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 467, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 474, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 482, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 499, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 506, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 516, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 523, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 530, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 537, Pos (1,2)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "○"
+msgstr ""
+
+#. ID 145, Page 1, Line 309, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 316, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 323, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 330, Pos (1,2)
+#. ChangeHeroName (Actor 5)
+#. ID 145, Page 1, Line 351, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 356, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 363, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 370, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 377, Pos (1,2)
+#. ChangeHeroName (Actor 5)
+#. ID 145, Page 1, Line 389, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 397, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 404, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 416, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 428, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 435, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 442, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 449, Pos (1,2)
+#. ChangeHeroName (Actor 5)
+#. ID 145, Page 1, Line 461, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 470, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 477, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 485, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 502, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 509, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 519, Pos (1,2)
+#. ChangeHeroName (Actor 2)
+#. ID 145, Page 1, Line 526, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+#. ID 145, Page 1, Line 533, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+#. ID 145, Page 1, Line 540, Pos (1,2)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "・"
+msgstr ""
+
+#. ID 145, Page 1, Line 334, Pos (1,2)
+msgid ""
+"\\>\\n[2]ディクショナリー引き継ぎ\n"
+"\\>\\n[3]プレイタイム引き継ぎ\n"
+"\\>\\n[4]ベストスコア＆最短クリアタイム引き継ぎ\n"
+"\\>\\n[5]勲章引き継ぎ"
+msgstr ""
+
+#. ID 145, Page 1, Line 340, Pos (1,2)
+msgid ""
+"\\>\\n[2]ディクショナリー引き継ぎ\n"
+"\\>\\n[3]プレイタイム引き継ぎ\n"
+"\\>\\n[4]ベストスコア＆最短クリアタイム引き継ぎ"
+msgstr ""
+
+#. ID 145, Page 1, Line 380, Pos (1,2)
+msgid ""
+"\\>\\n[2]１２人パーティ\n"
+"\\>\\n[3]リターンツリー引き継ぎ\n"
+"\\>\\n[4]ダンジョンの仕掛け全解除\n"
+"\\>\\n[5]全ショップで全市販品を購入可能"
+msgstr ""
+
+#. ID 145, Page 1, Line 407, Pos (1,2)
+msgid ""
+"\\>\\n[2]アイテム引き継ぎ\n"
+"\\>\\n[3]ガマグチ引き継ぎ\n"
+"\\>\\n[4]ディア引き継ぎ"
+msgstr ""
+
+#. ID 145, Page 1, Line 419, Pos (1,2)
+msgid ""
+"\\>\\n[2]アイテム引き継ぎ\n"
+"\\>\\n[3]ディア引き継ぎ"
+msgstr ""
+
+#. ID 145, Page 1, Line 452, Pos (1,2)
+msgid ""
+"\\>\\n[2]固有アビリティ引き継ぎ\n"
+"\\>\\n[3]レベル引き継ぎ\n"
+"\\>\\n[4]獲得EXP２倍\n"
+"\\>\\n[5]獲得ディア２倍"
+msgstr ""
+
+#. ID 145, Page 1, Line 464, Pos (1,2)
+msgid "\\>\\n[2]アイテム割引率増加"
+msgstr ""
+
+#. ID 145, Page 1, Line 488, Pos (1,2)
+msgid ""
+"\\>\\n[2]全ダメージ1.5倍\n"
+"\\>\\n[3]ＴＰ消費量半減\n"
+"\\>\\n[4]アイテム所持数上限増加"
+msgstr ""
+
+#. ID 145, Page 1, Line 493, Pos (1,2)
+msgid ""
+"\\>\\n[2]全ダメージ1.5倍\n"
+"\\>\\n[3]ＴＰ消費量半減"
+msgstr ""
+
+#. ID 145, Page 1, Line 512, Pos (1,2)
+msgid ""
+"\\>\\n[2]ＷＴダメージ２倍\n"
+"\\>\\n[3]ＥＸゲージ増加量２倍"
+msgstr ""
+
+#. ID 145, Page 1, Line 543, Pos (1,2)
+msgid ""
+"\\>\\n[2]チェイン魂\n"
+"\\>\\n[3]チェインコンプリートボーナス増加\n"
+"\\>\\n[4]チェインバトルによるBOOTY倍率増加無し\n"
+"\\>\\n[5]オーバーエネミー出現率増加"
+msgstr ""
+
+#. ID 145, Page 1, Line 551, Pos (1,2)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ユアン"
+msgstr ""
+
+#. ID 145, Page 1, Line 552, Pos (1,2)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "ケイン"
+msgstr ""
+
+#. ID 145, Page 1, Line 553, Pos (1,2)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "ミネルヴァ"
+msgstr ""
+

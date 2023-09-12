@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 52, Page 1, Line 15, Pos (17,20)
+msgid ""
+"ケイン：\n"
+"大丈夫か？\\|\n"
+"ケガとかしてないか？"
+msgstr ""
+
+#. ID 52, Page 1, Line 18, Pos (17,20)
+msgid ""
+"女の子：\n"
+"うん、大丈夫…。"
+msgstr ""
+
+#. ID 52, Page 1, Line 20, Pos (17,20)
+msgid ""
+"女の子：\n"
+"お兄ちゃんたち、\n"
+"私を助けに来てくれたの？"
+msgstr ""
+
+#. ID 52, Page 1, Line 23, Pos (17,20)
+msgid ""
+"ケイン：\n"
+"ああ。\n"
+"御母さんから頼まれたんだ。"
+msgstr ""
+
+#. ID 52, Page 1, Line 29, Pos (17,20)
+msgid ""
+"女の子：\n"
+"お母さん、怒ってた…？"
+msgstr ""
+
+#. ID 52, Page 1, Line 31, Pos (17,20)
+#. ID 61, Page 1, Line 40, Pos (12,20)
+msgid ""
+"女の子：\n"
+"一人でどっか行っちゃいけないって、\n"
+"いつも言われてたから…。"
+msgstr ""
+
+#. ID 52, Page 1, Line 34, Pos (17,20)
+#. ID 61, Page 1, Line 43, Pos (12,20)
+msgid ""
+"ケイン：\n"
+"怒ってなんかいるもんか。"
+msgstr ""
+
+#. ID 52, Page 1, Line 36, Pos (17,20)
+msgid ""
+"ケイン：\n"
+"心配してたぞ。\n"
+"早く無事に帰って来てって。"
+msgstr ""
+
+#. ID 52, Page 1, Line 42, Pos (17,20)
+msgid ""
+"ケイン：\n"
+"さあ、俺達と一緒に御母さんの所に行こう。"
+msgstr ""
+
+#. ID 52, Page 1, Line 44, Pos (17,20)
+msgid ""
+"女の子：\n"
+"うん。"
+msgstr ""
+
+#. ID 52, Page 1, Line 57, Pos (17,20)
+msgid ""
+"ユアン：\n"
+"気に食わねェな…。"
+msgstr ""
+
+#. ID 52, Page 1, Line 59, Pos (17,20)
+msgid ""
+"ユアン：\n"
+"折角の良い雰囲気だってのに、\n"
+"狙い済ました様にブチ壊しやがって…。"
+msgstr ""
+
+#. ID 52, Page 1, Line 68, Pos (17,20)
+msgid ""
+"ケイン：\n"
+"俺達は今からあのバケモノを退治して来る。\n"
+"危ないから絶対に此処を動くなよ。"
+msgstr ""
+
+#. ID 52, Page 1, Line 71, Pos (17,20)
+msgid ""
+"女の子：\n"
+"うん、分かった。"
+msgstr ""
+
+#. ID 52, Page 1, Line 83, Pos (17,20)
+#. ID 61, Page 1, Line 92, Pos (12,20)
+msgid ""
+"ヴェーネ：\n"
+"ドラゴン型のルシファー…！"
+msgstr ""
+
+#. ID 52, Page 1, Line 85, Pos (17,20)
+msgid ""
+"レイク：\n"
+"畜生…。\n"
+"かなりデカいな…。"
+msgstr ""
+
+#. ID 52, Page 1, Line 88, Pos (17,20)
+msgid ""
+"ユアン：\n"
+"おい、冗談だろ？"
+msgstr ""
+
+#. ID 52, Page 1, Line 90, Pos (17,20)
+msgid ""
+"ユアン：\n"
+"ディザスティアとかは兎も角、\n"
+"普通のルシファーでも此処迄に成るのか？"
+msgstr ""
+
+#. ID 52, Page 1, Line 93, Pos (17,20)
+msgid ""
+"ケイン：\n"
+"ああ…残念だけどな…。"
+msgstr ""
+
+#. ID 52, Page 1, Line 95, Pos (17,20)
+msgid ""
+"ケイン：\n"
+"100人近い死傷者が出たウィッグタウン事件。\n"
+"アレも確かドラゴン型だったらしいぜ。"
+msgstr ""
+
+#. ID 52, Page 1, Line 101, Pos (17,20)
+msgid ""
+"ユアン：\n"
+"何てこった…。\n"
+"それじゃ100人殺す力の持ち主じゃねえか…。"
+msgstr ""
+
+#. ID 52, Page 1, Line 104, Pos (17,20)
+msgid ""
+"ケイン：\n"
+"まあな。"
+msgstr ""
+
+#. ID 52, Page 1, Line 106, Pos (17,20)
+msgid ""
+"ケイン：\n"
+"でも負ける気も無いだろ？"
+msgstr ""
+
+#. ID 52, Page 1, Line 108, Pos (17,20)
+msgid ""
+"ユアン：\n"
+"当然だ。\n"
+"誰がこんな所で。"
+msgstr ""
+
+#. ID 52, Page 1, Line 111, Pos (17,20)
+msgid ""
+"ケイン：\n"
+"ああ、奴をブッ倒して\n"
+"女の子を無事に送り届ける…！"
+msgstr ""
+
+#. ID 52, Page 1, Line 117, Pos (17,20)
+msgid ""
+"ケイン：\n"
+"さあ、掛かって来やがれ！\\|\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 10, Pos (13,20)
+msgid ""
+"レイク：\n"
+"何とか倒せたな…。"
+msgstr ""
+
+#. ID 57, Page 2, Line 20, Pos (13,20)
+msgid ""
+"ケイン：\n"
+"俺達もこの子を連れて撤収するぜ。\n"
+"もう時間切れだろ。"
+msgstr ""
+
+#. ID 57, Page 2, Line 26, Pos (13,20)
+msgid ""
+"？？？：\n"
+"そいつは勿体無いな。\\.\\.\n"
+"メインイベントを見ないで帰るのかい？"
+msgstr ""
+
+#. ID 57, Page 2, Line 39, Pos (13,20)
+msgid ""
+"レイク：\n"
+"おい…！ \\.\\.何が…！\\|\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 44, Pos (13,20)
+msgid ""
+"ケイン：\n"
+"エンデ！ \\.\\.てめえ何の心算だ！"
+msgstr ""
+
+#. ID 57, Page 2, Line 46, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"言っただろ？\\.\\.\n"
+"メインイベントだって。"
+msgstr ""
+
+#. ID 57, Page 2, Line 54, Pos (13,20)
+msgid ""
+"女の子：\n"
+"\\S[20]………？\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 57, Pos (13,20)
+msgid ""
+"キャサリン：\n"
+"あなた！ \\.\\.逃げて！\\|\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 59, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"邪魔すんなよ。\\|\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 68, Pos (13,20)
+msgid ""
+"キャサリン：\n"
+"くっ…！\\|\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 70, Pos (13,20)
+msgid ""
+"キャサリン：\n"
+"私達にこんな力が通用すると思ってるの!?"
+msgstr ""
+
+#. ID 57, Page 2, Line 81, Pos (13,20)
+msgid ""
+"キャサリン：\n"
+"そんな…！ \\|打ち消せない…!?\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 83, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"やっぱりね。\\.\\.\n"
+"ベネディクタの精神がヤられてるからさ。"
+msgstr ""
+
+#. ID 57, Page 2, Line 86, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"形こそ分化独立して二人に成ってるけど、\n"
+"プロビデンスの真底では所詮一個存在。"
+msgstr ""
+
+#. ID 57, Page 2, Line 89, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"片方でもペースを崩されれば、\n"
+"その時点で力は失われる。"
+msgstr ""
+
+#. ID 57, Page 2, Line 96, Pos (13,20)
+msgid ""
+"ベネディクタ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 104, Pos (13,20)
+msgid ""
+"キャサリン：\n"
+"その子を如何する心算…！"
+msgstr ""
+
+#. ID 57, Page 2, Line 106, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"さっき言った通りさ。"
+msgstr ""
+
+#. ID 57, Page 2, Line 111, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"\\S[2]血肉を見るなら、\\.\\.もっと目の前で。"
+msgstr ""
+
+#. ID 57, Page 2, Line 113, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"\\S[2]身体中に血飛沫を浴びる位に。"
+msgstr ""
+
+#. ID 57, Page 2, Line 115, Pos (13,20)
+msgid ""
+"キャサリン：\n"
+"………ッ！\\|\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 117, Pos (13,20)
+msgid ""
+"キャサリン：\n"
+"止めなさい！\\.\\.\n"
+"そんな事が許されると思ってるの！"
+msgstr ""
+
+#. ID 57, Page 2, Line 120, Pos (13,20)
+msgid ""
+"キャサリン：\n"
+"その子には何の罪も無いのよ！"
+msgstr ""
+
+#. ID 57, Page 2, Line 125, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"だからこそ面白いんじゃないか。"
+msgstr ""
+
+#. ID 57, Page 2, Line 127, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"罪も無い一般人の、\\.\\.\n"
+"それもこんな小さいガキ。"
+msgstr ""
+
+#. ID 57, Page 2, Line 135, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"\\S[2]ブッ殺すには最高の素材だぜ。\\|\\|\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 137, Pos (13,20)
+msgid ""
+"一同：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 142, Pos (13,20)
+msgid ""
+"女の子：\n"
+"\\S[2]コロ、\\.\\.ス…？\\|\\^"
+msgstr ""
+
+#. ID 57, Page 2, Line 145, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"そう。\\.\\.キミはこれから殺されるんだ。"
+msgstr ""
+
+#. ID 57, Page 2, Line 147, Pos (13,20)
+msgid ""
+"エンデ：\n"
+"カワイソウに。\\|\\^"
+msgstr ""
+
+#. ID 61, Page 1, Line 22, Pos (12,20)
+msgid ""
+"ケイン：\n"
+"大丈夫か？\\.\\.\n"
+"ケガとかしてないか？"
+msgstr ""
+
+#. ID 61, Page 1, Line 25, Pos (12,20)
+msgid ""
+"女の子：\n"
+"うん、\\.\\.大丈夫…。\\|\\^"
+msgstr ""
+
+#. ID 61, Page 1, Line 30, Pos (12,20)
+msgid ""
+"女の子：\n"
+"お兄ちゃんたち、\\.\\.\n"
+"私を助けに来てくれたの？"
+msgstr ""
+
+#. ID 61, Page 1, Line 33, Pos (12,20)
+msgid ""
+"ケイン：\n"
+"ああ。\\.\\.お母さんから頼まれたんだ。"
+msgstr ""
+
+#. ID 61, Page 1, Line 38, Pos (12,20)
+msgid ""
+"女の子：\n"
+"お母さん、\\.\\.怒ってた…？\\|\\^"
+msgstr ""
+
+#. ID 61, Page 1, Line 45, Pos (12,20)
+msgid ""
+"ケイン：\n"
+"心配してたぞ。\\.\\.\n"
+"早く無事に帰って来てって。"
+msgstr ""
+
+#. ID 61, Page 1, Line 51, Pos (12,20)
+msgid ""
+"ケイン：\n"
+"さあ。\\.\\.俺達と一緒にお母さんの所に行こう。"
+msgstr ""
+
+#. ID 61, Page 1, Line 53, Pos (12,20)
+msgid ""
+"女の子：\n"
+"うん。\\|\\^"
+msgstr ""
+
+#. ID 61, Page 1, Line 67, Pos (12,20)
+msgid ""
+"ユアン：\n"
+"くそっ…。\\|こんな時に…。\\|\\^"
+msgstr ""
+
+#. ID 61, Page 1, Line 75, Pos (12,20)
+msgid ""
+"ケイン：\n"
+"俺達は今からあのバケモノを退治して来る。\\|\n"
+"危ないから絶対に此処を動くなよ。"
+msgstr ""
+
+#. ID 61, Page 1, Line 78, Pos (12,20)
+msgid ""
+"女の子：\n"
+"うん、\\.\\.分かった。\\|\\^"
+msgstr ""
+
+#. ID 61, Page 1, Line 97, Pos (12,20)
+msgid ""
+"レイク：\n"
+"畜生…。\\.\\.デカいな…。\\|\\^"
+msgstr ""
+
+#. ID 61, Page 1, Line 102, Pos (12,20)
+msgid ""
+"ユアン：\n"
+"しかしキツいジョークだ。"
+msgstr ""
+
+#. ID 61, Page 1, Line 104, Pos (12,20)
+msgid ""
+"ユアン：\n"
+"ディザスティアとかのキャンサーイーヴルなら兎も角、\n"
+"普通のルシファーで此処まで行くか？"
+msgstr ""
+
+#. ID 61, Page 1, Line 107, Pos (12,20)
+msgid ""
+"ケイン：\n"
+"残念だけどな。\\|\\^"
+msgstr ""
+
+#. ID 61, Page 1, Line 109, Pos (12,20)
+msgid ""
+"ケイン：\n"
+"100人近い死傷者が出たウィッグタウン事件。\n"
+"アレも確かドラゴン型だったらしい。"
+msgstr ""
+
+#. ID 61, Page 1, Line 112, Pos (12,20)
+msgid ""
+"ユアン：\n"
+"何てこった。\\|\\^"
+msgstr ""
+
+#. ID 61, Page 1, Line 114, Pos (12,20)
+msgid ""
+"ケイン：\n"
+"でも負ける気なんて無いからな。"
+msgstr ""
+
+#. ID 61, Page 1, Line 116, Pos (12,20)
+msgid ""
+"ケイン：\n"
+"奴をブッ倒して、女の子を無事に送り届ける！"
+msgstr ""
+
+#. ID 61, Page 1, Line 121, Pos (12,20)
+msgid ""
+"ケイン：\n"
+"行くぜッ！\\|\\^"
+msgstr ""
+

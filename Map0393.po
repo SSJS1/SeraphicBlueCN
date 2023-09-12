@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (0,0)
+msgid ""
+"？？？：\n"
+"手配は済んだか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 6, Pos (0,0)
+msgid ""
+"男性：\n"
+"指示通りに。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 8, Pos (0,0)
+msgid ""
+"？？？：\n"
+"決行は従来の予定通りだ。\\.\\.抜かるなよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 13, Pos (0,0)
+msgid ""
+"？？？：\n"
+"そうだ。\\.\\.\"禁書\"の方は如何成っている？"
+msgstr ""
+
+#. ID 3, Page 1, Line 15, Pos (0,0)
+msgid ""
+"男性：\n"
+"少し遅れているようです。\\|\n"
+"特別体の方の調整が難航しているとか。"
+msgstr ""
+
+#. ID 3, Page 1, Line 18, Pos (0,0)
+msgid ""
+"？？？：\n"
+"間に合うのか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 20, Pos (0,0)
+msgid ""
+"男性：\n"
+"それは大丈夫です。\\|\n"
+"まだ充分にスケジュールを挽回出来ると。"
+msgstr ""
+
+#. ID 3, Page 1, Line 23, Pos (0,0)
+msgid ""
+"？？？：\n"
+"分かった。\\.\\.引き続き頼むぞ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 37, Pos (0,0)
+msgid ""
+"？？？：\n"
+"ゲオルクも馬鹿な男だ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 39, Pos (0,0)
+msgid ""
+"？？？：\n"
+"私利私欲に眼を眩ませての負け戦。\\|\n"
+"グラウンドを蹂躙する為の都合の良い口実。"
+msgstr ""
+
+#. ID 3, Page 1, Line 42, Pos (0,0)
+msgid ""
+"？？？：\n"
+"向こうでは黒獅子だとか畏怖されているようだが、\n"
+"所詮フェジテの前には只の黒猫よ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 45, Pos (0,0)
+msgid ""
+"？？？：\n"
+"思い知らせて呉れるわ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 54, Pos (0,0)
+msgid ""
+"少年の声：\n"
+"でも、黒猫は災禍の象徴だぜ？"
+msgstr ""
+
+#. ID 3, Page 1, Line 66, Pos (0,0)
+msgid ""
+"？？？：\n"
+"エンデか。\\.\\.驚かすな。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 68, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"順調みたいだね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 70, Pos (0,0)
+msgid ""
+"？？？：\n"
+"そうとも。\\.\\.全てが驚く程に順調だ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 72, Pos (0,0)
+msgid ""
+"？？？：\n"
+"後はセラフィックブルーさえ囲い込めば、\n"
+"私はこの世界の頂点に立てる。"
+msgstr ""
+
+#. ID 3, Page 1, Line 75, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それは良かった。"
+msgstr ""
+
+#. ID 3, Page 1, Line 80, Pos (0,0)
+msgid ""
+"？？？：\n"
+"しかし本当に良いのか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 82, Pos (0,0)
+msgid ""
+"？？？：\n"
+"お前はガイアキャンサーの実行者。\\|\n"
+"このガイアを死滅させる事が存在意義なのだろう？"
+msgstr ""
+
+#. ID 3, Page 1, Line 85, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"当面はセラフィックブルーを\"処理\"出来れば\n"
+"それで良いさ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 88, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ボクは実行者。\\.\\.\n"
+"星を蝕む速さを任意に上げる事こそ出来ないものの、\n"
+"遅くする事は出来る。"
+msgstr ""
+
+#. ID 3, Page 1, Line 92, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"この計画が成功したら、少なくともアンタの存命中は\n"
+"死んだフリしてガイアを生かしておいて遣るよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 95, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ボクとしても、\\.\\.楽しみは長く続いた方が良いし。"
+msgstr ""
+
+#. ID 3, Page 1, Line 100, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"存分に世界の頂点を堪能して呉れよ。"
+msgstr ""
+

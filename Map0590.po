@@ -1,0 +1,543 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 24, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"また御大層なのが出て来やがった。"
+msgstr ""
+
+#. ID 24, Page 1, Line 18, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そうか？\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 20, Pos (0,0)
+msgid ""
+"レイク：\n"
+"こんなゲテモノ、\n"
+"どうせ重過ぎてマトモに動けやしないさ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"いいや、甘く見ない方が良いぜ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"やっぱり分かるか。\n"
+"火器管制はお前の担当だもんな。"
+msgstr ""
+
+#. ID 24, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"アホみたいな重装備してるクセに、\n"
+"機動性にもかなり拘ってる。"
+msgstr ""
+
+#. ID 24, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"圧倒的なパワーだけに特化せず、自律型兵器として\n"
+"及第点以上の機動性と正確性も追求…。"
+msgstr ""
+
+#. ID 24, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"ゲテモノに留まらない完全な実用指向。\n"
+"こういうのをプロの仕事って言うんだろうな。"
+msgstr ""
+
+#. ID 24, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ドアがロックされた…。"
+msgstr ""
+
+#. ID 24, Page 1, Line 66, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"カーチスの言ってた\"罠\"みたいね。"
+msgstr ""
+
+#. ID 24, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"そして目の前のコイツは、\\.\\.\n"
+"そのカーチスが作った兵器の試作品。"
+msgstr ""
+
+#. ID 24, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"兵器開発のプロフェッショナル、\n"
+"カーチス･ハミルトンのな。"
+msgstr ""
+
+#. ID 24, Page 1, Line 74, Pos (0,0)
+msgid ""
+"レイク：\n"
+"充分に死ねる代物って事か。"
+msgstr ""
+
+#. ID 24, Page 1, Line 76, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"そういうこった！\\.\\.\n"
+"気合入れろよ！\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 13, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"負けても相手を道連れに出来る兵器…。\\.\\.\n"
+"それがカーチスのコンセプトだったのさ…。"
+msgstr ""
+
+#. ID 24, Page 2, Line 19, Pos (0,0)
+#. ID 24, Page 2, Line 143, Pos (0,0)
+#. ID 24, Page 4, Line 8, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"取り敢えず、\n"
+"皆は向こうのドアから退避しろ。"
+msgstr ""
+
+#. ID 24, Page 2, Line 33, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"やったか…？\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 45, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ちょっと待て…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 47, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"この感じ…。\\.\\.確か前にも…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 49, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"まるで…\\.\\.ハウゼンの時と…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 56, Pos (0,0)
+msgid ""
+"\\>レイク／フォクシー：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 59, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ケイン！\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 73, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"蘇る、\\.\\.あの光景。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 75, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"眼の前のマシンの首が飛んで、\\.\\.\n"
+"その下から出てきた、あの忌まわしい物体…。"
+msgstr ""
+
+#. ID 24, Page 2, Line 78, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"黒獅子機にてハウゼンを道連れにした爆弾…。"
+msgstr ""
+
+#. ID 24, Page 2, Line 80, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]デスブリンガー。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 85, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ハウゼンの幻影に、\\.\\.ケインが重なる…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 95, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ケイン！\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 97, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"近寄るなッ！\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 102, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"レイク、\\.\\.コイツだろう？\\.\\.\n"
+"あんたらが黒獅子機で出くわした爆弾ってのは？"
+msgstr ""
+
+#. ID 24, Page 2, Line 108, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 113, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"畜生…。\\.\\.\n"
+"もっと早くに気付くべきだったぜ…。"
+msgstr ""
+
+#. ID 24, Page 2, Line 116, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"相手を道連れにする自律型爆弾なんて珍しい代物、\n"
+"作る人間は限られて来る。"
+msgstr ""
+
+#. ID 24, Page 2, Line 119, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"カーチスなんかド本命じゃねえか…。"
+msgstr ""
+
+#. ID 24, Page 2, Line 124, Pos (0,0)
+#. ID 24, Page 3, Line 8, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"負けても相手を道連れに出来る兵器…。\\|\n"
+"それがカーチスのコンセプトだったのさ…。"
+msgstr ""
+
+#. ID 24, Page 2, Line 127, Pos (0,0)
+#. ID 24, Page 3, Line 11, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"気付いていれば、\n"
+"余裕でかわせたのにな…。"
+msgstr ""
+
+#. ID 24, Page 2, Line 133, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"外せるのか…？\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 135, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"やれるだけやってみる。"
+msgstr ""
+
+#. ID 24, Page 2, Line 137, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"けど俺みたいな青二才の\"テクニック\"が\n"
+"プロの\"仕事\"を破れるか如何か…。"
+msgstr ""
+
+#. ID 24, Page 2, Line 146, Pos (0,0)
+#. ID 24, Page 4, Line 11, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"ロックを忘れんなよ。\\.\\.\n"
+"爆炎が通路まで流れ込んで全滅するぜ。"
+msgstr ""
+
+#. ID 24, Page 2, Line 149, Pos (0,0)
+#. ID 24, Page 4, Line 14, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"成功した時はドアを叩いて知らせるから、\n"
+"温かく出迎えて呉れや。"
+msgstr ""
+
+#. ID 24, Page 2, Line 155, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 157, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"早く！ \\.\\.時間が無いぜッ!!\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 162, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"待ってるぜ。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 164, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"分かってる。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 192, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"何言ってやがる。\\.\\.\n"
+"こんなモノ、俺の腕で外せる訳無いだろ？"
+msgstr ""
+
+#. ID 24, Page 2, Line 195, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"生粋のプロの仕事なんだぜ？"
+msgstr ""
+
+#. ID 24, Page 2, Line 200, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"\\S[2]じゃあな、\\.\\.ユアン。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 202, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"\\S[2]あんたらと過ごした時間、\\.\\.\n"
+"思ったより悪くなかったぜ。"
+msgstr ""
+
+#. ID 24, Page 2, Line 208, Pos (0,0)
+#. ID 24, Page 5, Line 10, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"\\S[2]さてと…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 213, Pos (0,0)
+#. ID 24, Page 5, Line 15, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"俺も今からそっちに行くぜ。\\.\\.\n"
+"もう少しだけ待ってて呉れよ。"
+msgstr ""
+
+#. ID 24, Page 2, Line 219, Pos (0,0)
+#. ID 24, Page 5, Line 21, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"\\S[2]父さん…。\\|母さん…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 2, Line 221, Pos (0,0)
+#. ID 24, Page 5, Line 23, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"\\S[5]アイシャ…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 4, Line 26, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何で…\\|あのドアは開いてたんだ…？"
+msgstr ""
+
+#. ID 24, Page 4, Line 28, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"締め切っちまえば簡単に全滅…。"
+msgstr ""
+
+#. ID 24, Page 4, Line 30, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ああでも…\\.\\.それだと目当てのヴェーネ達まで死んで\n"
+"全て台無しか…。"
+msgstr ""
+
+#. ID 24, Page 4, Line 36, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも…\\|何か引っ掛かる…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 24, Page 4, Line 38, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"まるで外に出てくださいと言わんばかりに…。"
+msgstr ""
+
+#. ID 24, Page 5, Line 36, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"何を一人で浸ってる？\\|\\|\\^"
+msgstr ""
+
+#. ID 24, Page 5, Line 38, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"はぁ？ \\.\\.聞こえてたのかよ？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 24, Page 5, Line 40, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"状況確認の為に小型マイクを仕込んでおいた。"
+msgstr ""
+
+#. ID 24, Page 5, Line 42, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 5, Line 48, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"別に良いだろ、浸ってても？"
+msgstr ""
+
+#. ID 24, Page 5, Line 50, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"悪いとは言わんが、出来れば後にして呉れ。"
+msgstr ""
+
+#. ID 24, Page 5, Line 52, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"もたもたしていると奴らにバレるぞ。\\.\\.\n"
+"一人ばかり目敏いのが居るのだろう？"
+msgstr ""
+
+#. ID 24, Page 5, Line 55, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"フォクシーな。\n"
+"こないだまでケイオスに住んでた。"
+msgstr ""
+
+#. ID 24, Page 5, Line 58, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"ペテンを見破るのは得意分野だな。"
+msgstr ""
+
+#. ID 24, Page 5, Line 60, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"早く仕上げてしまおう。\\.\\.\n"
+"送っておいたリモコンの解除ボタンを押せ。"
+msgstr ""
+
+#. ID 24, Page 5, Line 63, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 5, Line 81, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"痛てて…。\\|\n"
+"圧が高過ぎるぜ、父さん。"
+msgstr ""
+
+#. ID 24, Page 5, Line 84, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"済まんな。\n"
+"急ごしらえで大雑把な調整しか出来なかった。"
+msgstr ""
+
+#. ID 24, Page 5, Line 87, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"それより急ぐぞ。\n"
+"コードを入力してリモート爆破する。"
+msgstr ""
+
+#. ID 24, Page 5, Line 90, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"先に退避していろ。"
+msgstr ""
+
+#. ID 24, Page 5, Line 92, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"あいつらとの鉢合わせは大丈夫なのか？"
+msgstr ""
+
+#. ID 24, Page 5, Line 94, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"通路を熱線で塞いだ。"
+msgstr ""
+
+#. ID 24, Page 5, Line 96, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"ルートは？"
+msgstr ""
+
+#. ID 24, Page 5, Line 98, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"少し先の通風ダクトに印が付いている。\n"
+"何処も曲がらずに真っ直ぐ抜けるんだ。"
+msgstr ""
+
+#. ID 24, Page 5, Line 101, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"向こうでレオナが待機している。"
+msgstr ""
+
+#. ID 24, Page 5, Line 106, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"母さん、\\.\\.来れたのか…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 5, Line 108, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"ああ。\\.\\.スケジュールを\n"
+"かなり強引に捻じ曲げたようだがな。"
+msgstr ""
+
+#. ID 24, Page 5, Line 114, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"さあ、\\.\\.早く。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 5, Line 116, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"分かった。\\|\\^"
+msgstr ""
+

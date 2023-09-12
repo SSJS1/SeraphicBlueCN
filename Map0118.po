@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 3, Pos (8,7)
+msgid ""
+"女性：\n"
+"あのラボでデスクワークし続ける事1ヶ月以上。\n"
+"遂に腰痛で動けなくなっちゃった…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 6, Pos (8,7)
+msgid ""
+"女性：\n"
+"やっぱり研究漬けってのは身体には悪いものね。\n"
+"時には外で身体を思いっきり動かさないと、\n"
+"身体がなまって、私みたいに大変な目に逢うわよ。"
+msgstr ""
+

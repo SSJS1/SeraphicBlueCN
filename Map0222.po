@@ -1,0 +1,586 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 17, Page 1, Line 10, Pos (12,13)
+#. ID 17, Page 1, Line 336, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"それじゃあ行こうかしら。"
+msgstr ""
+
+#. ID 17, Page 1, Line 12, Pos (12,13)
+#. ID 17, Page 1, Line 338, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"歓楽都市エンヴィへ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 22, Pos (12,13)
+msgid ""
+"大男：\n"
+"何用だ。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 24, Pos (12,13)
+msgid ""
+"レイク：\n"
+"あんた達、旅してるんだってな？"
+msgstr ""
+
+#. ID 17, Page 1, Line 26, Pos (12,13)
+msgid ""
+"大男：\n"
+"貴様、\\.\\.それを何処で聞き付けた。"
+msgstr ""
+
+#. ID 17, Page 1, Line 28, Pos (12,13)
+msgid ""
+"レイク：\n"
+"宿屋に居た奴から。"
+msgstr ""
+
+#. ID 17, Page 1, Line 33, Pos (12,13)
+msgid ""
+"大男：\n"
+"成る程。\\.\\.確かにあの男にはそう話したな…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 38, Pos (12,13)
+msgid ""
+"少女：\n"
+"大丈夫よハウゼン。\\.\\.\n"
+"彼は怪しい人じゃないわ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 42, Pos (12,13)
+msgid ""
+"ハウゼン(大男)：\n"
+"しかしミネルヴァ様…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 44, Pos (12,13)
+msgid ""
+"ミネルヴァ(少女)：\n"
+"ハウゼン。\\.\\.\n"
+"\"様\"は付けないでと言ったでしょう？"
+msgstr ""
+
+#. ID 17, Page 1, Line 50, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"確かに。\\.\\.申し訳在りません。"
+msgstr ""
+
+#. ID 17, Page 1, Line 52, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"敬語もＮＯと言った筈よ？"
+msgstr ""
+
+#. ID 17, Page 1, Line 54, Pos (12,13)
+#. ID 17, Page 1, Line 201, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 56, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"さあ、言い直して。"
+msgstr ""
+
+#. ID 17, Page 1, Line 58, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"「分かった。\\.\\.ミネルヴァ。」"
+msgstr ""
+
+#. ID 17, Page 1, Line 63, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"\\S[2]分かった…。\\|ミネルヴァ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 65, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"ＯＫ。\\.\\.その調子よ。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 71, Pos (12,13)
+msgid ""
+"レイク：\n"
+"この二人…。\\.\\.\n"
+"確かに\"変\"だが、それ以上に\"不自然\"だな。"
+msgstr ""
+
+#. ID 17, Page 1, Line 74, Pos (12,13)
+msgid ""
+"レイク：\n"
+"良い所の御嬢様とボディガードって所か…？"
+msgstr ""
+
+#. ID 17, Page 1, Line 89, Pos (12,13)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"御免なさい。\\.\\.捨て置いてしまって。"
+msgstr ""
+
+#. ID 17, Page 1, Line 93, Pos (12,13)
+msgid ""
+"\n"
+"レイク：\n"
+"それで、\\.\\.あんた達は旅をしてるんだろう？"
+msgstr ""
+
+#. ID 17, Page 1, Line 96, Pos (12,13)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 99, Pos (12,13)
+msgid ""
+"\n"
+"レイク：\n"
+"実は俺も旅をしてるんだが、\n"
+"一人旅ってのは思ったより味気無くてな。"
+msgstr ""
+
+#. ID 17, Page 1, Line 103, Pos (12,13)
+msgid ""
+"\n"
+"レイク：\n"
+"それに備えが少し甘かったらしい。\\.\\.\n"
+"正直言ってこの先心細いんだ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 108, Pos (12,13)
+msgid ""
+"\n"
+"レイク：\n"
+"こんなド田舎で出会ったのも何かの縁だろう。\\.\\.\n"
+"良かったら一緒に行かないか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 112, Pos (12,13)
+msgid ""
+"\n"
+"レイク：\n"
+"勿論行き先は任せる。\\.\\.\n"
+"こっちはアテもない流浪の身だからな。"
+msgstr ""
+
+#. ID 17, Page 1, Line 117, Pos (12,13)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 121, Pos (12,13)
+msgid ""
+"\n"
+"ハウゼン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 125, Pos (12,13)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 129, Pos (12,13)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"ＯＫ。\\.\\.そうしましょう。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 138, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"ミネルヴァ様…！\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 141, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"\"様\"は付けない。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 146, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"\\S[3]しかし…\\|ミネル…\\.\\.ヴァ…。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 151, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"こんな素性の知れない男を軽々と…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 153, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"私だって考えているわよ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 155, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"日々腹黒い連中の戯言を聞かされて、\n"
+"その辺の勘は持っている心算。"
+msgstr ""
+
+#. ID 17, Page 1, Line 161, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"それは認めるが…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 163, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"彼には邪な物を感じないわ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 165, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"大体、二人だけでは心許無いなんて\n"
+"悲観していたのは貴方じゃない。"
+msgstr ""
+
+#. ID 17, Page 1, Line 171, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"それも事実だが…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 173, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"落ち着いて見極めてみたら？"
+msgstr ""
+
+#. ID 17, Page 1, Line 175, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"そういうの得意なんでしょ？\\.\\.\n"
+"\"魂\"を感じ取る力。"
+msgstr ""
+
+#. ID 17, Page 1, Line 181, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"分かった…。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 188, Pos (12,13)
+msgid ""
+"レイク：\n"
+"品定めって訳か。"
+msgstr ""
+
+#. ID 17, Page 1, Line 190, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"御免なさいね。"
+msgstr ""
+
+#. ID 17, Page 1, Line 192, Pos (12,13)
+msgid ""
+"レイク：\n"
+"却ってやり易い。"
+msgstr ""
+
+#. ID 17, Page 1, Line 194, Pos (12,13)
+msgid ""
+"レイク：\n"
+"見ず知らずの男を考えも無しに迎え入れる様な\n"
+"腰の軽い奴は、俺も苦手だ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 208, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"暗澹とした鋭さだ…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 210, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"だが其処に何かしら\"衣\"が被せられていて、\n"
+"他者を傷付けるには至っていない。"
+msgstr ""
+
+#. ID 17, Page 1, Line 213, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"少なくとも私達に近寄った事に\n"
+"悪意は無いだろうし…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 216, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"その\"衣\"が剥がれない内は、\n"
+"私達の味方と考えて良いだろう。"
+msgstr ""
+
+#. ID 17, Page 1, Line 219, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"まあ、\\.\\.いささか粗暴な感じは否めないがな。"
+msgstr ""
+
+#. ID 17, Page 1, Line 224, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"だから言ったでしょう？"
+msgstr ""
+
+#. ID 17, Page 1, Line 227, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 229, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"取り敢えずは数少ない貴重な味方として\n"
+"歓迎するとしよう。"
+msgstr ""
+
+#. ID 17, Page 1, Line 237, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"良いだろう。\\.\\.同行を許可する。"
+msgstr ""
+
+#. ID 17, Page 1, Line 239, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"宜しくね。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 241, Pos (12,13)
+msgid ""
+"レイク：\n"
+"此方こそ。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 247, Pos (12,13)
+msgid ""
+"レイク：\n"
+"それで早速だが、\\.\\.これから何処へ？"
+msgstr ""
+
+#. ID 17, Page 1, Line 249, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"最終的な目的地は「ルートフォード」だけれど、\n"
+"その前に「エンヴィ」に寄る予定よ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 252, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"私は反対なのだが、\n"
+"ミネルヴァが如何してもと言ってな…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 255, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"エンヴィと言えば表向きこそ世界最大の歓楽都市だが、\n"
+"その裏は途轍も無く\"深い\"場所。"
+msgstr ""
+
+#. ID 17, Page 1, Line 259, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"幾ら説得された所で、気は進まない。"
+msgstr ""
+
+#. ID 17, Page 1, Line 264, Pos (12,13)
+msgid ""
+"レイク：\n"
+"世界最大の歓楽都市、か…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 266, Pos (12,13)
+msgid ""
+"レイク：\n"
+"確かに御嬢様の火遊びにしては\n"
+"ハイリスクが過ぎるかもな。"
+msgstr ""
+
+#. ID 17, Page 1, Line 269, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"\"見聞の拡張\"と言って頂戴。\\.\\.\n"
+"私はもっと世界を知る義務を負ってるの。"
+msgstr ""
+
+#. ID 17, Page 1, Line 273, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"デイジーの話。\\.\\.貴方も聞いたでしょう？"
+msgstr ""
+
+#. ID 17, Page 1, Line 278, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"この美しく綺麗な場所に留まる時は終わりました。"
+msgstr ""
+
+#. ID 17, Page 1, Line 280, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"行きなさい、腐臭の漂う汚れた海の中へ。\\|\n"
+"掴みなさい、全てを凌駕する美しさを。"
+msgstr ""
+
+#. ID 17, Page 1, Line 286, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"エンヴィこそ、私が見なくてはいけない物。"
+msgstr ""
+
+#. ID 17, Page 1, Line 288, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"確かに目的地はルートフォードだけれど、\n"
+"それだけが目的だとは言えないでしょう？"
+msgstr ""
+
+#. ID 17, Page 1, Line 291, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"無論危険は伴うけれど、\n"
+"私だって魔法を鍛錬した身。"
+msgstr ""
+
+#. ID 17, Page 1, Line 294, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"そしてハウゼン。\\|\n"
+"何よりも貴方が付いている。"
+msgstr ""
+
+#. ID 17, Page 1, Line 297, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"重々承知の上だ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 305, Pos (12,13)
+msgid ""
+"レイク：\n"
+"何だったら俺も\n"
+"そのボディガードに一役買おうか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 308, Pos (12,13)
+msgid ""
+"レイク：\n"
+"何だか火遊びとは訳が違うみたいだし。\\|\n"
+"それに恩義は必ず返せとガキの頃から言われてる。"
+msgstr ""
+
+#. ID 17, Page 1, Line 311, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"恩義？\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 316, Pos (12,13)
+msgid ""
+"レイク：\n"
+"否…\\.\\.その…。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 318, Pos (12,13)
+msgid ""
+"レイク：\n"
+"その歳の御嬢様にしては大したタマなんでな。\\.\\.\n"
+"手助けしてみようと思ったんだ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 321, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"それは心強い。\\.\\.是非とも協力願おう。"
+msgstr ""
+
+#. ID 17, Page 1, Line 325, Pos (12,13)
+msgid ""
+"ミネルヴァ：\n"
+"早々にこんな素敵な味方に会えるなんて。\\.\\.\n"
+"まだまだ運は尽きてないみたい。"
+msgstr ""
+
+#. ID 17, Page 1, Line 328, Pos (12,13)
+msgid ""
+"ハウゼン：\n"
+"当然だとも。\\.\\.尽きる筈が在ろうか。"
+msgstr ""
+
+#. ID 17, Page 1, Line 350, Pos (12,13)
+msgid ""
+"レイク：\n"
+"俺がこの世界の案内役として利用していると知ったら、\n"
+"この二人は果たして如何出る事やら。"
+msgstr ""
+
+#. ID 17, Page 1, Line 353, Pos (12,13)
+msgid ""
+"レイク：\n"
+"思った以上に高いツケに成りそうだな。\\|\n"
+"ボディガードだけで払い切れれば良いんだが…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 17, Pos (16,17)
+#. ID 21, Page 1, Line 17, Pos (17,17)
+#. ID 22, Page 1, Line 17, Pos (18,17)
+msgid ""
+"レイク：\n"
+"なあ、\\.\\.其処のお二人さん。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 3, Pos (15,22)
+msgid ""
+"若者：\n"
+"僕、エンヴィのカジノで全財産をスったんですが、\n"
+"此処で自給自足の生活をして、生きていけそうです。"
+msgstr ""
+
+#. ID 24, Page 1, Line 6, Pos (15,22)
+msgid ""
+"若者：\n"
+"エンヴィで失敗した人は、ケイオスに流れずに、\n"
+"此処に来れば、再出発できるかも知れないのに…。"
+msgstr ""
+
+#. ID 25, Page 1, Line 18, Pos (21,26)
+msgid ""
+"犬：\n"
+"わんデシ！\\."
+msgstr ""
+

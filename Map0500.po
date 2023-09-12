@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 33, Page 1, Line 3, Pos (5,12)
+msgid ""
+"職員：\n"
+"知ってるかも知れないが、\n"
+"此処ではルシファーの廃棄も行ってる。"
+msgstr ""
+
+#. ID 33, Page 1, Line 6, Pos (5,12)
+msgid ""
+"職員：\n"
+"要するに此処はセラパーソンの子供が産まれ、\n"
+"そしてまた死んで逝く場所。"
+msgstr ""
+
+#. ID 33, Page 1, Line 9, Pos (5,12)
+msgid ""
+"職員：\n"
+"俺なんかは何度か\n"
+"廃棄の現場を見た事が在るからな。"
+msgstr ""
+
+#. ID 33, Page 1, Line 12, Pos (5,12)
+msgid ""
+"職員：\n"
+"此処で子供を連れて帰る夫婦を見ても、\n"
+"温かい眼を向けられないんだよ。"
+msgstr ""
+
+#. ID 34, Page 1, Line 3, Pos (2,18)
+msgid ""
+"男性：\n"
+"今は進行中のプランを継続するだけで、\n"
+"新規プランは受け付けてないぜ。"
+msgstr ""
+
+#. ID 34, Page 1, Line 6, Pos (2,18)
+msgid ""
+"男性：\n"
+"復旧作業とかでバタバタしてるから、\n"
+"余裕が出来るまでは多分この調子だろうな。"
+msgstr ""
+
+#. ID 35, Page 1, Line 3, Pos (12,23)
+msgid ""
+"女性：\n"
+"チルドレン･プレビューを楽しみにしてたのに。\n"
+"残念だわ。"
+msgstr ""
+
+#. ID 36, Page 1, Line 3, Pos (17,17)
+msgid ""
+"男性：\n"
+"最近夫婦の仲がいまいちなんだよ。"
+msgstr ""
+
+#. ID 36, Page 1, Line 5, Pos (17,17)
+msgid ""
+"男性：\n"
+"妻は子供が欲しいと言っているが、\n"
+"私が専らそれを拒んでいるんだ。"
+msgstr ""
+
+#. ID 36, Page 1, Line 8, Pos (17,17)
+msgid ""
+"男性：\n"
+"ディスピスが幅を利かせるこんな時勢に\n"
+"何故子供を欲しがるのか、私には全く理解出来ない。"
+msgstr ""
+

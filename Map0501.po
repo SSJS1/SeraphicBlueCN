@@ -1,0 +1,464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 5, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"何してるの！ \\|遅過ぎなのよッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 14, Pos (0,0)
+msgid ""
+"部下：\n"
+"済みません…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"済みませんじゃないわ！\\.\\.\n"
+"戻って来るまでに終わらせろと言った筈よ！"
+msgstr ""
+
+#. ID 7, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"これじゃ最終チェックが出来ないじゃない！\n"
+"只でさえ遅れ気味なのに！"
+msgstr ""
+
+#. ID 7, Page 1, Line 26, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"おいおい…。\\|\n"
+"少し怒鳴り過ぎじゃないのか？"
+msgstr ""
+
+#. ID 7, Page 1, Line 29, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"外まで丸聞こえだぜ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 36, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"何キレてんだよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"調整が終わってないのよ。\n"
+"戻って来るまでに終わらせろと言ったのに。"
+msgstr ""
+
+#. ID 7, Page 1, Line 41, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"それ時間的にムリが無いか？\\|\n"
+"皆があんたみたいに頭が良い訳でもなし。"
+msgstr ""
+
+#. ID 7, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"口答えする気？\\.\\.\n"
+"第一主任は私なのよ？"
+msgstr ""
+
+#. ID 7, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"このボーダーは譲らないわ。\\.\\.\n"
+"過労死してでも着いて来て貰うわよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 53, Pos (0,0)
+#. ID 7, Page 1, Line 124, Pos (0,0)
+#. ID 7, Page 1, Line 198, Pos (0,0)
+#. ID 7, Page 1, Line 312, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"別の作業をして来るから、40分で仕上げなさい。"
+msgstr ""
+
+#. ID 7, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"28分。\\.\\.やれば出来るじゃない。"
+msgstr ""
+
+#. ID 7, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"後は私とフョードルで最終チェックを行うわ。\\|\n"
+"呼び出しが在るまで休んでて。"
+msgstr ""
+
+#. ID 7, Page 1, Line 107, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"人使い荒過ぎ。\\.\\.\n"
+"どう見てもオーバーワークじゃねえの。"
+msgstr ""
+
+#. ID 7, Page 1, Line 110, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"結果を出せない人間など必要無いわ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 113, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"必要無いって…。\\|あんた神様かよ？"
+msgstr ""
+
+#. ID 7, Page 1, Line 115, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"まさか。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 117, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"じゃあ何だってんだ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"結果至上主義という名の絶望よ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 131, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"それで？ \\|コイツは何なんだ？"
+msgstr ""
+
+#. ID 7, Page 1, Line 133, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"大半をあんたが担当してたもんだから\n"
+"良く知らないんだよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 140, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"これは天＜フェジテ＞を見据える黒獅子の眼光。"
+msgstr ""
+
+#. ID 7, Page 1, Line 142, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"天空境界効果制御システム「\\C[19]シーベックス\\C[0]」。\n"
+"\"Celestial-Border Effect Control System\"の頭文字で\n"
+"\"C-BECS\"という訳。"
+msgstr ""
+
+#. ID 7, Page 1, Line 146, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"\\C[19]天空境界効果\\C[0]…？\n"
+"確か天空境界は消えたんだろ？"
+msgstr ""
+
+#. ID 7, Page 1, Line 149, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"そうね、消えはしたわ。\\|\n"
+"でも今以ってその\"名残\"は存在しているのよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 152, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"それが天空境界効果って訳か。"
+msgstr ""
+
+#. ID 7, Page 1, Line 157, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"これは普通にグラウンドとフェジテを\n"
+"行き来する分には殆ど問題無い。\n"
+"微小のエアポケットに入る様な感じね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 161, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"でも\"鉄槌\"に関しては、\n"
+"この効果がかなりの影響を生んで来る。"
+msgstr ""
+
+#. ID 7, Page 1, Line 164, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"Ｒ10000\\_シミュレーションの平均値では、\n"
+"角度誤差が\\_8.89\\_度、\n"
+"エネルギー保持率に至っては\\_62.59\\_％よ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 168, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"また凄い数値が出たモンだな。\\.\\.\n"
+"使い物にならねえぞ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 171, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"だからこのシーベックスが必要なの。"
+msgstr ""
+
+#. ID 7, Page 1, Line 173, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"千変万化する天空境界効果をマッピングし、\n"
+"特殊電磁波を使ってその効果を抑制するシステム。"
+msgstr ""
+
+#. ID 7, Page 1, Line 176, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"天＜フェジテ＞を見据える黒獅子の眼光。\\|\n"
+"鉄槌はこれを無くして動かない。"
+msgstr ""
+
+#. ID 7, Page 1, Line 182, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"成る程な…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 189, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"でも何で今まで教えて呉れなかったんだよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 192, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"これに使う数理的アルゴリズムは、\n"
+"正直言ってパーソンには無理。"
+msgstr ""
+
+#. ID 7, Page 1, Line 195, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"まあベネディクタ･フェジテとかキャサリン･リオとか、\n"
+"そのレベルの天才は別としてね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 205, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"約３割。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 207, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"あん？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 209, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"ゲオルクがセラパーソンを囲い込んだ理由の約３割が、\n"
+"このシーベックス。"
+msgstr ""
+
+#. ID 7, Page 1, Line 217, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"黒獅子の眼、\\.\\.か…。\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 219, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"コイツが潰されたら、\n"
+"黒獅子はもう何も出来ない訳だ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 222, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"そういう事。\\.\\.\n"
+"だからこれから私と貴方…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 225, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"ラージュ開発の両主任が、\n"
+"直々に最終チェックを行う訳。"
+msgstr ""
+
+#. ID 7, Page 1, Line 229, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"これも40分以内？"
+msgstr ""
+
+#. ID 7, Page 1, Line 231, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"馬鹿言わないで。"
+msgstr ""
+
+#. ID 7, Page 1, Line 238, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"徹夜を覚悟しておきなさい。"
+msgstr ""
+
+#. ID 7, Page 1, Line 240, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"マジで？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 242, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"嫌なの？\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 244, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 249, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ＯＫ。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 251, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"やりますよ、\\.\\.やりますよ。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 253, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"やらせて貰っちゃいますよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 255, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"不肖このフョードル。\\.\\.\n"
+"貴女の夜の御供をさせて頂きますぜ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 261, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"良い根性ね。\\|期待してるわよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 270, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"うっ…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 285, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"おいおい目眩か？ \\|言わんこっちゃねえな。"
+msgstr ""
+
+#. ID 7, Page 1, Line 287, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"部下との親睦を深める良い機会だ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 294, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"ふん…。\\|何とでも言いなさい…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 299, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 304, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"休憩にしないか？"
+msgstr ""
+
+#. ID 7, Page 1, Line 306, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"もう疲れたの？\\|\n"
+"若いのに情け無い。"
+msgstr ""
+
+#. ID 7, Page 1, Line 321, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"\\S[5]うう…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 326, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"\\S[2]休もうぜ。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 331, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"外の空気でも吸ったら如何だ？\\|\n"
+"時間は40分位。"
+msgstr ""
+
+#. ID 7, Page 1, Line 337, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"分かったわ…。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 339, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"休憩よ。\\|今から30分間。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 344, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ったく…。\\|\\^"
+msgstr ""
+

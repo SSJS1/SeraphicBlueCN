@@ -1,0 +1,1038 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 4, Pos (23,9)
+msgid ""
+"男性神官：\n"
+"頼むぜニクソン。\n"
+"ラボの連中にガツンと言って呉れよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 7, Pos (23,9)
+msgid ""
+"ニクソン：\n"
+"ええ。\n"
+"やれるだけの事をやってみる心算です。"
+msgstr ""
+
+#. ID 6, Page 1, Line 3, Pos (12,7)
+msgid ""
+"女性：\n"
+"此処の子供達は街の皆の良心で育っているの。\n"
+"主に誇れる行いだと自信を持っているわ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 6, Pos (12,7)
+msgid ""
+"女性：\n"
+"でも本当は幼天使孤児という存在そのものが無ければ、\n"
+"これに越した事は無いんだけれど。"
+msgstr ""
+
+#. ID 13, Page 1, Line 39, Pos (5,2)
+msgid ""
+"使者：\n"
+"何度言ったら分かるんだ？"
+msgstr ""
+
+#. ID 13, Page 1, Line 41, Pos (5,2)
+msgid ""
+"使者：\n"
+"\"彼ら\"は我々人類にとって\n"
+"貴重な共有財産＜サンプル＞なんだぞ？"
+msgstr ""
+
+#. ID 13, Page 1, Line 47, Pos (5,2)
+msgid ""
+"牧師：\n"
+"貴方達こそ、\n"
+"何度言えば分かるんですか？"
+msgstr ""
+
+#. ID 13, Page 1, Line 50, Pos (5,2)
+msgid ""
+"牧師：\n"
+"彼らは\"天使\"と呼び名こそ違えど、\n"
+"血が通い感情＜こころ＞を持つ人間なのです。"
+msgstr ""
+
+#. ID 13, Page 1, Line 53, Pos (5,2)
+msgid ""
+"牧師：\n"
+"その彼らの気持ちを無視して…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 55, Pos (5,2)
+msgid ""
+"使者：\n"
+"無視して当然だろう。\\.\\.\n"
+"研究サンプルに人権は無い。"
+msgstr ""
+
+#. ID 13, Page 1, Line 63, Pos (5,2)
+msgid ""
+"牧師：\n"
+"主よ、\\.\\.御聞きになられましたか？"
+msgstr ""
+
+#. ID 13, Page 1, Line 65, Pos (5,2)
+msgid ""
+"牧師：\n"
+"この愚かで悲しき性＜さが＞の発露。"
+msgstr ""
+
+#. ID 13, Page 1, Line 71, Pos (5,2)
+msgid ""
+"牧師：\n"
+"貴方には、あの子達が只の研究対象たる\n"
+"肉袋にしか見えていないのでしょう。"
+msgstr ""
+
+#. ID 13, Page 1, Line 74, Pos (5,2)
+msgid ""
+"牧師：\n"
+"しかし百歩譲って、それを研究者の性だとしても…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 76, Pos (5,2)
+msgid ""
+"牧師：\n"
+"余りに悲しく。\\.\\.\n"
+"それ以上に愚かしく。"
+msgstr ""
+
+#. ID 13, Page 1, Line 79, Pos (5,2)
+msgid ""
+"牧師：\n"
+"そして傲慢。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 81, Pos (5,2)
+msgid ""
+"牧師：\n"
+"貴方には、須らく主の裁きが下るでしょう。"
+msgstr ""
+
+#. ID 13, Page 1, Line 87, Pos (5,2)
+msgid ""
+"使者：\n"
+"おい…。\\.\\.好い加減にしろよ…？"
+msgstr ""
+
+#. ID 13, Page 1, Line 89, Pos (5,2)
+msgid ""
+"使者：\n"
+"毎度毎度こっちが大人しく聞いてれば、\n"
+"そうやって訳の分からない説教で煙に巻きやがって。"
+msgstr ""
+
+#. ID 13, Page 1, Line 92, Pos (5,2)
+msgid ""
+"使者：\n"
+"仕舞いには力ずくでも持ってくぞ…！"
+msgstr ""
+
+#. ID 13, Page 1, Line 94, Pos (5,2)
+msgid ""
+"牧師：\n"
+"ほう。\\.\\.貴方にそれだけの力が？"
+msgstr ""
+
+#. ID 13, Page 1, Line 96, Pos (5,2)
+msgid ""
+"使者：\n"
+"\\C[19]ホワイトウィング･ラボラトリー\\C[0]を\n"
+"見くびって呉れるなよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 99, Pos (5,2)
+msgid ""
+"使者：\n"
+"ローズバーグとまでは行かないが、\n"
+"それなりの権力がバックに付いてるんだ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 105, Pos (5,2)
+msgid ""
+"使者：\n"
+"それとも今此処で、俺が\"力\"を行使してみるか？"
+msgstr ""
+
+#. ID 13, Page 1, Line 107, Pos (5,2)
+msgid ""
+"使者：\n"
+"こう見えて昔はそれなりに鍛えててな、\n"
+"イーヴルスイーパーも齧＜かじ＞ってたんだよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 110, Pos (5,2)
+msgid ""
+"使者：\n"
+"引退してから大分経つが、\n"
+"お前みたいなナヨナヨした牧師なら充分だ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 116, Pos (5,2)
+msgid ""
+"牧師：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 122, Pos (5,2)
+msgid ""
+"牧師：\n"
+"少し…\\.\\.話題を変えましょうか？"
+msgstr ""
+
+#. ID 13, Page 1, Line 124, Pos (5,2)
+msgid ""
+"使者：\n"
+"はぁ？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 126, Pos (5,2)
+msgid ""
+"牧師：\n"
+"実は私も元バウンティハンターでして。\\|\n"
+"主に銃を使っていたんですよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 129, Pos (5,2)
+msgid ""
+"牧師：\n"
+"それでクセと言いますか…。\\|\n"
+"人聞き悪く言えば中毒や依存症ですね。"
+msgstr ""
+
+#. ID 13, Page 1, Line 132, Pos (5,2)
+msgid ""
+"牧師：\n"
+"常に銃を身に付けていないと落ち着かないのですよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 134, Pos (5,2)
+msgid ""
+"牧師：\n"
+"時にはそれでも飽き足らず、\n"
+"構えてしまう事も在ります。"
+msgstr ""
+
+#. ID 13, Page 1, Line 143, Pos (5,2)
+msgid ""
+"\n"
+"牧師：\n"
+"\\S[3]こんな具合ですね。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 148, Pos (5,2)
+msgid ""
+"\n"
+"使者：\n"
+"うぅッ…！\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 152, Pos (5,2)
+msgid ""
+"\n"
+"使者：\n"
+"\\S[2]へっ…。\\|へへっ…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 156, Pos (5,2)
+msgid ""
+"\n"
+"使者：\n"
+"何かと思えば、とんだコケ脅しだな。"
+msgstr ""
+
+#. ID 13, Page 1, Line 159, Pos (5,2)
+msgid ""
+"\n"
+"使者：\n"
+"どうせ弾は入ってないんだろ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 162, Pos (5,2)
+msgid ""
+"\n"
+"牧師：\n"
+"入ってますよ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 165, Pos (5,2)
+msgid ""
+"\n"
+"使者：\n"
+"はぁー!?\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 169, Pos (5,2)
+msgid ""
+"\n"
+"牧師：\n"
+"銃と弾丸は二つで一つ。\\.\\.\n"
+"言うなれば夫婦の様な物です。"
+msgstr ""
+
+#. ID 13, Page 1, Line 173, Pos (5,2)
+msgid ""
+"\n"
+"牧師：\n"
+"その愛する二人を引き離すのは、\n"
+"聖職者として如何かと思いませんか？"
+msgstr ""
+
+#. ID 13, Page 1, Line 179, Pos (5,2)
+msgid ""
+"\n"
+"牧師：\n"
+"銃と弾丸は二つで一つ。\\.\\.\n"
+"言うなれば夫婦のようなものです。"
+msgstr ""
+
+#. ID 13, Page 1, Line 183, Pos (5,2)
+msgid ""
+"\n"
+"牧師：\n"
+"その愛する二人を引き離すのは、\n"
+"聖職者としてどうかと思いませんか？"
+msgstr ""
+
+#. ID 13, Page 1, Line 189, Pos (5,2)
+msgid ""
+"\n"
+"使者：\n"
+"何が聖職者だッ！\\.\\.\n"
+"人に銃なんか向けやがって！"
+msgstr ""
+
+#. ID 13, Page 1, Line 200, Pos (5,2)
+msgid ""
+"牧師：\n"
+"それは心外ですね。"
+msgstr ""
+
+#. ID 13, Page 1, Line 202, Pos (5,2)
+msgid ""
+"牧師：\n"
+"私は主に十字架を掲げると共に、\\.\\.\n"
+"自らの信念にもまた十字架を掲げているのです。"
+msgstr ""
+
+#. ID 13, Page 1, Line 205, Pos (5,2)
+msgid ""
+"牧師：\n"
+"貴方が若し子供達を連れて行こうと言うのなら、\n"
+"たとえ主が御許しに成らなくても…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 208, Pos (5,2)
+msgid ""
+"牧師：\n"
+"私は、この引き金を引くでしょう。"
+msgstr ""
+
+#. ID 13, Page 1, Line 213, Pos (5,2)
+msgid ""
+"使者：\n"
+"わ、\\.\\.分かった…！\\|\n"
+"今直ぐ帰る…！\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 216, Pos (5,2)
+msgid ""
+"牧師：\n"
+"そうですか。\\.\\.それは良かった。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 226, Pos (5,2)
+msgid ""
+"牧師：\n"
+"ああ、\\.\\.お待ちください。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 233, Pos (5,2)
+msgid ""
+"牧師：\n"
+"折角いらしたのです。\\.\\.\n"
+"祈りを捧げて行きませんか？"
+msgstr ""
+
+#. ID 13, Page 1, Line 236, Pos (5,2)
+msgid ""
+"牧師：\n"
+"祈る者に対して、主は分け隔て無く\n"
+"救いと清めを御恵みくださいますでしょう。"
+msgstr ""
+
+#. ID 13, Page 1, Line 239, Pos (5,2)
+msgid ""
+"牧師：\n"
+"総ての者に平穏と平等が認められる、\n"
+"貴重な機会です。"
+msgstr ""
+
+#. ID 13, Page 1, Line 242, Pos (5,2)
+msgid ""
+"使者：\n"
+"ふざけんなッ！ \\.\\.こんな教会ッ！\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 244, Pos (5,2)
+msgid ""
+"使者：\n"
+"二度と来るかー！\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 258, Pos (5,2)
+msgid ""
+"レイク：\n"
+"場所を間違えたか？"
+msgstr ""
+
+#. ID 13, Page 1, Line 260, Pos (5,2)
+msgid ""
+"レイク：\n"
+"俺達が訪ねたのは、幼天使孤児を保護している\n"
+"\"温かい\"教会の筈なんだが。"
+msgstr ""
+
+#. ID 13, Page 1, Line 263, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"そうね。\\.\\.少なくとも\n"
+"十字架に血痕が付いていそうな教会では。"
+msgstr ""
+
+#. ID 13, Page 1, Line 269, Pos (5,2)
+msgid ""
+"レイク：\n"
+"撃たれないよな？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 271, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"多分ね。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 285, Pos (5,2)
+msgid ""
+"牧師：\n"
+"失礼。\\.\\.お見苦しい所を。"
+msgstr ""
+
+#. ID 13, Page 1, Line 287, Pos (5,2)
+msgid ""
+"レイク：\n"
+"構わないだろ？\\.\\.\n"
+"口で言って聞く様な奴じゃない。"
+msgstr ""
+
+#. ID 13, Page 1, Line 290, Pos (5,2)
+msgid ""
+"レイク：\n"
+"有難い御言葉だって、\n"
+"聞く耳が無けりゃ時間の無駄だ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 296, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"でも初めから撃つ気なんて無かったんでしょう？"
+msgstr ""
+
+#. ID 13, Page 1, Line 298, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"上で寝ている子供も居るでしょうし。\\.\\.\n"
+"銃声が目覚ましだなんて。"
+msgstr ""
+
+#. ID 13, Page 1, Line 304, Pos (5,2)
+msgid ""
+"牧師：\n"
+"如何やら、お二人は\n"
+"物分りの良いお客人のようですね。"
+msgstr ""
+
+#. ID 13, Page 1, Line 307, Pos (5,2)
+msgid ""
+"牧師：\n"
+"私はニクソン･クロムウェル。\\.\\.\n"
+"この教会の牧師です。"
+msgstr ""
+
+#. ID 13, Page 1, Line 310, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"して、\\.\\.この度は如何様な御用件で？"
+msgstr ""
+
+#. ID 13, Page 1, Line 312, Pos (5,2)
+msgid ""
+"レイク：\n"
+"幼天使孤児に会いたいんだ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 314, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"と言いますと、ボランティアか何かで\n"
+"子供達の世話をお手伝いくださるとか？"
+msgstr ""
+
+#. ID 13, Page 1, Line 317, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"残念だけど、そうじゃないの。"
+msgstr ""
+
+#. ID 13, Page 1, Line 319, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 324, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"こう言って信じて貰えるか、\n"
+"分からないけれど…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 330, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"私も\"天使\"なの。"
+msgstr ""
+
+#. ID 13, Page 1, Line 335, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"\\S[2]さて…。\\|これは如何したものか…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 346, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"お話は良く分かりました。"
+msgstr ""
+
+#. ID 13, Page 1, Line 351, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"教会とは元来、迷える子羊達の集うべき場所。\\|\n"
+"これも主の御導きなのかも知れません。"
+msgstr ""
+
+#. ID 13, Page 1, Line 354, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"お二人を信じましょう。"
+msgstr ""
+
+#. ID 13, Page 1, Line 356, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"会わせて貰えるのね？"
+msgstr ""
+
+#. ID 13, Page 1, Line 358, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"ええ。\\.\\.二階の方にどうぞ。"
+msgstr ""
+
+#. ID 13, Page 2, Line 11, Pos (5,2)
+#. ID 13, Page 2, Line 43, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"唐突な話で何なのですが…。"
+msgstr ""
+
+#. ID 13, Page 2, Line 13, Pos (5,2)
+#. ID 13, Page 2, Line 45, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"もし宜しければ、\\C[19]研究都市ホワイトウィング\\C[0]へ\n"
+"一緒に行きませんか？"
+msgstr ""
+
+#. ID 13, Page 2, Line 16, Pos (5,2)
+#. ID 13, Page 2, Line 125, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"そうさせて貰うわ。\\.\\.\n"
+"暫くの間宜しく。"
+msgstr ""
+
+#. ID 13, Page 2, Line 22, Pos (5,2)
+#. ID 13, Page 2, Line 134, Pos (5,2)
+msgid ""
+"レイク：\n"
+"で、如何やって行くんだ？\\.\\.\n"
+"北の港から船に乗るのか？"
+msgstr ""
+
+#. ID 13, Page 2, Line 25, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"ええ。\\.大陸北端近くの\\C[19]東部大陸港\\C[0]から\n"
+"船が出ていますので。"
+msgstr ""
+
+#. ID 13, Page 2, Line 28, Pos (5,2)
+#. ID 13, Page 2, Line 140, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"但しホワイトウィング直行ではなく、\n"
+"その途中で\\C[19]海上都市ユヴェス\\C[0]を経由。"
+msgstr ""
+
+#. ID 13, Page 2, Line 31, Pos (5,2)
+#. ID 13, Page 2, Line 143, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"ユヴェス到着後に、改めてホワイトウィング行きの船に\n"
+"乗り換えるという手順を取ります。"
+msgstr ""
+
+#. ID 13, Page 2, Line 48, Pos (5,2)
+msgid ""
+"レイク：\n"
+"ホワイトウィング？\\.\\.\n"
+"あそこに何か在るのか？"
+msgstr ""
+
+#. ID 13, Page 2, Line 51, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"ホワイトウィング･ラボラトリーです。"
+msgstr ""
+
+#. ID 13, Page 2, Line 53, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"それって、さっきの人が言ってた…。"
+msgstr ""
+
+#. ID 13, Page 2, Line 55, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"彼は其処＜ラボ＞から寄越された使者なのです。"
+msgstr ""
+
+#. ID 13, Page 2, Line 57, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"本来はイーヴルの研究機関なのですが、\n"
+"最近は天使研究の方にも手を出しているのですよ。"
+msgstr ""
+
+#. ID 13, Page 2, Line 64, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"事の始まりは５年前、健康診断として\n"
+"此処の子供達に一通り検査を受けさせた事でした。"
+msgstr ""
+
+#. ID 13, Page 2, Line 67, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"その名目で向こうがデータを取りたがっていたのは\n"
+"見え見えだったのですが…。"
+msgstr ""
+
+#. ID 13, Page 2, Line 70, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"如何せん子供達も天使ですから。"
+msgstr ""
+
+#. ID 13, Page 2, Line 72, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"若し病気に成った時とかに困るので、\n"
+"健康診断を許可しました。"
+msgstr ""
+
+#. ID 13, Page 2, Line 75, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"結果、向こうは基礎データを得て\n"
+"天使研究を開始しました。"
+msgstr ""
+
+#. ID 13, Page 2, Line 81, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"しかし所詮は基礎データですから、\n"
+"限界は程無くやって来る訳です。"
+msgstr ""
+
+#. ID 13, Page 2, Line 84, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"そしてより詳細なデータを欲しがり、\n"
+"定期的に使者を送って来る様に成りました。"
+msgstr ""
+
+#. ID 13, Page 2, Line 87, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"子供達をラボに引き渡せと。"
+msgstr ""
+
+#. ID 13, Page 2, Line 92, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"初めの内は物腰穏やかだったのですが…。\\.\\.\n"
+"断り続けて数年、最近は少々柄が悪く成りましてね。"
+msgstr ""
+
+#. ID 13, Page 2, Line 95, Pos (5,2)
+msgid ""
+"レイク：\n"
+"成る程。ゴロツキでも雇いそうな勢いだ。"
+msgstr ""
+
+#. ID 13, Page 2, Line 97, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"無神経な連中。\n"
+"子供達の気持ちも考えないで。"
+msgstr ""
+
+#. ID 13, Page 2, Line 100, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"ですから今度は私が教会代表として向こうに赴き、\n"
+"態度の改善を強く求める事にしたのです。"
+msgstr ""
+
+#. ID 13, Page 2, Line 103, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"尤も先方からは散々に見下され、\n"
+"アポの一つも碌に取れていませんので…。"
+msgstr ""
+
+#. ID 13, Page 2, Line 106, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"まあ、\\.\\.押し掛けですね。"
+msgstr ""
+
+#. ID 13, Page 2, Line 112, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"でも…\\.\\.それと私の記憶に何の関係が…？"
+msgstr ""
+
+#. ID 13, Page 2, Line 114, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"交渉の際には、此方側の\"知る権利\"に基づいて、\n"
+"天使に関するデータの開示を求めます。"
+msgstr ""
+
+#. ID 13, Page 2, Line 117, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"或いは貴女の記憶を手繰る手助けに成るかと。"
+msgstr ""
+
+#. ID 13, Page 2, Line 119, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"確かに…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 121, Pos (5,2)
+msgid ""
+"レイク：\n"
+"悪くないな。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 123, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"それでは、ご一緒に行くという事で…。"
+msgstr ""
+
+#. ID 13, Page 2, Line 128, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"此方こそ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 2, Line 137, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"ええ。\\.\\.大陸北端近くの\\C[19]東部大陸港\\C[0]から\n"
+"船が出ていますので。"
+msgstr ""
+
+#. ID 13, Page 2, Line 149, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"他に何か御質問は？"
+msgstr ""
+
+#. ID 13, Page 2, Line 155, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"そう言えばニクソン。\\.\\.\n"
+"子供達の世話は？"
+msgstr ""
+
+#. ID 13, Page 2, Line 158, Pos (5,2)
+msgid ""
+"レイク：\n"
+"だな。\\.\\.見た所神父も居ないようだし。"
+msgstr ""
+
+#. ID 13, Page 2, Line 160, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"確かに此処には神父は居ません。"
+msgstr ""
+
+#. ID 13, Page 2, Line 162, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"私の他に数名の神官達を責任者として、後はこの街の\n"
+"人々のボランティアで運営されているのです。"
+msgstr ""
+
+#. ID 13, Page 2, Line 168, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"私が教会代表でホワイトウィングに行く事は\n"
+"既に皆さん御存じですので…。"
+msgstr ""
+
+#. ID 13, Page 2, Line 171, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"私が留守の間は、\n"
+"皆さんが子供達の面倒を見て呉れます。"
+msgstr ""
+
+#. ID 13, Page 2, Line 174, Pos (5,2)
+msgid ""
+"ヴェーネ：\n"
+"なら大丈夫ね。"
+msgstr ""
+
+#. ID 13, Page 2, Line 179, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"それでは、参りましょうか。"
+msgstr ""
+
+#. ID 13, Page 5, Line 18, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"今帰りましたよ。"
+msgstr ""
+
+#. ID 13, Page 5, Line 23, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"如何か…\\.\\.しましたか？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 5, Line 28, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"子供達は元気にしていましたか？"
+msgstr ""
+
+#. ID 13, Page 5, Line 33, Pos (5,2)
+msgid ""
+"男性：\n"
+"\\S[2]ああ…。\\|元気にしてたさ…。"
+msgstr ""
+
+#. ID 13, Page 5, Line 35, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"それは良かった。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 5, Line 37, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"静かですね。\\.\\.皆昼寝しているのですか？"
+msgstr ""
+
+#. ID 13, Page 5, Line 42, Pos (5,2)
+msgid ""
+"女性：\n"
+"\\S[2]いいえ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 5, Line 47, Pos (5,2)
+msgid ""
+"女性：\n"
+"\\S[2]もう此処に、\\.\\.子供達は居ないわ。"
+msgstr ""
+
+#. ID 13, Page 5, Line 53, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"\\S[2]如何いう…\\|事ですか…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 5, Line 58, Pos (5,2)
+msgid ""
+"男性：\n"
+"\\S[2]あっという間だった。"
+msgstr ""
+
+#. ID 13, Page 5, Line 63, Pos (5,2)
+msgid ""
+"男性：\n"
+"\\S[2]突然、\\.\\.子供達が高熱を出して苦しみ出した。"
+msgstr ""
+
+#. ID 13, Page 5, Line 65, Pos (5,2)
+msgid ""
+"男性：\n"
+"\\S[2]何の前触れも無く、\\.\\.黒い翼が生えて来た。"
+msgstr ""
+
+#. ID 13, Page 5, Line 67, Pos (5,2)
+msgid ""
+"\\>ユアン／ヴェーネ／ケイン：\n"
+"………!!\\|\\^"
+msgstr ""
+
+#. ID 13, Page 5, Line 69, Pos (5,2)
+msgid ""
+"男性：\n"
+"\\S[2]そして皆纏めて、\\.\\.黒い闇に包まれて…。"
+msgstr ""
+
+#. ID 13, Page 5, Line 74, Pos (5,2)
+msgid ""
+"男性：\n"
+"\\S[2]一体の…\\|黒い翼のバケモノ…。"
+msgstr ""
+
+#. ID 13, Page 5, Line 76, Pos (5,2)
+msgid ""
+"男性：\n"
+"\\S[2]イーヴルに成っちまった…！\\|\\|\\^"
+msgstr ""
+
+#. ID 13, Page 5, Line 81, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"\\S[5]嘘だ………。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 5, Line 86, Pos (5,2)
+msgid ""
+"女性：\n"
+"\\S[2]神よ…。\\|あの子達がどの様な罪を…！"
+msgstr ""
+
+#. ID 13, Page 5, Line 88, Pos (5,2)
+msgid ""
+"女性：\n"
+"\\S[2]何故あんな幼子に、\\.\\.\n"
+"黒い翼を背負わせるのです…！"
+msgstr ""
+
+#. ID 13, Page 5, Line 94, Pos (5,2)
+msgid ""
+"男性：\n"
+"\\S[2]それとも…\\|これは神の不在を示さんと…。"
+msgstr ""
+
+#. ID 13, Page 5, Line 96, Pos (5,2)
+msgid ""
+"男性：\n"
+"\\S[2]この世に神など居ないと言いたいのか…！"
+msgstr ""
+
+#. ID 13, Page 5, Line 98, Pos (5,2)
+msgid ""
+"男性：\n"
+"\\S[2]信じる者は馬鹿を見るとッ…！\\|\n"
+"信じる事は無力だとッ…！"
+msgstr ""
+
+#. ID 13, Page 6, Line 132, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"あの事件を機に、\\.\\.皆は主の不在を悟った…。"
+msgstr ""
+
+#. ID 13, Page 6, Line 134, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"今高き天に在るのはフェジテ。\\|\n"
+"子供達を捨てた者達の暮らす場所。"
+msgstr ""
+
+#. ID 13, Page 6, Line 140, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"天は最早…\\|主の坐＜いま＞す所ではなくなった…。"
+msgstr ""
+
+#. ID 13, Page 6, Line 145, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"私は、あの子達の故郷に\n"
+"何を差し出すべきなのでしょうか。"
+msgstr ""
+
+#. ID 13, Page 6, Line 148, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"血染めの銃弾。\\.\\.血染めの十字架。"
+msgstr ""
+
+#. ID 13, Page 6, Line 150, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"凡そ、主の教えには無い事です。"
+msgstr ""
+
+#. ID 13, Page 6, Line 155, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"主よ、\\.\\.御許しください。"
+msgstr ""
+
+#. ID 13, Page 6, Line 157, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"私達は、この場所を捨てます。\\|\n"
+"この空虚な信仰の場所を。"
+msgstr ""
+
+#. ID 13, Page 6, Line 163, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"\\S[2]神など、\\.\\.存在しないのですよ。"
+msgstr ""
+
+#. ID 13, Page 6, Line 165, Pos (5,2)
+msgid ""
+"ニクソン：\n"
+"\\S[3]さようなら。\\|\\^"
+msgstr ""
+

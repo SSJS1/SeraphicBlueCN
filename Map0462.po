@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 4, Pos (0,0)
+msgid ""
+"女の子：\n"
+"\\S[2]ぐすん…！ \\|ひっく…！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (0,0)
+msgid ""
+"女の子：\n"
+"\\S[2]お父さん…！ \\|死んじゃったよぉ…！\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 9, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"さあ、\\.\\.こっちへ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"気が済むまで泣くんだ、ミネルヴァ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 14, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"私が、\\.\\.王の遺志を引き継ごう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"血の繋がらない、血の通わない魔法仕掛けの人形が、\n"
+"何処まで出来るか分からないが…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"\\S[2]今日からは、\\.\\.私が父親だ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]ぐすん…！ \\|ひっく…！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]ハウゼンが…。\\|ハウゼンが…！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ああァァァ\\S[2]ーーーーーーッ!!!!\\|\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 37, Pos (0,0)
+#. ID 5, Page 1, Line 71, Pos (0,0)
+#. ID 5, Page 1, Line 118, Pos (0,0)
+#. ID 5, Page 1, Line 143, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 42, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[5]うるさい…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 48, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"何時までも泣いてんじゃねえよ！"
+msgstr ""
+
+#. ID 5, Page 1, Line 50, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"死んじまったモノに\n"
+"メソメソとすがり付きやがって！"
+msgstr ""
+
+#. ID 5, Page 1, Line 53, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"見苦しいんだよ！ \\|この小娘がッ！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 58, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ふん！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 66, Pos (0,0)
+msgid ""
+"レイク：\n"
+"待てよ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 76, Pos (0,0)
+msgid ""
+"レイク：\n"
+"怯えてんのか？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 78, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"知った事か。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 83, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"無駄口叩いてる暇が有ったら…。\\|\n"
+"あいつに慰めの言葉でも掛けて遣りな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 91, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 99, Pos (0,0)
+msgid ""
+"保安官：\n"
+"大丈夫さ、\\.\\.こんな物は怪我の内に入らん。"
+msgstr ""
+
+#. ID 5, Page 1, Line 101, Pos (0,0)
+msgid ""
+"保安官：\n"
+"少し痛みはするが、エリザベート。\\|\n"
+"君の魂の痛みに比べれば、こんな物。"
+msgstr ""
+
+#. ID 5, Page 1, Line 105, Pos (0,0)
+msgid ""
+"保安官：\n"
+"さあ、\\.\\.こんな私の胸で良かったら、\n"
+"幾らでも貸そう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 108, Pos (0,0)
+msgid ""
+"保安官：\n"
+"涙が枯れるまで、精一杯泣くんだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 110, Pos (0,0)
+msgid ""
+"保安官：\n"
+"何度の朝、何度の夜を迎えようと。\\|\n"
+"涙が止まるその時まで、私は共に居よう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 113, Pos (0,0)
+msgid ""
+"保安官：\n"
+"約束する。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 122, Pos (0,0)
+msgid ""
+"保安官：\n"
+"出来るとも、\\.\\.君ならば。"
+msgstr ""
+
+#. ID 5, Page 1, Line 124, Pos (0,0)
+msgid ""
+"保安官：\n"
+"こんなにも自分を責め、\\.\\.\n"
+"こんなにも人の死に心を狂わせるのだから。"
+msgstr ""
+
+#. ID 5, Page 1, Line 128, Pos (0,0)
+msgid ""
+"保安官：\n"
+"忘れるな、この悲しみを。\\|\n"
+"そしてこの胸の中の温もりを。"
+msgstr ""
+
+#. ID 5, Page 1, Line 131, Pos (0,0)
+msgid ""
+"保安官：\n"
+"何時か君が、\\.\\.\n"
+"親しい人の慟哭と向き合う為に。"
+msgstr ""
+
+#. ID 5, Page 1, Line 134, Pos (0,0)
+msgid ""
+"保安官：\n"
+"君が真の意味で、\\.\\.\n"
+"この悲しみを越えて行く為に。"
+msgstr ""
+
+#. ID 5, Page 1, Line 138, Pos (0,0)
+msgid ""
+"保安官：\n"
+"\\S[2]エリザベート。\\|\n"
+"君はとても優しい子だ。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 148, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[5]畜生ッ…!!\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 158, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"こうして、ゲオルクの企みは阻止された。"
+msgstr ""
+
+#. ID 5, Page 1, Line 160, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"だが引き換えに支払った代償は、\n"
+"あんな男には到底見合わない、大き過ぎるものだった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 166, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"その後、奪われていた航行システムが回復。\\|\n"
+"船は次々と発着場へと引き返して行った。"
+msgstr ""
+
+#. ID 5, Page 1, Line 169, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"果たしてゲオルクの企みは\"彼ら\"に知れ渡り、\n"
+"場は怒りに満ち溢れた。"
+msgstr ""
+
+#. ID 5, Page 1, Line 172, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"本来ならば死人に口無しの手筈が、\n"
+"転じて大勢の証人を作ったのだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 178, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"だが、これで奴が破滅するとは到底思えない。\\|\n"
+"どうせこの結果も織り込み済みだろう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 184, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"戦いは、\\.\\.続く。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 186, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"こんな出来事、\\.\\.こんな結末も、\\.\\.\n"
+"所詮は只の通過点に過ぎない。"
+msgstr ""
+

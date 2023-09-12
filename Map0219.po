@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ハウゼン。\\.\\.昨夜は如何かしたの？"
+msgstr ""
+
+#. ID 1, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"結構な時間、此処を離れてたみたいだけど…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 10, Pos (0,0)
+msgid ""
+"レイク：\n"
+"人影を見たらしいぜ。\\.\\.\n"
+"俺には何も見えなかったがな。"
+msgstr ""
+
+#. ID 1, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"人影…？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"ハウゼン…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"否、あれは私の見間違いだったようだ。\\|\n"
+"心配する事は無い。"
+msgstr ""
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"でもハウゼンが見誤るなんて珍しい。"
+msgstr ""
+
+#. ID 1, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"大丈夫？ \\.\\.ナーバスに成ってたりしない？"
+msgstr ""
+
+#. ID 1, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"ああ、\\.\\.大丈夫だ。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 43, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"でも様子見の割には\n"
+"長い事留守にしてたみたいだけど？"
+msgstr ""
+
+#. ID 1, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"帰り掛けに、少し昔を思い出していてな。\\|\n"
+"それで遅く成ってしまった。"
+msgstr ""
+
+#. ID 1, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"昔を…？\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"もうずっと昔、\\.\\.嘗て私が仕えていた、\n"
+"或る二人のマスターの事だ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"へぇ…。\\.\\.少し興味が在るわ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"その内、聞かせて呉れるかしら？"
+msgstr ""
+
+#. ID 1, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"ああ。\\.\\.いずれ機を見計らって話そう。"
+msgstr ""
+
+#. ID 1, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"私が\"彼女ら\"と共に歩んだ、\\.\\.\n"
+"遠い昔、\\.\\.長い道程を。"
+msgstr ""
+
+#. ID 1, Page 1, Line 81, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"さあ、\\.\\.出発だ。\\|\\^"
+msgstr ""
+

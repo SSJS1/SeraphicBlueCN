@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 30, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"さてと、\\.\\.さっさと交代して寝よ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 40, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ケイン、\\.\\.交代ね。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"お疲れさん。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 66, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"おい。\\.\\.今何か変な音がしなかったか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 75, Pos (0,0)
+msgid ""
+"見張り：\n"
+"別に？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 83, Pos (0,0)
+#. ID 4, Page 1, Line 117, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"おい。\\.\\.やっぱり何か聞こえるぜ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 92, Pos (0,0)
+msgid ""
+"見張り：\n"
+"俺には何も聞こえないっての。"
+msgstr ""
+
+#. ID 4, Page 1, Line 94, Pos (0,0)
+msgid ""
+"見張り：\n"
+"あんたの耳鳴か何かじゃないのか？\\.\\.\n"
+"今度医者に診て貰いな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 97, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"何だそれ。\\.\\.俺の耳が悪いってか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 99, Pos (0,0)
+msgid ""
+"見張り：\n"
+"他にどんな意味が在る？"
+msgstr ""
+
+#. ID 4, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"言っとくけどな、俺はロアノークじゃ\n"
+"火器整備＜ブラストエンジニア＞を任されてる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 104, Pos (0,0)
+msgid ""
+"見張り：\n"
+"それが如何した。"
+msgstr ""
+
+#. ID 4, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"機械整備には、微妙な振動音や反響音の違いを\n"
+"聞き分ける耳が必要不可欠だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 109, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"俺は耳が良いんだよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 111, Pos (0,0)
+msgid ""
+"見張り：\n"
+"あ、\\.\\.そう。\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 123, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"もう結構だ。\\.\\.ちょっとその辺見て来る。"
+msgstr ""
+
+#. ID 4, Page 1, Line 125, Pos (0,0)
+msgid ""
+"見張り：\n"
+"あんまり持ち場離れるなよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"うるせえ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 133, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 137, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"おい！ \\.\\.てめェ！\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 140, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"誰か居たぞ！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 154, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"畜生ッ！ \\.\\.催涙性の煙幕だ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 156, Pos (0,0)
+msgid ""
+"見張り：\n"
+"おい！ \\.\\.誰かーッ！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 158, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"あの野郎ッ！ \\.\\.何処に消えた！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 163, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何の騒ぎだ！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 165, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"煙で何も見えやしない！\\.\\.\n"
+"つーか眼が痛いって！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 168, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まさか、\\.\\.六年の祝祭者か！\\|\\^"
+msgstr ""
+

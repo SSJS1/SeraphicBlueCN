@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (9,7)
+msgid ""
+"男性：\n"
+"ああダメダメ。部外者立ち入り禁止だよ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 5, Pos (9,7)
+msgid ""
+"男性：\n"
+"只でさえ慣れない奴が入ると迷うってのに、\n"
+"近頃モンスターまで凶暴化してるからな。"
+msgstr ""
+
+#. ID 2, Page 3, Line 4, Pos (9,7)
+msgid ""
+"男性：\n"
+"イーヴル退治お疲れさん。助かったぜ。"
+msgstr ""
+
+#. ID 2, Page 3, Line 6, Pos (9,7)
+msgid ""
+"男性：\n"
+"こいつはささやかなお礼だよ。受け取ってくれ。"
+msgstr ""
+
+#. ID 2, Page 3, Line 16, Pos (9,7)
+#. ID 2, Page 3, Line 22, Pos (9,7)
+msgid ""
+"男性：\n"
+"また何かあった時には頼むぜ。"
+msgstr ""
+
+#. ID 2, Page 4, Line 3, Pos (9,7)
+msgid ""
+"男性：\n"
+"世界じゃ色々と起きてるけど、此処は相変わらずさ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 3, Pos (8,7)
+msgid ""
+"男性：\n"
+"ああ、\\.\\.話は聞いてるよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 5, Pos (8,7)
+msgid ""
+"男性：\n"
+"ヤブ医者ランゲルから依頼を受けた\n"
+"イーヴルスイーパーだろ？"
+msgstr ""
+
+#. ID 3, Page 1, Line 8, Pos (8,7)
+msgid ""
+"男性：\n"
+"部外者がノコノコ入るには危なっかしいが、\n"
+"イーヴルスイーパーなら大丈夫だな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 11, Pos (8,7)
+msgid ""
+"男性：\n"
+"バケモノ連中の片付け、宜しく頼むぜ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 9, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"あ～あ。\\|暇だ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 14, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"この前のイーヴル騒ぎ以来、此処に入ってく奴も\n"
+"めっきり少なく成っちまったな…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 20, Pos (1,0)
+msgid ""
+"少年の声：\n"
+"(なあ、\\.\\.向こうに人が居るぞ。)"
+msgstr ""
+
+#. ID 12, Page 1, Line 22, Pos (1,0)
+msgid ""
+"男の声：\n"
+"(丁度良いや。\\.\\.訊いてみるか。)"
+msgstr ""
+
+#. ID 12, Page 1, Line 37, Pos (1,0)
+msgid ""
+"中年男：\n"
+"なあ？ \\.\\.ちょっと訊いて良いか？"
+msgstr ""
+
+#. ID 12, Page 1, Line 39, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"ん？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 41, Pos (1,0)
+msgid ""
+"中年男：\n"
+"この辺で女の子を見なかったか？\\|\n"
+"二十歳ちょい過ぎで青のセミロングなんだが…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 47, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"そうだな…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 52, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"ああ、\\.\\.そう言えば。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 54, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"この前のイーヴル掃討の時に見掛けたぜ。\\|\n"
+"丁度そんな感じの姉ちゃん。"
+msgstr ""
+
+#. ID 12, Page 1, Line 57, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"でも気を失ってて、\n"
+"イーヴルスイーパーの兄ちゃんが負ぶってたぞ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 60, Pos (1,0)
+msgid ""
+"中年男：\n"
+"気を失ってた…？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 62, Pos (1,0)
+msgid ""
+"少年：\n"
+"(うわっ…。\\.\\.ヤバいな…。)\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 67, Pos (1,0)
+msgid ""
+"中年男：\n"
+"因みに訊くが、\\.\\.\"変な物\"は見なかったか？"
+msgstr ""
+
+#. ID 12, Page 1, Line 69, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"変な物？ \\|それなら見たぜ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 71, Pos (1,0)
+msgid ""
+"中年男：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 73, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"姉ちゃんの背中に大きなボロ布が掛かってたんだよ。\\|\n"
+"前に誰かが森の中に置き忘れたんだろうな。"
+msgstr ""
+
+#. ID 12, Page 1, Line 76, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"でも幾ら身体を冷やさない為とは言え、\n"
+"あんな物掛けなくても良いと思うがね。"
+msgstr ""
+
+#. ID 12, Page 1, Line 82, Pos (1,0)
+msgid ""
+"中年男：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 88, Pos (1,0)
+msgid ""
+"中年男：\n"
+"成る程考えたな…。\\|\n"
+"そうすればフェザーを隠せる…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 91, Pos (1,0)
+msgid ""
+"中年男：\n"
+"よくやったレイク。"
+msgstr ""
+
+#. ID 12, Page 1, Line 98, Pos (1,0)
+msgid ""
+"中年男：\n"
+"で、\\.\\.その後は何処へ？"
+msgstr ""
+
+#. ID 12, Page 1, Line 100, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"ランゲルの診療所に連れてくって言ってたぜ。\\|\n"
+"直ぐ南のトゥルクの街だ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 103, Pos (1,0)
+msgid ""
+"中年男：\n"
+"有難う。\\.\\.早速行ってみる。"
+msgstr ""
+
+#. ID 12, Page 1, Line 116, Pos (1,0)
+msgid ""
+"\n"
+"少年：\n"
+"おい…。\\.\\.何だかヤバいんじゃないのか…？"
+msgstr ""
+
+#. ID 12, Page 1, Line 119, Pos (1,0)
+msgid ""
+"\n"
+"中年男：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 122, Pos (1,0)
+msgid ""
+"\n"
+"中年男：\n"
+"取り敢えず接触は出来たものの、\n"
+"その後何かアクシデントが起きたんだろう。"
+msgstr ""
+
+#. ID 12, Page 1, Line 126, Pos (1,0)
+msgid ""
+"\n"
+"少年：\n"
+"そう言ってもピンキリだぜ？\\|\n"
+"今まで連絡の一つも無いなんて如何成ってんだ？"
+msgstr ""
+
+#. ID 12, Page 1, Line 130, Pos (1,0)
+msgid ""
+"\n"
+"中年男：\n"
+"さあな、\\.\\.想像も付かないぜ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 133, Pos (1,0)
+msgid ""
+"\n"
+"中年男：\n"
+"敢えて一つ挙げるんなら…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 136, Pos (1,0)
+msgid ""
+"\n"
+"少年：\n"
+"何だよ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 140, Pos (1,0)
+msgid ""
+"\n"
+"中年男：\n"
+"記憶喪失に成って、\\.\\.レイク共々彷徨ってるとかな。"
+msgstr ""
+
+#. ID 12, Page 1, Line 143, Pos (1,0)
+msgid ""
+"\n"
+"少年：\n"
+"ハッ！\\| \"白き翼の彷徨う世界\"ってか。"
+msgstr ""
+
+#. ID 12, Page 1, Line 146, Pos (1,0)
+msgid ""
+"\n"
+"少年：\n"
+"もう少しマシなジョークは出来ないのかよ？"
+msgstr ""
+
+#. ID 12, Page 1, Line 157, Pos (1,0)
+msgid ""
+"中年男：\n"
+"畜生…。\\|こんな事ならやっぱり\n"
+"付き添いを付けておけば良かったぜ…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 160, Pos (1,0)
+msgid ""
+"少年：\n"
+"そんなの今更言っても如何にも成らないだろ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 162, Pos (1,0)
+msgid ""
+"少年：\n"
+"気を利かせたのが裏目に出ちまった。\\|\n"
+"コイツはアンラッキーなんだよ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 168, Pos (1,0)
+msgid ""
+"少年：\n"
+"さあ、\\.\\.足取りを追ってみようぜ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 170, Pos (1,0)
+msgid ""
+"中年男：\n"
+"分かってる。\\.\\.\n"
+"何としても探し出すぞ…！"
+msgstr ""
+
+#. ID 12, Page 1, Line 181, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"あれ？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 184, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"今の二人…。\\|\n"
+"確かに中から出て来たんだよな…？\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 188, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"でも変だな…。\\|\n"
+"入ってく所は見掛けなかったぞ…？\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 194, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"そうだよ…。\\|\n"
+"そう言えばあの青髪の姉ちゃんも同じだ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 197, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"出て来た所は見掛けても、\\.\\.\n"
+"入ってく所は見掛けなかった…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 207, Pos (1,0)
+msgid ""
+"見張りの男：\n"
+"如何成ってんだァ？\\|\\.\\.\\^"
+msgstr ""
+

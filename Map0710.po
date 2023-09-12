@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 28, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"会いに来たわよ…。\\.\\.ヴェーネ…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何時も貴女と話はしていたけれど、\\.\\.\n"
+"こうして会うのはもう５年ぶり…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 43, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"やはり此処だけは、\n"
+"あの日から時の流れが止まっている。"
+msgstr ""
+
+#. ID 28, Page 1, Line 46, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"何から何まで、\\.\\.まるで昨日の事の様だ…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"これが…\\.\\.オリジナルヴェーネ…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"フフ…。\\.\\.素晴らしい光景だ…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"レイク、\\.\\.ユアン、\\.\\.そしてオリジナルヴェーネ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"セラフィックブルーの３人が揃って死に絶え、\n"
+"代役たるヴェーネがそれらの魂を宿し、\n"
+"一個のセラフィックブルー･セルフと成る…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"流石の私も、これは予想していなかったぞ…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"素晴らしい…。\\|\n"
+"心踊るゲームとは正に斯く在るべきもの…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"結末に於いて予定調和ながらも、\\.\\.\n"
+"その過程に於いて十全に…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 75, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[3]黙れ。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"何だと？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"お前は如何もゲオルクに似ている。"
+msgstr ""
+
+#. ID 28, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"だから何だ？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 97, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]無性に殺したいのよ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 99, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]だから黙ってなさい。"
+msgstr ""
+
+#. ID 28, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"\\S[20]………！\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 107, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"くそう…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 114, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"如何する…？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 116, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"彼女と対話して、\n"
+"魂の欠片を私の中に迎え入れるわ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 124, Pos (0,0)
+msgid ""
+"？？？：\n"
+"ソイツは困るなァ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 132, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"エンデッ!!\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 144, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"悪いね。\\.\\.感動の御対面の最中に。"
+msgstr ""
+
+#. ID 28, Page 1, Line 146, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まあ取り敢えず、\\.\\.レイクの件はご愁傷様。"
+msgstr ""
+
+#. ID 28, Page 1, Line 148, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]元気出しなよ。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"黙れェ！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 152, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"おお恐っ。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 157, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"けど完全体に成られるってのは、\n"
+"ボクとしても流石に困るんだよな…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 160, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"邪魔させて貰うぜ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 202, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]まさか…\\|お前…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 204, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 209, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[5]やっちゃった。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 214, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]お前という奴は…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 216, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"この野郎！ \\.\\.何て事を！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 218, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"今直ぐ元に戻せ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 220, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"だ～れがそんな事。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 225, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それじゃあ、\\.\\.頑張ってね。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 227, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[3]お二人さん。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 239, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"畜生ッ！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 247, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 249, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"ヴェーネが暴走する…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 256, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"こんな状態じゃ対話なんか出来ない…！\\|\n"
+"如何すれば…！"
+msgstr ""
+
+#. ID 28, Page 1, Line 274, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ヴェーネ…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 279, Pos (0,0)
+msgid ""
+"オリジナルヴェーネ：\n"
+"こう成ってしまった以上、\\.\\.\n"
+"もう止める事は出来ないわ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 282, Pos (0,0)
+msgid ""
+"オリジナルヴェーネ：\n"
+"この肉体＜器＞を倒して、\n"
+"遊離した私を取り込むのよ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 285, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 290, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"たとえルシファーであろうとも、\\.\\.\n"
+"この肉体は紛れも無い君自身の肉体なんだ…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 293, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"それを滅ぼす事なんて…！"
+msgstr ""
+
+#. ID 28, Page 1, Line 301, Pos (0,0)
+msgid ""
+"オリジナルヴェーネ：\n"
+"大丈夫よ。\\.\\.どうせ結果は同じ。"
+msgstr ""
+
+#. ID 28, Page 1, Line 303, Pos (0,0)
+msgid ""
+"オリジナルヴェーネ：\n"
+"私が貴女に回帰する事は、\n"
+"必然的に私＜オリジナル＞の完全な死を意味する…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 306, Pos (0,0)
+msgid ""
+"オリジナルヴェーネ：\n"
+"貴女達だって、初めからそれを分かった上で\n"
+"此処に足を踏み入れたのでしょう？"
+msgstr ""
+
+#. ID 28, Page 1, Line 312, Pos (0,0)
+msgid ""
+"\\>ヴェーネ／フリッツ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 318, Pos (0,0)
+msgid ""
+"オリジナルヴェーネ：\n"
+"\\S[2]さあ…\\|力を出して…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 320, Pos (0,0)
+msgid ""
+"オリジナルヴェーネ：\n"
+"\\S[2]越えて行くのよ…。\\|この骸を…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 329, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]フリッツ…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 331, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]ああ…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 340, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]来なさい！ \\.\\.ヴェーネ！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 342, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]貴女は…\\.\\.この手で眠らせる！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 26, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]御免なさい…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 29, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]何故…\\.\\.謝るの？\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 33, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]貴女は何時も私と共に在り、\\.\\.\n"
+"折に触れて私の事を気遣っていた…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 37, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]なのに私は、\\.\\.つれなくあしらってばかり…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 41, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]本当は…\\.\\.貴女の存在が\n"
+"私の大きな支えに成っていた…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 45, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]どんな事があっても、\\.\\.貴女が居て呉れる。"
+msgstr ""
+
+#. ID 28, Page 2, Line 48, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]たとえ世界中の総てを失おうとも、\\.\\.\n"
+"貴女だけは…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 52, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]決して…\\.\\.私から離れる事は無い…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 56, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]孤独でない保証…。\\|\n"
+"運命付けられた絶対のパートナー…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 60, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]その揺ぎ無い事実が、\\.\\.私の意識しない所で、\\.\\.\n"
+"静かに私を支えていて呉れた…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 64, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]だからこそ、\\.\\.私は此処まで来れた…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 69, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]今まで…\\|有難う…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 72, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]お礼なんて良いわ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 75, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]私は貴女。\\|\n"
+"支え合う関係、\\.\\.パートナーではなく…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 79, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]共に生きる存在。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 83, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]怖いの…。\\|貴女が消えてしまう此処からが…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 86, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]此処より遂に…。\\|\n"
+"私は絶対の孤独に生きるのかと…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 91, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]私は消えないわ。\\|\n"
+"貴女と一つ、\\.\\.あるべき姿に還るだけ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 95, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]私は貴女として、\\.\\.\n"
+"貴女が生き続ける限り、\\.\\.共に生き続ける。"
+msgstr ""
+
+#. ID 28, Page 2, Line 99, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]だから…\\|決して独りには成らない。"
+msgstr ""
+
+#. ID 28, Page 2, Line 103, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]恐れないで。\\|\n"
+"必ずその足で、\\.\\.何処までも歩いて行ける。"
+msgstr ""
+
+#. ID 28, Page 2, Line 107, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]そして見上げる青空を、\\.\\.\n"
+"その大きな翼で、\\.\\.何処までも飛んで行ける。"
+msgstr ""
+
+#. ID 28, Page 2, Line 112, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 116, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]さあ…。\\|私と一つに成りましょう…。\\|\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 119, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]永遠に結び合う誓いとして…。\\|\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 123, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]ええ…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 127, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]還って来て…。\\|私の中へ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 130, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]そして…\\|有難う…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 133, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]世界で最も近しい、\\.\\.私の大切な人…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 137, Pos (0,0)
+msgid ""
+"\n"
+"オリジナルヴェーネ：\n"
+"\\S[2]さよならは、\\|言わないわ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 180, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"ヴェーネ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 189, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"\\S[2]そうか…。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 194, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"クク…。\\|これで益々眼が離せん…。"
+msgstr ""
+
+#. ID 28, Page 2, Line 198, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"黙れと言った筈。\\|本当に殺すわよ。"
+msgstr ""
+
+#. ID 28, Page 2, Line 203, Pos (0,0)
+msgid ""
+"ジークベルト：\n"
+"くっ…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 219, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何なの…！ \\.\\.この警報…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 225, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"まさかッ…！\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 228, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"さっきの暴走で\n"
+"此処の装置が制御不能に陥ってる！\\|\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 231, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何ですって!?\\|\\^"
+msgstr ""
+
+#. ID 28, Page 2, Line 237, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"外に出ろ！ \\.\\.爆発するぞッ！\\|\\^"
+msgstr ""
+

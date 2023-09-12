@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 3, Pos (26,17)
+msgid ""
+"女性：\n"
+"あのペリカン…只者じゃないわね…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 3, Pos (16,34)
+msgid ""
+"男性：\n"
+"此処はメインストリート。\\.\\.この先の海上歴史館では\n"
+"この街の歴史を知る事が出来る。"
+msgstr ""
+
+#. ID 28, Page 1, Line 6, Pos (16,34)
+msgid ""
+"男性：\n"
+"中々興味深い逸話が在ってな、\n"
+"個人的には一押しだ。"
+msgstr ""
+
+#. ID 29, Page 1, Line 3, Pos (17,21)
+msgid ""
+"老婆：\n"
+"あたしゃ昔から此処に住んでるけどね、\n"
+"前はもっと雑然とした小汚い街だったんだよ。"
+msgstr ""
+
+#. ID 29, Page 1, Line 6, Pos (17,21)
+msgid ""
+"老婆：\n"
+"正に海の男共がガラクタ持ち寄って作った、\n"
+"てんで色気の無い街さ。"
+msgstr ""
+
+#. ID 29, Page 1, Line 9, Pos (17,21)
+msgid ""
+"老婆：\n"
+"それがまさか、\n"
+"こんな綺麗な街に成っちまうとはね。"
+msgstr ""
+
+#. ID 29, Page 1, Line 12, Pos (17,21)
+msgid ""
+"老婆：\n"
+"じゃじゃ馬のカラミティ･ジェーンも、\n"
+"やっぱり女の子だったのさ。"
+msgstr ""
+
+#. ID 43, Page 1, Line 3, Pos (21,9)
+msgid ""
+"船員：\n"
+"こうして見てても、極普通の街並み。\n"
+"とても海の上、プレートに乗った街とは思えない。"
+msgstr ""
+
+#. ID 43, Page 1, Line 6, Pos (21,9)
+msgid ""
+"船員：\n"
+"やはり流石はロビン。\n"
+"業界トップ、別次元の技術力だな…。"
+msgstr ""
+
+#. ID 52, Page 1, Line 3, Pos (20,26)
+msgid ""
+"サルベージャー：\n"
+"船が故障しちまってさ、\n"
+"修理の間何もやる事が無くて困ってんだよ。"
+msgstr ""
+
+#. ID 52, Page 1, Line 6, Pos (20,26)
+msgid ""
+"サルベージャー：\n"
+"この街、実は娯楽がかなり乏しくてさ。"
+msgstr ""
+
+#. ID 52, Page 1, Line 8, Pos (20,26)
+msgid ""
+"サルベージャー：\n"
+"仲間内のポーカーにも飽きちまったし、\n"
+"如何したもんか…。"
+msgstr ""
+

@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 41, Page 1, Line 4, Pos (12,8)
+msgid ""
+"女性：\n"
+"助かりました。"
+msgstr ""
+
+#. ID 41, Page 1, Line 6, Pos (12,8)
+msgid ""
+"女性：\n"
+"辛き生命を拾うとはこの事。\\|\n"
+"心より感謝致します。"
+msgstr ""
+
+#. ID 42, Page 1, Line 4, Pos (37,16)
+msgid ""
+"男性：\n"
+"もうダメかと思ってたよ…。\\|\n"
+"本当に有難う。"
+msgstr ""
+

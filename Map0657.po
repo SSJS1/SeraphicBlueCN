@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 4, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 8, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：大人し過ぎるな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 11, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"黒服：鎮静剤を打ちました。"
+msgstr ""
+
+#. ID 4, Page 1, Line 14, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"黒服：激昂状態でセラフィックトランスを起こす\n"
+"危険が在りましたので、止む無く。"
+msgstr ""
+
+#. ID 4, Page 1, Line 18, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"黒服：現在は薬剤の効果と肉体疲労、\n"
+"激昂からの反動で極度の精神沈降状態に在ります。"
+msgstr ""
+
+#. ID 4, Page 1, Line 22, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"黒服：意識は一応在りますが、\n"
+"思考は殆ど機能していません。"
+msgstr ""
+
+#. ID 4, Page 1, Line 26, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：回復するのだろうな？"
+msgstr ""
+
+#. ID 4, Page 1, Line 29, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：精神機能の失調は\n"
+"魂の移送に支障を来たすと聞いたぞ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 33, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"黒服：御心配無く。\\.\\.\n"
+"時間は掛かりますが確実に回復します。"
+msgstr ""
+
+#. ID 4, Page 1, Line 37, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：分かった。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 42, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：二人切りにして呉れ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 45, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：ラージュの運行は通常マニュアル通り。\\|\n"
+"鉄槌の準備が出来たら報せろ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 49, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"黒服：承知しました。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 55, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：しかし物言わぬ人形とは、\\.\\.寧ろ丁度良いか。"
+msgstr ""
+
+#. ID 4, Page 1, Line 58, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ゲオルク：肉体や意識など、\\.\\.無粋なものだ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 69, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"\\S[2]シリア…。\\.\\.分かるか…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 72, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"\\S[2]お前の父だぞ…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 76, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"\\S[2]可愛い可愛い…\\.\\.私のシリア…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 79, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"\\S[2]もう誰にも渡さん…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 82, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"\\S[2]お前の居ない世界など、\\.\\.手に入れる価値も無い…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 85, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"\\S[2]たとえ世界を手にしようとも、\\.\\.\n"
+"お前が居なくては満たされぬ…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 90, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"\\S[3]さあ…。\\|父を愛しておくれ…。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 93, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"\\S[3]私だけの…\\.\\.愛しいシリア…。\\|\\|\\^"
+msgstr ""
+

@@ -1,0 +1,1127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 35, Pos (0,0)
+#. ID 11, Page 1, Line 109, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"ゲオルクはもう直ぐ\\C[19]星の里メンドゥーサ\\C[0]へ\n"
+"極秘視察に出掛けるらしい。"
+msgstr ""
+
+#. ID 5, Page 1, Line 41, Pos (0,0)
+msgid ""
+"レイク：\n"
+"メンドゥーサに先回りして、\\.\n"
+"ゲオルクの到着を待って襲撃する。"
+msgstr ""
+
+#. ID 5, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"マキシム、\\.メンドゥーサへの\n"
+"行き方を教えて貰えますか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 58, Pos (0,0)
+#. ID 11, Page 1, Line 240, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"先ず目指すのは、南の山岳地帯の中に在る\n"
+"\\C[19]清き水鏡のラヴェンナ\\C[0]と呼ばれる村だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 61, Pos (0,0)
+#. ID 11, Page 1, Line 243, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"大陸の西海岸沿いから南海岸沿いを経て、\n"
+"円を描く様にして大きく回り込む。"
+msgstr ""
+
+#. ID 5, Page 1, Line 67, Pos (0,0)
+#. ID 11, Page 1, Line 249, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"ラヴェンナには\\C[19]ラヴェンナ湖\\C[0]という\n"
+"小さな湖が在って…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 70, Pos (0,0)
+#. ID 11, Page 1, Line 252, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"この湖畔から\\C[19]ラヴェンナ地下洞\\C[0]という、\n"
+"かなり大きい自然洞窟に入れる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 73, Pos (0,0)
+#. ID 11, Page 1, Line 255, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"この洞窟が山地を東西に貫いているから、\n"
+"メンドゥーサ方面に抜けるんだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 103, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"ようニクソン！ \\.\\.待ってたぜ！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"戻ってたんですね、マキシム。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 111, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"久し振りだな。\\.\\.元気してたか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ええ、\\.\\.お陰様で。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 118, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"取り敢えずカウンター越しの\n"
+"立ち話ってのもアレだな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 121, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"丁度客も捌けた所だし、\n"
+"そっちのテーブルでゆっくりと話そうぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"先ずは紹介します。"
+msgstr ""
+
+#. ID 5, Page 1, Line 137, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"彼はマキシム･リッチランド。\\.\\.\n"
+"このバーのマスターで、\n"
+"私のバウンティハンター時代の相棒…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 141, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そして何より、腕利きの情報屋です。"
+msgstr ""
+
+#. ID 5, Page 1, Line 143, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"宜しく、\\.\\.お二人さん。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 145, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"此方こそ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 152, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"しかしニクソン。\\.\\.\n"
+"突然訪ねて来るとは如何した？"
+msgstr ""
+
+#. ID 5, Page 1, Line 155, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"言っとくけど、メリルとミリィちゃんの行方なら\n"
+"相変わらずだぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 158, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それは分かってます。\\.\\.今回は別の用事で。"
+msgstr ""
+
+#. ID 5, Page 1, Line 160, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"お連れさんの絡みか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 162, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そうですね。\\.\\.\n"
+"私も首を突っ込んではいるのですが。"
+msgstr ""
+
+#. ID 5, Page 1, Line 167, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"先ずはこれを。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 177, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"飾りボタン？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 180, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"その表面に彫刻されているエンブレム、\n"
+"分かりませんか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 186, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"どれどれ…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 193, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"\\S[3]おい…\\.\\.冗談だろ…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 195, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 203, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"このボタン、\\.\\.何処で手に入れた？"
+msgstr ""
+
+#. ID 5, Page 1, Line 210, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"否、\\.\\.聞くだけ野暮ってもんか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 212, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"此奴を持ってる時点で、\n"
+"如何いう事態に成ってるかは明らかだ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 218, Pos (0,0)
+msgid ""
+"レイク：\n"
+"相当…\\.\\.ヤバい代物みたいだな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 223, Pos (0,0)
+msgid ""
+"レイク：\n"
+"教えて呉れ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 229, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"裏社会には数多くのアサシン集団が暗躍しているが、\n"
+"その中に於いても最強と恐れられる一団が在る。"
+msgstr ""
+
+#. ID 5, Page 1, Line 232, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"その名を\\C[19]黒死のレオ\\C[0]。"
+msgstr ""
+
+#. ID 5, Page 1, Line 234, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"そして奴らのエンブレムこそ、\n"
+"この飾りボタンの黒い獅子＜レオ＞だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 237, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"誰が呼んだか知らないが、\n"
+"またの名を\"世界を屠る黒獅子\"。"
+msgstr ""
+
+#. ID 5, Page 1, Line 243, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]世界を…\\.\\.屠る…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 248, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"マスターは誰なんですか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 250, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"とんでもない大物だ。\\.\\.聞いて驚け。"
+msgstr ""
+
+#. ID 5, Page 1, Line 255, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"ゲオルク･ローズバーグ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 260, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]ゲオルク…\\.\\.ローズバーグ…！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 262, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"そうだ。\\.\\.あの有名な\n"
+"ローズバーググループ会長…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 265, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"世界の頂点に君臨する男だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 270, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"そもそもこの世でビッグに成る奴は、\n"
+"必ず一度は裏社会からの洗礼を受けるもの。"
+msgstr ""
+
+#. ID 5, Page 1, Line 273, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"その洗礼に屈する奴はそれまでだし、\n"
+"洗礼を跳ね除け自分の力を見せ付ける奴は、\n"
+"更にビッグに成る。"
+msgstr ""
+
+#. ID 5, Page 1, Line 277, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"ゲオルクは、言うまでもなく後者。"
+msgstr ""
+
+#. ID 5, Page 1, Line 279, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"そして世界一ビッグなあの男の\"血肉\"を求めて\n"
+"喰らい付く裏社会の住人は後を絶たない。"
+msgstr ""
+
+#. ID 5, Page 1, Line 282, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"だからこそゲオルクは、最強のアサシン部隊\n"
+"黒死のレオに依って、そいつらを一人残らず潰してる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 285, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"そうする事で、今の彼が成り立っている。"
+msgstr ""
+
+#. ID 5, Page 1, Line 290, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]黒死のレオ…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 292, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ゲオルクの…\\.\\.アサシン部隊…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 305, Pos (0,0)
+msgid ""
+"男性：\n"
+"ユアンめ！\\.\\.\n"
+"黒死のレオから逃げられると思うなよ！"
+msgstr ""
+
+#. ID 5, Page 1, Line 308, Pos (0,0)
+msgid ""
+"男性：\n"
+"殺して遣るッ！\\.\\.\n"
+"地の果てまでも追い駆けて殺して遣るッ！"
+msgstr ""
+
+#. ID 5, Page 1, Line 311, Pos (0,0)
+msgid ""
+"女性：\n"
+"止めてください！\\.\\.\n"
+"何故そんな事を…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 314, Pos (0,0)
+msgid ""
+"男性：\n"
+"口出しするな！ \\.\\.このメス豚め！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 316, Pos (0,0)
+msgid ""
+"女性：\n"
+"\\S[5]メス…\\.\\.豚…！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 318, Pos (0,0)
+msgid ""
+"男性：\n"
+"早くその無様な姿を消せ！\\.\\.\n"
+"さもなくば…！"
+msgstr ""
+
+#. ID 5, Page 1, Line 321, Pos (0,0)
+msgid ""
+"男性：\n"
+"その膨れた腹を蹴り潰して呉れる！\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 332, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 338, Pos (0,0)
+msgid ""
+"レイク：\n"
+"おい…。\\|大丈夫か…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 345, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ちょっと…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 347, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そんな大物がマスターだと考えたら、少し怖く…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 352, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まあな…。\\.\\.確かにヤバ過ぎる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 354, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺も結構神経は図太い方だが、今回ばかりは少々…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 360, Pos (0,0)
+msgid ""
+"レイク：\n"
+"でも、\\.\\.お前は俺が守って遣る。"
+msgstr ""
+
+#. ID 5, Page 1, Line 365, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"トゥルクの森で、\\.\\.私に守られたから…？"
+msgstr ""
+
+#. ID 5, Page 1, Line 367, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"借りを返すの…？"
+msgstr ""
+
+#. ID 5, Page 1, Line 374, Pos (0,0)
+msgid ""
+"レイク：\n"
+"違うさ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 376, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何て言って良いのか、\n"
+"いまいち分からないけどな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 383, Pos (0,0)
+msgid ""
+"レイク：\n"
+"助けられたから助けるとか、\\.\\.\n"
+"そんな心算は少しも無い。"
+msgstr ""
+
+#. ID 5, Page 1, Line 391, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]有難う…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 393, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]もう…\\.\\.大丈夫だから…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 398, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 405, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"しかし分からねえ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 409, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"お前みたいな表社会＜かたぎ＞の人間が、\n"
+"一体何の所以で黒死のレオから狙われる？"
+msgstr ""
+
+#. ID 5, Page 1, Line 412, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"寧ろ連中と接点を持つ事の方が、\n"
+"或る意味で至難の業なんだぞ？"
+msgstr ""
+
+#. ID 5, Page 1, Line 420, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あのアサシンは、俺を抹殺して\n"
+"ヴェーネを連れ去ろうとしていたんだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 423, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"だから、本当はニクソンは何の関係も無いの。"
+msgstr ""
+
+#. ID 5, Page 1, Line 425, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも私達と一緒にアサシンと戦った所為で…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 427, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"其処で田舎に引き揚げればまだ助かったものを、\n"
+"飽くまで私達に協力して…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 431, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"次は私も抹殺対象＜えもの＞という事です。"
+msgstr ""
+
+#. ID 5, Page 1, Line 436, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"気にしてませんけど。\\.\\.\n"
+"昔は方々で暴れ回ったクチですから。"
+msgstr ""
+
+#. ID 5, Page 1, Line 439, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"少し不謹慎ですが、\\.\\.\n"
+"まだ残るあの頃の血が、俄かに騒いでいますよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 447, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"黒死のレオに生命を狙われる男。\\|\n"
+"その傍らには身柄を狙われる女、か…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 450, Pos (0,0)
+msgid ""
+"レイク：\n"
+"確かに俺達には、\n"
+"身に覚えなんか一切無い。"
+msgstr ""
+
+#. ID 5, Page 1, Line 453, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも現実に狙われた以上、\n"
+"これだけは言える筈。"
+msgstr ""
+
+#. ID 5, Page 1, Line 459, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"自身の知らない所で、\\.\\.私とレイクは、\n"
+"ゲオルクと何らかの接点を持っている…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 462, Pos (0,0)
+msgid ""
+"レイク：\n"
+"陽の当たらない、ジメジメした裏の深い所でな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 469, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"マキシム。\\.\\.\n"
+"何かこの事態を打開する良策は在りますか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 472, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"また無理な注文だな。\\.\\.黒死のレオだぞ？"
+msgstr ""
+
+#. ID 5, Page 1, Line 474, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"一度狙いを定めたターゲットは絶対に仕留める。\\|\n"
+"逃げても逃げても刺客を差し向けて来る。"
+msgstr ""
+
+#. ID 5, Page 1, Line 477, Pos (0,0)
+msgid ""
+"マキシム：\n"
+"世界を屠る黒獅子の、\\.\\.\n"
+"奴らは爪で在り牙なんだからな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 483, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そうですか…。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 4, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"なら、\\.\\.打つ手は一つですね。"
+msgstr ""
+
+#. ID 11, Page 1, Line 10, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"おいおい、その眼…。\\.\\.\n"
+"一番記憶に残ってるのは10年前か？"
+msgstr ""
+
+#. ID 11, Page 1, Line 13, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"イーヴル･ディザスティアに挑むだなんて言い出して、\n"
+"俺が三日掛けてお前を説得したんだよな。"
+msgstr ""
+
+#. ID 11, Page 1, Line 16, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"また昔の話を。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 18, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"あんな若気の至りを語り草にするとは、\n"
+"少々人が悪いのでは？"
+msgstr ""
+
+#. ID 11, Page 1, Line 21, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"だが同じ眼をしてるぜ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 23, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"碌でもない事を考えて、\n"
+"何処かガキみたいに胸躍らせてる眼だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 30, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"やり合う気だな、\\.\\.ゲオルクと？"
+msgstr ""
+
+#. ID 11, Page 1, Line 32, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"逃げ切れないと言うのならば、\n"
+"最早活路は一つしか無いでしょう。"
+msgstr ""
+
+#. ID 11, Page 1, Line 35, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"自ら懐に飛び込み、\\.\\.そして叩く以外には。"
+msgstr ""
+
+#. ID 11, Page 1, Line 40, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 42, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"無理だと言わないのですか？\\.\\.\n"
+"前はあれだけ連呼したのに。"
+msgstr ""
+
+#. ID 11, Page 1, Line 45, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"そいつは昔の話だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 50, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"まったく、何が引退だよ。\\.\\.\n"
+"牧師なのは格好だけじゃねえか。"
+msgstr ""
+
+#. ID 11, Page 1, Line 53, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"そうみたいですね。\\.\\.お互いに。"
+msgstr ""
+
+#. ID 11, Page 1, Line 61, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"レイク、\\.\\.ヴェーネ。\\.\\.\n"
+"これで宜しいですか？"
+msgstr ""
+
+#. ID 11, Page 1, Line 64, Pos (1,0)
+msgid ""
+"レイク：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 66, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"私達には別にエンデというもう一つの敵が居る。\\.\\.\n"
+"逃げ回った所でチェックメイトは時間の問題ね。"
+msgstr ""
+
+#. ID 11, Page 1, Line 69, Pos (1,0)
+msgid ""
+"レイク：\n"
+"それにキングまで辿り着ければ、\n"
+"俺やヴェーネとの繋がりも問いただせるしな。"
+msgstr ""
+
+#. ID 11, Page 1, Line 77, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"だったら丁度良い情報が在るぜ。\\.\\.\n"
+"先日仕入れて来たばかりの上物だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 80, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"ゲオルク絡みの上物ですか。\\.\\.\n"
+"高く付きそうですね。"
+msgstr ""
+
+#. ID 11, Page 1, Line 84, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"何言ってんだよ。\\.\\.俺とお前の仲だろ？"
+msgstr ""
+
+#. ID 11, Page 1, Line 86, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"それはまた。\\.\\.どうも有難う御座います。"
+msgstr ""
+
+#. ID 11, Page 1, Line 88, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"ツケにしとくぜ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 93, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 98, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"内容を聞きましょうか。"
+msgstr ""
+
+#. ID 11, Page 1, Line 100, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"まいどあり。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 112, Pos (1,0)
+msgid ""
+"レイク：\n"
+"メンドゥーサ？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 114, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"此処から南東の山中に在る、\n"
+"小さな辺境の村だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 120, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"この地方には昔から、この星そのものをガイアという\n"
+"一個生命体と見做す\\C[19]ガイア理論\\C[0]ってのが\n"
+"言い伝えられてる。"
+msgstr ""
+
+#. ID 11, Page 1, Line 124, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"そして村の直ぐ北にそびえる世界最大の大樹、\n"
+"\\C[19]星の大樹ラウレンティア\\C[0]を\n"
+"ガイアの生命の中核として崇拝し…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 128, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"その麓で生活する事で、ガイアと共に自然のまま\n"
+"生きて行くってスタンスを持っている。"
+msgstr ""
+
+#. ID 11, Page 1, Line 131, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"要するに自然崇拝者？"
+msgstr ""
+
+#. ID 11, Page 1, Line 133, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"その言い方だと多分怒られるんだろうが、\n"
+"まあそんなモンだ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 139, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"ところでゲオルクなんだが、この数年ロビンを強く\n"
+"プッシュしてて、今そのツケが廻って来てる。"
+msgstr ""
+
+#. ID 11, Page 1, Line 142, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"工場やラボの絡みで、自然破壊だ環境汚染だと\n"
+"\"そのテの団体\"から色々と突っつかれてるんだ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 145, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"そしてこの係争が起きてから、\n"
+"世間でのゲオルクに対するイメージが悪く成ってる。"
+msgstr ""
+
+#. ID 11, Page 1, Line 148, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"其処でゲオルクは近くイメージアップの為の\n"
+"パフォーマンスを行う予定でいる。"
+msgstr ""
+
+#. ID 11, Page 1, Line 151, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"それがメンドゥーサ視察だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 153, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"ガイアと共に在る現地住民の生き方に触れて、\n"
+"改めて自然との付き合い方を模索するってな。"
+msgstr ""
+
+#. ID 11, Page 1, Line 159, Pos (1,0)
+msgid ""
+"レイク：\n"
+"けっ、\\.\\.白々しい。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 161, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"その点は同意だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 167, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"だがなこの企画…\\.\\.少し妙なんだよ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 169, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"妙…？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 171, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"トップシークレット扱いなんだ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 173, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"こんな姑息なイメージアップ戦略、\n"
+"漏れた所で蚊に刺される様なモンなのに。"
+msgstr ""
+
+#. ID 11, Page 1, Line 176, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"しかも御付は側近中の側近、\n"
+"極少数の限られた人間だけと来てやがる。"
+msgstr ""
+
+#. ID 11, Page 1, Line 179, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"不可解な点が多過ぎるのさ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 184, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"キングが薄着で行脚に出掛けるとは…。\\|\n"
+"襲うには絶好のチャンスなのですが…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 187, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"引っ掛かるよな、\\.\\.やっぱり…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 189, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"しかし千載一遇の好機なのも事実です。"
+msgstr ""
+
+#. ID 11, Page 1, Line 191, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"如何するよ？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 193, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"お二人は、如何思いますか？"
+msgstr ""
+
+#. ID 11, Page 1, Line 195, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"仕掛けるべきね。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 197, Pos (1,0)
+msgid ""
+"レイク：\n"
+"俺も。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 199, Pos (1,0)
+msgid ""
+"レイク：\n"
+"確かに妙な所が多いが、\\.\\.\n"
+"別に俺達に罠張ってる訳じゃないんだろ？"
+msgstr ""
+
+#. ID 11, Page 1, Line 202, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"それはそうだけどな。"
+msgstr ""
+
+#. ID 11, Page 1, Line 209, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"それでは私も、二人に同じという事で。"
+msgstr ""
+
+#. ID 11, Page 1, Line 214, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"だとすると、やるべき事は一つね。"
+msgstr ""
+
+#. ID 11, Page 1, Line 216, Pos (1,0)
+msgid ""
+"レイク：\n"
+"メンドゥーサに先回りして、\\.\\.\n"
+"ゲオルクの到着を待って襲撃する。"
+msgstr ""
+
+#. ID 11, Page 1, Line 223, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"マキシム、\\.\\.メンドゥーサへの\n"
+"行き方を教えて貰えますか？"
+msgstr ""
+
+#. ID 11, Page 1, Line 227, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 238, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"大体は地図を見れば分かると思うけどな。"
+msgstr ""
+
+#. ID 11, Page 1, Line 261, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"結構な長丁場ですね。"
+msgstr ""
+
+#. ID 11, Page 1, Line 263, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"しっかり準備しとけよ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 274, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"なあニクソン。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 276, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"何でしょう？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 281, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"コイツを今生の別れにする事だけは、\n"
+"勘弁だからな。"
+msgstr ""
+
+#. ID 11, Page 1, Line 288, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"あんたら二人も同じだ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 290, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"そんな若い身の上で、選りにも選って黒死のレオに\n"
+"潰されたんじゃあ、忍びなくて仕方無いぜ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 293, Pos (1,0)
+msgid ""
+"レイク：\n"
+"当然だ。\\.\\.こっちの身に\n"
+"覚えも無いまま殺されて堪るか。"
+msgstr ""
+
+#. ID 11, Page 1, Line 296, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"ええ。\\.\\.こんな所で倒れる訳には行かない。"
+msgstr ""
+
+#. ID 11, Page 1, Line 298, Pos (1,0)
+msgid ""
+"ヴェーネ：\n"
+"そんな気がするわ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 305, Pos (1,0)
+msgid ""
+"マキシム：\n"
+"また飲みに来いよ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 307, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"ええ。\\.\\.まだボトルが残っていますからね。\\|\n"
+"確か結構な値段だった筈。"
+msgstr ""
+
+#. ID 11, Page 1, Line 310, Pos (1,0)
+msgid ""
+"ニクソン：\n"
+"空けるまでは、\\.\\.絶対に死ねません。"
+msgstr ""
+

@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 66, Pos (28,22)
+msgid ""
+"キャサリン：\n"
+"来て呉れたのですね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 68, Pos (28,22)
+msgid ""
+"レイク：\n"
+"此処が中心部なのか？"
+msgstr ""
+
+#. ID 7, Page 1, Line 70, Pos (28,22)
+msgid ""
+"キャサリン：\n"
+"それはこの先に在ります。"
+msgstr ""
+
+#. ID 7, Page 1, Line 72, Pos (28,22)
+msgid ""
+"キャサリン：\n"
+"しかしその前に、\n"
+"この星の真実を御話ししなくてはなりません。"
+msgstr ""
+
+#. ID 7, Page 1, Line 75, Pos (28,22)
+msgid ""
+"ヴェーネ：\n"
+"漸く話して呉れるのね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 80, Pos (28,22)
+msgid ""
+"キャサリン：\n"
+"星の真実と、\\.\\.\n"
+"私やベネディクタの辿った足跡は、ほぼ等価。"
+msgstr ""
+
+#. ID 7, Page 1, Line 83, Pos (28,22)
+msgid ""
+"キャサリン：\n"
+"それらを把握し意識に刻まぬ事には、\n"
+"彼女の悲しみの核を滅する事は出来ないでしょう。"
+msgstr ""
+
+#. ID 7, Page 1, Line 89, Pos (28,22)
+msgid ""
+"キャサリン：\n"
+"今こそ知ってください。"
+msgstr ""
+
+#. ID 7, Page 1, Line 91, Pos (28,22)
+msgid ""
+"キャサリン：\n"
+"空と大地と魂の軌跡。\\|\n"
+"創生者の悲しみの素顔を。"
+msgstr ""
+

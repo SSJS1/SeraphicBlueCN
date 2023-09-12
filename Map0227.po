@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 18, Page 1, Line 3, Pos (7,8)
+msgid ""
+"成り上がり者：\n"
+"この水路の向こうに在るのは正に世界の高み。"
+msgstr ""
+
+#. ID 18, Page 1, Line 5, Pos (7,8)
+msgid ""
+"成り上がり者：\n"
+"俺も何時かは上り詰めて、\n"
+"あの中で遊んで一夜を過ごすんだ。"
+msgstr ""
+
+#. ID 18, Page 2, Line 3, Pos (7,8)
+msgid ""
+"成り上がり者：\n"
+"何だか醒めちまったよ。"
+msgstr ""
+
+#. ID 18, Page 2, Line 5, Pos (7,8)
+msgid ""
+"成り上がり者：\n"
+"我武者羅に成り上がっても、\n"
+"ゲオルクみたいな末路が待ってるんじゃな…。"
+msgstr ""
+
+#. ID 18, Page 3, Line 3, Pos (7,8)
+msgid ""
+"成り上がり者：\n"
+"どんなに成り上がっても、\n"
+"世界が終わってしまえば何の意味も無い。"
+msgstr ""
+
+#. ID 18, Page 3, Line 6, Pos (7,8)
+msgid ""
+"成り上がり者：\n"
+"それよりも、今までの人生を振り返って\n"
+"それを良しと出来るか否か…。"
+msgstr ""
+
+#. ID 18, Page 3, Line 12, Pos (7,8)
+msgid ""
+"成り上がり者：\n"
+"俺は、如何なんだろうな…。"
+msgstr ""
+

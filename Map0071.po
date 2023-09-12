@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 8, Pos (9,7)
+#. Contains choice at line 2 (3 options)
+msgid "主人：いらっしゃい。"
+msgstr ""
+
+#. ID 2, Page 1, Line 9, Pos (9,7)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 2, Page 1, Line 19, Pos (9,7)
+msgid ""
+"男性：\n"
+"ハァ…。俺も外に出て泳ぎてぇ……。"
+msgstr ""
+
+#. ID 2, Page 1, Line 21, Pos (9,7)
+msgid ""
+"男性：\n"
+"そして麗しのあの娘をゲットだぜッ…!"
+msgstr ""
+
+#. ID 2, Page 1, Line 25, Pos (9,7)
+msgid ""
+"男性：\n"
+"こんなご時世だからさ。余計に水着の美女と\n"
+"ハグハグしたくなっちまうぜ、全く…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 28, Pos (9,7)
+msgid ""
+"男性：\n"
+"そういや、「ザ･バカンス」っていう\n"
+"変態の都市伝説を知ってるか？"
+msgstr ""
+
+#. ID 2, Page 1, Line 31, Pos (9,7)
+msgid ""
+"男性：\n"
+"どこかの浜辺でバカンスを満喫してる巨漢が居てだな、\\.\\.\n"
+"近寄ると、突然キレ出して\n"
+"イチモツを露出してくるって話だ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 35, Pos (9,7)
+msgid ""
+"男性：\n"
+"その\"ブツ\"を見ちまった奴は、あまりのショックで\n"
+"意識不明の重体に陥るとか何とか…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 43, Pos (9,7)
+msgid ""
+"男性：\n"
+"…まあ冗談みたいな話だが、実際にこいつに\n"
+"襲われたっていう被害が数年前から後を絶たなくてな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 46, Pos (9,7)
+msgid ""
+"男性：\n"
+"一応用心するに越したことはないと思うぜ。\n"
+"特にあんたら、美人の女揃いだしな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 58, Pos (9,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"主人：\n"
+"いらっしゃい。"
+msgstr ""
+
+#. ID 2, Page 1, Line 60, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+

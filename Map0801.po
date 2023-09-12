@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 5, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ガーデンは30分以内に\n"
+"全職員が退避完了予定との事です。"
+msgstr ""
+
+#. ID 4, Page 1, Line 8, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"分かりました。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 13, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"とは言え、\\.\\.星が死滅するのでは\n"
+"何処に居ても同じ事ですか…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 19, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"速過ぎますな…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 21, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"ええ…。\\|アイシャの空の侵食速度…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 23, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"先刻までの緩行状態から一変、\n"
+"侵食が見て取れるレベルまでに…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"試算＜シミュレーション＞を遥かに超えている…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"現場で何かアクシデントが…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 35, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"おいジェラール、\\.\\.滅多な事を言うな。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 37, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"あの空にはミネルヴァ様もいらっしゃるのだぞ？"
+msgstr ""
+
+#. ID 4, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"も、\\.\\.申し訳御座いません…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"しかしこの状況…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 47, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"皆まで言うな。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 49, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ミネルヴァ様…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 62, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"如何なさいますか、\\.\\.デイジー殿。"
+msgstr ""
+
+#. ID 4, Page 1, Line 64, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"このまま侵食が進むのならば、\n"
+"終末の予告など最早意味を為さぬかと。"
+msgstr ""
+
+#. ID 4, Page 1, Line 67, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"寧ろ無為に狂乱を招くだけです。"
+msgstr ""
+
+#. ID 4, Page 1, Line 69, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"知らぬが仏ですか。\\.\\.\n"
+"知る権利を差し置いて。"
+msgstr ""
+
+#. ID 4, Page 1, Line 72, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"一理在るかと。"
+msgstr ""
+
+#. ID 4, Page 1, Line 77, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"それでも、\\.\\.真実は伝えます。"
+msgstr ""
+
+#. ID 4, Page 1, Line 79, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"この世界に生きている以上、\\.\\.\n"
+"それを知る事は権利であり義務の筈。"
+msgstr ""
+
+#. ID 4, Page 1, Line 82, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"或いは彼女達の戦いを、\\.\\.犠牲にされた日々を。\\|\n"
+"闇に葬られた裏方仕事に貶めない為にも。"
+msgstr ""
+
+#. ID 4, Page 1, Line 85, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"この真実は、\\.\\.須らく、\\.\\.そして遍く、\\.\\.\n"
+"知られる必要が在るでしょう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 88, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"英傑を賞賛出来ない社会など、\n"
+"たとえ今其処に在る危機を乗り越えた所で、\n"
+"遠くない将来に自壊の結末を迎えるのですから。"
+msgstr ""
+
+#. ID 4, Page 1, Line 95, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"準備は？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 97, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"広報は既に。\\.\\.\n"
+"各地方の部隊も、間も無く配置完了します。"
+msgstr ""
+
+#. ID 4, Page 1, Line 103, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"それでは、その完了を待って\n"
+"私から声明を発表しましょう。"
+msgstr ""
+
+#. ID 4, Page 1, Line 106, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"まだ確実ではないが、\\.\\.\n"
+"しかし充分に迎え得る極近い将来として…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 109, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"我々は世界の終末を見るだろうと。"
+msgstr ""
+
+#. ID 4, Page 1, Line 114, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"そして、\\.\\.それでもまだ其処に\n"
+"一片の希望の翼が存在しているとも。"
+msgstr ""
+
+#. ID 4, Page 1, Line 121, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"全ては…\\.\\.ヴェーネの双肩もとい双翼に\n"
+"係っているという訳ですな…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"やって呉れるでしょうか…。\\.\\.\n"
+"ヴェーネは…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 135, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"それは分かりません。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 137, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"最早全ては、我々など遠く及ばぬ\n"
+"空の彼方の出来事なのですから。"
+msgstr ""
+
+#. ID 4, Page 1, Line 140, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"この眼で見届け、\\|心からの祈りを馳せる以外、\\|\n"
+"一体何が出来るでしょうか。"
+msgstr ""
+
+#. ID 4, Page 1, Line 147, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"我々は彼女から余りにも多くを奪い、\\.\\.\n"
+"余りにも多くを背負わせました。"
+msgstr ""
+
+#. ID 4, Page 1, Line 150, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"それでも彼女は、\\.\\.あの空に赴いて呉れた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 155, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"もうこれ以上、彼女に何を求める事も、\n"
+"私には出来ません。"
+msgstr ""
+
+#. ID 4, Page 1, Line 158, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 160, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"たとえ既に彼女の翼が、\\.\\.\n"
+"青空を飛べぬ程に朽ち果てていようとも…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 166, Pos (0,0)
+msgid ""
+"オーウェン：\n"
+"否定出来ませんな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 171, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"私も同じ意見です…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 173, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"私が彼女の立場なら、\\.\\.\n"
+"或いは途中で使命を放棄していたかも…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 176, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"否…\\|きっと…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 185, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"ヴェーネ･アンスバッハ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 187, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"あの闇の空の彼方で、\\.\\.\n"
+"貴女は今、何を思っているのですか…？"
+msgstr ""
+
+#. ID 4, Page 1, Line 193, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"願わくば、天使の舞う青空を。\\|\n"
+"輝かしい、その意志を湛えつつ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 199, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"貴女には、\\.\\.幸せに成る権利が有るのですよ。"
+msgstr ""
+

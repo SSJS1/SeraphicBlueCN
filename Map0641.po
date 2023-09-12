@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 3, Pos (5,9)
+msgid ""
+"ヴェーネ：\n"
+"消えて逝った数々の想いの為にも、\n"
+"この私の手で必ず戦いに終止符を打ってみせる。"
+msgstr ""
+
+#. ID 8, Page 1, Line 6, Pos (5,9)
+msgid ""
+"ヴェーネ：\n"
+"それがセラフィックブルーで在る私の責務だから。"
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (13,11)
+msgid ""
+"ミネルヴァ：\n"
+"こんな所で足止めを喰ってる場合じゃないわ。\\.\\.\n"
+"さっさと片付けてラージュを止めるのよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 11, Pos (13,11)
+msgid ""
+"ミネルヴァ：\n"
+"フェジテの血を持つ者が、\n"
+"この運命の中心にその身を投じる。"
+msgstr ""
+
+#. ID 9, Page 1, Line 14, Pos (13,11)
+msgid ""
+"ミネルヴァ：\n"
+"かつてレイクと出会ったのは、\n"
+"やはり偶然ではなく一種の\"導き\"だったのかもね。"
+msgstr ""
+
+#. ID 10, Page 1, Line 4, Pos (12,15)
+msgid ""
+"フォクシー：\n"
+"さっさと連中を片付けるよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 6, Pos (12,15)
+msgid ""
+"フォクシー：\n"
+"それでコイツをゲオルクのケツの穴に\n"
+"ブチ込んでやるのさ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 13, Pos (12,15)
+msgid ""
+"フォクシー：\n"
+"ケイオスの売女だったアタシが、\n"
+"何に首突っ込んでんだか…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 16, Pos (12,15)
+msgid ""
+"フォクシー：\n"
+"別にいいけどね。\n"
+"あの街で腐るよりはマシだよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 19, Pos (12,15)
+msgid ""
+"フォクシー：\n"
+"突っ込まれるより突っ込む方が、\n"
+"時にはイケてるって事さ。"
+msgstr ""
+
+#. ID 25, Page 1, Line 10, Pos (5,11)
+#. Contains choice at line 2 (3 options)
+msgid "店員:一通り揃ってます。お役に立てれば良いのですが。"
+msgstr ""
+
+#. ID 25, Page 1, Line 11, Pos (5,11)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 25, Page 1, Line 19, Pos (5,11)
+msgid ""
+"店員：\n"
+"流石に、素早かったり火力の高い敵が\n"
+"多いみたいですね。"
+msgstr ""
+
+#. ID 25, Page 1, Line 30, Pos (5,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"店員：\n"
+"一通り揃ってます。お役に立てれば良いのですが。"
+msgstr ""
+
+#. ID 25, Page 1, Line 32, Pos (5,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+
+#. ID 26, Page 1, Line 4, Pos (6,7)
+msgid ""
+"ヴィルジニー：\n"
+"こんな所で苦戦なんて言わないわよね？\\.\\.\n"
+"まだまだ先は長いのだから。"
+msgstr ""
+
+#. ID 26, Page 1, Line 7, Pos (6,7)
+msgid ""
+"ヴィルジニー：\n"
+"そう…。\\.\\.\n"
+"黒獅子の喉元に喰らい付くまでには、ね。"
+msgstr ""
+
+#. ID 26, Page 1, Line 14, Pos (6,7)
+msgid ""
+"ヴィルジニー：\n"
+"この運命に於いて、\n"
+"シリアはある種の\"始まり\"だった。"
+msgstr ""
+
+#. ID 26, Page 1, Line 17, Pos (6,7)
+msgid ""
+"ヴィルジニー：\n"
+"そう…。\\.\\.始まりと共に終わって逝った生命…。"
+msgstr ""
+
+#. ID 26, Page 1, Line 19, Pos (6,7)
+msgid ""
+"ヴィルジニー：\n"
+"そんなシリアの姿を受け継いだ私が、\n"
+"この運命の決着に挑もうとしている訳だ。"
+msgstr ""
+
+#. ID 26, Page 1, Line 25, Pos (6,7)
+msgid ""
+"ヴィルジニー：\n"
+"私の知識に刻んでおくわ。\\.\\.\n"
+"運命という、その二文字を。"
+msgstr ""
+

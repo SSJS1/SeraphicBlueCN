@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 15, Page 1, Line 4, Pos (18,11)
+msgid ""
+"海の男：\n"
+"ふー忙しい忙しい。"
+msgstr ""
+
+#. ID 15, Page 1, Line 6, Pos (18,11)
+msgid ""
+"海の男：\n"
+"毎回エレベーターを昇り降りするのが面倒だから、\n"
+"俺なんかは決定キーとかで演出を飛ばしてるよ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 9, Pos (18,11)
+msgid ""
+"海の男：\n"
+"仕事の効率アップになるし、快適だぜ。"
+msgstr ""
+

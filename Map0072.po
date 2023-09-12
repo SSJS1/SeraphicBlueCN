@@ -1,0 +1,584 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 32, Page 1, Line 11, Pos (0,0)
+#. ID 36, Page 1, Line 7, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"フェジテ城内には、\n"
+"ワンフロアを殆ど占める程の大きな美術室が在る。"
+msgstr ""
+
+#. ID 32, Page 1, Line 14, Pos (0,0)
+#. ID 36, Page 1, Line 10, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"そしてその中でも最も目立つ場所。\\|\n"
+"その時勢で最も貴重とするべき作品の置かれる場所。"
+msgstr ""
+
+#. ID 32, Page 1, Line 17, Pos (0,0)
+#. ID 36, Page 1, Line 13, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"数多の調度品や芸術品を差し置いて、\n"
+"今は其処に、一点の簡素な肖像画が飾られている。"
+msgstr ""
+
+#. ID 32, Page 1, Line 20, Pos (0,0)
+#. ID 36, Page 1, Line 16, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"あの場所に集まった際、私が思い立って\n"
+"絵師を連れて来て描かせた物だ。"
+msgstr ""
+
+#. ID 32, Page 1, Line 26, Pos (0,0)
+#. ID 36, Page 1, Line 22, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"レイク達三人の親子が眠っている、\n"
+"空に近いあの丘…。"
+msgstr ""
+
+#. ID 32, Page 1, Line 29, Pos (0,0)
+#. ID 36, Page 1, Line 25, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"運命の始まりと終わりを空に還す墓標の隣で、\n"
+"彼女が見せて呉れたあの表情＜こころ＞…。"
+msgstr ""
+
+#. ID 32, Page 1, Line 32, Pos (0,0)
+#. ID 36, Page 1, Line 28, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"それを留めたこの絵の前で、\n"
+"私達は持ち合わせた全ての語り言葉を失うだろう。"
+msgstr ""
+
+#. ID 32, Page 1, Line 35, Pos (0,0)
+#. ID 36, Page 1, Line 31, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"そう、総てはこの絵が語ってくれる。"
+msgstr ""
+
+#. ID 32, Page 1, Line 37, Pos (0,0)
+#. ID 36, Page 1, Line 33, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"幾千万の言葉よりも饒舌に。\\|\n"
+"どれだけの無言よりも静やかに。"
+msgstr ""
+
+#. ID 32, Page 1, Line 40, Pos (0,0)
+#. ID 36, Page 1, Line 36, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"そして如何なる語り手よりも心を込め、\n"
+"真実と情感を携えて。"
+msgstr ""
+
+#. ID 32, Page 1, Line 43, Pos (0,0)
+#. ID 36, Page 1, Line 39, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼女にまつわる、\\.\\.数々の物語を。\\|\\|\\^"
+msgstr ""
+
+#. ID 32, Page 1, Line 57, Pos (0,0)
+#. ID 36, Page 1, Line 53, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"確かに世界は救われた。\\|\n"
+"確かに彼女は生きる意志を持った。"
+msgstr ""
+
+#. ID 32, Page 1, Line 61, Pos (0,0)
+#. ID 36, Page 1, Line 57, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"そう、\\.\\.あのカオスと現世の狭間の場所で。"
+msgstr ""
+
+#. ID 32, Page 1, Line 64, Pos (0,0)
+#. ID 36, Page 1, Line 60, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"レイク、\\.\\.ユアン、\\.\\.そしてフリッツ。\\|\n"
+"大切な人々の想いに包まれて。"
+msgstr ""
+
+#. ID 32, Page 1, Line 68, Pos (0,0)
+#. ID 36, Page 1, Line 64, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"彼女は無よりも有を選択した。"
+msgstr ""
+
+#. ID 32, Page 1, Line 72, Pos (0,0)
+#. ID 36, Page 1, Line 68, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"だが、想いは魔法ではない。\\|\n"
+"全ての闇をたちどころに払う訳ではない。"
+msgstr ""
+
+#. ID 32, Page 1, Line 76, Pos (0,0)
+#. ID 36, Page 1, Line 72, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"彼女が生きる事を決めたのも、\\.\\.\n"
+"至極ドライに言えば、その場限りでの感情。"
+msgstr ""
+
+#. ID 32, Page 1, Line 80, Pos (0,0)
+#. ID 36, Page 1, Line 76, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"根本の闇は消えていない。\\|\n"
+"一時的に温もりを得たに過ぎないのだから。"
+msgstr ""
+
+#. ID 32, Page 1, Line 85, Pos (0,0)
+#. ID 36, Page 1, Line 81, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"でも…。\\|\\^"
+msgstr ""
+
+#. ID 32, Page 1, Line 88, Pos (0,0)
+#. ID 36, Page 1, Line 84, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"たかが一歩か。\\.\\.されど一歩か。\\.\\.\n"
+"そう問われたなら、私は希望を見て後者を支持しよう。"
+msgstr ""
+
+#. ID 32, Page 1, Line 92, Pos (0,0)
+#. ID 36, Page 1, Line 88, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"ヴェーネはあの時、\\.\\.\n"
+"生きる事へ、大きく一歩だけ踏み出した。"
+msgstr ""
+
+#. ID 32, Page 1, Line 96, Pos (0,0)
+#. ID 36, Page 1, Line 92, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"その胸に、温かい想いと冷たい闇を抱き締めて。"
+msgstr ""
+
+#. ID 32, Page 1, Line 106, Pos (0,0)
+#. ID 36, Page 1, Line 102, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"あの後、私達は責任問題の意味も含めて、\n"
+"彼女にカウンセリングプログラムを用意した。"
+msgstr ""
+
+#. ID 32, Page 1, Line 110, Pos (0,0)
+#. ID 36, Page 1, Line 106, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"またプログラム外ではフリッツが率先し、\n"
+"凡そプライベートを投げ打ってケアに努めた。"
+msgstr ""
+
+#. ID 32, Page 1, Line 115, Pos (0,0)
+#. ID 36, Page 1, Line 111, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"彼女を蝕む数々の闇。"
+msgstr ""
+
+#. ID 32, Page 1, Line 118, Pos (0,0)
+#. ID 36, Page 1, Line 114, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"一つはエルやケイン達に見る事例。"
+msgstr ""
+
+#. ID 32, Page 1, Line 121, Pos (0,0)
+#. ID 36, Page 1, Line 117, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"エルを生み出す原因であると同時に、\\.\\.\n"
+"事実としてケイン達との共感も獲得した厭世観。"
+msgstr ""
+
+#. ID 32, Page 1, Line 126, Pos (0,0)
+#. ID 36, Page 1, Line 122, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"またクナース･ワースに沿う事例。"
+msgstr ""
+
+#. ID 32, Page 1, Line 129, Pos (0,0)
+#. ID 36, Page 1, Line 125, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"自らの運命に対する順応。\\|\n"
+"セラフィックブルーとして確立された自己の存在意義。"
+msgstr ""
+
+#. ID 32, Page 1, Line 133, Pos (0,0)
+#. ID 36, Page 1, Line 129, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"詰まる所、運命の終焉と同時に\n"
+"泡沫と消えて無くなった自己の存在意義。"
+msgstr ""
+
+#. ID 32, Page 1, Line 137, Pos (0,0)
+#. ID 36, Page 1, Line 133, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"完璧なまでに失われた、生きる道。"
+msgstr ""
+
+#. ID 32, Page 1, Line 141, Pos (0,0)
+#. ID 36, Page 1, Line 137, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"そして最後に、\\.\\.進行性カーネル剥離症。"
+msgstr ""
+
+#. ID 32, Page 1, Line 144, Pos (0,0)
+#. ID 36, Page 1, Line 140, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"唯これに関しては、\n"
+"彼女の反応は予想を裏切って静かだった。"
+msgstr ""
+
+#. ID 32, Page 1, Line 148, Pos (0,0)
+#. ID 36, Page 1, Line 144, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"生を謳歌する身に為された宣告でなく、\n"
+"生ける屍に近付く身に為された宣告だからか。"
+msgstr ""
+
+#. ID 32, Page 1, Line 152, Pos (0,0)
+#. ID 36, Page 1, Line 148, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"\"ほら来た\"と言わんばかりの冷たい反応。"
+msgstr ""
+
+#. ID 32, Page 1, Line 155, Pos (0,0)
+#. ID 36, Page 1, Line 151, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"その事を私に語ってみせる彼女の眼差しは、\n"
+"冷たく淀んでいた。"
+msgstr ""
+
+#. ID 32, Page 1, Line 159, Pos (0,0)
+#. ID 36, Page 1, Line 155, Pos (4,0)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"私は、\\.\\.悲しかった。\\|\\^"
+msgstr ""
+
+#. ID 32, Page 1, Line 170, Pos (0,0)
+#. ID 36, Page 1, Line 166, Pos (4,0)
+msgid ""
+"自殺未遂３回。\\|\n"
+"施設収容期間延べ２ヶ月。"
+msgstr ""
+
+#. ID 32, Page 1, Line 172, Pos (0,0)
+#. ID 36, Page 1, Line 168, Pos (4,0)
+msgid ""
+"またエンヴィ･ケイオスにて、\n"
+"麻薬の不法所持及び\n"
+"投与の現行犯で保安局に\n"
+"身柄確保されたのが１回。"
+msgstr ""
+
+#. ID 32, Page 1, Line 176, Pos (0,0)
+#. ID 36, Page 1, Line 172, Pos (4,0)
+msgid ""
+"但しこの街では昔から\n"
+"\"身内\"が羽目を外すので、\n"
+"本件も\"カード\"を切って\n"
+"事無きを得た。"
+msgstr ""
+
+#. ID 32, Page 1, Line 181, Pos (0,0)
+#. ID 36, Page 1, Line 177, Pos (4,0)
+msgid ""
+"現在もプログラムは継続中。\\|\n"
+"成果は一応出てはいる。"
+msgstr ""
+
+#. ID 32, Page 1, Line 183, Pos (0,0)
+#. ID 36, Page 1, Line 179, Pos (4,0)
+msgid ""
+"主な\"好ましくない\"出来事は、\n"
+"何れもプログラム開始から\n"
+"１年以内に起こり…。"
+msgstr ""
+
+#. ID 32, Page 1, Line 186, Pos (0,0)
+#. ID 36, Page 1, Line 182, Pos (4,0)
+msgid ""
+"それ以降のこの１年は、\n"
+"緩やかな回復傾向が\n"
+"認められる。"
+msgstr ""
+
+#. ID 32, Page 1, Line 189, Pos (0,0)
+#. ID 36, Page 1, Line 185, Pos (4,0)
+msgid ""
+"但しバイオリズム周期や\n"
+"天候等の外的要因から、\n"
+"一時的な症状後退が\n"
+"見受けられる事も多い。"
+msgstr ""
+
+#. ID 32, Page 1, Line 194, Pos (0,0)
+#. ID 36, Page 1, Line 190, Pos (4,0)
+msgid ""
+"またプログラム外の話だが、\n"
+"フリッツの方の磨耗が\n"
+"いよいよ顕著に見えて来た。"
+msgstr ""
+
+#. ID 32, Page 1, Line 197, Pos (0,0)
+#. ID 36, Page 1, Line 193, Pos (4,0)
+msgid ""
+"場合に依っては彼に対しても\n"
+"新たにプログラムを用意する\n"
+"事に成るだろう。"
+msgstr ""
+
+#. ID 32, Page 1, Line 201, Pos (0,0)
+#. ID 36, Page 1, Line 197, Pos (4,0)
+msgid ""
+"総合的な結論として、\\.\\.\n"
+"全ては暗い霧の中。"
+msgstr ""
+
+#. ID 32, Page 1, Line 203, Pos (0,0)
+#. ID 36, Page 1, Line 199, Pos (4,0)
+msgid ""
+"未来は見えず。\\|\n"
+"先行きは保証されず。"
+msgstr ""
+
+#. ID 32, Page 1, Line 205, Pos (0,0)
+#. ID 36, Page 1, Line 201, Pos (4,0)
+msgid ""
+"死の崖淵から幾らか歩いて\n"
+"遠ざかったが、\\.\\.\n"
+"走れば簡単に\n"
+"飛び降りられる距離。"
+msgstr ""
+
+#. ID 32, Page 1, Line 209, Pos (0,0)
+#. ID 36, Page 1, Line 205, Pos (4,0)
+msgid "そんな場所。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 32, Page 1, Line 216, Pos (0,0)
+#. ID 36, Page 1, Line 212, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"例えば自殺とは悪行なのか否か。\\|\n"
+"彼女の事を思う度に、私は考える。"
+msgstr ""
+
+#. ID 32, Page 1, Line 219, Pos (0,0)
+#. ID 36, Page 1, Line 215, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"今は勿論自信が持てないし、\n"
+"今後も結論を下す事は出来ないだろう。"
+msgstr ""
+
+#. ID 32, Page 1, Line 222, Pos (0,0)
+#. ID 36, Page 1, Line 218, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"或いはこんなプログラム、\n"
+"自殺を禁忌として回避する様な行いなど止めて、\n"
+"彼女を放任しておくべきなのかも知れない。"
+msgstr ""
+
+#. ID 32, Page 1, Line 226, Pos (0,0)
+#. ID 36, Page 1, Line 222, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"私は所詮彼女ではないし、\n"
+"彼女にとって世界とは原則として絶望なのだし。"
+msgstr ""
+
+#. ID 32, Page 1, Line 229, Pos (0,0)
+#. ID 36, Page 1, Line 225, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"事実、私としても一つの決意を抱いている。"
+msgstr ""
+
+#. ID 32, Page 1, Line 231, Pos (0,0)
+#. ID 36, Page 1, Line 227, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"\"最悪の結末\"が訪れたならば、\\.\\.\n"
+"私は涙を拭き、\\.\\.彼女の旅立ちを祝福しようと。"
+msgstr ""
+
+#. ID 32, Page 1, Line 235, Pos (0,0)
+#. ID 36, Page 1, Line 231, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"でも…。\\|\\^"
+msgstr ""
+
+#. ID 32, Page 1, Line 237, Pos (0,0)
+#. ID 36, Page 1, Line 233, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"全てが不確かなこの闇の中、\n"
+"真実として静かに息衝いている、彼女の肖像。"
+msgstr ""
+
+#. ID 32, Page 1, Line 240, Pos (0,0)
+#. ID 36, Page 1, Line 236, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"私はこの絵に笑い掛け、\n"
+"胸の内に温かな希望を抱き締めよう。"
+msgstr ""
+
+#. ID 32, Page 1, Line 244, Pos (0,0)
+#. ID 36, Page 1, Line 240, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[3]だって…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 32, Page 1, Line 285, Pos (0,0)
+#. ID 36, Page 1, Line 250, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"そうそう。\\.\\.話は変わるけれど…。"
+msgstr ""
+
+#. ID 32, Page 1, Line 287, Pos (0,0)
+#. ID 36, Page 1, Line 252, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"この美術室の中で唯一、\\.\\.\n"
+"この絵には題名が付けられてない。"
+msgstr ""
+
+#. ID 32, Page 1, Line 293, Pos (0,0)
+#. ID 36, Page 1, Line 258, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"此処に描かれた人が、\n"
+"もう何者にも規定されず永遠に自由であれ。"
+msgstr ""
+
+#. ID 32, Page 1, Line 296, Pos (0,0)
+#. ID 36, Page 1, Line 261, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"そういう、一種の願掛けみたいな意味も\n"
+"在るのだけれど…。"
+msgstr ""
+
+#. ID 32, Page 1, Line 299, Pos (0,0)
+#. ID 36, Page 1, Line 264, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"それ以前に、一々名前を付ける必要も無い。"
+msgstr ""
+
+#. ID 32, Page 1, Line 301, Pos (0,0)
+#. ID 36, Page 1, Line 266, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"若しこの絵と向き合ったなら、\\.\\.\n"
+"もう題名など如何でも良い事なのだから。"
+msgstr ""
+
+#. ID 32, Page 1, Line 307, Pos (0,0)
+#. ID 36, Page 1, Line 272, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]それでも…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 32, Page 1, Line 314, Pos (0,0)
+#. ID 36, Page 1, Line 279, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]それでも敢えて口に出すのならば…。\\|\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 32, Page 1, Line 316, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]題名は、\\|これを措いて他に無いわね。\\|\\|\\^"
+msgstr ""
+
+#. ID 33, Page 1, Line 9, Pos (1,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\c[10]【エンディング 5/5（スタッフロール）】 \\c[0]\n"
+"このイベントをスキップしますか？"
+msgstr ""
+
+#. ID 33, Page 1, Line 11, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 36, Page 1, Line 281, Pos (4,0)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]題名は、\\|これを置いて他に無いわね。\\|\\|\\^"
+msgstr ""
+

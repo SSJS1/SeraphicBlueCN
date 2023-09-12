@@ -1,0 +1,819 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 7, Pos (0,0)
+msgid ""
+"？？？：\n"
+"おい！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 12, Pos (0,0)
+msgid ""
+"？？？：\n"
+"おい、\\.\\.起きんか！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 17, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]何だよ…。\\|こんな朝早く…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 22, Pos (0,0)
+msgid ""
+"？？？：\n"
+"早くしないと行ってしまうぞ！"
+msgstr ""
+
+#. ID 8, Page 1, Line 24, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]うぜェ…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 29, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[5]ふあァァァ…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 31, Pos (0,0)
+msgid ""
+"村長：\n"
+"まったく…！ \\.\\.何という寝起きの悪い…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 33, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]んだよ…。\\.\\.誰かと思えば爺さんか…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 35, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]こんな朝っぱらから何しやがる…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 37, Pos (0,0)
+msgid ""
+"村長：\n"
+"ゲオルクだ！ \\.\\.ゲオルクが来たぞ！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 42, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ん…？ \\.\\.ゲオルク…？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 47, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 52, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ゲオルクだと!?\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 61, Pos (0,0)
+msgid ""
+"レイク：\n"
+"奴は何処だッ！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 63, Pos (0,0)
+msgid ""
+"村長：\n"
+"ラウレンティアに向かった。"
+msgstr ""
+
+#. ID 8, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"向かったって…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 67, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何で足止めしといて呉れなかったんだ…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 69, Pos (0,0)
+msgid ""
+"村長：\n"
+"無理言うな。\\.\\.\n"
+"物騒な黒服連中を連れておったのだ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 72, Pos (0,0)
+msgid ""
+"村長：\n"
+"あれ以上楯突いたら、\n"
+"此方の身が危ういというもの。"
+msgstr ""
+
+#. ID 8, Page 1, Line 78, Pos (0,0)
+msgid ""
+"村長：\n"
+"だが然程時間は経っていない。\\.\\.\n"
+"今直ぐ後を追えば…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"その必要は在りません。"
+msgstr ""
+
+#. ID 8, Page 1, Line 90, Pos (0,0)
+msgid ""
+"レイク：\n"
+"奴は眼と鼻の先なんだぜ？"
+msgstr ""
+
+#. ID 8, Page 1, Line 92, Pos (0,0)
+msgid ""
+"レイク：\n"
+"奴らは俺達が此処に来てる事なんて知らない。\\|\n"
+"今から追えば完全な奇襲攻撃が出来る。"
+msgstr ""
+
+#. ID 8, Page 1, Line 95, Pos (0,0)
+msgid ""
+"レイク：\n"
+"このチャンスを見逃すのか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 100, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"いいえ。\\.\\.ニクソンの言う通りだわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"良く考えてみて。"
+msgstr ""
+
+#. ID 8, Page 1, Line 105, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ゲオルクは\"メンドゥーサ視察\"の目的で\n"
+"やって来る事に成っていた…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 108, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"しかし蓋を開けてみれば、\\.\\.彼らはこのメンドゥーサを\n"
+"早々に素通り、ラウレンティアに行ってしまった。"
+msgstr ""
+
+#. ID 8, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"変だと思わない？"
+msgstr ""
+
+#. ID 8, Page 1, Line 116, Pos (0,0)
+msgid ""
+"レイク：\n"
+"確かに変だな…。\\|\n"
+"マキシムの情報がガセだったのか…？"
+msgstr ""
+
+#. ID 8, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それは在りません。\\.\\.\n"
+"新鮮と確実が彼のモットーです。"
+msgstr ""
+
+#. ID 8, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"彼の情報は紛れも無いローズバーググループの\n"
+"トップシークレット。"
+msgstr ""
+
+#. ID 8, Page 1, Line 125, Pos (0,0)
+msgid ""
+"レイク：\n"
+"詰まり如何いう事だ？"
+msgstr ""
+
+#. ID 8, Page 1, Line 131, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"二重の情報操作。"
+msgstr ""
+
+#. ID 8, Page 1, Line 133, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"その情報が門外不出なのは勿論、\\.\\.\n"
+"それでも万が一漏れた時の事まで考えて…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 136, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そのトップシークレットの情報すらも\n"
+"フェイクにして在った。"
+msgstr ""
+
+#. ID 8, Page 1, Line 139, Pos (0,0)
+msgid ""
+"レイク：\n"
+"要するにガセネタだろ？"
+msgstr ""
+
+#. ID 8, Page 1, Line 141, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ガセで在って、ガセではないのです。\\|\n"
+"幹部もその情報を公式の物として受け取っている\n"
+"筈ですから。"
+msgstr ""
+
+#. ID 8, Page 1, Line 145, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私達も、\\.\\.そしてグループの幹部も、\\.\\.\n"
+"皆そのフェイクに騙されていたのよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 148, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ゲオルク唯一人に依って。"
+msgstr ""
+
+#. ID 8, Page 1, Line 153, Pos (0,0)
+msgid ""
+"レイク：\n"
+"成る程…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 155, Pos (0,0)
+msgid ""
+"レイク：\n"
+"メンドゥーサ視察なんてのは大嘘で、\n"
+"只取り巻きを此処に連れて来る為の口実。"
+msgstr ""
+
+#. ID 8, Page 1, Line 158, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そして肝心要の真の目的は、\n"
+"あの野郎の頭の中。"
+msgstr ""
+
+#. ID 8, Page 1, Line 161, Pos (0,0)
+msgid ""
+"レイク：\n"
+"だから万が一情報漏れが在っても、\n"
+"真の目的は絶対にバレないって寸法か。"
+msgstr ""
+
+#. ID 8, Page 1, Line 164, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 166, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"今頃向こうでも、皆訳の分からないまま\n"
+"ゲオルクに付いて行ってる状態じゃないかしら。"
+msgstr ""
+
+#. ID 8, Page 1, Line 169, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"恐ろしい程に隙の無い男ですよ、ゲオルクは。"
+msgstr ""
+
+#. ID 8, Page 1, Line 174, Pos (0,0)
+msgid ""
+"レイク：\n"
+"しかし、そうだとするとヤバい話だな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 176, Pos (0,0)
+msgid ""
+"レイク：\n"
+"其処までして本当の目的を隠したんだ。\n"
+"只事で終わる訳が無い。"
+msgstr ""
+
+#. ID 8, Page 1, Line 179, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ええ。\\.\\.超一流で在る筈の側近にさえ\n"
+"フェイクを流すなんて、常軌を逸しているわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 185, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ゲオルク…。\\.\\.\n"
+"一体何を企んでいると言うの…？"
+msgstr ""
+
+#. ID 8, Page 1, Line 193, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"まあ、取り敢えずは…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 202, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"村長。\\.\\.お手数ですがラウレンティアに就いて\n"
+"教えて頂けませんか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 205, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ゲオルクがこういう出方をした以上、\n"
+"私達も在る程度の知識を得ておく必要が在ります。"
+msgstr ""
+
+#. ID 8, Page 1, Line 208, Pos (0,0)
+msgid ""
+"村長：\n"
+"分かった。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 210, Pos (0,0)
+msgid ""
+"村長：\n"
+"だが此処で立ち話も何だ。\\.\\.\n"
+"また私の家で話そうか。"
+msgstr ""
+
+#. ID 8, Page 2, Line 10, Pos (0,0)
+#. ID 8, Page 2, Line 212, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"如何やって戻るの？\\.\\.\n"
+"またトゥルクの森から？"
+msgstr ""
+
+#. ID 8, Page 2, Line 14, Pos (0,0)
+#. ID 8, Page 2, Line 216, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"少しでも早く帰還したい。\\.\\.近道を使う。"
+msgstr ""
+
+#. ID 8, Page 2, Line 17, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"マルゴの婆さんの天空穿孔ポートを使うんだ。\\.\\.\n"
+"ホーイックからエンヴィにトランスする。"
+msgstr ""
+
+#. ID 8, Page 2, Line 27, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"では私はホーイックまで御一緒して、\n"
+"其処で御別れという事で。"
+msgstr ""
+
+#. ID 8, Page 2, Line 33, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それじゃあ、\\.出発だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 43, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ヴェーネ、\\.\\.本当に大丈夫なのか？"
+msgstr ""
+
+#. ID 8, Page 2, Line 45, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"無理なら無理と遠慮せずに言ってください。\\|\n"
+"貴女にはその権利が有るのですから。"
+msgstr ""
+
+#. ID 8, Page 2, Line 55, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"有難う…。\\.\\.本当に大丈夫だから。"
+msgstr ""
+
+#. ID 8, Page 2, Line 57, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"確かにまだ少し、\\.\\.\n"
+"気持ち重いかも知れないけれど…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 60, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"レイクが\"向こう\"に居る事を考えると、\n"
+"そんな悠長に休んでなんか居られないわ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 63, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"早く彼の所に行ってあげないと…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 68, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"\"あげないと\"か。\\.\\.\n"
+"相変わらず献身的だよな。"
+msgstr ""
+
+#. ID 8, Page 2, Line 74, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"まあ、\\.\\.お前が其処まで言うんだったら\n"
+"無理に休ませる事もしないけどさ…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 77, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ちっとは自分を労れよ。\\.\\.\n"
+"何時も言ってる事だがな。"
+msgstr ""
+
+#. ID 8, Page 2, Line 80, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"分かってるわ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 87, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それよりラウレンティアの様子は？\\|\n"
+"見に行って来たんでしょう？"
+msgstr ""
+
+#. ID 8, Page 2, Line 91, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ああ。\\.\\.入口に強力な障壁が張られてて、\n"
+"中には入れなかったが。"
+msgstr ""
+
+#. ID 8, Page 2, Line 94, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"でもガイアキャンサー反応が在ったぜ。\\|\n"
+"奥の方に巣食ってる筈だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 97, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"あの距離であの反応値、そしてエンデ直々の\n"
+"お呼び出しと来れば、モノはＳクラス確定だな。"
+msgstr ""
+
+#. ID 8, Page 2, Line 103, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"やはり…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 108, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"エンデが呼び出したその３体のガイアキャンサー。\\|\n"
+"ヴェーネ達の前に現れなかったという事は…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 111, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"多分奴らは、\\.\\.ラウレンティアに取り付いてる。"
+msgstr ""
+
+#. ID 8, Page 2, Line 113, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ガイアキャンサーはガイアプロビデンスの病魔。\\|\n"
+"摂理に従属する物理の世界では変幻自在だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 116, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"今まではモンスターという形を取って\n"
+"ヴェーネ達に襲い掛かって来たが、今回は違った。"
+msgstr ""
+
+#. ID 8, Page 2, Line 119, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"成る程…。\\.\\.\n"
+"ラウレンティアの体組織に浸潤したのね…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 126, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"しかし、何故そんな事を？"
+msgstr ""
+
+#. ID 8, Page 2, Line 128, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"やはりこの星を死滅させる為でしょうか。\\|\n"
+"生命の中核たるラウレンティアを蝕む事で。"
+msgstr ""
+
+#. ID 8, Page 2, Line 131, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"其処が解せないんだよ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 133, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"言った通りラウレンティアはガイアの生命の中核。\n"
+"それ故に病気に対する抵抗力も飛び抜けてる。"
+msgstr ""
+
+#. ID 8, Page 2, Line 136, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ガイアキャンサーを幾ら其処に集めた所で、\n"
+"ガイアの生命を蝕む速さは殆ど変わらない。"
+msgstr ""
+
+#. ID 8, Page 2, Line 139, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"寧ろ其処にガイアキャンサーを集める分だけ、\n"
+"労力の無駄遣いだ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 146, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"ガキの遊びじゃないのか？"
+msgstr ""
+
+#. ID 8, Page 2, Line 151, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"如何だかな…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 153, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"百歩譲ってエンデは遊びだったとしても、\n"
+"ゲオルクは絶対に違う。"
+msgstr ""
+
+#. ID 8, Page 2, Line 156, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"奴は何事に於いても\n"
+"徹底してメリットや生産性を追及するタイプだ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 159, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"遊び、\\.\\.無駄、\\.\\.無益。\\.\\.\n"
+"そんな手は大小問わず絶対に打たない。"
+msgstr ""
+
+#. ID 8, Page 2, Line 165, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ガイアキャンサーがラウレンティアを蝕む事が、\n"
+"ゲオルクとってのメリットに成る…？"
+msgstr ""
+
+#. ID 8, Page 2, Line 168, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そういう事だ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 170, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"無駄や徒労に見えそうなこの一件。"
+msgstr ""
+
+#. ID 8, Page 2, Line 172, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"しかしこれは間違い無く、\\.\\.\n"
+"ゲオルクに依る計算し尽くされた一手だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 180, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"分からねえ…。\\|何の得が有るってんだ？"
+msgstr ""
+
+#. ID 8, Page 2, Line 182, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"さあな。\\.\\.さっぱりだ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 188, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"今の所、ゲオルクの行動は殆どが謎だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 190, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"このラウレンティアの一件も然る事ながら、\\.\\.\n"
+"傍に居たヴィルジニー。"
+msgstr ""
+
+#. ID 8, Page 2, Line 193, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そしてレイクとヴェーネを狙った理由。"
+msgstr ""
+
+#. ID 8, Page 2, Line 195, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"レイクの方は大体察しが付くし、\n"
+"俺自身も前々から懸念していた事態なんだが…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 198, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ヴェーネに関しては、まるで訳が分からない。"
+msgstr ""
+
+#. ID 8, Page 2, Line 203, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 209, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ま、\\.\\.此処で議論してても始まらないって事だ。\\|\n"
+"今はフェジテに帰る事だけ考えよう。"
+msgstr ""
+
+#. ID 8, Page 2, Line 218, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"何だよ。\\.\\.近道って。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 221, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"マルゴの婆さんの天空穿孔ポートを使うんだ。\\|\n"
+"ホーイックからエンヴィにトランスする。"
+msgstr ""
+
+#. ID 8, Page 2, Line 224, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"ああそっか。\\.\\.そう言えば。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 228, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"シャルとリーナには既に連絡を入れておいた。\\|\n"
+"婆さんと話を付けて、船でエンヴィまで来て呉れる。"
+msgstr ""
+
+#. ID 8, Page 2, Line 231, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"到着したら休暇中の爺さんと合流、本部へ帰還だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 237, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"では私はホーイックまで御一緒して、\n"
+"其処でお別れという事で。"
+msgstr ""
+
+#. ID 8, Page 2, Line 241, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"後少しの間ですが、宜しくお願いします。"
+msgstr ""
+
+#. ID 8, Page 2, Line 243, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ええ、\\.\\.名残惜しいけれど。"
+msgstr ""
+
+#. ID 8, Page 2, Line 248, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それじゃあ、\\.\\.出発だ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 260, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"さて…。\\|気の所為でしょうか…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 262, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"別人だとは言いませんが、\\.\\.\n"
+"何だかヴェーネの顔付きが前と違っているような…。"
+msgstr ""
+
+#. ID 8, Page 2, Line 268, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"\\S[2]少しだけ…\\|冷たく成りました…。\\|\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (11,3)
+msgid ""
+"村娘：\n"
+"いらっしゃいませ。\n"
+"一泊\\_\\V[4801]\\_ディアに成ります。"
+msgstr ""
+
+#. ID 9, Page 1, Line 10, Pos (11,3)
+msgid ""
+"村娘：\n"
+"ごゆっくり御休みください。"
+msgstr ""
+
+#. ID 9, Page 1, Line 18, Pos (11,3)
+#. ID 9, Page 1, Line 25, Pos (11,3)
+msgid ""
+"村娘：\n"
+"またの御越しを。"
+msgstr ""
+
+#. ID 9, Page 1, Line 29, Pos (11,3)
+msgid ""
+"村娘：\n"
+"お早う御座います。またの御越しを。"
+msgstr ""
+
+#. ID 9, Page 1, Line 35, Pos (11,3)
+msgid ""
+"村娘：\n"
+"此処に泊まりに来る人って、偶に学者さんも来るけど\n"
+"大半が各地を転々とする旅人なのよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 38, Pos (11,3)
+msgid ""
+"村娘：\n"
+"だからね、そんな人達の話を聞いていると、\n"
+"外の世界にも出てみようかって気がしてくるの。"
+msgstr ""
+
+#. ID 9, Page 1, Line 41, Pos (11,3)
+msgid ""
+"村娘：\n"
+"星の大樹を守るこの村で生まれ育ったからって、\n"
+"この村の中で一生を終えなくちゃいけないって事は\n"
+"無いでしょう？"
+msgstr ""
+

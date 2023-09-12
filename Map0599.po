@@ -1,0 +1,471 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"終わりだな、\\.\\.モーガン。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 25, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[5]お…の…れ…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 30, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]クッ…\\.\\.ククッ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 35, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[5]道連れだァ…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"何ッ!?\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 46, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]もう逃げられんぞ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 56, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]後ろを見てみろ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"熱線が…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 76, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]熱線だけではない。\n"
+"エレベーターも作動しなければ、ドアのロックも…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 79, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]私自身がこの施設と同化し、\n"
+"この施設を自らの身体の一部としたからな…！"
+msgstr ""
+
+#. ID 4, Page 1, Line 82, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]このままエネルギープラントを爆破して、\n"
+"貴様ら全員道連れにして呉れる…！"
+msgstr ""
+
+#. ID 4, Page 1, Line 85, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ふざけんなッ！\\.\\.\n"
+"死ぬなら一人で死にやがれ！"
+msgstr ""
+
+#. ID 4, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何か脱出する方法は…！"
+msgstr ""
+
+#. ID 4, Page 1, Line 90, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]皆無だ…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 92, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]仮に私の息の根を止めても、\n"
+"私は死に際にプラントを爆破するだろう…！"
+msgstr ""
+
+#. ID 4, Page 1, Line 95, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]私を止める事など出来ぬ…！"
+msgstr ""
+
+#. ID 4, Page 1, Line 97, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]どうせ私は死んでしまう…！"
+msgstr ""
+
+#. ID 4, Page 1, Line 99, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]ならば皆纏めて死ねば良いんだ…！"
+msgstr ""
+
+#. ID 4, Page 1, Line 101, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]ヒーーーッヒッヒッヒッ!!!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 110, Pos (0,0)
+msgid ""
+"レイク：\n"
+"おい！ \\.\\.何落ち着き払ってんだよ！"
+msgstr ""
+
+#. ID 4, Page 1, Line 120, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ユアン…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 126, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"聞いて呉れ。\\.\\.\n"
+"俺に良い考えが有る。"
+msgstr ""
+
+#. ID 4, Page 1, Line 133, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"セラフィックブルー。\\.\\.\n"
+"それはこの星に於いて極めて特別な存在だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 136, Pos (0,0)
+msgid ""
+"レイク：\n"
+"おい…。\\.\\.行き成り何を…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"いいから聞くんだ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 143, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"特にセラフィックブルー本体は、\n"
+"パーソンとセラパーソンとの狭間に生まれた、\n"
+"不安定極まりない存在。"
+msgstr ""
+
+#. ID 4, Page 1, Line 147, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"安定化を図り、\n"
+"\"存在\"を保全する必要が在る。"
+msgstr ""
+
+#. ID 4, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"故にその両親＜セラフィックブルー片翼＞が、\n"
+"パーソンサイド及びセラパーソンサイド存在安定因子\n"
+"として機能している。"
+msgstr ""
+
+#. ID 4, Page 1, Line 157, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"だが、これは諸刃の剣だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 159, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"セラフィックブルー本体は安定するが、\n"
+"引き換えにセラフィックブルー片翼が不安定な\n"
+"状態に陥る。"
+msgstr ""
+
+#. ID 4, Page 1, Line 163, Pos (0,0)
+msgid ""
+"レイク：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 168, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]そんなの…。\\.\\.聞いてねえぞ…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 173, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 179, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"告白しよう。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 182, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"俺は末期の遅発性ディスピスに冒されている。"
+msgstr ""
+
+#. ID 4, Page 1, Line 187, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[5]嘘だろ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 189, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"本当だ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 191, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"俺はもう、何時ルシファー化しても\n"
+"おかしくない身体なんだよ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 194, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"今まではドナルドの爺さんが試験的に開発した\n"
+"ディスピスの治療薬をずっと服用していて…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 197, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"治癒こそしなかったものの\n"
+"病状の進行を遅らせる事は出来た。"
+msgstr ""
+
+#. ID 4, Page 1, Line 203, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"だが、此処までだ。\\.\\.\n"
+"俺に未来は残されていない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 206, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"だから俺は今此処で、\\.\\.\n"
+"お前達にこの生命を捧げる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 209, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"この生命と引き換えに、\\.\\.お前達の未来を繋ぐ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 214, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"この薬は、今まで俺が飲んで来た物とは正反対…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 216, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"副産物として出来上がった、\n"
+"ルシファー化の促進薬だ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 222, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"レイク。\\.\\.\n"
+"ヴェーネを頼んだぜ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 226, Pos (0,0)
+msgid ""
+"レイク：\n"
+"お、\\.\\.おい！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 247, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"馬鹿な…！ \\.\\.身体が言う事を聞かん…！"
+msgstr ""
+
+#. ID 4, Page 1, Line 249, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"ユアン！ \\.\\.貴様…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 251, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そうだよ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 253, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ルシファー化に伴う存在特性変異を利用して\n"
+"てめえの身体に同化して、主導権を奪ったのさ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 256, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]おのれッ…！ \\.\\.正気か…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 258, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]そんな…！ \\.\\.自ら死にに行く様な…！"
+msgstr ""
+
+#. ID 4, Page 1, Line 263, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"今の話、\\.\\.聞いてなかったのか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 265, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"俺は此処で死に絶えて、\n"
+"引き換えにあいつらの未来を繋ぐ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 268, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"腹は括った。\\.\\.\n"
+"賽も投げちまった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 271, Pos (0,0)
+msgid ""
+"モーガン：\n"
+"\\S[2]貴様ァ…！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 276, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"さあ行け！\\.\\.\n"
+"今なら外まで逃げられる！\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 282, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 290, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"これが彼の、最期の願い。"
+msgstr ""
+
+#. ID 4, Page 1, Line 295, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"撤収よ。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 297, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"彼を此処に残して。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 318, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"レイク。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 338, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]あんた…\\.\\.本当に勝手な奴だよな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 341, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]勝手に母さんを連れ出して。\\.\\.\n"
+"勝手に俺を置き去りにして。"
+msgstr ""
+
+#. ID 4, Page 1, Line 345, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]勝手にヴェーネを連れ出して。\\.\\.\n"
+"勝手に俺を迎えに来て。"
+msgstr ""
+
+#. ID 4, Page 1, Line 349, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]それで挙げ句の果てに、\\.\\.\n"
+"今度は勝手に死ぬと来やがった。"
+msgstr ""
+
+#. ID 4, Page 1, Line 354, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"もう結構だ！ \\.\\.付き合い切れねえぜ！\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 357, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"そんなに死にたきゃ、\\.\\.勝手に死んじまえ！\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 360, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"                    クソ親父が！\\|\\.\\.\\^"
+msgstr ""
+

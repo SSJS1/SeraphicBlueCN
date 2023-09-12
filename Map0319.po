@@ -1,0 +1,602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 5, Pos (6,10)
+#. Choice (2 options)
+msgid ""
+"休む\n"
+"休まない"
+msgstr ""
+
+#. ID 6, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ふぅ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"こんなに早く眼が覚めるなんて、\n"
+"珍しいわね…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 39, Pos (0,0)
+#. ID 8, Page 1, Line 346, Pos (0,2)
+#. ID 8, Page 1, Line 390, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 15, Pos (0,2)
+#. ID 8, Page 1, Line 73, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"解放戦争には参加すれど、\n"
+"その真の目的は戦う事に非ず。"
+msgstr ""
+
+#. ID 8, Page 1, Line 18, Pos (0,2)
+#. ID 8, Page 1, Line 76, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"ドリスを故郷に送り届ける事。"
+msgstr ""
+
+#. ID 8, Page 1, Line 23, Pos (0,2)
+#. ID 8, Page 1, Line 260, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"それじゃあ、先ずは決起集会に参加するべく\n"
+"ダルムシュタットへ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 42, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"解放戦争に参加するだと…？"
+msgstr ""
+
+#. ID 8, Page 1, Line 51, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"そうよ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 53, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"正気なのか？\\.\\.\n"
+"フェジテはこの子の故郷なんだぞ？"
+msgstr ""
+
+#. ID 8, Page 1, Line 56, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"良いから。\\.\\.話は最後まで聞きなさいよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 58, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"うん。\\.\\.ワタシはちゃんと聞くよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 61, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"おじちゃんもちゃんと聞いて。"
+msgstr ""
+
+#. ID 8, Page 1, Line 67, Pos (0,2)
+#. ID 8, Page 1, Line 126, Pos (0,2)
+#. ID 8, Page 1, Line 186, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 78, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"分かり兼ねるな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 83, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"遥か空の彼方のフェジテと戦う以上、\n"
+"ゲオルクは飛行船を用意してる筈。"
+msgstr ""
+
+#. ID 8, Page 1, Line 86, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"それを強奪するのよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 91, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"強引だな…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 93, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"おネエちゃん、ゴウイン。"
+msgstr ""
+
+#. ID 8, Page 1, Line 98, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"そもそもフェジテ軍の迎撃を喰らうとか、\n"
+"少しは考えないのか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 101, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"強奪した飛行船なら、いやがおうにも挙動が\n"
+"不自然に成らざるを得ないわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 104, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"こういう場合、先ずは結果を急がずに\n"
+"相手の出方を伺うのが戦いの鉄則。"
+msgstr ""
+
+#. ID 8, Page 1, Line 107, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"其処に白旗でも揚げておけば、\n"
+"向こうも攻撃しては来ないでしょう？"
+msgstr ""
+
+#. ID 8, Page 1, Line 110, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"戦意無き者に一方的に先制を仕掛けるなんて、\n"
+"武人として最も忌むべき所業。"
+msgstr ""
+
+#. ID 8, Page 1, Line 116, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"でも、\\.\\.そんな風に捕捉される前に、\n"
+"手早くフェジテの陸地に乗り捨てる心算だけれど。"
+msgstr ""
+
+#. ID 8, Page 1, Line 119, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"パーソンとセラパーソンの外見に差異が無い以上、\n"
+"何処かの街に紛れ込んだ時点で、\n"
+"私達を看破する事は殆ど不可能の筈よ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 133, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"本気で言っているのか…？"
+msgstr ""
+
+#. ID 8, Page 1, Line 135, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"戦争にそんな仁やら義やらが存在するなどと…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 137, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"幾ら儀礼を重んずるモンクとは言え…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 145, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"何よ。\\.\\.不満でも？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 150, Pos (0,2)
+#. ID 8, Page 1, Line 233, Pos (0,2)
+#. ID 8, Page 1, Line 248, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 157, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"とは言え、\\.\\.彼女を送り届けて遣りたい気持ちは、\n"
+"俺も同じなのだがな…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 160, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"たとえ\"若干の\"無謀が伴おうとも…。\\|\n"
+"あんな思いをするのは、金輪際…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 169, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"何でもない。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 175, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"それで？ \\.\\.何処に送り届ける？"
+msgstr ""
+
+#. ID 8, Page 1, Line 177, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"件の魔法アカデミーか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 180, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"あそこキラい！ \\.\\.おネエちゃんがいい！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 191, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"鑑みるに、ドリスはアカデミーに居場所を見出せず\n"
+"ヴェーネという人を求めたと思うの。"
+msgstr ""
+
+#. ID 8, Page 1, Line 194, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"では、\\.\\.オーグという所か…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 196, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"そう。\\.\\.この間ドリスが話してたオーグ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 198, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"そうよね、\\.\\.ドリス？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 200, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"うん。\\.\\.\n"
+"ヴェーネおネエちゃん、オーグのヒト。"
+msgstr ""
+
+#. ID 8, Page 1, Line 203, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"オーグのコト、たくさんハナしてた。"
+msgstr ""
+
+#. ID 8, Page 1, Line 205, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"ガクチョウセンセイも、そう言ってた。"
+msgstr ""
+
+#. ID 8, Page 1, Line 210, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"それで？ \\.\\.そのオーグというのは結局何なんだ？"
+msgstr ""
+
+#. ID 8, Page 1, Line 212, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"其処までは…。\\|\n"
+"ドリスも名前しか知らないみたいだし…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 215, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"別に良いわよ。\\.\\.現地の人に訊けば分かるわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 217, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"現地…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 222, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"まったく、\\.\\.何もかもが\n"
+"行き当たりばったりの無謀だ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 225, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"もう少し盤石に成らないのか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 227, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"それじゃ貴方が考えて。\\.\\.\n"
+"私は知らないわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 238, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"ワタシ、これで良いよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 240, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"そう、\\.\\.良かったわ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 243, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"おじちゃんも良いよね？"
+msgstr ""
+
+#. ID 8, Page 1, Line 253, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"分かった。\\.\\.もう良い。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 263, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"さあ、\\.\\.出発よ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 276, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"一つ訊いて良いか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 278, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"何かしら？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 280, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"何故、其処までに肩入れする？"
+msgstr ""
+
+#. ID 8, Page 1, Line 282, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"何が？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 284, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"ドリスの事だ。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 286, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"送り届けるにしても、\n"
+"この戦争の終結を待つのが普通だろう。"
+msgstr ""
+
+#. ID 8, Page 1, Line 292, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"駄目よ、\\.\\.そんなの。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 294, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"そんな何時終わるか…。\\.\\.\n"
+"その後の世界が如何成るかの保証も無い物。"
+msgstr ""
+
+#. ID 8, Page 1, Line 300, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"ドリスは\"家\"を求めている。\\.\\.\n"
+"心に描く、ヴェーネと共に在る空間を。"
+msgstr ""
+
+#. ID 8, Page 1, Line 303, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"その問題に、時間的な猶予なんて無いの。"
+msgstr ""
+
+#. ID 8, Page 1, Line 308, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"貴方も知っている筈よ？"
+msgstr ""
+
+#. ID 8, Page 1, Line 310, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"ドリスが刹那に垣間見せる悲しみの顔。\\.\\.\n"
+"内に秘められた底知れぬ孤独。"
+msgstr ""
+
+#. ID 8, Page 1, Line 313, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"自らの居場所として、\n"
+"学び舎はおろか自分の家さえ挙げない事。"
+msgstr ""
+
+#. ID 8, Page 1, Line 316, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"取り敢えず私達という味方を得て、\n"
+"辛くも形だけは留めている、彼女の心。"
+msgstr ""
+
+#. ID 8, Page 1, Line 322, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"それを悠長に、こんな見知らぬグラウンドの\"余所\"に\n"
+"繋ぎ止めておく事なんて出来ない。"
+msgstr ""
+
+#. ID 8, Page 1, Line 325, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"たとえ戦火を擦り抜けてでも、\\.\\.\n"
+"今直ぐに、彼女を家に送り届けてあげたい。"
+msgstr ""
+
+#. ID 8, Page 1, Line 328, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"彼女が真に安堵を得られる\"魂の家\"、\\.\\.\n"
+"ヴェーネ･アンスバッハの所に。"
+msgstr ""
+
+#. ID 8, Page 1, Line 334, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"言いたい事は分かる。"
+msgstr ""
+
+#. ID 8, Page 1, Line 336, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"俺が訊きたいのは、\\.\\.\n"
+"何故其処までにドリスを思うかだ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 339, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"困ってる人を助けるのは変？"
+msgstr ""
+
+#. ID 8, Page 1, Line 341, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"その範疇を越えている。"
+msgstr ""
+
+#. ID 8, Page 1, Line 348, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"でも…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 350, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 352, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"それは貴方だって同じ事でしょう？"
+msgstr ""
+
+#. ID 8, Page 1, Line 358, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"成る程、テンリンのモンクか。\\|\n"
+"噂通りに鋭いな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 364, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"似た様な話が在った。"
+msgstr ""
+
+#. ID 8, Page 1, Line 366, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"その娘は、\\.\\.\n"
+"きっと家に帰る事を夢見ていたのだろう。"
+msgstr ""
+
+#. ID 8, Page 1, Line 369, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"帰れなかったの…？"
+msgstr ""
+
+#. ID 8, Page 1, Line 371, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"分からない。\\.\\.\n"
+"其処までは俺の知る所ではないからな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 374, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"だが恐らく、\\.\\.\n"
+"彼女は今も帰れないままで居るだろう。"
+msgstr ""
+
+#. ID 8, Page 1, Line 377, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"或いは…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 382, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"迎えに来て呉れるのを、\\.\\.\n"
+"ずっと待っているのかも知れない。"
+msgstr ""
+
+#. ID 8, Page 1, Line 385, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"静かに寝息を立てながら。"
+msgstr ""
+
+#. ID 8, Page 1, Line 395, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"聞き流しておいて呉れ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 397, Pos (0,2)
+msgid ""
+"ランサード：\n"
+"知ってる奴など誰も居ない、\\.\\.\n"
+"もうずっと昔の話だ。"
+msgstr ""
+

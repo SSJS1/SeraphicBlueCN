@@ -1,0 +1,643 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 8, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"ヴェーネという名前の由来？"
+msgstr ""
+
+#. ID 2, Page 1, Line 10, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"決まっているだろう。\\|\n"
+"\"男のお前に成り代わる女\"という事だ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 13, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"生まれて来たのが男ならフリッツ、女ならヴェーネ。\\|\n"
+"既に決められていた事だ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 17, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"本来はお前をゲームにする予定だったのだがな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 19, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"セラフィックブルー第一片翼の第二次転生生体とは、\n"
+"これ程に興味深く奥深い設定は在るまい。"
+msgstr ""
+
+#. ID 2, Page 1, Line 22, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"故にあの娘を改めて私の娘\n"
+"ヴェーネ･アンスバッハとしたのだよ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 25, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"私好みの容姿＜インターフェース＞を備えた、\n"
+"最高のゲームとしてな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 29, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"ん？ \\|お前か？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 31, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"今の話で分からないのか。"
+msgstr ""
+
+#. ID 2, Page 1, Line 34, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"もうお前に興味は無い。"
+msgstr ""
+
+#. ID 2, Page 1, Line 36, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"塵の様に溢れかえる凡人共など、\n"
+"ヴェーネの前ではゲームとして餓鬼の玩具にも劣る。"
+msgstr ""
+
+#. ID 2, Page 1, Line 39, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"生活に必要な物は何でも呉れてやるから、\n"
+"勝手に生きていろ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 43, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"何だその顔は。\\.\\.\n"
+"まるで満たされていないようだが。"
+msgstr ""
+
+#. ID 2, Page 1, Line 46, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"まあ諫＜いさ＞めはしまい。\n"
+"大人に成って振り返った時こそ分かるというもの。"
+msgstr ""
+
+#. ID 2, Page 1, Line 49, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"お前に於いて今確定された幸福。\\.\\.\n"
+"完全な放任と、潤沢且つ自動的な資産。"
+msgstr ""
+
+#. ID 2, Page 1, Line 52, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"その代わり唯一つ。\\.\\.\n"
+"これだけは遵守してもらおう。"
+msgstr ""
+
+#. ID 2, Page 1, Line 56, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"\\S[2]何が在ろうとも、\\.\\.\n"
+"このゲームの邪魔だけはするな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 67, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"ほう、僅か15歳にしてフェスクに\n"
+"インターンとして配属されるとはな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 70, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"中々の働きだな。\n"
+"世間では手放しの賞賛に値するだろう。"
+msgstr ""
+
+#. ID 2, Page 1, Line 74, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"褒める？\\.\\.\n"
+"ああ、構わんとも。"
+msgstr ""
+
+#. ID 2, Page 1, Line 77, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"大したものだ。\\.\\.流石は私の血を引く者。"
+msgstr ""
+
+#. ID 2, Page 1, Line 80, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"これで満足か？"
+msgstr ""
+
+#. ID 2, Page 1, Line 82, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"ならばさっさと行け。\\.\\.目障りだ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 92, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"数奇な巡り合せだ。\\.\\.\n"
+"これは流石に私も想定していなかった。"
+msgstr ""
+
+#. ID 2, Page 1, Line 95, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"あの情操教育プログラムが終了し、\n"
+"時同じくお前がフェスクに行ったものが…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 98, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"まさかこんな形で再会を果たすとは。"
+msgstr ""
+
+#. ID 2, Page 1, Line 101, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"そして何よりも…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 103, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"お前が私のゲームに参加するとは。"
+msgstr ""
+
+#. ID 2, Page 1, Line 111, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"違う…！\\|\n"
+"これはゲームなんかじゃない…！"
+msgstr ""
+
+#. ID 2, Page 1, Line 114, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"たとえあの時、\\.\\.\n"
+"誰もが同じ気持ちでいたとしても…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 120, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"\\S[2]僕だけは…！\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 125, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"それでも…\\.\\.その咎は変わらないのか…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 127, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"たとえ其処に、\\.\\.\n"
+"どんな気持ちを馳せていたとしても…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 133, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"ヴェーネ･アンスバッハ…。\\|\n"
+"終わり無き咎の鎖にて縛られる存在…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 139, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"\\S[2]そして僕もまた、\\.\\.咎人の一人…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 149, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"不安定にして盤石。\\|\n"
+"そのうねり激しくも、危うき事も無し。"
+msgstr ""
+
+#. ID 2, Page 1, Line 152, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"運命が規定し、\\.\\.私が導いた、\\.\\.この道行き。"
+msgstr ""
+
+#. ID 2, Page 1, Line 154, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"約束されたベクトルの、その揺れ動く中途の様相。\\|\n"
+"至ってダイナミックな予定調和。"
+msgstr ""
+
+#. ID 2, Page 1, Line 160, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"それでこそゲームは面白く成る。"
+msgstr ""
+
+#. ID 2, Page 1, Line 162, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"この場所の久しい味気無さも、\\.\\.\n"
+"今日より再びゲームの一部。"
+msgstr ""
+
+#. ID 2, Page 1, Line 168, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"\\S[2]さあ…。\\|楽しませて呉れ…。\\|\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 224, Pos (10,10)
+msgid ""
+"\n"
+"少年：\n"
+"\\S[2]はじめ…\\.\\.まして…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 228, Pos (10,10)
+msgid ""
+"\n"
+"少女：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 232, Pos (10,10)
+msgid ""
+"\n"
+"少年：\n"
+"\\S[2]ヴェーネ･アンスバッハさん…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 235, Pos (10,10)
+msgid ""
+"\n"
+"少年：\n"
+"\\S[2]ですよね…？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 239, Pos (10,10)
+#. ID 2, Page 1, Line 250, Pos (10,10)
+#. ID 2, Page 1, Line 262, Pos (10,10)
+#. ID 2, Page 1, Line 270, Pos (10,10)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 243, Pos (10,10)
+msgid ""
+"\n"
+"少年：\n"
+"\\S[2]僕は…\\.\\.フリッツ･アンスバッハ…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 246, Pos (10,10)
+msgid ""
+"\n"
+"フリッツ：\n"
+"\\S[2]情操教育プログラムの相手をします…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 254, Pos (10,10)
+msgid ""
+"\n"
+"フリッツ：\n"
+"\\S[2]僕…。\\|話とか得意じゃないけど…。\\|\n"
+"それでも一生懸命頑張ります…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 258, Pos (10,10)
+msgid ""
+"\n"
+"フリッツ：\n"
+"\\S[2]宜しく…\\|お願いします…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 266, Pos (10,10)
+msgid ""
+"\n"
+"フリッツ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 274, Pos (10,10)
+msgid ""
+"\n"
+"フリッツ：\n"
+"\\S[2]あの…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 277, Pos (10,10)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]大丈夫よ。\\.\\.\n"
+"ちゃんと聞いてるから。\\|\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 283, Pos (10,10)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]此方こそ宜しく。\\.\\.フリッツ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 30, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"あれから…\\.\\.もう５年経つのね…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 32, Pos (10,10)
+#. ID 2, Page 3, Line 123, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 37, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"何時かはこの日が来ると思っていたけれど…。"
+msgstr ""
+
+#. ID 2, Page 2, Line 42, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"この前は…\\.\\.フォローして呉れて有難う。"
+msgstr ""
+
+#. ID 2, Page 2, Line 44, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"選りにも選って此処での再会なんて。\n"
+"悪趣味過ぎて運命を呪った。"
+msgstr ""
+
+#. ID 2, Page 2, Line 47, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"私だって…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 52, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"世間話で先送りとは姑息な事だな。"
+msgstr ""
+
+#. ID 2, Page 2, Line 59, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"楽しみを焦らして呉れるな。"
+msgstr ""
+
+#. ID 2, Page 2, Line 61, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 68, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"行きましょう。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 2, Line 73, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"分かった。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 18, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"爆発は直ぐに起きた。\n"
+"それこそ駆け出して十歩と行かない内に。"
+msgstr ""
+
+#. ID 2, Page 3, Line 21, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"だが不思議な事に、何か見えない力に依って\n"
+"私達は衝撃と爆炎から守られ、外へと運び出された。"
+msgstr ""
+
+#. ID 2, Page 3, Line 27, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"詰まる所、\\.\\.私達は無事だった。"
+msgstr ""
+
+#. ID 2, Page 3, Line 32, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"そう…。\\|たった一人…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 34, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"彼だけを除いては…。\\|\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 44, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"\\S[10]何故だァ…。\\|\\|何故私だけが…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 49, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"若しや…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 54, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"ええ…。\\|真偽の確かめようも無いけれど…。"
+msgstr ""
+
+#. ID 2, Page 3, Line 59, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"きっとこれは、\\.\\.今まで自分の人生を縛って来た\n"
+"ジークベルトに対する最後の復讐…。"
+msgstr ""
+
+#. ID 2, Page 3, Line 62, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"或いは、最大の呪縛である父さんを葬り去る事で、\\.\\.\n"
+"ヴェーネの先行きを少しでも明るくする…。"
+msgstr ""
+
+#. ID 2, Page 3, Line 68, Pos (10,10)
+msgid ""
+"ヴィルジニー：\n"
+"\"娘\"に殺されるなんて、\\.\\.\n"
+"何処までゲオルクに似ているのかしらね。"
+msgstr ""
+
+#. ID 2, Page 3, Line 71, Pos (10,10)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[2]馬鹿な男。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 76, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"\\S[10]そんな…。\\|ヴェーネ…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 78, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"\\S[10]エル…。\\.\\.\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 80, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 86, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"父さん。\\.\\.貴方は人の人生を弄び過ぎたのです。"
+msgstr ""
+
+#. ID 2, Page 3, Line 88, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"だから最後の最後で、\\.\\.\n"
+"消え行く彼女が貴方に復讐をした。"
+msgstr ""
+
+#. ID 2, Page 3, Line 94, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"\\S[10]馬鹿な…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 99, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"貴方は人の人生をゲームにした。\\|\n"
+"だから僕も、最期くらいその主義に則ります。"
+msgstr ""
+
+#. ID 2, Page 3, Line 105, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"ゲームオーバーですよ、\\.\\.父さん。"
+msgstr ""
+
+#. ID 2, Page 3, Line 107, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"\\S[3]貴方の、\\.\\.負けです。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 112, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"\\S[10]私の…\\|負け…！\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 114, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"\\S[10]この…\\|私が…！\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 116, Pos (10,10)
+msgid ""
+"ジークベルト：\n"
+"\\S[2]ぐぶゥッ…！\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 121, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"死んだわね。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 125, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"悲しくないの？\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 127, Pos (10,10)
+msgid ""
+"フリッツ：\n"
+"見放されて久しい男だ。"
+msgstr ""
+
+#. ID 2, Page 3, Line 129, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"でしょうね。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 131, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]死んで清々したわ。\\|\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 143, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]エル…。\\|\\^"
+msgstr ""
+
+#. ID 2, Page 3, Line 145, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]奴は確かにそう呟いた…。"
+msgstr ""
+
+#. ID 2, Page 3, Line 150, Pos (10,10)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]まさか…。\\|\\^"
+msgstr ""
+

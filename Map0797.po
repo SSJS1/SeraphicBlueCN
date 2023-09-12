@@ -1,0 +1,382 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (9,14)
+#. Choice (3 options)
+msgid ""
+"\\>セーブ\n"
+"\\>ショップ呼び出し\n"
+"\\>キャンセル"
+msgstr ""
+
+#. ID 1, Page 1, Line 8, Pos (9,14)
+msgid ""
+"\\>Caution：\n"
+"\\>此処からゲーム本編に戻る事は出来ません。\n"
+"\\>セーブデータの上書きには充分注意してください。"
+msgstr ""
+
+#. ID 1, Page 1, Line 22, Pos (9,14)
+#. Choice (2 options)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+
+#. ID 5, Page 1, Line 82, Pos (0,0)
+#. ID 5, Page 1, Line 253, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"先ず４人で死天使の卵を打ち破り、\n"
+"その後待機した残りの４人でエルを倒す。"
+msgstr ""
+
+#. ID 5, Page 1, Line 85, Pos (0,0)
+#. ID 5, Page 1, Line 256, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"総力戦を仕掛けない限り、\n"
+"奴を滅する事は出来ないわね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 104, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"やはり…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 109, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"大方の予想は付いていたようですね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 114, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"死天使の…\\|誕生を…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"エルが\"憑代の姫君\"と呼ばれていたのが、\n"
+"ずっと気に成っていた。"
+msgstr ""
+
+#. ID 5, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それで、若しやと思っていたけれど…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"死天使リフューズ･セラフィックブルー…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 129, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"これはその形成段階…。\\|死天使の卵…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"ケイン達が掲げた、生命の否定と無への意志。\\|\n"
+"それは決して彼らに限った事ではないわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"今回は偶々彼らが行動に出ただけ。\\|\n"
+"その意志自体は、常にこの世界に漂っている。"
+msgstr ""
+
+#. ID 5, Page 1, Line 141, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"エンヴィ･ケイオスやマリバンドホープなどは、\n"
+"その最たる証明と事例。"
+msgstr ""
+
+#. ID 5, Page 1, Line 147, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"ケイン達は、その無へ回帰する\"道\"の\n"
+"先駆者に成ってみせたのです。"
+msgstr ""
+
+#. ID 5, Page 1, Line 150, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"生命を否定しつつも死の恐怖に縛り付けられ、\n"
+"或いは現世に何らかの未練や執着を持つ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 153, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"そんな無への道へ歩き出せない\"同志\"に対して\n"
+"送ったメッセージ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 156, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"星が蝕まれている今が好機。\\|\n"
+"今手を伸ばせば、無を掴む事が出来るのだと。"
+msgstr ""
+
+#. ID 5, Page 1, Line 162, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも、それだけでは足りない。\\|\n"
+"まだ必要なものが在る。"
+msgstr ""
+
+#. ID 5, Page 1, Line 165, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"個々では所詮無力なそれら意志を取り纏め、\n"
+"一個の大いなる無への意志、総意や胎動とする存在。"
+msgstr ""
+
+#. ID 5, Page 1, Line 168, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"無への扉を開き、\\.\\.総てを無に誘う、\\.\\.終末の象徴。"
+msgstr ""
+
+#. ID 5, Page 1, Line 170, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"憑代の姫君＜エル＞。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 180, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう、\\.\\.それがエルの真価と役割。\\|\n"
+"ケイン達の最後の保険。"
+msgstr ""
+
+#. ID 5, Page 1, Line 183, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"有を拒絶し無を渇望する意志を自らに憑依させ、\n"
+"それを実現する存在。"
+msgstr ""
+
+#. ID 5, Page 1, Line 186, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"世界を救う天使＜セラフィックブルー＞を、\\.\\.\n"
+"それが為す救い＜有＞を拒絶する、もう一人の天使。"
+msgstr ""
+
+#. ID 5, Page 1, Line 189, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"死天使リフューズ･セラフィックブルー。"
+msgstr ""
+
+#. ID 5, Page 1, Line 194, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]そう…。\\|あれはエルであり…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 199, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"\\S[2]ケイン、\\.\\.ジョシュア、\\.\\.レオナであり…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 204, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"\\S[2]この世界の、\\.\\.数多の無への意志…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 209, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]そして…\\|私…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 219, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"死天使の力は、最早私達を以ってしても\n"
+"推し量れぬ物と化しているわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 222, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"ガイアキャンサー。\\|\n"
+"実行者。\\|ディザスティア。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 225, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"この運命に於ける全ての災禍を取り込んで…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 230, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"この戦いに勝つには、\n"
+"貴女達の全ての力を結集する必要が在るでしょう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 233, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"薄々は感付いているかと思いますが…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 235, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ええ…。\\.\\.\n"
+"死天使を守護する存在が居る…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 238, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"恐らく死天使の卵の外殻…。\\|\n"
+"死天使を守護する防衛機能を持った物体…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 244, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"同じ面子にて外殻と死天使を\n"
+"立て続けに倒すというのは、無理な話ね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 247, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"恐らく倒された外殻が、死天使を守る為に\n"
+"その場に居る外敵だけでも遠ざけてしまう筈。"
+msgstr ""
+
+#. ID 5, Page 1, Line 262, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"これが最後の戦い。\\|\n"
+"僅かな不手際でも敗北を招き寄せる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 265, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"余り時間は残されていませんが、\n"
+"準備を怠らぬようにして下さい。"
+msgstr ""
+
+#. ID 5, Page 3, Line 155, Pos (0,0)
+msgid ""
+"\\>※ラストバトルに於ける幾つかのイベント演出は、\n"
+"\\>　演出中に[キャンセルキー]もしくは[Shiftキー]を\n"
+"\\>　数秒間押し続ける事でスキップ出来ます。"
+msgstr ""
+
+#. ID 5, Page 3, Line 220, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"エルが…\\.\\.私を呼んでいる…。"
+msgstr ""
+
+#. ID 5, Page 3, Line 222, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"滅せるものなら、滅してみろと…。"
+msgstr ""
+
+#. ID 5, Page 3, Line 227, Pos (0,0)
+msgid ""
+"ベネディクタ：\n"
+"感じる…。\\.\\.死天使の胎動…。"
+msgstr ""
+
+#. ID 5, Page 3, Line 232, Pos (0,0)
+msgid ""
+"キャサリン：\n"
+"そして…\\.\\.何者も知れぬ運命の決着を…。"
+msgstr ""
+
+#. ID 5, Page 3, Line 237, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"これで、全てが終わる…。"
+msgstr ""
+
+#. ID 5, Page 3, Line 242, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"レイク…。\\|ユアン…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 3, Line 244, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"シリア…。\\|ヴェーネ…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 3, Line 249, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私に力を…！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 3, Line 251, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"総てを、\\.\\.青空に還す為に…！\\|\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 4, Pos (9,11)
+msgid ""
+"ベネディクタ：\n"
+"今こそ、長き運命に決着を付ける時。"
+msgstr ""
+
+#. ID 7, Page 1, Line 9, Pos (9,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"キャサリン：\n"
+"これが最後の戦いです。準備は宜しいですか？"
+msgstr ""
+
+#. ID 7, Page 1, Line 11, Pos (9,11)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 15, Pos (9,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 7, Page 1, Line 13, Pos (9,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"キャサリン：\n"
+"念の為にもう一度。本当に宜しいですね？"
+msgstr ""
+

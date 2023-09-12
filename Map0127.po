@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 3, Line 6, Pos (10,29)
+msgid ""
+"ニクソン：\n"
+"事を片付けるまでは、\n"
+"また此処に入るのは止めておきましょう。"
+msgstr ""
+
+#. ID 9, Page 1, Line 5, Pos (12,28)
+msgid ""
+"マキシム：\n"
+"空の彼方に大陸…？\\|\n"
+"冗談じゃないぜ…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 8, Pos (12,28)
+msgid ""
+"マキシム：\n"
+"俺の情報筋も、未だ完璧じゃなかったか…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 13, Pos (12,28)
+msgid ""
+"マキシム：\n"
+"コイツはアレだな。\\.\\.\n"
+"早く向こうの知り合いを作らねえと。"
+msgstr ""
+
+#. ID 9, Page 1, Line 16, Pos (12,28)
+msgid ""
+"女性：\n"
+"それは当然、\\.\\.\n"
+"向こうの酒を仕入れる為ですよね？"
+msgstr ""
+
+#. ID 9, Page 1, Line 22, Pos (12,28)
+msgid ""
+"マキシム：\n"
+"まあ…\\|その内な。\\|\\^"
+msgstr ""
+

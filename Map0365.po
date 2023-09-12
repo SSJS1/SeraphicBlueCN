@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 6, Pos (0,0)
+msgid ""
+"同僚：\n"
+"お前…\\|前に言ったよな？"
+msgstr ""
+
+#. ID 3, Page 1, Line 8, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"ん…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 10, Pos (0,0)
+msgid ""
+"同僚：\n"
+"本体が此処に来た時。"
+msgstr ""
+
+#. ID 3, Page 1, Line 12, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 17, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"運命が動き出した…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 19, Pos (0,0)
+msgid ""
+"同僚：\n"
+"そうそう。\\.\\.あの時は何言ってんだと思ったが…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 21, Pos (0,0)
+msgid ""
+"同僚：\n"
+"今なら認められる。"
+msgstr ""
+
+#. ID 3, Page 1, Line 26, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"でも今は違う。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 28, Pos (0,0)
+msgid ""
+"同僚：\n"
+"はぁ？ \\.\\.今度は何だよ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 33, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"運命が迷走を始めた。"
+msgstr ""
+
+#. ID 3, Page 1, Line 35, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"何処に行き着くのか、\\.\\.もう誰にも分からない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 37, Pos (0,0)
+msgid ""
+"フリッツ：\n"
+"そんな気がする…。\\|\\.\\.\\^"
+msgstr ""
+

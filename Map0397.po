@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 1, Line 4, Pos (5,9)
+msgid ""
+"フォクシー：\n"
+"結構綺麗な船内だね。"
+msgstr ""
+
+#. ID 14, Page 1, Line 6, Pos (5,9)
+msgid ""
+"フォクシー：\n"
+"中古の輸送船を改造したのだって言うから、\n"
+"もっと汚いのを想像してたよ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 13, Pos (5,9)
+msgid ""
+"フォクシー：\n"
+"本当に外に出たがりの御嬢さんだね。\\|\n"
+"その若さが羨ましいよ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 5, Pos (4,2)
+msgid ""
+"ヴェーネ：\n"
+"様子は？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 7, Pos (4,2)
+msgid ""
+"レイク：\n"
+"やっぱりヘコんでるか。"
+msgstr ""
+
+#. ID 16, Page 1, Line 9, Pos (4,2)
+msgid ""
+"ユアン：\n"
+"逆だよ。\\.\\.鬼気迫るとはこの事だ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 11, Pos (4,2)
+msgid ""
+"ユアン：\n"
+"あんなケインは初めてだぜ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 16, Pos (4,2)
+msgid ""
+"ヴェーネ：\n"
+"でも、行き成り如何したのかしら…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 18, Pos (4,2)
+msgid ""
+"ヴェーネ：\n"
+"何時も飄々として付かず離れず。\\.\\.\n"
+"何にも執着する事の無い彼…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 21, Pos (4,2)
+msgid ""
+"ヴェーネ：\n"
+"今回だって人助けだとか言って\n"
+"流してたのに…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 24, Pos (4,2)
+msgid ""
+"ユアン：\n"
+"さあな。\\.\\.俺にも良く分かんねえ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 26, Pos (4,2)
+msgid ""
+"ユアン：\n"
+"エンデに対する怒りこそ\n"
+"同じ筈なんだが…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 34, Pos (4,2)
+msgid ""
+"ユアン：\n"
+"何故そんなにも打ち震えてる…？\\|\n"
+"何がそんなにもお前を駆り立てる…？"
+msgstr ""
+
+#. ID 16, Page 1, Line 37, Pos (4,2)
+msgid ""
+"ユアン：\n"
+"なあ、\\.\\.ケイン？\\|\\^"
+msgstr ""
+

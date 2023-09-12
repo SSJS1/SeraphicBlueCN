@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 7, Pos (9,5)
+msgid ""
+"マルゴ：\n"
+"どんな時も、\\.\\.やっぱり永遠じゃなかったね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 9, Pos (9,5)
+msgid ""
+"マルゴ：\n"
+"何時までも続くと思ってた若い日々も、\n"
+"今じゃもう遠い昔。"
+msgstr ""
+
+#. ID 5, Page 1, Line 12, Pos (9,5)
+msgid ""
+"マルゴ：\n"
+"気が付けば棺桶に片足突っ込んで、\n"
+"とうとうこの日を迎えちまった。"
+msgstr ""
+
+#. ID 5, Page 1, Line 18, Pos (9,5)
+msgid ""
+"マルゴ：\n"
+"今も覚えてるよ。\\|\n"
+"あの頃、冗談半分で笑い話にしてた事。"
+msgstr ""
+
+#. ID 5, Page 1, Line 21, Pos (9,5)
+msgid ""
+"マルゴ：\n"
+"\"そんな何十年も先の事言われても、\n"
+"危機感なんて持てない\"ってね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 27, Pos (9,5)
+msgid ""
+"マルゴ：\n"
+"まあ、\\.\\.時の流れは\n"
+"この世で最も残酷なものの一つだったって事さ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 38, Pos (9,5)
+msgid ""
+"マルゴ：\n"
+"キャサリン。\\|ベネディクタ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 40, Pos (9,5)
+msgid ""
+"マルゴ：\n"
+"最後の大仕事は、\n"
+"やっぱりあんた達じゃないとね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 46, Pos (9,5)
+msgid ""
+"マルゴ：\n"
+"きっちり仕上げて華々しく飾りな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 48, Pos (9,5)
+msgid ""
+"マルゴ：\n"
+"随分と遅れて来た、\\.\\.二人の引退を。"
+msgstr ""
+

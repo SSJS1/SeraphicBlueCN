@@ -1,0 +1,1774 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (4,6)
+msgid ""
+"女の子：\n"
+"こんどのお誕生日に新しい絵本を買ってもらうの。"
+msgstr ""
+
+#. ID 3, Page 1, Line 11, Pos (4,6)
+msgid ""
+"女の子：\n"
+"お誕生日に新しい絵本を買ってもらったの。\n"
+"大切にするわ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 18, Pos (4,6)
+msgid ""
+"女の子：\n"
+"もう新しい絵本なんていらない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 20, Pos (4,6)
+msgid ""
+"女の子：\n"
+"そのかわり、\n"
+"お母さんのケガが早く治ってほしいの。"
+msgstr ""
+
+#. ID 9, Page 1, Line 11, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"イリエナさんなら街はずれよ。\\.\\.\n"
+"週に一度の御墓参り。"
+msgstr ""
+
+#. ID 9, Page 1, Line 14, Pos (4,10)
+#. ID 9, Page 1, Line 80, Pos (4,10)
+msgid ""
+"レイク：\n"
+"今週はイリエナの当番なのか…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 16, Pos (4,10)
+#. ID 9, Page 1, Line 82, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"顔出しとく？\\.\\.\n"
+"それとも此処で待ってる？"
+msgstr ""
+
+#. ID 9, Page 1, Line 19, Pos (4,10)
+#. ID 9, Page 1, Line 85, Pos (4,10)
+msgid ""
+"レイク：\n"
+"勿論、顔を出しとく。"
+msgstr ""
+
+#. ID 9, Page 1, Line 42, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"あら。\\.\\.レイク君じゃない。"
+msgstr ""
+
+#. ID 9, Page 1, Line 44, Pos (4,10)
+msgid ""
+"レイク：\n"
+"\"イリエナ\"から依頼を受けてるんだが、\n"
+"見当たらないな？"
+msgstr ""
+
+#. ID 9, Page 1, Line 50, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"ちょっとレイク君。\\.\\.\n"
+"その呼び方、そろそろ如何にか成らないの？"
+msgstr ""
+
+#. ID 9, Page 1, Line 53, Pos (4,10)
+#. ID 9, Page 2, Line 7, Pos (4,10)
+#. ID 9, Page 3, Line 67, Pos (4,10)
+#. ID 15, Page 1, Line 112, Pos (9,3)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 55, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"イリエナさんは\n"
+"貴方にとって\"お母さん\"なのよ？"
+msgstr ""
+
+#. ID 9, Page 1, Line 61, Pos (4,10)
+msgid ""
+"レイク：\n"
+"(やれやれ…。\\|\n"
+" あのヤブ医者と言い、何だって俺の周りには…。)"
+msgstr ""
+
+#. ID 9, Page 1, Line 64, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"何ブツブツ言ってるの？"
+msgstr ""
+
+#. ID 9, Page 1, Line 66, Pos (4,10)
+msgid ""
+"レイク：\n"
+"何でもない。\\.\\.\n"
+"その件はまた考えとく。"
+msgstr ""
+
+#. ID 9, Page 1, Line 69, Pos (4,10)
+msgid ""
+"レイク：\n"
+"それで？ \\.\\.イリエナは何処に？"
+msgstr ""
+
+#. ID 9, Page 1, Line 71, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"もうっ…。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 77, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"イリエナさんなら街外れよ。\\.\\.\n"
+"週に一度の御墓参り。"
+msgstr ""
+
+#. ID 9, Page 1, Line 87, Pos (4,10)
+msgid ""
+"レイク：\n"
+"俺は\"あの野郎\"とは違うからな。"
+msgstr ""
+
+#. ID 9, Page 1, Line 92, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 4, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"レイク君。\\.\\.\n"
+"偶には子供達の相手もしてあげなさいよ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 9, Pos (4,10)
+msgid ""
+"レイク：\n"
+"気が向いたらな。"
+msgstr ""
+
+#. ID 9, Page 3, Line 7, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"あらレイク君、久しぶり。"
+msgstr ""
+
+#. ID 9, Page 3, Line 9, Pos (4,10)
+msgid ""
+"レイク：\n"
+"イリエナは？ 居ないのか？"
+msgstr ""
+
+#. ID 9, Page 3, Line 11, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"う～ん、ごめんなさいね。\n"
+"イリエナさん、今用事で出掛けてるのよ。"
+msgstr ""
+
+#. ID 9, Page 3, Line 17, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"…それにしても、レイク君、\n"
+"何だかちょっと変わったみたい。"
+msgstr ""
+
+#. ID 9, Page 3, Line 20, Pos (4,10)
+msgid ""
+"レイク：\n"
+"………？"
+msgstr ""
+
+#. ID 9, Page 3, Line 22, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"うーん…何て言うか、\\.\\.前はトゲトゲしかったのに、\\!\n"
+"ちょっと丸くなったと言うか、\\.\\s[2]\\.…\\.影が薄く……   \\^"
+msgstr ""
+
+#. ID 9, Page 3, Line 25, Pos (4,10)
+msgid ""
+"レイク：\n"
+"何だって？\\.\\.\\^"
+msgstr ""
+
+#. ID 9, Page 3, Line 27, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"あ、ううん、何でもないの。\\.\\.\n"
+"それより、顔を見せに来て呉れたんだよね？\n"
+"子供達も喜ぶわ。"
+msgstr ""
+
+#. ID 9, Page 3, Line 34, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"あ、そうそう、イリエナさんからこれを預かってたの。\n"
+"もし留守中に尋ねて来たら渡すようにって。"
+msgstr ""
+
+#. ID 9, Page 3, Line 39, Pos (4,10)
+#. ID 9, Page 3, Line 79, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"ごめんなさいね。\n"
+"イリエナさん、今用事で出掛けてるのよ。"
+msgstr ""
+
+#. ID 9, Page 3, Line 45, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"そうそう、イリエナさんからこれを預かってたの。\n"
+"もし留守中に尋ねて来たら渡すようにって。"
+msgstr ""
+
+#. ID 9, Page 3, Line 59, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"それと伝言。"
+msgstr ""
+
+#. ID 9, Page 3, Line 61, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"色々と大変だろうけど、頑張って。\n"
+"自分の進むべき道を、しっかりと見据えなさい。"
+msgstr ""
+
+#. ID 9, Page 3, Line 73, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"イリエナさんが出掛けている間、\n"
+"お姉さんは頑張らなくっちゃ。"
+msgstr ""
+
+#. ID 9, Page 4, Line 3, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"あれでレイク君、子供達からはお兄ちゃんとして\n"
+"それなりに慕われていたのよ。"
+msgstr ""
+
+#. ID 9, Page 4, Line 6, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"だから尚更、子供達にどう伝えれば良いのか\n"
+"分からなくて…。"
+msgstr ""
+
+#. ID 9, Page 4, Line 9, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"取り敢えずイリエナさんが元気に成ったら、\n"
+"相談して二人で決める事にするわ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 24, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"…うぅぅ……。"
+msgstr ""
+
+#. ID 9, Page 5, Line 33, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"え、ちょっと、何なの…？"
+msgstr ""
+
+#. ID 9, Page 5, Line 42, Pos (4,10)
+#. ID 9, Page 5, Line 52, Pos (4,10)
+msgid ""
+"お手伝いさん：\n"
+"照れちゃうから、そんなにくっ付かないで…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 3, Pos (18,10)
+msgid ""
+"イリエナ：\n"
+"余り無理するんじゃないよ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 4, Pos (18,10)
+msgid ""
+"イリエナ：\n"
+"レイク。\\.\\.ヴェーネちゃんをしっかり守るんだよ。"
+msgstr ""
+
+#. ID 10, Page 3, Line 11, Pos (18,10)
+msgid ""
+"イリエナ：\n"
+"御免ね。\\.\\.旅の御供があんな朴念仁じゃあ\n"
+"詰まらないでしょう？"
+msgstr ""
+
+#. ID 12, Page 1, Line 3, Pos (7,5)
+msgid ""
+"男の子：\n"
+"何だよ、レイクの兄ちゃん。\n"
+"結局剣のけいこ付けてくれないんじゃんか。"
+msgstr ""
+
+#. ID 15, Page 1, Line 17, Pos (9,3)
+#. ID 15, Page 1, Line 146, Pos (9,3)
+msgid ""
+"レイク：\n"
+"北東の洞窟に巣食うイーヴルの掃討。\\.\\.\n"
+"前金無しの成功報酬で1000。"
+msgstr ""
+
+#. ID 15, Page 1, Line 20, Pos (9,3)
+msgid ""
+"レイク：\n"
+"行って来る。"
+msgstr ""
+
+#. ID 15, Page 1, Line 30, Pos (9,3)
+msgid ""
+"レイク：\n"
+"さてと、\\.\\.早速だが詳細を聞かせて呉れ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 39, Pos (9,3)
+msgid ""
+"\n"
+"イリエナ：\n"
+"此処から少し北東に行った所に、\n"
+"小さな洞窟が在るのは知ってるよね？"
+msgstr ""
+
+#. ID 15, Page 1, Line 43, Pos (9,3)
+msgid ""
+"\n"
+"レイク：\n"
+"ああ。\\.\\.確かそんなのが在ったな。"
+msgstr ""
+
+#. ID 15, Page 1, Line 46, Pos (9,3)
+msgid ""
+"\n"
+"レイク：\n"
+"其処が現場か。"
+msgstr ""
+
+#. ID 15, Page 1, Line 49, Pos (9,3)
+msgid ""
+"\n"
+"イリエナ：\n"
+"そう、イーヴルが棲み付いてるみたいなのよ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 52, Pos (9,3)
+msgid ""
+"\n"
+"イリエナ：\n"
+"今まで此処がイーヴルに襲われた事は\n"
+"一度も無いけれど、今回は場所が近いでしょう？"
+msgstr ""
+
+#. ID 15, Page 1, Line 56, Pos (9,3)
+msgid ""
+"\n"
+"レイク：\n"
+"確かにな。\\.\\.トゥルクも襲われた事だし。"
+msgstr ""
+
+#. ID 15, Page 1, Line 59, Pos (9,3)
+msgid ""
+"\n"
+"イリエナ：\n"
+"そうそう。\\.\\.いよいよもって物騒だねぇ…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 62, Pos (9,3)
+msgid ""
+"\n"
+"レイク：\n"
+"それ程心配する必要は無い。\\.\\.\n"
+"この辺のは雑魚ばかりだから直ぐに片付く。"
+msgstr ""
+
+#. ID 15, Page 1, Line 66, Pos (9,3)
+msgid ""
+"\n"
+"イリエナ：\n"
+"そう言って貰えると心強いよ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 70, Pos (9,3)
+msgid ""
+"\n"
+"イリエナ：\n"
+"でも済まないね。"
+msgstr ""
+
+#. ID 15, Page 1, Line 73, Pos (9,3)
+msgid ""
+"\n"
+"イリエナ：\n"
+"他に請け負って呉れる人さえ居れば、\n"
+"お前にこんな危ない事…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 77, Pos (9,3)
+msgid ""
+"\n"
+"レイク：\n"
+"言っただろう？\\.\\.\n"
+"雑魚ばかりで別段危険は無いんだ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 82, Pos (9,3)
+msgid ""
+"\n"
+"イリエナ：\n"
+"そんなもんかねぇ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 85, Pos (9,3)
+msgid ""
+"\n"
+"レイク：\n"
+"ああ、\\.\\.そんなもんだ。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 95, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"それじゃあ、御願いするよ。\\|\n"
+"報酬はどの位欲しい？"
+msgstr ""
+
+#. ID 15, Page 1, Line 98, Pos (9,3)
+msgid ""
+"レイク：\n"
+"タダで良いさ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 100, Pos (9,3)
+msgid ""
+"レイク：\n"
+"簡単な仕事だし、\n"
+"\"育ての親\"からふんだくる程困ってない。"
+msgstr ""
+
+#. ID 15, Page 1, Line 103, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"そんなの駄目だよ。\\.\\.\n"
+"イーヴルスイーパーなんでしょ？"
+msgstr ""
+
+#. ID 15, Page 1, Line 106, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"こういう事はきっちりしとかないと。\\|\n"
+"只でさえお前を危ない目に遭わせるんだから。"
+msgstr ""
+
+#. ID 15, Page 1, Line 114, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 119, Pos (9,3)
+msgid ""
+"レイク：\n"
+"分かったよ。\\.\\.\n"
+"相場で適当に決めて呉れ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 122, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"じゃあ5000で如何だい？"
+msgstr ""
+
+#. ID 15, Page 1, Line 124, Pos (9,3)
+msgid ""
+"レイク：\n"
+"本気か？ \\.\\.雑魚相手に高過ぎる。"
+msgstr ""
+
+#. ID 15, Page 1, Line 126, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"良いんだよ、\\.\\.小遣いも込みさ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 128, Pos (9,3)
+msgid ""
+"レイク：\n"
+"報酬の話をしてるのに\n"
+"何で小遣いが出て来るんだ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 131, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"遠慮しないの。\\.\\.\n"
+"久し振りに戻って来たんだからさ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 134, Pos (9,3)
+msgid ""
+"レイク：\n"
+"駄目だ。\\.\\.高過ぎる。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 139, Pos (9,3)
+msgid ""
+"レイク：\n"
+"1000。\\.\\.これで受けよう。"
+msgstr ""
+
+#. ID 15, Page 1, Line 141, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"たったそれだけ？\\|\n"
+"もっと貰いなさい。"
+msgstr ""
+
+#. ID 15, Page 1, Line 144, Pos (9,3)
+msgid ""
+"レイク：\n"
+"いいや駄目だ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 149, Pos (9,3)
+msgid ""
+"レイク：\n"
+"行って来る。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 152, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"ちょっと…！ \\.\\.レイク…！\\|\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 157, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"相っ変わらず不器用だ事。"
+msgstr ""
+
+#. ID 15, Page 1, Line 159, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"父親似だね。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 2, Line 24, Pos (9,3)
+msgid ""
+"レイク：\n"
+"2000入ってるぞ。\\.\n"
+"契約では1000の筈だ。"
+msgstr ""
+
+#. ID 15, Page 2, Line 27, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"そうだよ。\\.もう1000は御小遣い。"
+msgstr ""
+
+#. ID 15, Page 2, Line 32, Pos (9,3)
+#. ID 15, Page 2, Line 77, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"ところでレイク、この後は？"
+msgstr ""
+
+#. ID 15, Page 2, Line 34, Pos (9,3)
+msgid ""
+"レイク：\n"
+"別に。"
+msgstr ""
+
+#. ID 15, Page 2, Line 36, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"だったら丁度良かった。\\.\n"
+"今し方ランゲルさんから連絡が在ったのよ。"
+msgstr ""
+
+#. ID 15, Page 2, Line 39, Pos (9,3)
+#. ID 15, Page 2, Line 84, Pos (9,3)
+msgid ""
+"レイク：\n"
+"ヤブ医者から？"
+msgstr ""
+
+#. ID 15, Page 2, Line 41, Pos (9,3)
+#. ID 15, Page 2, Line 86, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"お前に依頼が在るから、\n"
+"手隙で良いんで診療所に来て呉れって。"
+msgstr ""
+
+#. ID 15, Page 2, Line 50, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"助かったよ。\\.\\.これでまた暫くは安心だね。"
+msgstr ""
+
+#. ID 15, Page 2, Line 52, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"報酬はその封筒の中に入ってるから。\\.\\.\n"
+"間違い無いか確認して。"
+msgstr ""
+
+#. ID 15, Page 2, Line 55, Pos (9,3)
+msgid ""
+"レイク：\n"
+"ああ。\\.\\.成功報酬で確かに…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 15, Page 2, Line 60, Pos (9,3)
+msgid ""
+"レイク：\n"
+"2000入ってるぞ。\\.\\.\n"
+"契約では1000の筈だ。"
+msgstr ""
+
+#. ID 15, Page 2, Line 63, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"そうだよ。\\.\\.もう1000は御小遣い。"
+msgstr ""
+
+#. ID 15, Page 2, Line 65, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"持って行きなさいよ。"
+msgstr ""
+
+#. ID 15, Page 2, Line 70, Pos (9,3)
+msgid ""
+"レイク：\n"
+"やれやれ…。\\|分かったよ…。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 2, Line 72, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"そう。\\.\\.人の厚意は素直に受け取っておくもの。"
+msgstr ""
+
+#. ID 15, Page 2, Line 79, Pos (9,3)
+msgid ""
+"レイク：\n"
+"別に。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 2, Line 81, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"だったら丁度良かった。\\.\\.\n"
+"今し方ランゲルさんから連絡が在ったのよ。"
+msgstr ""
+
+#. ID 15, Page 2, Line 92, Pos (9,3)
+msgid ""
+"レイク：\n"
+"あのジジイ…。\\|\n"
+"如何いう風の吹き回しだ…。"
+msgstr ""
+
+#. ID 15, Page 2, Line 95, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"ぶつくさ言うんじゃないの。\\.\\.\n"
+"お前を頼ってるんだよ？"
+msgstr ""
+
+#. ID 15, Page 2, Line 98, Pos (9,3)
+msgid ""
+"レイク：\n"
+"嬉しくもない。"
+msgstr ""
+
+#. ID 15, Page 2, Line 103, Pos (9,3)
+msgid ""
+"レイク：\n"
+"まあ良いか。\\.\\.\n"
+"報酬をふんだくるまでだ。"
+msgstr ""
+
+#. ID 15, Page 3, Line 28, Pos (9,3)
+msgid ""
+"レイク：\n"
+"さあ、\\.行くぞ。"
+msgstr ""
+
+#. ID 15, Page 3, Line 61, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"そう…。\\|\n"
+"ホーイックに行って来るの…。"
+msgstr ""
+
+#. ID 15, Page 3, Line 64, Pos (9,3)
+msgid ""
+"レイク：\n"
+"だから少しの間、この界隈を留守にする。"
+msgstr ""
+
+#. ID 15, Page 3, Line 69, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"それで？ \\.\\.用事が終わったら戻って来るの？"
+msgstr ""
+
+#. ID 15, Page 3, Line 71, Pos (9,3)
+msgid ""
+"レイク：\n"
+"何とも言えないな。"
+msgstr ""
+
+#. ID 15, Page 3, Line 76, Pos (9,3)
+msgid ""
+"ヴェーネ：\n"
+"御免なさいイリエナさん。\\.\\.私の所為で…。"
+msgstr ""
+
+#. ID 15, Page 3, Line 78, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"良いんだよ。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 3, Line 80, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"私はレイクを、困った娘を見捨てる様な男に\n"
+"育てた覚えは無いんだから。"
+msgstr ""
+
+#. ID 15, Page 3, Line 86, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"レイク。\\.\\.ヴェーネちゃんを\n"
+"しっかりとボディガードしてあげるんだよ。"
+msgstr ""
+
+#. ID 15, Page 3, Line 89, Pos (9,3)
+msgid ""
+"レイク：\n"
+"分かってる。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 3, Line 92, Pos (9,3)
+msgid ""
+"レイク：\n"
+"只でさえ既に一度助けられて、\n"
+"挙げ句こんな事に成っちまったんだ。"
+msgstr ""
+
+#. ID 15, Page 3, Line 95, Pos (9,3)
+msgid ""
+"レイク：\n"
+"これ以上ヘタレた真似なんか。"
+msgstr ""
+
+#. ID 15, Page 3, Line 103, Pos (9,3)
+msgid ""
+"レイク：\n"
+"さてと。\\.\\.そろそろ行くか。"
+msgstr ""
+
+#. ID 15, Page 3, Line 105, Pos (9,3)
+msgid ""
+"ヴェーネ：\n"
+"そうね。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 3, Line 112, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"ああ、\\.\\.ちょっと待って。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 3, Line 117, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"暫く留守にするんだし、\\.\\.\n"
+"ホーイックって言ったら結構遠いでしょ？"
+msgstr ""
+
+#. ID 15, Page 3, Line 120, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"色々物入りかも知れないから…。"
+msgstr ""
+
+#. ID 15, Page 3, Line 122, Pos (9,3)
+msgid ""
+"レイク：\n"
+"餞別なら結構だ。"
+msgstr ""
+
+#. ID 15, Page 3, Line 124, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"あら。\\.\\.未だ何も言ってないのに。"
+msgstr ""
+
+#. ID 15, Page 3, Line 126, Pos (9,3)
+msgid ""
+"レイク：\n"
+"言わなくても分かる。"
+msgstr ""
+
+#. ID 15, Page 3, Line 128, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"良いじゃないの。\\.\\.\n"
+"そんなに堅い事言わなくても。"
+msgstr ""
+
+#. ID 15, Page 3, Line 133, Pos (9,3)
+msgid ""
+"ヴェーネ：\n"
+"そうね。\\.\\.厚意は素直に受け取っておくものよ。"
+msgstr ""
+
+#. ID 15, Page 3, Line 135, Pos (9,3)
+msgid ""
+"レイク：\n"
+"お前まで何言ってやがる。"
+msgstr ""
+
+#. ID 15, Page 3, Line 138, Pos (9,3)
+msgid ""
+"レイク：\n"
+"兎に角、結構だ。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 3, Line 141, Pos (9,3)
+msgid ""
+"レイク：\n"
+"さあ、\\.\\.行くぞ。\\|\\^"
+msgstr ""
+
+#. ID 15, Page 3, Line 158, Pos (9,3)
+msgid ""
+"お手伝いさん：\n"
+"行っちゃいましたね。"
+msgstr ""
+
+#. ID 15, Page 3, Line 160, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"あの娘も災難だよ。"
+msgstr ""
+
+#. ID 15, Page 3, Line 162, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"選りに選ってレイクみたいな朴念仁と\n"
+"旅するなんて。"
+msgstr ""
+
+#. ID 15, Page 3, Line 166, Pos (9,3)
+msgid ""
+"お手伝いさん：\n"
+"でもレイク君、\\.\\.\n"
+"何だかんだ言って逞しく見えましたよ？"
+msgstr ""
+
+#. ID 15, Page 3, Line 173, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"ねえ？\\|\\^"
+msgstr ""
+
+#. ID 15, Page 3, Line 175, Pos (9,3)
+msgid ""
+"お手伝いさん：\n"
+"何です？\\|\\^"
+msgstr ""
+
+#. ID 15, Page 3, Line 180, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"あの娘…\\|何だか不思議な感じがしなかった？"
+msgstr ""
+
+#. ID 15, Page 3, Line 185, Pos (9,3)
+msgid ""
+"お手伝いさん：\n"
+"さあ…。\\|私は特に何も…。"
+msgstr ""
+
+#. ID 15, Page 3, Line 187, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"私の気の所為かしら…。"
+msgstr ""
+
+#. ID 15, Page 3, Line 189, Pos (9,3)
+msgid ""
+"お手伝いさん：\n"
+"きっと天使だからじゃないんですか？"
+msgstr ""
+
+#. ID 15, Page 3, Line 191, Pos (9,3)
+msgid ""
+"お手伝いさん：\n"
+"見た目は人間そのものでも、\n"
+"やっぱり何処か感じる物が違うとか。"
+msgstr ""
+
+#. ID 15, Page 3, Line 197, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"\\S[2]そう…\\|なのかねぇ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 15, Page 3, Line 202, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"\\S[2]さっきの彼女…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 15, Page 3, Line 207, Pos (9,3)
+msgid ""
+"イリエナ：\n"
+"\\S[2]あの表情＜かお＞は…。\\|\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 36, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"その辺にしといて、少し休憩したら？"
+msgstr ""
+
+#. ID 17, Page 1, Line 38, Pos (14,3)
+msgid ""
+"お手伝いさん：\n"
+"ええ。\\.\\.でも直ぐ片付きますから。"
+msgstr ""
+
+#. ID 17, Page 1, Line 40, Pos (14,3)
+msgid ""
+"お手伝いさん：\n"
+"イリエナさんこそ、少し休んだら如何です？"
+msgstr ""
+
+#. ID 17, Page 1, Line 42, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"そうは行かないよ。\n"
+"もう直ぐフョードルが迎えに来るんだから。"
+msgstr ""
+
+#. ID 17, Page 1, Line 46, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"その前にもう少し手直ししとかないと。"
+msgstr ""
+
+#. ID 17, Page 1, Line 54, Pos (14,3)
+msgid ""
+"お手伝いさん：\n"
+"えっと…。\\|DLG法遺族会でしたっけ？"
+msgstr ""
+
+#. ID 17, Page 1, Line 56, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"そう、\\.\\.フェジテガーデンで\n"
+"遺族会主催の\"育児を考える集い\"っていう勉強会。"
+msgstr ""
+
+#. ID 17, Page 1, Line 59, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"私もパネラーに招かれた以上、\n"
+"しょうもない事言う訳にも行かないからね。"
+msgstr ""
+
+#. ID 17, Page 1, Line 62, Pos (14,3)
+msgid ""
+"お手伝いさん：\n"
+"大丈夫ですよ、\\.\\.イリエナさんなら。"
+msgstr ""
+
+#. ID 17, Page 1, Line 64, Pos (14,3)
+msgid ""
+"お手伝いさん：\n"
+"こうして孤児院を営んで、\n"
+"今までに多くの子供達を送り出して来たんですから。"
+msgstr ""
+
+#. ID 17, Page 1, Line 67, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"なら尚更さ。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 69, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"前情報でそういう触れ込みも在るだろうから、\n"
+"みんなの期待に応えないとね。"
+msgstr ""
+
+#. ID 17, Page 1, Line 76, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"さて…。\\.\\.こんなトコかね…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 78, Pos (14,3)
+msgid ""
+"お手伝いさん：\n"
+"出来上がりですか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 80, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"一応はね。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 82, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"これから向こうに行って\n"
+"最終チェックとリハーサルをして、明日が本番。"
+msgstr ""
+
+#. ID 17, Page 1, Line 85, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"会の翌日は御墓参りに行かなくちゃいけないから、\n"
+"帰るのは明後日の夜に成っちゃうね。"
+msgstr ""
+
+#. ID 17, Page 1, Line 88, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"その間、子供達を頼んだよ。\\|\n"
+"みんなも知ってるから、何か在ったら遠慮無く頼って。"
+msgstr ""
+
+#. ID 17, Page 1, Line 91, Pos (14,3)
+msgid ""
+"お手伝いさん：\n"
+"こっちは任せてください。\\.\\.\n"
+"イリエナさんこそ頑張って。"
+msgstr ""
+
+#. ID 17, Page 1, Line 94, Pos (14,3)
+msgid ""
+"お手伝いさん：\n"
+"あれから２年。\\.\\.発症率こそ下がったものの、\n"
+"ディスピスの影は決して消えてはいませんから。"
+msgstr ""
+
+#. ID 17, Page 1, Line 97, Pos (14,3)
+msgid ""
+"お手伝いさん：\n"
+"イリエナさんのスピーチが、\n"
+"皆さんに勇気を与えますように。"
+msgstr ""
+
+#. ID 17, Page 1, Line 100, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"そうだね。\\.\\.\n"
+"やるからにはその位に心を込めてね。"
+msgstr ""
+
+#. ID 17, Page 1, Line 115, Pos (14,3)
+msgid ""
+"フョードル：\n"
+"御迎えに上がりましたぜ、\\.\\.マザー･イリエナ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 117, Pos (14,3)
+msgid ""
+"フョードル：\n"
+"準備は宜しいですかな？"
+msgstr ""
+
+#. ID 17, Page 1, Line 119, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"バッチリだよ。\\.\\.任せときな。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 121, Pos (14,3)
+msgid ""
+"フョードル：\n"
+"そいつは心強い。\\.\\.\n"
+"オーディエンスも心待ちにしてる。"
+msgstr ""
+
+#. ID 17, Page 1, Line 124, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"何だって出来る気がするよ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 126, Pos (14,3)
+msgid ""
+"イリエナ：\n"
+"この空の下で、\\.\\.\n"
+"あの子達が見守って呉れてる限りはね。"
+msgstr ""
+
+#. ID 18, Page 1, Line 31, Pos (12,3)
+msgid ""
+"ヴェーネ：\n"
+"イリエナさん…。\\|やっぱり未だ意識が…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 33, Pos (12,3)
+msgid ""
+"お手伝いさん：\n"
+"ええ…。\\|\n"
+"取り敢えず峠は越えたようだけれど…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 39, Pos (12,3)
+msgid ""
+"お手伝いさん：\n"
+"まさかレイク君が逝ってしまうなんて、ね…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 41, Pos (12,3)
+msgid ""
+"お手伝いさん：\n"
+"正直な所、\\.\\.実感が沸かないわ…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 46, Pos (12,3)
+#. ID 18, Page 1, Line 98, Pos (12,3)
+#. ID 21, Page 1, Line 152, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 54, Pos (12,3)
+msgid ""
+"お手伝いさん：\n"
+"イリエナさんには、私から伝えておくわ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 56, Pos (12,3)
+msgid ""
+"お手伝いさん：\n"
+"もう行ったら？\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 58, Pos (12,3)
+msgid ""
+"お手伝いさん：\n"
+"やらなきゃいけない事、\\.\\.有るんでしょ？"
+msgstr ""
+
+#. ID 18, Page 1, Line 63, Pos (12,3)
+msgid ""
+"ヴェーネ：\n"
+"そうね…。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 65, Pos (12,3)
+msgid ""
+"ヴェーネ：\n"
+"私は私で、\\.\\.必ず使命を果たしてみせるわ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 74, Pos (12,3)
+msgid ""
+"イリエナ：\n"
+"\\S[5]レイク…。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 79, Pos (12,3)
+msgid ""
+"ヴェーネ：\n"
+"うわ言…？\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 84, Pos (12,3)
+msgid ""
+"イリエナ：\n"
+"\\S[5]行っておいで…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 89, Pos (12,3)
+msgid ""
+"お手伝いさん：\n"
+"分かっているのかも知れないわね。"
+msgstr ""
+
+#. ID 18, Page 1, Line 91, Pos (12,3)
+msgid ""
+"お手伝いさん：\n"
+"だって…\\|イリエナさんだもの。"
+msgstr ""
+
+#. ID 18, Page 1, Line 93, Pos (12,3)
+msgid ""
+"お手伝いさん：\n"
+"レイク君の事なら、\\.\\.何でも御見通し。"
+msgstr ""
+
+#. ID 18, Page 1, Line 104, Pos (12,3)
+msgid ""
+"ヴェーネ：\n"
+"レイクから貴女に、\\.\\.伝言が在ります。"
+msgstr ""
+
+#. ID 18, Page 1, Line 106, Pos (12,3)
+msgid ""
+"ヴェーネ：\n"
+"彼が死ぬ間際に私に託した言葉です。"
+msgstr ""
+
+#. ID 18, Page 1, Line 111, Pos (12,3)
+msgid ""
+"ヴェーネ：\n"
+"少なくとも私が知る限りでは…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 113, Pos (12,3)
+msgid ""
+"ヴェーネ：\n"
+"最高の笑顔でした。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 30, Pos (13,3)
+msgid ""
+"お手伝いさん：\n"
+"本当に大丈夫なのかしら…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 32, Pos (13,3)
+msgid ""
+"ヤンシー：\n"
+"心身共に過度の負担を掛け過ぎたのよ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 34, Pos (13,3)
+msgid ""
+"ヤンシー：\n"
+"先のゲオルクの動乱で散々に掻き回されて…。\\|\n"
+"挙げ句レイクまでも失って…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 37, Pos (13,3)
+msgid ""
+"ヤンシー：\n"
+"更に言えば、少し前にユアンを失った事で、\n"
+"既に下駄履きが掛かっていた。"
+msgstr ""
+
+#. ID 21, Page 1, Line 40, Pos (13,3)
+msgid ""
+"ヤンシー：\n"
+"不遇の一言よ。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 45, Pos (13,3)
+msgid ""
+"お手伝いさん：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 50, Pos (13,3)
+msgid ""
+"ヤンシー：\n"
+"しかし典型的な抱え込みの気質ね…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 52, Pos (13,3)
+msgid ""
+"ヤンシー：\n"
+"この境遇で多少の弱音＜ほんね＞を吐いたとしても、\n"
+"そんなの誰も責めやしないのに…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 58, Pos (13,3)
+msgid ""
+"ヤンシー：\n"
+"彼女なりの解決法＜ルール＞なんでしょうね。"
+msgstr ""
+
+#. ID 21, Page 1, Line 60, Pos (13,3)
+msgid ""
+"ヤンシー：\n"
+"\"問題\"とは、自己の外に漏れて初めて問題となり、\n"
+"漏れない限りは問題ではないと…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 63, Pos (13,3)
+msgid ""
+"ヤンシー：\n"
+"だから総てを自己の裡で封殺して、\n"
+"如何なる問題も起きていないものとする。"
+msgstr ""
+
+#. ID 21, Page 1, Line 69, Pos (13,3)
+msgid ""
+"ドリス：\n"
+"おネエちゃん…。\\|\n"
+"マエからずっとこうだった…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 72, Pos (13,3)
+msgid ""
+"ドリス：\n"
+"いっつもワタシのコトばかり気に掛けて…。"
+msgstr ""
+
+#. ID 21, Page 1, Line 74, Pos (13,3)
+msgid ""
+"ドリス：\n"
+"でもジブンのコトは、\\.\\.\n"
+"ぜんぜんハナしてくれなかったの。"
+msgstr ""
+
+#. ID 21, Page 1, Line 77, Pos (13,3)
+msgid ""
+"ドリス：\n"
+"ダイジョウブ。\\|ダイジョウブ。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 79, Pos (13,3)
+msgid ""
+"ドリス：\n"
+"そればっかり。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 84, Pos (13,3)
+msgid ""
+"ドリス：\n"
+"だからワタシ…。\\|\n"
+"おネエちゃんのコト…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 87, Pos (13,3)
+msgid ""
+"ドリス：\n"
+"\\S[2]ゼンゼン、\\.\\.知らない。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 110, Pos (13,3)
+msgid ""
+"お手伝いさん：\n"
+"本当に大丈夫なの？"
+msgstr ""
+
+#. ID 21, Page 1, Line 112, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"充分に眠ったわ。\\.\\.有難う。"
+msgstr ""
+
+#. ID 21, Page 1, Line 114, Pos (13,3)
+msgid ""
+"お手伝いさん：\n"
+"そんなに急がなくたって。\\.\\.\n"
+"何なら子供達と御飯でも食べて行けば？"
+msgstr ""
+
+#. ID 21, Page 1, Line 117, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"気持ちだけ受け取っておこうかしら。"
+msgstr ""
+
+#. ID 21, Page 1, Line 122, Pos (13,3)
+msgid ""
+"お手伝いさん：\n"
+"本当に…\\.\\.無理しちゃ駄目よ？"
+msgstr ""
+
+#. ID 21, Page 1, Line 124, Pos (13,3)
+msgid ""
+"お手伝いさん：\n"
+"息子に続いて娘にまで何か在ったんじゃあ、\n"
+"イリエナさんが可哀想だから。"
+msgstr ""
+
+#. ID 21, Page 1, Line 130, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"娘…？\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 132, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"若しかして、私の事…？"
+msgstr ""
+
+#. ID 21, Page 1, Line 134, Pos (13,3)
+msgid ""
+"お手伝いさん：\n"
+"そうよ。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 136, Pos (13,3)
+msgid ""
+"お手伝いさん：\n"
+"ずっとレイク君の傍に居た人なんだから、\n"
+"イリエナさんにしてみれば娘も同然。"
+msgstr ""
+
+#. ID 21, Page 1, Line 139, Pos (13,3)
+msgid ""
+"お手伝いさん：\n"
+"実際今まで、レイク君だけじゃなく貴女の事も、\n"
+"同じ様に気に掛けていたんだから。"
+msgstr ""
+
+#. ID 21, Page 1, Line 145, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"大家族なのね。"
+msgstr ""
+
+#. ID 21, Page 1, Line 147, Pos (13,3)
+msgid ""
+"お手伝いさん：\n"
+"そういう人なのよ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 157, Pos (13,3)
+msgid ""
+"お手伝いさん：\n"
+"迷惑…\\|だったかしら…？"
+msgstr ""
+
+#. ID 21, Page 1, Line 159, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"別にそんな事。\\|有難う。\\|\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 164, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]でも、\\.\\.遠慮しておくわ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 21, Page 1, Line 173, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"人の好意は素直に受け取れ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 175, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"何時かの私は、\\.\\.此処でレイクにそう諭したわね。"
+msgstr ""
+
+#. ID 21, Page 1, Line 180, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"でも…\\|こればかりは無理。"
+msgstr ""
+
+#. ID 21, Page 1, Line 182, Pos (13,3)
+msgid ""
+"ヴェーネ：\n"
+"生きる世界が、\\.\\.違うのだから。"
+msgstr ""
+
+#. ID 28, Page 1, Line 4, Pos (21,5)
+msgid ""
+"女の子：\n"
+"漢字の読み取りテスト、する？\n"
+"正解しても御褒美とかは無いけど。"
+msgstr ""
+
+#. ID 28, Page 1, Line 9, Pos (21,5)
+#. Choice (4 options)
+msgid ""
+"\\>次の問題へ\n"
+"\\>問題その１ \"呉れ\"\n"
+"\\>問題その２ \"心算\"\n"
+"\\>やめる"
+msgstr ""
+
+#. ID 28, Page 1, Line 13, Pos (21,5)
+#. Choice (4 options)
+msgid ""
+"\\>次の問題へ\n"
+"\\>問題その３ \"若しかして\"\n"
+"\\>問題その４ \"如何いう\"\n"
+"\\>問題その５ \"態々\""
+msgstr ""
+
+#. ID 28, Page 1, Line 17, Pos (21,5)
+#. Choice (4 options)
+msgid ""
+"\\>次の問題へ\n"
+"\\>問題その６ \"嘗て\"\n"
+"\\>問題その７ \"煩い\"\n"
+"\\>問題その８ \"須く\""
+msgstr ""
+
+#. ID 28, Page 1, Line 21, Pos (21,5)
+#. Choice (4 options)
+msgid ""
+"\\>次の問題へ\n"
+"\\>問題その９ \"此処\"\n"
+"\\>問題その10 \"兎も角\"\n"
+"\\>問題その11 \"所謂\""
+msgstr ""
+
+#. ID 28, Page 1, Line 25, Pos (21,5)
+#. Choice (2 options)
+msgid ""
+"\\>最初の問題へ\n"
+"\\>問題その12 \"御前\""
+msgstr ""
+
+#. ID 28, Page 1, Line 30, Pos (21,5)
+#. Contains choice at line 2 (3 options)
+msgid "女の子：\"御前\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 31, Pos (21,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"おぜん\n"
+"おまえ\n"
+"ごぜん"
+msgstr ""
+
+#. ID 28, Page 1, Line 37, Pos (21,5)
+msgid ""
+"女の子：\n"
+"\"ごぜん\" でも正解ね。"
+msgstr ""
+
+#. ID 28, Page 1, Line 42, Pos (21,5)
+msgid ""
+"女の子：\n"
+"\"おまえ\" でも正解ね。"
+msgstr ""
+
+#. ID 28, Page 1, Line 61, Pos (21,5)
+#. Contains choice at line 2 (3 options)
+msgid "女の子：\"此処\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 62, Pos (21,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"いずこ\n"
+"ここ\n"
+"ひしょ"
+msgstr ""
+
+#. ID 28, Page 1, Line 65, Pos (21,5)
+msgid ""
+"女の子：\n"
+"\"何処\" なら \"いずこ\" とか \"どこ\"\n"
+"って読めるんだけどね。"
+msgstr ""
+
+#. ID 28, Page 1, Line 78, Pos (21,5)
+#. Contains choice at line 2 (2 options)
+msgid "女の子：\"兎も角\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 79, Pos (21,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"うさぎもつの\n"
+"ともかく"
+msgstr ""
+
+#. ID 28, Page 1, Line 81, Pos (21,5)
+msgid ""
+"女の子：\n"
+"確かにそう読めるけど…。"
+msgstr ""
+
+#. ID 28, Page 1, Line 86, Pos (21,5)
+msgid ""
+"女の子：\n"
+"普通はそう読むわよね。"
+msgstr ""
+
+#. ID 28, Page 1, Line 92, Pos (21,5)
+#. Contains choice at line 2 (3 options)
+msgid "女の子：\"所謂\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 93, Pos (21,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"いわゆる\n"
+"しょぐう\n"
+"しょせん"
+msgstr ""
+
+#. ID 28, Page 1, Line 119, Pos (21,5)
+#. Contains choice at line 2 (3 options)
+msgid "女の子：\"嘗て\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 120, Pos (21,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"かつて\n"
+"なめて\n"
+"ほめて"
+msgstr ""
+
+#. ID 28, Page 1, Line 133, Pos (21,5)
+#. Contains choice at line 2 (3 options)
+msgid "女の子：\"煩い\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 134, Pos (21,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"うるさい\n"
+"やかましい\n"
+"わずらわしい"
+msgstr ""
+
+#. ID 28, Page 1, Line 137, Pos (21,5)
+msgid ""
+"女の子：\n"
+"\"煩い\" と \"煩わしい\" で読み方が変わるのよね。\n"
+"\"煩わしい\" の方は \"わずらわしい\" って読むのよね。"
+msgstr ""
+
+#. ID 28, Page 1, Line 146, Pos (21,5)
+msgid ""
+"女の子：\n"
+"\"煩い\" と \"煩わしい\" で読み方が変わるよ。\n"
+"\"煩わしい\" の方は \"わずらわしい\" って読むけどね。"
+msgstr ""
+
+#. ID 28, Page 1, Line 153, Pos (21,5)
+#. Contains choice at line 2 (3 options)
+msgid "女の子：\"須く\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 154, Pos (21,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"うなずく\n"
+"ことごとく\n"
+"すべからく"
+msgstr ""
+
+#. ID 28, Page 1, Line 180, Pos (21,5)
+#. Contains choice at line 2 (3 options)
+msgid "女の子：\"若しかして\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 181, Pos (21,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"ごとしかして\n"
+"もしかして\n"
+"わかしかして"
+msgstr ""
+
+#. ID 28, Page 1, Line 194, Pos (21,5)
+#. Contains choice at line 2 (2 options)
+msgid "女の子：\"如何いう\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 195, Pos (21,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いかがいう\n"
+"どういう"
+msgstr ""
+
+#. ID 28, Page 1, Line 205, Pos (21,5)
+#. Contains choice at line 2 (3 options)
+msgid "女の子：\"態々\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 206, Pos (21,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"いらいら\n"
+"たまたま\n"
+"わざわざ"
+msgstr ""
+
+#. ID 28, Page 1, Line 232, Pos (21,5)
+#. Contains choice at line 2 (2 options)
+msgid "女の子：\"呉れ\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 233, Pos (21,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"くれ\n"
+"ごれ"
+msgstr ""
+
+#. ID 28, Page 1, Line 237, Pos (21,5)
+msgid ""
+"女の子：\n"
+"正解！"
+msgstr ""
+
+#. ID 28, Page 1, Line 243, Pos (21,5)
+msgid ""
+"女の子：\n"
+"ブッブー！"
+msgstr ""
+
+#. ID 28, Page 1, Line 249, Pos (21,5)
+#. Contains choice at line 2 (2 options)
+msgid "女の子：\"心算\" この漢字は何と読むでしょうか？"
+msgstr ""
+
+#. ID 28, Page 1, Line 250, Pos (21,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"しんざん\n"
+"つもり"
+msgstr ""
+
+#. ID 28, Page 1, Line 262, Pos (21,5)
+msgid ""
+"女の子：\n"
+"してよー。"
+msgstr ""
+
+#. ID 28, Page 1, Line 266, Pos (21,5)
+msgid ""
+"女の子：\n"
+"お疲れ様ー。"
+msgstr ""
+

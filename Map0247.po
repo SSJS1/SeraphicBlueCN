@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 10, Pos (2,10)
+msgid ""
+"レイク：\n"
+"また濃いのが…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 15, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"どーだッ！ \\|驚いたかッ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 17, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"この大デブこそ、\n"
+"俺達のボスにしてケイオス最強の男ッ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 20, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"イート･ザ･ミート様ッ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 25, Pos (2,10)
+msgid ""
+"イート：\n"
+"てめえ細っこいな！ \\|肉食え、肉！"
+msgstr ""
+
+#. ID 3, Page 1, Line 27, Pos (2,10)
+msgid ""
+"イート：\n"
+"男だったら俺みたいに！"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (2,10)
+msgid ""
+"イート：\n"
+"分厚いハラのナイスガイ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 31, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"シビれるぜ、\\.\\.ボス！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 36, Pos (2,10)
+msgid ""
+"レイク：\n"
+"呆れて物も言えないぜ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 38, Pos (2,10)
+msgid ""
+"レイク：\n"
+"体臭はキツい。\\|脳味噌もダメ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 40, Pos (2,10)
+msgid ""
+"レイク：\n"
+"ブタが人間に成り損ねたか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 42, Pos (2,10)
+msgid ""
+"イート：\n"
+"ゲヘヘヘヘヘ！ \\|コイツは威勢が良いぜ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 44, Pos (2,10)
+msgid ""
+"イート：\n"
+"てめえこそ！\\|\n"
+"男のクセにナヨナヨしやがって！"
+msgstr ""
+
+#. ID 3, Page 1, Line 47, Pos (2,10)
+msgid ""
+"イート：\n"
+"肉食え、肉！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 49, Pos (2,10)
+msgid ""
+"イート：\n"
+"たらふく食え！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 54, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"ボス！ \\|こんな若造軽くヤっちゃってください！"
+msgstr ""
+
+#. ID 3, Page 1, Line 56, Pos (2,10)
+msgid ""
+"イート：\n"
+"おうよ！\\|\n"
+"食後の運動、カロリー消費ィ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 59, Pos (2,10)
+msgid ""
+"レイク：\n"
+"\"無駄な努力\"って言葉、知ってるか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 61, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"ちょっとボス！\\|\n"
+"あんなこと言ってますぜ！"
+msgstr ""
+
+#. ID 3, Page 1, Line 64, Pos (2,10)
+msgid ""
+"イート：\n"
+"おうよ！\\|\n"
+"肉のパワーを見せてやる！"
+msgstr ""
+
+#. ID 3, Page 1, Line 67, Pos (2,10)
+msgid ""
+"イート：\n"
+"お前なんか５分で挽き肉！"
+msgstr ""
+
+#. ID 3, Page 1, Line 69, Pos (2,10)
+msgid ""
+"イート：\n"
+"今夜のメニューは若造の肉塊＜ハンバーグ＞！"
+msgstr ""
+
+#. ID 3, Page 1, Line 71, Pos (2,10)
+msgid ""
+"イート：\n"
+"少しサイケな人肉晩餐＜カニバリズム･ディナー＞！"
+msgstr ""
+
+#. ID 3, Page 1, Line 73, Pos (2,10)
+msgid ""
+"イート：\n"
+"肉食うぜ、肉！"
+msgstr ""
+
+#. ID 3, Page 1, Line 75, Pos (2,10)
+msgid ""
+"イート：\n"
+"レッツ！ \\.\\.撲殺＜クッキング＞！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 14, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"うお\\S[2]ーーーッ!!\\|\n"
+"\\S[1]ボスが負けた\\S[2]ーーーッ!!\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 18, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"この野郎ッ！ \\|さては肉食ってるな！\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 20, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"たらふくッ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 22, Pos (2,10)
+msgid ""
+"レイク：\n"
+"煩いんだよ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 27, Pos (2,10)
+msgid ""
+"レイク：\n"
+"それより御覧の通りだ。\\|\n"
+"お前らのボスの負け。"
+msgstr ""
+
+#. ID 3, Page 2, Line 30, Pos (2,10)
+msgid ""
+"レイク：\n"
+"此処を通して貰おうか。"
+msgstr ""
+
+#. ID 3, Page 2, Line 36, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"\\S[2]そうは行かねえな…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 38, Pos (2,10)
+msgid ""
+"レイク：\n"
+"何…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 40, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"これから俺達は、このミート一味の次のボスを\n"
+"決めなくちゃならねえ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 43, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"\"人間狩り\"でな！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 48, Pos (2,10)
+msgid ""
+"レイク：\n"
+"人間…\\.\\.狩り…!?\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 50, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"おうよ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 52, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"チームのボスが潰された時、残された子分達は\n"
+"そのボスを潰した奴を全力で追い回す！"
+msgstr ""
+
+#. ID 3, Page 2, Line 55, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"そしてそいつを始末した奴が次のボスに成る！"
+msgstr ""
+
+#. ID 3, Page 2, Line 57, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"これがケイオスギャングの伝統、人間狩りよ！"
+msgstr ""
+
+#. ID 3, Page 2, Line 62, Pos (2,10)
+msgid ""
+"レイク：\n"
+"畜生ッ…！\\.\\.\n"
+"尻尾巻いて逃げるのが常＜セオリー＞だろうが…！"
+msgstr ""
+
+#. ID 3, Page 2, Line 65, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"残念だったな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 67, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"ケイオスってのはそれ程甘くもないし、\n"
+"フェアでもない。"
+msgstr ""
+
+#. ID 3, Page 2, Line 70, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"眼を付けられたら最後、\n"
+"肉を食われて骨の髄までしゃぶられるのさ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 76, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"だが俺達も鬼じゃねえ。\\|\n"
+"この場でお前に少しだけ時間をやろう。"
+msgstr ""
+
+#. ID 3, Page 2, Line 79, Pos (2,10)
+msgid ""
+"ゴロツキ：\n"
+"装備変えて、\\.\\.セーブして、\\.\\.肉食って。\\.\\.\n"
+"精々準備しとくんだな。"
+msgstr ""
+

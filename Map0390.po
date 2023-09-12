@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 18, Page 1, Line 4, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"こんな偶然が在るのですね。"
+msgstr ""
+
+#. ID 18, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ヴェーネを見知っている私と、\\.\\.\n"
+"ヴェーネを探している貴女達。"
+msgstr ""
+
+#. ID 18, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリスの事、\\.\\.彼女は何か話してなかった？"
+msgstr ""
+
+#. ID 18, Page 1, Line 14, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"残念ながら。\\.\\.状況が状況でしたので。"
+msgstr ""
+
+#. ID 18, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ところで皆さんは何故此処に？"
+msgstr ""
+
+#. ID 18, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"まさかヴェーネが此処に現れるなどと\n"
+"予見していた訳でもないでしょう。"
+msgstr ""
+
+#. ID 18, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリスをヴェーネの所に送り届ける為よ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"送り届ける…？\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"此奴の無鉄砲な発案でな。\\|\n"
+"ゲオルクの飛行船を強奪してフェジテに向かうそうだ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そうですか…。\\|それはまた…。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私も…。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"え？\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"私も…。\\.\\.御一緒して宜しいですか？"
+msgstr ""
+
+#. ID 18, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"え、\\.\\.ええ…。\\|\n"
+"構わないけど…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"もう気が済んだのか？"
+msgstr ""
+
+#. ID 18, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そういう訳ではないのですが…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"今此処に別の新しい道が開けているのなら、\n"
+"それを辿る事も出来るかと…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"神様の御導きって事かしら？"
+msgstr ""
+
+#. ID 18, Page 1, Line 72, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"\\S[2]神…\\|ですか…。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"その答えは、\\.\\.まだ保留にしておきます。"
+msgstr ""
+
+#. ID 18, Page 1, Line 86, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ねえ、\\.\\.もしかしてイッショに来るの？"
+msgstr ""
+
+#. ID 18, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ええ、\\.\\.新しいお仲間さん。\\|\n"
+"良かったね。"
+msgstr ""
+
+#. ID 18, Page 1, Line 91, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"うん、\\.\\.良かった。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 93, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ナカマがいると、ジンセイがユタかになるって。\\|\n"
+"おネエちゃんも言ってた。"
+msgstr ""
+
+#. ID 18, Page 1, Line 96, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ワタシもユタかになる？"
+msgstr ""
+
+#. ID 18, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"モチロン。\\.\\.\n"
+"私が保証するわ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 107, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"よろしくね、\\.\\.おじちゃん。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 109, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"宜しく、\\.\\.ドリス。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 118, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"お前も\"おじちゃん\"呼ばわりされたな。"
+msgstr ""
+
+#. ID 18, Page 1, Line 120, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"堪えますか？\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"平気なのか？\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 124, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"もう慣れてますから。"
+msgstr ""
+
+#. ID 18, Page 1, Line 129, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 134, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"一つ…\\.\\.訊いても良いですか？"
+msgstr ""
+
+#. ID 18, Page 1, Line 136, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"あの決戦の後、何故姿を？"
+msgstr ""
+
+#. ID 18, Page 1, Line 141, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"強いて言えば…\\|迷いだな。"
+msgstr ""
+
+#. ID 18, Page 1, Line 143, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"迷い…\\.\\.ですか…。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 145, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"ふと我に返って、\\.\\.\n"
+"自分の立っている場所が分からなく成る。"
+msgstr ""
+
+#. ID 18, Page 1, Line 148, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"巷では英雄の失踪だとか騒がれたようだが、\\.\\.\n"
+"それに到底相応しくない、些細な理由。"
+msgstr ""
+
+#. ID 18, Page 1, Line 151, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"良く在る話だ。\\|\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 156, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ええ。\\|良く在る話です。\\|\\.\\.\\^"
+msgstr ""
+

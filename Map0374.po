@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"私が地上統治部門で幹部に昇格して間も無くの頃。"
+msgstr ""
+
+#. ID 8, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"若くしての異例の昇進という周囲の声も在ってか、\n"
+"私は驕っていました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"若くしての異例の昇進という周囲の声もあってか、\n"
+"私はおごっていました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"グラウンドに対しても、\n"
+"モーガン達と同様の眼差しを向けていました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"劣等種の這い回る下界。"
+msgstr ""
+
+#. ID 8, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"或る時私は調査活動として、部下を引き連れ\n"
+"その下界の辺境を訪れていました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"そして其処でルシファー…。\\.\\.\n"
+"現地で言う所のイーヴルに遭遇しました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ある時私は調査活動として、部下を引き連れ\n"
+"その下界の辺境を訪れていました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"そしてそこでルシファー…。\\.\\.\n"
+"現地で言うところのイーヴルに遭遇しました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 55, Pos (0,0)
+msgid ""
+"部下：\n"
+"危険です！ \\.\\.ジェラール隊長！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 57, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"何を言う。\\.\\.この程度のルシファーなど。"
+msgstr ""
+
+#. ID 8, Page 1, Line 59, Pos (0,0)
+msgid ""
+"部下：\n"
+"この程度って…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 61, Pos (0,0)
+msgid ""
+"部下：\n"
+"しかし奴はかなり強力です！\\.\\.\n"
+"チェックした所、バウンティヘッドに\n"
+"指定されていました！"
+msgstr ""
+
+#. ID 8, Page 1, Line 66, Pos (0,0)
+msgid ""
+"部下：\n"
+"やはり此処は撤退して、\n"
+"後はバウンティハンターに任せるべきだと…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 71, Pos (0,0)
+msgid ""
+"部下：\n"
+"やはりここは撤退して、\n"
+"後はバウンティハンターに任せるべきだと…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 76, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"バウンティハンター…？"
+msgstr ""
+
+#. ID 8, Page 1, Line 84, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"委ねろと言うのか？\\.\\.\n"
+"劣等種＜パーソン＞に？"
+msgstr ""
+
+#. ID 8, Page 1, Line 87, Pos (0,0)
+#. ID 8, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"お前達には優等種＜セラパーソン＞としての\n"
+"誇りや自覚は無いのか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 90, Pos (0,0)
+msgid ""
+"部下：\n"
+"しかしッ…！\\|\n"
+"これでは余りに無謀ッ…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 95, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"ゆだねろと言うのか？\\.\\.\n"
+"劣等種＜パーソン＞に？"
+msgstr ""
+
+#. ID 8, Page 1, Line 101, Pos (0,0)
+msgid ""
+"部下：\n"
+"しかしッ…！\\|\n"
+"これではあまりに無謀ッ…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 109, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 117, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"良いではないか。"
+msgstr ""
+
+#. ID 8, Page 1, Line 119, Pos (0,0)
+#. ID 8, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"私はジェラール･アランソン。\\|\n"
+"異例の内政部幹部昇進を遂げた若手。"
+msgstr ""
+
+#. ID 8, Page 1, Line 122, Pos (0,0)
+#. ID 8, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\"力\"を示す良い機会だ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 124, Pos (0,0)
+msgid ""
+"部下：\n"
+"御止めくださいッ…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 126, Pos (0,0)
+#. ID 8, Page 1, Line 142, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"手出しは無用だ。\\.\\.私一人で片付ける。"
+msgstr ""
+
+#. ID 8, Page 1, Line 128, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"パーソンでも倒せる奴を、\n"
+"何故私が倒せない事など在ろうか。"
+msgstr ""
+
+#. ID 8, Page 1, Line 133, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"いいではないか。"
+msgstr ""
+
+#. ID 8, Page 1, Line 140, Pos (0,0)
+msgid ""
+"部下：\n"
+"お止めくださいッ…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 144, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"パーソンでも倒せる奴を、\n"
+"何故私が倒せないことなどあろうか。"
+msgstr ""
+
+#. ID 8, Page 1, Line 158, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"惨敗しました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 161, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"部下は恐れ戦き、私を助ける事も叶わぬまま\n"
+"逃げ出す以外に在りませんでした。"
+msgstr ""
+
+#. ID 8, Page 1, Line 164, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"そして私は必死の抵抗を繰り返し、\n"
+"何とかルシファーから逃げ延びる事には成功…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 167, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"しかし重いダメージを負い、\n"
+"暫く進んだ所で行き倒れてしまいました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 173, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"覚えています。\\|\n"
+"遠退く意識の中でこう言った事を。"
+msgstr ""
+
+#. ID 8, Page 1, Line 178, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"部下は恐れおののき、私を助けることも叶わぬまま\n"
+"逃げ出す以外にありませんでした。"
+msgstr ""
+
+#. ID 8, Page 1, Line 181, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"そして私は必死の抵抗を繰り返し、\n"
+"何とかルシファーから逃げ延びることには成功…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 184, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"しかし重いダメージを負い、\n"
+"しばらく進んだところで行き倒れてしまいました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 190, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"覚えています。\\|\n"
+"遠退く意識の中でこう言ったことを。"
+msgstr ""
+
+#. ID 8, Page 1, Line 195, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"我ながら\"名台詞\"だと、\\.\\.今も思います。"
+msgstr ""
+
+#. ID 8, Page 1, Line 206, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[5]こんな屈辱が…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 209, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[5]こんな死に方…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 212, Pos (0,0)
+msgid ""
+"ジェラール：\n"
+"\\S[5]こんな…\\|地べたに這いつくばって…！\\|\\|\\^"
+msgstr ""
+

@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 8, Pos (9,7)
+#. Contains choice at line 2 (3 options)
+msgid "店員：いらっしゃい。"
+msgstr ""
+
+#. ID 2, Page 1, Line 9, Pos (9,7)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 2, Page 1, Line 18, Pos (9,7)
+msgid ""
+"店員：\n"
+"この前C.M.G.Cが事実上壊滅しちまった事で、\n"
+"また有志がルートフォードに集まってるんだよ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 21, Pos (9,7)
+msgid ""
+"店員：\n"
+"だから最近それなりに売れるようになって来たんだ。\n"
+"こっちとしちゃあ本当に嬉しい限りだぜ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 26, Pos (9,7)
+msgid ""
+"店員：\n"
+"前はオーグの有志が此処を通っていったから、\n"
+"それなりに儲かってたんだよな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 29, Pos (9,7)
+msgid ""
+"店員：\n"
+"でも2年前にオーグがC.M.G.Cと関係を拗らせてから\n"
+"客足がめっきり途絶えちまった。"
+msgstr ""
+
+#. ID 2, Page 1, Line 32, Pos (9,7)
+msgid ""
+"店員：\n"
+"だからあんた達は久々の客って訳さ。\n"
+"品揃えは少ないけど、\n"
+"良かったら何か買っていってくれや。"
+msgstr ""
+
+#. ID 2, Page 1, Line 46, Pos (9,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"店員：\n"
+"いらっしゃい。"
+msgstr ""
+
+#. ID 2, Page 1, Line 48, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+

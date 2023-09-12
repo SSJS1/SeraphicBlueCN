@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 3, Pos (2,8)
+msgid ""
+"ケイン：\n"
+"この先は火器管制室。"
+msgstr ""
+
+#. ID 4, Page 1, Line 5, Pos (2,8)
+msgid ""
+"ケイン：\n"
+"元は輸送船だったこの船だけど、\n"
+"非常時に備えてこうして武装されてるのさ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 8, Pos (2,8)
+msgid ""
+"ケイン：\n"
+"気休め程度だけどな。"
+msgstr ""
+
+#. ID 7, Page 1, Line 12, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"\\S[2]畜生…。\\|何で選りに選って…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 16, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"\\S[5]エンデの野郎ォォォ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 19, Pos (0,0)
+msgid ""
+"\n"
+"ケイン：\n"
+"\\S[5]殺す…！ \\|何時か必ず…！\\|\\.\\.\\^"
+msgstr ""
+

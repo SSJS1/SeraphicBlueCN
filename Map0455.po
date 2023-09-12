@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 3, Pos (20,8)
+msgid ""
+"見習い兵士：\n"
+"女王陛下の名を冠した街に相応しく在るよう、\n"
+"常に清潔優美な街並みの保全が心掛けられている。"
+msgstr ""
+
+#. ID 6, Page 1, Line 6, Pos (20,8)
+msgid ""
+"見習い兵士：\n"
+"ゴミのポイ捨てだろうが即罰金。\n"
+"気を付ける事だ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 5, Pos (20,10)
+msgid ""
+"騎士：\n"
+"一度は反逆に加担したものの、\n"
+"自らの過ちに気付けば、後の祭り…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 8, Pos (20,10)
+msgid ""
+"騎士：\n"
+"モーガンより反乱分子と見なされてこの通りだ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 13, Pos (20,10)
+msgid ""
+"騎士：\n"
+"ところであんた達、\n"
+"ミネルヴァ様を助けに行く心算か？"
+msgstr ""
+
+#. ID 7, Page 1, Line 16, Pos (20,10)
+msgid ""
+"騎士：\n"
+"もしそうなら、恐らく\"奴\"が立ち塞がるだろう。"
+msgstr ""
+
+#. ID 7, Page 1, Line 18, Pos (20,10)
+msgid ""
+"騎士：\n"
+"奴は手強い。\n"
+"特に奴の隠し持つ奥義…。"
+msgstr ""
+
+#. ID 7, Page 1, Line 21, Pos (20,10)
+msgid ""
+"騎士：\n"
+"あの奥義を破れなければ、勝ち目は無いだろう。"
+msgstr ""
+
+#. ID 7, Page 1, Line 26, Pos (20,10)
+msgid ""
+"騎士：\n"
+"だが生憎、俺もその方法を知ってる訳じゃない。\n"
+"と言うより誰も知らないだろう。"
+msgstr ""
+
+#. ID 7, Page 1, Line 29, Pos (20,10)
+msgid ""
+"騎士：\n"
+"それ故に、奴はこの城内では無敗なんだからな。"
+msgstr ""
+
+#. ID 7, Page 1, Line 31, Pos (20,10)
+msgid ""
+"騎士：\n"
+"せめて俺が出来るのは、\n"
+"武道に於ける理を教えてやる事くらいだ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 39, Pos (20,10)
+msgid ""
+"騎士：\n"
+"武道に於ける、肉体の理。"
+msgstr ""
+
+#. ID 7, Page 1, Line 41, Pos (20,10)
+msgid ""
+"騎士：\n"
+"魂は無限なれど、肉体は有限である。\n"
+"有限なるもの、万能にはなり得ず。"
+msgstr ""
+
+#. ID 7, Page 1, Line 44, Pos (20,10)
+msgid ""
+"騎士：\n"
+"秀でたるものは劣れるもの。\n"
+"光と影は分かれ得ず。"
+msgstr ""
+
+#. ID 7, Page 1, Line 47, Pos (20,10)
+msgid ""
+"騎士：\n"
+"勝利せんとするもの、光と影を心得よ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 52, Pos (20,10)
+msgid ""
+"騎士：\n"
+"要するにだ、完全無欠の肉体なんて\n"
+"存在しないって事だ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 55, Pos (20,10)
+msgid ""
+"騎士：\n"
+"もし何かに飛び抜けて秀でているのなら、\n"
+"必ずその裏に隠された弱点がある。"
+msgstr ""
+
+#. ID 7, Page 1, Line 58, Pos (20,10)
+msgid ""
+"騎士：\n"
+"或いは何かの能力が飛び抜けたなら、\n"
+"必ずその裏で何かが犠牲にされている。"
+msgstr ""
+
+#. ID 7, Page 1, Line 61, Pos (20,10)
+msgid ""
+"騎士：\n"
+"勝ちたいなら、それを頭に入れとけって事だ。"
+msgstr ""
+

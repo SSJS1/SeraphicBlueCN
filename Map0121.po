@@ -1,0 +1,683 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 6, Pos (0,0)
+msgid ""
+"白衣の男：\n"
+"自己紹介が遅れちまったな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 8, Pos (0,0)
+msgid ""
+"白衣の男：\n"
+"俺はトロイ･アイスハーバー。\\|\n"
+"此処の研究者だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"有難う御座います。\\.\\.\n"
+"貴方の御陰でこうして中に入る事が出来ました。"
+msgstr ""
+
+#. ID 5, Page 1, Line 17, Pos (0,0)
+msgid ""
+"レイク：\n"
+"でも何で分かったんだ？\\|\n"
+"幼天使孤児の件で門前払い喰らってるって。"
+msgstr ""
+
+#. ID 5, Page 1, Line 20, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"分かるさ。\\.\\.\n"
+"牧師さんがガードマンと揉めてたんだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 23, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"喜ばしい事です。\\.\\.ラボの中にも私達に対して\n"
+"好意的な方々がいらっしゃったのですから。"
+msgstr ""
+
+#. ID 5, Page 1, Line 26, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"ま、\\.\\.余り数は多くないけどな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それじゃあ、貴方を通して\n"
+"ラボへの申し立てが出来るのね？"
+msgstr ""
+
+#. ID 5, Page 1, Line 38, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"残念だが、\\.\\.そいつは無理だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"え…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 42, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"実を言うとな、\n"
+"俺も此処じゃ肩身の狭い状況なんだよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 45, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"特に今は仕事を干されてる。\\|\n"
+"現場＜ラボ＞から締め出されての接待係だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 48, Pos (0,0)
+msgid ""
+"レイク：\n"
+"幼天使孤児の絡みで村八分でも喰らったのか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 50, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"絡みと言うか、気質の問題だな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 55, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"此処の御偉方は概して研究一辺倒、\\.\\.\n"
+"研究至上主義的、\\.\\.旧時代の研究馬鹿が多い。"
+msgstr ""
+
+#. ID 5, Page 1, Line 58, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"そして新世代とは言わないが、\n"
+"そんな連中を嫌う、俺の様な人種。"
+msgstr ""
+
+#. ID 5, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"その一例が幼天使孤児…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 63, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"ああ。\\.\\.水と油ってのはこの事だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 65, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"切っ掛けさえ在れば自分のテリトリーから\n"
+"締め出して遣ろうと殺気立ってる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 68, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"この間も、ちょっと口を滑らせたばかりに\n"
+"ラボから締め出されるザマだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"何かまずい事でも言ったのですか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 77, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"既成概念の転覆。\\|\n"
+"白が善で黒が悪と、誰が決めた？"
+msgstr ""
+
+#. ID 5, Page 1, Line 80, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"ならば、\"その価値\"を我々は認めなければならない。"
+msgstr ""
+
+#. ID 5, Page 1, Line 82, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"黒は善なり。\\|白は悪なり。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 84, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"ってな感じ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 89, Pos (0,0)
+msgid ""
+"レイク：\n"
+"やれやれ…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 91, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"面倒の多い人種ね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 93, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"黒はイーヴルの黒翼…。\\|\n"
+"白はホワイトウィングの白翼…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 96, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"しかしまさかそれを、\n"
+"このラボの中で言うなどとは…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 99, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"だが重要な事だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 105, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"既成概念とは盤石な大地。\\|\n"
+"大いに頼り甲斐が在り、安住を求める気持ちも分かる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 108, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"しかしそれは\"天地\"の\"地\"。\\|\n"
+"所詮は世界の半分でしかない。"
+msgstr ""
+
+#. ID 5, Page 1, Line 111, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"そして\"天\"をも知ろうとすれば、\n"
+"大地から足を離す必要が在る。"
+msgstr ""
+
+#. ID 5, Page 1, Line 114, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"安住の基盤を放棄して、\n"
+"途方も無く広がる空を漂う必要が在る。"
+msgstr ""
+
+#. ID 5, Page 1, Line 117, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"さもなくば、\\.\\.世界を完全に知る事は出来ない。"
+msgstr ""
+
+#. ID 5, Page 1, Line 122, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"新しい発見を望むのならば、\n"
+"時として既成概念を放棄しなくてはならない。"
+msgstr ""
+
+#. ID 5, Page 1, Line 125, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"たとえそれが身内＜コミュニティ＞の\n"
+"タブーで在ってもだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 128, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"否寧ろ、\\.\\.タブーで在るが故に、\\.\\.\n"
+"それを口実に眼を背ている真実が在る筈。"
+msgstr ""
+
+#. ID 5, Page 1, Line 131, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"ならば俺は、\\.\\.その真実を求める。"
+msgstr ""
+
+#. ID 5, Page 1, Line 136, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"捻くれる事は重要さ。\\|\n"
+"例えば、黒を善として白を悪とするとか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 139, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"色々不便は付き纏うけどな。\\|\n"
+"こうして接待係をやらされたりとか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 146, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"とまあそういう訳で、\n"
+"俺を窓口に使う事は出来ないんだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 149, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"出来るとすれば、それこそさっきの芝居の通り。\\|\n"
+"俺がプライベートで要求を聞いて遣る事だけ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 155, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"悪かったな。\\.\\.糠喜びさせちまって。"
+msgstr ""
+
+#. ID 5, Page 1, Line 157, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"良いんですよ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 159, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"貴方に出会えて、\\.\\.貴方の様な方々の存在を\n"
+"確認出来ただけで、\\.\\.充分な収穫です。"
+msgstr ""
+
+#. ID 5, Page 1, Line 162, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"前途は決して暗黒ではないと。"
+msgstr ""
+
+#. ID 5, Page 1, Line 164, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"そう言って貰えると、\n"
+"少しは捻くれた甲斐も在ったかな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 170, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"そうだ。\\.\\.何か欲しいデータとか在るか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 172, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"如何するのですか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 174, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"見せて遣るよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 176, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"大丈夫なのですか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 178, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"上に見付からないようにすれば。"
+msgstr ""
+
+#. ID 5, Page 1, Line 183, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"駄目って事ね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 185, Pos (0,0)
+msgid ""
+"レイク：\n"
+"でも折角のチャンスだろ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 190, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それでは天使研究のデータを、\n"
+"可能な限りで御願い出来ますか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 193, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"ＯＫ。\\.\\.ちょっと待ってな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 205, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"取り敢えず、手近なモノを。"
+msgstr ""
+
+#. ID 5, Page 1, Line 207, Pos (0,0)
+msgid ""
+"レイク：\n"
+"現場を締め出される訳だ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 212, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"これらは全部、以前行った子供達の\n"
+"健康診断データを基にしているのですか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 215, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"大体そうだな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 217, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"差し障り無ければ、\n"
+"診断内容を教えて頂けませんか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 223, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"そうだな…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 225, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"脈拍測定、\\.\\.血液検査、\\.\\.身体測定、\\.\\.\n"
+"それに心電図と脳波測定。\\|\n"
+"後はオマケで簡単な心理テスト等々…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 229, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"大きな病院の少々本格的な検査と殆ど同じさ。\\|\n"
+"決してヤバい事はしちゃいない。"
+msgstr ""
+
+#. ID 5, Page 1, Line 232, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そうですか。\\.\\.\n"
+"それを聞いて安心しました。"
+msgstr ""
+
+#. ID 5, Page 1, Line 238, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それにしても、色々と結果は出てるのね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 240, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"この『天使の翼に関して』とか…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 246, Pos (0,0)
+#. ID 5, Page 2, Line 7, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"天使の翼は通常分子レベルで分解されて体内に\n"
+"抑制係留されている。"
+msgstr ""
+
+#. ID 5, Page 1, Line 249, Pos (0,0)
+#. ID 5, Page 2, Line 10, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そして極度の集中状態や意識喪失時等にその抑制が\n"
+"解除され、体外に翼状の身体器官を形成する。"
+msgstr ""
+
+#. ID 5, Page 1, Line 252, Pos (0,0)
+#. ID 5, Page 2, Line 13, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"時に通常状態の翼に関して、体内での分子配列が\n"
+"各個体毎に固有で在り、何らかの個体情報を形成する\n"
+"可能性が伺える。"
+msgstr ""
+
+#. ID 5, Page 1, Line 256, Pos (0,0)
+#. ID 5, Page 2, Line 17, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"人間と天使との体組織構成が、\n"
+"翼の部分を除いて殆ど同じで在る事を考えると…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 259, Pos (0,0)
+#. ID 5, Page 2, Line 20, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"翼は本来の人間の身体に保存し切れない情報を\n"
+"保存しておく為の拡張器官とも言えるだろう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 262, Pos (0,0)
+#. ID 5, Page 2, Line 23, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ならばその保存された情報が何で在るのか。\n"
+"それを突き止めた時、天使の正体に一気に近付く事が\n"
+"出来るだろう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 269, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"それ、\\.\\.面白いんだよな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 271, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"\"天使の翼\"なんて良く言うけど、\n"
+"実はその翼は分子配列としての個体情報なんだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 274, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"体組織構成が人間と同じで在る以上、その翼の有無が\n"
+"人間と天使を分かつポイントに成っている。"
+msgstr ""
+
+#. ID 5, Page 1, Line 277, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"果たして、天使が人間よりも\n"
+"\"翼の分だけ\"余分に持ってる情報とは何なのか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 280, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"みんな血眼に成って探ってるぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 285, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"ああ…。\\|もう一つだけ\n"
+"人間と天使を分かつポイントが在ったかな。"
+msgstr ""
+
+#. ID 5, Page 1, Line 288, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"心理テストとか脳波検査で分かったんだけど、\n"
+"どうも全員二重人格っぽい所が在るんだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 291, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"二重人格？ \\|子供達が？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 293, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"否、\"二重人格\"じゃなくて\"二重人格っぽい\"んだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 295, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"露骨に二つの人格が在るんじゃなくて、\n"
+"心理の奥深い所で、極弱く通常とは別の人格が\n"
+"在るんじゃないかって事。"
+msgstr ""
+
+#. ID 5, Page 1, Line 299, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"そしてこの傾向は、年齢が幼い程強い。"
+msgstr ""
+
+#. ID 5, Page 1, Line 301, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"多分自我の形成と共に、その別の人格は消えるか\n"
+"或いは弱体化しているんだろう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 307, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"不思議なものね…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 314, Pos (0,0)
+msgid ""
+"レイク：\n"
+"お前が言うと何か変だな、その台詞。"
+msgstr ""
+
+#. ID 5, Page 1, Line 316, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"確かに。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 321, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"ん…？ \\|何だ何だ？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 325, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"実は彼女も天使でした、\\.\\.\n"
+"なんて言わないだろうな？"
+msgstr ""
+
+#. ID 5, Page 1, Line 331, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[3]そんなバカな…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 333, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]ねえ…？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 335, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"だよな～。\\|\n"
+"成人女性の天使なんて前代未聞だぜ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 338, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"研究材料にしようと上の連中が\n"
+"牙を剥いて襲い掛かって来るだろうよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 341, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"厭な人種ね。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 343, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"クソッタレさ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 348, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"さてと。\\.\\.余り長居しても悪いですね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 350, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"他に訊きたい事とかは？"
+msgstr ""
+
+#. ID 5, Page 1, Line 352, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"御気遣い無く。\\|\n"
+"この度は有難う御座いました。"
+msgstr ""
+
+#. ID 5, Page 1, Line 355, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"また何か在ったら、遠慮無く頼って呉れよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 357, Pos (0,0)
+msgid ""
+"トロイ：\n"
+"まだ当分は暇してるぜ。"
+msgstr ""
+

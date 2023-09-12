@@ -1,0 +1,484 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 16, Page 1, Line 31, Pos (20,5)
+#. ID 16, Page 1, Line 294, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"僕は先に倉庫前に行っていますので、\n"
+"皆さんは準備を万端に。"
+msgstr ""
+
+#. ID 16, Page 1, Line 34, Pos (20,5)
+#. ID 16, Page 1, Line 297, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"僕が倉庫のロックを解除して、\n"
+"奴が飛び出して来た所を皆さんが倒します。"
+msgstr ""
+
+#. ID 16, Page 1, Line 55, Pos (20,5)
+#. ID 16, Page 1, Line 375, Pos (20,5)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 66, Pos (20,5)
+msgid ""
+"レイク：\n"
+"怪しそうな場所だな。"
+msgstr ""
+
+#. ID 16, Page 1, Line 68, Pos (20,5)
+msgid ""
+"ケイン：\n"
+"でもロックされてるぜ。\n"
+"また職員の奴を見付けないとよ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 74, Pos (20,5)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 79, Pos (20,5)
+msgid ""
+"ユアン：\n"
+"ん？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 81, Pos (20,5)
+msgid ""
+"ユアン：\n"
+"如何したヴェーネ？\\|\n"
+"何だか少し顔色が…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 88, Pos (20,5)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]…寄ら…ない…で…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 93, Pos (20,5)
+msgid ""
+"一同：\n"
+"\\S[20]………？\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 98, Pos (20,5)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]頼むから…\\|此処に…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 107, Pos (20,5)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"此処に近寄らないでッ！\\|\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 111, Pos (20,5)
+msgid ""
+"\n"
+"レイク：\n"
+"\\S[2]ヴェーネ…？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 114, Pos (20,5)
+msgid ""
+"\n"
+"ユアン：\n"
+"何だよ…。\\.\\.行き成り…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 118, Pos (20,5)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]此処には何も無いわ…！\\.\\.\n"
+"さっさと他を当たって…！"
+msgstr ""
+
+#. ID 16, Page 1, Line 122, Pos (20,5)
+msgid ""
+"\n"
+"ケイン：\n"
+"強引だなー。\\.\\.\n"
+"見てみなけりゃ分かんないだろ？"
+msgstr ""
+
+#. ID 16, Page 1, Line 126, Pos (20,5)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"煩い！ \\.\\.四の五の言ってんじゃないわよ！\\|\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 129, Pos (20,5)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"さっさと他を当たりなさい！\\|\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 132, Pos (20,5)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"二度と此処には近付かないで！\\|\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 142, Pos (20,5)
+msgid ""
+"一同：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 152, Pos (20,5)
+msgid ""
+"？？？：\n"
+"其処で何をしてるんですか？\\|\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 166, Pos (20,5)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]フリッツ…！\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 170, Pos (20,5)
+msgid ""
+"\n"
+"フリッツ：\n"
+"ヴェーネ…。\\|\n"
+"やっぱり君だったのか…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 174, Pos (20,5)
+msgid ""
+"\n"
+"フリッツ：\n"
+"オーグが駆け付けたと聞いたから、\n"
+"若しやと思っていたんだが…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 181, Pos (20,5)
+msgid ""
+"\n"
+"レイク：\n"
+"知り合い…\\|なのか？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 185, Pos (20,5)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"ええ…。\\.\\.昔からの…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 189, Pos (20,5)
+msgid ""
+"\n"
+"レイク：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 200, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"初めまして。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 202, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"僕はこのフェスクで研究員を務めている\n"
+"フリッツ･アンスバッハという者です。"
+msgstr ""
+
+#. ID 16, Page 1, Line 208, Pos (20,5)
+msgid ""
+"ユアン：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 210, Pos (20,5)
+msgid ""
+"ユアン：\n"
+"おい…。\\|\n"
+"今アンスバッハって言ったか…？"
+msgstr ""
+
+#. ID 16, Page 1, Line 213, Pos (20,5)
+msgid ""
+"ユアン：\n"
+"確かジークベルトも…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 215, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"ええ、\\.\\.ジークベルト･アンスバッハ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 217, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"僕の父です。\\|一応は。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 222, Pos (20,5)
+msgid ""
+"ユアン：\n"
+"一応…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 224, Pos (20,5)
+msgid ""
+"レイク：\n"
+"引っ掛かる物言いだな。"
+msgstr ""
+
+#. ID 16, Page 1, Line 226, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"僕は彼を心底嫌っています。"
+msgstr ""
+
+#. ID 16, Page 1, Line 228, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"人として何一つ尊敬出来る所が無い、\n"
+"尽く見下げ果てる事ばかり。"
+msgstr ""
+
+#. ID 16, Page 1, Line 231, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"挙げ句狂人などと噂まで立ち、\n"
+"ああは成るまいと子供心に思ったものです。"
+msgstr ""
+
+#. ID 16, Page 1, Line 237, Pos (20,5)
+#. ID 16, Page 1, Line 353, Pos (20,5)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 244, Pos (20,5)
+msgid ""
+"ヴェーネ：\n"
+"フリッツ…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 249, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"ヴェーネ、\\.\\.元気にしてたかい。"
+msgstr ""
+
+#. ID 16, Page 1, Line 254, Pos (20,5)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ええ…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 256, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"それは良かった。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 258, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"でも顔色は寧ろ悪い位だ。\\.\\.\n"
+"やはり場所を変えるべきだろう。"
+msgstr ""
+
+#. ID 16, Page 1, Line 265, Pos (20,5)
+msgid ""
+"レイク／ユアン：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 271, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"皆さん、イーヴルの親玉をお探しで？"
+msgstr ""
+
+#. ID 16, Page 1, Line 273, Pos (20,5)
+msgid ""
+"ユアン：\n"
+"ああ。\\.\\.このフェスクセクションに\n"
+"居座っていると受付の姉ちゃんに聞いて来た。"
+msgstr ""
+
+#. ID 16, Page 1, Line 276, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"やはり…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 281, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"実はそれらしきイーヴルが倉庫で発見されて、\n"
+"そのままロックして閉じ込めて在ったんですよ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 284, Pos (20,5)
+msgid ""
+"ユアン：\n"
+"此処じゃないのか。"
+msgstr ""
+
+#. ID 16, Page 1, Line 286, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"倉庫はこの二階上の突き当りです。"
+msgstr ""
+
+#. ID 16, Page 1, Line 288, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"かなり強そうなイーヴルでしたが、\n"
+"皆さんなら大丈夫でしょう。"
+msgstr ""
+
+#. ID 16, Page 1, Line 300, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"それでは。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 309, Pos (20,5)
+msgid ""
+"レイク：\n"
+"だったら…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 314, Pos (20,5)
+msgid ""
+"レイク：\n"
+"だったら…\\|此処には何が在るんだ？"
+msgstr ""
+
+#. ID 16, Page 1, Line 316, Pos (20,5)
+msgid ""
+"レイク：\n"
+"ヴェーネが嫌った、\\.\\.この奥には…。"
+msgstr ""
+
+#. ID 16, Page 1, Line 325, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"只の実験施設ですよ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 327, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"尤も設備の関係上、\n"
+"他に比べて低周波が多く出ていますが。"
+msgstr ""
+
+#. ID 16, Page 1, Line 333, Pos (20,5)
+msgid ""
+"レイク：\n"
+"低周波…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 335, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"低周波は人間のみならずあらゆる生き物が\n"
+"本能的に嫌う不可聴音波で、時に情緒不安定等の\n"
+"引き金に成ります。"
+msgstr ""
+
+#. ID 16, Page 1, Line 342, Pos (20,5)
+msgid ""
+"レイク：\n"
+"それじゃあ…。\\.\\.ヴェーネは…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 344, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"ヴェーネは昔から低周波への感受性が\n"
+"非常に強い体質なのです。"
+msgstr ""
+
+#. ID 16, Page 1, Line 347, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"其処に近付いた事で、奥から出ている低周波に\n"
+"影響されてしまったのでしょう。"
+msgstr ""
+
+#. ID 16, Page 1, Line 358, Pos (20,5)
+msgid ""
+"フリッツ：\n"
+"決して身体に良い物では在りません。\\.\\.\n"
+"彼女の為にも、其処には近寄らないであげてください。"
+msgstr ""
+
+#. ID 16, Page 1, Line 361, Pos (20,5)
+msgid ""
+"レイク：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 370, Pos (20,5)
+msgid ""
+"ミネルヴァ：\n"
+"素敵な男性ね。"
+msgstr ""
+
+#. ID 16, Page 1, Line 372, Pos (20,5)
+msgid ""
+"フォクシー：\n"
+"そうだね。\\.\\.\n"
+"何処かのガサツな連中とは大違い。"
+msgstr ""
+
+#. ID 16, Page 1, Line 383, Pos (20,5)
+msgid ""
+"レイク：\n"
+"ヴェーネ、\\.\\.大丈夫か？\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 385, Pos (20,5)
+msgid ""
+"ユアン：\n"
+"何も知らずに悪い事しちまったな。\n"
+"もう此処には近寄らない様にしよう。"
+msgstr ""
+
+#. ID 16, Page 1, Line 391, Pos (20,5)
+msgid ""
+"ヴェーネ：\n"
+"ええ…。\\|\\^"
+msgstr ""
+
+#. ID 16, Page 1, Line 396, Pos (20,5)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]有難う…。\\|\\^"
+msgstr ""
+

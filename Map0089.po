@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 8, Pos (9,7)
+#. Contains choice at line 2 (3 options)
+msgid "主人：いらっしゃいませ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 9, Pos (9,7)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 3, Page 1, Line 18, Pos (9,7)
+msgid ""
+"主人：\n"
+"最近、コスプレってのが密かに流行ってるらしいね。\n"
+"ま、私には関係無いけどさ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 23, Pos (9,7)
+msgid ""
+"主人：\n"
+"君もコスプレしてみないか？"
+msgstr ""
+
+#. ID 3, Page 1, Line 35, Pos (9,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"主人：\n"
+"いらっしゃいませ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 37, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+
+#. ID 4, Page 1, Line 3, Pos (13,10)
+msgid ""
+"男性：\n"
+"初見の敵と戦う時は、先ずエネミーデータで\n"
+"その敵の情報を調べる事。これを忘れちゃいけない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 6, Pos (13,10)
+msgid ""
+"男性：\n"
+"敵の中には特定の属性耐性が極端に低い奴や、\n"
+"特定の不利状態の防御率が０％の奴も少なくない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 9, Pos (13,10)
+msgid ""
+"男性：\n"
+"そういった敵の弱点を突いて戦うのが\n"
+"勝利への近道と言えるだろうね。"
+msgstr ""
+

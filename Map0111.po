@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 18, Page 1, Line 3, Pos (8,10)
+msgid ""
+"女剣士：\n"
+"此処の街並みって、案外雑然としてるわね。"
+msgstr ""
+
+#. ID 18, Page 1, Line 5, Pos (8,10)
+msgid ""
+"女剣士：\n"
+"研究都市なんて言うから、もっと整然と\n"
+"区画整理された街を想像してたんだけど…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 8, Pos (8,10)
+msgid ""
+"女剣士：\n"
+"それともこの雑然ぶりこそが、\n"
+"研究者の真の有様を示しているのかしらね。"
+msgstr ""
+
+#. ID 18, Page 1, Line 11, Pos (8,10)
+msgid ""
+"女剣士：\n"
+"さながらコーヒーの一つも置けない、\n"
+"散らかり切った机の上の様に。"
+msgstr ""
+
+#. ID 18, Page 2, Line 3, Pos (8,10)
+msgid ""
+"女剣士：\n"
+"解放戦争の気運も、\n"
+"この街は避けて通ってるみたい。"
+msgstr ""
+
+#. ID 18, Page 2, Line 6, Pos (8,10)
+msgid ""
+"女剣士：\n"
+"生粋の文民の街という事かしらね。"
+msgstr ""
+
+#. ID 18, Page 3, Line 3, Pos (8,10)
+msgid ""
+"女剣士：\n"
+"結局最後まで、\n"
+"この街は戦争の蚊帳の外だったわね。"
+msgstr ""
+
+#. ID 23, Page 1, Line 3, Pos (31,13)
+msgid ""
+"男性：\n"
+"知っての通り、この街には\n"
+"天下のホワイトウィング･ラボラトリーが在る。"
+msgstr ""
+
+#. ID 23, Page 1, Line 6, Pos (31,13)
+msgid ""
+"男性：\n"
+"だが自慢どころか負い目だぜ。\n"
+"俺的にはよ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 9, Pos (31,13)
+msgid ""
+"男性：\n"
+"あそこの連中嫌いなんだ。\n"
+"何奴も此奴も高慢ちきな態度でさ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 12, Pos (31,13)
+msgid ""
+"男性：\n"
+"学者ってのはあんなのばっかなのか？"
+msgstr ""
+
+#. ID 23, Page 2, Line 3, Pos (31,13)
+msgid ""
+"不機嫌な男：\n"
+"あのフェジテ、如何にか成らないのかよ。\n"
+"常に空に浮かんで人を見下ろしやがって。"
+msgstr ""
+
+#. ID 23, Page 2, Line 6, Pos (31,13)
+msgid ""
+"不機嫌な男：\n"
+"まだラボの連中の方が愛嬌が在るぜ。"
+msgstr ""
+
+#. ID 23, Page 3, Line 3, Pos (31,13)
+msgid ""
+"男性：\n"
+"フェジテもラボの連中もあんま愛嬌無いけど、\n"
+"ゲオルクに比べればまだマシだと…。"
+msgstr ""
+
+#. ID 23, Page 3, Line 6, Pos (31,13)
+msgid ""
+"男性：\n"
+"そんな風に思えて来た、今日この頃だな。"
+msgstr ""
+
+#. ID 27, Page 1, Line 9, Pos (16,17)
+msgid ""
+"ニクソン：\n"
+"気晴らしに、\\.少し街を散策しましょうか。"
+msgstr ""
+
+#. ID 27, Page 1, Line 11, Pos (16,17)
+#. ID 27, Page 1, Line 115, Pos (16,17)
+msgid ""
+"ニクソン：\n"
+"それで時間が経ったら、もう一度だけ悪足掻きで\n"
+"ラボに食い下がってみましょう。"
+msgstr ""
+
+#. ID 27, Page 1, Line 25, Pos (16,17)
+msgid ""
+"レイク：\n"
+"あの糞ガードマンめ、\\.\\.何時かブッ殺してやる。"
+msgstr ""
+
+#. ID 27, Page 1, Line 30, Pos (16,17)
+msgid ""
+"ヴェーネ：\n"
+"随分あっさり引き下がったわね。\\.\\.\n"
+"何か策でも？"
+msgstr ""
+
+#. ID 27, Page 1, Line 33, Pos (16,17)
+msgid ""
+"ニクソン：\n"
+"策は在りませんが、\n"
+"少なくとも刃傷沙汰は避けないと。"
+msgstr ""
+
+#. ID 27, Page 1, Line 37, Pos (16,17)
+msgid ""
+"ヴェーネ：\n"
+"確かに。\\|\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 42, Pos (16,17)
+msgid ""
+"ヴェーネ：\n"
+"エンデと言いあのガードマンと言い、\n"
+"何故そう直ぐに熱く成るの？"
+msgstr ""
+
+#. ID 27, Page 1, Line 45, Pos (16,17)
+msgid ""
+"ヴェーネ：\n"
+"そんな事だと、\n"
+"簡単に相手に心理を掴まれてしまうわよ。"
+msgstr ""
+
+#. ID 27, Page 1, Line 49, Pos (16,17)
+msgid ""
+"レイク：\n"
+"知るか。\\.\\.職業病みたいなモンだ。"
+msgstr ""
+
+#. ID 27, Page 1, Line 51, Pos (16,17)
+msgid ""
+"レイク：\n"
+"平素からイーヴルと殺り合ってる所為で、\n"
+"争いの\"匂い\"に敏感なんだよ。"
+msgstr ""
+
+#. ID 27, Page 1, Line 56, Pos (16,17)
+msgid ""
+"レイク：\n"
+"元バウンティハンターなら分かるだろう？"
+msgstr ""
+
+#. ID 27, Page 1, Line 61, Pos (16,17)
+msgid ""
+"ニクソン：\n"
+"うーむ、\\.\\.微妙な所かと。"
+msgstr ""
+
+#. ID 27, Page 1, Line 63, Pos (16,17)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 69, Pos (16,17)
+msgid ""
+"ニクソン：\n"
+"しかし困りましたね。\\.\\.\n"
+"ああも無下に扱われるとは。"
+msgstr ""
+
+#. ID 27, Page 1, Line 72, Pos (16,17)
+msgid ""
+"ヴェーネ：\n"
+"しつこく食い下がって折れる類の\n"
+"人種じゃないわね。"
+msgstr ""
+
+#. ID 27, Page 1, Line 75, Pos (16,17)
+msgid ""
+"レイク：\n"
+"コネとか無いのか？"
+msgstr ""
+
+#. ID 27, Page 1, Line 77, Pos (16,17)
+msgid ""
+"ニクソン：\n"
+"有ればこんな事には成ってませんよ。"
+msgstr ""
+
+#. ID 27, Page 1, Line 79, Pos (16,17)
+msgid ""
+"レイク：\n"
+"…だな。\\|\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 84, Pos (16,17)
+msgid ""
+"ニクソン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 89, Pos (16,17)
+msgid ""
+"ニクソン：\n"
+"駄目ですね。\\.\\.策が思い付きません。"
+msgstr ""
+
+#. ID 27, Page 1, Line 91, Pos (16,17)
+msgid ""
+"ヴェーネ：\n"
+"折角此処まで来たのに…。"
+msgstr ""
+
+#. ID 27, Page 1, Line 93, Pos (16,17)
+msgid ""
+"ニクソン：\n"
+"まあ無謀な試みでしたから。\n"
+"田舎の教会が天下の研究機関に直談判など。"
+msgstr ""
+
+#. ID 27, Page 1, Line 96, Pos (16,17)
+msgid ""
+"ニクソン：\n"
+"多くの場合マイノリティはマジョリティに\n"
+"駆逐されるのが世の常ですし。"
+msgstr ""
+
+#. ID 27, Page 1, Line 103, Pos (16,17)
+msgid ""
+"レイク：\n"
+"チッ…。\\|所詮は捨て子って事かよ…。"
+msgstr ""
+
+#. ID 27, Page 1, Line 108, Pos (16,17)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 113, Pos (16,17)
+msgid ""
+"ニクソン：\n"
+"気晴らしに、\\.\\.少し街を散策しましょうか。"
+msgstr ""
+
+#. ID 27, Page 1, Line 121, Pos (16,17)
+msgid ""
+"ヴェーネ：\n"
+"そうね。\\|\\^"
+msgstr ""
+
+#. ID 28, Page 1, Line 10, Pos (23,1)
+msgid ""
+"ニクソン：\n"
+"ラボの方にはまた後で。\n"
+"少し散策して気を晴らしましょう。"
+msgstr ""
+
+#. ID 33, Page 1, Line 3, Pos (40,15)
+msgid ""
+"男の子：\n"
+"うちのママ、勉強しなさいってうるさいんだ。"
+msgstr ""
+
+#. ID 33, Page 1, Line 5, Pos (40,15)
+msgid ""
+"男の子：\n"
+"ここはケンキュウトシなんだから、\n"
+"みんな勉強して当たり前なんだって。"
+msgstr ""
+
+#. ID 33, Page 1, Line 8, Pos (40,15)
+msgid ""
+"男の子：\n"
+"もうムチャクチャだよ。"
+msgstr ""
+
+#. ID 34, Page 1, Line 3, Pos (41,15)
+msgid ""
+"女の子：\n"
+"ここって遊ぶ所が少ないのよね。"
+msgstr ""
+
+#. ID 34, Page 1, Line 5, Pos (41,15)
+msgid ""
+"女の子：\n"
+"研究都市なんて言って、\n"
+"そうやって楽しんでるのは結局オトナだけ。"
+msgstr ""
+
+#. ID 34, Page 1, Line 8, Pos (41,15)
+msgid ""
+"女の子：\n"
+"少しは私たちの遊び場の事も研究して欲しいわ。"
+msgstr ""
+

@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリス…。\\|大丈夫かしら…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"心配要りませんよ。\\|\n"
+"彼もそう言っていたでしょう？"
+msgstr ""
+
+#. ID 5, Page 1, Line 39, Pos (0,0)
+#. ID 5, Page 1, Line 52, Pos (0,0)
+#. ID 5, Page 1, Line 102, Pos (0,0)
+#. ID 5, Page 2, Line 45, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"今更彼が嘘を言っているとでも？\\.\\.\n"
+"子供を騙す大人の嘘を。"
+msgstr ""
+
+#. ID 5, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そうじゃない。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"待遇の問題ではないと言いたいのか。"
+msgstr ""
+
+#. ID 5, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"済ました顔で言わないで。"
+msgstr ""
+
+#. ID 5, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリスは貴方みたいに\n"
+"何でも悟った顔してる朴念仁とは違うのよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"繊細で…。\\|壊れ易くて…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"薄氷で作ったワイングラス。\\|\n"
+"触る事も憚られ、ワインを注いでも崩れ散ると。"
+msgstr ""
+
+#. ID 5, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"お願いだから黙ってて。"
+msgstr ""
+
+#. ID 5, Page 1, Line 80, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"大丈夫ですよ。\\.\\.\n"
+"彼は\"そういう人\"の筈。"
+msgstr ""
+
+#. ID 5, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"薄氷のワイングラスを置かれれば、\n"
+"傷付けまいと躍起に成るタイプでしょう。"
+msgstr ""
+
+#. ID 5, Page 1, Line 96, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"尤もあの様子では、\n"
+"別の思い入れも在りそうなものだがな。"
+msgstr ""
+
+#. ID 5, Page 2, Line 13, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"少しは落ち着いたら如何だ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 16, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"黙っててと言ったでしょう？"
+msgstr ""
+
+#. ID 5, Page 2, Line 22, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"まったく…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 27, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"如何したのですか？\\.\\.\n"
+"落ち着かないというより焦っている感じですよ？"
+msgstr ""
+
+#. ID 5, Page 2, Line 33, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"胸騒ぎがするのよ…。\\|\n"
+"とてもとても、厭な予感…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 36, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"森羅万象の不吉なざわめき…。\\|\n"
+"魂を浸潤せんとする、運命の歪み…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 39, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"戦士の勘とやらを超えて行く話だな。\\|\n"
+"モンクの研ぎ澄まされた感性か？"
+msgstr ""
+
+#. ID 5, Page 2, Line 60, Pos (0,0)
+msgid ""
+"兵士：\n"
+"大変な事に成った。\\.\\.\n"
+"今直ぐ来て呉れ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 66, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"まさか、\\.\\.ドリスの身に何か…！"
+msgstr ""
+
+#. ID 5, Page 2, Line 68, Pos (0,0)
+msgid ""
+"兵士：\n"
+"説明は後だ。\\.\\.今は一刻の猶予も無い。"
+msgstr ""
+
+#. ID 5, Page 2, Line 70, Pos (0,0)
+msgid ""
+"兵士：\n"
+"さあ早く！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 80, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ふざけないでッ！\\.\\.\n"
+"何でドリスがそんな惨い仕打ちを…！"
+msgstr ""
+
+#. ID 5, Page 2, Line 83, Pos (0,0)
+msgid ""
+"兵士：\n"
+"モーガンとはそういう奴だ。\\|\n"
+"強者に服従し、弱者は何処までも痛め付ける。"
+msgstr ""
+
+#. ID 5, Page 2, Line 86, Pos (0,0)
+msgid ""
+"兵士：\n"
+"碌な抵抗も出来ない女子供なら、絶好の餌食だ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 91, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それはまた…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 93, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"絵に描いた様なクズが居たものだな。\\|\n"
+"天然記念物だ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 96, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"保全する価値は在りませんがね。"
+msgstr ""
+
+#. ID 5, Page 2, Line 101, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"何とか助け出せないの!?"
+msgstr ""
+
+#. ID 5, Page 2, Line 103, Pos (0,0)
+msgid ""
+"兵士：\n"
+"既に主要箇所にモーガンの部下が多数配置され、\n"
+"最早この本部は奴の手に落ちたも同然。"
+msgstr ""
+
+#. ID 5, Page 2, Line 106, Pos (0,0)
+msgid ""
+"兵士：\n"
+"この状況でドリスの所まで辿り着き、\n"
+"更に無事に此処を脱出する事は、不可能だ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 109, Pos (0,0)
+msgid ""
+"兵士：\n"
+"第一下手に奴を刺激すれば、\n"
+"それこそドリスにどんな被害が及ぶか知れない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 112, Pos (0,0)
+msgid ""
+"兵士：\n"
+"所詮は小者が権力を着飾っただけ。\\.\\.\n"
+"追い詰められればどんな卑劣や残酷も厭わないだろう。"
+msgstr ""
+
+#. ID 5, Page 2, Line 115, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"くっ…！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 121, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"それで、\\.\\.何故お前は俺達を助ける？"
+msgstr ""
+
+#. ID 5, Page 2, Line 123, Pos (0,0)
+msgid ""
+"兵士：\n"
+"私は何が在ろうとオーウェン様に付いて行く。\\|\n"
+"モーガンになど絶対に従わん。"
+msgstr ""
+
+#. ID 5, Page 2, Line 126, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ではこれは、オーウェンという方の…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 128, Pos (0,0)
+msgid ""
+"兵士：\n"
+"オーウェン様は今回のモーガンの企みを極めて\n"
+"卑劣な物とし、その打破を胸に誓っている。"
+msgstr ""
+
+#. ID 5, Page 2, Line 131, Pos (0,0)
+msgid ""
+"兵士：\n"
+"しかし既にオーウェン様自身も身柄を拘束され、\n"
+"動きが取れるのは数限られたオーウェン派の私達だけ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 134, Pos (0,0)
+msgid ""
+"兵士：\n"
+"私はお前達を、\n"
+"脱走を装って此処から逃がすよう指示されたのだ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 140, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"でも逃げられたとして、その後は？"
+msgstr ""
+
+#. ID 5, Page 2, Line 142, Pos (0,0)
+msgid ""
+"兵士：\n"
+"この地図を。\\.\\.\n"
+"ルートフォードまでの最短ルートだ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 145, Pos (0,0)
+msgid ""
+"兵士：\n"
+"オーグに助力を求めろ。\\.\\.\n"
+"最早頼れるのは彼らを置いて他に無い。"
+msgstr ""
+
+#. ID 5, Page 2, Line 148, Pos (0,0)
+msgid ""
+"兵士：\n"
+"悔しい事だがな。"
+msgstr ""
+
+#. ID 5, Page 2, Line 153, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"オーグ…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 159, Pos (0,0)
+msgid ""
+"兵士：\n"
+"さあ、此処から外へ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 161, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"貴方達は？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 163, Pos (0,0)
+msgid ""
+"兵士：\n"
+"今モーガンはドリスに何よりも重きを置いている。\n"
+"これに関しては手の打ち様が無い。"
+msgstr ""
+
+#. ID 5, Page 2, Line 166, Pos (0,0)
+msgid ""
+"兵士：\n"
+"だが逆に城は手薄に成った。\\.\\.\n"
+"急いで兵力を掻き集めて、一気に勝負に出る。"
+msgstr ""
+
+#. ID 5, Page 2, Line 169, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリスを囮にする気なの？"
+msgstr ""
+
+#. ID 5, Page 2, Line 171, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"城を落とされて焦ったモーガンが\n"
+"ドリスに何をするか…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 174, Pos (0,0)
+msgid ""
+"兵士：\n"
+"勘違いするな。\\.\\.\n"
+"ドリス奪還までは動かない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 180, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"信じて良いのね？"
+msgstr ""
+
+#. ID 5, Page 2, Line 182, Pos (0,0)
+msgid ""
+"兵士：\n"
+"オーウェン様直々の御言葉だ。\\|\n"
+"絶対にドリスを助け出せと。"
+msgstr ""
+
+#. ID 5, Page 2, Line 188, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"分かったわ。\\.\\.貴方達を信じる。"
+msgstr ""
+
+#. ID 5, Page 2, Line 193, Pos (0,0)
+msgid ""
+"兵士：\n"
+"それでは健闘を祈っているぞ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 195, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"お前達もな。\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 12, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\C[10]【エレベーター操作】\\C[0]\n"
+"＞行き先を選択してください。"
+msgstr ""
+
+#. ID 7, Page 1, Line 14, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ハイアーフロア41Ｆ\n"
+"地下フロア天空穿孔ポート"
+msgstr ""
+

@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"如何した？ \\.\\.何時もの威勢が無いぜ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 11, Pos (0,0)
+#. ID 11, Page 1, Line 106, Pos (0,0)
+#. ID 11, Page 1, Line 149, Pos (0,0)
+#. ID 11, Page 1, Line 190, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ジークベルトの言葉か。"
+msgstr ""
+
+#. ID 11, Page 1, Line 21, Pos (0,0)
+msgid ""
+"レイク：\n"
+"よくよく考えたらそうなんだよな。\\|\n"
+"俺はヴェーネの事を碌に知らない。"
+msgstr ""
+
+#. ID 11, Page 1, Line 24, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それなのに、知った様な口を利いちまった…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"何だかな…。\\|\n"
+"早くも負けを認める勢いじゃねえか。"
+msgstr ""
+
+#. ID 11, Page 1, Line 32, Pos (0,0)
+msgid ""
+"レイク：\n"
+"これが現実だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 34, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ジークベルトと言い、フリッツと言い。\\|\n"
+"間違い無く俺達の知らない過去のヴェーネを\n"
+"知っている。"
+msgstr ""
+
+#. ID 11, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\"量\"の問題だって言いたいのか？"
+msgstr ""
+
+#. ID 11, Page 1, Line 40, Pos (0,0)
+msgid ""
+"レイク：\n"
+"気後れするんだよ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"確かにな。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ヴェーネの手首に何が在るか、\\.\\.知ってるか？"
+msgstr ""
+
+#. ID 11, Page 1, Line 56, Pos (0,0)
+msgid ""
+"レイク：\n"
+"リストカットの痕…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"その経緯は？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 63, Pos (0,0)
+msgid ""
+"レイク：\n"
+"否…。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"俺も知らない。\\|\n"
+"尋ねる事すら出来やしない。"
+msgstr ""
+
+#. ID 11, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"多分…\\|あの二人は知ってるだろうな。"
+msgstr ""
+
+#. ID 11, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"でも逆にヴェーネが記憶喪失に成った事、\n"
+"その間に在った事。"
+msgstr ""
+
+#. ID 11, Page 1, Line 85, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"あの二人は知らないだろ？"
+msgstr ""
+
+#. ID 11, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そして俺も、\\.\\.同じ様に知らない。"
+msgstr ""
+
+#. ID 11, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"お前だけが知っている事だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"知ってる事とか、知らない事とか。\\|\n"
+"そんなの結局は昔話だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"肝心要、\"今この時\"は如何なんだ？"
+msgstr ""
+
+#. ID 11, Page 1, Line 108, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ジークベルトの奴は、\\.\\.其処を欠いてる。"
+msgstr ""
+
+#. ID 11, Page 1, Line 110, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"過去と未来、\\.\\.線で結ばれた経過＜ベクトル＞を見て、\\.\\.\n"
+"肝心の今この時を感じ取れていない。"
+msgstr ""
+
+#. ID 11, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"だからこそ、\\.\\.ゲームだ何だと吹聴出来る。"
+msgstr ""
+
+#. ID 11, Page 1, Line 118, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"敢えてゲームで言うのなら、\\.\\.奴の負けだ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 124, Pos (0,0)
+msgid ""
+"レイク：\n"
+"フリッツは？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 126, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"あいつは一生懸命だった。\\|\n"
+"恐らくヴェーネの一番近くに居る。"
+msgstr ""
+
+#. ID 11, Page 1, Line 132, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"実は２年前、ヴェーネを連れて来た時から\n"
+"薄々感じてはいたんだよ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"あいつの気持ちの幾らかが、\n"
+"俺でない誰かに注がれている。"
+msgstr ""
+
+#. ID 11, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"シリアの残響として予め用意されていた、\n"
+"俺に対する気持ち…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 141, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"其処から独立して、\n"
+"ヴェーネ自身の気持ちが芽生えている。"
+msgstr ""
+
+#. ID 11, Page 1, Line 144, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"その御相手が、\\.\\.彼って訳だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 155, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"おいおい、\\.\\.妬いてんのか？\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 157, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ふざけんな。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 162, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何だかあいつが、\\.\\.少し遠くに感じられた…。"
+msgstr ""
+
+#. ID 11, Page 1, Line 164, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そんな気分だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 171, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それで良いんだよ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 173, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"自身の人生を歩むってのはそういう事だ。\\|\n"
+"笑顔で送り出して遣りな。"
+msgstr ""
+
+#. ID 11, Page 1, Line 176, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それが出来ない内は、まだまだ子供さ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 181, Pos (0,0)
+msgid ""
+"レイク：\n"
+"前にも言っただろ。\\.\\.\n"
+"子供扱いするんじゃねえ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 184, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"へいへい。\\.\\.\n"
+"そいつは失礼しました。"
+msgstr ""
+
+#. ID 11, Page 1, Line 199, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]人生を歩む…。\\|\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 201, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]フリッツは…\\|その道の上に居るのか…。"
+msgstr ""
+

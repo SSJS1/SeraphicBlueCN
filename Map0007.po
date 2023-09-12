@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 78, Page 2, Line 181, Pos (0,3)
+#. Choice (4 options)
+msgid ""
+"\\>アビリティスフィア\n"
+"\\>インヴェストスフィア\n"
+"\\>タクティカルスフィア\n"
+"\\>ガーダースフィア"
+msgstr ""
+
+#. ID 91, Page 1, Line 186, Pos (7,3)
+#. ID 91, Page 1, Line 496, Pos (7,3)
+msgid ""
+"\\>\\v[4987]\n"
+"\\>\\v[4833]\n"
+"\\>\\v[4839]\n"
+"\\>\\v[4840]"
+msgstr ""
+
+#. ID 91, Page 1, Line 460, Pos (7,3)
+msgid ""
+"\\>\\v[4987]　\\v[4939]　\\v[2731]/\\v[2732]\n"
+"\\>\\v[4838]\n"
+"\\>\\v[4839]\n"
+"\\>\\v[4832]"
+msgstr ""
+

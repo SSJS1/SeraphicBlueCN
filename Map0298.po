@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ドリス…。\\|こんな所に居たのね…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"心配したのよ。\\.\\.\n"
+"何時まで経っても戻って来なくて。"
+msgstr ""
+
+#. ID 12, Page 1, Line 18, Pos (0,0)
+#. ID 12, Page 1, Line 96, Pos (0,0)
+#. ID 12, Page 1, Line 252, Pos (0,0)
+#. ID 12, Page 1, Line 287, Pos (0,0)
+#. ID 12, Page 1, Line 310, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"一体如何したの？ \\.\\.こんな時間まで。"
+msgstr ""
+
+#. ID 12, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"雨だって降ってるじゃない。"
+msgstr ""
+
+#. ID 12, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"まさか…\\.\\.また誰かに苛められて…！"
+msgstr ""
+
+#. ID 12, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]違うの。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 34, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう…。\\|良かった…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ううん。\\|良くないの。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]ドリス…？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]おネエちゃん…。\\|\n"
+"たすけて…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"これは…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]ネコさん…\\|死んじゃうよ…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"酷い怪我…。\\|\n"
+"野獣か何かに襲われたのかしら…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"或いは、何処かの馬鹿学生が\n"
+"魔法の練習台に使ったか…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おネエちゃんは、\\.\\.\n"
+"カイフクマホウ、できるんだよね？"
+msgstr ""
+
+#. ID 12, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おネエちゃんなら…。\\|\n"
+"ネコさん、\\.\\.なおせるんだよね？"
+msgstr ""
+
+#. ID 12, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]無理よ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"損傷が激し過ぎる。\\|\n"
+"フォロー出来るレベルじゃない。"
+msgstr ""
+
+#. ID 12, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"やれた所で、\\.\\.気休め程度の延命処置。"
+msgstr ""
+
+#. ID 12, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"それでも…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"言っておくけれど、\\.\\.\n"
+"この子は遅かれ早かれ死んでしまうのよ？"
+msgstr ""
+
+#. ID 12, Page 1, Line 114, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"根本的な臓器不全等の問題も解決されないから、\n"
+"相応の苦痛も伴う。"
+msgstr ""
+
+#. ID 12, Page 1, Line 117, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それでも良いの？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"でも…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 124, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"このまま…\\.\\.ミゴロシになんてできない…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 129, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]分かったわ。\\|\n"
+"少し下がってて。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]今…\\.\\.助けてあげる。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 163, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[5]ドウシテ…？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 168, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[5]どうして…\\|コロしちゃったの…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 173, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"確かに私はこの子を殺した。\\|\n"
+"でもそれは事象の表層でしかない。"
+msgstr ""
+
+#. ID 12, Page 1, Line 176, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私はこの子を救済したのよ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 178, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]タスけてないよ…。\\|\n"
+"コロしちゃった…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 181, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]おネエちゃんの言ってるコト、\\.\\.\n"
+"わかんない…！"
+msgstr ""
+
+#. ID 12, Page 1, Line 191, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私がこの子に延命処置を施した所で、\n"
+"それがこの子に何を与えたかしら。"
+msgstr ""
+
+#. ID 12, Page 1, Line 194, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"死ぬ事も出来ず…。\\|\n"
+"生きる事も出来ず…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 197, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"気休め程度に長らえた生命の上、\\.\\.\n"
+"生と死の狭間に彷徨い…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 200, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"死ぬまで終わる事の無い苦痛を、\n"
+"味わい続けるだけ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 206, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]それでも、\\.\\.ドリス…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 217, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"          \\S[3]貴女は、\\|それを\"救い\"と呼ぶの？\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 222, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"      \\S[3]眠る事を赦されず、\\|生の鎖に繋がれて。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 227, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"    \\S[3]未来を失った身体を、\\|苦しみで焼かれ続けて。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 232, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"     \\S[3]生まれ来た事を、\\|魂の底より嘆き悲しんで。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 237, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"           \\S[3]それでも貴女は、\\|言えるの？\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 242, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"               \\S[5]それが、\\|救いなのだと。\\|\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 257, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"御免なさい。\\|\n"
+"問い詰める様な真似をしてしまって。"
+msgstr ""
+
+#. ID 12, Page 1, Line 260, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"貴女はとても優しい子。\n"
+"他意が無かったのは、分かっているから。"
+msgstr ""
+
+#. ID 12, Page 1, Line 266, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"でも…。\\|みんな…。\\|\n"
+"おイシャさんとか…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 269, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おネエちゃんと、\\.\\.ちがう…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 271, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ゼッタイ生きなきゃ…\\.\\.ダメなんだって…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 276, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"確かにね。\\|今はそれが世界の定説＜スタンダード＞。"
+msgstr ""
+
+#. ID 12, Page 1, Line 278, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"生命は何が在っても救うべき物、\n"
+"救われなければならない物だというイデオロギー。"
+msgstr ""
+
+#. ID 12, Page 1, Line 281, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"生命を救うという行為のみに\n"
+"傾倒し酔い痴れた愚者達の吹聴する世迷言。"
+msgstr ""
+
+#. ID 12, Page 1, Line 292, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"生命を救う事と、\\.\\.存在を救う事は、\\.\\.\n"
+"決して等価ではないわ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 295, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"盲目的に生を賛美して。\\|\n"
+"そして死を嫌忌して。"
+msgstr ""
+
+#. ID 12, Page 1, Line 298, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"例えばあの子に延命処置を施したならば…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 303, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]それは、\\.\\.残忍。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 305, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]私に於ける、\\.\\.罪悪。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 315, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"理解出来なくても構わないわ。\\|\n"
+"貴女の価値観は貴女が作る。"
+msgstr ""
+
+#. ID 12, Page 1, Line 318, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でもこれだけは、知っておいて。"
+msgstr ""
+

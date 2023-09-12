@@ -1,0 +1,352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 21, Pos (12,8)
+msgid ""
+"ヴェーネ：\n"
+"これは…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 30, Pos (12,8)
+msgid ""
+"\n"
+"レイク：\n"
+"デカい…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 34, Pos (12,8)
+msgid ""
+"\n"
+"ハウゼン：\n"
+"ハイディの言った通りだな…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 38, Pos (12,8)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"フェジテ軍戦艦\"デイジー機\"のコピー…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 41, Pos (12,8)
+msgid ""
+"\n"
+"ミネルヴァ：\n"
+"黒獅子機…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 53, Pos (12,8)
+msgid ""
+"ハウゼン：\n"
+"この轟音…。\\.\\.\n"
+"既に各機とも発進準備を始めております。"
+msgstr ""
+
+#. ID 8, Page 1, Line 57, Pos (12,8)
+msgid ""
+"ミネルヴァ：\n"
+"急がないと…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 62, Pos (12,8)
+msgid ""
+"フォクシー：\n"
+"でも、そう楽には行きそうにないよ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 70, Pos (12,8)
+msgid ""
+"有志(右)：\n"
+"おい！ \\.\\.あいつら…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 72, Pos (12,8)
+msgid ""
+"有志(左)：\n"
+"間違いねえ…！\\.\\.\n"
+"さっき言ってた奴だ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 80, Pos (12,8)
+msgid ""
+"有志(左)：\n"
+"フェジテの急襲部隊！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 82, Pos (12,8)
+msgid ""
+"有志(右)：\n"
+"早く皆に！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 91, Pos (12,8)
+msgid ""
+"ヴェーネ：\n"
+"余計な入れ知恵が…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 97, Pos (12,8)
+msgid ""
+"ミネルヴァ：\n"
+"如何すれば良いの…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 99, Pos (12,8)
+msgid ""
+"ハウゼン：\n"
+"有志の方は仕方在りません。\n"
+"力尽くで排除します。"
+msgstr ""
+
+#. ID 8, Page 1, Line 103, Pos (12,8)
+msgid ""
+"ハウゼン：\n"
+"それよりも爆弾の方が問題です。"
+msgstr ""
+
+#. ID 8, Page 1, Line 105, Pos (12,8)
+msgid ""
+"ハウゼン：\n"
+"どの機に仕掛けられているか分からない上、\n"
+"船の離陸まで後僅か。"
+msgstr ""
+
+#. ID 8, Page 1, Line 111, Pos (12,8)
+msgid ""
+"ミネルヴァ：\n"
+"確かこの前、爆発物解析機能をインストールしたとか\n"
+"言ってなかった？"
+msgstr ""
+
+#. ID 8, Page 1, Line 114, Pos (12,8)
+msgid ""
+"ハウゼン：\n"
+"はい。\\.\\.対テロ用の試作モジュールです。"
+msgstr ""
+
+#. ID 8, Page 1, Line 116, Pos (12,8)
+msgid ""
+"ミネルヴァ：\n"
+"それで探知出来ない？"
+msgstr ""
+
+#. ID 8, Page 1, Line 118, Pos (12,8)
+msgid ""
+"ミネルヴァ：\n"
+"本来の攻撃用爆弾も引っ掛かるだろうけど、\n"
+"戦闘区域を丸ごとカヴァーする様な代物なら…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 121, Pos (12,8)
+msgid ""
+"ハウゼン：\n"
+"確かにそれは強い反応が出るので\n"
+"直ぐに分かるでしょう。"
+msgstr ""
+
+#. ID 8, Page 1, Line 124, Pos (12,8)
+msgid ""
+"ハウゼン：\n"
+"しかしこのモジュールは有効範囲が狭く、\n"
+"更にあの大型の船体。"
+msgstr ""
+
+#. ID 8, Page 1, Line 127, Pos (12,8)
+msgid ""
+"ハウゼン：\n"
+"探知するには艦内に踏み込まなくては。"
+msgstr ""
+
+#. ID 8, Page 1, Line 132, Pos (12,8)
+msgid ""
+"ミネルヴァ：\n"
+"全部を探してる時間が無い…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 145, Pos (12,8)
+msgid ""
+"フォクシー：\n"
+"こうなったら、\n"
+"此処で\"決め打ち\"しないとダメだね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 149, Pos (12,8)
+msgid ""
+"フォクシー：\n"
+"１号機から10号機まで。\\.\n"
+"どの機体に爆弾が仕掛けられているのか。"
+msgstr ""
+
+#. ID 8, Page 1, Line 152, Pos (12,8)
+#. ID 8, Page 1, Line 168, Pos (12,8)
+msgid ""
+"フォクシー：\n"
+"ギャンブルのチップは、\n"
+"アタシ達と有志全員の生命。"
+msgstr ""
+
+#. ID 8, Page 1, Line 155, Pos (12,8)
+msgid ""
+"フォクシー：\n"
+"ハズレればそれでジ･エンド。\\.\\.\n"
+"全機爆発に巻き込まれて空に消える。"
+msgstr ""
+
+#. ID 8, Page 1, Line 161, Pos (12,8)
+#. ID 8, Page 1, Line 182, Pos (12,8)
+msgid ""
+"ミネルヴァ：\n"
+"一体どの船に爆弾が…！"
+msgstr ""
+
+#. ID 8, Page 1, Line 165, Pos (12,8)
+msgid ""
+"フォクシー：\n"
+"１号機から10号機まで。\\.\\.\n"
+"どの機体に爆弾が仕掛けられているのか。"
+msgstr ""
+
+#. ID 8, Page 1, Line 171, Pos (12,8)
+msgid ""
+"フォクシー：\n"
+"連中を片付けてハウゼンの探知圏内に入る頃には、\n"
+"船はもう離陸してるだろうからね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 174, Pos (12,8)
+msgid ""
+"フォクシー：\n"
+"ハズレればそれでジ･エンド。\\|\n"
+"全機爆発に巻き込まれて空に消える。"
+msgstr ""
+
+#. ID 8, Page 1, Line 180, Pos (12,8)
+msgid ""
+"ミネルヴァ：\n"
+"くッ…！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 23, Pos (12,8)
+msgid ""
+"ミネルヴァ：\n"
+"時間が無いわ！ \\.急がないと！"
+msgstr ""
+
+#. ID 8, Page 2, Line 38, Pos (12,8)
+msgid ""
+"ミネルヴァ：\n"
+"時間が無いわ！ \\.\\.急がないと！\\|\\^"
+msgstr ""
+
+#. ID 8, Page 2, Line 48, Pos (12,8)
+msgid ""
+"ヴェーネ：\n"
+"場は騒然とし、大混乱に陥っていた。\\|\n"
+"しかしそれは私達に幸いした。"
+msgstr ""
+
+#. ID 8, Page 2, Line 51, Pos (12,8)
+msgid ""
+"ヴェーネ：\n"
+"彼らは私達を的確に捉える事が出来なかったのだ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 56, Pos (12,8)
+msgid ""
+"ヴェーネ：\n"
+"私達はその混乱に身を隠し、目的の船を目指した。"
+msgstr ""
+
+#. ID 8, Page 2, Line 58, Pos (12,8)
+msgid ""
+"ヴェーネ：\n"
+"そして船内に乗り込んで間も無く\n"
+"黒獅子機は全機共、一斉に発進した。"
+msgstr ""
+
+#. ID 8, Page 2, Line 61, Pos (12,8)
+msgid ""
+"ヴェーネ：\n"
+"もう後戻りは出来ない。"
+msgstr ""
+
+#. ID 8, Page 2, Line 63, Pos (12,8)
+msgid ""
+"ヴェーネ：\n"
+"若しこの船に爆弾が無ければ、\\.\\.\n"
+"全てが終わる。"
+msgstr ""
+
+#. ID 8, Page 2, Line 77, Pos (12,8)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"さっきは混乱に乗じて無駄な戦いを免れた私達。\\|\n"
+"だが今度は違う。"
+msgstr ""
+
+#. ID 8, Page 2, Line 81, Pos (12,8)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"船内にまで入り込んだフェジテの急襲部隊として、\n"
+"私達は全ての船員を敵に回す。"
+msgstr ""
+
+#. ID 8, Page 2, Line 85, Pos (12,8)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"向かい来る彼らを力尽くで退かし、\n"
+"私達はハウゼンの探知圏内に成るポイントを探した。"
+msgstr ""
+
+#. ID 8, Page 2, Line 89, Pos (12,8)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"そして少しの後、\\.\\.\n"
+"そのポイントを見付け出したのだが…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 35, Pos (0,19)
+msgid ""
+"ハイディ：\n"
+"程無くして十匹の黒獅子は翼を生やし、\n"
+"黒死の翼へと変わる。"
+msgstr ""
+
+#. ID 10, Page 1, Line 38, Pos (0,19)
+msgid ""
+"ハイディ：\n"
+"そしてその内の一匹こそは、\n"
+"天を紅に染め、全てを灰燼と化する破滅の使徒。"
+msgstr ""
+
+#. ID 10, Page 1, Line 41, Pos (0,19)
+msgid ""
+"ハイディ：\n"
+"無限の翼を携えて、彼は天に牙を剥く。"
+msgstr ""
+
+#. ID 11, Page 1, Line 5, Pos (1,17)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]無限の翼…。\\|\\.\\.\n"
+"無限…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 8, Pos (1,17)
+msgid ""
+"ヴェーネ：\n"
+"「∞」という記号…。\\|\n"
+"確か\"無限\"を意味していた気が…。"
+msgstr ""
+

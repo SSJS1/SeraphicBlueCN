@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 4, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"もう一度確認するけれど、\n"
+"ヤンシーも一緒なのね？"
+msgstr ""
+
+#. ID 12, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ええ。\\.\\.\n"
+"ドリスを独りには出来ないと、単身で。"
+msgstr ""
+
+#. ID 12, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"尤も、本部施設内の処遇として、\n"
+"果たしてドリスと同じ場所に居るか否かは…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"いいえ、\\.\\.それならば一緒に居るわね。"
+msgstr ""
+
+#. ID 12, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"精神的苦痛を与えるならば、\n"
+"その対象と親しい人間を痛め付けるのが最も効率的。"
+msgstr ""
+
+#. ID 12, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"孤独ならざるが故の、\\.\\.心を結ぶが故の、\\.\\.\n"
+"人間の脆さ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"敢えて厭な仮定だが、\\.\\.若しモーガンが本気で\n"
+"三日毎に指を切断するというのなら…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"取り敢えず向こう一ヶ月、\\.\\.\n"
+"此処に送られて来るのはヤンシーの指だ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"或いは追加でもう一ヶ月、\\.\\.足の指が。"
+msgstr ""
+
+#. ID 12, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"でしょうね…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"絶対に阻止しないと。"
+msgstr ""
+
+#. ID 12, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"奴を斬殺してな。"
+msgstr ""
+
+#. ID 12, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ヤンシー…。\\|\n"
+"其処までドリスの事を…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"少し複雑って顔だな。"
+msgstr ""
+
+#. ID 12, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"否定はしない。\\.\\.\n"
+"でもこれで良いと思ってる。"
+msgstr ""
+
+#. ID 12, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私に取って代わって呉れる人間が、\n"
+"やっと現れたのだから。"
+msgstr ""
+
+#. ID 12, Page 1, Line 66, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私に向けられたドリスの眼差しを、\n"
+"奪って呉れる人間が…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ところで、其方としても大丈夫かな？\\|\n"
+"内政部幹部をブッ潰す訳だが。"
+msgstr ""
+
+#. ID 12, Page 1, Line 85, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"ええ、\\.\\.その点は。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 90, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"先のダルムシュタットへの攻撃で\n"
+"モーガンが放ったルシファー…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 93, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"本来人の制御を受け付けないルシファーが\n"
+"命令に忠実に街を襲った以上、\n"
+"モーガンがルシファーに不正に手を加えた事は明白。"
+msgstr ""
+
+#. ID 12, Page 1, Line 97, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"最早彼は国賊にまでその身を堕としました。\\|\n"
+"何故これを討つ事を憚る必要が。"
+msgstr ""
+
+#. ID 12, Page 1, Line 100, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"折りしもオーウェンの部下が反モーガン勢力を集め、\n"
+"モーガン不在の城に攻め入る準備を完了。"
+msgstr ""
+
+#. ID 12, Page 1, Line 103, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"彼女達の救出と同時に\n"
+"動き出す手筈に成っております。"
+msgstr ""
+
+#. ID 12, Page 1, Line 106, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"此処で城とモーガンを一気に叩ければ、\n"
+"少なくともフェジテ側の混迷は終結するでしょう。"
+msgstr ""
+
+#. ID 12, Page 1, Line 113, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"ミネルヴァも、これで宜しいですね。"
+msgstr ""
+
+#. ID 12, Page 1, Line 115, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"勿論。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それでは、\n"
+"女王陛下及び女王代行役の御墨付きって事で。"
+msgstr ""
+
+#. ID 12, Page 1, Line 125, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"何としてもモーガンを討ってください。"
+msgstr ""
+
+#. ID 12, Page 1, Line 127, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"そしてこれ以上、\n"
+"か弱き存在が食い物にされる事の在らぬよう。"
+msgstr ""
+
+#. ID 12, Page 1, Line 131, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"任せときな。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 138, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"これより作戦を開始する。\\|\n"
+"目的は二つ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 141, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"捕らわれの身で在るドリス、ヤンシー、\n"
+"序にオーウェンの計３名を救出する事。"
+msgstr ""
+
+#. ID 12, Page 1, Line 144, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そして、\\.\\.モーガン･ダグラスを撃破する事。"
+msgstr ""
+
+#. ID 12, Page 1, Line 149, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"さあ、\\.\\.行くぜッ！\\|\\^"
+msgstr ""
+

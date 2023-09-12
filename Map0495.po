@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 1, Line 7, Pos (0,0)
+msgid ""
+"シャル：\n"
+"もう直ぐラージュの最長射程よ。\\.\\.如何する？"
+msgstr ""
+
+#. ID 14, Page 1, Line 9, Pos (0,0)
+msgid ""
+"レイク：\n"
+"この船の装甲は？"
+msgstr ""
+
+#. ID 14, Page 1, Line 11, Pos (0,0)
+msgid ""
+"シャル：\n"
+"オンボロだけど元は物資輸送船。\\.\\.\n"
+"頑丈さだけが取り得の船よ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 14, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ＯＫ。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 19, Pos (0,0)
+msgid ""
+"レイク：\n"
+"全速力で弾幕を強行突破！\\.\\.\n"
+"ラージュの飛行船発着場に突っ込む！\\|\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 22, Pos (0,0)
+msgid ""
+"シャル／リーナ：\n"
+"ラジャー！\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 33, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"全速力で突入を試みる俺達に対し、\n"
+"遂にラージュの攻撃が始まった。"
+msgstr ""
+
+#. ID 14, Page 1, Line 37, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"視界を埋め尽くす凄まじい弾幕。"
+msgstr ""
+
+#. ID 14, Page 1, Line 40, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"だがこのロアノークも、\n"
+"頑丈さにかけては決して引けを取らなかった。"
+msgstr ""
+
+#. ID 14, Page 1, Line 44, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"雨の様に打ち付ける弾に悉く耐え、\n"
+"じわじわとラージュとの距離を詰めて行く。"
+msgstr ""
+
+#. ID 14, Page 1, Line 55, Pos (0,0)
+msgid ""
+"レイク：\n"
+"だが次の刹那。\\.\\.\n"
+"それが間違いだった事を、俺達は思い知る。"
+msgstr ""
+
+#. ID 14, Page 1, Line 61, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ゲオルクはわざと\n"
+"貫通力の低い弾幕を張っていたのだ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 64, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\"これなら行ける\"と思い込ませ、\n"
+"俺達を引き付ける為に。"
+msgstr ""
+
+#. ID 14, Page 1, Line 70, Pos (0,0)
+msgid ""
+"レイク：\n"
+"そしてラージュ底部の目前。"
+msgstr ""
+
+#. ID 14, Page 1, Line 72, Pos (0,0)
+msgid ""
+"レイク：\n"
+"浴びせられる、\\.\\.一発の強烈な精密射撃。"
+msgstr ""
+
+#. ID 14, Page 1, Line 94, Pos (0,0)
+msgid ""
+"レイク：\n"
+"畜生ッ！ \\.\\.一撃でこのザマか！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 96, Pos (0,0)
+msgid ""
+"レイク：\n"
+"この船は頑丈さだけが\n"
+"取り柄じゃなかったのか！"
+msgstr ""
+
+#. ID 14, Page 1, Line 99, Pos (0,0)
+msgid ""
+"シャル：\n"
+"充分頑丈よ！\\.\\.\n"
+"今のバスターライフルが異常なの！"
+msgstr ""
+
+#. ID 14, Page 1, Line 102, Pos (0,0)
+msgid ""
+"シャル：\n"
+"あんなのデイジー機でもアブないわ！"
+msgstr ""
+
+#. ID 14, Page 1, Line 107, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"ジェネレーター破損！\n"
+"推進出力、浮揚出力共に５％未満！\n"
+"リカバリー･インポッシブル！"
+msgstr ""
+
+#. ID 14, Page 1, Line 111, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"コンディション･レッド！\n"
+"飛行機能完全停止！"
+msgstr ""
+
+#. ID 14, Page 1, Line 117, Pos (0,0)
+msgid ""
+"レイク：\n"
+"落ちるのか…！\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 119, Pos (0,0)
+msgid ""
+"シャル：\n"
+"そうよ！\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 124, Pos (0,0)
+msgid ""
+"シャル：\n"
+"エマージェンシーオペレーション！\n"
+"リスクソリューション起動！"
+msgstr ""
+
+#. ID 14, Page 1, Line 127, Pos (0,0)
+msgid ""
+"シャル：\n"
+"モード、フルオート！\n"
+"残存機関コントロール開始！"
+msgstr ""
+
+#. ID 14, Page 1, Line 130, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"リスクスコア算出完了！\n"
+"速度軽減\\_0.30！ \\.\\.衝撃軽減\\_0.25！ \\.\\.総合レベル３！"
+msgstr ""
+
+#. ID 14, Page 1, Line 133, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"バリア破壊確率\\_92.50％！\n"
+"ダイレクトダメージ\\_0.8125！"
+msgstr ""
+
+#. ID 14, Page 1, Line 136, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"0.8超…！ \\.\\.高過ぎる…！\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 139, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何の数値だ！\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 146, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"降水確率80％以上。\\|\n"
+"但し降るのは、\\.\\.バラバラの船体部品。"
+msgstr ""
+
+#. ID 14, Page 1, Line 156, Pos (0,0)
+msgid ""
+"レイク：\n"
+"傘も使えやしない。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 158, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"降らない事を祈るだけね。\\|\\|\\^"
+msgstr ""
+

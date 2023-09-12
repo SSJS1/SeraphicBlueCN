@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"三条峰で…\\.\\.何かが起きている…？"
+msgstr ""
+
+#. ID 2, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そうね…。\\.\\.\n"
+"最近は御無沙汰だし、\\.修行には丁度良いわ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 16, Pos (0,0)
+#. ID 2, Page 1, Line 55, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"陽が昇ったら行ってみようかしら。"
+msgstr ""
+
+#. ID 2, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"やっぱり感じる…。\\|三条峰から…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"単純な気の乱れじゃない…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"森羅万象…\\|或いは運命の歪み…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"とてもとても小さいのに…。\\|\n"
+"妙に心に引っ掛かって見過ごせない、\\.\\.変な存在感…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"三条峰で…\\|何かが起きている…？"
+msgstr ""
+
+#. ID 2, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そうね…。\\|\n"
+"最近は御無沙汰だし、\\.\\.修行には丁度良いわ。"
+msgstr ""
+

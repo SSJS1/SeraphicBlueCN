@@ -1,0 +1,1180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 42, Page 2, Line 13, Pos (11,18)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"戦いは既に始まっていた。"
+msgstr ""
+
+#. ID 42, Page 2, Line 16, Pos (11,18)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"モーガンが放った政府軍とC.M.G.C.アームズ。\n"
+"そしてルシファーの大群。"
+msgstr ""
+
+#. ID 42, Page 2, Line 20, Pos (11,18)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"迎え撃つゲオルクが放った私設部隊と有志の本隊。\n"
+"そしてイーヴルの大群。"
+msgstr ""
+
+#. ID 42, Page 2, Line 25, Pos (11,18)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"大地＜グラウンド＞の者たるパーソンとイーヴル。\\|\n"
+"天空＜フェジテ＞の者たるセラパーソンとルシファー。"
+msgstr ""
+
+#. ID 42, Page 2, Line 29, Pos (11,18)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"数多の存在＜いのち＞は手を取り合う事無く、\n"
+"只管に互いを殺し続ける。"
+msgstr ""
+
+#. ID 42, Page 2, Line 155, Pos (11,18)
+msgid ""
+"ユアン：\n"
+"さあ、\\.俺達は救助に向かうぞ！"
+msgstr ""
+
+#. ID 42, Page 2, Line 202, Pos (11,18)
+msgid ""
+"\\>\\C[10]【一般市民救助ミッション】\\C[0]\n"
+"\\>レイク達の行動範囲には一般市民の逃げ遅れが５名\n"
+"\\>存在します。探し出して救助してください。"
+msgstr ""
+
+#. ID 42, Page 2, Line 205, Pos (11,18)
+msgid ""
+"\\>\\C[10]【一般市民救助ミッション】\\C[0]\n"
+"\\>但し街中には侵入を果たしたフェジテ軍や\n"
+"\\>ルシファーが徘徊しており、\n"
+"\\>時として彼らとの戦闘に突入します。"
+msgstr ""
+
+#. ID 42, Page 2, Line 209, Pos (11,18)
+msgid ""
+"\\>\\C[10]【一般市民救助ミッション】\\C[0]\n"
+"\\>因みに行動範囲は以前訪れた時と同じです。\n"
+"\\>くまなく移動し、見落としの無い様にしてください。"
+msgstr ""
+
+#. ID 42, Page 2, Line 220, Pos (11,18)
+msgid ""
+"ユアン：\n"
+"\\S[2]ひでえ…。\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 222, Pos (11,18)
+msgid ""
+"レイク：\n"
+"ああ…。\\|予想以上だ…。\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 224, Pos (11,18)
+#. ID 59, Page 1, Line 73, Pos (12,18)
+#. ID 59, Page 1, Line 150, Pos (12,18)
+#. ID 59, Page 2, Line 4, Pos (12,18)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 229, Pos (11,18)
+#. ID 42, Page 4, Line 9, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"おいユアン。\\.\\.\n"
+"これでも救助すんのかよ？"
+msgstr ""
+
+#. ID 42, Page 2, Line 232, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"正直、生き残りなんて…。"
+msgstr ""
+
+#. ID 42, Page 2, Line 234, Pos (11,18)
+msgid ""
+"ユアン：\n"
+"そんな事は無い。"
+msgstr ""
+
+#. ID 42, Page 2, Line 236, Pos (11,18)
+msgid ""
+"ユアン：\n"
+"こんな状況だろうが、逃げ遅れて\n"
+"助けを必要としている人間は必ず居る筈だ。"
+msgstr ""
+
+#. ID 42, Page 2, Line 243, Pos (11,18)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 250, Pos (11,18)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[5]うっ…！\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 256, Pos (11,18)
+msgid ""
+"フォクシー：\n"
+"ミネルヴァ…？\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 261, Pos (11,18)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[5]う…う…！\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 267, Pos (11,18)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]ゲエェェェッ!!\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 270, Pos (11,18)
+msgid ""
+"フォクシー：\n"
+"ミネルヴァ！\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 272, Pos (11,18)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]エッ…！ \\|ゲハッ…！\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 274, Pos (11,18)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]ウゲェェェェェェッ!!\\|\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 279, Pos (11,18)
+msgid ""
+"フォクシー：\n"
+"\\S[2]大丈夫…。\\|\n"
+"落ち着いて…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 282, Pos (11,18)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]ゲホッ…！ \\|ゲホッ…！\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 287, Pos (11,18)
+#. ID 42, Page 4, Line 30, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"あ～あ、\\.\\.また見事にゲロったな。\\|\n"
+"やっぱ免疫無いか。"
+msgstr ""
+
+#. ID 42, Page 2, Line 290, Pos (11,18)
+#. ID 42, Page 4, Line 33, Pos (11,18)
+msgid ""
+"フォクシー：\n"
+"ガキは黙ってな！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 296, Pos (11,18)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[5]だ、\\.\\.大丈夫…。\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 309, Pos (11,18)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[5]心配かけて、\\.\\.御免なさい…。\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 311, Pos (11,18)
+msgid ""
+"フォクシー：\n"
+"良いんだよ…。\\|謝らなくても…。\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 316, Pos (11,18)
+msgid ""
+"フォクシー：\n"
+"畜生…。\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 323, Pos (11,18)
+msgid ""
+"フォクシー：\n"
+"テメェら！ \\.\\.何時まで戦ってんだよ！"
+msgstr ""
+
+#. ID 42, Page 2, Line 325, Pos (11,18)
+msgid ""
+"フォクシー：\n"
+"免疫無い奴にグロ見せやがって！"
+msgstr ""
+
+#. ID 42, Page 2, Line 327, Pos (11,18)
+msgid ""
+"フォクシー：\n"
+"クソバカ野郎が!!\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 334, Pos (11,18)
+msgid ""
+"ユアン：\n"
+"済まなかったミネルヴァ。\\.\\.\n"
+"引き連れてまで見せる様な物じゃなかったな。"
+msgstr ""
+
+#. ID 42, Page 2, Line 338, Pos (11,18)
+msgid ""
+"ユアン：\n"
+"フォクシー。\\.\\.\n"
+"外でミネルヴァの介抱を。"
+msgstr ""
+
+#. ID 42, Page 2, Line 341, Pos (11,18)
+msgid ""
+"ユアン：\n"
+"此処は俺達四人で引き受ける。"
+msgstr ""
+
+#. ID 42, Page 2, Line 343, Pos (11,18)
+msgid ""
+"フォクシー：\n"
+"良いの？\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 345, Pos (11,18)
+#. ID 42, Page 4, Line 51, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"居るだけウザいんだよ。"
+msgstr ""
+
+#. ID 42, Page 2, Line 347, Pos (11,18)
+#. ID 42, Page 4, Line 53, Pos (11,18)
+msgid ""
+"ユアン：\n"
+"おいケイン。\\.\\.\n"
+"次言ったらブッ飛ばすぜ。"
+msgstr ""
+
+#. ID 42, Page 2, Line 353, Pos (11,18)
+#. ID 42, Page 4, Line 59, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 361, Pos (11,18)
+msgid ""
+"レイク：\n"
+"ヴェーネは大丈夫なのか？\\|\n"
+"無理しなくて良いんだぞ。"
+msgstr ""
+
+#. ID 42, Page 2, Line 364, Pos (11,18)
+msgid ""
+"ヴェーネ：\n"
+"ええ、\\.\\.私は平気。\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 371, Pos (11,18)
+msgid ""
+"ヴェーネ：\n"
+"単純な事よ。\\|\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 373, Pos (11,18)
+msgid ""
+"ヴェーネ：\n"
+"人間なんて所詮は肉袋。\\|\n"
+"破れれば、当然中身の臓物が飛び出す。"
+msgstr ""
+
+#. ID 42, Page 2, Line 376, Pos (11,18)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]ボトボトと、\\.\\.地面に落ちては、\\.\\.\n"
+"ビチャビチャと、\\.\\.弾け飛んで…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 42, Page 2, Line 379, Pos (11,18)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]たった、\\.\\.それだけ。\\|\\^"
+msgstr ""
+
+#. ID 42, Page 4, Line 12, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"(何で俺がパーソンなんか…。)"
+msgstr ""
+
+#. ID 42, Page 4, Line 35, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"(ゲロってんじゃねーよ。\\.\\.目障りなメスだ。)"
+msgstr ""
+
+#. ID 42, Page 4, Line 61, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"(何キレてんだよ。\\.\\.\n"
+" 下らねえ正義感なんざ振り回しちまってさ。)"
+msgstr ""
+
+#. ID 42, Page 4, Line 64, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"(ウザ過ぎんぞ、テメー。)"
+msgstr ""
+
+#. ID 42, Page 4, Line 72, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"(アツいじゃねえか。\\.\\.燃えるじゃねえか。)"
+msgstr ""
+
+#. ID 42, Page 4, Line 74, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"(アイシャを嬲り殺したパーソンだぜ？)"
+msgstr ""
+
+#. ID 42, Page 4, Line 76, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"(オラオラァ！ \\.\\.もっと死ねよ！ \\.\\.もっと殺せよ！)\\|\\^"
+msgstr ""
+
+#. ID 42, Page 4, Line 85, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"\\S[2]そうだ…。\\|消えちまえ…。\\|\\^"
+msgstr ""
+
+#. ID 42, Page 4, Line 87, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"\\S[2]この世界…。\\|\n"
+"グラウンドもフェジテも全部まとめて…。\\|\\|\\^"
+msgstr ""
+
+#. ID 42, Page 4, Line 90, Pos (11,18)
+msgid ""
+"ケイン：\n"
+"\\S[5]消えちまえ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 43, Page 1, Line 9, Pos (9,12)
+#. ID 43, Page 1, Line 38, Pos (9,12)
+msgid ""
+"店員：\n"
+"一応出店してます。\n"
+"アイテムが必要な事も在るでしょうから。"
+msgstr ""
+
+#. ID 43, Page 1, Line 14, Pos (9,12)
+#. Contains choice at line 2 (3 options)
+msgid "店員：いらっしゃいませ。"
+msgstr ""
+
+#. ID 43, Page 1, Line 15, Pos (9,12)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 43, Page 1, Line 25, Pos (9,12)
+msgid ""
+"店員：\n"
+"ダルムシュタットがこのような惨状になるなんて…。"
+msgstr ""
+
+#. ID 43, Page 1, Line 27, Pos (9,12)
+msgid ""
+"店員：\n"
+"この先、グラウンドは\n"
+"一体どうなってしまうんでしょうか。"
+msgstr ""
+
+#. ID 43, Page 1, Line 41, Pos (9,12)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"店員：\n"
+"いらっしゃいませ。"
+msgstr ""
+
+#. ID 43, Page 1, Line 43, Pos (9,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+
+#. ID 58, Page 1, Line 25, Pos (14,19)
+msgid ""
+"女性：\n"
+"娘がまだ…\\.街の中に…！"
+msgstr ""
+
+#. ID 58, Page 1, Line 27, Pos (14,19)
+msgid ""
+"女性：\n"
+"お願いします…！ \\.\\.娘を助けてください…！"
+msgstr ""
+
+#. ID 58, Page 1, Line 29, Pos (14,19)
+msgid ""
+"女性：\n"
+"見たんです。\\.このメインストリートを\n"
+"スカイスクレイパーの方に走って行く姿を。"
+msgstr ""
+
+#. ID 58, Page 1, Line 40, Pos (14,19)
+msgid ""
+"ケイン：\n"
+"行くぜッ！ \\.まだ時間は在る！"
+msgstr ""
+
+#. ID 58, Page 1, Line 46, Pos (14,19)
+msgid ""
+"ユアン：\n"
+"おい、あんた！\\.\\.\n"
+"こんな所で何やってんだ！"
+msgstr ""
+
+#. ID 58, Page 1, Line 52, Pos (14,19)
+msgid ""
+"女性：\n"
+"\\S[2]娘が…！\\|\\^"
+msgstr ""
+
+#. ID 58, Page 1, Line 54, Pos (14,19)
+msgid ""
+"女性：\n"
+"\\S[2]娘がまだ…\\.\\.街の中に…！\\|\\^"
+msgstr ""
+
+#. ID 58, Page 1, Line 59, Pos (14,19)
+msgid ""
+"ユアン：\n"
+"\\S[3]何だと…？\\|\\^"
+msgstr ""
+
+#. ID 58, Page 1, Line 61, Pos (14,19)
+msgid ""
+"女性：\n"
+"お願いします…！ \\|娘を助けてください…！"
+msgstr ""
+
+#. ID 58, Page 1, Line 66, Pos (14,19)
+msgid ""
+"ヴェーネ：\n"
+"ねえ貴女。\\.\\.この惨状が見えないの？"
+msgstr ""
+
+#. ID 58, Page 1, Line 68, Pos (14,19)
+msgid ""
+"ヴェーネ：\n"
+"大の大人が無力にバタバタと死んでる中で、\n"
+"小さい女の子に何が出来る？"
+msgstr ""
+
+#. ID 58, Page 1, Line 71, Pos (14,19)
+msgid ""
+"ヴェーネ：\n"
+"悪いけど\\.\\.\\^"
+msgstr ""
+
+#. ID 58, Page 1, Line 73, Pos (14,19)
+msgid ""
+"ユアン：\n"
+"言うなヴェーネ。\\|\n"
+"それ以上は言っちゃならねえ。"
+msgstr ""
+
+#. ID 58, Page 1, Line 79, Pos (14,19)
+msgid ""
+"ユアン：\n"
+"なあ奥さん。\\.\\.\n"
+"そうまで言うには何か根拠が？"
+msgstr ""
+
+#. ID 58, Page 1, Line 82, Pos (14,19)
+msgid ""
+"女性：\n"
+"見たんです。\\.\\.このメインストリートを\n"
+"スカイスクレイパーの方に走って行く姿を。"
+msgstr ""
+
+#. ID 58, Page 1, Line 85, Pos (14,19)
+msgid ""
+"女性：\n"
+"追い駆けようとしたのですが、\n"
+"イーヴルが立ち塞がって…。"
+msgstr ""
+
+#. ID 58, Page 1, Line 88, Pos (14,19)
+msgid ""
+"ユアン：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 58, Page 1, Line 94, Pos (14,19)
+msgid ""
+"レイク：\n"
+"難しい所だな…。\\.\\.\n"
+"マキシムの言ってた事も気に成る…。"
+msgstr ""
+
+#. ID 58, Page 1, Line 97, Pos (14,19)
+msgid ""
+"ヴェーネ：\n"
+"これ以上の長居は危険だわ。"
+msgstr ""
+
+#. ID 58, Page 1, Line 107, Pos (14,19)
+msgid ""
+"ケイン：\n"
+"行くぜッ！ \\.\\.まだ時間は在る！\\|\\^"
+msgstr ""
+
+#. ID 58, Page 1, Line 112, Pos (14,19)
+msgid ""
+"ユアン：\n"
+"ケイン…。\\|お前…。\\|\\^"
+msgstr ""
+
+#. ID 58, Page 1, Line 114, Pos (14,19)
+msgid ""
+"ケイン：\n"
+"小さい女の子が\n"
+"戦場でたった独り震えてるんだぜ？"
+msgstr ""
+
+#. ID 58, Page 1, Line 117, Pos (14,19)
+msgid ""
+"ケイン：\n"
+"そんなの、\\.\\.見捨てられるかよ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 58, Page 1, Line 122, Pos (14,19)
+msgid ""
+"ケイン：\n"
+"さあ、\\.\\.早くッ！\\|\\^"
+msgstr ""
+
+#. ID 58, Page 1, Line 127, Pos (14,19)
+msgid ""
+"ユアン：\n"
+"分かった！ \\.\\.行こう！\\|\\^"
+msgstr ""
+
+#. ID 58, Page 2, Line 3, Pos (14,19)
+msgid ""
+"母親：\n"
+"如何か娘を…。"
+msgstr ""
+
+#. ID 59, Page 1, Line 10, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]ああッ…！ \\.\\.最高よッ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 12, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]堪んないッ…！ \\.\\.この光景…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 14, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]もっと濡らしてッ…！\\|\n"
+"もっと汚してッ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 17, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]この血肉の雨でッ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 22, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]そうよ…！\\.\\.\n"
+"生命なんてこんなモノ…！"
+msgstr ""
+
+#. ID 59, Page 1, Line 25, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]斯くも脆くバタバタと死んで逝く…！"
+msgstr ""
+
+#. ID 59, Page 1, Line 27, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]大量にッ…！ \\|無味乾燥にッ…！ \\|ゴミ同然にッ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 29, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]避けられぬ生命の宿命…！ \\|生命の本質…！"
+msgstr ""
+
+#. ID 59, Page 1, Line 34, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]さあ嘆いて御覧なさい…！\\|\n"
+"この凄惨な現実の上に立って…！"
+msgstr ""
+
+#. ID 59, Page 1, Line 37, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]生まれて来なければ良かったと…！"
+msgstr ""
+
+#. ID 59, Page 1, Line 39, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]この世はクズだと…！"
+msgstr ""
+
+#. ID 59, Page 1, Line 41, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]生命は遍く虚しいと…！"
+msgstr ""
+
+#. ID 59, Page 1, Line 47, Pos (12,18)
+msgid ""
+"ヴェーネ：\n"
+"良く喋るわね。\\|\n"
+"正直、少し煩いわ。"
+msgstr ""
+
+#. ID 59, Page 1, Line 53, Pos (12,18)
+msgid ""
+"エル：\n"
+"フッ…。\\|何を済ました事を…。"
+msgstr ""
+
+#. ID 59, Page 1, Line 55, Pos (12,18)
+msgid ""
+"エル：\n"
+"降り注ぐ血肉と真実を前にしては、\n"
+"如何なる興奮も避けられず、また責められない。"
+msgstr ""
+
+#. ID 59, Page 1, Line 58, Pos (12,18)
+msgid ""
+"エル：\n"
+"この祝祭に際して、\\.\\.\n"
+"お前は尚もそうしている心算？"
+msgstr ""
+
+#. ID 59, Page 1, Line 61, Pos (12,18)
+msgid ""
+"エル：\n"
+"そんな平素の顔をして。\\|\n"
+"何も感じていない振りをして。"
+msgstr ""
+
+#. ID 59, Page 1, Line 67, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]その実、\\.\\.身体の芯に、\\.\\.\n"
+"抗えぬ熱い火照りを感じながら…。"
+msgstr ""
+
+#. ID 59, Page 1, Line 75, Pos (12,18)
+msgid ""
+"エル：\n"
+"素直に成れば良いのに…。"
+msgstr ""
+
+#. ID 59, Page 1, Line 80, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]血肉の雨に濡れながら、\\.\\.身を捩らせて…。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 82, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]滑る素肌に、\\.\\.指を這わせて…。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 84, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]轟音の最中で、\\.\\.悲鳴の如く喘いで…。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 86, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]死滅と淫欲の、\\.\\.赤き海で悶えながら…。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 88, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]吐息を漏らし…！ \\|身体を跳ね付かせて…！\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 90, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]恍惚の笑みを…！ \\|血潮と涙で彩って…！\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 92, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[5]果ててしまいたい…！\\|\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 97, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]世界で最も破滅に近しい、\\.\\.\n"
+"この無上のエクスタシー…。"
+msgstr ""
+
+#. ID 59, Page 1, Line 100, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]\"死\"と共に交わす、\\.\\.\n"
+"熱く淫らで、\\.\\.暗い契りを…。"
+msgstr ""
+
+#. ID 59, Page 1, Line 103, Pos (12,18)
+msgid ""
+"エル：\n"
+"\\S[2]何故に拒む？\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 109, Pos (12,18)
+msgid ""
+"ヴェーネ：\n"
+"下らない口上ね。\\.\\.\n"
+"それは全てお前の淫欲でしょう？"
+msgstr ""
+
+#. ID 59, Page 1, Line 112, Pos (12,18)
+msgid ""
+"エル：\n"
+"またそうやって。\\.\\.\n"
+"勿体無い事を。"
+msgstr ""
+
+#. ID 59, Page 1, Line 115, Pos (12,18)
+msgid ""
+"ヴェーネ：\n"
+"煩いわね。\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 117, Pos (12,18)
+msgid ""
+"ヴェーネ：\n"
+"いっそ達して、\\.\\.暫く黙ってたら？"
+msgstr ""
+
+#. ID 59, Page 1, Line 122, Pos (12,18)
+msgid ""
+"エル：\n"
+"フッ…。\\|難儀な身の上だ事…。"
+msgstr ""
+
+#. ID 59, Page 1, Line 124, Pos (12,18)
+msgid ""
+"エル：\n"
+"慰める事も…。\\|イってしまう事も…。"
+msgstr ""
+
+#. ID 59, Page 1, Line 126, Pos (12,18)
+msgid ""
+"エル：\n"
+"満足に出来ないなんて。"
+msgstr ""
+
+#. ID 59, Page 1, Line 128, Pos (12,18)
+msgid ""
+"ヴェーネ：\n"
+"勝手に言ってなさい。"
+msgstr ""
+
+#. ID 59, Page 1, Line 130, Pos (12,18)
+msgid ""
+"ヴェーネ：\n"
+"私を苛む宿命は、\n"
+"そんな世俗の下賎とは次元が違うの。"
+msgstr ""
+
+#. ID 59, Page 1, Line 136, Pos (12,18)
+msgid ""
+"エル：\n"
+"食えない女ね。\\.\\.お前は。\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 142, Pos (12,18)
+msgid ""
+"エル：\n"
+"それで？\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 144, Pos (12,18)
+msgid ""
+"エル：\n"
+"もうとっくに気付いてるんでしょう？\\|\n"
+"私が独り歩きを始めている事を。"
+msgstr ""
+
+#. ID 59, Page 1, Line 147, Pos (12,18)
+msgid ""
+"エル：\n"
+"あの頃の様な従属の代理役、\\.\\.管理下に置かれた\n"
+"形而上的存在とはまるで違うのだと。"
+msgstr ""
+
+#. ID 59, Page 1, Line 152, Pos (12,18)
+msgid ""
+"エル：\n"
+"それとも眼を背ける？\\|\n"
+"現実にして現実でないこの私から。"
+msgstr ""
+
+#. ID 59, Page 1, Line 158, Pos (12,18)
+msgid ""
+"ヴェーネ：\n"
+"私にも立場が在るのよ。\\|\n"
+"如何しても守らなくてはいけない立場が。"
+msgstr ""
+
+#. ID 59, Page 1, Line 161, Pos (12,18)
+msgid ""
+"エル：\n"
+"知ってるわ。\\.\\.だから私なんだと。"
+msgstr ""
+
+#. ID 59, Page 1, Line 163, Pos (12,18)
+msgid ""
+"エル：\n"
+"別に構わないけれどね。\\|\n"
+"私には私の道が在るのだから。"
+msgstr ""
+
+#. ID 59, Page 1, Line 169, Pos (12,18)
+msgid ""
+"エル：\n"
+"でも事が起きる度に、\n"
+"道が撚り合うのが分かるわ。"
+msgstr ""
+
+#. ID 59, Page 1, Line 172, Pos (12,18)
+msgid ""
+"エル：\n"
+"私から寄らず、\\.\\.\n"
+"お前の方から寄って来るのが。"
+msgstr ""
+
+#. ID 59, Page 1, Line 178, Pos (12,18)
+msgid ""
+"エル：\n"
+"何時か共に歩けると良いわね。\\|\n"
+"そうすればお前も素直にイク事が出来る。"
+msgstr ""
+
+#. ID 59, Page 1, Line 181, Pos (12,18)
+msgid ""
+"エル：\n"
+"最もエクスタシーに満ちた結末。"
+msgstr ""
+
+#. ID 59, Page 1, Line 183, Pos (12,18)
+msgid ""
+"ヴェーネ：\n"
+"冗談じゃないわ。\\.\\.\n"
+"融合するべきはお前ではない。"
+msgstr ""
+
+#. ID 59, Page 1, Line 189, Pos (12,18)
+msgid ""
+"エル：\n"
+"まあ良いわ。\\|\\^"
+msgstr ""
+
+#. ID 59, Page 1, Line 191, Pos (12,18)
+msgid ""
+"エル：\n"
+"運命はまだ長いのだから。\\|\n"
+"此処はゆっくりと結果を待つまで。"
+msgstr ""
+
+#. ID 59, Page 1, Line 194, Pos (12,18)
+msgid ""
+"エル：\n"
+"良い返事を、\\.\\.期待してるわよ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 18, Pos (12,18)
+msgid ""
+"？？？：\n"
+"おお、\\.\\.レイクとヴェーネじゃないか！\\|\\|\\^"
+msgstr ""
+
+#. ID 59, Page 2, Line 23, Pos (12,18)
+msgid ""
+"レイク：\n"
+"マキシム…！\\|\\^"
+msgstr ""
+
+#. ID 59, Page 2, Line 25, Pos (12,18)
+msgid ""
+"ヴェーネ：\n"
+"無事だったのね。"
+msgstr ""
+
+#. ID 59, Page 2, Line 27, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"これでも昔はイーヴルを狩って\n"
+"メシを食ってた身だからな。"
+msgstr ""
+
+#. ID 59, Page 2, Line 30, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"とは言え自分と従業員で手一杯さ。\\.\\.\n"
+"不甲斐ねえ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 36, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"それより何で此処に？"
+msgstr ""
+
+#. ID 59, Page 2, Line 38, Pos (12,18)
+msgid ""
+"ユアン：\n"
+"一般市民の救助に来た。"
+msgstr ""
+
+#. ID 59, Page 2, Line 40, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"そいつは有難い。\n"
+"まだ生きて逃げ遅れてるのが居る筈だ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 43, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"あんたら地獄に仏だよ。\\.\\.\n"
+"一人でも多く助けて呉れ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 46, Pos (12,18)
+msgid ""
+"ユアン：\n"
+"任せろ。\\.\\.全力を尽くす。\\|\\^"
+msgstr ""
+
+#. ID 59, Page 2, Line 52, Pos (12,18)
+msgid ""
+"レイク：\n"
+"ところで、一体\"これ\"は何なんだ？"
+msgstr ""
+
+#. ID 59, Page 2, Line 54, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"コレ？\\|\\^"
+msgstr ""
+
+#. ID 59, Page 2, Line 56, Pos (12,18)
+msgid ""
+"レイク：\n"
+"辺りの\"色\"だ。\\.\\.\n"
+"空中戦で街中に血肉が降ってるとしても、\n"
+"この色はおかし過ぎる。"
+msgstr ""
+
+#. ID 59, Page 2, Line 60, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"確かにな。\\.\\.赤い色だけ残して、\n"
+"他の色が全て消えちまった様な光景。"
+msgstr ""
+
+#. ID 59, Page 2, Line 63, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"戦闘が始まった直後から、この有様さ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 65, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"初めは眼の錯覚かとも思ったんだが、\n"
+"街の外は普通の色だったし。"
+msgstr ""
+
+#. ID 59, Page 2, Line 68, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"もう俺にもさっぱりだ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 73, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"だが俺の情報屋としての勘を信じれば、\n"
+"此奴は何かとんでもない事が起きる前触れだぜ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 76, Pos (12,18)
+msgid ""
+"レイク：\n"
+"とんでもない事…。\\|\\^"
+msgstr ""
+
+#. ID 59, Page 2, Line 81, Pos (12,18)
+msgid ""
+"ユアン：\n"
+"何れにせよ、今は救助が先決だ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 83, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"余り長居するなよ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 85, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"その\"とんでもない事\"に巻き込まれたら\n"
+"元も子も無いんだぜ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 88, Pos (12,18)
+msgid ""
+"ユアン：\n"
+"引き際は戦闘の基本ってな。"
+msgstr ""
+
+#. ID 59, Page 2, Line 94, Pos (12,18)
+msgid ""
+"ユアン：\n"
+"ああ、\\.そうだ。\\|\\^"
+msgstr ""
+
+#. ID 59, Page 2, Line 99, Pos (12,18)
+msgid ""
+"ユアン：\n"
+"出来れば二人を預かって呉れるか？\\.\\.\n"
+"此処の光景にやられちまった。"
+msgstr ""
+
+#. ID 59, Page 2, Line 102, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"そいつは可哀想に。\\|\n"
+"良いぜ、引き受けよう。"
+msgstr ""
+
+#. ID 59, Page 2, Line 107, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"さあ御嬢さん方、\\.\\.俺と一緒に外へ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 109, Pos (12,18)
+msgid ""
+"マキシム：\n"
+"マトモな空気を吸えば直ぐに良く成るさ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 118, Pos (12,18)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]情けないわね…。\\.\\.私…。"
+msgstr ""
+
+#. ID 59, Page 2, Line 120, Pos (12,18)
+msgid ""
+"ユアン：\n"
+"そんな事在るもんか。\\.\\.\n"
+"それが\"真っ当な\"リアクションだ。"
+msgstr ""
+
+#. ID 59, Page 2, Line 123, Pos (12,18)
+msgid ""
+"ユアン：\n"
+"此処は俺達に任せて、\n"
+"ゆっくりと外の空気を吸って来い。"
+msgstr ""
+
+#. ID 59, Page 2, Line 141, Pos (12,18)
+msgid ""
+"ユアン：\n"
+"さあ、\\.\\.俺達は救助に向かうぞ！"
+msgstr ""
+
+#. ID 59, Page 2, Line 173, Pos (12,18)
+msgid ""
+"\\>\\C[10]【一般市民救助ミッション】\\C[0]\n"
+"レイク達の行動範囲には一般市民の逃げ遅れが５名\n"
+"存在します。探し出して救助してください。"
+msgstr ""
+
+#. ID 59, Page 2, Line 176, Pos (12,18)
+msgid ""
+"\\>\\C[10]【一般市民救助ミッション】\\C[0]\n"
+"但し街中には侵入を果たしたフェジテ軍や\n"
+"ルシファーが徘徊しており、\n"
+"時として彼らとの戦闘に突入します。"
+msgstr ""
+
+#. ID 59, Page 2, Line 180, Pos (12,18)
+msgid ""
+"\\>\\C[10]【一般市民救助ミッション】\\C[0]\n"
+"因みに行動範囲は以前訪れた時と同じです。\n"
+"くまなく移動し、見落としの無い様にしてください。"
+msgstr ""
+

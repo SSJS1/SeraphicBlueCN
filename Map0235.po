@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 15, Page 1, Line 3, Pos (10,5)
+msgid ""
+"売女：\n"
+"最近グランス千切りってのが流行ってんだ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 5, Pos (10,5)
+msgid ""
+"売女：\n"
+"銭無しで抱きやがった男のモノを咥え込んで、\n"
+"そのまま食い千切る。"
+msgstr ""
+
+#. ID 15, Page 1, Line 8, Pos (10,5)
+msgid ""
+"売女：\n"
+"のた打ち回って大泣きして、\n"
+"全裸で外に逃げ出すヤローの姿の情け無い事。"
+msgstr ""
+
+#. ID 15, Page 1, Line 11, Pos (10,5)
+msgid ""
+"売女：\n"
+"それに女は女で、切口から噴き出す大量の血で\n"
+"窒息する危険が在るからね。"
+msgstr ""
+
+#. ID 15, Page 1, Line 14, Pos (10,5)
+msgid ""
+"売女：\n"
+"偶に度胸試しにも使われるんだ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 3, Pos (9,4)
+msgid ""
+"\n"
+"            ケイオス自殺同好会ＮＥＷＳ"
+msgstr ""
+
+#. ID 18, Page 1, Line 5, Pos (9,4)
+msgid ""
+"其処の君ッ！\n"
+"こんな世界に生きてても良い事無いぜッ！"
+msgstr ""
+
+#. ID 18, Page 1, Line 7, Pos (9,4)
+msgid ""
+"今日が不幸な奴は明日も不幸ッ！\n"
+"今日がハッピーな奴も明日はきっと不幸ッ！\n"
+"生きる意味なんざありゃしねえッ！\n"
+"だったら皆で自殺しようぜッ！"
+msgstr ""
+
+#. ID 18, Page 1, Line 12, Pos (9,4)
+msgid ""
+"Invitation!\n"
+"・マリバンドホープ身投げツアー\n"
+"・レンスドック雪原凍死ピクニック"
+msgstr ""
+
+#. ID 18, Page 1, Line 15, Pos (9,4)
+msgid ""
+"Coming Soon!\n"
+"・エルナ山地首吊りハイキング\n"
+"・アクアマリン入水クルージング\n"
+"・オーバードウズ･パーティ"
+msgstr ""
+
+#. ID 18, Page 1, Line 21, Pos (9,4)
+msgid ""
+"Invitation!\n"
+"・エルナ山地首吊りハイキング"
+msgstr ""
+
+#. ID 18, Page 1, Line 23, Pos (9,4)
+msgid ""
+"Coming Soon!\n"
+"・アクアマリン入水クルージング\n"
+"・オーバードウズ･パーティ"
+msgstr ""
+

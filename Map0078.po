@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 18, Page 1, Line 3, Pos (2,10)
+msgid ""
+"男の子：\n"
+"すっごく面白かったよ。\n"
+"また来たいな。"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (3,8)
+msgid ""
+"馬鹿親：\n"
+"ウチの子供、もう息をするのも忘れる位に\n"
+"食い入って見学してたんですよ。"
+msgstr ""
+
+#. ID 19, Page 1, Line 6, Pos (3,8)
+msgid ""
+"馬鹿親：\n"
+"こりゃ将来は歴史学者かな…？"
+msgstr ""
+
+#. ID 20, Page 1, Line 3, Pos (15,11)
+msgid ""
+"女の子：\n"
+"とっても面白かったわ。\n"
+"また来たいな。"
+msgstr ""
+
+#. ID 21, Page 1, Line 3, Pos (16,10)
+msgid ""
+"普通親：\n"
+"ウチの子、もう夢中で見学していたんですよ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 5, Pos (16,10)
+msgid ""
+"普通親：\n"
+"こういうのを機会に、好奇心旺盛な子に\n"
+"育って呉れると良いんですけど。"
+msgstr ""
+
+#. ID 22, Page 1, Line 3, Pos (7,8)
+msgid ""
+"男性職員：\n"
+"ようこそ海上歴史館へ。"
+msgstr ""
+
+#. ID 22, Page 1, Line 5, Pos (7,8)
+msgid ""
+"男性職員：\n"
+"此処ではユヴェスの辿った世にも数奇な歴史を\n"
+"御覧になる事が出来ます。"
+msgstr ""
+
+#. ID 22, Page 1, Line 8, Pos (7,8)
+msgid ""
+"男性職員：\n"
+"入場は無料ですので、どうぞ御気軽に。"
+msgstr ""
+
+#. ID 23, Page 1, Line 3, Pos (11,8)
+msgid ""
+"男性職員：\n"
+"此処は親子連れも多くいらっしゃいます。"
+msgstr ""
+
+#. ID 36, Page 1, Line 5, Pos (9,6)
+msgid ""
+"レイク：\n"
+"こんな所寄っても時間の無駄だ。\n"
+"さっさとホワイトウィングに行くんだよ。"
+msgstr ""
+
+#. ID 37, Page 1, Line 26, Pos (2,4)
+#. ID 37, Page 1, Line 68, Pos (2,4)
+msgid ""
+"レイク：\n"
+"さっさと宿屋に行くぜ。"
+msgstr ""
+
+#. ID 37, Page 1, Line 35, Pos (2,4)
+msgid ""
+"ニクソン：\n"
+"悪く在りませんでしたね。"
+msgstr ""
+
+#. ID 37, Page 1, Line 37, Pos (2,4)
+msgid ""
+"ヴェーネ：\n"
+"ええ。\\.\\.興味深くて面白かったわ。"
+msgstr ""
+
+#. ID 37, Page 1, Line 41, Pos (2,4)
+msgid ""
+"ヴェーネ：\n"
+"レイクもそう思わない？"
+msgstr ""
+
+#. ID 37, Page 1, Line 46, Pos (2,4)
+#. ID 37, Page 1, Line 61, Pos (2,4)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 53, Pos (2,4)
+msgid ""
+"レイク：\n"
+"さあな。\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 55, Pos (2,4)
+msgid ""
+"ニクソン：\n"
+"本当に素っ気無いですね。\\.\\.\n"
+"もう少し何か言ってあげたら如何ですか？"
+msgstr ""
+
+#. ID 37, Page 1, Line 73, Pos (2,4)
+msgid ""
+"ニクソン：\n"
+"まったく、\\.\\.この人は…。\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 75, Pos (2,4)
+msgid ""
+"ヴェーネ：\n"
+"素直じゃないわね。\\.\\.\n"
+"結構まじまじと見ていたのに。"
+msgstr ""
+
+#. ID 37, Page 1, Line 78, Pos (2,4)
+msgid ""
+"レイク：\n"
+"他に見るモノが無かっただけだ。"
+msgstr ""
+
+#. ID 37, Page 1, Line 80, Pos (2,4)
+msgid ""
+"レイク：\n"
+"何なら女性客の品定めでも\n"
+"した方が良かったか？"
+msgstr ""
+
+#. ID 37, Page 1, Line 83, Pos (2,4)
+msgid ""
+"ヴェーネ：\n"
+"別に構わないわよ。\\.\\.健全な選択だわ。"
+msgstr ""
+
+#. ID 37, Page 1, Line 85, Pos (2,4)
+msgid ""
+"ヴェーネ：\n"
+"幾ら貴方でも、\n"
+"流石にアセクシャルではなかった訳。"
+msgstr ""
+
+#. ID 37, Page 1, Line 91, Pos (2,4)
+msgid ""
+"レイク：\n"
+"やれやれ…。\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 99, Pos (2,4)
+msgid ""
+"レイク：\n"
+"もう良い。\\.\\.俺の負けだ。\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 103, Pos (2,4)
+msgid ""
+"レイク：\n"
+"早く宿屋で寝かせて呉れ。\\|\\|\\^"
+msgstr ""
+
+#. ID 37, Page 1, Line 108, Pos (2,4)
+msgid ""
+"レイク：\n"
+"疲れちまったよ。\\|\\^"
+msgstr ""
+

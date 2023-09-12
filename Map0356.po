@@ -1,0 +1,695 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 4, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"だからもう直ぐ、\n"
+"アームズの大部隊がやって来る筈。"
+msgstr ""
+
+#. ID 12, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"連中の目的は、言うまでもなく\n"
+"俺達セラフィックブルーの身柄確保だ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"２年前のに利子を付けて返せってな。"
+msgstr ""
+
+#. ID 12, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"初めは交渉を持ち掛けて来るだろうが、\n"
+"それが決裂した場合は…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"国家反逆の容疑を掛け、実力行使に出るだろう。"
+msgstr ""
+
+#. ID 12, Page 1, Line 23, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"やれやれ…。\\|\n"
+"何時かこの日が来るとは思っていたがの…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 26, Pos (0,0)
+msgid ""
+"レイク：\n"
+"でも今までは何とか均衡が取れてたんだろ？\\|\n"
+"何だって行き成り…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"先日のエイブラムの一件だよ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"政府も救世会の捜査を決定しててな、\n"
+"俺達が帰った直ぐ後に入れ違いで使者がやって来た。"
+msgstr ""
+
+#. ID 12, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"でもあの時エイブラムは物凄い興奮状態だったろ？\\|\n"
+"政府の使者も、何も出来ずに帰って行った。"
+msgstr ""
+
+#. ID 12, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"意を決したエイブラムへの接触を、\n"
+"俺達に潰されたって事だ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 44, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ふざけんな。\\.\\.\n"
+"あれは野郎が勝手にキレたんだろうが。"
+msgstr ""
+
+#. ID 12, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"確かに事実はそうだが、\n"
+"それはこの際問題じゃない。"
+msgstr ""
+
+#. ID 12, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"重要なのは、俺達がエイブラムに接触した事で、\n"
+"政府の意を決した一手が潰されたという結果。"
+msgstr ""
+
+#. ID 12, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それだけだ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 58, Pos (0,0)
+msgid ""
+"レイク：\n"
+"くそっ…！\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そしてこの一件で、\\.\\.\"奴さん\"が遂にキレた。"
+msgstr ""
+
+#. ID 12, Page 1, Line 66, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"C.M.G.C.委員長オーウェン･バルチック。\\|\n"
+"元近衛兵隊隊長で、身体を傷めたのを機に引退し\n"
+"２年前に委員長に就任。"
+msgstr ""
+
+#. ID 12, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"古風で堅く忍耐強いが、\\.\\.\n"
+"一度キレたら手が付けられない。"
+msgstr ""
+
+#. ID 12, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\"沈黙の火薬庫\"なんて異名も持ってるあの男が\n"
+"出張って来た以上、これはマジだ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 79, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"良かれと思ってした事が、\n"
+"堪忍袋を引き裂いちまったって訳か。"
+msgstr ""
+
+#. ID 12, Page 1, Line 82, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"因縁ってモンだね。\\.\\.如何ともし難い。"
+msgstr ""
+
+#. ID 12, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"こう成っては激突は必至かの…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"初めに交渉を行うとは言っても、\n"
+"平行線のまま決裂するのは火を見るより明らか。"
+msgstr ""
+
+#. ID 12, Page 1, Line 92, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"レイクやヴェーネを渡す心算は、一切無い。"
+msgstr ""
+
+#. ID 12, Page 1, Line 100, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"若し交渉が決裂した時は、\n"
+"私がオーウェンに説得を試みるわ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼は根っからの権威主義者。\\|\n"
+"故に政府の威厳を重んじ、\\.\\.民間のオーグを疎み…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"そして、\\.\\.女王には逆らえない。"
+msgstr ""
+
+#. ID 12, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"(しかしミネルヴァ様。\\.\\.大丈夫でしょうか…。)"
+msgstr ""
+
+#. ID 12, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"(あの男は確かに忠誠心は強いものの、\n"
+" それ故に何処までも頑固です。)"
+msgstr ""
+
+#. ID 12, Page 1, Line 116, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"(言われなくても。)"
+msgstr ""
+
+#. ID 12, Page 1, Line 118, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"(デイジーが止められなかった男を、\n"
+" 果たして私が止められるか…。)"
+msgstr ""
+
+#. ID 12, Page 1, Line 121, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"(せめて此処までの行軍で\n"
+" 少しでも頭が冷えてる事を祈るばかりね。)"
+msgstr ""
+
+#. ID 12, Page 1, Line 128, Pos (0,0)
+msgid ""
+"レイク：\n"
+"で、\\.\\.これから俺達は如何すれば良い？"
+msgstr ""
+
+#. ID 12, Page 1, Line 130, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"交渉の決裂は明らかだ。\\.\\.\n"
+"衝突を前提としてスタンバイする。"
+msgstr ""
+
+#. ID 12, Page 1, Line 133, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"戦闘要員は準備を整えて中庭に集合。\n"
+"非戦闘要員は飛行船ドックに避難だ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 139, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"行動開始ッ！\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 150, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それから１時間後、\\.\\.オーウェンの率いる\n"
+"C.M.G.C.アームズの大部隊がルートフォードの手前まで\n"
+"やって来た。"
+msgstr ""
+
+#. ID 12, Page 1, Line 154, Pos (0,0)
+msgid ""
+"レイク：\n"
+"先ず交渉の為、ユアンとオーウェンが各々単身で\n"
+"ルートフォードの入口に立つ…。"
+msgstr ""
+
+#. ID 12, Page 2, Line 10, Pos (0,0)
+#. ID 12, Page 2, Line 38, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そういう訳で、これからミネルヴァとハウゼンを\n"
+"城まで送り届けに行く。"
+msgstr ""
+
+#. ID 12, Page 2, Line 16, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それじゃあドックへ行こう。\\.\\.\n"
+"ロアノークで王都ミネルヴァに直行する。"
+msgstr ""
+
+#. ID 12, Page 2, Line 41, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"反逆の件は大丈夫なの？"
+msgstr ""
+
+#. ID 12, Page 2, Line 43, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"心配しないで。\\.\\.\n"
+"デイジーから取り敢えずは大丈夫だと聞いてるわ。"
+msgstr ""
+
+#. ID 12, Page 2, Line 46, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"連中もこんな状況で内輪揉めする程\n"
+"バカじゃなかったって事だ。"
+msgstr ""
+
+#. ID 12, Page 2, Line 52, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 12, Page 2, Line 58, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"それで？ \\.\\.もうこっちには？\\|\\^"
+msgstr ""
+
+#. ID 12, Page 2, Line 60, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"いいえ、\\.\\.少ししたらまた戻って来るわ。"
+msgstr ""
+
+#. ID 12, Page 2, Line 62, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"飽くまで今回は一時帰還。\\|\n"
+"この有事に際して少し顔を出すだけ。"
+msgstr ""
+
+#. ID 12, Page 2, Line 65, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"反逆の火種が完全に消えた訳ではないから、\n"
+"少し様子を見て再度此処に保護される事に成るわ。"
+msgstr ""
+
+#. ID 12, Page 2, Line 71, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そう…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 2, Line 76, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何か嬉しそうだな。"
+msgstr ""
+
+#. ID 12, Page 2, Line 78, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"別に。\\.\\.強いて言えば話し相手だよ。"
+msgstr ""
+
+#. ID 12, Page 2, Line 80, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私じゃ不足かしら？"
+msgstr ""
+
+#. ID 12, Page 2, Line 82, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"生憎ちょっとね。\\.\\.\n"
+"匂いとか空気が噛み合わないのさ。"
+msgstr ""
+
+#. ID 12, Page 2, Line 85, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"服装も大人しいし。"
+msgstr ""
+
+#. ID 12, Page 2, Line 87, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そうね。\\.\\.私もそう思う。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 2, Line 92, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"それじゃあドックへ行こう。\\|\n"
+"ロアノークで王都ミネルヴァに直行する。"
+msgstr ""
+
+#. ID 12, Page 2, Line 165, Pos (0,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>\\C[10]【飛行船ロアノーク】\\C[0]\n"
+"操作説明を受けますか？"
+msgstr ""
+
+#. ID 12, Page 2, Line 167, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 12, Page 2, Line 169, Pos (0,0)
+msgid ""
+"\\>\\C[10]【搭乗する】\\C[0]\n"
+"ロアノークはフィールド上には定置されず、\n"
+"コールしてピックアップして貰う形式を取ります。\n"
+"森／海岸線以外の場所でEnterを押してください。"
+msgstr ""
+
+#. ID 12, Page 2, Line 173, Pos (0,0)
+msgid ""
+"\\>\\C[10]【船内へ移動する】\\C[0]\n"
+"飛行中にEscを押すと船内マップに移動します。"
+msgstr ""
+
+#. ID 12, Page 2, Line 177, Pos (0,0)
+msgid ""
+"\\>\\C[10]【Z-Axis Transfer(Ｚ軸移動)】\\C[0]\n"
+"飛行中にEnterを押すとＺ軸移動の操作に移ります。\n"
+"上下キーで操作を選択してください。\n"
+"またEscでキャンセルします。"
+msgstr ""
+
+#. ID 12, Page 2, Line 181, Pos (0,0)
+msgid ""
+"\\>\\C[10]【Z-Axis Transfer(Ｚ軸移動)】\\C[0]\n"
+"\\>◆グラウンド        ◆フェジテ\n"
+"\\>上：フェジテへ移動  上：無し\n"
+"\\>下：着陸            下：グラウンドへ移動／着陸"
+msgstr ""
+
+#. ID 12, Page 2, Line 187, Pos (0,0)
+msgid ""
+"\\>\\C[10]【Z-Axis Transfer(Ｚ軸移動)】\\C[0]\n"
+"グラウンドとフェジテの移動が可能な場合、\n"
+"世界表示の下にTRANSアイコンが表示されます。\n"
+"主にフェジテへの移動の際に活用してください。"
+msgstr ""
+
+#. ID 12, Page 2, Line 194, Pos (0,0)
+msgid ""
+"\\>\\C[10]【Shiftキーによる機能･１】\\C[0]\n"
+"飛行中にShiftキーを押す事で、\n"
+"飛行中の追加エフェクトの有無を切り替えられます。"
+msgstr ""
+
+#. ID 12, Page 2, Line 197, Pos (0,0)
+msgid ""
+"\\>\\C[10]【Shiftキーによる機能･１】\\C[0]\n"
+"この際、Shiftキーを長めに押すと\n"
+"飛行船の移動速度を変更する事も出来ます。"
+msgstr ""
+
+#. ID 12, Page 2, Line 202, Pos (0,0)
+msgid ""
+"\\>\\C[10]【Shiftキーによる機能･２】\\C[0]\n"
+"Ｚ軸移動のメニューにてShiftキーを押した場合は、\n"
+"Ｚ軸移動時の演出を変更出来ます。"
+msgstr ""
+
+#. ID 12, Page 3, Line 14, Pos (0,0)
+#. ID 12, Page 3, Line 131, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"其処で皆様に御願いです。"
+msgstr ""
+
+#. ID 12, Page 3, Line 16, Pos (0,0)
+#. ID 12, Page 3, Line 133, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"このロビン秘密工場に乗り込み、\n"
+"ゲオルク軍の攻撃を未然に阻止しては頂けませんか。"
+msgstr ""
+
+#. ID 12, Page 3, Line 22, Pos (0,0)
+#. ID 12, Page 3, Line 183, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"秘密工場の場所は？"
+msgstr ""
+
+#. ID 12, Page 3, Line 24, Pos (0,0)
+#. ID 12, Page 3, Line 185, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"グラウンド西部大陸の北西部に、\n"
+"南北を半島で挟まれた小さな島が在るわ。"
+msgstr ""
+
+#. ID 12, Page 3, Line 27, Pos (0,0)
+#. ID 12, Page 3, Line 188, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"其処の切り立った崖の内部に埋め込まれる形で、\n"
+"ロビンの秘密工場が在るみたい。"
+msgstr ""
+
+#. ID 12, Page 3, Line 30, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"空からの視認は先ず不可能。\\.\n"
+"現地を徒歩で注意深く探すしか無いわね。"
+msgstr ""
+
+#. ID 12, Page 3, Line 36, Pos (0,0)
+#. ID 12, Page 3, Line 209, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"因みに、俺とケインは此処で待機だ。"
+msgstr ""
+
+#. ID 12, Page 3, Line 41, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺とヴェーネとフォクシー。\\.\n"
+"そしてミネルヴァとハウゼン。"
+msgstr ""
+
+#. ID 12, Page 3, Line 44, Pos (0,0)
+#. ID 12, Page 3, Line 232, Pos (0,0)
+msgid ""
+"レイク：\n"
+"この５人で行くんだな？"
+msgstr ""
+
+#. ID 12, Page 3, Line 46, Pos (0,0)
+#. ID 12, Page 3, Line 234, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"健闘を祈ってるぜ。"
+msgstr ""
+
+#. ID 12, Page 3, Line 57, Pos (0,0)
+msgid ""
+"\n"
+"※ミネルヴァが\n"
+"固有アビリティ『クィーンズジャッジメント』を習得。"
+msgstr ""
+
+#. ID 12, Page 3, Line 136, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"正規のフェジテ軍はモーガンの支配下。\\|\n"
+"アームズはモーガンらの鎮圧へ向けての準備。"
+msgstr ""
+
+#. ID 12, Page 3, Line 139, Pos (0,0)
+msgid ""
+"デイジー：\n"
+"少数精鋭として頼れる力は、\n"
+"最早オーグの皆様以外に考えられません。"
+msgstr ""
+
+#. ID 12, Page 3, Line 145, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"とまあ、こういう訳だ。\\.\\.\n"
+"此処は一つ俺達が協力しようじゃないか。"
+msgstr ""
+
+#. ID 12, Page 3, Line 151, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"何だかな…。\\|\n"
+"御上の内輪揉めの尻拭いみたいな…。"
+msgstr ""
+
+#. ID 12, Page 3, Line 154, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そう言うなって。\n"
+"これも俺達の仕事の内なんだからな。"
+msgstr ""
+
+#. ID 12, Page 3, Line 157, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"何処がだよ。\\.\\.\n"
+"ガイアキャンサーなんて絡んでねえじゃねえか。"
+msgstr ""
+
+#. ID 12, Page 3, Line 160, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そう言い切ったものでもないぜ。"
+msgstr ""
+
+#. ID 12, Page 3, Line 162, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ゲオルクとエンデが組んでたからには、\n"
+"やはりエンデもこの戦争に依って何か得をすると\n"
+"考えるのが自然だ。"
+msgstr ""
+
+#. ID 12, Page 3, Line 166, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"詰まりこの戦争を妨害する事は、\n"
+"そのままエンデの妨害にも繋がると。"
+msgstr ""
+
+#. ID 12, Page 3, Line 172, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 3, Line 177, Pos (0,0)
+msgid ""
+"ケイン：\n"
+"分かったよ…。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 3, Line 191, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"空からの視認は先ず不可能。\\.\\.\n"
+"現地を徒歩で注意深く探すしか無いわね。"
+msgstr ""
+
+#. ID 12, Page 3, Line 197, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"内部にはフェジテ軍のと瓜二つな戦艦が10隻在る。\\|\n"
+"これがキモだ。"
+msgstr ""
+
+#. ID 12, Page 3, Line 200, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"これらの戦艦を全て沈黙させ、\n"
+"ゲオルクのフェジテ進攻手段を奪い去る事。"
+msgstr ""
+
+#. ID 12, Page 3, Line 203, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"これが本作戦の目的となる。"
+msgstr ""
+
+#. ID 12, Page 3, Line 211, Pos (0,0)
+msgid ""
+"レイク：\n"
+"リーダーが現場に出ないとは良い根性だ。"
+msgstr ""
+
+#. ID 12, Page 3, Line 213, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"仕方無いだろう。\n"
+"こっちは内政部の要人を保護してるんだぞ。"
+msgstr ""
+
+#. ID 12, Page 3, Line 216, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"俺達が出張ってる時にモーガンが刺客を\n"
+"差し向けて来たら如何するんだ？"
+msgstr ""
+
+#. ID 12, Page 3, Line 219, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"確かに二人とも心得は有るだろうが、\n"
+"だからと言って放っておくのも考え物だ。"
+msgstr ""
+
+#. ID 12, Page 3, Line 222, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"従って、俺とケインが此処に残って護衛に当たる。"
+msgstr ""
+
+#. ID 12, Page 3, Line 227, Pos (0,0)
+msgid ""
+"レイク：\n"
+"分かったよ。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 3, Line 229, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺とヴェーネとフォクシー。\\.\\.\n"
+"そしてミネルヴァとハウゼン。"
+msgstr ""
+

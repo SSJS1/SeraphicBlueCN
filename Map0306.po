@@ -1,0 +1,1275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 7, Pos (0,0)
+msgid ""
+"？？？：\n"
+"そうか…。\\.\\.いよいよ準備に入るか…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 9, Pos (0,0)
+msgid ""
+"？？？：\n"
+"幾ら腐ってもあの男だ。\\.\\.\n"
+"くれぐれも気取られる事の無い様にして呉れ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 12, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"分かってるよ。\\.\\.\n"
+"\"そっちのマヌケ\"とは器が違うからね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 15, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"とは言え、今の\"奴\"だって似た様なモンさ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 17, Pos (0,0)
+msgid ""
+"？？？：\n"
+"確かにな。\\.\\.予想以上に熱を帯びている。"
+msgstr ""
+
+#. ID 3, Page 1, Line 22, Pos (0,0)
+msgid ""
+"？？？：\n"
+"この調子なら、暫くは何も手を加えず\n"
+"静観してても問題は無いか…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 25, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"寧ろ問題なのは\"彼\"じゃないの？"
+msgstr ""
+
+#. ID 3, Page 1, Line 27, Pos (0,0)
+msgid ""
+"？？？：\n"
+"ああ…。\\.\\.\"あいつ\"の方は予想外だ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (0,0)
+msgid ""
+"？？？：\n"
+"よもやペルソナを超えて\"姫君\"に干渉する事など、\n"
+"到底起こらないとは思うのだが…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 32, Pos (0,0)
+msgid ""
+"？？？：\n"
+"しかし、万が一という事も在る。\\.\\.\n"
+"現状は非常に好ましくない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 35, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そう？ \\.\\.ボクは結構楽しいけど？"
+msgstr ""
+
+#. ID 3, Page 1, Line 37, Pos (0,0)
+msgid ""
+"？？？：\n"
+"人種と価値観の差異だ。\\|\n"
+"私達は過程を楽しむ心算は無い。"
+msgstr ""
+
+#. ID 3, Page 1, Line 40, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"やだやだ、\\.\\.オトナってのは。"
+msgstr ""
+
+#. ID 3, Page 1, Line 42, Pos (0,0)
+msgid ""
+"？？？：\n"
+"予定調和の素晴らしさ等、\n"
+"病魔如きに説いた所で時間の無駄だ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 45, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そんなのこっちから願い下げさ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 47, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"知りたくもないよ。\\.\\.\n"
+"そんな\"轍\"の居心地なんて。"
+msgstr ""
+
+#. ID 3, Page 1, Line 53, Pos (0,0)
+msgid ""
+"？？？：\n"
+"轍か…。\\|否定は出来んな…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 59, Pos (0,0)
+msgid ""
+"？？？：\n"
+"兎に角、\\.\\.奴の手引きは任せたぞ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 61, Pos (0,0)
+msgid ""
+"？？？：\n"
+"先ずあの邪魔者を取り払わなくては、\n"
+"話に成らん。"
+msgstr ""
+
+#. ID 3, Page 1, Line 64, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ああ、\\.\\.任せときな。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 69, Pos (0,0)
+msgid ""
+"？？？：\n"
+"それから…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 71, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まだ何か？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 76, Pos (0,0)
+msgid ""
+"？？？：\n"
+"二人に、\\.\\.宜しく言っておいて呉れ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 81, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ああ、\\.\\.分かった。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 83, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"きっと喜ぶぜ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 5, Pos (0,0)
+msgid ""
+"？？？：\n"
+"如何だ。\\.\\.芽は出たか？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 7, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\"双方とも\"順調さ。\\.\\.\n"
+"特にゲオルクのは育ちが良いよ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 10, Pos (0,0)
+msgid ""
+"？？？：\n"
+"では、万事順調という事で。"
+msgstr ""
+
+#. ID 3, Page 2, Line 12, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"さ～て、ソイツは如何かな？"
+msgstr ""
+
+#. ID 3, Page 2, Line 17, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"この\"転機\"に安泰なんて文字は在り得ない。\\|\n"
+"アンタだって分かってるだろ？"
+msgstr ""
+
+#. ID 3, Page 2, Line 20, Pos (0,0)
+msgid ""
+"？？？：\n"
+"そういうのは彼女の役目だ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 22, Pos (0,0)
+msgid ""
+"？？？：\n"
+"私は彼女と違って内的な指向が強く、\n"
+"一つの事に集中し出すと周りが見えないのだよ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 25, Pos (0,0)
+msgid ""
+"？？？：\n"
+"無論、そういった混沌に於ける\n"
+"鋭利な先見も不得手だ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 28, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ふ～ん。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 30, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そう言えば、これも彼女の発案だったっけ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 32, Pos (0,0)
+msgid ""
+"？？？：\n"
+"一部\"あいつ\"のアイデアも混じっているがな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 37, Pos (0,0)
+msgid ""
+"？？？：\n"
+"何れにせよ、\n"
+"私自身は飽くまで表に出る心算は無い。"
+msgstr ""
+
+#. ID 3, Page 2, Line 40, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"折角の祭りで、自ら進んで裏方かい？\\.\\.\n"
+"ソイツは暗過ぎる。"
+msgstr ""
+
+#. ID 3, Page 2, Line 43, Pos (0,0)
+msgid ""
+"？？？：\n"
+"何とでも言え。\\.\\.\n"
+"舞台というのは常に裏方が支えるものだ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 46, Pos (0,0)
+msgid ""
+"？？？：\n"
+"私はその役割に誇りを持っている。"
+msgstr ""
+
+#. ID 3, Page 2, Line 48, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それはそれは。\\.\\.\n"
+"ストイックと言うか、古臭いと言うか。"
+msgstr ""
+
+#. ID 3, Page 2, Line 51, Pos (0,0)
+msgid ""
+"？？？：\n"
+"良く彼女にもそう言われた。\\.\\.\n"
+"私は古い男らしい。"
+msgstr ""
+
+#. ID 3, Page 2, Line 54, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"けっ。\\.\\.ノロケなら御遠慮だぜ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 60, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"でもさ～、\\.\\.これって何だか回りくどくない？\\|\n"
+"ジメジメしてるし。"
+msgstr ""
+
+#. ID 3, Page 2, Line 63, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"もっと一気にパーっと…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 65, Pos (0,0)
+msgid ""
+"？？？：\n"
+"言って呉れるな。\\.\\.女とはそういう生き物なのだ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 67, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そういうモンかね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 72, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ま、\\.\\.そう言えば確かに\n"
+"\"姫君様\"も気に入ってたみたいだけど。"
+msgstr ""
+
+#. ID 3, Page 2, Line 75, Pos (0,0)
+msgid ""
+"？？？：\n"
+"無粋な事を。\"憑代\"と彼女を一緒にするな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 77, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"おっと、\\.\\.これは失礼。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 79, Pos (0,0)
+msgid ""
+"？？？：\n"
+"それに、そう言ってる貴様の顔。"
+msgstr ""
+
+#. ID 3, Page 2, Line 81, Pos (0,0)
+msgid ""
+"？？？：\n"
+"貴様こそ楽しそうに見えるのは、\\.\\.\n"
+"さて私の眼の錯覚か？"
+msgstr ""
+
+#. ID 3, Page 2, Line 87, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まあ、折角の道程なんだから。\\.\\.\n"
+"色々楽しまなくちゃね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 90, Pos (0,0)
+msgid ""
+"？？？：\n"
+"気楽な奴だ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 92, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"羨ましい？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 94, Pos (0,0)
+msgid ""
+"？？？：\n"
+"寧ろ不憫だと。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 96, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"御勝手に。\\.\\.ネクラの言い分さ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 101, Pos (0,0)
+#. ID 3, Page 4, Line 33, Pos (0,0)
+msgid ""
+"？？？：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 106, Pos (0,0)
+msgid ""
+"？？？：\n"
+"それでは、私はもう戻る。"
+msgstr ""
+
+#. ID 3, Page 2, Line 108, Pos (0,0)
+msgid ""
+"？？？：\n"
+"連中も色々と動き出している様子だ。\n"
+"くれぐれも芽を摘まれる事の無いようにな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 111, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"任せとけって。\\.\\.\n"
+"ボクだってその\"花\"を咲かせてみたいんだ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 114, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"茎は血の様に赤く、\\.\\.花は闇よりも黒く、\\.\\.\n"
+"滴る蜜は辛くも甘い涙の味…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 117, Pos (0,0)
+msgid ""
+"？？？：\n"
+"ほう、\\.\\.花言葉は何だ？"
+msgstr ""
+
+#. ID 3, Page 2, Line 119, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"分かり切った事を。"
+msgstr ""
+
+#. ID 3, Page 2, Line 128, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[5]花言葉は、\\.\\.星の慟哭。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 4, Pos (0,0)
+msgid ""
+"？？？：\n"
+"さながら、\\.\\.蕾＜つぼみ＞と言った所か？"
+msgstr ""
+
+#. ID 3, Page 3, Line 6, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まあ、そんなとこかな。"
+msgstr ""
+
+#. ID 3, Page 3, Line 11, Pos (0,0)
+msgid ""
+"？？？：\n"
+"これでゲオルクは動き出した。\\|\n"
+"\"奴\"の方は大丈夫か？"
+msgstr ""
+
+#. ID 3, Page 3, Line 14, Pos (0,0)
+msgid ""
+"？？？：\n"
+"役者は全員動かなければ、\n"
+"舞台という物は成り立たないものだ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 17, Pos (0,0)
+msgid ""
+"？？？：\n"
+"他ならぬ奴の事。\\|\n"
+"間違っても怖気付く事だけは避けて…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 20, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ああ、\\.\\.余裕余裕。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 22, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"アイツは完全に夢の中さ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 24, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"黒獅子が世界を屠るという、\\.\\.\n"
+"それはそれは壮大で居心地の良い、リアルな夢。"
+msgstr ""
+
+#. ID 3, Page 3, Line 30, Pos (0,0)
+msgid ""
+"？？？：\n"
+"ならば現実は、\\.\\.差し詰め\n"
+"チーズを齧るネズミと言った所か…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 33, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そいつは良いや。\\.\\.ピッタリだよ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 38, Pos (0,0)
+msgid ""
+"？？？：\n"
+"フッ…。\\.\\.憐れなものだな…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 40, Pos (0,0)
+msgid ""
+"？？？：\n"
+"己の器を弁えないばかりに、\n"
+"黒き花に捧ぐ贄とされるのだから。"
+msgstr ""
+
+#. ID 3, Page 3, Line 46, Pos (0,0)
+msgid ""
+"？？？：\n"
+"いずれ絶望しか訪れぬ身の上ならば、\\.\\.\n"
+"身を粉に勤しみ楽しんでおけ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 49, Pos (0,0)
+msgid ""
+"？？？：\n"
+"愚かなる人の夢見る、\\.\\.\n"
+"儚き未来の曙光とやらを。"
+msgstr ""
+
+#. ID 3, Page 4, Line 4, Pos (0,0)
+msgid ""
+"？？？：\n"
+"やって呉れたな。"
+msgstr ""
+
+#. ID 3, Page 4, Line 6, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"何だよ。\\.\\.行き成り機嫌悪いじゃん。"
+msgstr ""
+
+#. ID 3, Page 4, Line 8, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"折角上手く行ったってのに、\n"
+"何か御不満でも？"
+msgstr ""
+
+#. ID 3, Page 4, Line 11, Pos (0,0)
+msgid ""
+"？？？：\n"
+"大有りだ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 13, Pos (0,0)
+msgid ""
+"？？？：\n"
+"レオナのプランには\n"
+"あんなイベントは無かった筈だぞ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 16, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"仕方無いだろ？\\.\\.\n"
+"ベネディクタが予想以上に抵抗したんだ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 19, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ボクがあそこで機転を利かせなかったら、\n"
+"きっと失敗に終わってたぜ？"
+msgstr ""
+
+#. ID 3, Page 4, Line 22, Pos (0,0)
+msgid ""
+"？？？：\n"
+"だからと言って、\n"
+"選りにも選ってあの有様か。"
+msgstr ""
+
+#. ID 3, Page 4, Line 25, Pos (0,0)
+msgid ""
+"？？？：\n"
+"\"当て付け\"としか思えんな。"
+msgstr ""
+
+#. ID 3, Page 4, Line 27, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そりゃ\"被害妄想\"ってモンだね。\\.\\.\n"
+"全ては偶然の産物さ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 39, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"大体さァ、\\.\\.割り切ったんじゃないのかい？"
+msgstr ""
+
+#. ID 3, Page 4, Line 41, Pos (0,0)
+msgid ""
+"？？？：\n"
+"勘違いするな。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 43, Pos (0,0)
+msgid ""
+"？？？：\n"
+"行動理念が公理一般に昇華しただけで、\\.\\.\n"
+"その根源、\\.\\.核は決して移ろわん。"
+msgstr ""
+
+#. ID 3, Page 4, Line 46, Pos (0,0)
+msgid ""
+"？？？：\n"
+"風化する事も無い。\\|\n"
+"割り切れる事も無い。"
+msgstr ""
+
+#. ID 3, Page 4, Line 49, Pos (0,0)
+msgid ""
+"？？？：\n"
+"寧ろお前の\"当て付け\"の所為で、\n"
+"また意識の底から浮上して来ている。"
+msgstr ""
+
+#. ID 3, Page 4, Line 52, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"だから偶然だって言ってるだろ？"
+msgstr ""
+
+#. ID 3, Page 4, Line 57, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"やれやれ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 59, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"哀れだね、\\.\\.人間ってのは。"
+msgstr ""
+
+#. ID 3, Page 4, Line 61, Pos (0,0)
+msgid ""
+"？？？：\n"
+"何とでも言え。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 63, Pos (0,0)
+msgid ""
+"？？？：\n"
+"お前の理解など、\\.\\.\n"
+"初めから求めてはいないのだからな。"
+msgstr ""
+
+#. ID 3, Page 5, Line 44, Pos (0,0)
+msgid ""
+"？？？：\n"
+"これで一区切りか…。"
+msgstr ""
+
+#. ID 3, Page 5, Line 46, Pos (0,0)
+msgid ""
+"？？？：\n"
+"\"彼\"が死んで呉れて、\n"
+"私も漸く窮屈な立場から解放された。"
+msgstr ""
+
+#. ID 3, Page 5, Line 49, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それって誰の事？"
+msgstr ""
+
+#. ID 3, Page 5, Line 51, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ユアン？\\.\\.\n"
+"それともモーガン？"
+msgstr ""
+
+#. ID 3, Page 5, Line 54, Pos (0,0)
+msgid ""
+"？？？：\n"
+"分かっているくせに、野暮な事を聞くな。"
+msgstr ""
+
+#. ID 3, Page 5, Line 59, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"カーチス･ハミルトン。"
+msgstr ""
+
+#. ID 3, Page 5, Line 61, Pos (0,0)
+msgid ""
+"？？？：\n"
+"ユアンもモーガンも、鬱陶しいと言えば鬱陶しいが、\n"
+"しかしカーチスこそが私の最大の呪縛だった。"
+msgstr ""
+
+#. ID 3, Page 5, Line 64, Pos (0,0)
+msgid ""
+"？？？：\n"
+"奴が死んで、\\.\\.これで私は\n"
+"更なる闇の奥底を自由に泳ぐ事が出来る。"
+msgstr ""
+
+#. ID 3, Page 5, Line 70, Pos (0,0)
+msgid ""
+"？？？：\n"
+"運命の刻が…\\.\\.また一つ進んだという事だ。"
+msgstr ""
+
+#. ID 3, Page 5, Line 72, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 5, Line 74, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"色んな方面。\\.\\.色んな意味でね。"
+msgstr ""
+
+#. ID 3, Page 5, Line 79, Pos (0,0)
+msgid ""
+"？？？：\n"
+"さて、\\.\\.私はもう行くとしよう。"
+msgstr ""
+
+#. ID 3, Page 5, Line 81, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"落ち着かないね。\n"
+"そんなに気の向く事なのかい？"
+msgstr ""
+
+#. ID 3, Page 5, Line 84, Pos (0,0)
+msgid ""
+"？？？：\n"
+"\"今まで\"は刹那に会い、\\.\\.仕事をこなして、\\.\\.\n"
+"また刹那に分かれるだけだったからな。"
+msgstr ""
+
+#. ID 3, Page 5, Line 87, Pos (0,0)
+msgid ""
+"？？？：\n"
+"ようやく腰を落ち着けて話が出来る。\\.\\.\n"
+"彼女が忙しくて来れないのが唯一残念だが。"
+msgstr ""
+
+#. ID 3, Page 5, Line 90, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"どうぞごゆっくり。"
+msgstr ""
+
+#. ID 3, Page 5, Line 92, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ボクから彼に。\\.\\.これからは宜しくと。"
+msgstr ""
+
+#. ID 3, Page 5, Line 94, Pos (0,0)
+msgid ""
+"？？？：\n"
+"丁重に御断りする。"
+msgstr ""
+
+#. ID 3, Page 5, Line 96, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"何でさ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 5, Line 101, Pos (0,0)
+msgid ""
+"？？？：\n"
+"食事の際の話題のチョイスは重要だ。\\.\\.\n"
+"お前には分かるまいが。"
+msgstr ""
+
+#. ID 3, Page 5, Line 104, Pos (0,0)
+msgid ""
+"？？？：\n"
+"\"食事が不味く成る\"と言う。\\.\\.\n"
+"ボキャブラリーに加えておくと良い。"
+msgstr ""
+
+#. ID 3, Page 5, Line 107, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"エラソーに。\n"
+"アンタには分かるのかい？"
+msgstr ""
+
+#. ID 3, Page 5, Line 110, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"その方面には致命的にダメダメな人種なんだろ？"
+msgstr ""
+
+#. ID 3, Page 5, Line 112, Pos (0,0)
+msgid ""
+"？？？：\n"
+"悪いが抜かりは無い。\\.\\.\n"
+"レオナにみっちりと教え込まれた。"
+msgstr ""
+
+#. ID 3, Page 5, Line 115, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"けっ。\\.\\.またノロケかよ。"
+msgstr ""
+
+#. ID 3, Page 5, Line 117, Pos (0,0)
+msgid ""
+"？？？：\n"
+"只の昔話だ。"
+msgstr ""
+
+#. ID 3, Page 5, Line 119, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"だったら尚更さ。\n"
+"そんな昔の話を今でも思い出せるんだから。"
+msgstr ""
+
+#. ID 3, Page 5, Line 122, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"御元気で羨ましいよ、\\.\\.ジョシュアさん。"
+msgstr ""
+
+#. ID 3, Page 5, Line 127, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"それも久しいな…。"
+msgstr ""
+
+#. ID 3, Page 5, Line 129, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"彼女が私を呼ぶ以外、\\.\\.\n"
+"自らこの名を名乗るというのは。"
+msgstr ""
+
+#. ID 3, Page 5, Line 132, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"またノロケ？\\.\\.\n"
+"それとも今度は自慢？"
+msgstr ""
+
+#. ID 3, Page 5, Line 135, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"何の自慢だと言う？"
+msgstr ""
+
+#. ID 3, Page 5, Line 137, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"夫婦の円満振りとか。"
+msgstr ""
+
+#. ID 3, Page 5, Line 139, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"フッ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 5, Line 144, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"とんだ悪餓鬼が居たものだ。"
+msgstr ""
+
+#. ID 3, Page 6, Line 7, Pos (0,0)
+msgid ""
+"ジョシュア(真中)：\n"
+"時が来たな…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 6, Line 12, Pos (0,0)
+msgid ""
+"？？？(右)：\n"
+"ええ…。\\|憑代の姫君…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 6, Line 17, Pos (0,0)
+msgid ""
+"？？？(左)：\n"
+"捕らわれの御姫様を、\\.\\.今こそ空に解き放つ…。"
+msgstr ""
+
+#. ID 3, Page 6, Line 22, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"エンデよ、\\.\\.計画は完璧なのだな？"
+msgstr ""
+
+#. ID 3, Page 6, Line 24, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"心配するなって。"
+msgstr ""
+
+#. ID 3, Page 6, Line 26, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"連中の融合時。\\.\\.\n"
+"\"檻\"が壊れる一瞬の隙を突く。"
+msgstr ""
+
+#. ID 3, Page 6, Line 29, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"それはまたシビアな事だ。\\.\\.\n"
+"\"彼女\"とて決して譲らぬだろうに。"
+msgstr ""
+
+#. ID 3, Page 6, Line 32, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\"そのまま\"だとね。"
+msgstr ""
+
+#. ID 3, Page 6, Line 37, Pos (0,0)
+msgid ""
+"？？？(右)：\n"
+"成る程。\\.\\.間に障壁を押し込むのね。"
+msgstr ""
+
+#. ID 3, Page 6, Line 39, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そういう事。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 6, Line 41, Pos (0,0)
+msgid ""
+"？？？(左)：\n"
+"そんなに上手く行くのか？\n"
+"仮にも５年間閉じ込めていた相手に…。"
+msgstr ""
+
+#. ID 3, Page 6, Line 44, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"融合時の余剰思考放棄。\n"
+"コンセントレーションとシンクロニティさ。"
+msgstr ""
+
+#. ID 3, Page 6, Line 47, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"無意識での反射的防衛が多少在るだろうけど、\n"
+"下手を打たなければ連れ出せる。"
+msgstr ""
+
+#. ID 3, Page 6, Line 50, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"寧ろ問題なのはその前。\n"
+"結構激しく檻を揺さぶっちまうからね。"
+msgstr ""
+
+#. ID 3, Page 6, Line 53, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"くたばったりはしないけど、少し酔うかも。"
+msgstr ""
+
+#. ID 3, Page 6, Line 58, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"まあ止むを得んな。\\.\\.\n"
+"彼女の防壁を破る為だ。"
+msgstr ""
+
+#. ID 3, Page 6, Line 64, Pos (0,0)
+msgid ""
+"？？？(右)：\n"
+"自由の身に成ったら\n"
+"暫く休ませてあげれば良い事。"
+msgstr ""
+
+#. ID 3, Page 6, Line 70, Pos (0,0)
+msgid ""
+"？？？(左)：\n"
+"\"祝祭\"まで、\\.\\.まだ少し時間が在るからな。"
+msgstr ""
+
+#. ID 3, Page 6, Line 76, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"しかし用心深いね、\\.\\.あんたら。"
+msgstr ""
+
+#. ID 3, Page 6, Line 78, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\"アイシャ\"を手に入れれば、\n"
+"それでもう充分だと思うけど？"
+msgstr ""
+
+#. ID 3, Page 6, Line 81, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"あんな小生意気な\n"
+"\"リフューズ\"に頼る事なんてさ…。"
+msgstr ""
+
+#. ID 3, Page 6, Line 87, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"大胆か、\\.\\.自信過剰か、\\.\\.はたまた哀れなる無知か。"
+msgstr ""
+
+#. ID 3, Page 6, Line 92, Pos (0,0)
+msgid ""
+"？？？(左)：\n"
+"常に予想の上を行く。\\.\\.\n"
+"それが俺達の相手にする連中だ。"
+msgstr ""
+
+#. ID 3, Page 6, Line 98, Pos (0,0)
+msgid ""
+"？？？(右)：\n"
+"実に侮り難い存在。\\|\n"
+"私も身を以って知ったわ。"
+msgstr ""
+
+#. ID 3, Page 6, Line 104, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"憑代の姫君は保険などではない。"
+msgstr ""
+
+#. ID 3, Page 6, Line 106, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"純然たる切り札。\\|最後の砦。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 6, Line 108, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"何それ。\\.\\.討ち死にする気満々じゃん。"
+msgstr ""
+
+#. ID 3, Page 6, Line 110, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"其処までは言わぬが、\n"
+"困難な戦いに成る事は避けられまい。"
+msgstr ""
+
+#. ID 3, Page 6, Line 113, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"強いて言うなら、適用可能性大の保険か。"
+msgstr ""
+
+#. ID 3, Page 6, Line 118, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ちっ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 6, Line 120, Pos (0,0)
+msgid ""
+"？？？(右)：\n"
+"彼女が御嫌い？"
+msgstr ""
+
+#. ID 3, Page 6, Line 122, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"あんたら以上に喰えない奴。\\|\n"
+"寧ろ逆に俺達を喰おうとして来る。"
+msgstr ""
+
+#. ID 3, Page 6, Line 125, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\"彼女の意味\"を考えれば当然なんだけどさ。"
+msgstr ""
+
+#. ID 3, Page 6, Line 133, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まあ良いや。\\.\\.迎えに行って来る。"
+msgstr ""
+
+#. ID 3, Page 6, Line 135, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"あんたらの言う所の、\"鬼に金棒\"って奴だろ。"
+msgstr ""
+
+#. ID 3, Page 6, Line 143, Pos (0,0)
+msgid ""
+"？？？(左)：\n"
+"そいつは違うぜ、\\.\\.エンデ。"
+msgstr ""
+
+#. ID 3, Page 6, Line 148, Pos (0,0)
+msgid ""
+"？？？(右)：\n"
+"この場合…。\\.\\.\n"
+"\"人事を尽くして天命を待つ\"かしら。"
+msgstr ""
+
+#. ID 3, Page 6, Line 154, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"或いはマクロな視点でこうとも言えるな。"
+msgstr ""
+
+#. ID 3, Page 6, Line 159, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"\\S[2]\"歩\"が居ない将棋は負け将棋。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 7, Line 6, Pos (0,0)
+msgid ""
+"ジョシュア(真中)：\n"
+"全ては筋書き通りに進んだ。"
+msgstr ""
+
+#. ID 3, Page 7, Line 11, Pos (0,0)
+msgid ""
+"？？？(右)：\n"
+"残された準備は唯一つ。"
+msgstr ""
+
+#. ID 3, Page 7, Line 16, Pos (0,0)
+msgid ""
+"？？？(左)：\n"
+"\"あいつ\"を迎えに行く事だけ。"
+msgstr ""
+
+#. ID 3, Page 7, Line 21, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"感動の御対面って訳か。"
+msgstr ""
+
+#. ID 3, Page 7, Line 23, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\"あんな姿\"じゃあ\n"
+"感動もクソも無いと思うけどね？"
+msgstr ""
+
+#. ID 3, Page 7, Line 26, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"再三言っている事だ。\\.\\.\n"
+"病魔如きには分からぬ人の情感とな。"
+msgstr ""
+
+#. ID 3, Page 7, Line 32, Pos (0,0)
+msgid ""
+"？？？(右)：\n"
+"私達がどれだけこの時を待望した事か。"
+msgstr ""
+
+#. ID 3, Page 7, Line 34, Pos (0,0)
+msgid ""
+"？？？(右)：\n"
+"長き時を経て、\\.\\.\n"
+"再びアイシャを抱き締める、この時を。"
+msgstr ""
+
+#. ID 3, Page 7, Line 40, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ふ～ん…。\\|\n"
+"そんなモンなのかね…。"
+msgstr ""
+
+#. ID 3, Page 7, Line 46, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まあ良いや。\\.\\.準備はもう出来てるのかい？"
+msgstr ""
+
+#. ID 3, Page 7, Line 48, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"ああ、\\.\\.前夜祭の始まりだ。"
+msgstr ""
+
+#. ID 3, Page 7, Line 53, Pos (0,0)
+msgid ""
+"？？？(左)：\n"
+"ちょいとばかり演出過剰だけどな。"
+msgstr ""
+
+#. ID 3, Page 7, Line 58, Pos (0,0)
+msgid ""
+"？？？(右)：\n"
+"でも、\\.\\.花火はやはり盛大な方が良い。"
+msgstr ""
+
+#. ID 3, Page 7, Line 60, Pos (0,0)
+msgid ""
+"？？？(右)：\n"
+"帰らぬ日々を空に還し、\\.\\.\n"
+"大いなる愛の祝祭を告げるものとして。"
+msgstr ""
+
+#. ID 3, Page 7, Line 66, Pos (0,0)
+msgid ""
+"ジョシュア：\n"
+"では行こう。\\|\n"
+"白き翼の眠りの地へ。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 7, Line 76, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まあ、\\.\\.想像は付いてるけどね。"
+msgstr ""
+
+#. ID 3, Page 7, Line 78, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"確かにアンタ達は、\n"
+"人間の分際で能く此処まで来たさ。"
+msgstr ""
+
+#. ID 3, Page 7, Line 81, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"運命にも組み込まれず、\n"
+"偶然に\"あの因縁\"で外側に噛んだだけなのに。"
+msgstr ""
+
+#. ID 3, Page 7, Line 87, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"けどな。\\.\\.所詮は凡人＜エキストラ＞。"
+msgstr ""
+
+#. ID 3, Page 7, Line 89, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"居ても居なくても如何でも良い、\n"
+"運命を動かし得ないクズ共。"
+msgstr ""
+
+#. ID 3, Page 7, Line 92, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"仮にアイシャを手に入れた所で、\n"
+"\"それ自体\"がボクに対する下位の従属因子。"
+msgstr ""
+
+#. ID 3, Page 7, Line 98, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"要するに。\\|これ以上はやるだけムダ。"
+msgstr ""
+
+#. ID 3, Page 7, Line 100, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"精々ボクの手駒として働いて死んで呉れよ。"
+msgstr ""
+
+#. ID 3, Page 7, Line 102, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[3]親子仲良くなァ。\\|\\.\\.\\^"
+msgstr ""
+

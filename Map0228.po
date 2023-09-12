@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 18, Page 1, Line 3, Pos (7,11)
+msgid ""
+"女性：\n"
+"私のお父さん、彼氏にするなら絶対にギャンブルの\n"
+"強い奴にしろって煩いのよ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 6, Pos (7,11)
+msgid ""
+"女性：\n"
+"全部が全部とは言わないけど、ギャンブルが強い男は\n"
+"先ず負け組には行かないんですって。"
+msgstr ""
+
+#. ID 18, Page 2, Line 3, Pos (7,11)
+msgid ""
+"女性：\n"
+"こないだお父さんと喧嘩しちゃった。\n"
+"ギャンブルの強き弱きで彼氏を選びたくないって。"
+msgstr ""
+
+#. ID 18, Page 2, Line 6, Pos (7,11)
+msgid ""
+"女性：\n"
+"お父さん、若い頃ギャンブルで酷い目に遭ってるから、\n"
+"その方面の執着が物凄いのよ。"
+msgstr ""
+
+#. ID 18, Page 2, Line 9, Pos (7,11)
+msgid ""
+"女性：\n"
+"未だにギャンブルの呪縛に囚われ続けてる\n"
+"情け無い大人。反面教師には丁度良いわ。"
+msgstr ""
+
+#. ID 18, Page 3, Line 3, Pos (7,11)
+msgid ""
+"女性：\n"
+"お父さん、この頃毎日カジノに通い詰めなのよ。\n"
+"俺はこのまま負け犬では終わらないって。"
+msgstr ""
+
+#. ID 18, Page 3, Line 6, Pos (7,11)
+msgid ""
+"女性：\n"
+"分からないのかしらね。\n"
+"だからこそ負け犬にしか成れないんだって。"
+msgstr ""
+
+#. ID 18, Page 3, Line 9, Pos (7,11)
+msgid ""
+"女性：\n"
+"闇金に手を出し掛けてるみたいだし、\n"
+"お母さんも離婚を決意したわ。"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (17,7)
+msgid ""
+"女性：\n"
+"杖の通常攻撃でクリティカルが発生すると、\n"
+"爆発的な威力を発揮できるわ。"
+msgstr ""
+
+#. ID 19, Page 1, Line 6, Pos (17,7)
+msgid ""
+"女性：\n"
+"術師の通常攻撃も馬鹿にならないわよ。"
+msgstr ""
+

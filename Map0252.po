@@ -1,0 +1,951 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 28, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]これは…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 30, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そんなにメカが珍しい？"
+msgstr ""
+
+#. ID 6, Page 1, Line 32, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"確かにケイオスの中じゃあ場違いだけど、\n"
+"余所じゃこれ位普通じゃないの？"
+msgstr ""
+
+#. ID 6, Page 1, Line 35, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"ま、\\.\\.この奥はまた別格だけどさ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 41, Pos (0,0)
+msgid ""
+"レイク：\n"
+"こんな機械が当たり前に在るのかよ…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 43, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺が居た世界での\n"
+"ユヴェスとかスカイスクレイパーとか…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 46, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あの辺がこの世界の基準＜スタンダード＞なのか…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 54, Pos (0,0)
+msgid ""
+"レイク：\n"
+"生憎と田舎育ちでこういうハイテクには\n"
+"縁が無くてさ…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 57, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"そいつはまた。\\.\\.余程のド田舎なんだね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 59, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まあな。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 66, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"それで、マルゴという御婦人は？"
+msgstr ""
+
+#. ID 6, Page 1, Line 68, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"多分奥に居ると思うけど。"
+msgstr ""
+
+#. ID 6, Page 1, Line 74, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"おーい！ \\.\\.客だよー！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 79, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"留守みたいだな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 82, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"居ると思うけどね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 84, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"90過ぎの婆さんだから。\\.\\.\n"
+"耳も遠いし、偶に奥で居眠りしてる事も在る。"
+msgstr ""
+
+#. ID 6, Page 1, Line 91, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"婆さん！ \\.\\.居るんだろ！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 96, Pos (0,0)
+msgid ""
+"フォクシー：\n"
+"仕方無いね…。\\.\\.\n"
+"ちょっと奥にお邪魔させて貰おうか。"
+msgstr ""
+
+#. ID 6, Page 3, Line 7, Pos (0,0)
+msgid ""
+"老人：\n"
+"それで、\\.\\.最近は如何なんだ？"
+msgstr ""
+
+#. ID 6, Page 3, Line 9, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"最近もクソも在るかい。\\.\\.\n"
+"この街に居る限り何百年経とうが何も変わんないよ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 15, Pos (0,0)
+msgid ""
+"老人：\n"
+"時すらも淀む街か。\\.\\.\n"
+"相も変わらず狂っておるな。"
+msgstr ""
+
+#. ID 6, Page 3, Line 18, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"そうさ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 3, Line 20, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"あの時アタシらが狂っていた様に、\n"
+"この街もまた狂ってやがる。"
+msgstr ""
+
+#. ID 6, Page 3, Line 23, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"そして此処で、\n"
+"アタシは狂った夢を売って暮らしてる。"
+msgstr ""
+
+#. ID 6, Page 3, Line 26, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"現実なんてこんなもんさ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 28, Pos (0,0)
+msgid ""
+"老人：\n"
+"それで店の名前が狂夢堂とは。\\|\n"
+"お前さんもまた、相も変わらず卑屈なものだ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 31, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"\"自虐\"と言われた方が、まだ救いが在るよ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 36, Pos (0,0)
+msgid ""
+"老人：\n"
+"その辺もまた、\\.\\.変わっておらんな。"
+msgstr ""
+
+#. ID 6, Page 3, Line 43, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"あんたこそ全然変わってないよ、\\.\\.ドナルド。"
+msgstr ""
+
+#. ID 6, Page 3, Line 45, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"休暇を取ってこっちに静養に来たのは、\n"
+"実はアタシに嫌味を言う為かい？"
+msgstr ""
+
+#. ID 6, Page 3, Line 51, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"まったく、\\.\\.如何してそうも尖っているのか。"
+msgstr ""
+
+#. ID 6, Page 3, Line 54, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"あんたの頭なら、言わずとも分かるだろ？"
+msgstr ""
+
+#. ID 6, Page 3, Line 60, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"キャサリンは何時だって輝いていた。"
+msgstr ""
+
+#. ID 6, Page 3, Line 62, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"若い頃に片足を失うハンデを負って尚、\n"
+"暗いどころか人並み以上。"
+msgstr ""
+
+#. ID 6, Page 3, Line 65, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"\"アイドル\"なんて言葉は、\\.\\.もう死語だろうかの。"
+msgstr ""
+
+#. ID 6, Page 3, Line 67, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"ユヴェス行きを最初に決めたのもお前さんだった。\\|\n"
+"彼女の道を追うが故にな。"
+msgstr ""
+
+#. ID 6, Page 3, Line 73, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"だが、\\.\\.強過ぎる光は諸刃の剣さ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 75, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"輝き過ぎるが故に、アタシは自分の至らなさという\n"
+"影を色濃く認めざるを得なかった。"
+msgstr ""
+
+#. ID 6, Page 3, Line 78, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"遥か高みへの、\\.\\.憧れと妬み。"
+msgstr ""
+
+#. ID 6, Page 3, Line 80, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"止めは、あの男か？"
+msgstr ""
+
+#. ID 6, Page 3, Line 82, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"内気なお前さんが珍しくアプローチしたのに、\n"
+"そいつはキャサリンと交際した。"
+msgstr ""
+
+#. ID 6, Page 3, Line 85, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"あの時ばかりは見ていた私が戦々恐々。\n"
+"何時修羅場が訪れんとばかりに。"
+msgstr ""
+
+#. ID 6, Page 3, Line 88, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"あれは男が悪いのさ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 90, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"ハウゼンにこってり絞られてるのを見て、\n"
+"清々したよ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 96, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"これだから女は怖い。\\.\\.\n"
+"一度は惚れた男だろうに。"
+msgstr ""
+
+#. ID 6, Page 3, Line 99, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"メスは常に優秀なオスの精子を捜し求めるもの。\\.\\.\n"
+"見限りは早いんだよ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 107, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"そう言えば、ハウゼンが来たね。"
+msgstr ""
+
+#. ID 6, Page 3, Line 109, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"こんな所にか？"
+msgstr ""
+
+#. ID 6, Page 3, Line 111, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"連れの女子は、恐らくミネルヴァ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 113, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"成る程。\\.\\.\"連中\"はやはり\n"
+"星の生命よりも自分の権力が気に成っていると。"
+msgstr ""
+
+#. ID 6, Page 3, Line 116, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"獅子身中に虫在りさ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 123, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"ハウゼンは、\\.\\.何の反応も見せなかった。"
+msgstr ""
+
+#. ID 6, Page 3, Line 125, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"主＜マスター＞でもない女の事など、\n"
+"もう忘れちまったのかね。"
+msgstr ""
+
+#. ID 6, Page 3, Line 128, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"知らぬ振りだと思うがな。"
+msgstr ""
+
+#. ID 6, Page 3, Line 130, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"だとしても、\\.\\.\n"
+"どの道アタシがキャサリンに及ぶ事は無かった。"
+msgstr ""
+
+#. ID 6, Page 3, Line 133, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"この歳にして知らされた事でも在るまい？"
+msgstr ""
+
+#. ID 6, Page 3, Line 138, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"彼女はカリスマだったのさ。\\.\\.\n"
+"ガイアリバースへの導き手なんだから、当然だ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 141, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"彼女は\"天使\"。\\.\\.アタシは\"人間\"。"
+msgstr ""
+
+#. ID 6, Page 3, Line 143, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"所詮辿り着ける場所なんかじゃなかった。"
+msgstr ""
+
+#. ID 6, Page 3, Line 148, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"そんな風に囚われて、\\.\\.\n"
+"侘しいとは思わんのか？"
+msgstr ""
+
+#. ID 6, Page 3, Line 154, Pos (0,0)
+#. ID 6, Page 5, Line 79, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 3, Line 156, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"カリスマの罪科だよ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 167, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"通信だね。\\|こんな時間に誰だい？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 3, Line 174, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"はいマルゴ狂夢堂。"
+msgstr ""
+
+#. ID 6, Page 3, Line 179, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"此処のポートを？\\|\n"
+"別に構わないけどね。"
+msgstr ""
+
+#. ID 6, Page 3, Line 185, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"丁度今、店に来てるよ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 190, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"分かった。\\.\\.伝えとくよ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 3, Line 201, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"休暇は終わりだよ、\\.\\.ドナルド博士。"
+msgstr ""
+
+#. ID 6, Page 3, Line 203, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"行き成りだの。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 3, Line 205, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"御仲間さんから連絡が在って、\n"
+"此処を合流ポイントに使いたいと。"
+msgstr ""
+
+#. ID 6, Page 3, Line 208, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"予定外だな。\\.\\.何かアクシデントが？"
+msgstr ""
+
+#. ID 6, Page 3, Line 210, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"そうらしいね。詳しい事は聞いてないけど。"
+msgstr ""
+
+#. ID 6, Page 3, Line 212, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"取り敢えずシャルとリーナの御一行が\n"
+"こっちに来るから、あんたも此処で合流だとさ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 215, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"分かった。\\.\\.遠出しないようにしておこう。"
+msgstr ""
+
+#. ID 6, Page 3, Line 221, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"ところで、さっきの話なのだが…。"
+msgstr ""
+
+#. ID 6, Page 3, Line 223, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"まだ言うか？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 3, Line 228, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"お互い短い老い先なのだ。\\.\\.\n"
+"もっと胸を張らんか？"
+msgstr ""
+
+#. ID 6, Page 3, Line 231, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"殊にお前さんは何かと自虐気味だが、\n"
+"良いボランティアを行っているだろうに。"
+msgstr ""
+
+#. ID 6, Page 3, Line 234, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"売春孤児の事かい？"
+msgstr ""
+
+#. ID 6, Page 3, Line 236, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"そうとも。\\.\\.売春で\"生まれてしまった\"孤児達を、\n"
+"お前さんは逃がしているではないか。"
+msgstr ""
+
+#. ID 6, Page 3, Line 242, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"何を言うんだか、\\.\\.このジジイは。"
+msgstr ""
+
+#. ID 6, Page 3, Line 244, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"此処で腐って行くよりマシなだけ。\\.\\.\n"
+"捨ててる事には変わりないさ。"
+msgstr ""
+
+#. ID 6, Page 3, Line 247, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"ディスピスの潜在的な危険から眼を背け、\n"
+"只管に姑息。"
+msgstr ""
+
+#. ID 6, Page 3, Line 250, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"何時か必ず来るカタストロフィに怯え続ける。"
+msgstr ""
+
+#. ID 6, Page 3, Line 252, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"何一つ切り開かれちゃいない。\\|\n"
+"総ては、如何しようも無い程に閉じられたまま。"
+msgstr ""
+
+#. ID 6, Page 3, Line 258, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"胸を張れん運命なのだな…。"
+msgstr ""
+
+#. ID 6, Page 3, Line 260, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"お互いにね。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 10, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"まったく。\\.\\.\n"
+"またそんな事を言ってるのかい。"
+msgstr ""
+
+#. ID 6, Page 5, Line 13, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"珍しく足を運んで来たかと思えば、\n"
+"選りにも選ってそんな用事を。"
+msgstr ""
+
+#. ID 6, Page 5, Line 16, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 18, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"ユアンが死んだ時もそうだったね。"
+msgstr ""
+
+#. ID 6, Page 5, Line 20, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"いいや。\\.\\.此処に来なかっただけまだマシさ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 22, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"あの時\"考え直す\"と言って引き下がったものを、\n"
+"今度は此処で蒸し返すかい。"
+msgstr ""
+
+#. ID 6, Page 5, Line 28, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"だが…。\\|遂にレイクまでもが…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 30, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"シリアに始まり…\\|ユアン…\\|そしてレイクまで…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 32, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"親子三人…。\\|皆死んでしまったのだぞ…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 37, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"\\S[3]私はもう…\\|背負い切れんよ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 44, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"部下を死なせて生き続ける上官の気持ちかね。\n"
+"組織に居ないアタシには分かんないよ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 47, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"分からんでも良いわ。\\.\\.\n"
+"黙って\"あれ\"を取り寄せて呉れ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 51, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"冗談じゃないね。\n"
+"このアタシでもアレに関しちゃリスクを背負う。"
+msgstr ""
+
+#. ID 6, Page 5, Line 54, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"自分自身で納得行かない限りは廻さないよ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 59, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 64, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"だが…\\|如何かとは思わんか？"
+msgstr ""
+
+#. ID 6, Page 5, Line 66, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"何がだい。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 71, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"若い者達が次々と死んで逝って、\\.\\.\n"
+"こんな老い耄ればかりが生き続けている。"
+msgstr ""
+
+#. ID 6, Page 5, Line 74, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"この物悲しさを。"
+msgstr ""
+
+#. ID 6, Page 5, Line 84, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"お前さん、\\.\\.聞く所では\"夢売り稼業\"の\n"
+"跡取りを育ててるそうじゃないか。"
+msgstr ""
+
+#. ID 6, Page 5, Line 87, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"\"常連\"を３人ばかり仕込んでる。"
+msgstr ""
+
+#. ID 6, Page 5, Line 89, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"なら感じている筈だろうに。"
+msgstr ""
+
+#. ID 6, Page 5, Line 92, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"アンタと一緒にしないど呉れよ。\\|\n"
+"アタシのは\"備え\"さ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 95, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"何が在ってもこのシステムを\n"
+"頓挫させちまう訳には行かないからね。"
+msgstr ""
+
+#. ID 6, Page 5, Line 101, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"逞しいの。\n"
+"リオ･エクスプローラの女共は。"
+msgstr ""
+
+#. ID 6, Page 5, Line 104, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"当然だよ。\\.\\.絵に描いた様な女系さ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 109, Pos (0,0)
+msgid ""
+"ドナルド：\n"
+"それで…。\\|本音は如何なんだ？"
+msgstr ""
+
+#. ID 6, Page 5, Line 116, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"半世紀以上の悪癖だね。\\|\n"
+"二度の離婚の果ての独り身で、未だ分かってない。"
+msgstr ""
+
+#. ID 6, Page 5, Line 123, Pos (0,0)
+msgid ""
+"マルゴ：\n"
+"女の口から、\n"
+"そういう事を言わせるんじゃないよ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 3, Pos (12,4)
+msgid ""
+"マルゴ：\n"
+"あそこのバリアを消しとくなんて、\n"
+"本当なら至極物騒な事なんだからね。"
+msgstr ""
+
+#. ID 7, Page 1, Line 6, Pos (12,4)
+msgid ""
+"マルゴ：\n"
+"こんな所で道草食ってないで、\n"
+"さっさと用事を済ませて来な。"
+msgstr ""
+
+#. ID 7, Page 2, Line 3, Pos (12,4)
+msgid ""
+"マルゴ：\n"
+"用が無いんならさっさと行きな。"
+msgstr ""
+
+#. ID 7, Page 3, Line 4, Pos (12,4)
+#. ID 7, Page 3, Line 33, Pos (12,4)
+msgid ""
+"マルゴ：\n"
+"精一杯やりな。\n"
+"何時までも若い訳じゃないんだからね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 4, Pos (5,3)
+msgid ""
+"マルゴ：\n"
+"これ。勝手に入るんじゃないよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 28, Pos (2,0)
+#. ID 13, Page 1, Line 55, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"エレメント感応型光学兵器『ヘヴン･ザ･ホーイック』。"
+msgstr ""
+
+#. ID 13, Page 1, Line 34, Pos (2,0)
+#. ID 13, Page 1, Line 100, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"腐れた運命とドンパチやらかすあんたには、\n"
+"これ位のエモノが必要だ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 37, Pos (2,0)
+#. ID 13, Page 1, Line 103, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"持って行きな。"
+msgstr ""
+
+#. ID 13, Page 1, Line 53, Pos (2,0)
+msgid ""
+"ニクソン：\n"
+"これは…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 60, Pos (2,0)
+msgid ""
+"ニクソン：\n"
+"ホーイック…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 68, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"数年前かね。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 70, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"ハロウィンでもないってのに\n"
+"政府軍の奴が反政府ゲリラの仮装して訪ねて来て、\n"
+"光学兵器開発の商談を持ち掛けた。"
+msgstr ""
+
+#. ID 13, Page 1, Line 74, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"\"Trick or Treat\"。\\|\n"
+"仕方も無いし暇だったから、御菓子を呉れて遣った。"
+msgstr ""
+
+#. ID 13, Page 1, Line 77, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"それは何度かの協議とバージョンアップを経た\n"
+"最終形の試作品だよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 80, Pos (2,0)
+msgid ""
+"ニクソン：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 82, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"大した事はしてないさ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 84, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"埃落として、グリース差して。\\.\\.\n"
+"後は軽く再調整と動作確認。"
+msgstr ""
+
+#. ID 13, Page 1, Line 87, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"\"あの事件\"から今までの短期間でも\n"
+"余裕でこなせる作業だよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 93, Pos (2,0)
+msgid ""
+"ニクソン：\n"
+"如何いう…\\|御心算で…？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 95, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"さあね。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 97, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"飢えた者には食える餅を。\n"
+"それが此処＜ケイオス＞の流儀。"
+msgstr ""
+
+#. ID 13, Page 1, Line 109, Pos (2,0)
+msgid ""
+"ニクソン：\n"
+"意味を…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 111, Pos (2,0)
+msgid ""
+"ニクソン：\n"
+"ヘヴン･ザ･ホーイック。\\|\n"
+"その意味を教えて頂けますか？"
+msgstr ""
+
+#. ID 13, Page 1, Line 117, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"ババアの口からそんな言葉を言わせるなんて。\n"
+"復讐の心算かい？"
+msgstr ""
+
+#. ID 13, Page 1, Line 120, Pos (2,0)
+msgid ""
+"ニクソン：\n"
+"とんでもない。\\.\\.\n"
+"貴女の気持ちが知りたいのです。"
+msgstr ""
+
+#. ID 13, Page 1, Line 130, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"何となくさ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 135, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"まあ…。\\|或いは…。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 144, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"\\S[3]天使は…\\.\\.今も見守っている。\\|\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 156, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"だがね…。\\|これには続きが在るんだよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 168, Pos (2,0)
+msgid ""
+"マルゴ：\n"
+"\\S[3]そしてアタシは、\\.\\.地獄に落ちる。\\|\\|\\^"
+msgstr ""
+

@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 1, Line 12, Pos (5,15)
+#. ID 14, Page 1, Line 44, Pos (5,15)
+msgid ""
+"ドリス：\n"
+"オヤシキだ…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 14, Pos (5,15)
+#. ID 14, Page 1, Line 56, Pos (5,15)
+msgid ""
+"ニクソン：\n"
+"ちょっと訪ねてみましょうか？"
+msgstr ""
+
+#. ID 14, Page 1, Line 16, Pos (5,15)
+#. ID 14, Page 1, Line 58, Pos (5,15)
+msgid ""
+"ニクソン：\n"
+"旅の者だと言えば、\n"
+"或いは休ませて頂けるかもしれません。"
+msgstr ""
+
+#. ID 14, Page 1, Line 46, Pos (5,15)
+msgid ""
+"ヤンシー：\n"
+"本当、湖の島に御屋敷が建ってるわね。\\.\\.\n"
+"こんな人里も無い所なのに。"
+msgstr ""
+
+#. ID 14, Page 1, Line 61, Pos (5,15)
+msgid ""
+"ヤンシー：\n"
+"そうね。\\.\\.もう大分歩いたし。"
+msgstr ""
+
+#. ID 14, Page 1, Line 64, Pos (5,15)
+msgid ""
+"ヤンシー：\n"
+"ドリスも休みたいでしょ？"
+msgstr ""
+
+#. ID 14, Page 1, Line 66, Pos (5,15)
+msgid ""
+"ドリス：\n"
+"うん。\\.\\.ワタシもうヘトヘト。"
+msgstr ""
+
+#. ID 14, Page 1, Line 68, Pos (5,15)
+msgid ""
+"ニクソン：\n"
+"では決まりですね。"
+msgstr ""
+
+#. ID 20, Page 1, Line 8, Pos (12,13)
+#. Contains choice at line 2 (3 options)
+msgid "店員：いらっしゃいませ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 9, Pos (12,13)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 20, Page 1, Line 20, Pos (12,13)
+msgid ""
+"店員：\n"
+"お互い、助かりましたね。\n"
+"私も休ませて頂こうかと思います。"
+msgstr ""
+
+#. ID 20, Page 1, Line 25, Pos (12,13)
+msgid ""
+"店員：\n"
+"私はもうしばらく、此方の屋敷の厄介になります。"
+msgstr ""
+
+#. ID 20, Page 1, Line 27, Pos (12,13)
+msgid ""
+"店員：\n"
+"（ぼそっ）…メイドさん、可愛かったし……。"
+msgstr ""
+
+#. ID 20, Page 1, Line 39, Pos (12,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"店員：\n"
+"いらっしゃいませ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 41, Pos (12,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+

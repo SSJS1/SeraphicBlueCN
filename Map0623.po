@@ -1,0 +1,594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 26, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"此処には何も無いみたいね…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 42, Pos (0,0)
+msgid ""
+"？？？：\n"
+"御早い御着きね。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"来ると思ってたわ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 57, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ヴィルジニー…。\\|\n"
+"選りにも選って…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"そう忌み嫌う事も無いでしょう。\\.\\.\n"
+"散々知りたがっていた真実を携えて来たのだから。"
+msgstr ""
+
+#. ID 10, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何ですって…？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"打ち砕かれし腐敗の摩天楼。\\|\n"
+"神の怒りに触れし象徴か、或いは…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"何れにせよ、此処は真実の集う場所。\\|\n"
+"私の真実を明かす良い頃合。"
+msgstr ""
+
+#. ID 10, Page 1, Line 75, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"結論から言おうかしら。"
+msgstr ""
+
+#. ID 10, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"御父様は、シリアの再生を望んでいるのよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 79, Pos (0,0)
+msgid ""
+"\\>レイク／ヴェーネ：\n"
+"！！！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 84, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\C[19]プロジェクト･ヴィルジニー\\C[0]。\n"
+"シリアを失った御父様が発動した、\n"
+"シリア再生への壮大な計画。"
+msgstr ""
+
+#. ID 10, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"御父様はシリアのＤＮＡデータを用いて、\n"
+"シリアと\"同一\"の容姿を持つ素体を作成した。"
+msgstr ""
+
+#. ID 10, Page 1, Line 91, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"素体ですって…？"
+msgstr ""
+
+#. ID 10, Page 1, Line 93, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"そう、素体作成。\n"
+"フェジテに於いても限られた類の人間のみが\n"
+"駆使し得る特別技術。"
+msgstr ""
+
+#. ID 10, Page 1, Line 97, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"御父様は、素体作成を行う事が出来るフェスクの\n"
+"人間をも囲い込んでいたのよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"作成されたシリアと同一容姿の素体。\n"
+"しかしこれだけでは、所詮は物言わぬ只の人形。"
+msgstr ""
+
+#. ID 10, Page 1, Line 106, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"こんな\"もの\"で御父様は満足しない。"
+msgstr ""
+
+#. ID 10, Page 1, Line 108, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"其処で御父様は、この素体に基礎的原始的な擬似人格を\n"
+"植え付けた生命体\\C[19]バイオヒューマン\\C[0]を創り…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ユアンに汚されたシリアの純潔への願いを込めて、\n"
+"\"処女性\"という意味のコールネームを与えた。"
+msgstr ""
+
+#. ID 10, Page 1, Line 114, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"その名は\"ヴィルジニー(Virginie)\"。"
+msgstr ""
+
+#. ID 10, Page 1, Line 120, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それがあんたの正体か…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 122, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"プロジェクト･ヴィルジニーに依って生み出された、\n"
+"シリアと同一肉体のバイオヒューマン…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 125, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"そういう事ね。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 127, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"但し正確にはヴィルジニー28ＶＶＦ。\n"
+"\"ヴィルジニー\"の第28号体。"
+msgstr ""
+
+#. ID 10, Page 1, Line 130, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それ以前は？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 132, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"擬似人格の固着に失敗した連中。\n"
+"全て即時廃棄処分よ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 135, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ネオイーヴルの餌として、ね。"
+msgstr ""
+
+#. ID 10, Page 1, Line 140, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"因みに私には、御父様をあらゆる敵から守るべく\n"
+"高い戦闘能力が付与されている。"
+msgstr ""
+
+#. ID 10, Page 1, Line 143, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"御父様が長年憧れた、\n"
+"娘に守られる父親というシチュエーション。"
+msgstr ""
+
+#. ID 10, Page 1, Line 146, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"故に私の正式名はヴィルジニー28\"ＶＶＦ\"。\n"
+"ヴァージョン･ヴァルキリーフェイク\n"
+"(Version Valkyrie-Fake)。"
+msgstr ""
+
+#. ID 10, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"現世に在りて御父様に仕える\n"
+"\"似非の戦女神\"＜ヴァルキリーフェイク＞なのよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 157, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あの糞ジジイ…。\\|\n"
+"何処までもナメた真似を…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 163, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"そういきり立つには、まだ早いわよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 165, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"このプロジェクトは現在\"休止\"状態で在って、\n"
+"決してその最終目的たるシリアの再生は、\n"
+"未だ達成されていないのだから。"
+msgstr ""
+
+#. ID 10, Page 1, Line 169, Pos (0,0)
+msgid ""
+"レイク：\n"
+"馬鹿言ってんなよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 171, Pos (0,0)
+msgid ""
+"レイク：\n"
+"母さんの容姿に擬似人格。\n"
+"果ては戦闘能力。"
+msgstr ""
+
+#. ID 10, Page 1, Line 174, Pos (0,0)
+msgid ""
+"レイク：\n"
+"これだけ好き勝手やっといて、\n"
+"更に何を求めやがる。"
+msgstr ""
+
+#. ID 10, Page 1, Line 180, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"人間というのは、肉体と魂から構成されるものよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 182, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"裏を返せば、肉体と魂が揃って\n"
+"初めて人間と呼べるという事。"
+msgstr ""
+
+#. ID 10, Page 1, Line 185, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"即ちシリアを再生するのならば、\n"
+"シリアの肉体と魂が必要になる。"
+msgstr ""
+
+#. ID 10, Page 1, Line 188, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"シリアの肉体とは私。\\|\n"
+"そしてシリアの魂とは…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 194, Pos (0,0)
+#. ID 10, Page 2, Line 82, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 196, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ヴェーネ。\\.\\.お前だ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 198, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"お前の魂を繋げる事で、\n"
+"完全なるシリアの再生が果たされるのよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 204, Pos (0,0)
+msgid ""
+"レイク：\n"
+"だから今までヴェーネを狙ってたのか…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 206, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"そう、\\.\\.\"ヴェーネ自身\"でなく、\n"
+"ヴェーネがセカンドカーネルとして持つシリアの魂。"
+msgstr ""
+
+#. ID 10, Page 1, Line 209, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"完全なるシリアを再生する為の、\n"
+"最後のピース。"
+msgstr ""
+
+#. ID 10, Page 1, Line 216, Pos (0,0)
+msgid ""
+"レイク：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 221, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それで？ \\.\\.あんたは飽くまで俺達の敵なのか。"
+msgstr ""
+
+#. ID 10, Page 1, Line 223, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 225, Pos (0,0)
+msgid ""
+"レイク：\n"
+"飽くまでゲオルクに付いて、\n"
+"俺達の敵に回るのかって訊いてるんだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 231, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"若し私の魂が手に入ったなら、\n"
+"貴女の存在は完全に否定される事になるのよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 234, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"つまり貴女の現在の行動目的は、\n"
+"他ならぬ貴女自身の否定。"
+msgstr ""
+
+#. ID 10, Page 1, Line 237, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それで良いの？\\|\n"
+"そんなパラドックスを是とするような…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 243, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 248, Pos (0,0)
+msgid ""
+"レイク：\n"
+"前にも言ったが、\n"
+"あんたと戦うのは気が乗らない。"
+msgstr ""
+
+#. ID 10, Page 1, Line 251, Pos (0,0)
+msgid ""
+"レイク：\n"
+"だから此処で良く考えて呉れ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 253, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"貴女の決断次第で、私達は戦いを回避出来る。"
+msgstr ""
+
+#. ID 10, Page 1, Line 255, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ゲオルクの馬鹿げた計画は潰され、\n"
+"貴女の存在意義は守られる。"
+msgstr ""
+
+#. ID 10, Page 1, Line 261, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"貴女の自由は、\\.\\.\n"
+"貴女の思う以上に傍に在るのよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 264, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"手を伸ばせば、指先が触れる程にね。"
+msgstr ""
+
+#. ID 10, Page 1, Line 269, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 275, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"不可能だ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 277, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何故…！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 279, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"それは摂理。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 281, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"何時ぞやの学者が見た林檎の如く、\n"
+"当然にして不可破のプロビデンス。"
+msgstr ""
+
+#. ID 10, Page 1, Line 284, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"私は御父様への愛情と服従だけを植え付けられ、\n"
+"それだけがこの世界の\"総て\"。"
+msgstr ""
+
+#. ID 10, Page 1, Line 287, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"それ以外の如何なる選択肢も、\n"
+"私の世界の外、私の世界に存在し得ない事象。"
+msgstr ""
+
+#. ID 10, Page 1, Line 293, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 295, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あの糞ジジイ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 300, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"さあ、お喋りは此処までよ。\\|\n"
+"諦めて構えなさい。"
+msgstr ""
+
+#. ID 10, Page 1, Line 306, Pos (0,0)
+msgid ""
+"レイク：\n"
+"仕方無いな…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 308, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"それで良い。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 313, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"行くぞッ！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 26, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"これで三度目の敗北…。\\|\n"
+"いい加減、御父様に見限られそうね…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 29, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"先にゲオルクを見限れば済む話よ。"
+msgstr ""
+
+#. ID 10, Page 2, Line 31, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あんな糞ジジイに尽くすなんて、\n"
+"世界最低の人生の無駄遣いだと思うがな。"
+msgstr ""
+
+#. ID 10, Page 2, Line 37, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"フッ…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 42, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"そう思えるお前達が、\\.\\.\n"
+"少しだけ羨ましいかもしれないわね…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 48, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"しかし所詮は眼の前に在って手の届かない、\n"
+"\"人の心\"という異界。"
+msgstr ""
+
+#. ID 10, Page 2, Line 51, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"そして私の世界には、\\.\\.\n"
+"決して終わらぬ御父様への愛と服従が在るのみ。"
+msgstr ""
+
+#. ID 10, Page 2, Line 57, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"その世界の大地は、どんなかしら？"
+msgstr ""
+
+#. ID 10, Page 2, Line 59, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"豊饒の大地？\\.\\.\n"
+"それとも不毛の大地？"
+msgstr ""
+
+#. ID 10, Page 2, Line 62, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"知る必要の無い事よ。"
+msgstr ""
+
+#. ID 10, Page 2, Line 67, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"縁が在ったら、\\.\\.また会おう。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 2, Line 75, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あいつを相手にすると、何時もこうだ。"
+msgstr ""
+
+#. ID 10, Page 2, Line 77, Pos (0,0)
+msgid ""
+"レイク：\n"
+"勝った気がしないぜ。"
+msgstr ""
+

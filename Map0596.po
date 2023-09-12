@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 13, Pos (0,0)
+#. ID 10, Page 1, Line 46, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"取り敢えず御同行すれば宜しいですか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そうだな。\\.バケモノの相手は俺達が引き受ける。"
+msgstr ""
+
+#. ID 10, Page 1, Line 17, Pos (0,0)
+#. ID 10, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"網膜パターンの必要な場面で力を貸して呉れ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 27, Pos (0,0)
+#. ID 10, Page 3, Line 7, Pos (0,0)
+msgid ""
+"男性：\n"
+"ええ、\\.\\.如何にも。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 29, Pos (0,0)
+#. ID 10, Page 3, Line 9, Pos (0,0)
+msgid ""
+"男性：\n"
+"私がこのC.M.G.C.の兵器開発部門主任、\n"
+"カーチス･ハミルトンです。"
+msgstr ""
+
+#. ID 10, Page 1, Line 32, Pos (0,0)
+#. ID 10, Page 3, Line 12, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"私に御用件とは？"
+msgstr ""
+
+#. ID 10, Page 1, Line 34, Pos (0,0)
+#. ID 10, Page 3, Line 14, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ドリス達の救出とモーガンの撃破の為、\n"
+"是非とも協力して欲しい。"
+msgstr ""
+
+#. ID 10, Page 1, Line 37, Pos (0,0)
+#. ID 10, Page 3, Line 17, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"モーガンの居る地下プラントへ行くんだが、\n"
+"セキュリティ解除の為にあんたの網膜パターンを\n"
+"貸して呉れないか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 41, Pos (0,0)
+#. ID 10, Page 3, Line 21, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"無論ですとも。\\.\\.\n"
+"それで私が御役に立てるのでしたら。"
+msgstr ""
+
+#. ID 10, Page 1, Line 44, Pos (0,0)
+#. ID 10, Page 3, Line 24, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"有難う。\\.\\.協力に感謝する。"
+msgstr ""
+
+#. ID 10, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そうだな。\\.\\.バケモノの相手は俺達が引き受ける。"
+msgstr ""
+
+#. ID 10, Page 1, Line 52, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"分かりました。"
+msgstr ""
+
+#. ID 10, Page 1, Line 57, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"ああ、そうそう。\\.\\.\n"
+"一つ気に成る事が。"
+msgstr ""
+
+#. ID 10, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"何だ？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 62, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"不確かな情報では在るのですが、モーガンが\n"
+"開発中の兵器を勝手に動かして罠を張っていると…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 65, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"ゆめゆめ御油断なさらぬように。"
+msgstr ""
+
+#. ID 10, Page 1, Line 67, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"分かった。\\.\\.頭に入れておく。"
+msgstr ""
+
+#. ID 10, Page 1, Line 76, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"あっと…。\\.\\.済みません…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"如何した？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 80, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"忘れ物をしたようです。\\.\\.\n"
+"少し待って頂けますか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 92, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"確かにしまっておいた筈なのだが…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 97, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"込み入っていたからな…。\\|\n"
+"恐らくこの辺りに紛れ込んで…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 110, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"ああ、\\.\\.良かった。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 112, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"この写真だけは、\n"
+"如何在っても失くす訳には行かんからな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 120, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"さてと。\\.\\.それでは始めるか。"
+msgstr ""
+
+#. ID 10, Page 1, Line 122, Pos (0,0)
+msgid ""
+"カーチス：\n"
+"折角レオナも来ているのだ。\\.\\.\n"
+"上手く仕上げないとな。"
+msgstr ""
+

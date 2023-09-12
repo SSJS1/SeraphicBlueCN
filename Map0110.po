@@ -1,0 +1,471 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 10, Pos (13,35)
+msgid ""
+"？？？：\n"
+"この潮風、そしてこの波音…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 12, Pos (13,35)
+msgid ""
+"？？？：\n"
+"これぞバカンスの真骨頂…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 17, Pos (13,35)
+msgid ""
+"？？？：\n"
+"誰かがこの街の市街地をぶっ飛ばして呉れた御陰で、\n"
+"この誰も来ない砂浜で\n"
+"伸び伸びとバカンスを楽しむ事が出来る…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 21, Pos (13,35)
+msgid ""
+"？？？：\n"
+"こんな日は、水着の美女を侍らせてトロピカル\n"
+"ジュースでもゆっくり味わいたいものだ…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 24, Pos (13,35)
+msgid ""
+"？？？：\n"
+"だが、その前にやる事が一つ…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 31, Pos (13,35)
+msgid ""
+"？？？：\n"
+"俺のバカンスの邪魔するんじゃねーッ!!\\|\\.\\. \\^"
+msgstr ""
+
+#. ID 4, Page 2, Line 7, Pos (13,35)
+msgid ""
+"ザ･バカンス：\n"
+"全く…。また折角のバカンスが\n"
+"台無しになってしまった…。"
+msgstr ""
+
+#. ID 4, Page 2, Line 10, Pos (13,35)
+msgid ""
+"ザ･バカンス：\n"
+"また他の場所でも探すか…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (5,33)
+msgid ""
+"女性：\n"
+"船から降りた後って、\n"
+"まだ体が揺れてるような感じがするのよねー。"
+msgstr ""
+
+#. ID 5, Page 1, Line 7, Pos (5,33)
+msgid ""
+"女性：\n"
+"研究都市っていう名前に惹かれて来たって言うのに、\n"
+"全然ハイカラじゃないのよね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 10, Pos (5,33)
+msgid ""
+"女性：\n"
+"もっと気品に満ちた街だと思ってたら正反対。\n"
+"整備も余りされてない雑然とした街。"
+msgstr ""
+
+#. ID 5, Page 1, Line 13, Pos (5,33)
+msgid ""
+"女性：\n"
+"それに、目立った施設もあのラボだけしか無いわ。\n"
+"結局研究都市の名前を飾った何も無い街なのよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 16, Pos (5,33)
+msgid ""
+"女性：\n"
+"はぁ……。\n"
+"もっと気品溢れる街って、どこかに無いのかしら…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 3, Pos (5,33)
+msgid ""
+"女性：\n"
+"フェジテの飛行船、一度乗ってみたいものね。"
+msgstr ""
+
+#. ID 5, Page 2, Line 5, Pos (5,33)
+msgid ""
+"女性：\n"
+"ゲオルクも飛行船を持ってるらしいけど、\n"
+"あっちはあまりいいイメージ無いしね。"
+msgstr ""
+
+#. ID 5, Page 2, Line 9, Pos (5,33)
+msgid ""
+"女性：\n"
+"天使大陸フェジテ……。\n"
+"グラウンド蹂躪を企む国なんて、野蛮に違いないわ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 12, Pos (5,33)
+msgid ""
+"女性：\n"
+"結局、私が求めてる気品有る街なんて、\n"
+"この世界の何処にも存在しないのよね……。"
+msgstr ""
+
+#. ID 5, Page 2, Line 15, Pos (5,33)
+msgid ""
+"女性：\n"
+"はぁ……。\n"
+"この海でも見て、精々気を紛らわすしかないわね…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 3, Pos (41,10)
+#. ID 8, Page 3, Line 3, Pos (41,10)
+msgid ""
+"船乗り：\n"
+"此処はユヴェス行きの船着場だ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 3, Pos (41,10)
+msgid ""
+"船乗り：\n"
+"ユヴェス行きの船だ。\n"
+"一人\\_600\\_ディアだが、乗るかね？"
+msgstr ""
+
+#. ID 8, Page 2, Line 20, Pos (41,10)
+#. Choice (2 options)
+msgid ""
+"乗船する\n"
+"乗船しない"
+msgstr ""
+
+#. ID 8, Page 2, Line 40, Pos (41,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\C[19]【スキップ確認】\n"
+"\\C[0]東部大陸港まで一気に移動しますか？"
+msgstr ""
+
+#. ID 8, Page 2, Line 42, Pos (41,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 8, Page 2, Line 93, Pos (41,10)
+#. Contains choice at line 2 (1 options)
+msgid "※所持金が足りません。"
+msgstr ""
+
+#. ID 8, Page 2, Line 94, Pos (41,10)
+#. Choice (1 options, embedded in a message)
+msgid "乗船しない"
+msgstr ""
+
+#. ID 29, Page 1, Line 10, Pos (17,5)
+#. ID 29, Page 1, Line 21, Pos (17,5)
+msgid ""
+"ヴェーネ：\n"
+"ラボには直ぐに？"
+msgstr ""
+
+#. ID 29, Page 1, Line 12, Pos (17,5)
+msgid ""
+"ニクソン：\n"
+"そうですね。"
+msgstr ""
+
+#. ID 29, Page 1, Line 19, Pos (17,5)
+msgid ""
+"ニクソン：\n"
+"漸くホワイトウィングに着きましたね。"
+msgstr ""
+
+#. ID 29, Page 1, Line 23, Pos (17,5)
+msgid ""
+"ニクソン：\n"
+"そうですね。\\|\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 25, Pos (17,5)
+msgid ""
+"ニクソン：\n"
+"この街も色々見て回ると面白いのですが、\n"
+"取り敢えず先にやるべき事を。"
+msgstr ""
+
+#. ID 29, Page 1, Line 28, Pos (17,5)
+msgid ""
+"ニクソン：\n"
+"お付き合い願えますか？"
+msgstr ""
+
+#. ID 29, Page 1, Line 30, Pos (17,5)
+msgid ""
+"ヴェーネ：\n"
+"勿論。\\|\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 32, Pos (17,5)
+msgid ""
+"レイク：\n"
+"いざという時は任せとけ。"
+msgstr ""
+
+#. ID 29, Page 1, Line 39, Pos (17,5)
+msgid ""
+"ニクソン：\n"
+"私の交渉手腕が問われそうですね。"
+msgstr ""
+
+#. ID 29, Page 1, Line 42, Pos (17,5)
+msgid ""
+"ヴェーネ：\n"
+"刃傷沙汰は避けたい所だわ。"
+msgstr ""
+
+#. ID 29, Page 3, Line 7, Pos (17,5)
+msgid ""
+"少年：\n"
+"何だってこんな所まで来るんだよ…。"
+msgstr ""
+
+#. ID 29, Page 3, Line 9, Pos (17,5)
+msgid ""
+"中年男：\n"
+"仕方無いだろう。\\.\\.幾ら遠くたって、\n"
+"これがヴェーネの辿った道なんだからな。"
+msgstr ""
+
+#. ID 29, Page 3, Line 12, Pos (17,5)
+msgid ""
+"少年：\n"
+"それはそうだけどさ…。\\|\n"
+"幾ら何でも…。"
+msgstr ""
+
+#. ID 29, Page 3, Line 18, Pos (17,5)
+msgid ""
+"中年男：\n"
+"此処まで集めた情報が確かなら、\n"
+"ヴェーネはレイクやニクソンと一緒に此処に来てる筈。"
+msgstr ""
+
+#. ID 29, Page 3, Line 21, Pos (17,5)
+msgid ""
+"少年：\n"
+"加えて言えば、\\.\\.場合に依っては\n"
+"更に三人で何処かを出歩いてるかも知れないと。"
+msgstr ""
+
+#. ID 29, Page 3, Line 27, Pos (17,5)
+msgid ""
+"少年：\n"
+"まったく何だってんだよ。\\.\\.\n"
+"選りにも選ってこんな所まで出歩きやがって…。"
+msgstr ""
+
+#. ID 29, Page 3, Line 30, Pos (17,5)
+msgid ""
+"少年：\n"
+"あの孤児院でじっとしてれば良いじゃないか。\\.\\.\n"
+"一応自分の家なんだしよ。"
+msgstr ""
+
+#. ID 29, Page 3, Line 37, Pos (17,5)
+msgid ""
+"中年男：\n"
+"いいやケイン。\\.\\.\n"
+"そうとも言い切れないぜ？"
+msgstr ""
+
+#. ID 29, Page 3, Line 40, Pos (17,5)
+msgid ""
+"ケイン(少年)：\n"
+"何でさ？\\|\\^"
+msgstr ""
+
+#. ID 29, Page 3, Line 49, Pos (17,5)
+msgid ""
+"中年男：\n"
+"あいつら、\\.\\.エンデと接触したのかも知れない。"
+msgstr ""
+
+#. ID 29, Page 3, Line 54, Pos (17,5)
+msgid ""
+"ケイン：\n"
+"それ…。\\.\\.マジで言ってるのか？"
+msgstr ""
+
+#. ID 29, Page 3, Line 56, Pos (17,5)
+msgid ""
+"中年男：\n"
+"在り得ない話じゃないぞ。"
+msgstr ""
+
+#. ID 29, Page 3, Line 58, Pos (17,5)
+msgid ""
+"中年男：\n"
+"エンデが自分達を狙っていると知れば、少なくとも\n"
+"あそこに居座ってイリエナ達を危険に曝す真似だけは\n"
+"しないだろう。"
+msgstr ""
+
+#. ID 29, Page 3, Line 62, Pos (17,5)
+msgid ""
+"ケイン：\n"
+"何処に行く用事が無くても、\n"
+"孤児院にだけは居られないって訳か…。"
+msgstr ""
+
+#. ID 29, Page 3, Line 70, Pos (17,5)
+msgid ""
+"中年男：\n"
+"まあ、\\.\\.それにしてもこんな遠方まで来てる以上、\n"
+"あいつらなりに何か調べてるのかもな。"
+msgstr ""
+
+#. ID 29, Page 3, Line 76, Pos (17,5)
+msgid ""
+"中年男：\n"
+"しかし、これは急がないとマズいかもな…。"
+msgstr ""
+
+#. ID 29, Page 3, Line 78, Pos (17,5)
+msgid ""
+"ケイン：\n"
+"エンデの事か？\\|\\^"
+msgstr ""
+
+#. ID 29, Page 3, Line 80, Pos (17,5)
+msgid ""
+"中年男：\n"
+"違う。\\.\\.ゲオルクの方だ。\\|\\^"
+msgstr ""
+
+#. ID 29, Page 3, Line 83, Pos (17,5)
+msgid ""
+"中年男：\n"
+"ダルムシュタットとの距離も近いからな。\\.\\.\n"
+"何時奴の勢力と接触しても不思議じゃない。"
+msgstr ""
+
+#. ID 29, Page 3, Line 87, Pos (17,5)
+msgid ""
+"中年男：\n"
+"しかも万が一、本人同士が接触してみろ。"
+msgstr ""
+
+#. ID 29, Page 3, Line 94, Pos (17,5)
+msgid ""
+"中年男：\n"
+"最悪の事態だ。\\|\\^"
+msgstr ""
+
+#. ID 29, Page 3, Line 100, Pos (17,5)
+msgid ""
+"ケイン：\n"
+"最悪って言えば最悪だけどさ…。\\.\\.\n"
+"そんなに心配する事か…？"
+msgstr ""
+
+#. ID 29, Page 3, Line 103, Pos (17,5)
+msgid ""
+"ケイン：\n"
+"だってヴェーネが\n"
+"\"こっち\"に来てる事は極秘中の極秘。"
+msgstr ""
+
+#. ID 29, Page 3, Line 106, Pos (17,5)
+msgid ""
+"ケイン：\n"
+"増してレイクの事なんて\n"
+"\"C.M.G.C.\"の連中でさえ把握してないんだろ？"
+msgstr ""
+
+#. ID 29, Page 3, Line 112, Pos (17,5)
+msgid ""
+"ケイン：\n"
+"確かに因縁は在るけどよ。\\.\\.\n"
+"今回はゲオルクは蚊帳の外さ。"
+msgstr ""
+
+#. ID 29, Page 3, Line 120, Pos (17,5)
+msgid ""
+"ケイン：\n"
+"そんなに根詰めるなよ、\\.\\.ユアン。"
+msgstr ""
+
+#. ID 29, Page 3, Line 125, Pos (17,5)
+msgid ""
+"ユアン(中年男)：\n"
+"あのゲオルクが蚊帳の外、か…。"
+msgstr ""
+
+#. ID 29, Page 3, Line 130, Pos (17,5)
+msgid ""
+"ユアン：\n"
+"そう在る事を願うばかりだぜ…。"
+msgstr ""
+
+#. ID 30, Page 1, Line 3, Pos (10,17)
+msgid ""
+"男性：\n"
+"この街は研究都市という特性の所為か、\n"
+"飾り気の在る所が少ない。"
+msgstr ""
+
+#. ID 30, Page 1, Line 6, Pos (10,17)
+msgid ""
+"男性：\n"
+"住めば都とは言うけれど、\n"
+"他所の人には余り面白くない街かもね。"
+msgstr ""
+
+#. ID 30, Page 2, Line 3, Pos (10,17)
+msgid ""
+"男性：\n"
+"思うんだけどさ、フェジテと協力して\n"
+"研究活動とか出来ないもんかね？"
+msgstr ""
+
+#. ID 30, Page 2, Line 6, Pos (10,17)
+msgid ""
+"男性：\n"
+"解放だとか大袈裟に吠え立てたって、\n"
+"傷付く人が増えるだけだろうし…。"
+msgstr ""
+
+#. ID 30, Page 2, Line 9, Pos (10,17)
+msgid ""
+"男性：\n"
+"何よりも、支配するかされるかの両極端。\n"
+"共存って言う選択肢が完全に欠落している。"
+msgstr ""
+
+#. ID 30, Page 2, Line 12, Pos (10,17)
+msgid ""
+"男性：\n"
+"今のゲオルクは、\n"
+"凡そ信用に値しない奴だと思う。"
+msgstr ""
+
+#. ID 30, Page 3, Line 3, Pos (10,17)
+msgid ""
+"男性：\n"
+"ゲオルクか…。\n"
+"終わってみれば稀代の超悪漢だったな…。"
+msgstr ""
+

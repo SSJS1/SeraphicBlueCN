@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 18, Pos (0,6)
+msgid ""
+"兵士：\n"
+"モーガンは先程ドリスとヤンシーを連れて\n"
+"地下のエネルギープラントに立て篭った。"
+msgstr ""
+
+#. ID 10, Page 1, Line 21, Pos (0,6)
+#. ID 10, Page 1, Line 117, Pos (0,6)
+msgid ""
+"兵士：\n"
+"エネルギープラントに行く道は専用エレベーターの\n"
+"唯一つだけ。其処にはスキャン装置が付いている。"
+msgstr ""
+
+#. ID 10, Page 1, Line 24, Pos (0,6)
+#. ID 10, Page 1, Line 120, Pos (0,6)
+msgid ""
+"兵士：\n"
+"この装置に網膜パターンをスキャンさせる事で\n"
+"エレベーターのロックが解除されるのだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 27, Pos (0,6)
+#. ID 10, Page 1, Line 123, Pos (0,6)
+msgid ""
+"男性：\n"
+"認証して呉れる網膜パターンは、\n"
+"この施設の中でも数限られた上の人間の物だけ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 33, Pos (0,6)
+msgid ""
+"兵士：\n"
+"カーチス主任だったら希望が持てるぞ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 35, Pos (0,6)
+#. ID 10, Page 1, Line 180, Pos (0,6)
+msgid ""
+"兵士：\n"
+"少なからず逃げ遅れが居るこの状況。\n"
+"彼ならば必ず何処かに残っているだろう。"
+msgstr ""
+
+#. ID 10, Page 1, Line 38, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"分かった。\\.\n"
+"その名前しっかり覚えとくぜ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 52, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"何だと…!?\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 54, Pos (0,6)
+msgid ""
+"兵士：\n"
+"踏み込んでみれば分かる。\n"
+"エンデが大量のモンスターを放った事がな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 57, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"畜生ッ…！\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 59, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"女王反逆なんてモーガンにしては度胸が\n"
+"有り過ぎると思ってたが…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 62, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"やっぱりエンデが絡んでたか…！"
+msgstr ""
+
+#. ID 10, Page 1, Line 67, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"で、\\.\\.モーガンは？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 69, Pos (0,6)
+msgid ""
+"兵士：\n"
+"奴は先程ドリスとヤンシーを連れて\n"
+"地下のエネルギープラントに立て篭った。"
+msgstr ""
+
+#. ID 10, Page 1, Line 75, Pos (0,6)
+msgid ""
+"ヴェーネ：\n"
+"エンデの事だわ。\\.\\.モーガンに見切りを付けて\n"
+"此処で使い捨てにする心算ね。"
+msgstr ""
+
+#. ID 10, Page 1, Line 78, Pos (0,6)
+msgid ""
+"レイク：\n"
+"ったく。\\.\\.どっちもどっちだぜ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 84, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"此処の職員の避難は？"
+msgstr ""
+
+#. ID 10, Page 1, Line 86, Pos (0,6)
+msgid ""
+"兵士：\n"
+"オーウェン様と我々とで大方は逃がしたが、\n"
+"未だ若干名の逃げ遅れが居る筈。"
+msgstr ""
+
+#. ID 10, Page 1, Line 89, Pos (0,6)
+msgid ""
+"兵士：\n"
+"我々はこの後も、\n"
+"引き続いて逃げ遅れの救出に当たる。"
+msgstr ""
+
+#. ID 10, Page 1, Line 92, Pos (0,6)
+msgid ""
+"兵士：\n"
+"モーガンはお前達に任せた。"
+msgstr ""
+
+#. ID 10, Page 1, Line 94, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"分かった。\\.\\.\n"
+"地下のエネルギープラントに行くには？"
+msgstr ""
+
+#. ID 10, Page 1, Line 97, Pos (0,6)
+msgid ""
+"兵士：\n"
+"あそこはこの施設で使う全てのエネルギーを\n"
+"賄っている重要なポイントだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 100, Pos (0,6)
+msgid ""
+"兵士：\n"
+"最高レベルのセキュリティが張られていて、\n"
+"普通では入れない。"
+msgstr ""
+
+#. ID 10, Page 1, Line 103, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"カードキーとかパスコードとか要るのか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 105, Pos (0,6)
+msgid ""
+"兵士：\n"
+"否、その様な\"生半可\"な代物ではない。"
+msgstr ""
+
+#. ID 10, Page 1, Line 107, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"だったら何が？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 113, Pos (0,6)
+msgid ""
+"兵士：\n"
+"目玉だ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 115, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"め、\\.\\.目玉…？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 126, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"だったらオーウェンで一発か。\n"
+"何たって委員長だし。"
+msgstr ""
+
+#. ID 10, Page 1, Line 129, Pos (0,6)
+msgid ""
+"兵士：\n"
+"否、それは無理だ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 131, Pos (0,6)
+msgid ""
+"兵士：\n"
+"モーガンはオーウェン様を委員長職より解任した上で\n"
+"この施設を支配下に置いた。"
+msgstr ""
+
+#. ID 10, Page 1, Line 134, Pos (0,6)
+msgid ""
+"兵士：\n"
+"それは名目上の話だけでなく、\n"
+"セキュリティシステムの上でも同じ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 137, Pos (0,6)
+msgid ""
+"兵士：\n"
+"奴はシステム上からオーウェン様の委員長権限を\n"
+"全て抹消してしまったのだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 140, Pos (0,6)
+msgid ""
+"兵士：\n"
+"従って今のオーウェン様では\n"
+"あのロックを解除する事は出来ない。"
+msgstr ""
+
+#. ID 10, Page 1, Line 146, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"あの野郎…！\\.\\.\n"
+"余計な真似しやがって…！"
+msgstr ""
+
+#. ID 10, Page 1, Line 153, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"仕方無い。\\.\\.\n"
+"他に網膜パターンが使えそうなのは？"
+msgstr ""
+
+#. ID 10, Page 1, Line 156, Pos (0,6)
+msgid ""
+"兵士：\n"
+"後は各部門の主任クラスとかだな…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 158, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"誰か残ってないのか？"
+msgstr ""
+
+#. ID 10, Page 1, Line 160, Pos (0,6)
+msgid ""
+"兵士：\n"
+"悪いがそれは私にも分からない。\n"
+"状況は混乱を極めている。"
+msgstr ""
+
+#. ID 10, Page 1, Line 163, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 168, Pos (0,6)
+msgid ""
+"兵士：\n"
+"待て。\\.\\.カーチス主任だったら希望が持てるぞ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 170, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"カーチス？\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 172, Pos (0,6)
+msgid ""
+"兵士：\n"
+"兵器開発部門主任、カーチス･ハミルトン。"
+msgstr ""
+
+#. ID 10, Page 1, Line 174, Pos (0,6)
+msgid ""
+"兵士：\n"
+"オーウェン様にも決して引けを取らぬ、\n"
+"勇敢にして誠実な男だと専らの評判。"
+msgstr ""
+
+#. ID 10, Page 1, Line 177, Pos (0,6)
+msgid ""
+"兵士：\n"
+"特にこういう事態では最後まで場に留まる、\n"
+"所謂\"しんがり\"を務めるタイプだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 183, Pos (0,6)
+msgid ""
+"兵士：\n"
+"その評判が正しければの話だがな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 188, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"カーチス･ハミルトンだな…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 190, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"分かった。\\.\\.\n"
+"その名前しっかり覚えとくぜ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 193, Pos (0,6)
+msgid ""
+"兵士：\n"
+"もう聞きたい事は無いか？\\.\\.\n"
+"無いなら私は任務に戻るが…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 196, Pos (0,6)
+msgid ""
+"ユアン：\n"
+"ああ大丈夫だ。\\.\\.\n"
+"職員の避難は任せたぜ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 199, Pos (0,6)
+msgid ""
+"兵士：\n"
+"諸君らの健闘を祈る。"
+msgstr ""
+
+#. ID 14, Page 1, Line 7, Pos (4,14)
+msgid ""
+"店員：\n"
+"神出鬼没、縦横無尽。東奔西走、右往左往。\n"
+"それが私のモットーよ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 11, Pos (4,14)
+#. Contains choice at line 2 (3 options)
+msgid "店員：いらっしゃい！"
+msgstr ""
+
+#. ID 14, Page 1, Line 12, Pos (4,14)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 14, Page 1, Line 22, Pos (4,14)
+msgid ""
+"店員：\n"
+"スタート系Ｔスフィアはどれも高価だけど、\n"
+"それに見合うだけの性能はあるわよ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 33, Pos (4,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"店員：\n"
+"いらっしゃい！"
+msgstr ""
+
+#. ID 14, Page 1, Line 35, Pos (4,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+

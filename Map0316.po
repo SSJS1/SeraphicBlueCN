@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 9, Pos (0,0)
+#. ID 8, Page 1, Line 136, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"貴方も早く安全な場所へ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 11, Pos (0,0)
+#. ID 8, Page 1, Line 138, Pos (0,0)
+msgid ""
+"職員：\n"
+"あんた達も気を付けてな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 27, Pos (0,0)
+msgid ""
+"職員：\n"
+"まだイーヴルが残ってるみたいだが、\n"
+"やれるのか？"
+msgstr ""
+
+#. ID 8, Page 1, Line 30, Pos (0,0)
+msgid ""
+"レイク：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 32, Pos (0,0)
+msgid ""
+"職員：\n"
+"さっきの子供を見た後だろう？\\|\n"
+"あのイーヴルの本来の姿。"
+msgstr ""
+
+#. ID 8, Page 1, Line 35, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ、\\.\\.別に。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 37, Pos (0,0)
+msgid ""
+"レイク：\n"
+"殺らなければ殺られる。\\|\n"
+"\"現場\"ではそれが総てだからな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 40, Pos (0,0)
+msgid ""
+"レイク：\n"
+"中途半端な手心で自滅する程、\n"
+"俺はお人好しじゃない。"
+msgstr ""
+
+#. ID 8, Page 1, Line 47, Pos (0,0)
+#. ID 8, Page 2, Line 9, Pos (0,0)
+msgid ""
+"職員：\n"
+"そっちの姉ちゃんは？"
+msgstr ""
+
+#. ID 8, Page 1, Line 49, Pos (0,0)
+#. ID 8, Page 2, Line 11, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"屠殺体を思い浮かべながら\n"
+"肉料理を食べる人間は少ないでしょう？"
+msgstr ""
+
+#. ID 8, Page 1, Line 55, Pos (0,0)
+#. ID 8, Page 2, Line 17, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"それに…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 60, Pos (0,0)
+#. ID 8, Page 2, Line 22, Pos (0,0)
+msgid ""
+"職員：\n"
+"それに？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 65, Pos (0,0)
+#. ID 8, Page 2, Line 27, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"見慣れてるから。"
+msgstr ""
+
+#. ID 8, Page 1, Line 67, Pos (0,0)
+#. ID 8, Page 2, Line 29, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"今更あんなモノを見ても、\\.\\.何も感じないわ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 73, Pos (0,0)
+msgid ""
+"職員：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 75, Pos (0,0)
+msgid ""
+"職員：\n"
+"まあ俺も、仕事の時は心を入れない様に\n"
+"努めてはいるんだけどな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 78, Pos (0,0)
+msgid ""
+"職員：\n"
+"彼らの悲しみも苦しみも。\\.\\.\n"
+"その全てに対して無関心に徹して。"
+msgstr ""
+
+#. ID 8, Page 1, Line 81, Pos (0,0)
+msgid ""
+"職員：\n"
+"此奴はバケモン。\\|\n"
+"初めからバケモン。"
+msgstr ""
+
+#. ID 8, Page 1, Line 84, Pos (0,0)
+msgid ""
+"職員：\n"
+"\"在りし日\"の姿なんて存在しないし、\\.\\.\n"
+"家族だって居やしない。"
+msgstr ""
+
+#. ID 8, Page 1, Line 87, Pos (0,0)
+msgid ""
+"職員：\n"
+"だからさっさと処分しよう。"
+msgstr ""
+
+#. ID 8, Page 1, Line 92, Pos (0,0)
+msgid ""
+"職員：\n"
+"でもそれは皮肉混じりの矛盾だ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 94, Pos (0,0)
+msgid ""
+"職員：\n"
+"そうやって自分に言い聞かせるのは、\n"
+"心の奥底で割り切れていない証拠なんだからな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 100, Pos (0,0)
+msgid ""
+"職員：\n"
+"俺もまだまだ\"甘ちゃん\"か…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 102, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そんな事は無いわ。\\.\\.\n"
+"貴方は至って健常な人。"
+msgstr ""
+
+#. ID 8, Page 1, Line 105, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう…。\\|\n"
+"寧ろこれ程に割り切れる私の方こそ…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"他者に呉れて遣る愛情を知らずに\n"
+"育ってしまった異端者。"
+msgstr ""
+
+#. ID 8, Page 1, Line 114, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"人の痛みを感じられない、\\.\\.人間の屑。"
+msgstr ""
+
+#. ID 8, Page 1, Line 122, Pos (0,0)
+msgid ""
+"レイク：\n"
+"俺も同じく。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 127, Pos (0,0)
+msgid ""
+"職員：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 132, Pos (0,0)
+msgid ""
+"職員：\n"
+"何れにせよ、現状で頼れるのはあんた達だけだ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 134, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ、\\.\\.任せときな。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 149, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"レイク…。\\.\\.\n"
+"何も貴方まで卑屈に成る事無いのに…。"
+msgstr ""
+
+#. ID 8, Page 1, Line 153, Pos (0,0)
+msgid ""
+"レイク：\n"
+"お前こそ。\\.\\.\n"
+"クズは俺だけで充分だぜ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 159, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも…\\|共に行けるわよね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 161, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]散々に歪み切った、\\.\\.堕ち行くだけの、\\.\\.この道を。"
+msgstr ""
+
+#. ID 8, Page 1, Line 166, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まあな。\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 168, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"厭？\\|\\^"
+msgstr ""
+
+#. ID 8, Page 1, Line 170, Pos (0,0)
+msgid ""
+"レイク：\n"
+"悪くないと思う。\\|\\.\\.\\^"
+msgstr ""
+

@@ -1,0 +1,1480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 5, Pos (9,1)
+msgid ""
+"レイク：\n"
+"母さん…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 12, Pos (9,1)
+msgid ""
+"ヴェーネ：\n"
+"大丈夫よシリア。\n"
+"レイクは今もしっかりと生きているから…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 20, Pos (9,1)
+msgid ""
+"ユアン：\n"
+"あれから二十数年…。\n"
+"それなのに、未だあの運命は終わっていない…。"
+msgstr ""
+
+#. ID 2, Page 1, Line 23, Pos (9,1)
+msgid ""
+"ユアン：\n"
+"でも約束する。\n"
+"必ず俺達の手で終わらせてみせると。"
+msgstr ""
+
+#. ID 6, Page 1, Line 45, Pos (0,0)
+msgid ""
+"レイク：\n"
+"よう。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 47, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"レイク。\\.\\.よく来て呉れたね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 49, Pos (0,0)
+msgid ""
+"レイク：\n"
+"もう済んだのか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 51, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"ええ。\\.\\.最後に御祈りを捧げる所だよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 53, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"レイクも一緒に御祈りするかい？\\.\\.\n"
+"もう暫くなんでしょ？"
+msgstr ""
+
+#. ID 6, Page 1, Line 56, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ああ、\\.\\.そうさせて貰う。"
+msgstr ""
+
+#. ID 6, Page 1, Line 74, Pos (0,0)
+msgid ""
+"レイク：\n"
+"15歳の誕生日の晩、全てを聞かされた。"
+msgstr ""
+
+#. ID 6, Page 1, Line 76, Pos (0,0)
+msgid ""
+"レイク：\n"
+"この墓には、\\.\\.俺の母さんが眠っている。"
+msgstr ""
+
+#. ID 6, Page 1, Line 84, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"22年前の、\\.\\.或る雨の日。"
+msgstr ""
+
+#. ID 6, Page 1, Line 87, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"まだ若く孤児院の経験も浅いイリエナの所に、\n"
+"二人の客が訪れた。"
+msgstr ""
+
+#. ID 6, Page 1, Line 91, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"一人は若い男。\\.\\.\n"
+"一人は見るからに産まれたばかりの赤ん坊。"
+msgstr ""
+
+#. ID 6, Page 1, Line 96, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"男はイリエナに伝えた。\\.\\.\n"
+"赤ん坊の名前はレイク･ランドヴェリー。"
+msgstr ""
+
+#. ID 6, Page 1, Line 100, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"そして母さんは、\\.\\.俺を産み落として死んだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 104, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"男は、\\.\\.半ば俺を押し付ける様な形で、\n"
+"急いでその場を去って行った。"
+msgstr ""
+
+#. ID 6, Page 1, Line 108, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"何時か必ず迎えに来ると約束して。"
+msgstr ""
+
+#. ID 6, Page 1, Line 116, Pos (0,0)
+msgid ""
+"レイク：\n"
+"22年が経った。\\.\\.\n"
+"とても長い時間が流れた。"
+msgstr ""
+
+#. ID 6, Page 1, Line 122, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]約束は、\\.\\.果たされていない。\\|\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 133, Pos (0,0)
+msgid ""
+"レイク：\n"
+"この母さんの墓は、\n"
+"当初は簡単な木の十字架が立てられてるだけだった。"
+msgstr ""
+
+#. ID 6, Page 1, Line 136, Pos (0,0)
+msgid ""
+"レイク：\n"
+"要するに御粗末な物だった。"
+msgstr ""
+
+#. ID 6, Page 1, Line 138, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何かに追い立てられて、埋葬するだけで精一杯だったと\n"
+"イリエナはフォローしていたが…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 141, Pos (0,0)
+msgid ""
+"レイク：\n"
+"知った事か。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 146, Pos (0,0)
+msgid ""
+"レイク：\n"
+"木の十字架は風雨に晒されてる内に、\n"
+"やがてボロボロに成っちまった。"
+msgstr ""
+
+#. ID 6, Page 1, Line 149, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それを不憫に思った街の大人達が、\n"
+"新しく墓石を立てて呉れた。"
+msgstr ""
+
+#. ID 6, Page 1, Line 152, Pos (0,0)
+msgid ""
+"レイク：\n"
+"その上、週に一度は皆が交代で\n"
+"花を供えて祈りを捧げて呉れている。"
+msgstr ""
+
+#. ID 6, Page 1, Line 155, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\"良い人達\"だと思ってる。"
+msgstr ""
+
+#. ID 6, Page 1, Line 160, Pos (0,0)
+msgid ""
+"レイク：\n"
+"因みにあの男は、\\.\\.何一つしていない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 168, Pos (0,0)
+msgid ""
+"老人：\n"
+"死せる間際にさえ、\\.\\.その身を棄て\n"
+"新たなる生命を愛しんだ優しき者よ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 171, Pos (0,0)
+msgid ""
+"老人：\n"
+"その悲しくも偉大なる姿。"
+msgstr ""
+
+#. ID 6, Page 1, Line 173, Pos (0,0)
+msgid ""
+"老人：\n"
+"傷付いた骸は土に。\\|愛在る魂は天に。\\|\n"
+"汝が安らぎの裡に母なる星に還らん事を。"
+msgstr ""
+
+#. ID 6, Page 1, Line 185, Pos (0,0)
+msgid ""
+"レイク：\n"
+"無駄だとは思うが、一応訊いておく。"
+msgstr ""
+
+#. ID 6, Page 1, Line 187, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\"あの野郎\"はツラ見せたのか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 189, Pos (0,0)
+msgid ""
+"レイク：\n"
+"見せてないだろうな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 194, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"レイク。\\.\\.そういう言い方するもんじゃないよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 196, Pos (0,0)
+msgid ""
+"イリエナ：\n"
+"きっと御父さんも、\n"
+"止むに止まれぬ大変な事情が在って…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 199, Pos (0,0)
+msgid ""
+"レイク：\n"
+"此処には来れないけれど\n"
+"故人を想う気持ちはきっと変わらない、\\.\\.か？"
+msgstr ""
+
+#. ID 6, Page 1, Line 205, Pos (0,0)
+msgid ""
+"レイク：\n"
+"甘いぜ。\\.\\.甘過ぎるぜ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 207, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ガキじゃないんだからよ、\\.\\.\n"
+"態度や結果で示して初めて一人前だろ？"
+msgstr ""
+
+#. ID 6, Page 1, Line 210, Pos (0,0)
+msgid ""
+"レイク：\n"
+"なのに御粗末な木の十字架を立てただけで、\n"
+"もう弔った気に成ってやがる。"
+msgstr ""
+
+#. ID 6, Page 1, Line 213, Pos (0,0)
+msgid ""
+"レイク：\n"
+"墓参りにだって来やしない。\\.\\.\n"
+"皆の方が余程手厚く弔ってる。"
+msgstr ""
+
+#. ID 6, Page 1, Line 216, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ナメてるぜ。\\.\\.ナメ過ぎだぜ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 223, Pos (0,0)
+msgid ""
+"老人：\n"
+"まあ、\\.\\.それも一理か。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 225, Pos (0,0)
+msgid ""
+"老人：\n"
+"絵に描いた餅というのは、\n"
+"そこそこ腹を満たした者の心を満たすが…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 228, Pos (0,0)
+msgid ""
+"老人：\n"
+"真に飢えた者を、\\.\\.決して救いはしない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 233, Pos (0,0)
+msgid ""
+"老人：\n"
+"なかなか如何して、\\.\\.手厳しい事よ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 235, Pos (0,0)
+msgid ""
+"老人：\n"
+"お前さんの母を想う気持ちは、\n"
+"この22の歳月を以ってしても色褪せぬのだろうな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 238, Pos (0,0)
+msgid ""
+"老人：\n"
+"良い意味でも。\\|悪い意味でも。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 243, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 250, Pos (0,0)
+msgid ""
+"レイク：\n"
+"別に。\\.\\.口先だけの野郎が見苦しい。"
+msgstr ""
+
+#. ID 6, Page 1, Line 252, Pos (0,0)
+msgid ""
+"レイク：\n"
+"それだけだ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 9, Pos (0,0)
+#. ID 6, Page 4, Line 19, Pos (0,0)
+#. ID 6, Page 4, Line 29, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 14, Pos (0,0)
+msgid ""
+"レイク：\n"
+"待てよ…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 24, Pos (0,0)
+msgid ""
+"レイク：\n"
+"何処行くんだ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 34, Pos (0,0)
+msgid ""
+"レイク：\n"
+"人の話を…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 39, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[5]って…。\\.\\.此処は…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 48, Pos (0,0)
+#. ID 6, Page 4, Line 58, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 53, Pos (0,0)
+msgid ""
+"レイク：\n"
+"おい…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 60, Pos (0,0)
+msgid ""
+"レイク：\n"
+"おい、\\.\\.ヴェーネ…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 68, Pos (0,0)
+msgid ""
+"レイク：\n"
+"………!!\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 73, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[3]お前…。\\|泣いてるのか…？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 80, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 93, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]わたし…\\.\\.何して…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 98, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"急に気が遠く…\\.\\.此処に…。"
+msgstr ""
+
+#. ID 6, Page 4, Line 100, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"辺りを見渡して…。\\|とても悲しくて…。"
+msgstr ""
+
+#. ID 6, Page 4, Line 105, Pos (0,0)
+msgid ""
+"レイク：\n"
+"如何でも良いけどさ…。"
+msgstr ""
+
+#. ID 6, Page 4, Line 108, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ほら、\\.\\.涙拭けよ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 110, Pos (0,0)
+msgid ""
+"レイク：\n"
+"こんなとこ誰かに見られたら、\n"
+"俺が泣かせたと思われちまうだろうが。"
+msgstr ""
+
+#. ID 6, Page 4, Line 113, Pos (0,0)
+msgid ""
+"レイク：\n"
+"増してイリエナに知れたら最悪だ。\n"
+"怒り出して手に負えたモンじゃない。"
+msgstr ""
+
+#. ID 6, Page 4, Line 119, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]有難う…。\\|もう大丈夫だから…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 126, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]レイクは…\\.\\.優しいね。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 133, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]冗談言うな。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 4, Line 142, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[3]俺は…\\|クズだよ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 18, Pos (0,0)
+#. ID 17, Page 2, Line 18, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"我ながら奇妙な取り合わせ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 20, Pos (0,0)
+#. ID 17, Page 2, Line 20, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"シリアの墓前に、\\.\\.\n"
+"シリアの姿をした者が立つなど。"
+msgstr ""
+
+#. ID 6, Page 5, Line 26, Pos (0,0)
+#. ID 17, Page 2, Line 26, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"まあ、\\.\\.全ては\"あの男\"の咎。"
+msgstr ""
+
+#. ID 6, Page 5, Line 28, Pos (0,0)
+#. ID 17, Page 2, Line 28, Pos (0,1)
+msgid ""
+"ヤンシー：\n"
+"あの男…？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 30, Pos (0,0)
+#. ID 17, Page 2, Line 30, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"ゲオルクよ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 32, Pos (0,0)
+#. ID 17, Page 2, Line 32, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"此処は奴の大罪が埋められた場所。"
+msgstr ""
+
+#. ID 6, Page 5, Line 37, Pos (0,0)
+#. ID 17, Page 2, Line 37, Pos (0,1)
+msgid ""
+"フォクシー：\n"
+"何の真似さ。\\.\\.\n"
+"ゲオルクをそんな風に呼ぶなんて。"
+msgstr ""
+
+#. ID 6, Page 5, Line 40, Pos (0,0)
+#. ID 17, Page 2, Line 40, Pos (0,1)
+msgid ""
+"ミネルヴァ：\n"
+"貴女はゲオルクに愛と忠誠を強制された\n"
+"悲哀の戦女神＜ヴァルキリー＞ではなかったの？"
+msgstr ""
+
+#. ID 6, Page 5, Line 47, Pos (0,0)
+#. ID 17, Page 2, Line 47, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 55, Pos (0,0)
+#. ID 17, Page 2, Line 55, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"ゲオルクの為に若き非業の死を遂げし彼女、\n"
+"シリア･ローズバーグ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 58, Pos (0,0)
+#. ID 17, Page 2, Line 58, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"そして私はシリアのＤＮＡを持つ\n"
+"バイオヒューマン。"
+msgstr ""
+
+#. ID 6, Page 5, Line 61, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"だからこうして、\n"
+"今は亡きオリジナルに祈りを捧げた。"
+msgstr ""
+
+#. ID 6, Page 5, Line 68, Pos (0,0)
+#. ID 17, Page 2, Line 68, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"そう…。\\|一つの誓いを添えてね。"
+msgstr ""
+
+#. ID 6, Page 5, Line 73, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"\\S[2]誓い…\\.\\.ですか…？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 78, Pos (0,0)
+#. ID 17, Page 2, Line 78, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"黒獅子なのか神なのか、知った事ではないが…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 80, Pos (0,0)
+#. ID 17, Page 2, Line 80, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"人の領分を超えて世界を屠る咎人。\\|\n"
+"その名をゲオルク･ローズバーグ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 83, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"奴を、この手で討ち取る。"
+msgstr ""
+
+#. ID 6, Page 5, Line 85, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"お前達と共に。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 91, Pos (0,0)
+#. ID 17, Page 2, Line 91, Pos (0,1)
+msgid ""
+"ヤンシー：\n"
+"ゲオルクを倒す…？\\|\n"
+"私達と共に…？"
+msgstr ""
+
+#. ID 6, Page 5, Line 94, Pos (0,0)
+#. ID 17, Page 2, Line 94, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"そうよ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 96, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"余り信用出来んな。\\|\n"
+"他ならぬお前、騙し討ちも充分に考えられる。"
+msgstr ""
+
+#. ID 6, Page 5, Line 102, Pos (0,0)
+#. ID 17, Page 2, Line 102, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"まあ、\\.\\.そう言われて当然。"
+msgstr ""
+
+#. ID 6, Page 5, Line 107, Pos (0,0)
+#. ID 17, Page 2, Line 107, Pos (0,1)
+msgid ""
+"ニクソン：\n"
+"でも、元は此方から勧告したんですよね…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 109, Pos (0,0)
+#. ID 17, Page 2, Line 109, Pos (0,1)
+msgid ""
+"ニクソン：\n"
+"ゲオルクを見切れと…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 114, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"彼女の言ってる事が、\\.\\.嘘か真か…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 116, Pos (0,0)
+#. ID 17, Page 2, Line 116, Pos (0,1)
+msgid ""
+"フォクシー：\n"
+"相手がバイオヒューマンなだけに、\\.\\.\n"
+"表情も無ければニオイも無い。"
+msgstr ""
+
+#. ID 6, Page 5, Line 119, Pos (0,0)
+#. ID 17, Page 2, Line 119, Pos (0,1)
+msgid ""
+"フォクシー：\n"
+"厄介なヤツさ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 126, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ねえ…？\\.\\.\n"
+"なんでおネエちゃんはココに来たの？"
+msgstr ""
+
+#. ID 6, Page 5, Line 129, Pos (0,0)
+#. ID 17, Page 2, Line 129, Pos (0,1)
+msgid ""
+"ドリス：\n"
+"ゲオルクのコト、\\.\\.キラいになったの？"
+msgstr ""
+
+#. ID 6, Page 5, Line 131, Pos (0,0)
+#. ID 17, Page 2, Line 131, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"平たく言えばそういう事だ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 133, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ゲオルクがヴェーネを手に入れ、\n"
+"シリア再生の為にヴィルジニー29の新規作成を手配…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 136, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"そしてコイツに、用済みを宣告した。"
+msgstr ""
+
+#. ID 6, Page 5, Line 138, Pos (0,0)
+#. ID 17, Page 2, Line 138, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"だがコイツにしてみれば、ゲオルクとの\n"
+"服従や親愛の関係はこの世界で絶対の摂理。"
+msgstr ""
+
+#. ID 6, Page 5, Line 141, Pos (0,0)
+#. ID 17, Page 2, Line 141, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"詰まりゲオルクから捨てられるという事は、\n"
+"世界の摂理に反する出来事だった。"
+msgstr ""
+
+#. ID 6, Page 5, Line 144, Pos (0,0)
+#. ID 17, Page 2, Line 144, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"例えば学者さんの眼の前で、\n"
+"木から離れた林檎が地面に落ちないとか…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 147, Pos (0,0)
+#. ID 17, Page 2, Line 147, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"そういう、とんでもない出来事。"
+msgstr ""
+
+#. ID 6, Page 5, Line 149, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"そしてそのショックで、如何やらコイツの心が\n"
+"反転しちまったみたいなんだ…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 155, Pos (0,0)
+#. ID 17, Page 2, Line 155, Pos (0,1)
+msgid ""
+"ヤンシー：\n"
+"反転…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 157, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"よく言うだろ？\n"
+"可愛さ余って憎さ百倍とか。"
+msgstr ""
+
+#. ID 6, Page 5, Line 160, Pos (0,0)
+#. ID 17, Page 2, Line 160, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"掛けた愛情が深く大きい程に、\\.\\.そのネガ、\\.\\.\n"
+"敵意や憎悪もまた深く大きく成る。"
+msgstr ""
+
+#. ID 6, Page 5, Line 166, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"それでは、\\.\\.今のヴィルジニーは…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 168, Pos (0,0)
+#. ID 17, Page 2, Line 169, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"そうさ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 170, Pos (0,0)
+#. ID 17, Page 2, Line 171, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"予め植え付けられたゲオルクへの\n"
+"絶対的な愛と服従は反転し、\n"
+"絶対的な敵対心と憎悪へと変異した。"
+msgstr ""
+
+#. ID 6, Page 5, Line 174, Pos (0,0)
+#. ID 17, Page 2, Line 175, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"今此処に居るのは、\\.\\.心の底より\n"
+"ゲオルクの打倒を欲する戦女神ヴィルジニー。"
+msgstr ""
+
+#. ID 6, Page 5, Line 181, Pos (0,0)
+#. ID 17, Page 2, Line 182, Pos (0,1)
+msgid ""
+"フォクシー：\n"
+"イケるかも…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 183, Pos (0,0)
+#. ID 17, Page 2, Line 184, Pos (0,1)
+msgid ""
+"フォクシー：\n"
+"ゲオルクはヴィルジニーを敵に回して、\n"
+"本来の勝てる\"流れ\"を淀ませた。"
+msgstr ""
+
+#. ID 6, Page 5, Line 186, Pos (0,0)
+#. ID 17, Page 2, Line 187, Pos (0,1)
+msgid ""
+"フォクシー：\n"
+"カジノで大負けしてケイオスに来た奴の多くが、\n"
+"まるでこのパターンだった。"
+msgstr ""
+
+#. ID 6, Page 5, Line 189, Pos (0,0)
+#. ID 17, Page 2, Line 190, Pos (0,1)
+msgid ""
+"フォクシー：\n"
+"大勝の流れを淀ませ、\\.\\.\"落ち目\"にハマる。"
+msgstr ""
+
+#. ID 6, Page 5, Line 194, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"あのゲオルクが大負けする…？"
+msgstr ""
+
+#. ID 6, Page 5, Line 196, Pos (0,0)
+#. ID 17, Page 2, Line 197, Pos (0,1)
+msgid ""
+"ランサード：\n"
+"にわかに信じ難い話だが…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 201, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"しかし理は盛者必衰。\\.\\.\n"
+"盛衰の転機は、必ず何処かに在る。"
+msgstr ""
+
+#. ID 6, Page 5, Line 204, Pos (0,0)
+#. ID 17, Page 2, Line 205, Pos (0,1)
+msgid ""
+"ヤンシー：\n"
+"或いは…\\|今この時が…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 209, Pos (0,0)
+#. ID 17, Page 2, Line 210, Pos (0,1)
+msgid ""
+"ニクソン：\n"
+"差し詰め、女神を敵に回した愚者ですかね。"
+msgstr ""
+
+#. ID 6, Page 5, Line 211, Pos (0,0)
+#. ID 17, Page 2, Line 212, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"\"The Fool\"、\\.\\.\"The Tower\"、\\.\\.\"Wheel of Fortune\"。\\|\n"
+"何とも皮肉めいた話だよな。"
+msgstr ""
+
+#. ID 6, Page 5, Line 214, Pos (0,0)
+#. ID 17, Page 2, Line 215, Pos (0,1)
+msgid ""
+"ニクソン：\n"
+"成る程、それは言えてます。"
+msgstr ""
+
+#. ID 6, Page 5, Line 216, Pos (0,0)
+#. ID 17, Page 2, Line 217, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"若しあんたなら、ゲオルクに何を呉れてやる？"
+msgstr ""
+
+#. ID 6, Page 5, Line 218, Pos (0,0)
+#. ID 17, Page 2, Line 219, Pos (0,1)
+msgid ""
+"ニクソン：\n"
+"\"Hanged Man\"。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 220, Pos (0,0)
+#. ID 17, Page 2, Line 221, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"\"The Death\"を差し置くかい。"
+msgstr ""
+
+#. ID 6, Page 5, Line 225, Pos (0,0)
+#. ID 17, Page 2, Line 226, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"あんた達とは上手くやれそうな気がするぜ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 227, Pos (0,0)
+#. ID 17, Page 2, Line 228, Pos (0,1)
+msgid ""
+"ニクソン：\n"
+"そうですね。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 233, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"では改めて訊くわ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 235, Pos (0,0)
+#. ID 17, Page 2, Line 236, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"私達と手を組んで、\\.\\.\n"
+"共にゲオルクを倒すべく戦って呉れるかしら？"
+msgstr ""
+
+#. ID 6, Page 5, Line 241, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ええ。\\.\\.共に戦いましょう。"
+msgstr ""
+
+#. ID 6, Page 5, Line 243, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"決まりね。\\.\\.直ぐラージュに向かうわよ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 245, Pos (0,0)
+#. ID 17, Page 2, Line 246, Pos (0,1)
+msgid ""
+"ランサード：\n"
+"さっきの飛行機か？"
+msgstr ""
+
+#. ID 6, Page 5, Line 247, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ブルーウィング。\\.\\.ラージュ専用の連絡用輸送船。"
+msgstr ""
+
+#. ID 6, Page 5, Line 249, Pos (0,0)
+#. ID 17, Page 2, Line 251, Pos (0,1)
+msgid ""
+"ヤンシー：\n"
+"それなら怪しまれずに中に入れそうね。"
+msgstr ""
+
+#. ID 6, Page 5, Line 251, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"生憎だがそいつは無理だな。\n"
+"何せ発進許可も求めず勝手に出て来ちまった。"
+msgstr ""
+
+#. ID 6, Page 5, Line 254, Pos (0,0)
+#. ID 17, Page 2, Line 256, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"今更戻った所で、如何扱われるか。"
+msgstr ""
+
+#. ID 6, Page 5, Line 269, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"\\S[2]アメ…\\|止んだ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 287, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"始まったか…!?\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 309, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"フェジテ軍のデイジー機…！\\.\\.\n"
+"やっと来たのね…！"
+msgstr ""
+
+#. ID 6, Page 5, Line 312, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ならば好機だわ。\n"
+"この戦闘に紛れてラージュ内部へ入るわよ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 315, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"フョードル。\\.\\.出来るかしら？"
+msgstr ""
+
+#. ID 6, Page 5, Line 317, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"任せときな。\\.\\.弾幕の薄い真下を攻める。"
+msgstr ""
+
+#. ID 6, Page 5, Line 319, Pos (0,0)
+#. ID 17, Page 2, Line 322, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"では御手並み拝見ね。"
+msgstr ""
+
+#. ID 6, Page 5, Line 324, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"遂にゲオルクとの決戦なのね…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 326, Pos (0,0)
+#. ID 17, Page 2, Line 329, Pos (0,1)
+msgid ""
+"ヤンシー：\n"
+"数え切れぬ幾多の者達を屠り続けた、\n"
+"罪深き黒獅子…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 329, Pos (0,0)
+#. ID 17, Page 2, Line 332, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"そんな異名など、間も無く潰える。"
+msgstr ""
+
+#. ID 6, Page 5, Line 331, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"その牙を打ち砕かれ、\\.\\.\n"
+"その汚らしい血肉を空に散すのだから。"
+msgstr ""
+
+#. ID 6, Page 5, Line 337, Pos (0,0)
+#. ID 17, Page 2, Line 340, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"さあ、\\.\\.獲物達の逆襲だ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 339, Pos (0,0)
+#. ID 17, Page 2, Line 342, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"目指すは漆黒のラージュ！\\|\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 341, Pos (0,0)
+#. ID 17, Page 2, Line 344, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"蒼天を屠る不遜の方舟ッ！\\|\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 352, Pos (0,0)
+#. ID 17, Page 2, Line 355, Pos (0,1)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"私達はブルーウィングに乗り込み、\n"
+"ラージュを目指した。"
+msgstr ""
+
+#. ID 6, Page 5, Line 356, Pos (0,0)
+#. ID 17, Page 2, Line 359, Pos (0,1)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"そして目の当たりにする、\n"
+"フェジテ軍とラージュとの激しい戦闘。"
+msgstr ""
+
+#. ID 6, Page 5, Line 360, Pos (0,0)
+#. ID 17, Page 2, Line 363, Pos (0,1)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"四方八方よりラージュを包囲し砲撃を浴びせる\n"
+"フェジテの戦艦。"
+msgstr ""
+
+#. ID 6, Page 5, Line 364, Pos (0,0)
+#. ID 17, Page 2, Line 367, Pos (0,1)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"これに対し火の海でも巻き起こす様な凄まじい\n"
+"迎撃を仕掛けるラージュ。"
+msgstr ""
+
+#. ID 6, Page 5, Line 368, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"凄まじい砲撃の応酬。\n"
+"煙にむせ返り、炎に焼け爛れる大空。"
+msgstr ""
+
+#. ID 6, Page 5, Line 373, Pos (0,0)
+#. ID 17, Page 2, Line 380, Pos (0,1)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"戦況は五分五分…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 376, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"否、ラージュが少しずつ押しているか。"
+msgstr ""
+
+#. ID 6, Page 5, Line 379, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"このままではまずい。\n"
+"早く私達が攻め入って状況を上向けなければ…。"
+msgstr ""
+
+#. ID 6, Page 5, Line 390, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ねえねえ、ゲオルクー。"
+msgstr ""
+
+#. ID 6, Page 5, Line 392, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"何だ、気の抜けた声を出しおって。"
+msgstr ""
+
+#. ID 6, Page 5, Line 394, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"何かさー。\\.\\.ハエっぽいのが飛んでない？"
+msgstr ""
+
+#. ID 6, Page 5, Line 396, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"青い翼の鉄の蝿か。"
+msgstr ""
+
+#. ID 6, Page 5, Line 398, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"遊びたいなー。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 400, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"好きにしろ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 402, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"いいの？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 404, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"過去の遺物だ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 406, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"うわっ。\\.\\.冷たいおジイちゃん。"
+msgstr ""
+
+#. ID 6, Page 5, Line 408, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"今度ばかりはあっちに同情しちゃおうかな？"
+msgstr ""
+
+#. ID 6, Page 5, Line 413, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"私を遊び相手にして良いなどとは、\n"
+"一言も言っていないのだがな。"
+msgstr ""
+
+#. ID 6, Page 5, Line 416, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"何なら次は全身縛り上げて、\n"
+"空の散歩で遊んでみるか？"
+msgstr ""
+
+#. ID 6, Page 5, Line 419, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"冗談だっての。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 424, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ふん…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 5, Line 429, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"やるからには、盛大にやるんだろうな？"
+msgstr ""
+
+#. ID 6, Page 5, Line 431, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"当ったり前さ。\\.\\.\n"
+"人間なんてその為のオモチャだろ？"
+msgstr ""
+
+#. ID 6, Page 5, Line 434, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[3]ブッ殺して遊ぶ為の…\\.\\.ね。\\|\\|\\^"
+msgstr ""
+
+#. ID 17, Page 2, Line 61, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"だからこうして、\\.\\.\n"
+"今は亡きオリジナルに祈りを捧げた。"
+msgstr ""
+
+#. ID 17, Page 2, Line 73, Pos (0,1)
+msgid ""
+"ニクソン：\n"
+"\\S[2]誓い…\\|ですか…？\\|\\^"
+msgstr ""
+
+#. ID 17, Page 2, Line 83, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"奴を、\\.\\.この手で討ち取る。"
+msgstr ""
+
+#. ID 17, Page 2, Line 85, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"お前達と共にね。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 17, Page 2, Line 96, Pos (0,1)
+msgid ""
+"ランサード：\n"
+"余り信用出来んな。\\|\n"
+"他ならぬお前、\\.\\.騙し討ちも充分に考えられる。"
+msgstr ""
+
+#. ID 17, Page 2, Line 114, Pos (0,1)
+msgid ""
+"ミネルヴァ：\n"
+"彼女の言ってる事が、\\.\\.果たして嘘か真か…。"
+msgstr ""
+
+#. ID 17, Page 2, Line 126, Pos (0,1)
+msgid ""
+"ドリス：\n"
+"ねえ…？\\|\n"
+"なんでおネエちゃんはココに来たの？"
+msgstr ""
+
+#. ID 17, Page 2, Line 133, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"ゲオルクがヴェーネを手に入れ、\\.\\.\n"
+"シリア再生の為にヴィルジニー29の新規作成を手配…。"
+msgstr ""
+
+#. ID 17, Page 2, Line 136, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"そしてコイツに、\\.\\.用済みを宣告した。"
+msgstr ""
+
+#. ID 17, Page 2, Line 149, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"そしてそのショックで、\\.\\.如何やらコイツの心が\n"
+"反転しちまったみたいなんだ…。"
+msgstr ""
+
+#. ID 17, Page 2, Line 157, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"よく言うだろ？\\|\n"
+"可愛さ余って憎さ百倍とか。"
+msgstr ""
+
+#. ID 17, Page 2, Line 166, Pos (0,1)
+msgid ""
+"ニクソン：\n"
+"それでは…。\\|\n"
+"今のヴィルジニーは…。"
+msgstr ""
+
+#. ID 17, Page 2, Line 195, Pos (0,1)
+msgid ""
+"ミネルヴァ：\n"
+"\\S[2]あのゲオルクが…\\|大負けする…？\\|\\^"
+msgstr ""
+
+#. ID 17, Page 2, Line 202, Pos (0,1)
+msgid ""
+"ヤンシー：\n"
+"しかし理は盛者必衰。\\|\n"
+"盛衰の転機は、必ず何処かに在る。"
+msgstr ""
+
+#. ID 17, Page 2, Line 234, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"では改めて聞くわ。"
+msgstr ""
+
+#. ID 17, Page 2, Line 242, Pos (0,1)
+msgid ""
+"ヤンシー：\n"
+"ええ。\\|共に戦いましょう。"
+msgstr ""
+
+#. ID 17, Page 2, Line 244, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"決まりね。\\|直ぐラージュに向かうわよ。"
+msgstr ""
+
+#. ID 17, Page 2, Line 248, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"ブルーウィング。\\.\\.\n"
+"ラージュ専用の連絡用輸送船よ。"
+msgstr ""
+
+#. ID 17, Page 2, Line 253, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"生憎だがそいつは無理だな。\\|\n"
+"何せ発進許可も求めず勝手に出て来ちまった。"
+msgstr ""
+
+#. ID 17, Page 2, Line 271, Pos (0,1)
+msgid ""
+"ドリス：\n"
+"\\S[2]アメ…\\|止んだ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 17, Page 2, Line 289, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"始まったか…!?\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 17, Page 2, Line 311, Pos (0,1)
+msgid ""
+"ミネルヴァ：\n"
+"フェジテ軍のデイジー機…！\\|\n"
+"やっと来たのね…！"
+msgstr ""
+
+#. ID 17, Page 2, Line 314, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"ならば好機だわ。\\.\\.\n"
+"この戦闘に紛れてラージュ内部へ入るわよ。"
+msgstr ""
+
+#. ID 17, Page 2, Line 317, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"フョードル。\\|出来るかしら？"
+msgstr ""
+
+#. ID 17, Page 2, Line 319, Pos (0,1)
+msgid ""
+"フョードル：\n"
+"任せときな。\\.\\.\n"
+"弾幕の薄い真下を攻める。"
+msgstr ""
+
+#. ID 17, Page 2, Line 327, Pos (0,1)
+msgid ""
+"ヤンシー：\n"
+"遂に…。\\|ゲオルクとの決戦なのね…。"
+msgstr ""
+
+#. ID 17, Page 2, Line 334, Pos (0,1)
+msgid ""
+"ヴィルジニー：\n"
+"その牙を打ち砕かれ、\n"
+"その汚らしい血肉を空に散すのだから。"
+msgstr ""
+
+#. ID 17, Page 2, Line 371, Pos (0,1)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"凄まじい砲撃の応酬。\\|\n"
+"煙にむせ返り、炎に焼け爛れる大空。"
+msgstr ""
+
+#. ID 17, Page 2, Line 375, Pos (0,1)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"目立った回避も防御も一切行わず、\\.\\.\n"
+"正に力と力、\\.\\.紅蓮に燃え上がる真っ向勝負。"
+msgstr ""
+
+#. ID 17, Page 2, Line 383, Pos (0,1)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"否、ラージュが少しずつ押している。"
+msgstr ""
+
+#. ID 17, Page 2, Line 387, Pos (0,1)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"思い知らされる。\\|\n"
+"この黒き方舟は世界を屠り得ると。"
+msgstr ""
+
+#. ID 17, Page 2, Line 391, Pos (0,1)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"そして心に決める。\\|\n"
+"私達の手で、必ず此奴を沈めると。"
+msgstr ""
+
+#. ID 17, Page 2, Line 402, Pos (0,1)
+msgid ""
+"ヤンシー：\n"
+"私達は戦火に身を隠し、\n"
+"弾幕の薄い真下から素早くラージュに接近。"
+msgstr ""
+
+#. ID 17, Page 2, Line 405, Pos (0,1)
+msgid ""
+"ヤンシー：\n"
+"飛行船発着場への侵入に成功した…。"
+msgstr ""
+

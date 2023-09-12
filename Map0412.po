@@ -1,0 +1,689 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 16, Pos (0,0)
+msgid ""
+"メイド：\n"
+"お口に合いましたでしょうか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"勿論ですよ。\\.\\.\n"
+"こんなに良い食事は久し振りです。"
+msgstr ""
+
+#. ID 6, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"本当ね。\\.\\.御馳走様。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 23, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ゴチソウサマ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"ところで、未だこの屋敷の主人には\n"
+"お目に掛かっていないが…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 31, Pos (0,0)
+msgid ""
+"メイド：\n"
+"\\S[2]旦那様…\\|ですか…？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そうですね。\\.\\.これだけ至れり尽くせりの\n"
+"お持て成しを受けたのです。"
+msgstr ""
+
+#. ID 6, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"せめて一度会って、直接お礼を…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 41, Pos (0,0)
+#. ID 6, Page 1, Line 65, Pos (0,0)
+msgid ""
+"メイド：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"ああ済みません。\\.\\.\n"
+"御多忙なら、それはそれで構いませんよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"お手を煩わせてはいけませんからね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 54, Pos (0,0)
+msgid ""
+"メイド：\n"
+"\\S[2]いえ…。\\|そうじゃないんです…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"\\S[20]………？\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 61, Pos (0,0)
+msgid ""
+"メイド：\n"
+"旦那様は…\\|いらっしゃらないんです。"
+msgstr ""
+
+#. ID 6, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"出掛けてるのね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 71, Pos (0,0)
+msgid ""
+"メイド：\n"
+"\\S[2]昨年、\\.\\.亡くなられました。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"そうですか…。\\.\\.六年の祝祭者に…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 85, Pos (0,0)
+msgid ""
+"メイド：\n"
+"旦那様もDLG法立案に深く関わった身ですので、\n"
+"こういった事態を時折予見なさってました。"
+msgstr ""
+
+#. ID 6, Page 1, Line 88, Pos (0,0)
+msgid ""
+"メイド：\n"
+"そして昨年、\\.\\.それは果たして現実と成り、\\.\\.\n"
+"旦那様は六年の祝祭者に依って殺害され…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 91, Pos (0,0)
+msgid ""
+"メイド：\n"
+"以来私達使用人は、旦那様の遺志を風化させぬよう\n"
+"この屋敷に留まり続けているのです。"
+msgstr ""
+
+#. ID 6, Page 1, Line 97, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"旦那様の、\\.\\.遺志…？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 99, Pos (0,0)
+msgid ""
+"メイド：\n"
+"六年の祝祭者は必ず事前に犯行予告を出します。"
+msgstr ""
+
+#. ID 6, Page 1, Line 101, Pos (0,0)
+msgid ""
+"メイド：\n"
+"そして\"彼\"に狙われた者には\n"
+"常に政府の警護部隊が付いていました。"
+msgstr ""
+
+#. ID 6, Page 1, Line 107, Pos (0,0)
+msgid ""
+"メイド：\n"
+"しかし旦那様は違った…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 109, Pos (0,0)
+msgid ""
+"メイド：\n"
+"殺害予告が来たのは事実なのですが、\n"
+"それを敢えて政府に伏せ…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 112, Pos (0,0)
+msgid ""
+"メイド：\n"
+"何の警備も無いままに\n"
+"彼を迎え入れられたのです。"
+msgstr ""
+
+#. ID 6, Page 1, Line 118, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"無謀だな…。\\.\\.\n"
+"まるで死を望むにも近い…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 124, Pos (0,0)
+msgid ""
+"メイド：\n"
+"実際…\\|望まれていた面も在りました…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 130, Pos (0,0)
+msgid ""
+"メイド：\n"
+"DLG法の立案過程でこそ机上論で済ませていたものの、\n"
+"施行後に初めて目の当たりにする現実…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 133, Pos (0,0)
+msgid ""
+"メイド：\n"
+"ディスピスが発覚して引き裂かれる親子の泣き叫び。"
+msgstr ""
+
+#. ID 6, Page 1, Line 135, Pos (0,0)
+msgid ""
+"メイド：\n"
+"収容所で、たとえケア体勢が整おうとも、\n"
+"親を離れて病に蝕まれる子供達。"
+msgstr ""
+
+#. ID 6, Page 1, Line 138, Pos (0,0)
+msgid ""
+"メイド：\n"
+"そしてグラウンドに向けて、まるで残飯を棄てる様に\n"
+"機械的に廃棄されて行くルシファー。"
+msgstr ""
+
+#. ID 6, Page 1, Line 144, Pos (0,0)
+msgid ""
+"メイド：\n"
+"火急の必要性に迫られて作られたDLG法ですが、\n"
+"旦那様は自らに罪を科して苦しんでおられました。"
+msgstr ""
+
+#. ID 6, Page 1, Line 147, Pos (0,0)
+msgid ""
+"メイド：\n"
+"そして時は流れ、\\.\\.\"彼\"は現れたのです。"
+msgstr ""
+
+#. ID 6, Page 1, Line 149, Pos (0,0)
+msgid ""
+"メイド：\n"
+"六年の祝祭者…。\\|\n"
+"DLG法に牙を剥く者…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 155, Pos (0,0)
+msgid ""
+"メイド：\n"
+"旦那様は全ての罪と向き合う決意をなさった。"
+msgstr ""
+
+#. ID 6, Page 1, Line 157, Pos (0,0)
+msgid ""
+"メイド：\n"
+"政府に一切の連絡を入れず、\\.\\.何の警備も付けず、\\.\\.\n"
+"門戸を開け放ち、\\.\\.正に彼を甘んじて受け入れ…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 160, Pos (0,0)
+msgid ""
+"メイド：\n"
+"全ては死を覚悟しての事でした…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 5, Pos (0,0)
+msgid ""
+"メイド：\n"
+"私の知る限りでは、六年の祝祭者はターゲットを\n"
+"問答無用で粗雑に殺害するものと。"
+msgstr ""
+
+#. ID 6, Page 2, Line 8, Pos (0,0)
+msgid ""
+"メイド：\n"
+"でも旦那様だけは違った…。\\|\n"
+"それなりの時間、互いに言葉を交わしていた…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 11, Pos (0,0)
+msgid ""
+"メイド：\n"
+"そして旦那様の亡骸に在ったのは、寂しそうな笑み。"
+msgstr ""
+
+#. ID 6, Page 2, Line 13, Pos (0,0)
+msgid ""
+"メイド：\n"
+"まるでそれを守り残さんとばかりに、\n"
+"苦しむ暇も無く一瞬で生命を絶たれて…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 19, Pos (0,0)
+msgid ""
+"メイド：\n"
+"その後、これを殺人事件として届け、\n"
+"其処で政府は初めてこの件を知りました。"
+msgstr ""
+
+#. ID 6, Page 2, Line 22, Pos (0,0)
+msgid ""
+"メイド：\n"
+"血眼になって物証を探し、\n"
+"私達にも根掘り葉掘りの事情聴取を。"
+msgstr ""
+
+#. ID 6, Page 2, Line 25, Pos (0,0)
+msgid ""
+"メイド：\n"
+"でも私達は、旦那様と彼との語らいの事は\n"
+"断固として秘め事にしました。"
+msgstr ""
+
+#. ID 6, Page 2, Line 28, Pos (0,0)
+msgid ""
+"メイド：\n"
+"きっと旦那様は、政府の与り知らぬ場所で、\n"
+"彼と本音で話をしたかったと…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 31, Pos (0,0)
+msgid ""
+"メイド：\n"
+"それこそが、\\.\\.彼を迎え入れた旦那様の御心…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 36, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"如何やらその六年の祝祭者。\\.\\.\n"
+"強ち只の狂人とも言えないようですね…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 39, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"彼なりの美学…。\\|\n"
+"或いは強過ぎる信念…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 42, Pos (0,0)
+#. ID 6, Page 2, Line 124, Pos (0,0)
+#. ID 6, Page 2, Line 177, Pos (0,0)
+#. ID 6, Page 2, Line 185, Pos (0,0)
+#. ID 6, Page 3, Line 21, Pos (0,0)
+#. ID 6, Page 3, Line 29, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 47, Pos (0,0)
+msgid ""
+"メイド：\n"
+"御免なさい。\\|\n"
+"何だか暗く成ってしまいましたね。"
+msgstr ""
+
+#. ID 6, Page 2, Line 50, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"気にするな。\\.\\.\n"
+"良い話を聞かせて貰った。"
+msgstr ""
+
+#. ID 6, Page 2, Line 56, Pos (0,0)
+msgid ""
+"メイド：\n"
+"お茶のお代わり、如何ですか？"
+msgstr ""
+
+#. ID 6, Page 2, Line 58, Pos (0,0)
+msgid ""
+"ニクソン：\n"
+"もう充分です。\\.\\.どうぞ気になさらずに。"
+msgstr ""
+
+#. ID 6, Page 2, Line 65, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おネエちゃん。\\.\\.\n"
+"ワタシねむくなってきちゃった。"
+msgstr ""
+
+#. ID 6, Page 2, Line 68, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そうね。\\.\\.今日は色々在ったから。"
+msgstr ""
+
+#. ID 6, Page 2, Line 70, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"早く寝て、\\.\\.きちんと休んで、\\.\\.\n"
+"また明日頑張ろうね。"
+msgstr ""
+
+#. ID 6, Page 2, Line 73, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"うん。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 80, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"少し早いけど、もう休んで良い？"
+msgstr ""
+
+#. ID 6, Page 2, Line 82, Pos (0,0)
+msgid ""
+"メイド：\n"
+"ええ。\\.\\.それでは寝室に御案内しますね。"
+msgstr ""
+
+#. ID 6, Page 2, Line 105, Pos (0,0)
+msgid ""
+"メイド：\n"
+"ふぅ…。\\|\n"
+"後片付けしなくちゃ…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 111, Pos (0,0)
+msgid ""
+"メイド：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 114, Pos (0,0)
+msgid ""
+"メイド：\n"
+"まだ居らしたのですか？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 119, Pos (0,0)
+msgid ""
+"メイド：\n"
+"何かご用でも？"
+msgstr ""
+
+#. ID 6, Page 2, Line 129, Pos (0,0)
+msgid ""
+"メイド：\n"
+"あの…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 131, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"名前。\\.\\.覚えてないのか？"
+msgstr ""
+
+#. ID 6, Page 2, Line 136, Pos (0,0)
+msgid ""
+"メイド：\n"
+"名前…？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 143, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"主人と六年の祝祭者の話だ。\\|\n"
+"主人が誰かの名前を聞いただろう？"
+msgstr ""
+
+#. ID 6, Page 2, Line 146, Pos (0,0)
+msgid ""
+"メイド：\n"
+"ああ…。\\|\n"
+"その事ですか…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 149, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"覚えてないのか、\\.\\.その\"彼女の\"名前を？"
+msgstr ""
+
+#. ID 6, Page 2, Line 154, Pos (0,0)
+msgid ""
+"メイド：\n"
+"それが…。\\|\n"
+"あの時は旦那様の事が心配で心配で…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 157, Pos (0,0)
+msgid ""
+"メイド：\n"
+"話の流れは良く覚えているのですが、\\.\\.\n"
+"その名前とか細かな部分は…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 160, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"他にその会話を聞いた者は？"
+msgstr ""
+
+#. ID 6, Page 2, Line 162, Pos (0,0)
+msgid ""
+"メイド：\n"
+"聞こえて来る声が小さかったものですから、\n"
+"一番近くに居た私以外は誰も…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 168, Pos (0,0)
+#. ID 6, Page 3, Line 12, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"何とか思い出せないか？\\|\n"
+"主人が言った、その名前を…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 171, Pos (0,0)
+#. ID 6, Page 3, Line 15, Pos (0,0)
+msgid ""
+"メイド：\n"
+"それが如何しても…。\\|\n"
+"ずっと胸のつかえに成っているのですが…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 179, Pos (0,0)
+msgid ""
+"メイド：\n"
+"申し訳御座いません。\\.\\.\n"
+"お力に成れなくて。"
+msgstr ""
+
+#. ID 6, Page 2, Line 190, Pos (0,0)
+#. ID 6, Page 3, Line 34, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"なあ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 192, Pos (0,0)
+#. ID 6, Page 3, Line 36, Pos (0,0)
+msgid ""
+"メイド：\n"
+"はい、\\.\\.何でしょう？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 197, Pos (0,0)
+#. ID 6, Page 3, Line 41, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"まさかとは思うが…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 207, Pos (0,0)
+#. ID 6, Page 3, Line 55, Pos (0,0)
+msgid ""
+"メイド：\n"
+"そうですよ…！\\.\\.\n"
+"確かにその名前でした…！"
+msgstr ""
+
+#. ID 6, Page 2, Line 213, Pos (0,0)
+#. ID 6, Page 3, Line 61, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 215, Pos (0,0)
+msgid ""
+"メイド：\n"
+"でも…\\.\\.何故その名前を？"
+msgstr ""
+
+#. ID 6, Page 2, Line 222, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"強いて言うなら、\n"
+"主人と俺と、背負った物が似ているという事だ。"
+msgstr ""
+
+#. ID 6, Page 2, Line 225, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"否寧ろ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 227, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"\"彼女\"との距離を考えるならば、\\.\\.\n"
+"俺の方が重いのかも知れん。"
+msgstr ""
+
+#. ID 6, Page 2, Line 233, Pos (0,0)
+msgid ""
+"メイド：\n"
+"\\S[2]貴方は…\\.\\.一体…？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 238, Pos (0,0)
+msgid ""
+"メイド：\n"
+"貴方も旦那様と同じ様に、\n"
+"六年の祝祭者に殺される事を…？"
+msgstr ""
+
+#. ID 6, Page 2, Line 241, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"まさか。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 2, Line 246, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"預かっている\"もの\"を返す。"
+msgstr ""
+
+#. ID 6, Page 2, Line 248, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"用事はそれだけだ。"
+msgstr ""
+
+#. ID 6, Page 2, Line 257, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"やはり消えてはいなかったか。"
+msgstr ""
+
+#. ID 6, Page 2, Line 259, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"それどころか、\n"
+"これ程に大掛かりな\"当て付け\"を用意して。"
+msgstr ""
+
+#. ID 6, Page 2, Line 265, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"確かに、\\.\\.予想の範疇では在った。"
+msgstr ""
+
+#. ID 6, Page 2, Line 267, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"お前達の息子が見せた暗い瞳が、\n"
+"それを厭と言う程に示していたからな。"
+msgstr ""
+
+#. ID 6, Page 2, Line 273, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"だが…\\|本当にそれで終わりなのか？"
+msgstr ""
+
+#. ID 6, Page 2, Line 275, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"そんな遠巻きの連中を焦がす為の炎なのか？"
+msgstr ""
+
+#. ID 6, Page 2, Line 277, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"そんな砂上の楼閣、\\.\\.刹那の癒しが、\\.\\.\n"
+"他ならぬお前達を満たすとでも言うのか？"
+msgstr ""
+
+#. ID 6, Page 2, Line 283, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"お前達は今、\\.\\.何を思っている…？"
+msgstr ""
+
+#. ID 6, Page 2, Line 285, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"あの\"贈り物\"を捨て置いて、\\.\\.\n"
+"この期に及んで彼女に何を捧げる…？"
+msgstr ""
+
+#. ID 6, Page 3, Line 23, Pos (0,0)
+msgid ""
+"メイド：\n"
+"申し訳御座いません。\n"
+"お力に成れなくて。"
+msgstr ""
+
+#. ID 6, Page 3, Line 47, Pos (0,0)
+msgid ""
+"ランサード：\n"
+"アイシャと言ったのか？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 3, Line 49, Pos (0,0)
+msgid ""
+"メイド：\n"
+"！！！\\|\\^"
+msgstr ""
+

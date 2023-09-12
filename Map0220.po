@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 15, Page 1, Line 6, Pos (26,43)
+#. ID 16, Page 1, Line 6, Pos (25,43)
+#. ID 17, Page 1, Line 6, Pos (27,43)
+msgid ""
+"レイク：\n"
+"無闇に外を出歩かない方がいいな…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 4, Pos (17,27)
+msgid ""
+"男性：\n"
+"此処は田舎だけれど、その分心が洗われる。\n"
+"エンヴィに入り浸って黒く成った奴には丁度良い。"
+msgstr ""
+
+#. ID 18, Page 1, Line 11, Pos (17,27)
+msgid ""
+"男性：\n"
+"壊れた空か…。"
+msgstr ""
+
+#. ID 18, Page 1, Line 13, Pos (17,27)
+msgid ""
+"男性：\n"
+"ま、どうせエンヴィの連中は\n"
+"気にも留めていないんだろうがな。"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (40,24)
+msgid ""
+"女戦士：\n"
+"知ってるかしら。この前この村にエンヴィのヤク中が\n"
+"やって来て、村人を殺し掛けたって事件。"
+msgstr ""
+
+#. ID 19, Page 1, Line 6, Pos (40,24)
+msgid ""
+"女戦士：\n"
+"幸い居合わせた冒険者がそいつを斬り殺して\n"
+"事無きを得たけれど、それ以来村の不安は高まる一方。"
+msgstr ""
+
+#. ID 19, Page 1, Line 9, Pos (40,24)
+msgid ""
+"女戦士：\n"
+"エンヴィ保安局も、村に数名の保安官を交代で\n"
+"駐在させる方向で話を進めてるみたい。"
+msgstr ""
+
+#. ID 19, Page 2, Line 3, Pos (40,24)
+msgid ""
+"女戦士：\n"
+"以前この村にエンヴィのヤク中がやって来て、\n"
+"大騒ぎになったけれど…。"
+msgstr ""
+
+#. ID 19, Page 2, Line 6, Pos (40,24)
+msgid ""
+"女戦士：\n"
+"今度はアレね。あの空の威容で気の触れた奴が\n"
+"この村にやって来るとか。"
+msgstr ""
+
+#. ID 20, Page 1, Line 3, Pos (15,7)
+msgid ""
+"老人：\n"
+"若い者はこの田舎に見切りを付け、\n"
+"華やかなエンヴィへと吸い寄せられて行く。"
+msgstr ""
+
+#. ID 20, Page 1, Line 6, Pos (15,7)
+msgid ""
+"老人：\n"
+"そして彼らは裏社会の格好のカモにされて、\n"
+"その幾許かは二度と戻っては来ない…。"
+msgstr ""
+
+#. ID 20, Page 1, Line 9, Pos (15,7)
+msgid ""
+"老人：\n"
+"元は世界の娯楽を一手に担う都市として、\n"
+"それはそれは歓迎されたものだというのに…。"
+msgstr ""
+
+#. ID 20, Page 1, Line 12, Pos (15,7)
+msgid ""
+"老人：\n"
+"今と成ってはウツボカズラ。甘い匂いで人を寄せて、\n"
+"全てを闇の中に呑み込んで行くだけだ。"
+msgstr ""
+
+#. ID 22, Page 1, Line 3, Pos (22,29)
+msgid ""
+"女の子：\n"
+"滝の近くの、高いところにのぼるのが好きなの。"
+msgstr ""
+
+#. ID 22, Page 1, Line 5, Pos (22,29)
+msgid ""
+"女の子：\n"
+"ピョンピョンするのが楽しいの。"
+msgstr ""
+
+#. ID 24, Page 1, Line 4, Pos (28,34)
+msgid ""
+"戦士：\n"
+"俺は、エンヴィからやってくる気違いどもを、\n"
+"この村に入れないように見張りをしているんだ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 7, Pos (28,34)
+msgid ""
+"戦士：\n"
+"あそこにずっと居るのは、どうも嫌でね。\n"
+"こうして静かな場所で自分の力を役立ててるのさ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 14, Pos (28,34)
+msgid ""
+"戦士：\n"
+"流石にあの空は、俺の腕じゃどうしようもないな。"
+msgstr ""
+
+#. ID 24, Page 1, Line 16, Pos (28,34)
+msgid ""
+"戦士：\n"
+"兎に角、あの空に気を狂わせた奴らから、\n"
+"この村を守り抜くしか道はなさそうだな…。"
+msgstr ""
+

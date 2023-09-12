@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 3, Pos (28,7)
+msgid ""
+"戦士：\n"
+"腕試しに相棒と二人で地下洞を往復してみたんだが、\n"
+"コイツはしんどいぜ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 6, Pos (28,7)
+msgid ""
+"戦士：\n"
+"特に帰りなんか岩石巨人＜ゴーレム＞に出くわして、\n"
+"必死で逃げて来たんだよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 9, Pos (28,7)
+msgid ""
+"戦士：\n"
+"あんたらも気を付けな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 3, Pos (29,11)
+msgid ""
+"魔術師：\n"
+"そう言えばこのラヴェンナ湖って、\n"
+"20年位前に物凄いブームに成ったんだよな。"
+msgstr ""
+
+#. ID 10, Page 1, Line 6, Pos (29,11)
+msgid ""
+"魔術師：\n"
+"特に若いカップルが押し寄せて、後々生まれた女の子に\n"
+"ラヴェンナなんて名前まで付けちまって。"
+msgstr ""
+
+#. ID 10, Page 1, Line 9, Pos (29,11)
+msgid ""
+"魔術師：\n"
+"実は俺の知り合いにもラヴェンナって娘が居てさ、\n"
+"案の定両親はこの湖でデートしたんだと。"
+msgstr ""
+
+#. ID 10, Page 1, Line 12, Pos (29,11)
+msgid ""
+"魔術師：\n"
+"しかし一時の流行で一生モンの名前を決めるのも\n"
+"如何かと思うけどな。"
+msgstr ""
+
+#. ID 11, Page 1, Line 4, Pos (41,12)
+msgid ""
+"男の子：\n"
+"ぼくたちラブラブなんだ。いいだろ～。"
+msgstr ""
+
+#. ID 11, Page 1, Line 11, Pos (41,12)
+#. ID 11, Page 1, Line 21, Pos (41,12)
+msgid ""
+"男の子：\n"
+"ぼくたちラブラブなんだ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 13, Pos (41,12)
+msgid ""
+"男の子：\n"
+"でもこんな山奥じゃ、いっしょに遊ぶことくらいしか\n"
+"ラブラブになれないよ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 23, Pos (41,12)
+msgid ""
+"男の子：\n"
+"愛は世界をすくうなんてバカなこと言うけれど、\n"
+"それならぼくたちの愛でとっくにへいわになってるよ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 31, Pos (41,12)
+msgid ""
+"男の子：\n"
+"こんな空じゃ、ラブラブなんて何回言っても、\n"
+"ぜんぜんふんいきでないよ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 4, Pos (42,12)
+msgid ""
+"女の子：\n"
+"わたしたちラブラブなのよ♪\n"
+"へへっ、いいでしょ～。"
+msgstr ""
+
+#. ID 12, Page 1, Line 12, Pos (42,12)
+#. ID 12, Page 1, Line 24, Pos (42,12)
+msgid ""
+"女の子：\n"
+"わたしたちラブラブなのよ♪"
+msgstr ""
+
+#. ID 12, Page 1, Line 14, Pos (42,12)
+msgid ""
+"女の子：\n"
+"最近、手をつないだり、キスしても満たされないの。\n"
+"心のどこかにスキマがあいてる感じなの。"
+msgstr ""
+
+#. ID 12, Page 1, Line 17, Pos (42,12)
+msgid ""
+"女の子：\n"
+"ねぇ、昼メロのような刺激的な愛って本当にないの？"
+msgstr ""
+
+#. ID 12, Page 1, Line 26, Pos (42,12)
+msgid ""
+"女の子：\n"
+"愛じゃ世界はすくえないなんて言うけれど、\n"
+"わたしはぜんぜんそうは思わないよ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 29, Pos (42,12)
+msgid ""
+"女の子：\n"
+"だってラブラブなのって、とてもうれしい事でしょ？\n"
+"それで世界がいっぱいなら、悲しみはなくなるよ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 37, Pos (42,12)
+msgid ""
+"女の子：\n"
+"さすがに…これじゃあ『わたしたちラブラブよ♪』\n"
+"なんて言えないよね。"
+msgstr ""
+
+#. ID 12, Page 1, Line 40, Pos (42,12)
+msgid ""
+"女の子：\n"
+"はやく元にもどれば、またラブラブになれるのにね。"
+msgstr ""
+

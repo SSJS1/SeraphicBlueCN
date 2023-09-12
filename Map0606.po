@@ -1,0 +1,364 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 26, Pos (9,8)
+#. ID 3, Page 1, Line 164, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"此処より北の山中に、\n"
+"ビエラという辺境の村が在ります。"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (9,8)
+#. ID 3, Page 1, Line 167, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"其処で貴女達は、\n"
+"彼女の心を開く\"鍵\"に出会うでしょう。"
+msgstr ""
+
+#. ID 3, Page 1, Line 32, Pos (9,8)
+msgid ""
+"レイク：\n"
+"分かった。\\.\n"
+"取り敢えず其処へ行けば良いんだな？"
+msgstr ""
+
+#. ID 3, Page 1, Line 65, Pos (9,8)
+msgid ""
+"レイク：\n"
+"ドームの外壁か…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 67, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"中には入れそうもないわね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 69, Pos (9,8)
+msgid ""
+"レイク：\n"
+"そうだな…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 74, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"この場所に何か重要な意味が在るのは、\n"
+"疑う余地も無いのだけれど。"
+msgstr ""
+
+#. ID 3, Page 1, Line 81, Pos (9,8)
+msgid ""
+"？？？：\n"
+"よく来て呉れました、\\.\\.セラフィックブルー。"
+msgstr ""
+
+#. ID 3, Page 1, Line 83, Pos (9,8)
+msgid ""
+"\\>レイク／ヴェーネ：\n"
+"！？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 88, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"今の声…。\\|ドームの中の方から…？"
+msgstr ""
+
+#. ID 3, Page 1, Line 102, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"貴女…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 104, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"事情は全て知っております。"
+msgstr ""
+
+#. ID 3, Page 1, Line 106, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"貴女がユアンの魂を宿し、\\.\\.\n"
+"セラフィックブルー双翼と成った事も全て。"
+msgstr ""
+
+#. ID 3, Page 1, Line 112, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"運命は、\"私達\"の予想を遥かに超えた\n"
+"迷走を見せているようです。"
+msgstr ""
+
+#. ID 3, Page 1, Line 115, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 120, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"そんな事よりも、\\.\\.此処は一体何？"
+msgstr ""
+
+#. ID 3, Page 1, Line 125, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"ベネディクタ･ティアーズ。\\.\\.\n"
+"その名の通り、ベネディクタの零した涙。"
+msgstr ""
+
+#. ID 3, Page 1, Line 128, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"\"星の慟哭\"の爆心地。"
+msgstr ""
+
+#. ID 3, Page 1, Line 130, Pos (9,8)
+msgid ""
+"レイク：\n"
+"星の慟哭？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 132, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"話が見えないわね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 137, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"もう間も無く、\n"
+"全ては明かされるでしょう。"
+msgstr ""
+
+#. ID 3, Page 1, Line 140, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"何れにせよ今は、\n"
+"このベネディクタ･ティアーズを滅さなくては。"
+msgstr ""
+
+#. ID 3, Page 1, Line 143, Pos (9,8)
+msgid ""
+"レイク：\n"
+"でも中には入れないんだぜ。\\.\\.\n"
+"手も足も出やしない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 146, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"ええ、\\.\\.今のままでは。"
+msgstr ""
+
+#. ID 3, Page 1, Line 148, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"方法が在るのね？"
+msgstr ""
+
+#. ID 3, Page 1, Line 154, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"この壁は、ベネディクタの閉ざされた心が作り出す物。"
+msgstr ""
+
+#. ID 3, Page 1, Line 156, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"そう、\\.\\.文字通りの心の壁。"
+msgstr ""
+
+#. ID 3, Page 1, Line 158, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"故にその心を開く事が出来れば、\n"
+"この中に入る事もまた出来るのです。"
+msgstr ""
+
+#. ID 3, Page 1, Line 173, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"心を開く…\\.\\.鍵…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 178, Pos (9,8)
+msgid ""
+"レイク：\n"
+"分かった。\\.\\.\n"
+"取り敢えず其処へ行けば良いんだな？"
+msgstr ""
+
+#. ID 3, Page 1, Line 181, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"そうです。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 183, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"\"彼\"もきっと、\\.\\.\n"
+"貴女達の来訪を待っている事でしょう。"
+msgstr ""
+
+#. ID 3, Page 1, Line 198, Pos (9,8)
+msgid ""
+"レイク：\n"
+"相変わらず核心を突かない奴だな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 203, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 210, Pos (9,8)
+msgid ""
+"レイク：\n"
+"兎に角、そのビエラって村に行ってみるか。"
+msgstr ""
+
+#. ID 3, Page 3, Line 47, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"鍵を…\\.\\.手に入れて来ましたね。"
+msgstr ""
+
+#. ID 3, Page 3, Line 49, Pos (9,8)
+msgid ""
+"レイク：\n"
+"ハウゼンのペンダントか。"
+msgstr ""
+
+#. ID 3, Page 3, Line 51, Pos (9,8)
+msgid ""
+"ヴェーネ：\n"
+"如何して彼が？"
+msgstr ""
+
+#. ID 3, Page 3, Line 53, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"彼は\"総て\"をその眼で見届けた、\n"
+"世界で唯一人の証人なのです。"
+msgstr ""
+
+#. ID 3, Page 3, Line 56, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"そう。\\.\\.彼の生涯は常にガイアの運命と共に。"
+msgstr ""
+
+#. ID 3, Page 3, Line 61, Pos (9,8)
+msgid ""
+"レイク：\n"
+"少しばかり姫様に御執心のボディガードかと\n"
+"思ってたんだが。"
+msgstr ""
+
+#. ID 3, Page 3, Line 64, Pos (9,8)
+msgid ""
+"レイク：\n"
+"とんだ大間違いだったようだな。"
+msgstr ""
+
+#. ID 3, Page 3, Line 66, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"彼の事も含め、\n"
+"全てはこの中で明かされるでしょう。"
+msgstr ""
+
+#. ID 3, Page 3, Line 72, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"それでは、\\.\\.\"彼女\"の心を開きます。"
+msgstr ""
+
+#. ID 3, Page 3, Line 80, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"分かる、\\.\\.ベネディクタ？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 82, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"貴女が大好きだったハウゼン。\\|\n"
+"その彼のペンダントが此処に。"
+msgstr ""
+
+#. ID 3, Page 3, Line 85, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"そう…。\\|思い出のペンダントよ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 87, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"貴女の両親がハウゼンを作った時、\n"
+"守衛の証として与えたペンダント。"
+msgstr ""
+
+#. ID 3, Page 3, Line 90, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"彼にまつわる数多の思い出の中に、\n"
+"常にその位置を占めているペンダント。"
+msgstr ""
+
+#. ID 3, Page 3, Line 93, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"思い出して、\\.\\.ベネディクタ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 95, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"これを介して…。\\|\n"
+"これを鍵として…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 98, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"その温もりを…。\\|\n"
+"その開かれた心の欠片を…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 107, Pos (9,8)
+msgid ""
+"レイク／ヴェーネ：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 112, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"さあ、\\.\\.行きますよ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 114, Pos (9,8)
+msgid ""
+"キャサリン：\n"
+"壁の向こう…。\\|\n"
+"蒼き絶望の街へ…。\\|\\.\\.\\^"
+msgstr ""
+

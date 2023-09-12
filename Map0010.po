@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 18, Page 1, Line 285, Pos (0,9)
+msgid ""
+"\\>\\C[10]【ラストバトルメンバー編成】\\C[0]\n"
+"死天使の卵とリフューズ･セラフィックブルーに対し、\n"
+"それぞれ４人パーティを編成してください。\n"
+"(但しヴェーネは固定)"
+msgstr ""
+
+#. ID 18, Page 1, Line 291, Pos (0,9)
+msgid ""
+"\\>\\C[10]【ラストバトルメンバー編成】\\C[0]\n"
+"死天使の卵とリフューズ･セラフィックブルー\n"
+"(但しヴェーネは固定)に対し、それぞれ４人パーティを\n"
+"編成してください。"
+msgstr ""
+
+#. ID 21, Page 1, Line 562, Pos (0,5)
+msgid ""
+"※戦闘メンバーにランサードが参加していません。\n"
+"　このまま戦う事も出来ますが、宜しいですか？"
+msgstr ""
+
+#. ID 21, Page 1, Line 566, Pos (0,5)
+msgid ""
+"※ランサードが固定の戦闘メンバーになっていません。\n"
+"　このまま戦う事も出来ますが、宜しいですか？"
+msgstr ""
+
+#. ID 21, Page 1, Line 570, Pos (0,5)
+#. Choice (2 options)
+#. ID 21, Page 1, Line 590, Pos (0,5)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 624, Pos (0,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>ＯＫ\n"
+"\\>やり直す"
+msgstr ""
+
+#. ID 21, Page 1, Line 589, Pos (0,5)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 1, Line 623, Pos (0,5)
+#. Contains choice at line 2 (2 options)
+msgid "※編成を終了します。"
+msgstr ""
+

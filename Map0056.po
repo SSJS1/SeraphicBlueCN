@@ -1,0 +1,635 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 27, Pos (0,0)
+msgid ""
+"レイク：\n"
+"よう。\\.\\.殺しに来て遣ったぞ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 33, Pos (0,0)
+msgid ""
+"イーヴル：\n"
+"\\S[2]グルルル…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 38, Pos (0,0)
+msgid ""
+"レイク：\n"
+"気合充分か。\\.\\.それでこそ殺り甲斐が在る。"
+msgstr ""
+
+#. ID 3, Page 1, Line 43, Pos (0,0)
+msgid ""
+"レイク：\n"
+"さあ！ \\.\\.始めようぜッ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 21, Pos (0,0)
+#. ID 3, Page 2, Line 46, Pos (0,0)
+#. ID 3, Page 2, Line 117, Pos (0,0)
+#. ID 3, Page 2, Line 136, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 26, Pos (0,0)
+msgid ""
+"レイク：\n"
+"まずったな…。\\|\n"
+"勢い余って止めを刺しちまった…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 32, Pos (0,0)
+msgid ""
+"レイク：\n"
+"仕方無い。\\.\\.撤収だ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 41, Pos (0,0)
+msgid ""
+"？？？：\n"
+"\\S[3]待ちなよ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 53, Pos (0,0)
+msgid ""
+"レイク：\n"
+"誰だ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 71, Pos (0,0)
+msgid ""
+"\n"
+"少年：\n"
+"\\S[2]やあレイク。\\.\\.初めまして。"
+msgstr ""
+
+#. ID 3, Page 2, Line 75, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"如何やら…\\|普通のガキとは違うようだな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"何故俺の名前を知っている？"
+msgstr ""
+
+#. ID 3, Page 2, Line 82, Pos (0,0)
+msgid ""
+"\n"
+"少年：\n"
+"キミは少し怖いね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 85, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"そんな事は如何でも良い。"
+msgstr ""
+
+#. ID 3, Page 2, Line 88, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"何故俺の名を知っている？"
+msgstr ""
+
+#. ID 3, Page 2, Line 91, Pos (0,0)
+msgid ""
+"\n"
+"少年：\n"
+"そりゃまあ…。\\|\n"
+"キミがボクにとって非常に重要な存在だから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 96, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"重要だと…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 99, Pos (0,0)
+msgid ""
+"\n"
+"少年：\n"
+"別に今は気にしなくて良いよ。\\|\n"
+"事が進めばその内分かるから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 104, Pos (0,0)
+msgid ""
+"\n"
+"少年：\n"
+"そうそう。\\.\\.自己紹介しないとね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 107, Pos (0,0)
+msgid ""
+"\n"
+"少年：\n"
+"ボクはエンデ。\\|宜しく。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 119, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そう怖い顔するなよ。\\.\\.\n"
+"ボクとキミは思ったより近いんだから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 122, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"互いを結ぶ手軽な手段。\\.\\.共通の\"趣味\"。"
+msgstr ""
+
+#. ID 3, Page 2, Line 124, Pos (0,0)
+msgid ""
+"レイク：\n"
+"趣味…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 126, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"イーヴル殺しさ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 131, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"楽しいよな？ \\.\\.生命を殺す事って。"
+msgstr ""
+
+#. ID 3, Page 2, Line 141, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"でも、キミはもっと殺気を成熟させるべきだね。\n"
+"今のは所詮二流の殺気。"
+msgstr ""
+
+#. ID 3, Page 2, Line 144, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"傍目に見て取れる、見せたがりの鷹の爪。\\|\n"
+"珍しくもない反逆のジュヴナイル。"
+msgstr ""
+
+#. ID 3, Page 2, Line 147, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"だけど能ある鷹は爪を隠す。\\.\\.それが一流さ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 152, Pos (0,0)
+msgid ""
+"レイク：\n"
+"色々と理屈こねやがって。\\.\\.\n"
+"可愛くないガキだな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 155, Pos (0,0)
+msgid ""
+"レイク：\n"
+"好い加減にしないとブッ殺すぞ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 160, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 165, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"格の違いを見極められない辺りも、\n"
+"やっぱ二流かな。"
+msgstr ""
+
+#. ID 3, Page 2, Line 179, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]………ッ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 185, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]てめえ…！ \\|一体何者…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 187, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"言っただろ？ \\|ボクはエンデ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 189, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"キミとはもう少し気が合うかと\n"
+"期待してたんだけどね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 192, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ま、\\.\\.元々殺し合う巡り合わせ。\\.\\.\n"
+"仕方無いと言えば仕方無いんだけどさ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 198, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[5]ザンネンだよ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 241, Pos (0,0)
+msgid ""
+"レイク：\n"
+"………ッ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 243, Pos (0,0)
+msgid ""
+"レイク：\n"
+"此奴は…!!\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 21, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[3]駄目だッ…！ \\|話に成らねえ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 26, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"やっぱ流石に無理だったみたい。\\|\n"
+"拍子抜けの気もするけど。"
+msgstr ""
+
+#. ID 3, Page 3, Line 29, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[2]くそッ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 34, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"それじゃあ、\\.\\.死んで貰おうかな。"
+msgstr ""
+
+#. ID 3, Page 3, Line 36, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"翼が羽ばたくのを阻むんだったら、\n"
+"羽を毟ったりカゴを作ったりなんて面倒臭い。"
+msgstr ""
+
+#. ID 3, Page 3, Line 39, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"その主をヤっちまうのが一番。"
+msgstr ""
+
+#. ID 3, Page 3, Line 44, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[5]サヨウナラ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 50, Pos (0,0)
+msgid ""
+"\n"
+"              待ちなさい！ \\.\\.エンデ！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 64, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"なッ…！ \\|ヴェーネ…!?\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 75, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"レイク！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"誰だか知らないが早く逃げろ！\\.\\.\n"
+"女一人で手に負える相手じゃない！"
+msgstr ""
+
+#. ID 3, Page 3, Line 82, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"駄目よ！ \\.\\.貴方を見殺しになんて！"
+msgstr ""
+
+#. ID 3, Page 3, Line 85, Pos (0,0)
+msgid ""
+"\n"
+"レイク：\n"
+"見殺しも何も在るか！\\|\n"
+"このままじゃ共倒れだ！"
+msgstr ""
+
+#. ID 3, Page 3, Line 90, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"大丈夫…！ \\|勝算は有るわ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 100, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"勝算だと!?\\.\\.\n"
+"ブラフも大概にしとけよ！"
+msgstr ""
+
+#. ID 3, Page 3, Line 103, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"たった一人で何が出来るってんだ！"
+msgstr ""
+
+#. ID 3, Page 3, Line 108, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"イルムガルト！\\.\\.\n"
+"レイクと一緒にヤっちまいな！"
+msgstr ""
+
+#. ID 3, Page 3, Line 117, Pos (0,0)
+#. ID 3, Page 3, Line 218, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 122, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]レイク。\\|後ろに下がってて。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 128, Pos (0,0)
+msgid ""
+"レイク：\n"
+"あ、\\.\\.ああ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 149, Pos (0,0)
+msgid ""
+"レイク：\n"
+"なッ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 154, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[3]何だよ…\\|これ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 159, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]セラフィックトランス…!?\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 164, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"テメー正気かよ…！"
+msgstr ""
+
+#. ID 3, Page 3, Line 166, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"そんなモノ使ったら、\n"
+"自分もタダじゃ済まないんだぜ…？"
+msgstr ""
+
+#. ID 3, Page 3, Line 169, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そのようね。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 171, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも此処でお前を退けるには、\n"
+"これしか無いの。"
+msgstr ""
+
+#. ID 3, Page 3, Line 174, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"チッ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 176, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"覚悟しなさい！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 178, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"やめろ\\S[2]ーーーォォォォォッ!!\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 193, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[20]う…\\.\\.ぐッ…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 195, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[5]畜生ッ…！ \\|派手にヤりやがって…！\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 200, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[5]今回は…\\.\\.このまま退いて…\\.\\.やるよ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 205, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[5]また…\\.\\.会おうぜ…。\\|\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 13, Pos (0,1)
+#. ID 27, Page 1, Line 25, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[20]………。\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 17, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[2]白い翼…？\\|\\|\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 21, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：\\S[2]天使…？\\|\\|\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 29, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：………ッ！\\|\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 33, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：おい！ \\.\\.大丈夫か！\\|\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 37, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[20]………。\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 42, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：一応…\\|呼吸は在るか…。"
+msgstr ""
+
+#. ID 27, Page 1, Line 46, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：此処から一番近い医者…。"
+msgstr ""
+
+#. ID 27, Page 1, Line 51, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：一応…\\|呼吸はあるか…。"
+msgstr ""
+
+#. ID 27, Page 1, Line 55, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：ここから一番近い医者…。"
+msgstr ""
+
+#. ID 27, Page 1, Line 61, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：待ってろよ。\\.\\.今医者に連れて行くからな。"
+msgstr ""
+
+#. ID 27, Page 1, Line 64, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：大丈夫。\\.\\.ツラは汚いが腕前は超一流だ。"
+msgstr ""
+
+#. ID 27, Page 1, Line 68, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"レイク：さあ、\\.\\.行こうぜ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 130, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"黒衣の少女：\\S[2]聞こえる…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 134, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"黒衣の女性：\\S[2]ええ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 27, Page 1, Line 137, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"黒衣の女性：\\S[2]まだ小さいけれど、\\.\\.確かに…。"
+msgstr ""
+
+#. ID 27, Page 1, Line 141, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"黒衣の少女：\\S[2]翼の胎動…。\\|幼生の静かな意志…。"
+msgstr ""
+
+#. ID 27, Page 1, Line 145, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"黒衣の女性：\\S[2]まだ閉じられたその中で、\\.\\.\n"
+"少しずつ動き出す…。"
+msgstr ""
+
+#. ID 27, Page 1, Line 150, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"黒衣の少女：\\S[2]そして何時か、\\.\\.あの呪縛を…。"
+msgstr ""
+
+#. ID 27, Page 1, Line 154, Pos (0,1)
+msgid ""
+"\n"
+"\n"
+"黒衣の女性：\\S[2]全てを青空に解き放つ、\\.\\.\n"
+"その真なる始まりに向けて…。"
+msgstr ""
+

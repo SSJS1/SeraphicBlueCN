@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 5, Pos (0,0)
+#. ID 8, Page 1, Line 4, Pos (4,5)
+msgid ""
+"メンチュン･ターロン\\|\n"
+"\\>       \\<黒き翼に奪われし儚き生命\\|\n"
+"\\>                  \\<白き翼の天使と成りて\\|\n"
+"\\>                            \\<永遠の安らぎを得ん事を"
+msgstr ""
+
+#. ID 4, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"メンチュン。\\|見て呉れてる？"
+msgstr ""
+
+#. ID 4, Page 1, Line 14, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"あれから七年。\\|\n"
+"私は修行を重ねてずっと強く成った。"
+msgstr ""
+
+#. ID 4, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"またこれから一年、\\.\\.見守っていて。"
+msgstr ""
+
+#. ID 4, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"貴女の為なら、\\.\\.私は何処までも強く成るから。"
+msgstr ""
+
+#. ID 4, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"さあ、\\.\\.早く修行に戻らないと。"
+msgstr ""
+
+#. ID 4, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"また来るね、\\.\\.メンチュン。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 60, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"………ッ！\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 71, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"\\S[2]気の所為…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 75, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"\\S[2]ほんの刹那…。\\|\n"
+"激しい気の乱れが在ったような…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 80, Pos (0,0)
+msgid ""
+"\n"
+"ヤンシー：\n"
+"\\S[2]三条峰の方から…。"
+msgstr ""
+
+#. ID 4, Page 3, Line 26, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"メンチュン。\\|今日は大事な話が在るの。"
+msgstr ""
+
+#. ID 4, Page 3, Line 31, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"私、もう直ぐ此処を離れるわ。"
+msgstr ""
+
+#. ID 4, Page 3, Line 33, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ドリスがアカデミーへの復学を決意して、\n"
+"私もドリスと一緒に王都に住む事に成って。"
+msgstr ""
+
+#. ID 4, Page 3, Line 36, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"今はまだ寄る辺が必要だと、向こうの関係者、\n"
+"学長さんやカウンセラーの人と話し合っての結果よ。"
+msgstr ""
+
+#. ID 4, Page 3, Line 42, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"何時戻って来るかは分からない。"
+msgstr ""
+
+#. ID 4, Page 3, Line 44, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"少なくとも現在の教育課程を終えるまでは\n"
+"一緒に生活する事が決まっているし…。"
+msgstr ""
+
+#. ID 4, Page 3, Line 47, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"その先の事も…\\|総て不確かだから。"
+msgstr ""
+
+#. ID 4, Page 3, Line 53, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"貴女は…。\\|私を見送って呉れるのかしら…？"
+msgstr ""
+
+#. ID 4, Page 3, Line 55, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"いってらっしゃいと…。\\|\n"
+"温かい気持ちを込めて…。"
+msgstr ""
+
+#. ID 4, Page 3, Line 58, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"貴女を独り、\\.\\.置き去りにする私を…。"
+msgstr ""
+
+#. ID 4, Page 3, Line 66, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"ダイジョウブだよ、\\.\\.おネエちゃん。"
+msgstr ""
+
+#. ID 4, Page 3, Line 68, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"おネエちゃん、\\.\\.いつも言ってた。\\|\n"
+"オシショウさまのオシエだって。"
+msgstr ""
+
+#. ID 4, Page 3, Line 74, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"そうね…。\\|また忘れる所だったわ…。"
+msgstr ""
+
+#. ID 4, Page 3, Line 81, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"死した者の最大の不幸は、\\.\\.\n"
+"生きた者を縛り付ける鎖と成る事なり。"
+msgstr ""
+
+#. ID 4, Page 3, Line 84, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"ならば魂は天に。\\|人は果てし無き地平に。"
+msgstr ""
+
+#. ID 4, Page 3, Line 86, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"共に歩けよ。\\|共に生きよ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 3, Line 91, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"メンチュン。\\|行って来るわね。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 3, Line 98, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"行こうか。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 3, Line 100, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"うん。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 3, Line 102, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"一緒に頑張ろうね、\\.\\.ドリス。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 3, Line 104, Pos (0,0)
+msgid ""
+"ドリス：\n"
+"そうだね。\\.\\.おネエちゃん。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (12,13)
+msgid ""
+"老婆：\n"
+"この街にモンクがおって良かったよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 5, Pos (12,13)
+msgid ""
+"老婆：\n"
+"皆がイーヴルを倒して呉れなかったら、\n"
+"きっと十字架の数はこんなもんじゃ済まなかったわ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 8, Pos (12,13)
+msgid ""
+"老婆：\n"
+"まっこと、力在っての日々の暮らしさ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (9,3)
+#. ID 10, Page 1, Line 4, Pos (10,3)
+msgid ""
+"\n"
+"\\>         イーヴル襲撃事件犠牲者慰霊墓地\n"
+"\\>                                            2815年"
+msgstr ""
+

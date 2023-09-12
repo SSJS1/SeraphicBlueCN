@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 4, Pos (5,13)
+msgid ""
+"ランサード：\n"
+"負ける訳には行かん…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 10, Pos (5,13)
+msgid ""
+"ランサード：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 13, Pos (0,0)
+#. ID 13, Page 1, Line 85, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"私達も行くわよ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"目的地は？"
+msgstr ""
+
+#. ID 13, Page 1, Line 17, Pos (0,0)
+#. ID 13, Page 1, Line 89, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"このラージュの最上層。\n"
+"鉄槌の制御部よ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"先導するわ。\\.付いて来て。"
+msgstr ""
+
+#. ID 13, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"フョードルは\n"
+"此処でフェジテ軍の進入を支援して。"
+msgstr ""
+
+#. ID 13, Page 1, Line 36, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"ラージュの火力が予想以上に厄介みたいだから、\n"
+"同時に火器管制システムへの干渉を。"
+msgstr ""
+
+#. ID 13, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"出来る？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 41, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ソフトウェアの方は余り手を加えてないが、\n"
+"開発主任として一通りの事は知ってる。"
+msgstr ""
+
+#. ID 13, Page 1, Line 44, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"ハードウェアモジュールに重点を置いて、\n"
+"やれるだけやってみよう。"
+msgstr ""
+
+#. ID 13, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"頼んだわよ。\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"貴方の活躍次第で、フェジテ軍の進退が決するわ。"
+msgstr ""
+
+#. ID 13, Page 1, Line 51, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"おおッ…！\\.\\.\n"
+"何かそう言われるとアツいぜッ…！"
+msgstr ""
+
+#. ID 13, Page 1, Line 58, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"よぅし！ \\.\\.見てろゲオルク！\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 60, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"メチャクチャにしてやるぜ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"単純且つ騒乱に勇む男＜ジュヴナイル＞…。\n"
+"ハイディの言った通りね…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"しかしこれだけ知っておきながら、\n"
+"遠く離れた道しか歩けないとは…。"
+msgstr ""
+
+#. ID 13, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"まあ、\\.\\.今云々する事でもないか。"
+msgstr ""
+
+#. ID 13, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ヤンシー：\n"
+"目的地は？\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 92, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"間も無く修理が完了して再起動する筈。\n"
+"今度撃たれたら確実にターゲットに命中する。"
+msgstr ""
+
+#. ID 13, Page 1, Line 95, Pos (0,0)
+msgid ""
+"ミネルヴァ：\n"
+"止めないと…！\\|\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 97, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"だからゲオルクより先に此奴を潰す。"
+msgstr ""
+
+#. ID 13, Page 1, Line 99, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"先導するわ。\\.\\.付いて来て。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 6, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"如何したのドリス、\\.\\.こんな所で？"
+msgstr ""
+
+#. ID 17, Page 1, Line 8, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 10, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"難しい顔しちゃって。\\.\\.\n"
+"折角の可愛い顔なのに。"
+msgstr ""
+
+#. ID 17, Page 1, Line 13, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"考え事？\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 18, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"\\S[2]ヴェーネ…\\|おネエちゃん…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 23, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 30, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"そうね…。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 32, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"ユアンが死んで。\\|レイクが死んで…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 34, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"昨日今日で知り合った私でさえも、\n"
+"その身上の不憫さは十全に理解出来る。"
+msgstr ""
+
+#. ID 17, Page 1, Line 37, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"まして彼女を良く知り、良く慕う貴女なら…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 42, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"おんなじ眼をしてる…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 49, Pos (0,2)
+msgid ""
+"ヤンシー：\n"
+"同じ、\\.\\.眼…？\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 51, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"うん…。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 1, Line 53, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"いまのおネエちゃん、\\.\\.おんなじ眼をしてるの…。"
+msgstr ""
+
+#. ID 17, Page 1, Line 55, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"アカデミーに居たトキ…。\\|\\|\\^"
+msgstr ""
+
+#. ID 17, Page 2, Line 6, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"あのトキのおネエちゃんは、\\.\\.\n"
+"とってもコワかった…。"
+msgstr ""
+
+#. ID 17, Page 2, Line 9, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"でも…\\|すごくカナしそうだった…。"
+msgstr ""
+
+#. ID 17, Page 2, Line 14, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"だから…\\|やっぱりコワくなかった…。"
+msgstr ""
+
+#. ID 17, Page 2, Line 27, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"おネエちゃん、\\.\\.泣いてるの？"
+msgstr ""
+
+#. ID 17, Page 2, Line 29, Pos (0,2)
+msgid ""
+"ヴェーネ：\n"
+"何故？\\|\\^"
+msgstr ""
+
+#. ID 17, Page 2, Line 31, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"カオがビショビショだから。"
+msgstr ""
+
+#. ID 17, Page 2, Line 33, Pos (0,2)
+msgid ""
+"ヴェーネ：\n"
+"フフッ、馬鹿ね…。\\|\n"
+"これは雨が降ってるから。"
+msgstr ""
+
+#. ID 17, Page 2, Line 36, Pos (0,2)
+msgid ""
+"ヴェーネ：\n"
+"そんな事言ったら、\n"
+"ドリスだって大泣きしてるわよ？"
+msgstr ""
+
+#. ID 17, Page 2, Line 39, Pos (0,2)
+msgid ""
+"ドリス：\n"
+"それじゃ、ふたりでオオナキだね。"
+msgstr ""
+
+#. ID 17, Page 2, Line 42, Pos (0,2)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]そうね…。\\|\\^"
+msgstr ""
+
+#. ID 17, Page 2, Line 45, Pos (0,2)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]帰りましょう。\\|\n"
+"二人で一緒に大泣きしながら。\\|\\|\\^"
+msgstr ""
+

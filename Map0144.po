@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 4, Pos (16,3)
+msgid ""
+"女性：\n"
+"いらっしゃいませ！\\.\\.\n"
+"一泊\\_\\V[4801]\\_ディアです。"
+msgstr ""
+
+#. ID 4, Page 1, Line 10, Pos (16,3)
+msgid ""
+"女性：\n"
+"どうぞごゆっくり！"
+msgstr ""
+
+#. ID 4, Page 1, Line 18, Pos (16,3)
+#. ID 4, Page 1, Line 24, Pos (16,3)
+msgid ""
+"女性：\n"
+"またの御越しを御待ちしてます！"
+msgstr ""
+
+#. ID 4, Page 1, Line 28, Pos (16,3)
+msgid ""
+"女性：\n"
+"夜になると、ラヴェンナ湖に月光が反射して、\n"
+"より神秘的な光景が望めますよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (7,7)
+msgid ""
+"男性：\n"
+"ガキの頃に観た事があるラヴェンナ湖を、\n"
+"十数年振りに観て来たところさ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (7,7)
+msgid ""
+"男性：\n"
+"昔見たラヴェンナ湖は本当に綺麗で、見ていると\n"
+"何だか生き生きとした力が芽生えて来たのを憶えてる。"
+msgstr ""
+
+#. ID 5, Page 1, Line 9, Pos (7,7)
+msgid ""
+"男性：\n"
+"でももうあの頃とは違ってしまったんだな。\n"
+"綺麗は綺麗だけど、何て言うか湖が弱々しい感じでさ、\n"
+"見てても寂しい気持ちになるんだよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 13, Pos (7,7)
+msgid ""
+"男性：\n"
+"勢いの有るものはいずれ衰えるって言うけど、\n"
+"衰えたものを見てると遣り切れないぜ。"
+msgstr ""
+

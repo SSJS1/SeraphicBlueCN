@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (10,5)
+msgid ""
+"女剣士：\n"
+"この街は鬱憤晴らしに丁度良いわ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 5, Pos (10,5)
+msgid ""
+"女剣士：\n"
+"レイプ目当てで襲って来るゴロツキ共を端から\n"
+"叩き潰してやるのよ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 8, Pos (10,5)
+msgid ""
+"女剣士：\n"
+"女に負けてプライドを\n"
+"ズタズタにされた奴らの顔と来たら、もう最高ね。"
+msgstr ""
+
+#. ID 8, Page 1, Line 3, Pos (7,4)
+msgid ""
+"\n"
+"            ケイオス自殺同好会ＮＥＷＳ"
+msgstr ""
+
+#. ID 8, Page 1, Line 5, Pos (7,4)
+msgid ""
+"其処の君ッ！\n"
+"こんな世界に生きてても良い事無いぜッ！"
+msgstr ""
+
+#. ID 8, Page 1, Line 7, Pos (7,4)
+msgid ""
+"今日が不幸な奴は明日も不幸ッ！\n"
+"今日がハッピーな奴も明日はきっと不幸ッ！\n"
+"生きる意味なんざありゃしねえッ！\n"
+"だったら皆で自殺しようぜッ！"
+msgstr ""
+
+#. ID 8, Page 1, Line 12, Pos (7,4)
+msgid ""
+"Invitation!\n"
+"・マリバンドホープ身投げツアー\n"
+"・レンスドック雪原凍死ピクニック"
+msgstr ""
+
+#. ID 8, Page 1, Line 15, Pos (7,4)
+msgid ""
+"Coming Soon!\n"
+"・エルナ山地首吊りハイキング\n"
+"・アクアマリン入水クルージング\n"
+"・オーバードウズ･パーティ"
+msgstr ""
+
+#. ID 8, Page 1, Line 21, Pos (7,4)
+msgid ""
+"Invitation!\n"
+"・エルナ山地首吊りハイキング"
+msgstr ""
+
+#. ID 8, Page 1, Line 23, Pos (7,4)
+msgid ""
+"Coming Soon!\n"
+"・アクアマリン入水クルージング\n"
+"・オーバードウズ･パーティ"
+msgstr ""
+
+#. ID 10, Page 1, Line 4, Pos (1,10)
+msgid ""
+"ゴロツキ：\n"
+"おいアンタ、ここらじゃ見掛けねえ顔だな？"
+msgstr ""
+
+#. ID 10, Page 1, Line 6, Pos (1,10)
+msgid ""
+"ゴロツキ：\n"
+"ちょいとカネ貸せやー！\\|\\.\\.\\^"
+msgstr ""
+

@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 3, Pos (6,11)
+msgid ""
+"海の男：\n"
+"この街は余所とは一風違った構造をしてる。\n"
+"何たって海上都市だからな。"
+msgstr ""
+
+#. ID 4, Page 1, Line 6, Pos (6,11)
+msgid ""
+"海の男：\n"
+"例えば此処に在るエレベーター。\n"
+"此奴を使って、上の市街地に移動するのさ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (33,7)
+#. ID 5, Page 3, Line 3, Pos (33,7)
+msgid ""
+"船乗り：\n"
+"此処は東部大陸港行きの船着場だ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 3, Pos (33,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"船乗り：\n"
+"東部大陸港行きの船だが、乗るかね？"
+msgstr ""
+
+#. ID 5, Page 2, Line 5, Pos (33,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+

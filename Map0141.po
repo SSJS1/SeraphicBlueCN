@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 4, Pos (9,2)
+msgid ""
+"\n"
+"この空に終焉は在り。汝はそれに臨む者なり。"
+msgstr ""
+
+#. ID 5, Page 1, Line 28, Pos (9,2)
+msgid ""
+"\n"
+"汝、終焉に臨みて尚、それを打ち消す者なり。"
+msgstr ""
+
+#. ID 5, Page 1, Line 30, Pos (9,2)
+#. ID 27, Page 1, Line 16, Pos (9,44)
+msgid ""
+"\n"
+"それは子午線を更なる天上に征く者である。"
+msgstr ""
+
+#. ID 27, Page 1, Line 4, Pos (9,44)
+msgid ""
+"此処は遥か終焉を眺むる子午線。\n"
+"此処に踏み入る汝は、その終焉に身を委ねる者か、\n"
+"それともその終焉の先を行く者か。"
+msgstr ""
+
+#. ID 27, Page 1, Line 7, Pos (9,44)
+msgid ""
+"\n"
+"道の先に在るは審判の者。\n"
+"終焉を差し出し、汝の魂の行方を問う。"
+msgstr ""
+
+#. ID 27, Page 1, Line 10, Pos (9,44)
+msgid ""
+"\n"
+"逝かんとする者は受け入れるべし。\n"
+"汝の魂、この終の空と共に救済の虚空とならん。"
+msgstr ""
+
+#. ID 27, Page 1, Line 13, Pos (9,44)
+msgid ""
+"征かんとする者は拒絶すべし。\n"
+"臨んだ終焉を前に、断固たる拒絶を示し、\n"
+"その終焉を偽りとして打ち消すべし。"
+msgstr ""
+

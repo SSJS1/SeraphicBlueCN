@@ -1,0 +1,1668 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 6, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"紫髪の女性：面白い事に成ったわね、オーファ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 9, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：止めて呉れないかしら、\\.\\.その呼び方。"
+msgstr ""
+
+#. ID 3, Page 1, Line 12, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"紫髪の女性：気に入らない？\\|\n"
+"折角付けてあげたニックネームなのに。"
+msgstr ""
+
+#. ID 3, Page 1, Line 16, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：物扱いを受けてる気分よ。\\|\n"
+"まるでジークベルトと居る様な。"
+msgstr ""
+
+#. ID 3, Page 1, Line 21, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"紫髪の女性：フッ…。\\|物扱いか…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 24, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"紫髪の女性：所詮はそれが現実なのだけれど。"
+msgstr ""
+
+#. ID 3, Page 1, Line 28, Pos (0,0)
+#. ID 3, Page 2, Line 6, Pos (0,0)
+#. ID 3, Page 2, Line 61, Pos (0,0)
+#. ID 3, Page 2, Line 99, Pos (0,0)
+#. ID 3, Page 3, Line 11, Pos (0,0)
+#. ID 3, Page 3, Line 25, Pos (0,0)
+#. ID 3, Page 3, Line 49, Pos (0,0)
+#. ID 3, Page 3, Line 101, Pos (0,0)
+#. ID 3, Page 4, Line 92, Pos (0,0)
+#. ID 3, Page 5, Line 20, Pos (0,0)
+#. ID 3, Page 5, Line 90, Pos (0,0)
+#. ID 3, Page 7, Line 32, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 33, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：それより貴方こそ。\\|\n"
+"そんな悠長に構えてて良いのかしら？"
+msgstr ""
+
+#. ID 3, Page 1, Line 37, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：ねえ、\\.\\.エル。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 41, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル(紫髪の女性)：\"分断された\"…\\|と言いたい訳？"
+msgstr ""
+
+#. ID 3, Page 1, Line 44, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：違うかしら？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 48, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：何を言うかと思えば。\\|馬鹿馬鹿しい。"
+msgstr ""
+
+#. ID 3, Page 1, Line 51, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：そんな表層の記憶云々で如何にか成る程、\n"
+"因果というのは脆弱ではないわ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 55, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：まあ、\\.\\.百歩譲って\"源泉\"の弱体化とでも。"
+msgstr ""
+
+#. ID 3, Page 1, Line 60, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：それにしても、さっきの励ましの言葉。\\|\n"
+"もう呆れて物も言えないわね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 64, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：あの程度で\"奴\"の呪縛が破れるとでも？"
+msgstr ""
+
+#. ID 3, Page 1, Line 67, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：そんな心算は無いわ。\\|\n"
+"そんな一朝一夕になど。"
+msgstr ""
+
+#. ID 3, Page 1, Line 71, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：でも、\\.\\.その準備段階として。"
+msgstr ""
+
+#. ID 3, Page 1, Line 75, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：無駄な事を。\\|今さっき言った筈。"
+msgstr ""
+
+#. ID 3, Page 1, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：所詮は表層の記憶云々。\\|\n"
+"眼前の闇を余所に退けたに過ぎない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 82, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\"塞翁が馬\"だか、\\.\\.\"怪我の功名\"だか、\\.\\.\n"
+"この機会を有効利用する心算みたいだけれど…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 86, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：予めの欠損は復活しないのよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 89, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：ならば新生する事は？"
+msgstr ""
+
+#. ID 3, Page 1, Line 92, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：人には、\\.\\.その力が在る筈。"
+msgstr ""
+
+#. ID 3, Page 1, Line 96, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：確かに…。\\|それは在るわね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 99, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\\S[2]ヴェーネが、\\.\\.人間で在ればの話だけど。"
+msgstr ""
+
+#. ID 3, Page 1, Line 103, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：\\S[2]ええ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 106, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：\\S[2]彼女は、\\.\\.\"人間\"よ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 110, Pos (0,0)
+#. ID 3, Page 3, Line 85, Pos (0,0)
+#. ID 3, Page 6, Line 47, Pos (0,0)
+#. ID 3, Page 7, Line 54, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 114, Pos (0,0)
+#. ID 3, Page 2, Line 88, Pos (0,0)
+#. ID 3, Page 7, Line 20, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：フッ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 128, Pos (0,0)
+msgid ""
+"\n"
+"エル：\n"
+"まったく、\\.\\.お前と言い\"あの二人\"と言い。"
+msgstr ""
+
+#. ID 3, Page 1, Line 131, Pos (0,0)
+msgid ""
+"\n"
+"エル：\n"
+"何処までも気楽な事。"
+msgstr ""
+
+#. ID 3, Page 1, Line 135, Pos (0,0)
+msgid ""
+"\n"
+"オーファ：\n"
+"あの二人…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 138, Pos (0,0)
+msgid ""
+"\n"
+"エル：\n"
+"お前が知るべき事じゃないわ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 141, Pos (0,0)
+msgid ""
+"\n"
+"オーファ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 145, Pos (0,0)
+msgid ""
+"\n"
+"エル：\n"
+"それじゃあ、\\.\\.ゆっくりと見物させて貰おうかしら。"
+msgstr ""
+
+#. ID 3, Page 1, Line 148, Pos (0,0)
+msgid ""
+"\n"
+"エル：\n"
+"何処までも何処までも。\\|\n"
+"運命の女神の掌を抜け出せない\"お前達\"。"
+msgstr ""
+
+#. ID 3, Page 1, Line 152, Pos (0,0)
+msgid ""
+"\n"
+"エル：\n"
+"あの男の\"絵\"としてしか生きられない、\n"
+"哀れな天使をね。"
+msgstr ""
+
+#. ID 3, Page 1, Line 157, Pos (0,0)
+msgid ""
+"\n"
+"エル：\n"
+"精々無駄足を踏むが良いわ。\\|\n"
+"ヴェーネ･アンスバッハ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 161, Pos (0,0)
+msgid ""
+"\n"
+"エル：\n"
+"やがてお前が、\\.\\.\n"
+"お前の信じる\"救い\"を思い出すまで…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 166, Pos (0,0)
+msgid ""
+"\n"
+"エル：\n"
+"\\S[3]フフフッ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 10, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：不安そうな顔ね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 13, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：レイクの身の上？\\|\n"
+"それともヴェーネが応えない事？"
+msgstr ""
+
+#. ID 3, Page 2, Line 17, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：或いは、\\.\\.この選択が誤りで在ったと、\n"
+"今更に悟ったから？"
+msgstr ""
+
+#. ID 3, Page 2, Line 21, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：愚問という物よ。\\.\\.\n"
+"少なくとも最後のケースは在り得ない。"
+msgstr ""
+
+#. ID 3, Page 2, Line 25, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：結果は…。\\|未だ出ていないのだから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 29, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：それに、レイクはレイクで\n"
+"\"誰か\"に助けられているみたいだし。"
+msgstr ""
+
+#. ID 3, Page 2, Line 33, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：態々\"あんな場所\"に送り届けたのも、\n"
+"何らかの意図が在る筈。"
+msgstr ""
+
+#. ID 3, Page 2, Line 37, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：この際、彼の事はその\"誰か\"に委ねるわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 41, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：ではやはり、ヴェーネが心配だと。"
+msgstr ""
+
+#. ID 3, Page 2, Line 44, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：まあ無理も無いわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 47, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：ユアンとの再会を契機として、\n"
+"急激に記憶が復帰したのだから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 51, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：精神の順応と調整で、\n"
+"少しの間は深い眠りに就く。"
+msgstr ""
+
+#. ID 3, Page 2, Line 55, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：誰が呼ぼうとも決して応じない。\\|\n"
+"たとえ相手がお前でも。"
+msgstr ""
+
+#. ID 3, Page 2, Line 64, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：そういう顔をされると、私も寂しいわね。"
+msgstr ""
+
+#. ID 3, Page 2, Line 67, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：少なくともこの時では、\n"
+"私はお前の唯一の話し相手だというのに。"
+msgstr ""
+
+#. ID 3, Page 2, Line 71, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：露骨な不安顔。\\.\\.まるで役立たず。"
+msgstr ""
+
+#. ID 3, Page 2, Line 74, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：貴方と話す事なんて無いわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 77, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：そんな暇が在ったら、\n"
+"応えもしない彼女の身の上を案じ続ける？"
+msgstr ""
+
+#. ID 3, Page 2, Line 81, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：そうよ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 84, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：その後に、良好な結果が出る事を祈って。"
+msgstr ""
+
+#. ID 3, Page 2, Line 92, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：長々しくも不毛な悪足掻きを、\n"
+"お前は良好な結果などと言えるのか…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 96, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\\S[3]この白痴め。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 102, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\\S[2]フッ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 105, Pos (0,0)
+#. ID 3, Page 4, Line 82, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\\S[2]フフフッ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 7, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：予想通り。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 14, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：返す言葉も無し？"
+msgstr ""
+
+#. ID 3, Page 3, Line 18, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：覚悟は…\\|していた事よ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 21, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：要するに予想通りという訳。"
+msgstr ""
+
+#. ID 3, Page 3, Line 29, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：ペルソナの見た儚い夢は砕け散り、\\.\\.\n"
+"忌まわしい記憶は蘇る。"
+msgstr ""
+
+#. ID 3, Page 3, Line 33, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：否それどころか反動＜リバウンド＞を伴い、\n"
+"前にも増して…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 38, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：中途半端に彩を与え、\\.\\.\n"
+"その上で無彩の場所に縛り付ける事。"
+msgstr ""
+
+#. ID 3, Page 3, Line 42, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：嘗て\"それ\"が…。\\|どんな結果を招いたのか…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 45, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：まさか忘れたなどとは、\\.\\.言わないわよね？"
+msgstr ""
+
+#. ID 3, Page 3, Line 53, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：その上でオーファ。\\|お前は言えるのかしら？"
+msgstr ""
+
+#. ID 3, Page 3, Line 56, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：これでも尚、\\.\\.その日々が有意義で在ったと。"
+msgstr ""
+
+#. ID 3, Page 3, Line 61, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：\\S[3]言えるわ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 64, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：事実は、\\.\\.確かに作られた。"
+msgstr ""
+
+#. ID 3, Page 3, Line 67, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：未来は、\\.\\.確かに示された。"
+msgstr ""
+
+#. ID 3, Page 3, Line 71, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：フッ…。\\|呆れて物も言えない…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 74, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：今のヴェーネと言葉を交わしておいて、\n"
+"まだそんな事を。"
+msgstr ""
+
+#. ID 3, Page 3, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：やはりお前は白痴ね。"
+msgstr ""
+
+#. ID 3, Page 3, Line 81, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：何とでも言いなさい。"
+msgstr ""
+
+#. ID 3, Page 3, Line 89, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：飽くまで、信頼すると言うのか…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 92, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：当然よ。\\.\\.\"私\"は\"彼女\"なのだから。"
+msgstr ""
+
+#. ID 3, Page 3, Line 95, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：それを述べるならば、\"私\"も\"彼女\"。"
+msgstr ""
+
+#. ID 3, Page 3, Line 98, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：否…。\\.\\.私の方が優位かしらね。"
+msgstr ""
+
+#. ID 3, Page 3, Line 104, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：何故ならば、\\.\\.私のこの名は\"真実の証\"だから。"
+msgstr ""
+
+#. ID 3, Page 3, Line 108, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：そしてオーファ。\\|お前のその名は…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 120, Pos (0,0)
+msgid ""
+"\n"
+"                    \\S[5]\"残りカス\"。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 6, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：フフッ…。\\|障壁が消えたか…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 9, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：障壁…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 12, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：そう、\\.\\.遥か空の障壁。"
+msgstr ""
+
+#. ID 3, Page 4, Line 15, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：今まで辛うじて事を平穏の内に収めていた、\n"
+"大空の知られざる功労者。"
+msgstr ""
+
+#. ID 3, Page 4, Line 20, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：天空境界が消えた事が、\n"
+"そんなにも喜ばしいの？"
+msgstr ""
+
+#. ID 3, Page 4, Line 24, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：知れた事を。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 27, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：誰に依る何が為の業なのか。\\.\\.それを考えれば。"
+msgstr ""
+
+#. ID 3, Page 4, Line 31, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：ゲオルク…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 35, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：ならば、その事実が示すこの先の運命も。"
+msgstr ""
+
+#. ID 3, Page 4, Line 38, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：余り考えたくないわね。"
+msgstr ""
+
+#. ID 3, Page 4, Line 42, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：フッ…。\\.\\.まあ無理も無い事。"
+msgstr ""
+
+#. ID 3, Page 4, Line 45, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：今まであの障壁こそが、奔流の暴走を食い止める\n"
+"頑強にして強大な堰と成っていた。"
+msgstr ""
+
+#. ID 3, Page 4, Line 49, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：しかし今。\\.\\.それは最早過去の話。"
+msgstr ""
+
+#. ID 3, Page 4, Line 52, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：時は満ちて、\\.\\.運命は繋がった。"
+msgstr ""
+
+#. ID 3, Page 4, Line 56, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：熱く求め合うその二人を、誰が止められる？"
+msgstr ""
+
+#. ID 3, Page 4, Line 59, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：天と地を固く結ぶ運命の赤い糸を、\n"
+"何者が断ち切れる？"
+msgstr ""
+
+#. ID 3, Page 4, Line 63, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：地より天に昇り、天より地に落つる運命の激流を\n"
+"何者が受け止め跳ね返せる？"
+msgstr ""
+
+#. ID 3, Page 4, Line 68, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：不可能よ。\\|全てはカタストロフィ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 71, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：いいえ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 74, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：やって呉れるわ。\\|\n"
+"ヴェーネ達ならば、きっと。"
+msgstr ""
+
+#. ID 3, Page 4, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：相変わらず肩入れするのね。"
+msgstr ""
+
+#. ID 3, Page 4, Line 85, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：何なの…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 88, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：別に。\\|何でもないわ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 97, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：まあ良いわ。\\.\\.\n"
+"何れにせよ私とお前は直接関与出来ない。"
+msgstr ""
+
+#. ID 3, Page 4, Line 101, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：原則として約束された結末を持たぬこの運命を、\n"
+"二人仲良く見物しようかしら？"
+msgstr ""
+
+#. ID 3, Page 4, Line 105, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：見物なら、貴女一人でして頂戴。"
+msgstr ""
+
+#. ID 3, Page 4, Line 108, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：ならばお前は？"
+msgstr ""
+
+#. ID 3, Page 4, Line 111, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：私は、\\.\\.見守っているわ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 114, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：そう…？ \\.\\.それは残念ね。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 118, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\\S[3]フフフッ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 5, Line 5, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：相変わらずね、ヴェーネは。"
+msgstr ""
+
+#. ID 3, Page 5, Line 8, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：期待外れだった？"
+msgstr ""
+
+#. ID 3, Page 5, Line 11, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：しかし以前より着実に進歩しているわ。\\.\\.\n"
+"彼ら仲間に囲まれて。"
+msgstr ""
+
+#. ID 3, Page 5, Line 15, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：無理しなくて良いのよ？\\.\\.\n"
+"そんな見え透いた強がり。"
+msgstr ""
+
+#. ID 3, Page 5, Line 24, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：まあ、今に限っては如何でも良いわ。"
+msgstr ""
+
+#. ID 3, Page 5, Line 27, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：それよりもお前。\\.\\.花は好きかしら？"
+msgstr ""
+
+#. ID 3, Page 5, Line 31, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：何ですって…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 5, Line 34, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：良いから答えなさい。\\.\\.花は好きなの？"
+msgstr ""
+
+#. ID 3, Page 5, Line 38, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：それなりに好きだという感情は\n"
+"持っていたわ…。"
+msgstr ""
+
+#. ID 3, Page 5, Line 43, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：そう…。\\.\\.それは良かった。"
+msgstr ""
+
+#. ID 3, Page 5, Line 47, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：実はね、\\.\\.もう直ぐ大きな花が咲くのよ。"
+msgstr ""
+
+#. ID 3, Page 5, Line 50, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：………？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 5, Line 53, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：私の仲間が、\n"
+"とても素敵な黒い花を咲かせて呉れる。"
+msgstr ""
+
+#. ID 3, Page 5, Line 58, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：仲間…？ \\|貴女に仲間が居ると言うの？"
+msgstr ""
+
+#. ID 3, Page 5, Line 61, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：いけないかしら？"
+msgstr ""
+
+#. ID 3, Page 5, Line 64, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：可不可の問題じゃない。\\.\\.\n"
+"仲間なんて居る筈が無いのよ。"
+msgstr ""
+
+#. ID 3, Page 5, Line 68, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：この\"檻\"に閉じ込められて、\n"
+"ヴェーネ以外とは接点を持たない貴女には…。"
+msgstr ""
+
+#. ID 3, Page 5, Line 73, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\\S[3]フフッ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 5, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：たとえこの存在を檻の中に閉じ込めようとも、\n"
+"人と人との繋がりは消えはしない。"
+msgstr ""
+
+#. ID 3, Page 5, Line 82, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\"想い\"は、檻などと低俗な束縛を須らく超えて、\n"
+"摂理の大海にて親友と高位に結び合う…。"
+msgstr ""
+
+#. ID 3, Page 5, Line 86, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：そんなの、\\.\\.当たり前の事じゃない？"
+msgstr ""
+
+#. ID 3, Page 5, Line 94, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：もうとっくの昔に、\n"
+"\"彼\"との同調は果たされている。"
+msgstr ""
+
+#. ID 3, Page 5, Line 98, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：この私という暗き意志の急落の歪み。\\.\\.\n"
+"プロビデンスの特異点に於いて。"
+msgstr ""
+
+#. ID 3, Page 5, Line 103, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：\\S[2]エル…！ \\.\\.貴女まさか…！\\|\\^"
+msgstr ""
+
+#. ID 3, Page 5, Line 107, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\\S[2]フフッ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 5, Line 111, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\\S[2]ハーッハハハハハッ！\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 6, Line 5, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：ああいうのを三文芝居と言うのかしら。"
+msgstr ""
+
+#. ID 3, Page 6, Line 8, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：セラフィックブルー双翼？\\.\\.\n"
+"ジョークも程々にして欲しいものね。"
+msgstr ""
+
+#. ID 3, Page 6, Line 12, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：片腹痛くて見てらんない。"
+msgstr ""
+
+#. ID 3, Page 6, Line 16, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：それは如何かしら？"
+msgstr ""
+
+#. ID 3, Page 6, Line 19, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：貴女が描くシナリオの中では、\n"
+"\"それ\"は為され得なかったと考えているけれど。"
+msgstr ""
+
+#. ID 3, Page 6, Line 24, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\"芽生え\"が在ると？"
+msgstr ""
+
+#. ID 3, Page 6, Line 27, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：違うかしら？"
+msgstr ""
+
+#. ID 3, Page 6, Line 31, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：彼を失う訳には行かなかったガイアが、\n"
+"無理矢理残留させたのよ。"
+msgstr ""
+
+#. ID 3, Page 6, Line 35, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：ヴェーネの意など、まるで介する事も無く。"
+msgstr ""
+
+#. ID 3, Page 6, Line 38, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：そんな打算と強制で成し得る業ではないと、\n"
+"私は考えるけれど。"
+msgstr ""
+
+#. ID 3, Page 6, Line 42, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：仮に百歩譲ってその介在を認めたとしても、\n"
+"それ\"のみ\"で成し得る業では…。"
+msgstr ""
+
+#. ID 3, Page 6, Line 52, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：まあ良いわ。\\.\\.別に\"それ\"が在ったとしても。"
+msgstr ""
+
+#. ID 3, Page 6, Line 55, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：そんな見ても取れぬ小さい物。"
+msgstr ""
+
+#. ID 3, Page 6, Line 58, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：大小に意味は無い。"
+msgstr ""
+
+#. ID 3, Page 6, Line 61, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：その存在、\\.\\.その事象の、\\.\\.\n"
+"有で在るか無で在るか。"
+msgstr ""
+
+#. ID 3, Page 6, Line 65, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：それが変曲点＜ターニングポイント＞。"
+msgstr ""
+
+#. ID 3, Page 6, Line 68, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：Nothing or Anything.\\.\\.\n"
+"その差異は途方も無く大きいのだから。"
+msgstr ""
+
+#. ID 3, Page 6, Line 73, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：これ見よがしに、そんな陳腐な有無の講釈。"
+msgstr ""
+
+#. ID 3, Page 6, Line 76, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：本当に大局を認めたがらない奴ね、お前は。"
+msgstr ""
+
+#. ID 3, Page 6, Line 80, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：全ては等しく流転するわ。\\.\\.\n"
+"其処に大局などという物は意味を成さない。"
+msgstr ""
+
+#. ID 3, Page 6, Line 84, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：そう…\\.\\.全ての事象と存在は、\n"
+"その卓越と衰退の可能性を秘めている。"
+msgstr ""
+
+#. ID 3, Page 6, Line 88, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：静かに差し延べた手は、\n"
+"巨壁を突き崩す事が可能なのよ。"
+msgstr ""
+
+#. ID 3, Page 6, Line 92, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：馬鹿馬鹿しい。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 6, Line 96, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：まあ良いわ。\\.\\.時は未だ暫く残されている。"
+msgstr ""
+
+#. ID 3, Page 6, Line 99, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：結論はもう少し後にして、\n"
+"今は見物の続きと行こうかしら。"
+msgstr ""
+
+#. ID 3, Page 6, Line 104, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：さあヴェーネ。\\.\\.お前の道を歩いて行くのよ。"
+msgstr ""
+
+#. ID 3, Page 6, Line 107, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：そしてその先に待っているのは…。"
+msgstr ""
+
+#. ID 3, Page 7, Line 6, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：私を滅するだなんて、\\.\\.無駄な事を。"
+msgstr ""
+
+#. ID 3, Page 7, Line 9, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：言い切れたものでもないわ。\\|\n"
+"ヴェーネは着実に進歩している。"
+msgstr ""
+
+#. ID 3, Page 7, Line 13, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：たかがあの程度で？"
+msgstr ""
+
+#. ID 3, Page 7, Line 16, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：いいえ。\\.\\.あれは大きな進歩よ。"
+msgstr ""
+
+#. ID 3, Page 7, Line 23, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：故意なのか否か知らないけれど、\n"
+"精々今の内に余裕を見せてなさい。"
+msgstr ""
+
+#. ID 3, Page 7, Line 27, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：現実の問題は、そんなスローライフを容認する程\n"
+"緩慢ではないのだから。"
+msgstr ""
+
+#. ID 3, Page 7, Line 36, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：分かっているわよ。\\|\n"
+"絶対的に足りない事くらいは。"
+msgstr ""
+
+#. ID 3, Page 7, Line 40, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：結局認めるの。\\|馬鹿馬鹿しい。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 7, Line 44, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：でも、\\.\\.私はヴェーネを信じている。"
+msgstr ""
+
+#. ID 3, Page 7, Line 47, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：意志と未来。\\|彼女としての確かな芽生えを。"
+msgstr ""
+
+#. ID 3, Page 7, Line 50, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：貴女を越えて、\\.\\.大空へ飛び立つ事を。"
+msgstr ""
+
+#. ID 3, Page 7, Line 58, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：\\S[2]面白い…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 7, Line 62, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：たとえ根拠の薄い盲信でも、\n"
+"其処まで言い張れれば大したもの。"
+msgstr ""
+
+#. ID 3, Page 7, Line 66, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：良いわ。\\|見せて貰おうじゃない。"
+msgstr ""
+
+#. ID 3, Page 7, Line 69, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：お前が其処まで信じて疑おうとしない、\n"
+"ヴェーネの\"翼\"とやらを。"
+msgstr ""
+
+#. ID 3, Page 7, Line 74, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：尤も個人的には、\\.\\.フェイクとも呼び難い\n"
+"張りぼてに終わる事を提示するけれど。"
+msgstr ""
+
+#. ID 3, Page 7, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：詰まる所…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 7, Line 81, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：無知で楽観的で、\\.\\.闇の深さを侮るお前の誤算。"
+msgstr ""
+
+#. ID 3, Page 7, Line 85, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：貴女こそ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 7, Line 88, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：偏向的で狭窄し、\\.\\.\n"
+"真なる翼を知り得ない、その身の哀れさ。"
+msgstr ""
+
+#. ID 3, Page 7, Line 92, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：だったら思い知るのね。"
+msgstr ""
+
+#. ID 3, Page 7, Line 95, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：明日を紡げぬ偽りの翼。\\|\n"
+"救世の天使セラフィックブルーよ。"
+msgstr ""
+
+#. ID 3, Page 7, Line 100, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：ならば、\\.\\.思い知りなさい。"
+msgstr ""
+
+#. ID 3, Page 7, Line 103, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：遠い過去と黒き呪縛の翼。\\|\n"
+"死天使リフューズ･セラフィックブルーよ。"
+msgstr ""
+
+#. ID 3, Page 7, Line 108, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"エル：未来は…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 7, Line 111, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：あの空の向こうに。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 7, Line 115, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：ヴェーネならば、\\.\\.きっと羽ばたいて行ける。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (19,14)
+#. ID 5, Page 2, Line 36, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"分かるのよ。\n"
+"私は貴女程に歪な存在ではないから。"
+msgstr ""
+
+#. ID 5, Page 1, Line 4, Pos (19,14)
+msgid ""
+"エル：\n"
+"残りカスにそんな事言われたくないわね。"
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"だとしても私は\"彼女\"。\n"
+"プロビデンスに於いて等しい存在。"
+msgstr ""
+
+#. ID 5, Page 1, Line 9, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"断片的且つ偏向的に別個存在を得た貴女とは、\n"
+"まるで違う。"
+msgstr ""
+
+#. ID 5, Page 1, Line 12, Pos (19,14)
+#. ID 5, Page 2, Line 39, Pos (19,14)
+msgid ""
+"エル：\n"
+"何が分かると？"
+msgstr ""
+
+#. ID 5, Page 2, Line 5, Pos (19,14)
+msgid ""
+"エル：\n"
+"面白い事に成ってるじゃない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 7, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"面白い…？"
+msgstr ""
+
+#. ID 5, Page 2, Line 9, Pos (19,14)
+msgid ""
+"エル：\n"
+"セラフィックブルー双翼だなんて。\n"
+"無駄な努力で、且つ白々しい。"
+msgstr ""
+
+#. ID 5, Page 2, Line 12, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"それは如何かしら。"
+msgstr ""
+
+#. ID 5, Page 2, Line 14, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"貴女が念頭とする物に依っては、\n"
+"それは為され得なかったと考えているけれど。"
+msgstr ""
+
+#. ID 5, Page 2, Line 18, Pos (19,14)
+msgid ""
+"エル：\n"
+"芽生えた物が在ると？"
+msgstr ""
+
+#. ID 5, Page 2, Line 20, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"違うかしら？"
+msgstr ""
+
+#. ID 5, Page 2, Line 22, Pos (19,14)
+msgid ""
+"エル：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 25, Pos (19,14)
+msgid ""
+"エル：\n"
+"ま、それを認めた所で問題無いわ。\n"
+"そんな見ても取れぬ小さい物。"
+msgstr ""
+
+#. ID 5, Page 2, Line 28, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"大小に意味は無い。"
+msgstr ""
+
+#. ID 5, Page 2, Line 30, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"その存在、その事象の、有で在るか無で在るか。\n"
+"それが変曲点と化する。"
+msgstr ""
+
+#. ID 5, Page 2, Line 34, Pos (19,14)
+msgid ""
+"エル：\n"
+"本当に大局を認めたがらない奴ね、お前は。"
+msgstr ""
+
+#. ID 5, Page 2, Line 41, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"全ては等しく流転する。"
+msgstr ""
+
+#. ID 5, Page 2, Line 43, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"大局を成さず、全ての事象と存在は、\n"
+"その卓越と衰退の可能性を秘めている。"
+msgstr ""
+
+#. ID 5, Page 2, Line 46, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"言うなれば、差し出した手の先が触れて、\n"
+"時に大岩をも粉々に打ち砕き得ると。"
+msgstr ""
+
+#. ID 5, Page 2, Line 49, Pos (19,14)
+msgid ""
+"エル：\n"
+"馬鹿馬鹿しい。"
+msgstr ""
+
+#. ID 5, Page 2, Line 51, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"そう思いたければ思えば良い。"
+msgstr ""
+
+#. ID 5, Page 2, Line 53, Pos (19,14)
+msgid ""
+"\\>ヴェーネと同じ姿の女性：\n"
+"しかしそれは間違い無く、\n"
+"最後の最後まで貴女の喉元を狙い続ける…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 57, Pos (19,14)
+msgid ""
+"エル：\n"
+"ふん。ならば私はこう言い返す。"
+msgstr ""
+
+#. ID 5, Page 2, Line 59, Pos (19,14)
+msgid ""
+"エル：\n"
+"ヴェーネがいずれ抱き締めるのはお前ではない。\n"
+"この私だ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 62, Pos (19,14)
+msgid ""
+"エル：\n"
+"何時か彼女は私に還る。\n"
+"本来とは逆の形、逆の過程で。"
+msgstr ""
+
+#. ID 5, Page 2, Line 65, Pos (19,14)
+msgid ""
+"エル：\n"
+"リフューズの名の下に。"
+msgstr ""
+

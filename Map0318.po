@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 2, Line 4, Pos (11,39)
+msgid ""
+"レイク：\n"
+"余所の家に勝手に入るのはマズイな…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 99, Pos (5,35)
+msgid ""
+"おばさん：\n"
+"あらヤンシー。\\.\\.\n"
+"珍しく花なんか持って如何したの？"
+msgstr ""
+
+#. ID 9, Page 1, Line 102, Pos (5,35)
+msgid ""
+"おばさん：\n"
+"やっと別の男が出来たかい？"
+msgstr ""
+
+#. ID 9, Page 1, Line 104, Pos (5,35)
+msgid ""
+"ヤンシー：\n"
+"冗談言わないで。"
+msgstr ""
+
+#. ID 9, Page 1, Line 106, Pos (5,35)
+msgid ""
+"ヤンシー：\n"
+"もう暫く男は結構。\\|もっと腕を磨きたいの。"
+msgstr ""
+
+#. ID 9, Page 1, Line 108, Pos (5,35)
+msgid ""
+"おばさん：\n"
+"あんまり気張るんじゃないよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 113, Pos (5,35)
+msgid ""
+"おばさん：\n"
+"そっか…。\\|\n"
+"今日はメンチュンの命日だったね…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 116, Pos (5,35)
+msgid ""
+"ヤンシー：\n"
+"ええ、\\.\\.これから御参りに。"
+msgstr ""
+
+#. ID 9, Page 1, Line 118, Pos (5,35)
+msgid ""
+"おばさん：\n"
+"早いもんだねぇ…。\\|\n"
+"街がイーヴルの大群に襲われてから、もう７年か…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 124, Pos (5,35)
+msgid ""
+"ヤンシー：\n"
+"あの時…。\\|私にもっと力が有れば…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 126, Pos (5,35)
+msgid ""
+"おばさん：\n"
+"またそうやって考え込む。\\.\\.悪い癖だよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 128, Pos (5,35)
+msgid ""
+"おばさん：\n"
+"死んだ御師匠さんにだって常々言われてただろ？"
+msgstr ""
+
+#. ID 9, Page 1, Line 133, Pos (5,35)
+msgid ""
+"ヤンシー：\n"
+"御参り、\\.\\.行って来る。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 135, Pos (5,35)
+msgid ""
+"おばさん：\n"
+"メンチュンに宜しくね。"
+msgstr ""
+
+#. ID 9, Page 1, Line 137, Pos (5,35)
+msgid ""
+"ヤンシー：\n"
+"ええ。\\|\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 4, Pos (20,28)
+msgid ""
+"おばさん：\n"
+"モンクの修行も結構だけど、\n"
+"偶には女の修行もしときなよ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 12, Pos (20,28)
+#. ID 10, Page 1, Line 28, Pos (20,28)
+msgid ""
+"おばさん：\n"
+"戦争か…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 14, Pos (20,28)
+msgid ""
+"おばさん：\n"
+"不毛の力の求道と、あの御師匠さんが\n"
+"一番忌み嫌ってた物だね…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 22, Pos (20,28)
+msgid ""
+"おばさん：\n"
+"あのコたち、今頃如何してるのかね…。"
+msgstr ""
+
+#. ID 10, Page 1, Line 30, Pos (20,28)
+msgid ""
+"おばさん：\n"
+"不毛の力の求道と、あのお師匠さんが\n"
+"一番忌み嫌ってたものだね…。"
+msgstr ""
+
+#. ID 10, Page 2, Line 3, Pos (20,28)
+msgid ""
+"おばさん：\n"
+"取り敢えず戦争が終わって一安心。\n"
+"あんなの碌なもんじゃないよ。"
+msgstr ""
+
+#. ID 10, Page 2, Line 6, Pos (20,28)
+msgid ""
+"おばさん：\n"
+"そんなに力が欲しいのなら、\n"
+"此処でクンフー修行でもしてなさいって事。"
+msgstr ""
+
+#. ID 10, Page 3, Line 3, Pos (20,28)
+msgid ""
+"おばさん：\n"
+"戦争の次は空の大穴かい…。"
+msgstr ""
+
+#. ID 10, Page 3, Line 5, Pos (20,28)
+msgid ""
+"おばさん：\n"
+"えらく大変な時代に生まれちまったもんだね…。"
+msgstr ""
+
+#. ID 15, Page 1, Line 3, Pos (26,11)
+msgid ""
+"老人：\n"
+"三条峰もそうだが、霊山との呼び声高い場所で\n"
+"取って来た山菜は身体に良い。"
+msgstr ""
+
+#. ID 15, Page 1, Line 6, Pos (26,11)
+msgid ""
+"老人：\n"
+"儂も若い頃からそういった霊山の山菜を鍋にして\n"
+"食べておってな、今まで大病一つ患っておらんぞ。"
+msgstr ""
+
+#. ID 15, Page 2, Line 3, Pos (26,11)
+msgid ""
+"老人：\n"
+"いくら儂が大病を患わずとも、\n"
+"肝心の星が大病を患っていたなどと…。"
+msgstr ""
+
+#. ID 15, Page 2, Line 6, Pos (26,11)
+msgid ""
+"老人：\n"
+"よもやその様な\n"
+"御無体な事など言わぬよな？"
+msgstr ""
+
+#. ID 16, Page 1, Line 4, Pos (31,13)
+msgid ""
+"男の子：\n"
+"今度パパといっしょに\n"
+"クンフーキョウシツに行くんだ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 12, Pos (31,13)
+msgid ""
+"男の子：\n"
+"クンフーキョウシツ、とっても楽しいよ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 14, Pos (31,13)
+msgid ""
+"男の子：\n"
+"パパは少し辛そうだけど。"
+msgstr ""
+
+#. ID 16, Page 1, Line 20, Pos (31,13)
+msgid ""
+"男の子：\n"
+"クンフーキョウシツ、お休みになっちゃった。"
+msgstr ""
+
+#. ID 17, Page 1, Line 3, Pos (38,14)
+msgid ""
+"女性：\n"
+"７年前の事件以来、クンフーを習得しての\n"
+"自己防衛の意識が高まってるの。"
+msgstr ""
+
+#. ID 17, Page 1, Line 6, Pos (38,14)
+msgid ""
+"女性：\n"
+"最近じゃあモンクの人がボランティアでクンフー教室を\n"
+"開いてたりもするわね。"
+msgstr ""
+
+#. ID 17, Page 2, Line 3, Pos (38,14)
+msgid ""
+"女性：\n"
+"幾らクンフーで精神を鍛錬してる人達でも、\n"
+"あの壊れた空には戦々恐々。"
+msgstr ""
+
+#. ID 17, Page 2, Line 6, Pos (38,14)
+msgid ""
+"女性：\n"
+"クンフー教室も此処数回は御休みに成ってるわ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 8, Pos (12,35)
+msgid ""
+"ヤンシー：\n"
+"何なのよ…。\\.\\.あれ…。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 10, Pos (12,35)
+msgid ""
+"ランサード：\n"
+"見れば分かるだろう。\\.\\.\n"
+"空に陸地が浮かんでいる。"
+msgstr ""
+
+#. ID 23, Page 1, Line 14, Pos (12,35)
+msgid ""
+"ヤンシー：\n"
+"そんな事訊いてるんじゃないの！"
+msgstr ""
+
+#. ID 23, Page 1, Line 16, Pos (12,35)
+msgid ""
+"ヤンシー：\n"
+"何でそんな物が浮いてるのかって事よ！"
+msgstr ""
+
+#. ID 23, Page 1, Line 18, Pos (12,35)
+msgid ""
+"ランサード：\n"
+"さあな。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 23, Pos (12,35)
+msgid ""
+"ヤンシー：\n"
+"この朴念仁ッ！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 32, Pos (12,35)
+msgid ""
+"ドリス：\n"
+"あれ…\\.\\.フェジテ。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 37, Pos (12,35)
+msgid ""
+"ヤンシー：\n"
+"フェジテ…？\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 39, Pos (12,35)
+msgid ""
+"ドリス：\n"
+"うん、\\.\\.フェジテ。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 41, Pos (12,35)
+msgid ""
+"ドリス：\n"
+"ワタシ、\\.\\.あそこから来たの。"
+msgstr ""
+
+#. ID 23, Page 1, Line 46, Pos (12,35)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]何ですって…!?\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 53, Pos (12,35)
+msgid ""
+"ヤンシー：\n"
+"\\S[2]三条峰の…\\.\\.天女…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 3, Pos (37,33)
+msgid ""
+"女性：\n"
+"この街の皆さんは、とても澄んだ心を持ってます。\n"
+"此処にいると、自分の心も晴れ晴れしてきます。"
+msgstr ""
+
+#. ID 24, Page 1, Line 7, Pos (37,33)
+msgid ""
+"女性：\n"
+"本当はダルムシュタットに行く心算だったところを、\n"
+"道を間違えた所為でここに来たんですが、\n"
+"これが嬉しい誤算でした。"
+msgstr ""
+
+#. ID 24, Page 1, Line 13, Pos (37,33)
+msgid ""
+"女性：\n"
+"心の鍛錬としてクンフー教室が\n"
+"一般開放されていますので、暫く此処に滞在して\n"
+"クンフーを学ぼうと思います。"
+msgstr ""
+
+#. ID 26, Page 1, Line 4, Pos (17,21)
+msgid ""
+"女の子：\n"
+"わたし、たたかいなんてきょうみないのに、\n"
+"クンフーやりなさいって、ママに言われたんだ。"
+msgstr ""
+
+#. ID 26, Page 1, Line 11, Pos (17,21)
+msgid ""
+"女の子：\n"
+"わたし、たたかいなんてきょうみないけど、\n"
+"クンフーはとってもたのしいよ。"
+msgstr ""
+
+#. ID 26, Page 1, Line 15, Pos (17,21)
+msgid ""
+"女の子：\n"
+"おししょうさまの言うことはとてもおもしろいし、\n"
+"それに、何だかダンスやってるみたいなんだよ。"
+msgstr ""
+

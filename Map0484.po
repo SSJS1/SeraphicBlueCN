@@ -1,0 +1,605 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 8, Pos (10,5)
+#. Contains choice at line 2 (3 options)
+msgid "店員：身軽さなら誰にも負けないよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 9, Pos (10,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 6, Page 1, Line 17, Pos (10,5)
+msgid ""
+"店員：\n"
+"イーヴルの親玉まで、早く辿り着けるといいわね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 27, Pos (10,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"店員：\n"
+"身軽さなら誰にも負けないよ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 29, Pos (10,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+
+#. ID 14, Page 1, Line 15, Pos (14,18)
+#. ID 14, Page 1, Line 243, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"俺達はこれから、この南ブロックとは正反対に位置する\n"
+"北ブロックに向かう。"
+msgstr ""
+
+#. ID 14, Page 1, Line 18, Pos (14,18)
+#. ID 14, Page 1, Line 246, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"現状では其処のフェスクセクションに\n"
+"イーヴルの親玉が居座っている。"
+msgstr ""
+
+#. ID 14, Page 1, Line 21, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"此奴を潰して連中の自発的撤退を狙う。\\.\n"
+"これが今回の作戦だ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 24, Pos (14,18)
+#. ID 14, Page 1, Line 252, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"だが途中の通路ではロックの掛かっている場所が在り、\n"
+"そう簡単には辿り着けないだろう。"
+msgstr ""
+
+#. ID 14, Page 1, Line 27, Pos (14,18)
+#. ID 14, Page 1, Line 255, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"その場合は迂回路を探すか、\n"
+"或いは此処の職員を見付けてカードキーを拝借、\n"
+"ロックを解除する。"
+msgstr ""
+
+#. ID 14, Page 1, Line 34, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"説明は以上だ。\\.作戦を開始する。"
+msgstr ""
+
+#. ID 14, Page 1, Line 50, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"オーグの皆さんですね…！\\.\\.\n"
+"既にジェラール様という方から連絡を承って…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 53, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"堅い話は抜きだ。\\.\\.それより状況は？"
+msgstr ""
+
+#. ID 14, Page 1, Line 55, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"かなりの数のルシファー、\n"
+"もといイーヴルが施設全体に侵攻。"
+msgstr ""
+
+#. ID 14, Page 1, Line 58, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"何故か戦闘能力が平均より格段に高く、\n"
+"警備兵も全員退避しました。"
+msgstr ""
+
+#. ID 14, Page 1, Line 61, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"もう手に負えません。"
+msgstr ""
+
+#. ID 14, Page 1, Line 66, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"成る程。\\.\\.\n"
+"それじゃあ変な個体は居なかったか？"
+msgstr ""
+
+#. ID 14, Page 1, Line 69, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"見るからに他とは違う、\n"
+"群れを統率する親玉みたいな奴だ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 72, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"確か警備兵がそれらしきイーヴルを\n"
+"目撃したとか…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 75, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"交戦には至りませんでしたが、発信機を撃ち込む事に\n"
+"成功しましたので、現在位置は把握しています。"
+msgstr ""
+
+#. ID 14, Page 1, Line 78, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"北ブロックのフェスクセクション。\\.\\.\n"
+"居座って動く気配が在りません。"
+msgstr ""
+
+#. ID 14, Page 1, Line 81, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"北ブロックか…。\\.\\.\n"
+"この南ブロックとは正反対の位置だな…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 87, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"それ以上の詳細は？\\.\\.\n"
+"第何階層、どの部屋の近くとか…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 90, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"其処までは分かりません。\n"
+"イーヴルの瘴気の所為か幾分のジャミングを\n"
+"受けていますので。"
+msgstr ""
+
+#. ID 14, Page 1, Line 94, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"しかしフェスクセクションに居る事だけは確実です。"
+msgstr ""
+
+#. ID 14, Page 1, Line 102, Pos (14,18)
+msgid ""
+"レイク：\n"
+"なあ、\\.\\.\"フェスク\"セクションてのは何だ？"
+msgstr ""
+
+#. ID 14, Page 1, Line 107, Pos (14,18)
+msgid ""
+"レイク：\n"
+"おい、\\.\\.ヴェーネ。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 112, Pos (14,18)
+#. ID 14, Page 1, Line 144, Pos (14,18)
+#. ID 14, Page 1, Line 200, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 117, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 123, Pos (14,18)
+msgid ""
+"レイク：\n"
+"考え事か？\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 125, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"ええ…。\\|そんな所…。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 127, Pos (14,18)
+msgid ""
+"レイク：\n"
+"此処の北ブロックにフェスクセクションってのが\n"
+"在るみたいだが、その\"フェスク\"ってのは何だ？"
+msgstr ""
+
+#. ID 14, Page 1, Line 130, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"フェジテガーデン内に置かれている\n"
+"研究部署の略称よ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 133, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"詳しく話すと長く成るから、\n"
+"それはまた状況終了後にでも。"
+msgstr ""
+
+#. ID 14, Page 1, Line 136, Pos (14,18)
+msgid ""
+"レイク：\n"
+"分かった。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 155, Pos (14,18)
+msgid ""
+"オーファ：\n"
+"やはり感じているのね。"
+msgstr ""
+
+#. ID 14, Page 1, Line 157, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"当然よ。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 159, Pos (14,18)
+msgid ""
+"オーファ：\n"
+"でもフリッツに会う良い機会でも在るわ。\\|\n"
+"止まった時を動かす為の…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 162, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"それだって複雑なものよ。\\|\n"
+"私は貴女程に\"純粋\"ではないから。"
+msgstr ""
+
+#. ID 14, Page 1, Line 165, Pos (14,18)
+msgid ""
+"オーファ：\n"
+"思い込みよ。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 167, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"本質なんて如何でも良いわ。\\|\n"
+"此処は忌みの園。"
+msgstr ""
+
+#. ID 14, Page 1, Line 170, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"私が\"私\"で在る事。\\|\n"
+"私が\"それ\"以下でも以上でもない事。"
+msgstr ""
+
+#. ID 14, Page 1, Line 173, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"その現実を感じさせる、\\.\\.\n"
+"此処は運命の交わる所。"
+msgstr ""
+
+#. ID 14, Page 1, Line 179, Pos (14,18)
+msgid ""
+"オーファ：\n"
+"兎に角、一度会ってみれば良いわ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 181, Pos (14,18)
+msgid ""
+"オーファ：\n"
+"彼は貴女の、唯一の光。\\|\n"
+"再生へのコンダクター。"
+msgstr ""
+
+#. ID 14, Page 1, Line 184, Pos (14,18)
+msgid ""
+"オーファ：\n"
+"他ならぬ彼自身の願いとして、\n"
+"彼に近しい私に届いている。"
+msgstr ""
+
+#. ID 14, Page 1, Line 190, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"なら、\\.\\.ジークベルトも同じ事ね。"
+msgstr ""
+
+#. ID 14, Page 1, Line 192, Pos (14,18)
+msgid ""
+"オーファ：\n"
+"あれは所詮\"ゲーム\"でしかないわ。\\|\n"
+"真心に到底及ばない。"
+msgstr ""
+
+#. ID 14, Page 1, Line 195, Pos (14,18)
+msgid ""
+"オーファ：\n"
+"５年前も。\\|そして今も。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 205, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"悪いけれど…。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 210, Pos (14,18)
+msgid ""
+"ヴェーネ：\n"
+"状況が終了したら、\\.\\.直ぐに帰らせて貰うわ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 219, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"北ブロックまでのルート状況は？"
+msgstr ""
+
+#. ID 14, Page 1, Line 221, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"混乱していて正確には把握出来てませんが、\n"
+"多分至る所でロックが掛かっているものと…。"
+msgstr ""
+
+#. ID 14, Page 1, Line 224, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"解除するには？"
+msgstr ""
+
+#. ID 14, Page 1, Line 226, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"職員が持っているカードキーが必要です。"
+msgstr ""
+
+#. ID 14, Page 1, Line 228, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"姉ちゃんは持ってないのか？"
+msgstr ""
+
+#. ID 14, Page 1, Line 230, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"私は此処が仕事場の受付嬢ですから。"
+msgstr ""
+
+#. ID 14, Page 1, Line 232, Pos (14,18)
+msgid ""
+"受付嬢：\n"
+"カードを持っているのは\n"
+"主にこの奥で勤務している職員達です。"
+msgstr ""
+
+#. ID 14, Page 1, Line 235, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"分かった。\\.\\.有難う。\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 241, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"よし。\\.\\.皆聞いて呉れ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 249, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"此奴を潰して連中の自発的撤退を狙う。\\.\\.\n"
+"これが今回の作戦だ。"
+msgstr ""
+
+#. ID 14, Page 1, Line 262, Pos (14,18)
+msgid ""
+"ユアン：\n"
+"説明は以上だ。\\.\\.作戦を開始する。"
+msgstr ""
+
+#. ID 18, Page 1, Line 4, Pos (14,22)
+msgid ""
+"受付嬢：\n"
+"こんな状況では軍の救援は期待出来ません。\n"
+"皆様が頼みの綱です。"
+msgstr ""
+
+#. ID 18, Page 1, Line 7, Pos (14,22)
+msgid ""
+"受付嬢：\n"
+"如何か御願いします。"
+msgstr ""
+
+#. ID 18, Page 1, Line 13, Pos (14,22)
+msgid ""
+"受付嬢：\n"
+"先の襲撃事件の復旧作業の為、\n"
+"新規プランの受付は御休みさせて頂いております。"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (8,5)
+#. ID 20, Page 1, Line 3, Pos (20,5)
+msgid ""
+"ガードマン：\n"
+"この先への立入は御遠慮ください。"
+msgstr ""
+
+#. ID 23, Page 1, Line 20, Pos (15,18)
+msgid ""
+"フリッツ：\n"
+"大変だろうけど、頑張って。"
+msgstr ""
+
+#. ID 23, Page 1, Line 22, Pos (15,18)
+msgid ""
+"フリッツ：\n"
+"僕に出来る事なら何でもする。\\.\\.\n"
+"何かあった時は遠慮無く言って呉れ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 25, Pos (15,18)
+msgid ""
+"ヴェーネ：\n"
+"有難う。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 27, Pos (15,18)
+msgid ""
+"ヴェーネ：\n"
+"それじゃあ、\\.\\.もう行くわね。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 34, Pos (15,18)
+#. ID 23, Page 2, Line 37, Pos (15,18)
+msgid ""
+"フリッツ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 42, Pos (15,18)
+msgid ""
+"同僚：\n"
+"ようフリッツ。\\.\\.\n"
+"色々と大変だったみたいだな。"
+msgstr ""
+
+#. ID 23, Page 1, Line 48, Pos (15,18)
+msgid ""
+"フリッツ：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 50, Pos (15,18)
+msgid ""
+"同僚：\n"
+"俺も今し方聞いたぜ。\\.\\.\n"
+"ジークベルトが爆発に巻き込まれて死んだって。"
+msgstr ""
+
+#. ID 23, Page 1, Line 53, Pos (15,18)
+msgid ""
+"同僚：\n"
+"碌な死に方しないとは思ってたけど、\n"
+"まさかあんな幕切れだとはな…。"
+msgstr ""
+
+#. ID 23, Page 1, Line 56, Pos (15,18)
+msgid ""
+"フリッツ：\n"
+"当然の報いさ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 58, Pos (15,18)
+msgid ""
+"同僚：\n"
+"まあな。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 63, Pos (15,18)
+msgid ""
+"同僚：\n"
+"ところで今話してたのって、\n"
+"例の彼女＜ヴェーネ＞だよな…？"
+msgstr ""
+
+#. ID 23, Page 1, Line 66, Pos (15,18)
+msgid ""
+"フリッツ：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 1, Line 73, Pos (15,18)
+msgid ""
+"同僚：\n"
+"ネオイーヴルの件で彼女達に助けて貰ったけど、\n"
+"あの時は氏素性なんて知らなかったからさ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 76, Pos (15,18)
+msgid ""
+"同僚：\n"
+"後で彼女がヴェーネだって聞いた時は、\n"
+"複雑な気分だったぜ。"
+msgstr ""
+
+#. ID 23, Page 2, Line 13, Pos (15,18)
+msgid ""
+"同僚：\n"
+"選りにも選って、\n"
+"ルシファー変異症の子供を見せちまった。"
+msgstr ""
+
+#. ID 23, Page 2, Line 16, Pos (15,18)
+msgid ""
+"同僚：\n"
+"相当にキツい当て付けだ。"
+msgstr ""
+
+#. ID 23, Page 2, Line 18, Pos (15,18)
+msgid ""
+"フリッツ：\n"
+"仕方無いさ…。\\|\n"
+"運が悪かったんだよ…。"
+msgstr ""
+
+#. ID 23, Page 2, Line 26, Pos (15,18)
+msgid ""
+"同僚：\n"
+"運…\\.\\.か…。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 2, Line 29, Pos (15,18)
+msgid ""
+"同僚：\n"
+"それで全てを片付けるってのは、\n"
+"世知辛いと思わないか？"
+msgstr ""
+
+#. ID 23, Page 2, Line 32, Pos (15,18)
+msgid ""
+"同僚：\n"
+"特に彼女はな。"
+msgstr ""
+
+#. ID 23, Page 2, Line 42, Pos (15,18)
+msgid ""
+"同僚：\n"
+"その様子だと…\\|\"あの件\"は…。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 2, Line 52, Pos (15,18)
+msgid ""
+"フリッツ：\n"
+"\\S[2]ああ。\\|\\^"
+msgstr ""
+
+#. ID 23, Page 2, Line 57, Pos (15,18)
+msgid ""
+"フリッツ：\n"
+"\\S[2]言えなかったよ。\\|\\.\\.\\^"
+msgstr ""
+

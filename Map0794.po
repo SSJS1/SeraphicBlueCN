@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 4, Pos (9,12)
+msgid ""
+"\\>Caution：\n"
+"\\>これ以降、ショップでのアイテム準備は可能ですが\n"
+"\\>ゲーム本編に戻る事は出来ません。"
+msgstr ""
+
+#. ID 12, Page 1, Line 7, Pos (9,12)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>Caution：\n"
+"\\>先に進みますか？"
+msgstr ""
+
+#. ID 12, Page 1, Line 9, Pos (9,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+

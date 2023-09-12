@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]こうしている時、\\.\\.\n"
+"貴女は時として隣に立った。"
+msgstr ""
+
+#. ID 4, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]私も驚きはしなかった。\\|\n"
+"それが当たり前に成っていたから。"
+msgstr ""
+
+#. ID 4, Page 1, Line 17, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]そして、\\.\\.語り合った。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]時につれない態度を示しながらも、\\.\\.\n"
+"心の奥底で貴女の存在を確かに噛み締めて…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]でも…。\\|もう二度と…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]一つに成ったのだと、\\.\\.\n"
+"理屈では分かっている事…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]そう…。\\|それを否定する心算は無い…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]でも、\\.\\.確かに貴女は、\\.\\.\n"
+"私の隣から消えてしまった…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]何故なのかしらね…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 47, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]運命の終わりを目指す程に…。\\|\n"
+"定められた道を進んで行く程に…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]次々と、\\.\\.壊れ、\\.\\.消えて逝く…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 55, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ならばこの運命が潰える頃、\\.\\.\n"
+"私にはもう何も残ってはいないのかしら…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]生きていても仕方の無い、\\.\\.\n"
+"只の塵に成っているのかしら…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 64, Pos (0,0)
+#. ID 4, Page 1, Line 152, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 100, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"                    \\S[3]そうよ…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 105, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"          \\S[3]下らない…。\\|馬鹿馬鹿しい…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 110, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"              \\S[3]棄ててしまいなさい…。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 115, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"             \\S[3]終わらせてしまいなさい…。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 120, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"       \\S[5]そして…\\|そのまま死んじゃいなさい…。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 125, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"        \\S[3]大丈夫よ…。\\|心配しなくても…。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 130, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"       \\S[3]私とお前…。\\|二人がひとつに成れば…。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 135, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"             \\S[5]私が…\\|イかせてあげる…。\\|\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 147, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………ッ!!\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 159, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]エル…？\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 166, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]そう…\\|よね…。\\|\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 171, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ヴェーネとの同調は完璧だった。\\|\n"
+"自分でも信じられない位。"
+msgstr ""
+
+#. ID 4, Page 1, Line 174, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"完璧過ぎる程に、\n"
+"彼女を受け入れてしまった…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 180, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"彼女の言っていたプロビデンス変異…。\\|\n"
+"存在回帰の波動…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 183, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私達の完璧な融合の最中で、\\.\\.\n"
+"エルはそれに巻き込まれ、\\.\\.滅された筈…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 186, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"気配など感じなかったし、\\.\\.\n"
+"私に還って来ている訳も無い…。"
+msgstr ""
+
+#. ID 4, Page 1, Line 192, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]エルは…\\|滅されたのよね…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 194, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]あの忌まわしい…\\|過去の面影…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 4, Page 1, Line 199, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]本当の…\\|私＜ヴェーネ＞…。\\|\\^"
+msgstr ""
+

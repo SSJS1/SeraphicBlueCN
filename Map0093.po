@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 7, Pos (9,10)
+msgid ""
+"アナウンス：\n"
+"それでは皆様、モニターを御覧くださいませ。"
+msgstr ""
+
+#. ID 12, Page 1, Line 18, Pos (9,10)
+msgid ""
+"\\N[1]：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 27, Pos (9,10)
+msgid ""
+"アナウンス：\n"
+"プレゼンテーションは以上です。\n"
+"またの御来館を御待ちしております。"
+msgstr ""
+
+#. ID 12, Page 1, Line 46, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+msgid "【ユヴェス壊滅とロビンによる再生】"
+msgstr ""
+
+#. ID 12, Page 1, Line 47, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"説明を聞く\n"
+"やめておく"
+msgstr ""
+
+#. ID 13, Page 1, Line 8, Pos (9,12)
+msgid ""
+"サルベージャーらに依る海上拠点建造の計画は\n"
+"正に試行錯誤の連続で、造っては嵐に壊される事の\n"
+"繰り返しでした。"
+msgstr ""
+
+#. ID 13, Page 1, Line 11, Pos (9,12)
+msgid ""
+"しかしその過程で拠点は着実に頑強な物へと進化、\n"
+"最後にはあらゆる嵐に耐え得る物が完成しました。"
+msgstr ""
+
+#. ID 13, Page 1, Line 13, Pos (9,12)
+msgid ""
+"そして彼らは其処での生活を開始すると共に、\n"
+"この拠点を海上都市ユヴェスと名付けたのです。"
+msgstr ""
+
+#. ID 13, Page 1, Line 15, Pos (9,12)
+msgid ""
+"以後、海上都市ユヴェスは長い間嵐にも屈せず\n"
+"彼らの生活の場で在り続け、同時に海運の要所としての\n"
+"地位も築きました。"
+msgstr ""
+
+#. ID 13, Page 1, Line 22, Pos (9,12)
+msgid ""
+"しかし今から8年前の2814年、観測史上最大の大嵐\n"
+"通称\"カラミティ･ジェーン\"が来襲。その圧倒的な\n"
+"破壊力の前に、遂にユヴェスは壊滅します。"
+msgstr ""
+
+#. ID 13, Page 1, Line 28, Pos (9,12)
+msgid ""
+"サルベージャーの拠点に留まらず海運の要所でも在った\n"
+"ユヴェスの壊滅は、世界的に重大な問題でした。"
+msgstr ""
+
+#. ID 13, Page 1, Line 30, Pos (9,12)
+msgid ""
+"この際、いち早くユヴェス再建に名乗りを上げたのが\n"
+"ローズバーググループ系列の工業会社\\C[19]ロビン\\C[0]です。"
+msgstr ""
+
+#. ID 13, Page 1, Line 32, Pos (9,12)
+msgid ""
+"グループ会長ゲオルク･ローズバーグの意向に依り、\n"
+"ロビンは完全なボランティアでユヴェス再建に着手。\n"
+"更なる安全性を追求し、全く新しい構造を持った\n"
+"ユヴェスが建造されました。"
+msgstr ""
+
+#. ID 13, Page 1, Line 40, Pos (9,12)
+msgid ""
+"現在のユヴェスは、海中の制御基地、海面プレート、\n"
+"マウントプレートの三段構造に成っております。"
+msgstr ""
+
+#. ID 13, Page 1, Line 42, Pos (9,12)
+msgid ""
+"制御基地はユヴェス全体のあらゆる事どもを制御管理。\n"
+"また上の２枚のプレートを支え、更にはユヴェス全体を\n"
+"微速航行させる機能も持っています。"
+msgstr ""
+
+#. ID 13, Page 1, Line 45, Pos (9,12)
+msgid ""
+"海面プレートは主に港の役割を果たし、東部大陸、\n"
+"ホワイトウィング、ダルムシュタットの３方面から来る\n"
+"船を受け入れると共に、数多くのサルベージ船も此処に\n"
+"停泊しています。"
+msgstr ""
+
+#. ID 13, Page 1, Line 49, Pos (9,12)
+msgid ""
+"マウントプレートは都市部です。海上20Ｍの高い位置に\n"
+"在るため、嵐に遭っても風の被害だけで、高波の被害は\n"
+"まず及びません。"
+msgstr ""
+
+#. ID 13, Page 1, Line 53, Pos (9,12)
+msgid ""
+"現在もロビンに依って海中で様々な工事が進行中で、\n"
+"ユヴェスは日々留まる事無く進化し続けています。"
+msgstr ""
+

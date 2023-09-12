@@ -1,0 +1,1487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 15, Pos (0,0)
+msgid ""
+"黒服：\n"
+"ゲオルク様。\\.\\.\n"
+"あのアサシンの始末は如何なさいますか。"
+msgstr ""
+
+#. ID 9, Page 1, Line 18, Pos (0,0)
+msgid ""
+"黒服：\n"
+"今一度のチャンスを\n"
+"強く望んでいる様子ですが。"
+msgstr ""
+
+#. ID 9, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"任務を遂行出来なかった者には\n"
+"ペナルティが待ち受ける。"
+msgstr ""
+
+#. ID 9, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"例外は無い。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"右手小指を切り落として、晒し者にしろ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"否、待て。\\.\\.\n"
+"飾りボタンが無くなっていると言ったな？"
+msgstr ""
+
+#. ID 9, Page 1, Line 34, Pos (0,0)
+msgid ""
+"黒服：\n"
+"はい、確かに一つ数が足りません。"
+msgstr ""
+
+#. ID 9, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"分かっているとは思うが…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 41, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"あのボタンに彫刻された黒獅子のエンブレムは、\n"
+"マスターで在るこの私への忠誠の証だ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 44, Pos (0,0)
+#. ID 9, Page 1, Line 48, Pos (0,0)
+msgid ""
+"黒服：\n"
+"心得て。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ならば、それを無くすという事は…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 53, Pos (0,0)
+msgid ""
+"黒服：\n"
+"公開処刑として首を刎ねましょう。"
+msgstr ""
+
+#. ID 9, Page 1, Line 55, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"否、\\.\\.それも今の時勢には少々無為な事だ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 57, Pos (0,0)
+msgid ""
+"黒服：\n"
+"手心を御掛けに？"
+msgstr ""
+
+#. ID 9, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そうではない。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"現状は何かと物入りでな。\n"
+"諸々の物品は有効活用される必要が在る。"
+msgstr ""
+
+#. ID 9, Page 1, Line 64, Pos (0,0)
+msgid ""
+"黒服：\n"
+"と申されますと？"
+msgstr ""
+
+#. ID 9, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\"子供達\"の餌にする。"
+msgstr ""
+
+#. ID 9, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"どうせ殺して棄てるのなら、\n"
+"あいつらに新鮮な血肉を与えた方が良いだろう。"
+msgstr ""
+
+#. ID 9, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"人間の肉体は非常に栄養価が高いとの、\n"
+"ドクターの弁。"
+msgstr ""
+
+#. ID 9, Page 1, Line 77, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"特に踊り食いがベストだと。"
+msgstr ""
+
+#. ID 9, Page 1, Line 79, Pos (0,0)
+msgid ""
+"黒服：\n"
+"畏まりました。\\.\\.その様に手配致します。"
+msgstr ""
+
+#. ID 9, Page 1, Line 85, Pos (0,0)
+msgid ""
+"黒服：\n"
+"もう一点、ハイディとフョードルが来ております。\n"
+"ラージュの定例報告を行いたいと。"
+msgstr ""
+
+#. ID 9, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"通せ。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 90, Pos (0,0)
+msgid ""
+"黒服：\n"
+"畏まりました。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 97, Pos (0,0)
+msgid ""
+"黒服の声：\n"
+"二人共、\\.\\.中に入れ。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 111, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ハイディ。\\.\\.フョードル。\\.\\.\n"
+"調子は如何だ？"
+msgstr ""
+
+#. ID 9, Page 1, Line 120, Pos (0,0)
+msgid ""
+"\n"
+"ハイディ(白服の女)：\n"
+"全て滞り無く。"
+msgstr ""
+
+#. ID 9, Page 1, Line 123, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"例の\"眼\"は如何だ？"
+msgstr ""
+
+#. ID 9, Page 1, Line 126, Pos (0,0)
+msgid ""
+"\n"
+"ハイディ：\n"
+"難航すると見られていた\"C-BECS\"の調整も、\n"
+"今の所順調です。"
+msgstr ""
+
+#. ID 9, Page 1, Line 130, Pos (0,0)
+msgid ""
+"\n"
+"ハイディ：\n"
+"状況発生と同時にテスト運用を開始…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 133, Pos (0,0)
+msgid ""
+"\n"
+"ハイディ：\n"
+"最終調整及びフラクタル変動域予測用ベースデータの\n"
+"収集を行います。"
+msgstr ""
+
+#. ID 9, Page 1, Line 137, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"宜しい。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 143, Pos (0,0)
+msgid ""
+"\n"
+"フョードル(青服の男)：\n"
+"大方の実装は完了しました。３日以内に全レベルの\n"
+"テストケースが可能に成るでしょう。"
+msgstr ""
+
+#. ID 9, Page 1, Line 147, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"\"鉄槌\"の管制は？"
+msgstr ""
+
+#. ID 9, Page 1, Line 150, Pos (0,0)
+msgid ""
+"\n"
+"フョードル：\n"
+"ソフトウェアは問題在りません。\\.\\.\n"
+"ハードウェアはまだ若干調整が必要かと。"
+msgstr ""
+
+#. ID 9, Page 1, Line 154, Pos (0,0)
+msgid ""
+"\n"
+"フョードル：\n"
+"一部の接続機器の相性が好ましくないようですので、\n"
+"入れ替えを希望します。"
+msgstr ""
+
+#. ID 9, Page 1, Line 158, Pos (0,0)
+msgid ""
+"\n"
+"フョードル：\n"
+"また鉄槌以外でも幾つかの機材に初期不良が\n"
+"認められますので、これらも同様に。"
+msgstr ""
+
+#. ID 9, Page 1, Line 162, Pos (0,0)
+msgid ""
+"\n"
+"ゲオルク：\n"
+"良いだろう。\\.\\.予算委の方に直接廻して構わん。"
+msgstr ""
+
+#. ID 9, Page 1, Line 165, Pos (0,0)
+msgid ""
+"\n"
+"フョードル：\n"
+"分かりました。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 174, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"知っての通り、私はもう直ぐメンドゥーサへ赴く。\\|\n"
+"非常に重要な用事だ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 177, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"私が不在の間は、第１主任及び第２主任で在る\n"
+"お前達が最高責任者と成るだろう。"
+msgstr ""
+
+#. ID 9, Page 1, Line 183, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ラージュを、\\.\\.任せて良いな？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 185, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"無論です。\\.\\.安心してお出掛けを。"
+msgstr ""
+
+#. ID 9, Page 1, Line 187, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"お戻りの際には、\n"
+"完璧な姿を御覧に入れてみせますよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 190, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"うむ。\\.\\.二人共頼もしい事だ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 195, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"フェジテよりの客人、\\.\\.ハイディ･バーミンガム。"
+msgstr ""
+
+#. ID 9, Page 1, Line 197, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"特別推薦枠よりの新星、\\.\\.フョードル･ヴォロネシ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 199, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"今後も変わらぬ\n"
+"優れた働きを期待しているぞ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 202, Pos (0,0)
+msgid ""
+"フョードル：\n"
+"お任せください。\\.\\.\n"
+"\"我々\"の底力を示して見せます。"
+msgstr ""
+
+#. ID 9, Page 1, Line 208, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 213, Pos (0,0)
+msgid ""
+"ハイディ：\n"
+"それでは、\\.\\.私共はこれにて…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 224, Pos (0,0)
+msgid ""
+"金髪の女性：\n"
+"あの女、\\.\\.何を考えているのか分からない。"
+msgstr ""
+
+#. ID 9, Page 1, Line 227, Pos (0,0)
+msgid ""
+"金髪の女性：\n"
+"気を付けた方が良いわ、\\.\\.御父様。"
+msgstr ""
+
+#. ID 9, Page 1, Line 229, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"それは私も分かっている、\\.\\.ヴィルジニーよ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 231, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"幾ら自分を売り込んで来たとは言え、\n"
+"元々はフェジテのエンジニア。"
+msgstr ""
+
+#. ID 9, Page 1, Line 234, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"だが反面、非常に有能でも在る。\n"
+"彼女の代役など存在しない。"
+msgstr ""
+
+#. ID 9, Page 1, Line 237, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"雑にあしらって心離れを起こされたら、\n"
+"それは致命的な損失に成るだろう。"
+msgstr ""
+
+#. ID 9, Page 1, Line 243, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"まあ、\\.\\.その点はフョードルとて同じ事。"
+msgstr ""
+
+#. ID 9, Page 1, Line 245, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"特別推薦枠だけ在って、\n"
+"その仕事振りは天賦の才。"
+msgstr ""
+
+#. ID 9, Page 1, Line 248, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"しかしながら飄々として動き回り、\n"
+"中々掴み所を見せぬ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 251, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"私への忠誠よりも、己の野心への忠誠。"
+msgstr ""
+
+#. ID 9, Page 1, Line 253, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"若気の至りという物だ。\\.\\.避けては通れまい。"
+msgstr ""
+
+#. ID 9, Page 1, Line 258, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"何れにせよあの二人こそは、\\.\\.\n"
+"最も期待出来て、\\.\\.最も信用ならん二人。"
+msgstr ""
+
+#. ID 9, Page 1, Line 261, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そして何より、方舟を動かす鍵と成る者。"
+msgstr ""
+
+#. ID 9, Page 1, Line 263, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"奴らを繋ぎ止めておく為に、\\.\\.\n"
+"私は神経を磨り減らす事を避けられないのだ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 270, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"大変なのね、\\.\\.御父様。"
+msgstr ""
+
+#. ID 9, Page 1, Line 275, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"あらゆる\"もの\"が私の元を去り…。"
+msgstr ""
+
+#. ID 9, Page 1, Line 277, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そして私の元に来るあらゆる\"もの\"が、\n"
+"私に向けて牙を隠す。"
+msgstr ""
+
+#. ID 9, Page 1, Line 283, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"御父様、\\.\\.独りぼっちなの？"
+msgstr ""
+
+#. ID 9, Page 1, Line 285, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"皆から、\\.\\.狙われているの？"
+msgstr ""
+
+#. ID 9, Page 1, Line 292, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そうだ。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 294, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"此処は究極の高みにして孤高の場所。\\|\n"
+"私以外の何者も立たぬ、荒涼の地平。"
+msgstr ""
+
+#. ID 9, Page 1, Line 297, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"微塵の安らぎも、\\.\\.共に生きる者も、\\.\\.何も無い。"
+msgstr ""
+
+#. ID 9, Page 1, Line 302, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]ヴィルジニー。\\.\\.お前を除いては。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 309, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"可哀想な御父様。"
+msgstr ""
+
+#. ID 9, Page 1, Line 311, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"大丈夫。\\.\\.私が愛してあげるから。\\|\n"
+"私が守ってあげるから。"
+msgstr ""
+
+#. ID 9, Page 1, Line 314, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ああ。\\.\\.分かっているとも。"
+msgstr ""
+
+#. ID 9, Page 1, Line 316, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"お前が齎して呉れる、\\.\\.至上の癒しを。"
+msgstr ""
+
+#. ID 9, Page 1, Line 321, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\\S[2]可愛い可愛い、\\.\\.私のシリア…。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 327, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"さあ、\\.\\.私は仕事に戻らなくては。"
+msgstr ""
+
+#. ID 9, Page 1, Line 333, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"頑張って。\\.\\.御父様。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 1, Line 335, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ああ、\\.\\.私は決して誰にも負けない。"
+msgstr ""
+
+#. ID 9, Page 1, Line 342, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"全ての\"歯車\"は、この手中に在り…！"
+msgstr ""
+
+#. ID 9, Page 1, Line 344, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"世界の真なる高みに登り詰めるのは、\n"
+"この私だけだ…！"
+msgstr ""
+
+#. ID 9, Page 2, Line 16, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"おい、\\.聞こえるか？"
+msgstr ""
+
+#. ID 9, Page 2, Line 18, Pos (0,0)
+#. ID 9, Page 2, Line 75, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"監視班の報告で、行き場を失ったゲオルクが\n"
+"とうとう屋上に逃げ出して来たとの事だ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 21, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"君達も屋上に向かって呉れ。\\.\n"
+"チェックメイトだ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 40, Pos (0,0)
+msgid ""
+"レイク：\n"
+"ゲオルクッ！\\|\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 42, Pos (0,0)
+msgid ""
+"レイク：\n"
+"隠れても無駄だ！ \\|さっさと出て来やがれ！"
+msgstr ""
+
+#. ID 9, Page 2, Line 47, Pos (0,0)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 53, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"おい、\\.\\.聞こえるか？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 2, Line 59, Pos (0,0)
+msgid ""
+"レイク：\n"
+"指揮官の人か…？"
+msgstr ""
+
+#. ID 9, Page 2, Line 63, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"そうだ。\\.\\.その部屋の通信回線が奪い取れたので、\n"
+"それを使っている。"
+msgstr ""
+
+#. ID 9, Page 2, Line 68, Pos (0,0)
+msgid ""
+"レイク：\n"
+"なら丁度良かった。\\.\\.\n"
+"ゲオルクが居ないんだよ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 73, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"その事なら分かっている。"
+msgstr ""
+
+#. ID 9, Page 2, Line 80, Pos (0,0)
+msgid ""
+"レイク：\n"
+"屋上だと？\\.\\.\n"
+"まさか飛行船でも使って逃げる気か…！"
+msgstr ""
+
+#. ID 9, Page 2, Line 85, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"案ずるな。\\.\\.これも想定内の事だ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 87, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"君達のロアノークを含め、奴が万が一逃げた時でも\n"
+"直ぐに捕まえられるよう準備が整っている。"
+msgstr ""
+
+#. ID 9, Page 2, Line 90, Pos (0,0)
+msgid ""
+"指揮官：\n"
+"君達も屋上に向かって呉れ。\\.\\.\n"
+"チェックメイトだ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 95, Pos (0,0)
+msgid ""
+"レイク：\n"
+"分かった。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 4, Line 8, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そうか…。\\.\\.阻止されたか…。"
+msgstr ""
+
+#. ID 9, Page 4, Line 10, Pos (0,0)
+msgid ""
+"黒服：\n"
+"自分達が捨て駒にされたと知って、\n"
+"有志の者達は一様に激昂しているとの事。"
+msgstr ""
+
+#. ID 9, Page 4, Line 16, Pos (0,0)
+msgid ""
+"黒服：\n"
+"ゲオルク様…。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 4, Line 18, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"うろたえるな。\\.\\.\n"
+"これも初めから想定していた事だ。"
+msgstr ""
+
+#. ID 9, Page 4, Line 21, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"成功すればそれで良し。\n"
+"仮に失敗したとしても陽動の役割を果たす。"
+msgstr ""
+
+#. ID 9, Page 4, Line 24, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"現に奴らは高レベルの警戒態勢を取り、\n"
+"その眼は秘密工場に集中しているではないか。"
+msgstr ""
+
+#. ID 9, Page 4, Line 27, Pos (0,0)
+msgid ""
+"黒服：\n"
+"しかしフェジテの側はそれで良いとしても、\n"
+"此方側は…。"
+msgstr ""
+
+#. ID 9, Page 4, Line 30, Pos (0,0)
+msgid ""
+"黒服：\n"
+"グラウンドの民衆に知れれば、\n"
+"世論を一気に敵に回す事に成りますし…。"
+msgstr ""
+
+#. ID 9, Page 4, Line 33, Pos (0,0)
+msgid ""
+"黒服：\n"
+"\"本作戦\"に向けて本来の工場で待機している\n"
+"他の有志などは尚更…。"
+msgstr ""
+
+#. ID 9, Page 4, Line 39, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"街に出れば分かる事だ。"
+msgstr ""
+
+#. ID 9, Page 4, Line 41, Pos (0,0)
+msgid ""
+"黒服：\n"
+"………？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 4, Line 43, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"凡人共がフェジテの何も知らぬ中で、\n"
+"私のみがフェジテの多くを知っている。"
+msgstr ""
+
+#. ID 9, Page 4, Line 46, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"故に彼らは私に対し全面的な依存を見せ、\n"
+"私の言葉を絶対の物として受け止める。"
+msgstr ""
+
+#. ID 9, Page 4, Line 49, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"今の私とは、\\.\\.そういう存在ではないのか？"
+msgstr ""
+
+#. ID 9, Page 4, Line 54, Pos (0,0)
+msgid ""
+"黒服：\n"
+"それは…。\\.\\.確かに…。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 4, Line 59, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"黒獅子機の捨て駒作戦が何ぞや。"
+msgstr ""
+
+#. ID 9, Page 4, Line 61, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そんな物はフェジテの自作自演。\\.\\.\n"
+"或いは虚偽のプロパガンダ。"
+msgstr ""
+
+#. ID 9, Page 4, Line 64, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"彼らは私を信じるだろう。"
+msgstr ""
+
+#. ID 9, Page 4, Line 66, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"それに有志など初めから\"消耗品\"として集めたのだ。\n"
+"恒常的な利益など求めてはおらん。"
+msgstr ""
+
+#. ID 9, Page 4, Line 69, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"何せその方面には\n"
+"ラージュが控えているのだからな。"
+msgstr ""
+
+#. ID 9, Page 4, Line 76, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"それよりも、\\.\\.カーチス･ハミルトンに\n"
+"報告を入れておけ。"
+msgstr ""
+
+#. ID 9, Page 4, Line 79, Pos (0,0)
+msgid ""
+"黒服：\n"
+"確かC.M.G.C.のエンジニアで？\\|\n"
+"デスブリンガーを提供した…。"
+msgstr ""
+
+#. ID 9, Page 4, Line 82, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そうだ。\\.\\.実地テストを代行するという条件で\n"
+"あの自律型爆弾の試作品を無償で譲り受けたからな。"
+msgstr ""
+
+#. ID 9, Page 4, Line 85, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"彼とはもう暫く良い関係を持ちたい。\\.\\.\n"
+"今は誠実な報告が必要だ。"
+msgstr ""
+
+#. ID 9, Page 4, Line 88, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"更なる戦闘能力の向上が要求されると。"
+msgstr ""
+
+#. ID 9, Page 4, Line 90, Pos (0,0)
+msgid ""
+"黒服：\n"
+"仰せの通りに。"
+msgstr ""
+
+#. ID 9, Page 4, Line 96, Pos (0,0)
+msgid ""
+"黒服：\n"
+"そうでした。\\.\\.\n"
+"秘密工場の件で一つ不可解な点が…。"
+msgstr ""
+
+#. ID 9, Page 4, Line 99, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"何だ？\\|\\^"
+msgstr ""
+
+#. ID 9, Page 4, Line 101, Pos (0,0)
+msgid ""
+"黒服：\n"
+"作戦失敗後、発進した船は大方工場の方へと\n"
+"引き返したのですが…。"
+msgstr ""
+
+#. ID 9, Page 4, Line 104, Pos (0,0)
+msgid ""
+"黒服：\n"
+"一機だけ…。\\.\\.\n"
+"黒獅子10号機が行方不明との事です。"
+msgstr ""
+
+#. ID 9, Page 4, Line 107, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"通信は試みたのか？"
+msgstr ""
+
+#. ID 9, Page 4, Line 109, Pos (0,0)
+msgid ""
+"黒服：\n"
+"はい。\\.\\.応答無しとの事です。"
+msgstr ""
+
+#. ID 9, Page 4, Line 111, Pos (0,0)
+msgid ""
+"黒服：\n"
+"如何致しましょう？"
+msgstr ""
+
+#. ID 9, Page 4, Line 116, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"構わん、放っておけ。\\|\n"
+"物好きが混乱に乗じて拝借したのだろう。"
+msgstr ""
+
+#. ID 9, Page 4, Line 119, Pos (0,0)
+msgid ""
+"黒服：\n"
+"しかし…。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 4, Line 121, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"此処よりの行動は今後の大局を大いに左右する。\\|\n"
+"そんな手を離れた戦艦一機と天秤に掛けるなどとは\n"
+"愚かな事よ。"
+msgstr ""
+
+#. ID 9, Page 4, Line 125, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"或いは、そんな迷子がフェジテで見付かれば、\n"
+"それはそれで連中の手を煩わせ、\n"
+"寧ろ此方にとって予期せぬ好都合というもの。"
+msgstr ""
+
+#. ID 9, Page 4, Line 129, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"放っておいても大した害悪は在るまい。"
+msgstr ""
+
+#. ID 9, Page 4, Line 131, Pos (0,0)
+msgid ""
+"黒服：\n"
+"承知しました。"
+msgstr ""
+
+#. ID 9, Page 4, Line 137, Pos (0,0)
+msgid ""
+"黒服：\n"
+"それではゲオルク様。\\.\\.\n"
+"次の作戦は如何様に？"
+msgstr ""
+
+#. ID 9, Page 4, Line 140, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"言うまでもない事よ。"
+msgstr ""
+
+#. ID 9, Page 4, Line 142, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"こうして秘密工場が奴らの注意を引いている今こそ、\n"
+"\"子供達\"を差し向けるに相応しい。"
+msgstr ""
+
+#. ID 9, Page 4, Line 148, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ネオイーヴルを放ち、\\.\\.フェジテガーデンを襲撃する。"
+msgstr ""
+
+#. ID 9, Page 4, Line 153, Pos (0,0)
+msgid ""
+"黒服：\n"
+"遂にネオイーヴルを…。"
+msgstr ""
+
+#. ID 9, Page 4, Line 155, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"直ぐに詳細なプランを立てたい。\\|\n"
+"\"彼\"を此処に。"
+msgstr ""
+
+#. ID 9, Page 4, Line 158, Pos (0,0)
+msgid ""
+"黒服：\n"
+"あのチーフドクターですか？"
+msgstr ""
+
+#. ID 9, Page 4, Line 160, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そうだ。\\.\\.無理矢理にでも連れて来い。"
+msgstr ""
+
+#. ID 9, Page 5, Line 6, Pos (0,0)
+msgid ""
+"黒服：\n"
+"フェジテガーデンの襲撃はオーグの働きに依って\n"
+"失敗に終わりました。"
+msgstr ""
+
+#. ID 9, Page 5, Line 9, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そうか。\\.\\.実戦テストがてらに襲ってみたのだが、\n"
+"つくづくユアンは勤勉＜ワーカホリック＞な事よ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 12, Pos (0,0)
+msgid ""
+"黒服：\n"
+"それよりもつい先程、情報が入りました。"
+msgstr ""
+
+#. ID 9, Page 5, Line 14, Pos (0,0)
+msgid ""
+"黒服：\n"
+"天使王都ミネルヴァより政府軍。\\|\n"
+"C.M.G.C.本部よりアームズ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 17, Pos (0,0)
+msgid ""
+"黒服：\n"
+"またモーガンの秘密ラボよりルシファーナイツが\n"
+"一斉に動き出したと。"
+msgstr ""
+
+#. ID 9, Page 5, Line 23, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"やはりな。\\|\n"
+"突付かれれば動かずには居られないと。"
+msgstr ""
+
+#. ID 9, Page 5, Line 26, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"弱い犬程、良く吠える。"
+msgstr ""
+
+#. ID 9, Page 5, Line 28, Pos (0,0)
+msgid ""
+"黒服：\n"
+"如何なさいましょうか。"
+msgstr ""
+
+#. ID 9, Page 5, Line 30, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ターゲットは此処だな？"
+msgstr ""
+
+#. ID 9, Page 5, Line 32, Pos (0,0)
+msgid ""
+"黒服：\n"
+"現在の進行状況から見て。"
+msgstr ""
+
+#. ID 9, Page 5, Line 38, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"此処で迎え撃とう。"
+msgstr ""
+
+#. ID 9, Page 5, Line 40, Pos (0,0)
+msgid ""
+"黒服：\n"
+"かなりの損害が予想されますが、\n"
+"宜しいですか？"
+msgstr ""
+
+#. ID 9, Page 5, Line 43, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"構わん、もう用済みだ。\\|\n"
+"そろそろ\"真の舞台\"に上がっても良い頃合だろう。"
+msgstr ""
+
+#. ID 9, Page 5, Line 46, Pos (0,0)
+msgid ""
+"黒服：\n"
+"それでは、ラージュの方へ…。"
+msgstr ""
+
+#. ID 9, Page 5, Line 48, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ハイディとフョードルに連絡を入れておけ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 50, Pos (0,0)
+msgid ""
+"黒服：\n"
+"畏まりました。\\.\\.\n"
+"して、此処での迎撃プランは如何様に？"
+msgstr ""
+
+#. ID 9, Page 5, Line 53, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"どうせ陽動なのだ。\\.\\.派手な方が良い。"
+msgstr ""
+
+#. ID 9, Page 5, Line 55, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"有志の本隊の方の準備は出来ているのか？"
+msgstr ""
+
+#. ID 9, Page 5, Line 57, Pos (0,0)
+msgid ""
+"黒服：\n"
+"はい。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 5, Line 59, Pos (0,0)
+msgid ""
+"黒服：\n"
+"情報封鎖も完璧で、\n"
+"先の秘密工場の件も彼らには伝わっていません。"
+msgstr ""
+
+#. ID 9, Page 5, Line 62, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"何時でも出撃可能なよう待機させておけ。\\|\n"
+"後は私からの伝言を。"
+msgstr ""
+
+#. ID 9, Page 5, Line 68, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"遂にフェジテはグラウンドに対して不条理なる\n"
+"蹂躙行動を開始した。"
+msgstr ""
+
+#. ID 9, Page 5, Line 71, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"作戦名は、\\.\\.聞く所では\"害虫駆除\"。"
+msgstr ""
+
+#. ID 9, Page 5, Line 73, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"ならば私も、\\.\\.相対してこの作戦に名を付けよう。"
+msgstr ""
+
+#. ID 9, Page 5, Line 75, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"これは\"天空の浄化\"である。"
+msgstr ""
+
+#. ID 9, Page 5, Line 77, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"今こそフェジテに思い知らせるのだ。\\|\n"
+"貴様らこそが、空に巣食う小汚い羽虫共なのだと。"
+msgstr ""
+
+#. ID 9, Page 5, Line 80, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"諸君らの戦いに地上の全尊厳が託された。\\|\n"
+"健闘を祈って止まない。"
+msgstr ""
+
+#. ID 9, Page 5, Line 83, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"以上だ。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 5, Line 88, Pos (0,0)
+msgid ""
+"黒服：\n"
+"伝言、確かに承りました。"
+msgstr ""
+
+#. ID 9, Page 5, Line 94, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"さて、ドクター･ランゲルよ？"
+msgstr ""
+
+#. ID 9, Page 5, Line 96, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"心配には及ばん。\n"
+"ネオイーヴルならまだ充分残っている。"
+msgstr ""
+
+#. ID 9, Page 5, Line 99, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"数は良しとして、力量は如何かな？\\|\n"
+"ルシファーナイツに勝てるか？"
+msgstr ""
+
+#. ID 9, Page 5, Line 102, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"そればかりは保証出来んな。\\.\\.\n"
+"卸されて来た参考データが古過ぎる。"
+msgstr ""
+
+#. ID 9, Page 5, Line 105, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"恐らく今までの過程で、モーガンの奴らは\n"
+"更に一歩上を行く改良を施して在るだろう。"
+msgstr ""
+
+#. ID 9, Page 5, Line 108, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"所詮ネオイーヴルはルシファーナイツの後発。\n"
+"個体での力量が劣るのは必至だ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 114, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"まあ良い。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 5, Line 116, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"この短い期間であそこまでネオイーヴルを\n"
+"調整改良したただけでも殊勝な事だ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 119, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"当然だ。\\.\\.わしは受け取る金に見合うだけの仕事は\n"
+"仕上げる主義なんでな。"
+msgstr ""
+
+#. ID 9, Page 5, Line 122, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"嘗てはホスピタル屈指の名医と呼ばれた男の、\n"
+"最後のプロフェッショナル意識か。"
+msgstr ""
+
+#. ID 9, Page 5, Line 125, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"申し訳程度にも成らんな。"
+msgstr ""
+
+#. ID 9, Page 5, Line 127, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"何とでも言え。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 5, Line 132, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"それではドクター。\\.\\.\n"
+"出撃可能なネオイーヴルを全て出撃させて呉れ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 135, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"連中に勝利しろとは言わん。\\|\n"
+"陽動としての役割を果たせるよう、それなりの時間\n"
+"戦いを引き延ばして呉れる事を期待する。"
+msgstr ""
+
+#. ID 9, Page 5, Line 139, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"それと共に、今後戦争が終結するまでの間\n"
+"このプロジェクトを休止させる。"
+msgstr ""
+
+#. ID 9, Page 5, Line 142, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"\"私の勝利\"の後に改めて再開し、\n"
+"その際はまた君にこのプロジェクトを担当して貰おう。"
+msgstr ""
+
+#. ID 9, Page 5, Line 145, Pos (0,0)
+msgid ""
+"ランゲル：\n"
+"なかなか如何して。\\.\\.遣り甲斐の在る事だな。"
+msgstr ""
+
+#. ID 9, Page 5, Line 147, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"そう感じるのなら幸いだ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 152, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"行動を開始して呉れ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 164, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"さあヴィルジニー。\\.\\.\n"
+"ラージュへ行くぞ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 167, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"この街はもう直消えて無くなる。"
+msgstr ""
+
+#. ID 9, Page 5, Line 169, Pos (0,0)
+msgid ""
+"ヴィルジニー：\n"
+"はい、\\.\\.御父様。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 5, Line 178, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"自信満々だね。\\.\\.\n"
+"ちっとは不安とか無い訳？"
+msgstr ""
+
+#. ID 9, Page 5, Line 181, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"何の不安を抱く必要が。\\.\\.\n"
+"私はこの世界を屠る黒獅子だぞ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 184, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"この覇道を信ずる限り、\n"
+"其処に敗北は存在せぬ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 187, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"この私こそは、\\.\\.勝利の神の寵愛を受けた\n"
+"選ばれし存在なのだから。"
+msgstr ""
+
+#. ID 9, Page 5, Line 193, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"良い根性してるよ、アンタ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 195, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"貴様の言う台詞か？\\.\\.\n"
+"星の病巣の分際で。"
+msgstr ""
+
+#. ID 9, Page 5, Line 198, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"確かに。\\|\\^"
+msgstr ""
+
+#. ID 9, Page 5, Line 204, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"でもこうして見ると、\n"
+"モーガンのダメさ加減が良く分かる。"
+msgstr ""
+
+#. ID 9, Page 5, Line 207, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"アイツはどれだけ力を与えても、\n"
+"結局は眼下の数多の力に怯えてるだけ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 210, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"どんなに攻撃を繰り出してみせようが、\n"
+"その全てに於いて本質は\"逃避\"と\"保身\"でしかない。"
+msgstr ""
+
+#. ID 9, Page 5, Line 213, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"挙げ句今度はヴェーネの知り合いのガキまで\n"
+"利用しようと企んでるみたいだし。"
+msgstr ""
+
+#. ID 9, Page 5, Line 216, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"まだ16歳。\\.\\.おまけに知的障害者。"
+msgstr ""
+
+#. ID 9, Page 5, Line 218, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"話に成らんな。\\.\\.\n"
+"凡夫はおろか畜生にも劣る。"
+msgstr ""
+
+#. ID 9, Page 5, Line 221, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ああ、ダメダメさ。\\.\\.\n"
+"到底世界なんか屠れない。"
+msgstr ""
+
+#. ID 9, Page 5, Line 224, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ネズミがチーズを齧るのと同じだよ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 230, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"しかし生意気な小僧だ。\\.\\.\n"
+"塵＜ネズミ＞と私とを天秤に掛けたのだからな。"
+msgstr ""
+
+#. ID 9, Page 5, Line 233, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"まあ、だからこそ\n"
+"向こうの情報をリークして貰えたのも事実だが。"
+msgstr ""
+
+#. ID 9, Page 5, Line 236, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"でも油断しない事だね。\\.\\.\n"
+"奴自体は塵でも、此処に向かっているのは\n"
+"フェジテの誇る強大な力だ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 240, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"分かっている。\\.\\.\n"
+"此処で充分に奴らの力を奪い去っておいて…。"
+msgstr ""
+
+#. ID 9, Page 5, Line 243, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"最後にラージュの鉄槌を以って、\n"
+"フェジテに止めを刺して呉れるわ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 246, Pos (0,0)
+msgid ""
+"ゲオルク：\n"
+"文字通り、\\.\\.その身を刺し貫いてな。"
+msgstr ""
+
+#. ID 9, Page 5, Line 253, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"ボクは屋上にでも行こうかな。\n"
+"高見の見物には丁度良い。"
+msgstr ""
+
+#. ID 9, Page 5, Line 256, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"黒獅子が世界を屠るという、\\.\\.\n"
+"千古稀に見る、凄惨にして壮大なショーだ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 266, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]それじゃあ御二方。\n"
+"精々頑張って盛り上げて呉れよ。"
+msgstr ""
+
+#. ID 9, Page 5, Line 269, Pos (0,0)
+msgid ""
+"エンデ：\n"
+"\\S[2]あの\"黒い花\"に捧げる、\\.\\.血肉に濡れた惨劇をね。"
+msgstr ""
+
+#. ID 12, Page 1, Line 8, Pos (9,5)
+#. ID 16, Page 1, Line 8, Pos (4,5)
+msgid "※今はこんな事をしている場合ではない。"
+msgstr ""
+

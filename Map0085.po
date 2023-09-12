@@ -1,0 +1,544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 24, Page 1, Line 27, Pos (10,4)
+#. ID 24, Page 2, Line 10, Pos (10,4)
+msgid ""
+"レイク：\n"
+"確かマキシムの説明だと、\n"
+"あの山中にメンドゥーサが在るんだよな？"
+msgstr ""
+
+#. ID 24, Page 1, Line 30, Pos (10,4)
+#. ID 24, Page 2, Line 13, Pos (10,4)
+msgid ""
+"ニクソン：\n"
+"そうですね。\n"
+"丁度この真下をラヴェンナ地下洞が通っています。"
+msgstr ""
+
+#. ID 24, Page 1, Line 36, Pos (10,4)
+#. ID 24, Page 2, Line 19, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"そう言えば、下の湖の畔…。\\|\n"
+"僅かだけど道が拓けてる様な…。"
+msgstr ""
+
+#. ID 24, Page 1, Line 39, Pos (10,4)
+#. ID 24, Page 2, Line 22, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"崖の所に洞窟も見えるわ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 41, Pos (10,4)
+#. ID 24, Page 2, Line 24, Pos (10,4)
+msgid ""
+"ニクソン：\n"
+"若しかしたら地下洞の途中で\n"
+"その場所に出るかも知れませんね。"
+msgstr ""
+
+#. ID 24, Page 1, Line 47, Pos (10,4)
+#. ID 24, Page 2, Line 30, Pos (10,4)
+msgid ""
+"レイク：\n"
+"だが本当に長丁場だな。"
+msgstr ""
+
+#. ID 24, Page 1, Line 49, Pos (10,4)
+#. ID 24, Page 2, Line 32, Pos (10,4)
+msgid ""
+"ニクソン：\n"
+"マキシムの情報に間違いは在りませんから。"
+msgstr ""
+
+#. ID 24, Page 1, Line 51, Pos (10,4)
+#. ID 24, Page 2, Line 34, Pos (10,4)
+msgid ""
+"レイク：\n"
+"そういう問題かよ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 53, Pos (10,4)
+#. ID 24, Page 2, Line 36, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"愚痴らないの。\\.\\.\n"
+"これしか道は無いんだから。"
+msgstr ""
+
+#. ID 24, Page 1, Line 56, Pos (10,4)
+#. ID 24, Page 2, Line 39, Pos (10,4)
+msgid ""
+"レイク：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 84, Pos (10,4)
+#. ID 24, Page 2, Line 67, Pos (10,4)
+msgid ""
+"ニクソン：\n"
+"おやおや。\\.\\.これまた可愛らしい旅人ですね。"
+msgstr ""
+
+#. ID 24, Page 1, Line 86, Pos (10,4)
+#. ID 24, Page 2, Line 69, Pos (10,4)
+msgid ""
+"レイク：\n"
+"引っ込めバカ猫。\\.\\.餌なんかやらないぞ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 89, Pos (10,4)
+#. ID 24, Page 2, Line 72, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"可哀想じゃない、そんな事言ったら。"
+msgstr ""
+
+#. ID 24, Page 1, Line 96, Pos (10,4)
+#. ID 24, Page 2, Line 79, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"ネコさん。\\.\\.迷子なのかしら？"
+msgstr ""
+
+#. ID 24, Page 1, Line 98, Pos (10,4)
+#. ID 24, Page 2, Line 81, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"飼い主の人は？"
+msgstr ""
+
+#. ID 24, Page 1, Line 105, Pos (10,4)
+#. ID 24, Page 1, Line 182, Pos (10,4)
+#. ID 24, Page 2, Line 88, Pos (10,4)
+#. ID 24, Page 2, Line 165, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 112, Pos (10,4)
+#. ID 24, Page 2, Line 95, Pos (10,4)
+msgid ""
+"レイク：\n"
+"人が訊いてるのにニャーとしか答えない。\\.\\.\n"
+"やっぱりバカ猫だな。"
+msgstr ""
+
+#. ID 24, Page 1, Line 118, Pos (10,4)
+#. ID 24, Page 2, Line 101, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]ネコさん…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 120, Pos (10,4)
+#. ID 24, Page 2, Line 103, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]ネコ…\\.\\.さん…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 130, Pos (10,4)
+#. ID 24, Page 2, Line 113, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]ね…こ…\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 139, Pos (10,4)
+#. ID 24, Page 2, Line 122, Pos (10,4)
+msgid ""
+"男性：\n"
+"やあヴェーネ。\\.\\.\n"
+"今日はお前の12歳の誕生日だったな。"
+msgstr ""
+
+#. ID 24, Page 1, Line 142, Pos (10,4)
+#. ID 24, Page 2, Line 125, Pos (10,4)
+msgid ""
+"男性：\n"
+"プレゼントをあげよう。"
+msgstr ""
+
+#. ID 24, Page 1, Line 147, Pos (10,4)
+#. ID 24, Page 2, Line 130, Pos (10,4)
+msgid ""
+"男性：\n"
+"新しい猫だ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 149, Pos (10,4)
+#. ID 24, Page 2, Line 132, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"要らないわ。\\.\\.欲しくない。"
+msgstr ""
+
+#. ID 24, Page 1, Line 151, Pos (10,4)
+#. ID 24, Page 2, Line 134, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"結果なんか見えてるんだから。"
+msgstr ""
+
+#. ID 24, Page 1, Line 153, Pos (10,4)
+#. ID 24, Page 2, Line 136, Pos (10,4)
+msgid ""
+"男性：\n"
+"ほう。\\.\\.それはどんな結果だ？"
+msgstr ""
+
+#. ID 24, Page 1, Line 155, Pos (10,4)
+#. ID 24, Page 2, Line 138, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"この子もどうせ野良猫なんでしょう？"
+msgstr ""
+
+#. ID 24, Page 1, Line 158, Pos (10,4)
+#. ID 24, Page 2, Line 141, Pos (10,4)
+msgid ""
+"男性：\n"
+"フッ…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 161, Pos (10,4)
+#. ID 24, Page 2, Line 144, Pos (10,4)
+msgid ""
+"男性：\n"
+"その眼を見る限り、\n"
+"もう何を問答する必要も無いようだな。"
+msgstr ""
+
+#. ID 24, Page 1, Line 164, Pos (10,4)
+#. ID 24, Page 2, Line 147, Pos (10,4)
+msgid ""
+"男性：\n"
+"では答えを聞こう。"
+msgstr ""
+
+#. ID 24, Page 1, Line 166, Pos (10,4)
+#. ID 24, Page 2, Line 149, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"そんなの。\\.\\.ハンマーを貸して。"
+msgstr ""
+
+#. ID 24, Page 1, Line 169, Pos (10,4)
+#. ID 24, Page 2, Line 152, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"さようなら。\\.\\.ネコさん。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 187, Pos (10,4)
+#. ID 24, Page 2, Line 170, Pos (10,4)
+msgid ""
+"男性：\n"
+"泣かないのか？\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 189, Pos (10,4)
+#. ID 24, Page 2, Line 172, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"何で？\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 191, Pos (10,4)
+#. ID 24, Page 2, Line 174, Pos (10,4)
+msgid ""
+"男性：\n"
+"お前は自分の手で猫の頭を叩き潰したのだぞ？"
+msgstr ""
+
+#. ID 24, Page 1, Line 193, Pos (10,4)
+#. ID 24, Page 2, Line 176, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"だから？\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 198, Pos (10,4)
+#. ID 24, Page 2, Line 181, Pos (10,4)
+msgid ""
+"男性：\n"
+"フフッ…。\\|\"合格\"だ…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 200, Pos (10,4)
+#. ID 24, Page 2, Line 183, Pos (10,4)
+msgid ""
+"男性：\n"
+"ヴェーネよ。\\.\\.\n"
+"能くぞこの境地に辿り着いた。"
+msgstr ""
+
+#. ID 24, Page 1, Line 203, Pos (10,4)
+#. ID 24, Page 2, Line 186, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"だって言ったじゃない。\\.\\.\n"
+"心なんてアメとムチだって。"
+msgstr ""
+
+#. ID 24, Page 1, Line 206, Pos (10,4)
+#. ID 24, Page 2, Line 189, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"私だけは特別で、\\.\\.\n"
+"ムチばっかりでアメを貰えない。"
+msgstr ""
+
+#. ID 24, Page 1, Line 209, Pos (10,4)
+#. ID 24, Page 2, Line 192, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"だから。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 211, Pos (10,4)
+#. ID 24, Page 2, Line 194, Pos (10,4)
+msgid ""
+"男性：\n"
+"そうだとも。\\.\\.お前は賢い子だ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 213, Pos (10,4)
+#. ID 24, Page 2, Line 196, Pos (10,4)
+msgid ""
+"男性：\n"
+"では本当のプレゼントとして、\n"
+"粗末だが私から祈りの言葉を捧げよう。"
+msgstr ""
+
+#. ID 24, Page 1, Line 230, Pos (10,4)
+#. ID 24, Page 2, Line 213, Pos (10,4)
+msgid ""
+"\n"
+"\n"
+"\n"
+"     \\S[5]願わくば、\\.\\.お前の運命に\"救済\"が在らん事を。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 235, Pos (10,4)
+#. ID 24, Page 2, Line 218, Pos (10,4)
+msgid ""
+"\n"
+"\n"
+"\n"
+"      \\S[5]天使の御名は、\\.\\.ヴェーネ･\\.\\.アンスバッハ。\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 251, Pos (10,4)
+#. ID 24, Page 2, Line 234, Pos (10,4)
+msgid ""
+"レイク：\n"
+"ヴェーネ…？\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 256, Pos (10,4)
+#. ID 24, Page 2, Line 239, Pos (10,4)
+msgid ""
+"声：\n"
+"あっ！ \\.\\.居た居た！\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 270, Pos (10,4)
+#. ID 24, Page 2, Line 253, Pos (10,4)
+msgid ""
+"旅人：\n"
+"駄目じゃないか。\n"
+"勝手にうろついたりしたら。"
+msgstr ""
+
+#. ID 24, Page 1, Line 273, Pos (10,4)
+#. ID 24, Page 2, Line 256, Pos (10,4)
+msgid ""
+"旅人：\n"
+"崖から落ちたら如何するんだ？"
+msgstr ""
+
+#. ID 24, Page 1, Line 279, Pos (10,4)
+#. ID 24, Page 2, Line 262, Pos (10,4)
+msgid ""
+"ニクソン：\n"
+"飼い主の方ですか？"
+msgstr ""
+
+#. ID 24, Page 1, Line 281, Pos (10,4)
+#. ID 24, Page 2, Line 264, Pos (10,4)
+msgid ""
+"旅人：\n"
+"済みません。御迷惑お掛けして。"
+msgstr ""
+
+#. ID 24, Page 1, Line 283, Pos (10,4)
+#. ID 24, Page 2, Line 266, Pos (10,4)
+msgid ""
+"旅人：\n"
+"半年前位に一人旅の先で拾った野良猫で。\n"
+"それからは二人で旅をしてるんです。"
+msgstr ""
+
+#. ID 24, Page 1, Line 286, Pos (10,4)
+#. ID 24, Page 2, Line 269, Pos (10,4)
+msgid ""
+"旅人：\n"
+"落ち着きの無い奴でしてね。\\.\\.\n"
+"少し眼を離した隙に。"
+msgstr ""
+
+#. ID 24, Page 1, Line 292, Pos (10,4)
+#. ID 24, Page 2, Line 275, Pos (10,4)
+msgid ""
+"旅人：\n"
+"ほら。\\.\\.お姉さんに謝るんだ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 302, Pos (10,4)
+#. ID 24, Page 2, Line 285, Pos (10,4)
+msgid ""
+"旅人：\n"
+"此処は崖ばっかりで危ないから、\n"
+"ちゃんと服の中に入ってろよ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 310, Pos (10,4)
+#. ID 24, Page 2, Line 293, Pos (10,4)
+msgid ""
+"旅人：\n"
+"それじゃあ、私はこれで。"
+msgstr ""
+
+#. ID 24, Page 1, Line 312, Pos (10,4)
+#. ID 24, Page 2, Line 295, Pos (10,4)
+msgid ""
+"旅人：\n"
+"道中お気を付けて。"
+msgstr ""
+
+#. ID 24, Page 1, Line 314, Pos (10,4)
+#. ID 24, Page 2, Line 297, Pos (10,4)
+msgid ""
+"ニクソン：\n"
+"お二人もお気を付けて。"
+msgstr ""
+
+#. ID 24, Page 1, Line 328, Pos (10,4)
+#. ID 24, Page 2, Line 311, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]ねこ…。\\|のらねこ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 330, Pos (10,4)
+#. ID 24, Page 2, Line 313, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]崖から落ちたら…。\\|頭がグシャグシャ…。\\|\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 335, Pos (10,4)
+#. ID 24, Page 2, Line 318, Pos (10,4)
+msgid ""
+"レイク：\n"
+"ヴェーネ…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 340, Pos (10,4)
+#. ID 24, Page 2, Line 323, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]ネコさん…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 342, Pos (10,4)
+#. ID 24, Page 2, Line 325, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]ごめんなさい。\\|さようなら。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 344, Pos (10,4)
+#. ID 24, Page 2, Line 327, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]これであなたは、\\.\\.救われたのよ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 347, Pos (10,4)
+#. ID 24, Page 2, Line 330, Pos (10,4)
+msgid ""
+"レイク：\n"
+"おいヴェーネ！ \\.\\.しっかりしろッ！\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 352, Pos (10,4)
+#. ID 24, Page 2, Line 335, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"レイク…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 355, Pos (10,4)
+#. ID 24, Page 2, Line 338, Pos (10,4)
+msgid ""
+"レイク：\n"
+"何だってんだよ。\\.\\.猫を見てから様子が変だぞ？"
+msgstr ""
+
+#. ID 24, Page 1, Line 357, Pos (10,4)
+#. ID 24, Page 2, Line 340, Pos (10,4)
+msgid ""
+"レイク：\n"
+"何か思い出したのか？\\|\n"
+"誰かの顔とか。"
+msgstr ""
+
+#. ID 24, Page 1, Line 363, Pos (10,4)
+#. ID 24, Page 2, Line 346, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"いいえ…。\\|そういう訳じゃ…。"
+msgstr ""
+
+#. ID 24, Page 1, Line 365, Pos (10,4)
+#. ID 24, Page 2, Line 348, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"何となく厭な感じがして…。"
+msgstr ""
+
+#. ID 24, Page 1, Line 367, Pos (10,4)
+#. ID 24, Page 2, Line 350, Pos (10,4)
+msgid ""
+"レイク：\n"
+"そうか…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 369, Pos (10,4)
+#. ID 24, Page 2, Line 352, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"ええ…。\\|\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 377, Pos (10,4)
+#. ID 24, Page 2, Line 360, Pos (10,4)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]それだけよ。\\|\\^"
+msgstr ""
+

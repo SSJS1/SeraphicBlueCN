@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 3, Pos (16,13)
+msgid ""
+"変な男：\n"
+"ちくしょう…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 5, Pos (16,13)
+msgid ""
+"変な男：\n"
+"またマルゴに頼むしかねえか…。"
+msgstr ""
+
+#. ID 6, Page 2, Line 3, Pos (16,13)
+msgid ""
+"変な男：\n"
+"へへッ…。最高だぜ…。"
+msgstr ""
+
+#. ID 6, Page 3, Line 3, Pos (16,13)
+msgid ""
+"変な男：\n"
+"何だか、萎えて来ちまった…。\n"
+"あの空の所為なのか…。"
+msgstr ""
+

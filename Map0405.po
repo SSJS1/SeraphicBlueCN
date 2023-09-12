@@ -1,0 +1,755 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (5,5)
+msgid ""
+"ニクソン：\n"
+"仮に神を不在としても、\n"
+"子供達は間違い無く天に居ます。"
+msgstr ""
+
+#. ID 3, Page 1, Line 6, Pos (5,5)
+msgid ""
+"ニクソン：\n"
+"私は常に彼らの手本で在らなくては。"
+msgstr ""
+
+#. ID 6, Page 1, Line 6, Pos (0,0)
+#. ID 6, Page 1, Line 56, Pos (0,0)
+#. ID 6, Page 1, Line 281, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 11, Pos (0,0)
+#. ID 6, Page 1, Line 64, Pos (0,0)
+#. ID 6, Page 1, Line 94, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"大丈夫か？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"何が？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"何がって…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"浮かない顔じゃねえか。"
+msgstr ""
+
+#. ID 6, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そう見える？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"見えるさ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私…。\\|ニクソンに言い過ぎたのかしら…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 40, Pos (0,0)
+#. ID 6, Page 1, Line 137, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"………。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"あれがお門違いなのは事実だがな。\\|\n"
+"しかしニクソンの悲しみも分かる。"
+msgstr ""
+
+#. ID 6, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"自らの手で大切な人を葬るなんて、\n"
+"考えただけでも血の気が引く。"
+msgstr ""
+
+#. ID 6, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"お前だってそうだろう？"
+msgstr ""
+
+#. ID 6, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"彼とは…。\\|このまま終わってしまうのかしら…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 69, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]God \\.\\.only \\.\\.knows...\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 71, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"違い無い。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でもそれは無責任な言葉。\\|彼も悟った筈。"
+msgstr ""
+
+#. ID 6, Page 1, Line 75, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"神が失われた訳でもなく、\n"
+"初めから神なんて居やしない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 78, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"世界は所詮、\\.\\.絶望だ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 80, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"言うなよ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 82, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"そんな事ばかり考えてたら、\n"
+"誰も生きて行けないぜ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 85, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"信じる者は救われる？"
+msgstr ""
+
+#. ID 6, Page 1, Line 87, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"信じた者が、\\.\\.救われた？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 92, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"いいえ。\\.\\.誰もが無力だった。"
+msgstr ""
+
+#. ID 6, Page 1, Line 102, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"ブリッジよりユアンさんへ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 104, Pos (0,0)
+msgid ""
+"リーナ：\n"
+"監視システム、25番ドアにウォーニングを確認。\\.\\.\n"
+"指示を御願いします。"
+msgstr ""
+
+#. ID 6, Page 1, Line 113, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"またあのドアか…。\\|\n"
+"やっぱ部品交換しなきゃ駄目だな…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 119, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"早く行ってあげれば？"
+msgstr ""
+
+#. ID 6, Page 1, Line 124, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"ああ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 129, Pos (0,0)
+msgid ""
+"ユアン：\n"
+"あんまり深く考え込むなよ？\\|\n"
+"お前の悪い癖の一つだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 132, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"分かってる。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 146, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"未来無き者に救済を与え、\\.\\.\n"
+"そして世界の真の姿を思い知る。"
+msgstr ""
+
+#. ID 6, Page 1, Line 149, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でもニクソン。\\|\n"
+"まさか貴方もその道を通るなんて。"
+msgstr ""
+
+#. ID 6, Page 1, Line 155, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"もう…\\|12年も前なのね…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 157, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私が与えた、\\.\\.初めての救済…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 159, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"世界の中核に踏み込んだ、\\.\\.とても大きな一歩…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 167, Pos (0,0)
+msgid ""
+"男性：\n"
+"やあヴェーネ。\\|\n"
+"今日はお前の10歳の誕生日だったな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 170, Pos (0,0)
+msgid ""
+"男性：\n"
+"素敵なプレゼントを用意している。"
+msgstr ""
+
+#. ID 6, Page 1, Line 172, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"また猫なんでしょう？"
+msgstr ""
+
+#. ID 6, Page 1, Line 174, Pos (0,0)
+msgid ""
+"男性：\n"
+"おおっと。\\.\\.バレていたか。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 176, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"当たり前よ…！ \\.\\.毎年毎年同じ事ばっかり…！"
+msgstr ""
+
+#. ID 6, Page 1, Line 178, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"猫と私を仲良くさせては、\n"
+"一週間後にその猫を殺しちゃう…！"
+msgstr ""
+
+#. ID 6, Page 1, Line 181, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"もうイヤっ…！\\.\\.\n"
+"そんなんだったら猫なんか要らない…！"
+msgstr ""
+
+#. ID 6, Page 1, Line 184, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私が受け取らなければ、\n"
+"その猫だって殺されずに済むんだから…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 188, Pos (0,0)
+msgid ""
+"男性：\n"
+"\\S[2]クククッ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 191, Pos (0,0)
+msgid ""
+"男性：\n"
+"\"閉ざされた未来\"とは、\\.\\.\n"
+"そんなに生易しい物ではないぞ…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 194, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"えっ…？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 197, Pos (0,0)
+msgid ""
+"男性：\n"
+"今まで毎年毎年プレゼントした猫は、\n"
+"ペットショップで買ったと言っていたが…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 200, Pos (0,0)
+msgid ""
+"男性：\n"
+"実は野良猫の処分施設から\n"
+"引き取って来た奴なのだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 204, Pos (0,0)
+msgid ""
+"男性：\n"
+"お前は、お前が受け取らなければ此奴が\n"
+"殺されずに済むと言ったが…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 207, Pos (0,0)
+msgid ""
+"男性：\n"
+"此奴は薬殺処分直前の身でな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 209, Pos (0,0)
+msgid ""
+"男性：\n"
+"お前が受け取らなければ、\n"
+"引き取り手が無いという事で薬殺処分にされるのだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 212, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"じゃあ私が受け取ったら…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 214, Pos (0,0)
+msgid ""
+"男性：\n"
+"一週間後、私がハンマーで殴り殺すだろう。"
+msgstr ""
+
+#. ID 6, Page 1, Line 216, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そんな…！\\|\n"
+"如何やっても死んじゃうじゃない…！"
+msgstr ""
+
+#. ID 6, Page 1, Line 219, Pos (0,0)
+msgid ""
+"男性：\n"
+"そうだヴェーネ。\\|能くぞ気付いた。"
+msgstr ""
+
+#. ID 6, Page 1, Line 221, Pos (0,0)
+msgid ""
+"男性：\n"
+"閉ざされた未来とは、こういう事を言うのだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 223, Pos (0,0)
+msgid ""
+"男性：\n"
+"どんなに手を尽くしても。\\.\\.どんなに願いを馳せても。\\.\\.\n"
+"絶対に死を免れる事が出来ぬ状態…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 226, Pos (0,0)
+msgid ""
+"男性：\n"
+"\\S[5]本物の絶望だ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 236, Pos (0,0)
+msgid ""
+"男性：\n"
+"ヴェーネ。\\.\\.お前にチャンスを遣ろう。"
+msgstr ""
+
+#. ID 6, Page 1, Line 238, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"チャンス…？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 240, Pos (0,0)
+msgid ""
+"男性：\n"
+"今此処で、このハンマーをお前に貸す。"
+msgstr ""
+
+#. ID 6, Page 1, Line 242, Pos (0,0)
+msgid ""
+"男性：\n"
+"その猫を殺せ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 245, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]できないよぉ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 247, Pos (0,0)
+msgid ""
+"男性：\n"
+"ならば構わんのだがな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 249, Pos (0,0)
+msgid ""
+"男性：\n"
+"此奴はガス室で長時間に渡りもがき苦しみ、\n"
+"妙な色の吐瀉物を吐きながら死んで逝くだろう。"
+msgstr ""
+
+#. ID 6, Page 1, Line 252, Pos (0,0)
+msgid ""
+"男性：\n"
+"迸る苦痛と、死への恐怖から、\n"
+"身体を痙攣させて泣き叫ぶだろう。"
+msgstr ""
+
+#. ID 6, Page 1, Line 256, Pos (0,0)
+msgid ""
+"男性：\n"
+"如何だ。\\.\\.それは厭か？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 258, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]いやだ…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 260, Pos (0,0)
+msgid ""
+"男性：\n"
+"ならばお前が救済するのだ。\\|\n"
+"そのハンマーを無垢な顔に叩き込んで。"
+msgstr ""
+
+#. ID 6, Page 1, Line 263, Pos (0,0)
+msgid ""
+"男性：\n"
+"そうすれば此奴は即死出来る。\\|\n"
+"苦痛も恐怖も、感じる暇も無くだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 267, Pos (0,0)
+msgid ""
+"男性：\n"
+"考える時間を遣ろう。\\|\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 277, Pos (0,0)
+msgid ""
+"男性：\n"
+"さあヴェーネ。\\|\n"
+"お前の答えを聞かせて呉れ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 284, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]ネコさん…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 298, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]ううっ…！\\| ねこさん…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 300, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]ごめんなさい…！\\|\\.\\.\n"
+"ごめんなさいぃぃぃ…！\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 306, Pos (0,0)
+msgid ""
+"男性：\n"
+"そうだ。\\.\\.それで良い。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 308, Pos (0,0)
+msgid ""
+"男性：\n"
+"真の絶望に対し、\\.\\.真の救済を捧げたのだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 310, Pos (0,0)
+msgid ""
+"男性：\n"
+"偉いぞ、\\.\\.ヴェーネ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 315, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[5]ひぐぅ…！ \\|ひっく…！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 317, Pos (0,0)
+msgid ""
+"男性：\n"
+"如何した。\\|何を泣いている。"
+msgstr ""
+
+#. ID 6, Page 1, Line 319, Pos (0,0)
+msgid ""
+"男性：\n"
+"この猫は最良の形で救済を得たのだぞ？\\|\n"
+"お前が自らの手で此奴を救済したのだぞ？"
+msgstr ""
+
+#. ID 6, Page 1, Line 322, Pos (0,0)
+msgid ""
+"男性：\n"
+"何故に悲しむ？"
+msgstr ""
+
+#. ID 6, Page 1, Line 327, Pos (0,0)
+msgid ""
+"男性：\n"
+"もう今更言う事でもないのだがな。\\|\n"
+"此処でもう一度言っておく。"
+msgstr ""
+
+#. ID 6, Page 1, Line 330, Pos (0,0)
+msgid ""
+"男性：\n"
+"心だ。\\.\\.心こそが元凶なのだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 332, Pos (0,0)
+msgid ""
+"男性：\n"
+"今のお前を焦がしている嘆きも悲しみも、\n"
+"全ては心の成せる業。"
+msgstr ""
+
+#. ID 6, Page 1, Line 335, Pos (0,0)
+msgid ""
+"男性：\n"
+"逆に言えば、心を棄てれば\n"
+"嘆きや悲しみを感じる事も無い。"
+msgstr ""
+
+#. ID 6, Page 1, Line 341, Pos (0,0)
+msgid ""
+"男性：\n"
+"心を放棄しろ。\\|\n"
+"人の姿をした道具に成るのだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 344, Pos (0,0)
+msgid ""
+"男性：\n"
+"それは過酷な運命に在るお前を、\n"
+"完璧なまでに救済するだろう。"
+msgstr ""
+
+#. ID 6, Page 1, Line 350, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]きゅうさい…。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 352, Pos (0,0)
+msgid ""
+"男性：\n"
+"そうとも。\\.\\.救済だ。\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 354, Pos (0,0)
+msgid ""
+"男性：\n"
+"お前が心を棄てる事が出来れば、\n"
+"お前はこんな思いをしなくて済むのだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 357, Pos (0,0)
+msgid ""
+"男性：\n"
+"お前は救われるんだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 363, Pos (0,0)
+msgid ""
+"男性：\n"
+"出来るとも。\\.\\.\n"
+"私にはお前の変化が見えている。"
+msgstr ""
+
+#. ID 6, Page 1, Line 366, Pos (0,0)
+msgid ""
+"男性：\n"
+"５歳の誕生日に猫をあげて以来、\n"
+"年々お前は猫を拒む傾向を強めている。"
+msgstr ""
+
+#. ID 6, Page 1, Line 369, Pos (0,0)
+msgid ""
+"男性：\n"
+"それは他でもない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 371, Pos (0,0)
+msgid ""
+"男性：\n"
+"この猫に心を移さなければ済む事だと、\n"
+"お前が無意識に学習しているからだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 374, Pos (0,0)
+msgid ""
+"男性：\n"
+"心を棄てる事で全てが解決するのだと、\n"
+"お前が無意識に悟っているからだ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 380, Pos (0,0)
+msgid ""
+"男性：\n"
+"その証拠に…。\\|\n"
+"猫を殺した際のリアクション…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 386, Pos (0,0)
+msgid ""
+"男性：\n"
+"\\S[3]段々小さく成ってるぞ？\\|\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 388, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"………っ！\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 390, Pos (0,0)
+msgid ""
+"男性：\n"
+"これは案外、まだ余裕が在りそうかもな。"
+msgstr ""
+
+#. ID 6, Page 1, Line 395, Pos (0,0)
+msgid ""
+"男性：\n"
+"如何だヴェーネ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 397, Pos (0,0)
+msgid ""
+"男性：\n"
+"\\S[3]もう一匹。\\|殺してみるか？\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 407, Pos (0,0)
+msgid ""
+"\n"
+"               \\S[5]いやぁぁぁぁぁーっ！\\|\\|\\^"
+msgstr ""
+
+#. ID 6, Page 1, Line 415, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"ニクソン。\\|\n"
+"貴方は如何するのかしらね。"
+msgstr ""
+
+#. ID 6, Page 1, Line 418, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"私の轍を歩くのか。\\|\n"
+"それとも血塗れの心を抱き続けると言うのか。"
+msgstr ""
+
+#. ID 6, Page 1, Line 424, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"でも、\\.\\.事実は示された。"
+msgstr ""
+
+#. ID 6, Page 1, Line 429, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"そんな碌でもない物、\\.\\.後生大事に持ってないで\n"
+"さっさと棄てれば良いのに。"
+msgstr ""
+
+#. ID 6, Page 1, Line 432, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"幻を見る程に救いを求める信仰者。\\.\\.\n"
+"却って己が身を救済から遠ざけている苦労性。"
+msgstr ""
+
+#. ID 6, Page 1, Line 435, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"心という鎖に縛られ、\n"
+"喜楽＜あめ＞と怒哀＜むち＞に躾けられた…。"
+msgstr ""
+
+#. ID 6, Page 1, Line 438, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"愚かしくも哀れな子羊達。"
+msgstr ""
+
+#. ID 6, Page 1, Line 443, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]救済とは、\\.\\.求める事ではない。"
+msgstr ""
+
+#. ID 6, Page 1, Line 445, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[3]放棄する事なのよ。\\|\\|\\^"
+msgstr ""
+

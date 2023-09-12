@@ -1,0 +1,932 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 7, Pos (0,0)
+msgid ""
+"？？？：\n"
+"\\S[2]ヴェーネ…。\\|眼を覚まして…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ヴェーネ：\n"
+"\\S[2]誰…？ \\|私を呼ぶのは…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 18, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]貴女は…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 22, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]貴女は……\\|私…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 26, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"？？？：\\S[2]始まりは遥か以前…。\\|しばしの凍結…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"？？？：\\S[2]そして今…\\|運命は氷解した…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 32, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"？？？：\\S[2]再び…\\|動き出すの…。"
+msgstr ""
+
+#. ID 3, Page 1, Line 36, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[2]運命…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 50, Pos (0,0)
+msgid ""
+"\n"
+"？？？：\n"
+"\\S[2]恐れないで。\\|貴女は独りじゃない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 53, Pos (0,0)
+msgid ""
+"\n"
+"？？？：\n"
+"\\S[2]歩き出して。\\|大切な人々と手を取り合って。"
+msgstr ""
+
+#. ID 3, Page 1, Line 56, Pos (0,0)
+msgid ""
+"\n"
+"？？？：\n"
+"\\S[2]そしてこれから起こる数々の事を、\\.\\.\n"
+"たとえそれが何で在れ、\\.\\.心のままに感じて。"
+msgstr ""
+
+#. ID 3, Page 1, Line 61, Pos (0,0)
+msgid ""
+"\n"
+"ヴェーネ：\n"
+"\\S[2]心の…\\|ままに…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 65, Pos (0,0)
+msgid ""
+"\n"
+"？？？：\n"
+"\\S[2]そう…。\\|心のまま…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 68, Pos (0,0)
+msgid ""
+"\n"
+"？？？：\n"
+"\\S[2]総てに眼を向けて。\\|総てに耳を傾けて。"
+msgstr ""
+
+#. ID 3, Page 1, Line 71, Pos (0,0)
+msgid ""
+"\n"
+"？？？：\n"
+"\\S[2]何一つ。\\|偽らずに。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 75, Pos (0,0)
+msgid ""
+"\n"
+"？？？：\n"
+"\\S[2]さあ…。\\|行くのよ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"？？？：\n"
+"\\S[2]ヴェーネ･アンスバッハ。\\|貴方の旅路へ。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 5, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：その懼れは、\\.\\.或る意味で必然の物。"
+msgstr ""
+
+#. ID 3, Page 2, Line 8, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：しかしながら、\\.\\.\n"
+"今進むべき道は此処より他に無い…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 13, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：分かっているわ…。\\|この自壊の道…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 17, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：\"それ\"を恐れては行けないわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 20, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：壊す事で前に進む事も、時には在る。"
+msgstr ""
+
+#. ID 3, Page 2, Line 23, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：求められし雛鳥を覆う殻。\\|\n"
+"真なる産声を阻む、強く在り儚く在る物。"
+msgstr ""
+
+#. ID 3, Page 2, Line 28, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：その予感は予定調和。"
+msgstr ""
+
+#. ID 3, Page 2, Line 31, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：遥か以前に決定付けられた、\\.\\.\n"
+"予感にして予感に非ざる物。"
+msgstr ""
+
+#. ID 3, Page 2, Line 35, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：儚く、\\.\\.そして痛ましい、\\.\\.自壊の道。"
+msgstr ""
+
+#. ID 3, Page 2, Line 39, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：心配要らないわ。\\.\\.\n"
+"私は其処を逃れる心算は無いから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 43, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：どうせ其処しか、\\.\\.辿る道が無いのだから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 47, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：言わないで…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 50, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：\"その時\"が来るまで、\\.\\.\n"
+"私は貴方と共に在るの。"
+msgstr ""
+
+#. ID 3, Page 2, Line 54, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：全てを超越した本質の領域…。\\|\n"
+"誰もが孤独な場所に於いて…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 58, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：貴女は、\\.\\.決して孤独ではないのだから。"
+msgstr ""
+
+#. ID 3, Page 2, Line 62, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：ええ…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 2, Line 65, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：何時も貴女の存在が、温かい事を…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 69, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：恐れるなとは言わないわ。"
+msgstr ""
+
+#. ID 3, Page 2, Line 72, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：でも、\\.\\.決して嘆かないで。"
+msgstr ""
+
+#. ID 3, Page 2, Line 75, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：結末は、\\.\\.長き時を経て、\\.\\.\n"
+"必ず貴方を救うから…。"
+msgstr ""
+
+#. ID 3, Page 2, Line 80, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：\\S[3]そう…。\\|青空に誓って…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 5, Pos (0,0)
+#. ID 3, Page 3, Line 66, Pos (0,0)
+#. ID 3, Page 3, Line 169, Pos (0,0)
+#. ID 3, Page 4, Line 5, Pos (0,0)
+#. ID 3, Page 4, Line 39, Pos (0,0)
+#. ID 3, Page 4, Line 154, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：\\S[20]………。\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 9, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：浮かない顔ね。\\|あのままで居たかった？"
+msgstr ""
+
+#. ID 3, Page 3, Line 12, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：冗談言わないで。\\.\\.\n"
+"あんな放棄の日々に何を見るのよ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 16, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：放棄…？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 19, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：違う？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 22, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：その認識は誤謬＜ごびゅう＞よ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 25, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：或る一面に於ける意味を示していたとしても\n"
+"\"総て\"としての意味を示す物ではないわ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 29, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：それこそ誤謬じゃないの？\\.\\.\n"
+"放棄と完遂を同一視するなんて。"
+msgstr ""
+
+#. ID 3, Page 3, Line 34, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：過程を省略したベクトルの終点。\\|\n"
+"\"それ\"が消え去った状態として…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 38, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：両者は等価だと考えたのだけれど…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 42, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：何より貴女だって、享受していた筈よ？"
+msgstr ""
+
+#. ID 3, Page 3, Line 45, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：そう…。\\|好感の裡に。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 48, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：嘘。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 51, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：嘘じゃないわ。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 54, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：実際、今の貴女には\"険\"が在る。\\|\n"
+"あの期間には見られなかったのに。"
+msgstr ""
+
+#. ID 3, Page 3, Line 58, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：それどころか今の貴女は、\\.\\.\n"
+"私が知る限り、\\.\\.今までで最も荒んだ状態。"
+msgstr ""
+
+#. ID 3, Page 3, Line 62, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：リバウンド以外の何物でもないわ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 70, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：そう、\\.\\.\"それ\"が鎖として\n"
+"強く貴方を縛っている事の、何よりの証明。"
+msgstr ""
+
+#. ID 3, Page 3, Line 74, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：そしてあの日々が貴方にとって…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 77, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：知らないわ、\\.\\.そんなの。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 82, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：私なんて元々、そういう物じゃない。\\|\n"
+"リバウンドとか関係無しに。"
+msgstr ""
+
+#. ID 3, Page 3, Line 87, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：そう、\\.\\.これこそが\"私\"。"
+msgstr ""
+
+#. ID 3, Page 3, Line 90, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：私は、\\.\\.紛れも無く此処に居る。"
+msgstr ""
+
+#. ID 3, Page 3, Line 94, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：忘れて呉れないかしら。\\|\n"
+"あんな下らないペルソナの事など。"
+msgstr ""
+
+#. ID 3, Page 3, Line 98, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：ペルソナで在ろうとも、それは事実。\\|\n"
+"現実に存在した物よ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 102, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：事実を、事実として…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 105, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：重要なのは、其処ではない…。"
+msgstr ""
+
+#. ID 3, Page 3, Line 109, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：それは、\\.\\.\"在ってはならない事\"なのよ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 112, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：そして好ましからざるペルソナは、\n"
+"炎に掛け灰燼に帰さなくては。"
+msgstr ""
+
+#. ID 3, Page 3, Line 116, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：それが運命。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 121, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：飽くまで…\\|ファクターで在ろうとするのね。"
+msgstr ""
+
+#. ID 3, Page 3, Line 124, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：世界に於ける、需要と供給よ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 127, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：陳腐な自己認識と自己実現は、\n"
+"其処で一定の正当性を保持しつつ排除される。"
+msgstr ""
+
+#. ID 3, Page 3, Line 131, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：だから私はそれに応じるだけ。\\|\n"
+"否、そうする事しか出来ない。"
+msgstr ""
+
+#. ID 3, Page 3, Line 136, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：感心しないわね。"
+msgstr ""
+
+#. ID 3, Page 3, Line 139, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：そういう思考は、\n"
+"クリティカルなケースでは命取りに成りかねないわ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 143, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：エンデやその他諸々が本格的に\n"
+"動き出している、これ以降の局面＜ステージ＞では。"
+msgstr ""
+
+#. ID 3, Page 3, Line 147, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：そんな事。\\|私だって充分に承知している。"
+msgstr ""
+
+#. ID 3, Page 3, Line 151, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：でも…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 155, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：今更騒ぐ事でもないでしょう？\\|\n"
+"私の生死なんて。"
+msgstr ""
+
+#. ID 3, Page 3, Line 160, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：私は\"同類\"を増やして欲しいとは、\n"
+"微塵も思っていないわ。"
+msgstr ""
+
+#. ID 3, Page 3, Line 164, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：高々一個人にも満たない意見だけれど、\\.\\.\n"
+"この点に於いて需要に反してはいないかしら。"
+msgstr ""
+
+#. ID 3, Page 3, Line 173, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：善処するわ。\\|\n"
+"他ならぬ貴女からの需要だから。"
+msgstr ""
+
+#. ID 3, Page 3, Line 178, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：ええ。\\.\\.是非とも。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 3, Line 181, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：過ぎたる位に、\\.\\.頑なに。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 9, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：有難う…。\\|レイクの時…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 12, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：私の翼に成って呉れて…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 15, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：久し振りだったわね。\\.\\.\n"
+"あんなにも直向きな\"私達\"。"
+msgstr ""
+
+#. ID 3, Page 4, Line 19, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：フリッツとの\"小さな反乱\"以来かしら？"
+msgstr ""
+
+#. ID 3, Page 4, Line 22, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：昔の話よ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 26, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：相変わらず\"険\"の在る顔。"
+msgstr ""
+
+#. ID 3, Page 4, Line 29, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：当然よ。\\.\\.\"刻\"が迫っているのだから。"
+msgstr ""
+
+#. ID 3, Page 4, Line 32, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：エンデの事？ \\|それとも私の事？"
+msgstr ""
+
+#. ID 3, Page 4, Line 35, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：或いは…\\|エルの事？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 43, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：やはり…\\|エルは…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 46, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：感付いていたのね。\\.\\.\n"
+"５年前とはまるで状況が違っていると…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 50, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：私の方にも干渉が在った。\\|\n"
+"私との因果を伝って。"
+msgstr ""
+
+#. ID 3, Page 4, Line 54, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：貴女という、檻の中から。"
+msgstr ""
+
+#. ID 3, Page 4, Line 59, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：彼女は…\\.\\.\n"
+"最早私達の知っているエルではないわ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 63, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：自傷代行者から二律背反の半身を経て、\n"
+"実現不可若しくは不認可のカウンターパート…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 67, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：そして対立と葛藤…。\\|貴女からの分断…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 70, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：私への…\\|幽閉…。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 74, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：分かっているわ。\\|\n"
+"貴女が私に、希望と期待を寄せた事。"
+msgstr ""
+
+#. ID 3, Page 4, Line 78, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：私とエルを分断して、\\.\\.\n"
+"いずれ私がエルを滅する力を付ける事を…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 83, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：成せるならば、\\.\\.形而上、\\.\\.個の内部にて…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 86, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：しかし、今と成ってはその思惑も…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 89, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：エルが、全く新しい\"答え\"を\n"
+"出してしまったから…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 93, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：形而上にて\"私\"を獲得せず、\\.\\.\n"
+"形而下に\"彼女\"としての新規存在を…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 97, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：私より発し、\\|私を離れ、\\|\n"
+"私でない一個の独立した存在として…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 103, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：しかし幸いにも、\\.\\.彼女はまだ檻の中。"
+msgstr ""
+
+#. ID 3, Page 4, Line 106, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：統合時のプロビデンス変異…。\\|\n"
+"存在回帰による波動…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 110, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：事象の海に生ずる大渦に巻き込めば、\n"
+"彼女を滅する事が出来る。"
+msgstr ""
+
+#. ID 3, Page 4, Line 115, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：でも…。\\|それはきっと無理よ…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 118, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：たとえ貴女がどれ程頑張っても、\n"
+"きっと私がエルを取り逃がしてしまう…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 122, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：そんな事は無いわ。"
+msgstr ""
+
+#. ID 3, Page 4, Line 125, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：互いに結び合い、\\|抱き合い、\\|\n"
+"心を想いで満たす事が出来たならば…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 130, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：最後の共同作業という訳ね…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 134, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：少し…\\|寂しく成るかも…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 139, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：嬉しいわ。\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 142, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：………？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 145, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：以前の貴女なら、\\.\\.\n"
+"そんな事を言っては呉れなかった。"
+msgstr ""
+
+#. ID 3, Page 4, Line 149, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：たとえ寂しいと感じても、\\.\\.\n"
+"それを口に出しては呉れなかった。"
+msgstr ""
+
+#. ID 3, Page 4, Line 158, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：怖い？\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 161, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：緊張はするわね。"
+msgstr ""
+
+#. ID 3, Page 4, Line 165, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"オーファ：頑張りましょう…。\\|\n"
+"私達二人の、最後の…。"
+msgstr ""
+
+#. ID 3, Page 4, Line 170, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：そうね…。\\|頑張りましょう…。\\|\\|\\^"
+msgstr ""
+
+#. ID 3, Page 4, Line 173, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"ヴェーネ：何時か必ず還る、\\|貴女と私の為に…。\\|\\|\\^"
+msgstr ""
+

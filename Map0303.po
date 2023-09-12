@@ -1,0 +1,766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (9,14)
+#. ID 3, Page 3, Line 3, Pos (9,14)
+msgid ""
+"男性：\n"
+"ここは中庭。\n"
+"ガイアキャンサーとの戦いで疲れた心身を\n"
+"リラックスさせる場所。"
+msgstr ""
+
+#. ID 3, Page 1, Line 7, Pos (9,14)
+#. ID 3, Page 3, Line 7, Pos (9,14)
+msgid ""
+"男性：\n"
+"しかし見ての通り、現在噴水が故障中。"
+msgstr ""
+
+#. ID 3, Page 1, Line 9, Pos (9,14)
+#. ID 3, Page 3, Line 9, Pos (9,14)
+msgid ""
+"男性：\n"
+"しかも予算が厳しくて、修理の目処も立っていない。"
+msgstr ""
+
+#. ID 3, Page 1, Line 11, Pos (9,14)
+#. ID 3, Page 3, Line 11, Pos (9,14)
+msgid ""
+"男性：\n"
+"それを考えると、何だか荒む…。"
+msgstr ""
+
+#. ID 3, Page 5, Line 3, Pos (9,14)
+msgid ""
+"ケイン：\n"
+"あ～暇。"
+msgstr ""
+
+#. ID 3, Page 5, Line 5, Pos (9,14)
+msgid ""
+"ケイン：\n"
+"どうせ刺客なんか来やしねえよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 8, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"選りに選って、今日降る事も無いだろ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 10, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"まるで当て付けじゃねえか。\\|\n"
+"あの日の続きだと言わんばかり。"
+msgstr ""
+
+#. ID 5, Page 1, Line 13, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"ひでえ仕打ちだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 18, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"ああ…。\\|余計な御世話だよ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 20, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"誰に言われなくたって、\\.\\.あの日の事は忘れない。"
+msgstr ""
+
+#. ID 5, Page 1, Line 22, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"それどころか心の幾らかは、\n"
+"今だってあそこに置き去りのままだ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 28, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[2]だから…\\|雨が降る度に思い出す…。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 30, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[2]あの日の…\\|あの冷たさを…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 38, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[3]シリア…。\\|\n"
+"何で…\\.\\.こんな事に…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 42, Pos (8,24)
+msgid ""
+"シリア：\n"
+"\\S[3]それよりも見て…。\\|可愛いでしょう…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 45, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[3]ああ…。\\|\n"
+"お前に良く似た…\\.\\.可愛い子だよ…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 49, Pos (8,24)
+msgid ""
+"シリア：\n"
+"\\S[3]そんな事無いわ…。\\|貴方の方が似てる…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 52, Pos (8,24)
+#. ID 5, Page 1, Line 157, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 55, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[3]済まない…。\\|\n"
+"俺があんな事さえしなければ…。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 59, Pos (8,24)
+msgid ""
+"シリア：\n"
+"\\S[3]何で…？\\|\n"
+"こうしてレイクが生まれて来たのに…。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 63, Pos (8,24)
+msgid ""
+"シリア：\n"
+"\\S[3]私は…\\|貴方と出会えて良かった…。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 65, Pos (8,24)
+msgid ""
+"シリア：\n"
+"\\S[3]本当に…\\|幸せだった…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 68, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[3]シリア…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 71, Pos (8,24)
+msgid ""
+"シリア：\n"
+"\\S[3]生まれ変わったら…\\|また逢えるかしら…？\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 73, Pos (8,24)
+msgid ""
+"シリア：\n"
+"\\S[3]この生命が消えても…\\|この魂は消えないから…。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 75, Pos (8,24)
+msgid ""
+"シリア：\n"
+"\\S[3]何時かまた…\\|三人で…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 77, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[3]ああ…！ \\|絶対に…！\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 80, Pos (8,24)
+msgid ""
+"\n"
+"                   \\S[3]クスッ…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 83, Pos (8,24)
+msgid ""
+"\n"
+"                  \\S[5]良かった…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 90, Pos (8,24)
+msgid ""
+"\n"
+"\n"
+"\n"
+"              \\S[3]なぁ…。\\|嘘だろ…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 95, Pos (8,24)
+msgid ""
+"\n"
+"\n"
+"\n"
+"               \\S[3]起きてくれよぉ…。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 100, Pos (8,24)
+msgid ""
+"\n"
+"\n"
+"\n"
+"               \\S[3]厭だよ…。\\|俺…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 105, Pos (8,24)
+msgid ""
+"\n"
+"\n"
+"\n"
+"          \\S[3]お前が死んじまうなんて…。\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 110, Pos (8,24)
+msgid ""
+"\n"
+"\n"
+"\n"
+"             \\S[3]そんなの…\\|厭だァ…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 117, Pos (8,24)
+msgid ""
+"\n"
+"            \\S[2]シリアーーーァァァッ!!!!\\|\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 138, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"済まねえな…。\\|こんな不甲斐無い奴でさ…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 143, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"全部…\\|俺の責任だよな…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 148, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"なあシリア？\\|\n"
+"俺は今…\\.\\.償えているのか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 151, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"この戦いに生命を削る事で、\\.\\.\n"
+"俺の罪は償えているのか？"
+msgstr ""
+
+#. ID 5, Page 1, Line 162, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[2]悪いな…。\\|\n"
+"こうする事位しか、\\.\\.思い付かないんだよ。"
+msgstr ""
+
+#. ID 5, Page 1, Line 165, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[2]俺は、\\.\\.クズだから…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 167, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[2]あんな惨い死に方をさせちまった…。"
+msgstr ""
+
+#. ID 5, Page 1, Line 169, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\\S[2]最低の…\\|クズ野郎だから…。\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 15, Pos (8,24)
+msgid ""
+"レイク：\n"
+"やっぱり…。\\|忘れられないか…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 22, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"ああ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 24, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"雨が降る度に、あの日の記憶が蘇って来る。"
+msgstr ""
+
+#. ID 5, Page 2, Line 26, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"あれから何十年経とうとも、\n"
+"決して変わらない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 35, Pos (8,24)
+msgid ""
+"レイク：\n"
+"本当に…\\|愛していたんだな…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 40, Pos (8,24)
+msgid ""
+"レイク：\n"
+"実はな…。\\|ドナルドの爺さんが…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 49, Pos (8,24)
+msgid ""
+"レイク：\n"
+"俺は…\\|本当に愛されて生まれて来たのか…？"
+msgstr ""
+
+#. ID 5, Page 2, Line 51, Pos (8,24)
+msgid ""
+"ドナルド：\n"
+"突然何を言い出すか。"
+msgstr ""
+
+#. ID 5, Page 2, Line 53, Pos (8,24)
+msgid ""
+"レイク：\n"
+"プロジェクト･セラフィックブルーなんだろう？"
+msgstr ""
+
+#. ID 5, Page 2, Line 55, Pos (8,24)
+msgid ""
+"レイク：\n"
+"母さんの温もりは、良く憶えているが…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 57, Pos (8,24)
+msgid ""
+"レイク：\n"
+"それでも俺が生まれる事が、\n"
+"計画として進められていたと思うと…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 60, Pos (8,24)
+msgid ""
+"レイク：\n"
+"或いは、何としても誕生させなくてはと、\n"
+"責務に追われていたかと思うと…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 66, Pos (8,24)
+msgid ""
+"ドナルド：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 71, Pos (8,24)
+msgid ""
+"ドナルド：\n"
+"飽くまで学者として醒めた眼で見るのならば、\n"
+"お前さんの生まれは純然たる愛ではない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 74, Pos (8,24)
+msgid ""
+"ドナルド：\n"
+"確かにあの頃、ユアンは計画を放棄していた。\\|\n"
+"そういう意味では責務や打算の介在は無いだろう。"
+msgstr ""
+
+#. ID 5, Page 2, Line 77, Pos (8,24)
+msgid ""
+"ドナルド：\n"
+"寧ろ問題と成るのは、その環境。\\|\n"
+"追っ手からの逃避行という、極度の非日常。"
+msgstr ""
+
+#. ID 5, Page 2, Line 80, Pos (8,24)
+msgid ""
+"ドナルド：\n"
+"その中に於ける男女は、高揚感を愛情と錯覚。\n"
+"中身の無い刹那的な、安かろう悪かろうの恋愛関係を\n"
+"構築する事が多い。"
+msgstr ""
+
+#. ID 5, Page 2, Line 87, Pos (8,24)
+msgid ""
+"ドナルド：\n"
+"だがあの二人は違っていたと、\\.\\.私は思う。"
+msgstr ""
+
+#. ID 5, Page 2, Line 89, Pos (8,24)
+msgid ""
+"ドナルド：\n"
+"二人の日々を共に歓び、\\.\\.\n"
+"それを守る事に生命と魂を賭していた。"
+msgstr ""
+
+#. ID 5, Page 2, Line 92, Pos (8,24)
+msgid ""
+"ドナルド：\n"
+"そんな二人が共鳴したからこそ、\\.\\.\n"
+"摂理の制約を超え、\\.\\.お前さんの誕生が果たされたと…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 95, Pos (8,24)
+msgid ""
+"ドナルド：\n"
+"真相は最早誰にも分からぬが、\\.\\.\n"
+"私はそう結論している。"
+msgstr ""
+
+#. ID 5, Page 2, Line 101, Pos (8,24)
+msgid ""
+"ドナルド：\n"
+"憶えておらんのか？\\|\n"
+"シリアの笑顔を。"
+msgstr ""
+
+#. ID 5, Page 2, Line 107, Pos (8,24)
+msgid ""
+"レイク：\n"
+"憶えているさ…。\\|けどな…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 112, Pos (8,24)
+msgid ""
+"レイク：\n"
+"あの雨は…\\|未だ止んでないんだよ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 121, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"お前もか…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 126, Pos (8,24)
+msgid ""
+"レイク：\n"
+"あの雨は、死ぬまで降り続ける。"
+msgstr ""
+
+#. ID 5, Page 2, Line 131, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"降り止まない雨は無いさ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 133, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"どんなに激しくても、どんなに冷たくても。\\|\n"
+"何時か必ず、青空が顔を見せる。"
+msgstr ""
+
+#. ID 5, Page 2, Line 139, Pos (8,24)
+msgid ""
+"レイク：\n"
+"でも母さんは、\\.\\.\n"
+"もう青空を見る事は出来ないんだぜ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 145, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"あいつなら、\\.\\.もう青空に居る。"
+msgstr ""
+
+#. ID 5, Page 2, Line 150, Pos (8,24)
+#. ID 5, Page 2, Line 265, Pos (8,24)
+#. ID 5, Page 2, Line 321, Pos (8,24)
+msgid ""
+"レイク：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 155, Pos (8,24)
+msgid ""
+"レイク：\n"
+"一緒に戦う事にした。"
+msgstr ""
+
+#. ID 5, Page 2, Line 160, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"能く決めて呉れた。\\|有難う。"
+msgstr ""
+
+#. ID 5, Page 2, Line 162, Pos (8,24)
+msgid ""
+"レイク：\n"
+"勘違いするな。\\.\\.\n"
+"あんたを赦した訳じゃない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 168, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"赦して貰おうだなんて、\\.\\.そんな厚かましい事。"
+msgstr ""
+
+#. ID 5, Page 2, Line 173, Pos (8,24)
+msgid ""
+"レイク：\n"
+"母さんが望んだ形だから。\\|\n"
+"そしてヴェーネと運命を共にしたいから…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 179, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\"シリアの魂\"とか？"
+msgstr ""
+
+#. ID 5, Page 2, Line 181, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"それが\"ヴェーネ自身\"を否定する事だと…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 186, Pos (8,24)
+msgid ""
+"レイク：\n"
+"分かってるさ。\\|俺もヴェーネにそう言った。"
+msgstr ""
+
+#. ID 5, Page 2, Line 195, Pos (8,24)
+msgid ""
+"レイク：\n"
+"でも…\\.\\.それはお前自身を否定しちまうよな…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 197, Pos (8,24)
+msgid ""
+"ヴェーネ：\n"
+"それでも構わないわ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 199, Pos (8,24)
+msgid ""
+"ヴェーネ：\n"
+"貴方は母親の温もりを知らずに育ってしまった。\\|\n"
+"そして今此処にその魂、その温もりの核心が在る。"
+msgstr ""
+
+#. ID 5, Page 2, Line 202, Pos (8,24)
+msgid ""
+"ヴェーネ：\n"
+"貴方には、それに寄り添う権利が有る。\\|\n"
+"私にも、それを差し出す意志が有る。"
+msgstr ""
+
+#. ID 5, Page 2, Line 208, Pos (8,24)
+msgid ""
+"ヴェーネ：\n"
+"たとえ貴方が私を\"シリア\"と見て、\n"
+"\"ヴェーネ\"と見て呉れなくても。"
+msgstr ""
+
+#. ID 5, Page 2, Line 211, Pos (8,24)
+msgid ""
+"ヴェーネ：\n"
+"それは需要と供給の\n"
+"理想的なマッチングなのだから。"
+msgstr ""
+
+#. ID 5, Page 2, Line 222, Pos (8,24)
+msgid ""
+"レイク：\n"
+"確かに温かいんだが、釈然としない気分だ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 224, Pos (8,24)
+msgid ""
+"レイク：\n"
+"折角の再会だってのに。"
+msgstr ""
+
+#. ID 5, Page 2, Line 229, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"\"連中\"のふざけた教育の所為だろうな。"
+msgstr ""
+
+#. ID 5, Page 2, Line 231, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"何て言うのか、自分を\"モノ\"的に見るんだよ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 236, Pos (8,24)
+msgid ""
+"レイク：\n"
+"救世の道具…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 238, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"だろうな。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 240, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"止めろ止めろと言い続けて、\n"
+"あれでも今では大分マシに成った方だ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 246, Pos (8,24)
+msgid ""
+"レイク：\n"
+"俺は、\\.\\.あいつを何だと思ってるんだろうな…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 248, Pos (8,24)
+msgid ""
+"レイク：\n"
+"ヴェーネか…。\\|\n"
+"それとも母さんか…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 254, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"気にするな。\\.\\.\n"
+"頭で考えて如何にか成る事じゃない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 257, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"理屈言ってないで、時を重ねてれば良い。\\|\n"
+"そうすれば、その内見えて来るさ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 260, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"ヴェーネ自身が。"
+msgstr ""
+
+#. ID 5, Page 2, Line 270, Pos (8,24)
+msgid ""
+"レイク：\n"
+"如何やら、あんたの方が\n"
+"ヴェーネの事を良く知ってるみたいだ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 273, Pos (8,24)
+msgid ""
+"レイク：\n"
+"悔しいが、\\.\\.認めて遣る。"
+msgstr ""
+
+#. ID 5, Page 2, Line 275, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"そんな大した物じゃないぜ。"
+msgstr ""
+
+#. ID 5, Page 2, Line 281, Pos (8,24)
+msgid ""
+"レイク：\n"
+"ところで…。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 283, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"ん？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 285, Pos (8,24)
+msgid ""
+"レイク：\n"
+"ヴェーネは…\\|何時もあんな感じなのか？"
+msgstr ""
+
+#. ID 5, Page 2, Line 287, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"て言うと？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 289, Pos (8,24)
+msgid ""
+"レイク：\n"
+"前より、\\.\\.グラウンドを旅した時より、\\.\\.\n"
+"少しだけ冷たく感じた。"
+msgstr ""
+
+#. ID 5, Page 2, Line 292, Pos (8,24)
+msgid ""
+"レイク：\n"
+"気の所為かも知れないがな。"
+msgstr ""
+
+#. ID 5, Page 2, Line 297, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"そうか…。\\|だとすれば皮肉だな…。"
+msgstr ""
+
+#. ID 5, Page 2, Line 299, Pos (8,24)
+msgid ""
+"レイク：\n"
+"皮肉？\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 301, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"否、\\.\\.こっちの話だ。\\|\\^"
+msgstr ""
+
+#. ID 5, Page 2, Line 309, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"雨…。\\|止んだみたいだな。"
+msgstr ""
+
+#. ID 5, Page 2, Line 314, Pos (8,24)
+msgid ""
+"レイク：\n"
+"でも曇ったままだぞ。\\.\\.青空が出てない。"
+msgstr ""
+
+#. ID 5, Page 2, Line 316, Pos (8,24)
+msgid ""
+"ユアン：\n"
+"その内出るさ。\\.\\.不貞腐れるなって。"
+msgstr ""
+
+#. ID 5, Page 2, Line 326, Pos (8,24)
+msgid ""
+"レイク：\n"
+"子供扱いすんじゃねえ。\\|\\|\\^"
+msgstr ""
+

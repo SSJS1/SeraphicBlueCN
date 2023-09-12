@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"長い時が過ぎた…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"それでもこの場所に立てば、\\.\\.\n"
+"記憶は溢れる様に蘇って来る…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"御報告致します。"
+msgstr ""
+
+#. ID 1, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"期せず偶然の産物では在りますが、\\.\\.\n"
+"只今、\"彼\"を\"二人\"の所に送り届けている最中です。"
+msgstr ""
+
+#. ID 1, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"これを以って、\\.\\.遂に運命の最後の歯車が\n"
+"動き出す事でしょう。"
+msgstr ""
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"尤もその過程に於いて、\n"
+"まだ幾つかの阻害因子が確認されますが。"
+msgstr ""
+
+#. ID 1, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"もう直ぐです。"
+msgstr ""
+
+#. ID 1, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"遥か創生の彼方…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"天使の誕生と共に始まった、\\.\\.\n"
+"この長き運命の終わる時…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 40, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"嘗て此処で語り合った、\\.\\.その時が…。"
+msgstr ""
+
+#. ID 1, Page 1, Line 47, Pos (0,0)
+msgid ""
+"？？？：\n"
+"\\S[2]独り言は…\\.\\.寂しいわ。\\|\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 60, Pos (0,0)
+msgid ""
+"黒衣の少女：\n"
+"元気にしてたかしら、\\.\\.ハウゼン？"
+msgstr ""
+
+#. ID 1, Page 1, Line 65, Pos (0,0)
+msgid ""
+"黒衣の女性：\n"
+"御久し振りですね。"
+msgstr ""
+
+#. ID 1, Page 1, Line 70, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"ええ、本当に。\\|\n"
+"御久し振りで御座います。"
+msgstr ""
+
+#. ID 1, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ハウゼン：\n"
+"親愛なるマスターよ。"
+msgstr ""
+

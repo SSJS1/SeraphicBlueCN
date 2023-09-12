@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 40, Page 2, Line 85, Pos (1,28)
+msgid ""
+"ニクソン：\n"
+"さて…\\|如何やら…。\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 87, Pos (1,28)
+msgid ""
+"ランサード：\n"
+"随分とお待ちかねだったようだな。"
+msgstr ""
+
+#. ID 40, Page 2, Line 92, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"ええ…。\\|遠きフェジテの客人。"
+msgstr ""
+
+#. ID 40, Page 2, Line 97, Pos (1,28)
+msgid ""
+"？？？：\n"
+"姿を隠しても気配で分かるか。\\.\\.\n"
+"それなりに腕は立つようだな。"
+msgstr ""
+
+#. ID 40, Page 2, Line 100, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"逃げも隠れもしないわ。\\|\n"
+"姿を見せて。"
+msgstr ""
+
+#. ID 40, Page 2, Line 106, Pos (1,28)
+msgid ""
+"？？？：\n"
+"その意気や良し。\\|丁重に歓迎しよう。"
+msgstr ""
+
+#. ID 40, Page 2, Line 120, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"先ずは自己紹介しておこうか。"
+msgstr ""
+
+#. ID 40, Page 2, Line 122, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"私はオーウェン･バルチック。\\.\\.\n"
+"C.M.G.C.の委員長で、この部隊の長を務めている。"
+msgstr ""
+
+#. ID 40, Page 2, Line 128, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"さて、既に知っている事とは思うが、\\.\\.\n"
+"ゲオルクは我々フェジテに対して宣戦布告した。"
+msgstr ""
+
+#. ID 40, Page 2, Line 131, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"その上で昨日、\\.\\.グラウンド僻地のロビン秘密工場にて\n"
+"大規模なフェジテ侵攻作戦が企てられた。"
+msgstr ""
+
+#. ID 40, Page 2, Line 134, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"尤も結果としては\"彼ら\"の活躍に依って\n"
+"未然に阻止された訳だが…。"
+msgstr ""
+
+#. ID 40, Page 2, Line 140, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"しかしその中で、\\.\\.唯一隻だけ独走し、\n"
+"フェジテ空域に入って来た黒獅子＜ふね＞が存在する。"
+msgstr ""
+
+#. ID 40, Page 2, Line 146, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"間違いは無いな？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 148, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"認めるわ。\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 154, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"如何とも解せない事だ。"
+msgstr ""
+
+#. ID 40, Page 2, Line 156, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"此処までの道中で仲間と別れた形跡は見られず、\n"
+"それは即ち乗組員が諸君ら４人だけで在った事を\n"
+"意味する。"
+msgstr ""
+
+#. ID 40, Page 2, Line 160, Pos (1,28)
+msgid ""
+"ニクソン：\n"
+"そうですとも。\\.\\.\n"
+"乗っていたのは私達４人だけです。"
+msgstr ""
+
+#. ID 40, Page 2, Line 166, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"目的は何だ？\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 168, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"たった一機。\\.\\.\n"
+"しかも乗組員は４名だけ。"
+msgstr ""
+
+#. ID 40, Page 2, Line 171, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"自爆攻撃でもなければ、\\.\\.\n"
+"\"トロイの木馬\"でもなく。"
+msgstr ""
+
+#. ID 40, Page 2, Line 174, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"我々への攻撃が目的では在るまい？"
+msgstr ""
+
+#. ID 40, Page 2, Line 176, Pos (1,28)
+msgid ""
+"ランサード：\n"
+"ゲオルクの奸計とは思わんのか？"
+msgstr ""
+
+#. ID 40, Page 2, Line 178, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"馬の扱いが粗末過ぎる。"
+msgstr ""
+
+#. ID 40, Page 2, Line 180, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"あれは生粋の素人が為し得る珍技。\\.\\.\n"
+"プロが素人を装って出来る物ではない。"
+msgstr ""
+
+#. ID 40, Page 2, Line 183, Pos (1,28)
+msgid ""
+"ランサード：\n"
+"そんな見掛けだけで俺達への疑いを解くか。\\.\\.\n"
+"フェジテも程が知れてるな。"
+msgstr ""
+
+#. ID 40, Page 2, Line 186, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"見くびって呉れるな。\\.\\.\n"
+"そんな物に確証を依存する私ではない。"
+msgstr ""
+
+#. ID 40, Page 2, Line 189, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"ならば何を以って？"
+msgstr ""
+
+#. ID 40, Page 2, Line 194, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"諸君らの眼差しだ。"
+msgstr ""
+
+#. ID 40, Page 2, Line 196, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"武人と言うのは少々大袈裟だが、\n"
+"頑なにして清廉な、良い戦士の眼をしている。"
+msgstr ""
+
+#. ID 40, Page 2, Line 199, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"ゲオルクの忌まわしく淀んだ意志に\n"
+"与り知る事の無い眼だ。"
+msgstr ""
+
+#. ID 40, Page 2, Line 202, Pos (1,28)
+msgid ""
+"ニクソン：\n"
+"能くそんな事が分かりますね。"
+msgstr ""
+
+#. ID 40, Page 2, Line 204, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"私も２年前までは\n"
+"城にて近衛兵隊隊長を務めた身だからな。"
+msgstr ""
+
+#. ID 40, Page 2, Line 207, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"戦士として通ずるものが在ると？"
+msgstr ""
+
+#. ID 40, Page 2, Line 209, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"平たく言えばな。"
+msgstr ""
+
+#. ID 40, Page 2, Line 215, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"さあ、問答はもう充分だろう。\\|\n"
+"諸君らの目的を聞かせて貰おうか。"
+msgstr ""
+
+#. ID 40, Page 2, Line 218, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"黒獅子なんぞを拝借してまで、\n"
+"このフェジテに一体何を求めたというのだ？"
+msgstr ""
+
+#. ID 40, Page 2, Line 224, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"この子…。\\|ドリスを送り届けに来たのよ。"
+msgstr ""
+
+#. ID 40, Page 2, Line 226, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"送り届ける？\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 228, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"意味が分かり兼ねるな。\\|\n"
+"パーソンをフェジテに送り届ける所以など無い筈だ。"
+msgstr ""
+
+#. ID 40, Page 2, Line 231, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"いいえ、\\.\\.それは大きな誤解。"
+msgstr ""
+
+#. ID 40, Page 2, Line 233, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"ドリスはセラパーソンなのよ。"
+msgstr ""
+
+#. ID 40, Page 2, Line 235, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"………！\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 240, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"本当なのか？\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 242, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"ええ。\\.\\.本当よ。\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 244, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"フェジテ魔法アカデミーのスペリオルメイジ、\n"
+"ドリス･シュテンダル。"
+msgstr ""
+
+#. ID 40, Page 2, Line 247, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"この子のバッジに書いて在ったわ。\\|\n"
+"嘘だと思うなら見てみれば？"
+msgstr ""
+
+#. ID 40, Page 2, Line 253, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 268, Pos (1,28)
+msgid ""
+"部下：\n"
+"(オーウェン様。\\.\\.\n"
+" お話の途中ですが重要な御報せが。)"
+msgstr ""
+
+#. ID 40, Page 2, Line 271, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"(何だ？)\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 273, Pos (1,28)
+msgid ""
+"部下：\n"
+"(たった今入った情報に依ると…。)"
+msgstr ""
+
+#. ID 40, Page 2, Line 278, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"(何だと…！)\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 283, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"(おのれゲオルクめ…。\\|\n"
+" やはりあの工場は陽動だったのか…。)"
+msgstr ""
+
+#. ID 40, Page 2, Line 286, Pos (1,28)
+msgid ""
+"部下：\n"
+"(如何なさいますか？)"
+msgstr ""
+
+#. ID 40, Page 2, Line 291, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"(否、我々は出ない。\\.\\.\n"
+" この状態では距離も遠いし足も遅いからな。)"
+msgstr ""
+
+#. ID 40, Page 2, Line 294, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"(それに、今其処に在る物も重要と言えば重要だ。\\|\n"
+" 蔑ろには出来ん。)"
+msgstr ""
+
+#. ID 40, Page 2, Line 300, Pos (1,28)
+msgid ""
+"部下：\n"
+"(彼女ら、本当にゲオルクとは無関係なので…？)"
+msgstr ""
+
+#. ID 40, Page 2, Line 302, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"(私の直感だがな。\\.\\. 何れにせよ取調べは行う。)"
+msgstr ""
+
+#. ID 40, Page 2, Line 304, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"(特にドリス･シュテンダルというのが気に成る。\n"
+" 魔法アカデミーのスペリオルメイジらしい。)"
+msgstr ""
+
+#. ID 40, Page 2, Line 307, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"(先に何人か帰して調べを進めておけ。)"
+msgstr ""
+
+#. ID 40, Page 2, Line 309, Pos (1,28)
+msgid ""
+"部下：\n"
+"(はっ。)\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 318, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"兎に角、\\.\\.今此処で諸君らを\n"
+"自由放免にする事は不可能だ。"
+msgstr ""
+
+#. ID 40, Page 2, Line 321, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"此処から北西の方角にC.M.G.C.の本部施設が在る。\\|\n"
+"其処まで同行願おう。"
+msgstr ""
+
+#. ID 40, Page 2, Line 327, Pos (1,28)
+msgid ""
+"ドリス：\n"
+"\\S[2]ワタシたち、\\.\\.ツカまっちゃうの？"
+msgstr ""
+
+#. ID 40, Page 2, Line 330, Pos (1,28)
+msgid ""
+"ドリス：\n"
+"\\S[2]また…\\|オシオキされるの…？\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 332, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"大丈夫だドリス。\\|\n"
+"何も心配する事は無い。"
+msgstr ""
+
+#. ID 40, Page 2, Line 335, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"目的や事の経緯にも左右されるが、\n"
+"極力我々は君達を善く扱う心算でいる。"
+msgstr ""
+
+#. ID 40, Page 2, Line 341, Pos (1,28)
+msgid ""
+"ドリス：\n"
+"\\S[20]………。\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 346, Pos (1,28)
+msgid ""
+"ドリス：\n"
+"分かった。\\|オジちゃんについてく。"
+msgstr ""
+
+#. ID 40, Page 2, Line 348, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"有難う。\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 355, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"優しいのね。\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 357, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"義務と責任だ。\\.\\.\n"
+"優しさとは一線を画す。"
+msgstr ""
+
+#. ID 40, Page 2, Line 360, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"同じ事。\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 362, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"余り調子に乗るなよ。\\.\\.\n"
+"まだ被疑の立場なのだからな。"
+msgstr ""
+
+#. ID 40, Page 2, Line 368, Pos (1,28)
+msgid ""
+"ヤンシー：\n"
+"そうね。\\.\\.もう黙ってるわ。"
+msgstr ""
+
+#. ID 40, Page 2, Line 370, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"それが賢明だ。\\|\\^"
+msgstr ""
+
+#. ID 40, Page 2, Line 375, Pos (1,28)
+msgid ""
+"オーウェン：\n"
+"では同行願おうか。\\|\n"
+"遠きグラウンドの客人よ。"
+msgstr ""
+

@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (14,9)
+msgid ""
+"男性：\n"
+"このショップの売り上げは多分世界一だぜ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 5, Pos (14,9)
+msgid ""
+"男性：\n"
+"ガイアキャンサー出現で皆が出動する度に、\n"
+"アイテムが飛ぶ様に売れてくからな。"
+msgstr ""
+
+#. ID 2, Page 3, Line 3, Pos (14,9)
+msgid ""
+"女性：\n"
+"アビリティスフィアの、レベル重複装備時の特殊効果は\n"
+"知ってるかしら？"
+msgstr ""
+
+#. ID 2, Page 3, Line 6, Pos (14,9)
+msgid ""
+"女性：\n"
+"「攻撃魔法レベル１」のＡスフィアを２個装備すれば、\n"
+"レベル２までの攻撃魔法が使えたりするってやつね。"
+msgstr ""
+
+#. ID 2, Page 3, Line 9, Pos (14,9)
+msgid ""
+"女性：\n"
+"これ、レベル６が重複した場合は効果がちょっと\n"
+"違ってくるのよね。"
+msgstr ""
+
+#. ID 2, Page 3, Line 12, Pos (14,9)
+msgid ""
+"女性：\n"
+"既にレベル６の魔法が使える状態で、\n"
+"更にレベル６のＡスフィアを装備すると…。"
+msgstr ""
+
+#. ID 2, Page 3, Line 15, Pos (14,9)
+msgid ""
+"女性：\n"
+"その系統の、全ての魔法の消費TPが少し低下したり、\n"
+"AWTが画面表記の値よりも少し低下したり、\n"
+"ダメージや回復量も少し増加するの。"
+msgstr ""
+
+#. ID 2, Page 3, Line 19, Pos (14,9)
+msgid ""
+"女性：\n"
+"だからレベル６のＡスフィアが重複した場合も\n"
+"無駄にはならないわよ。"
+msgstr ""
+
+#. ID 3, Page 1, Line 8, Pos (7,9)
+#. Contains choice at line 2 (3 options)
+msgid "店員：いらっしゃい！"
+msgstr ""
+
+#. ID 3, Page 1, Line 9, Pos (7,9)
+#. Choice (3 options, embedded in a message)
+#. ID 8, Page 1, Line 8, Pos (7,11)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>購入\n"
+"\\>売却\n"
+"\\>雑談"
+msgstr ""
+
+#. ID 3, Page 1, Line 17, Pos (7,9)
+msgid ""
+"店員：\n"
+"Ｔスフィアのオールグリーンは不利状態対策として\n"
+"便利だけど、万能って訳でもないんだよな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 20, Pos (7,9)
+msgid ""
+"店員：\n"
+"１個装備するだけじゃ麻痺や石化は治せないし、\n"
+"何度も使いまくってると\n"
+"ＴＰの消費量も馬鹿にならないからな。"
+msgstr ""
+
+#. ID 3, Page 1, Line 24, Pos (7,9)
+msgid ""
+"店員：\n"
+"使うなら時と場合をよく考えないとな！"
+msgstr ""
+
+#. ID 3, Page 1, Line 34, Pos (7,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"店員：\n"
+"いらっしゃい！"
+msgstr ""
+
+#. ID 3, Page 1, Line 36, Pos (7,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"購入\n"
+"売却"
+msgstr ""
+
+#. ID 8, Page 1, Line 7, Pos (7,11)
+#. Contains choice at line 2 (3 options)
+msgid "店員：いらっしゃいッ！"
+msgstr ""
+
+#. ID 8, Page 1, Line 17, Pos (7,11)
+msgid ""
+"店員：\n"
+"インヴェストスフィアは買ってるかい？\n"
+"そろそろ属性や不利状態の耐性も考えないとな。"
+msgstr ""
+
+#. ID 8, Page 1, Line 20, Pos (7,11)
+msgid ""
+"店員：\n"
+"守りを固めるにしろ攻撃を強化するにしろ、\n"
+"インヴェストスフィアの効果が上手くハマれば\n"
+"かなり有利に戦えるぞ！"
+msgstr ""
+
