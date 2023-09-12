@@ -19,3 +19,7 @@ Chinese translation project for Seraphic Blue
 repo里面的语言文件都是.po文件，可以使用像PoEdit这样的软件进行修改。
 
 如果有其他讨论的也可以提交issue或者加入QQ群691987042。
+
+# 使用补丁
+
+使用补丁需要你拥有一份Seraphic Blue DC Altered版本的游戏和EasyRPG这个软件。将Language这个文件夹放入游戏目录，之后启动EasyRPG就可以了。
